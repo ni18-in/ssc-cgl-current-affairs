@@ -100,7 +100,7 @@ current-affairs/
 ## 🚀 GitHub Pages Setup
 
 1. In GitHub Repository Settings, navigate to **Pages**.
-2. Select **Deploy from a branch** under Source.
+2. Select **Deploy from a branch** under Source..
 3. Choose branch `main` (or `master`) and directory `/ (root)`.
 4. The live site will be accessible at:
    `https://<username>.github.io/<repo-name>/`
