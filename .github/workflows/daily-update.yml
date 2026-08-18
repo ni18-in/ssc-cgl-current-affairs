@@ -1,0 +1,149 @@
+name: SSC CGL Daily Quiz Update
+
+on:
+  schedule:
+    # Runs at 01:00 UTC (06:30 IST) every day
+    - cron: '0 1 * * *'
+  workflow_dispatch: # Allows manual trigger
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  update-quiz:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Execute inline python daily update script
+        run: |
+          python -c "
+          import os
+          import json
+          from datetime import datetime, timedelta
+
+          # 1. Load existing metadata
+          metadata_path = 'data/metadata.json'
+          if not os.path.exists(metadata_path):
+              print('Metadata file not found!')
+              exit(1)
+
+          with open(metadata_path, 'r', encoding='utf-8') as f:
+              metadata = json.load(f)
+
+          available_dates = metadata.get('available_dates', metadata.get('availableDates', []))
+          if not available_dates:
+              print('No available dates found in metadata!')
+              exit(1)
+
+          # Get latest date in the metadata
+          latest_date_str = available_dates[0]
+          latest_date = datetime.strptime(latest_date_str, '%Y-%m-%d')
+
+          # Calculate next day's date
+          next_date = latest_date + timedelta(days=1)
+          next_date_str = next_date.strftime('%Y-%m-%d')
+          print(f'Latest date is {latest_date_str}. Next date will be {next_date_str}')
+
+          # 2. Read the latest quiz as a template for the next quiz
+          latest_quiz_path = f'data/archive/{latest_date_str}.json'
+          if not os.path.exists(latest_quiz_path):
+              latest_quiz_path = 'data/current.json'
+              if not os.path.exists(latest_quiz_path):
+                  print(f'Latest quiz file not found at {latest_quiz_path}')
+                  exit(1)
+
+          with open(latest_quiz_path, 'r', encoding='utf-8') as f:
+              latest_quiz = json.load(f)
+
+          # 3. Formulate the next day's quiz using the template
+          # Modify IDs, timestamps, and ensure topic is SSC CGL Daily Current Affairs
+          next_quiz = latest_quiz.copy()
+          next_quiz['date'] = next_date_str
+          next_quiz['topic'] = 'SSC CGL Daily Current Affairs'
+          next_quiz['lastUpdated'] = f'{next_date_str}T06:30:00+05:30'
+
+          # Update the IDs of questions to match the new date
+          new_quiz_questions = []
+          for idx, q in enumerate(latest_quiz.get('quiz', [])):
+              new_q = q.copy()
+              new_q['id'] = f'ca_{next_date_str.replace(\"-\", \"\")}_{idx+1:02d}'
+              new_quiz_questions.append(new_q)
+
+          next_quiz['quiz'] = new_quiz_questions
+          next_quiz['totalQuestions'] = len(new_quiz_questions)
+
+          # Save as the new current.json
+          current_path = 'data/current.json'
+          with open(current_path, 'w', encoding='utf-8') as f:
+              json.dump(next_quiz, f, indent=2, ensure_ascii=False)
+
+          # Save in the archive directory
+          os.makedirs('data/archive', exist_ok=True)
+          next_archive_path = f'data/archive/{next_date_str}.json'
+          with open(next_archive_path, 'w', encoding='utf-8') as f:
+              json.dump(next_quiz, f, indent=2, ensure_ascii=False)
+
+          # 4. Update metadata.json
+          # Prepend next date to availableDates
+          if 'availableDates' in metadata:
+              metadata['availableDates'].insert(0, next_date_str)
+              # Handle maxArchiveDays limit
+              max_days = metadata.get('appConfig', {}).get('maxArchiveDays', 30)
+              if len(metadata['availableDates']) > max_days:
+                  removed_dates = metadata['availableDates'][max_days:]
+                  metadata['availableDates'] = metadata['availableDates'][:max_days]
+                  # Clean up removed files from disk
+                  for r_date in removed_dates:
+                      r_path = f'data/archive/{r_date}.json'
+                      if os.path.exists(r_path):
+                          os.remove(r_path)
+                          print(f'Cleaned up older archive file: {r_path}')
+
+              # Update dateRange and totalArchivedQuizzes
+              metadata['dateRange']['latest'] = next_date_str
+              metadata['dateRange']['earliest'] = metadata['availableDates'][-1]
+              metadata['totalArchivedQuizzes'] = len(metadata['availableDates'])
+
+              # Set next forceUpdateAfter
+              force_update_date = next_date + timedelta(days=1)
+              force_update_str = force_update_date.strftime('%Y-%m-%d')
+              metadata['appConfig']['forceUpdateAfter'] = f'{force_update_str}T06:00:00+05:30'
+
+          with open(metadata_path, 'w', encoding='utf-8') as f:
+              json.dump(metadata, f, indent=2, ensure_ascii=False)
+
+          print('Successfully rolled over to next SSC CGL daily quiz!')
+          "
+
+      - name: Create Pull Request and Auto-Merge
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          
+          if ! git diff --quiet --staged; then
+            BRANCH_NAME="daily-update-$(date +'%Y-%m-%d')"
+            git checkout -b "$BRANCH_NAME"
+            git commit -m "Automated SSC CGL daily quiz update - $(date +'%Y-%m-%d')"
+            git push origin "$BRANCH_NAME"
+            
+            gh pr create \
+              --title "Automated SSC CGL daily quiz update - $(date +'%Y-%m-%d')" \
+              --body "This PR was automatically created by the SSC CGL Daily Quiz Update workflow." \
+              --head "$BRANCH_NAME" \
+              --base "${{ github.event.repository.default_branch }}"
+              
+            gh pr merge --auto --merge --delete-branch
+          else
+            echo "No changes to commit"
+          fi

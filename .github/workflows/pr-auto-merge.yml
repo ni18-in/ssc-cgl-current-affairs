@@ -1,0 +1,32 @@
+name: PR Auto Merge & Validation
+
+on:
+  pull_request:
+    types: [opened, reopened, synchronize]
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  validate-and-merge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Validate JSON files
+        run: |
+          python -c "import glob, json; [json.load(open(f, encoding='utf-8')) for f in glob.glob('data/**/*.json', recursive=True)]"
+
+
+      - name: Enable Auto-Merge for PR
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh pr merge "${{ github.event.pull_request.html_url }}" --auto --merge --delete-branch

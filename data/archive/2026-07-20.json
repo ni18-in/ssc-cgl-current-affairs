@@ -1,0 +1,340 @@
+{
+  "date": "2026-07-20",
+  "topic": "SSC CGL Daily Current Affairs",
+  "source": "PIB / The Hindu / Economic Times / Indian Express / GKToday",
+  "lastUpdated": "2026-07-20T06:30:00+05:30",
+  "version": 1,
+  "totalQuestions": 10,
+  "quiz": [
+    {
+      "id": "ca_20260720_01",
+      "question": {
+        "en": "Which state was awarded the 1st prize in the 'Best State' category at the 6th National Water Awards organized by the Ministry of Jal Shakti?",
+        "hi": "जल शक्ति मंत्रालय द्वारा आयोजित छठे राष्ट्रीय जल पुरस्कारों में 'सर्वश्रेष्ठ राज्य' श्रेणी में किस राज्य को प्रथम पुरस्कार प्रदान किया गया?"
+      },
+      "options": [
+        {
+          "en": "Gujarat",
+          "hi": "गुजरात"
+        },
+        {
+          "en": "Haryana",
+          "hi": "हरियाणा"
+        },
+        {
+          "en": "Maharashtra",
+          "hi": "महाराष्ट्र"
+        },
+        {
+          "en": "Telangana",
+          "hi": "तेलंगाना"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Maharashtra secured 1st prize in the 'Best State' category at the 6th National Water Awards, followed by Gujarat and Haryana in second and third positions for outstanding water conservation practices.",
+        "hi": "जल संरक्षण के उत्कृष्ट प्रयासों के लिए छठे राष्ट्रीय जल पुरस्कारों में महाराष्ट्र ने 'सर्वश्रेष्ठ राज्य' श्रेणी में प्रथम स्थान प्राप्त किया, जबकि गुजरात और हरियाणा क्रमशः दूसरे और तीसरे स्थान पर रहे।"
+      },
+      "category": "National & Awards",
+      "difficulty": "easy",
+      "sourceUrl": "https://pib.gov.in"
+    },
+    {
+      "id": "ca_20260720_02",
+      "question": {
+        "en": "What is the primary objective of the PM-AASHA (Pradhan Mantri Annadata Aay Sanraksan Abhiyan) scheme approved for continuation?",
+        "hi": "जारी रखने के लिए स्वीकृत 'पीएम-आशा' (प्रधानमंत्री अन्नदाता आय संरक्षण अभियान) योजना का प्राथमिक उद्देश्य क्या है?"
+      },
+      "options": [
+        {
+          "en": "Providing free crop seeds to marginal farmers",
+          "hi": "सीमांत किसानों को मुफ्त फसल बीज उपलब्ध कराना"
+        },
+        {
+          "en": "Ensuring remunerative prices to farmers for oilseeds, pulses, and copra",
+          "hi": "तिलहन, दलहन और खोपरा के लिए किसानों को लाभकारी मूल्य सुनिश्चित करना"
+        },
+        {
+          "en": "Zero-interest micro loans for dairy farming",
+          "hi": "डेयरी फार्मिंग के लिए शून्य-ब्याज सूक्ष्म ऋण"
+        },
+        {
+          "en": "Solarisation of agricultural feeder lines",
+          "hi": "कृषि फीडर लाइनों का सौरकरण"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "PM-AASHA protects farmers against distress sales by procuring pulses, oilseeds, and copra at Minimum Support Price (MSP) through the Price Support Scheme (PSS) and Price Deficiency Payment Scheme (PDPS).",
+        "hi": "पीएम-आशा योजना मूल्य समर्थन योजना (PSS) और मूल्य न्यूनता भुगतान योजना (PDPS) के माध्यम से न्यूनतम समर्थन मूल्य (MSP) पर दलहन, तिलहन और खोपरा की खरीद करके किसानों को संकटपूर्ण बिक्री से बचाती है।"
+      },
+      "category": "Government Schemes",
+      "difficulty": "medium",
+      "sourceUrl": "https://pib.gov.in"
+    },
+    {
+      "id": "ca_20260720_03",
+      "question": {
+        "en": "Which country assumed the rotating Presidency of the Shanghai Cooperation Organisation (SCO) for the year 2026-2027?",
+        "hi": "किस देश ने वर्ष 2026-2027 के लिए शंघाई सहयोग संगठन (SCO) की चक्रीय अध्यक्षता ग्रहण की?"
+      },
+      "options": [
+        {
+          "en": "India",
+          "hi": "भारत"
+        },
+        {
+          "en": "China",
+          "hi": "चीन"
+        },
+        {
+          "en": "Kazakhstan",
+          "hi": "कजाकिस्तान"
+        },
+        {
+          "en": "Russia",
+          "hi": "रूस"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "China assumed the rotating presidency of the SCO following the Astana Summit, steering collaborative security, trade, and regional initiatives among the 10 member states including India.",
+        "hi": "अस्ताना शिखर सम्मेलन के बाद चीन ने एससीओ की घूर्णन अध्यक्षता ग्रहण की, जो भारत सहित 10 सदस्य देशों के बीच सहयोगात्मक सुरक्षा, व्यापार और क्षेत्रीय पहलों का नेतृत्व करता है।"
+      },
+      "category": "International Summits",
+      "difficulty": "medium",
+      "sourceUrl": "https://pib.gov.in"
+    },
+    {
+      "id": "ca_20260720_04",
+      "question": {
+        "en": "The Reserve Bank of India (RBI) launched the 'PRAVAAH' portal. What does PRAVAAH stand for?",
+        "hi": "भारतीय रिजर्व बैंक (RBI) ने 'PRAVAAH' पोर्टल लॉन्च किया। PRAVAAH का पूर्ण रूप क्या है?"
+      },
+      "options": [
+        {
+          "en": "Platform for Regulatory Application, VAlidation And AutHorisation",
+          "hi": "Platform for Regulatory Application, VAlidation And AutHorisation"
+        },
+        {
+          "en": "Payment Recovery And Vigilance Action Automation Hub",
+          "hi": "Payment Recovery And Vigilance Action Automation Hub"
+        },
+        {
+          "en": "Public Risk Assessment, Valuation And Audit Hierarchy",
+          "hi": "Public Risk Assessment, Valuation And Audit Hierarchy"
+        },
+        {
+          "en": "Policy Regulation, Assets Valuation And Analytics Hub",
+          "hi": "Policy Regulation, Assets Valuation And Analytics Hub"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "PRAVAAH (Platform for Regulatory Application, VAlidation And AutHorisation) is a secure, centralised web-based portal developed by RBI to streamline the process of applying for regulatory approvals, licenses, and authorisations.",
+        "hi": "प्रवाह (Platform for Regulatory Application, VAlidation And AutHorisation) आरबीआई द्वारा विकसित एक सुरक्षित, केंद्रीकृत वेब पोर्टल है जिसका उद्देश्य विनियामक स्वीकृतियों, लाइसेंसों और प्राधिकरणों के लिए आवेदन प्रक्रिया को सुव्यवस्थित करना है।"
+      },
+      "category": "Banking & Economy",
+      "difficulty": "hard",
+      "sourceUrl": "https://rbi.org.in"
+    },
+    {
+      "id": "ca_20260720_05",
+      "question": {
+        "en": "ISRO successfully launched the INSAT-3DS meteorological satellite using which launch vehicle?",
+        "hi": "इसरो ने किस प्रक्षेपण यान का उपयोग करके इनसैट-3डीएस (INSAT-3DS) मौसम संबंधी उपग्रह को सफलतापूर्वक लॉन्च किया?"
+      },
+      "options": [
+        {
+          "en": "PSLV-C58",
+          "hi": "PSLV-C58"
+        },
+        {
+          "en": "GSLV-F14",
+          "hi": "GSLV-F14"
+        },
+        {
+          "en": "LVM3-M4",
+          "hi": "LVM3-M4"
+        },
+        {
+          "en": "SSLV-D2",
+          "hi": "SSLV-D2"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "ISRO launched the INSAT-3DS satellite into Geosynchronous Transfer Orbit (GTO) aboard the GSLV-F14 rocket from Sriharikota to enhance climate monitoring and meteorological forecasts.",
+        "hi": "इसरो ने जलवायु निगरानी और मौसम संबंधी पूर्वानुमानों को बढ़ाने के लिए श्रीहरिकोटा से GSLV-F14 रॉकेट के जरिए INSAT-3DS उपग्रह को भू-समकालिक स्थानांतरण कक्षा (GTO) में प्रक्षेपित किया।"
+      },
+      "category": "Science & Space",
+      "difficulty": "medium",
+      "sourceUrl": "https://isro.gov.in"
+    },
+    {
+      "id": "ca_20260720_06",
+      "question": {
+        "en": "Who won the Men's Singles title at the Wimbledon Tennis Championships 2024 by defeating Novak Djokovic in straight sets?",
+        "hi": "नोवाक जोकोविच को सीधे सेटों में हराकर विंबलडन टेनिस चैंपियनशिप 2024 में पुरुष एकल का खिताब किसने जीता?"
+      },
+      "options": [
+        {
+          "en": "Jannik Sinner",
+          "hi": "यानिक सिनर"
+        },
+        {
+          "en": "Carlos Alcaraz",
+          "hi": "कार्लोस अल्काराज़"
+        },
+        {
+          "en": "Daniil Medvedev",
+          "hi": "डेनियल मेदवेदेव"
+        },
+        {
+          "en": "Alexander Zverev",
+          "hi": "अलेक्जेंडर ज्वेरेव"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Spain's Carlos Alcaraz defeated Novak Djokovic 6-2, 6-2, 7-6 at Centre Court to defend his Wimbledon Men's Singles title, winning his fourth Grand Slam trophy.",
+        "hi": "स्पेन के कार्लोस अल्काराज़ ने सेंटर कोर्ट में नोवाक जोकोविच को 6-2, 6-2, 7-6 से हराकर अपने विंबलडन पुरुष एकल खिताब का बचाव किया और अपना चौथा ग्रैंड स्लैम खिताब जीता।"
+      },
+      "category": "Sports",
+      "difficulty": "easy",
+      "sourceUrl": "https://wimbledon.com"
+    },
+    {
+      "id": "ca_20260720_07",
+      "question": {
+        "en": "Which Indian airport became the first airport in the country to achieve Net Zero Carbon Emission (Level 5) accreditation under the Airport Carbon Accreditation programme?",
+        "hi": "एयरपोर्ट कार्बन प्रत्यायन कार्यक्रम के तहत नेट ज़ीरो कार्बन उत्सर्जन (स्तर 5) प्रमाणन प्राप्त करने वाला देश का पहला हवाई अड्डा कौन सा बना?"
+      },
+      "options": [
+        {
+          "en": "Indira Gandhi International Airport, New Delhi",
+          "hi": "इंदिरा गांधी अंतरराष्ट्रीय हवाई अड्डा, नई दिल्ली"
+        },
+        {
+          "en": "Kempegowda International Airport, Bengaluru",
+          "hi": "केम्पेगौड़ा अंतरराष्ट्रीय हवाई अड्डा, बेंगलुरु"
+        },
+        {
+          "en": "Cochin International Airport, Kochi",
+          "hi": "कोचीन अंतरराष्ट्रीय हवाई अड्डा, कोच्चि"
+        },
+        {
+          "en": "Chhatrapati Shivaji Maharaj International Airport, Mumbai",
+          "hi": "छत्रपति शिवाजी महाराज अंतरराष्ट्रीय हवाई अड्डा, मुंबई"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "Delhi International Airport Limited (DIAL) announced that Indira Gandhi International Airport achieved Level 5 Net Zero carbon emission accreditation from Airports Council International (ACI).",
+        "hi": "दिल्ली इंटरनेशनल एयरपोर्ट लिमिटेड (DIAL) ने घोषणा की कि इंदिरा गांधी अंतरराष्ट्रीय हवाई अड्डे ने एयरपोर्ट्स काउंसिल इंटरनेशनल (ACI) से लेवल 5 नेट जीरो कार्बन उत्सर्जन मान्यता प्राप्त की है।"
+      },
+      "category": "Environment & Infrastructure",
+      "difficulty": "medium",
+      "sourceUrl": "https://pib.gov.in"
+    },
+    {
+      "id": "ca_20260720_08",
+      "question": {
+        "en": "Which naval exercise was hosted by the Indian Navy at Visakhapatnam featuring participation from over 50 friendly foreign nations?",
+        "hi": "भारतीय नौसेना द्वारा विशाखापट्टनम में 50 से अधिक मित्र विदेशी देशों की भागीदारी वाला कौन सा नौसैनिक अभ्यास आयोजित किया गया था?"
+      },
+      "options": [
+        {
+          "en": "Exercise VARUNA",
+          "hi": "अभ्यास वरुणा"
+        },
+        {
+          "en": "Exercise MALABAR",
+          "hi": "अभ्यास मालाबार"
+        },
+        {
+          "en": "Exercise MILAN",
+          "hi": "अभ्यास मिलन (MILAN)"
+        },
+        {
+          "en": "Exercise SAMUDRA SHAKTI",
+          "hi": "अभ्यास समुद्र शक्ति"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Exercise MILAN is the premier multilateral naval exercise hosted biennially by the Indian Navy in Visakhapatnam, fostering maritime cooperation and interoperability.",
+        "hi": "अभ्यास मिलन (MILAN) भारतीय नौसेना द्वारा विशाखापट्टनम में द्विवार्षिक रूप से आयोजित प्रमुख बहुपक्षीय नौसैनिक अभ्यास है, जो समुद्री सहयोग और पारस्परिकता को बढ़ावा देता है।"
+      },
+      "category": "Defence & Security",
+      "difficulty": "easy",
+      "sourceUrl": "https://indiannavy.nic.in"
+    },
+    {
+      "id": "ca_20260720_09",
+      "question": {
+        "en": "Who is the ex-officio Chairman of the National Disaster Management Authority (NDMA) in India?",
+        "hi": "भारत में राष्ट्रीय आपदा प्रबंधन प्राधिकरण (NDMA) के पदेन अध्यक्ष कौन होते हैं?"
+      },
+      "options": [
+        {
+          "en": "Union Minister of Home Affairs",
+          "hi": "केंद्रीय गृह मंत्री"
+        },
+        {
+          "en": "Prime Minister of India",
+          "hi": "भारत के प्रधानमंत्री"
+        },
+        {
+          "en": "Cabinet Secretary",
+          "hi": "मंत्रिमंडल सचिव"
+        },
+        {
+          "en": "Chief of Defence Staff",
+          "hi": "चीफ ऑफ डिफेंस स्टाफ"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Under Section 3 of the Disaster Management Act, 2005, the Prime Minister of India is the ex-officio Chairperson of the National Disaster Management Authority (NDMA).",
+        "hi": "आपदा प्रबंधन अधिनियम, 2005 की धारा 3 के तहत, भारत के प्रधानमंत्री राष्ट्रीय आपदा प्रबंधन प्राधिकरण (NDMA) के पदेन अध्यक्ष होते हैं।"
+      },
+      "category": "Polity & Statutory Bodies",
+      "difficulty": "easy",
+      "sourceUrl": "https://ndma.gov.in"
+    },
+    {
+      "id": "ca_20260720_10",
+      "question": {
+        "en": "The Union Government celebrated 'National Space Day' on which date to commemorate the successful soft landing of Chandrayaan-3 on the Moon?",
+        "hi": "चंद्रमा पर चंद्रयान-3 की सफल सॉफ्ट लैंडिंग के उपलक्ष्य में केंद्र सरकार ने किस तारीख को 'राष्ट्रीय अंतरिक्ष दिवस' मनाया?"
+      },
+      "options": [
+        {
+          "en": "14th July",
+          "hi": "14 जुलाई"
+        },
+        {
+          "en": "23rd August",
+          "hi": "23 अगस्त"
+        },
+        {
+          "en": "2nd September",
+          "hi": "2 सितंबर"
+        },
+        {
+          "en": "28th October",
+          "hi": "28 अक्टूबर"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "August 23 is officially designated as National Space Day in India to commemorate the historic landing of Chandrayaan-3's Vikram Lander near the lunar South Pole at the Shiv Shakti Point in 2023.",
+        "hi": "भारत में 2023 में 'शिव शक्ति पॉइंट' पर चंद्रयान-3 के विक्रम लैंडर के चंद्रमा के दक्षिणी ध्रुव पर ऐतिहासिक लैंडिंग की याद में 23 अगस्त को आधिकारिक तौर पर राष्ट्रीय अंतरिक्ष दिवस घोषित किया गया है।"
+      },
+      "category": "Science & Space",
+      "difficulty": "easy",
+      "sourceUrl": "https://isro.gov.in"
+    }
+  ]
+}

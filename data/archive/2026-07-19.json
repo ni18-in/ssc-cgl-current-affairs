@@ -1,0 +1,340 @@
+{
+  "date": "2026-07-19",
+  "topic": "SSC CGL Daily Current Affairs",
+  "source": "PIB / The Hindu / Economic Times / Indian Express / GKToday",
+  "lastUpdated": "2026-07-19T06:30:00+05:30",
+  "version": 1,
+  "totalQuestions": 10,
+  "quiz": [
+    {
+      "id": "ca_20260719_01",
+      "question": {
+        "en": "Which country hosted the 2024 ICC Men's T20 World Cup alongside the West Indies?",
+        "hi": "वेस्टइंडीज के साथ मिलकर किस देश ने 2024 आईसीसी पुरुष टी20 विश्व कप की सह-मेजबानी की?"
+      },
+      "options": [
+        {
+          "en": "Canada",
+          "hi": "कनाडा"
+        },
+        {
+          "en": "United States of America (USA)",
+          "hi": "संयुक्त राज्य अमेरिका (USA)"
+        },
+        {
+          "en": "South Africa",
+          "hi": "दक्षिण अफ्रीका"
+        },
+        {
+          "en": "Australia",
+          "hi": "ऑस्ट्रेलिया"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The 2024 ICC Men's T20 World Cup was co-hosted by the West Indies and the United States from 1 to 29 June 2024. India won the championship by defeating South Africa in the final at Bridgetown, Barbados.",
+        "hi": "2024 आईसीसी पुरुष टी20 विश्व कप की सह-मेजबानी 1 से 29 जून 2024 तक वेस्टइंडीज और संयुक्त राज्य अमेरिका द्वारा की गई थी। ब्रिजटाउन, बारबाडोस में फाइनल में दक्षिण अफ्रीका को हराकर भारत ने यह खिताब जीता।"
+      },
+      "category": "Sports",
+      "difficulty": "easy",
+      "sourceUrl": "https://icc-cricket.com"
+    },
+    {
+      "id": "ca_20260719_02",
+      "question": {
+        "en": "Which classical dance exponent and Padma Vibhushan recipient was honored posthumously at the 70th National Film Awards for choreography?",
+        "hi": "किस शास्त्रीय नृत्य प्रतिपादक और पद्म विभूषण प्राप्तकर्ता को कोरियोग्राफी के लिए 70वें राष्ट्रीय फिल्म पुरस्कारों में मरणोपरांत सम्मानित किया गया?"
+      },
+      "options": [
+        {
+          "en": "Birju Maharaj",
+          "hi": "पंडित बिरजू महाराज"
+        },
+        {
+          "en": "Kelucharan Mohapatra",
+          "hi": "केलुचरण महापात्र"
+        },
+        {
+          "en": "Sonal Mansingh",
+          "hi": "सोनल मानसिंह"
+        },
+        {
+          "en": "Yamini Krishnamurthy",
+          "hi": "यामिनी कृष्णमूर्ति"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "Kathak maestro Pandit Birju Maharaj was awarded posthumously for Best Choreography at the National Film Awards, recognizing his lifelong contributions to Indian classical dance and cinematic arts.",
+        "hi": "कथक के महान प्रतिपादक पंडित बिरजू महाराज को राष्ट्रीय फिल्म पुरस्कारों में सर्वश्रेष्ठ कोरियोग्राफी के लिए मरणोपरांत सम्मानित किया गया, जो भारतीय शास्त्रीय नृत्य और सिनेमाई कला में उनके आजीवन योगदान को मान्यता देता है।"
+      },
+      "category": "Art & Culture",
+      "difficulty": "medium",
+      "sourceUrl": "https://pib.gov.in"
+    },
+    {
+      "id": "ca_20260719_03",
+      "question": {
+        "en": "Under the PM-eBus Sewa scheme, how many electric buses are targeted to be deployed across Indian cities on a Public-Private Partnership (PPP) model?",
+        "hi": "'पीएम-ईबस सेवा' योजना के तहत सार्वजनिक-निजी भागीदारी (PPP) मॉडल पर भारतीय शहरों में कितनी इलेक्ट्रिक बसें तैनात करने का लक्ष्य है?"
+      },
+      "options": [
+        {
+          "en": "5,000 e-buses",
+          "hi": "5,000 ई-बसें"
+        },
+        {
+          "en": "10,000 e-buses",
+          "hi": "10,000 ई-बसें"
+        },
+        {
+          "en": "20,000 e-buses",
+          "hi": "20,000 ई-बसें"
+        },
+        {
+          "en": "50,000 e-buses",
+          "hi": "50,000 ई-बसें"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "PM-eBus Sewa has an estimated cost of ₹57,613 crore, aiming to deploy 10,000 electric buses in cities with populations of 3 lakh to 40 lakh to enhance green urban mobility.",
+        "hi": "पीएम-ईबस सेवा की अनुमानित लागत ₹57,613 करोड़ है, जिसका उद्देश्य हरित शहरी गतिशीलता को बढ़ाने के लिए 3 लाख से 40 लाख की आबादी वाले शहरों में 10,000 इलेक्ट्रिक बसें तैनात करना है।"
+      },
+      "category": "Government Schemes",
+      "difficulty": "medium",
+      "sourceUrl": "https://mohua.gov.in"
+    },
+    {
+      "id": "ca_20260719_04",
+      "question": {
+        "en": "Which country became the newest permanent member to officially join the BRICS grouping in 2024?",
+        "hi": "वर्ष 2024 में कौन सा देश आधिकारिक तौर पर ब्रिक्स (BRICS) समूह में शामिल होने वाला नवीनतम स्थायी सदस्य बना?"
+      },
+      "options": [
+        {
+          "en": "Egypt, Ethiopia, Iran, UAE",
+          "hi": "मिस्र, इथियोपिया, ईरान, यूएई"
+        },
+        {
+          "en": "Argentina & Turkey",
+          "hi": "अर्जेंटीना और तुर्की"
+        },
+        {
+          "en": "Indonesia & Malaysia",
+          "hi": "इंडोनेशिया और मलेशिया"
+        },
+        {
+          "en": "Nigeria & Kenya",
+          "hi": "नाइजीरिया और केन्या"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "On January 1, 2024, BRICS officially welcomed Egypt, Ethiopia, Iran, and the United Arab Emirates as new full members, expanding the bloc's global geopolitical footprint.",
+        "hi": "1 जनवरी 2024 को, ब्रिक्स ने आधिकारिक तौर पर मिस्र, इथियोपिया, ईरान और संयुक्त अरब अमीरात को नए पूर्ण सदस्यों के रूप में शामिल किया, जिससे इस गुट का वैश्विक भू-राजनीतिक पदचिह्न विस्तारित हुआ।"
+      },
+      "category": "International Relations",
+      "difficulty": "easy",
+      "sourceUrl": "https://mea.gov.in"
+    },
+    {
+      "id": "ca_20260719_05",
+      "question": {
+        "en": "What is India's rank in the Global Innovation Index (GII) 2024 released by the World Intellectual Property Organization (WIPO)?",
+        "hi": "विश्व बौद्धिक संपदा संगठन (WIPO) द्वारा जारी ग्लोबल इनोवेशन इंडेक्स (GII) 2024 में भारत का स्थान क्या है?"
+      },
+      "options": [
+        {
+          "en": "39th",
+          "hi": "39वां"
+        },
+        {
+          "en": "40th",
+          "hi": "40वां"
+        },
+        {
+          "en": "48th",
+          "hi": "48वां"
+        },
+        {
+          "en": "52nd",
+          "hi": "52वां"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "India climbed to 39th rank among 133 economies in the Global Innovation Index 2024, maintaining its position as the top innovative nation in Central and Southern Asia.",
+        "hi": "ग्लोबल इनोवेशन इंडेक्स 2024 में 133 अर्थव्यवस्थाओं में भारत 39वें स्थान पर पहुंच गया, जिसने मध्य और दक्षिणी एशिया में शीर्ष नवोन्मेषी राष्ट्र के रूप में अपनी स्थिति बनाए रखी।"
+      },
+      "category": "Indices & Reports",
+      "difficulty": "medium",
+      "sourceUrl": "https://wipo.int"
+    },
+    {
+      "id": "ca_20260719_06",
+      "question": {
+        "en": "Who has been conferred the 58th Jnanpith Award (for year 2023) jointly alongside Sanskrit scholar Jagadguru Rambhadracharya?",
+        "hi": "संस्कृत विद्वान जगद्गुरु रामभद्राचार्य के साथ संयुक्त रूप से 58वें ज्ञानपीठ पुरस्कार (वर्ष 2023 के लिए) से किसे सम्मानित किया गया है?"
+      },
+      "options": [
+        {
+          "en": "Javed Akhtar",
+          "hi": "जावेद अख्तर"
+        },
+        {
+          "en": "Gulzar (Sampooran Singh Kalra)",
+          "hi": "गुलज़ार (सम्पूर्ण सिंह कालरा)"
+        },
+        {
+          "en": "Damodar Mauzo",
+          "hi": "दामोदर मौजो"
+        },
+        {
+          "en": "Amitav Ghosh",
+          "hi": "अमिताव घोष"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Renowned Urdu poet and lyricist Gulzar and distinguished Sanskrit scholar Jagadguru Rambhadracharya were jointly awarded the prestigious 58th Jnanpith Award.",
+        "hi": "प्रसिद्ध उर्दू कवि और गीतकार गुलज़ार और प्रतिष्ठित संस्कृत विद्वान जगद्गुरु रामभद्राचार्य को संयुक्त रूप से प्रतिष्ठित 58वें ज्ञानपीठ पुरस्कार से सम्मानित किया गया।"
+      },
+      "category": "Awards & Honours",
+      "difficulty": "easy",
+      "sourceUrl": "https://pib.gov.in"
+    },
+    {
+      "id": "ca_20260719_07",
+      "question": {
+        "en": "What is the name of India's first indigenous underwater unmanned vehicle (AUV) developed for mine detection and reconnaissance by DRDO?",
+        "hi": "डीआरडीओ द्वारा खदान का पता लगाने और टोह लेने के लिए विकसित भारत के पहले स्वदेशी स्वायत्त पानी के नीचे के वाहन (AUV) का नाम क्या है?"
+      },
+      "options": [
+        {
+          "en": "Neerakshi",
+          "hi": "नीराक्षी (Neerakshi)"
+        },
+        {
+          "en": "Varunastra",
+          "hi": "वरुणास्त्र"
+        },
+        {
+          "en": "Samudra",
+          "hi": "समुद्र"
+        },
+        {
+          "en": "Matsya-6000",
+          "hi": "मत्स्य-6000"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "Neerakshi ('Eyes in the Water') is India's first indigenous Autonomous Underwater Vehicle (AUV) designed to perform mine-countermeasure operations and underwater surveys.",
+        "hi": "'नीराक्षी' ('पानी में आँखें') खदान-रोधी अभियानों और पानी के नीचे सर्वेक्षण करने के लिए डिज़ाइन किया गया भारत का पहला स्वदेशी स्वायत्त अंडरवाटर व्हीकल (AUV) है।"
+      },
+      "category": "Defence & Security",
+      "difficulty": "medium",
+      "sourceUrl": "https://drdo.gov.in"
+    },
+    {
+      "id": "ca_20260719_08",
+      "question": {
+        "en": "Which state's Garba dance was inscribed on UNESCO's Representative List of the Intangible Cultural Heritage of Humanity?",
+        "hi": "किस राज्य के गरबा नृत्य को यूनेस्को की मानवता की अमूर्त सांस्कृतिक विरासत की प्रतिनिधि सूची में शामिल किया गया?"
+      },
+      "options": [
+        {
+          "en": "Rajasthan",
+          "hi": "राजस्थान"
+        },
+        {
+          "en": "Gujarat",
+          "hi": "गुजरात"
+        },
+        {
+          "en": "Madhya Pradesh",
+          "hi": "मध्य प्रदेश"
+        },
+        {
+          "en": "Punjab",
+          "hi": "पंजाब"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Gujarat's devotional folk dance 'Garba' performed during Navratri became the 15th intangible cultural heritage element from India to be inscribed on UNESCO's ICH list.",
+        "hi": "नवरात्रि के दौरान किया जाने वाला गुजरात का भक्तिमय लोक नृत्य 'गरबा' यूनेस्को की अमूर्त सांस्कृतिक विरासत (ICH) सूची में शामिल होने वाला भारत का 15वां तत्व बन गया।"
+      },
+      "category": "Art & Culture",
+      "difficulty": "easy",
+      "sourceUrl": "https://unesco.org"
+    },
+    {
+      "id": "ca_20260719_09",
+      "question": {
+        "en": "The Unified Payments Interface (UPI) developed by NPCI was officially integrated with Singapore's instant payment system named what?",
+        "hi": "NPCI द्वारा विकसित एकीकृत भुगतान इंटरफेस (UPI) को सिंगापुर के किस त्वरित भुगतान प्रणाली के साथ आधिकारिक तौर पर एकीकृत किया गया था?"
+      },
+      "options": [
+        {
+          "en": "PromptPay",
+          "hi": "PromptPay"
+        },
+        {
+          "en": "PayNow",
+          "hi": "PayNow"
+        },
+        {
+          "en": "FedNow",
+          "hi": "FedNow"
+        },
+        {
+          "en": "Pix",
+          "hi": "Pix"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The real-time linkage between India's UPI and Singapore's PayNow enables fast, secure, and low-cost cross-border fund transfers between mobile numbers.",
+        "hi": "भारत के UPI और सिंगापुर के PayNow के बीच वास्तविक समय लिंकेज मोबाइल नंबरों के बीच तेज़, सुरक्षित और कम लागत वाले सीमा पार फंड ट्रांसफर को सक्षम बनाता है।"
+      },
+      "category": "Economy & Technology",
+      "difficulty": "easy",
+      "sourceUrl": "https://npci.org.in"
+    },
+    {
+      "id": "ca_20260719_10",
+      "question": {
+        "en": "Which country is the host of the COP29 UN Climate Change Conference in 2024?",
+        "hi": "2024 में COP29 संयुक्त राष्ट्र जलवायु परिवर्तन सम्मेलन का मेजबान कौन सा देश है?"
+      },
+      "options": [
+        {
+          "en": "United Arab Emirates",
+          "hi": "संयुक्त अरब अमीरात"
+        },
+        {
+          "en": "Azerbaijan (Baku)",
+          "hi": "अज़रबैजान (बाकू)"
+        },
+        {
+          "en": "Brazil (Belem)",
+          "hi": "ब्राजील (बेलेम)"
+        },
+        {
+          "en": "Germany (Bonn)",
+          "hi": "जर्मनी (बॉन)"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Baku, Azerbaijan hosted COP29 of the UNFCCC with a primary focus on negotiating the New Collective Quantified Goal (NCQG) on climate finance.",
+        "hi": "बाकू, अज़रबैजान ने जलवायु वित्त पर नए सामूहिक परिमाणित लक्ष्य (NCQG) पर बातचीत पर प्राथमिक ध्यान देने के साथ UNFCCC के COP29 की मेजबानी की।"
+      },
+      "category": "Environment & Summits",
+      "difficulty": "easy",
+      "sourceUrl": "https://unfccc.int"
+    }
+  ]
+}
