@@ -1,340 +1,340 @@
 {
-  "date": "2026-08-18",
+  "date": "2026-08-19",
   "topic": "SSC CGL Daily Current Affairs",
   "source": "PIB / The Hindu / Economic Times / Indian Express / GKToday",
-  "lastUpdated": "2026-08-18T06:30:00+05:30",
+  "lastUpdated": "2026-08-19T23:30:00+05:30",
   "version": 1,
   "totalQuestions": 10,
   "quiz": [
     {
-      "id": "ca_20260818_01",
+      "id": "ca_20260819_01",
       "question": {
-        "en": "Recently, an India-based defence start-up successfully demonstrated a 'Rotating Detonation Engine' (RDE) at a DRDO facility. What is the primary advantage of an RDE over conventional gas turbines?",
-        "hi": "हाल ही में, भारत स्थित एक रक्षा स्टार्ट-अप ने DRDO सुविधा में 'रोटेटिंग डेटोनेशन इंजन' (RDE) का सफलतापूर्वक प्रदर्शन किया। पारंपरिक गैस टरबाइन की तुलना में RDE का प्राथमिक लाभ क्या है?"
+        "en": "Recently, which state government launched the 'Mukhyamantri Maiya Samman Yojana' (MMSY) to provide financial assistance to women aged 21-50 years?",
+        "hi": "हाल ही में, किस राज्य सरकार ने 21-50 वर्ष की महिलाओं को वित्तीय सहायता प्रदान करने के लिए 'मुख्यमंत्री मइयां सम्मान योजना' (MMSY) शुरू की है?"
       },
       "options": [
         {
-          "en": "It uses solar power instead of chemical fuel.",
-          "hi": "यह रासायनिक ईंधन के बजाय सौर ऊर्जा का उपयोग करता है।"
+          "en": "Madhya Pradesh",
+          "hi": "मध्य प्रदेश"
         },
         {
-          "en": "It uses rapid supersonic detonations to burn fuel, producing more thrust for the same amount of fuel.",
-          "hi": "यह ईंधन को जलाने के लिए तीव्र सुपरसोनिक विस्फोटों का उपयोग करता है, जिससे समान मात्रा में ईंधन के लिए अधिक थ्रस्ट उत्पन्न होता है।"
+          "en": "Jharkhand",
+          "hi": "झारखंड"
         },
         {
-          "en": "It relies entirely on electric propulsion for thrust.",
-          "hi": "यह थ्रस्ट के लिए पूरी तरह से इलेक्ट्रिक प्रणोदन पर निर्भर करता है।"
+          "en": "Rajasthan",
+          "hi": "राजस्थान"
         },
         {
-          "en": "It is exclusively designed for underwater applications.",
-          "hi": "इसे विशेष रूप से पानी के नीचे के अनुप्रयोगों के लिए डिज़ाइन किया गया है।"
+          "en": "Chhattisgarh",
+          "hi": "छत्तीसगढ़"
         }
       ],
       "correctAnswer": 1,
       "explanation": {
-        "en": "An RDE uses supersonic detonation to burn fuel, making it more efficient than conventional engines using subsonic deflagration. This produces more thrust per unit fuel, offering potential range, speed, and cost benefits.",
-        "hi": "एक RDE ईंधन को जलाने के लिए सुपरसोनिक विस्फोट का उपयोग करता है, जो इसे सबसोनिक दहन (deflagration) का उपयोग करने वाले पारंपरिक इंजनों की तुलना में अधिक कुशल बनाता है। यह प्रति इकाई ईंधन अधिक थ्रस्ट उत्पन्न करता है, जिससे संभावित रेंज, गति और लागत लाभ मिलते हैं।"
+        "en": "The Jharkhand Government launched the Mukhyamantri Maiya Samman Yojana (MMSY) to provide ₹1,000 per month as financial assistance to women aged between 21 and 50 years to empower them economically.",
+        "hi": "झारखंड सरकार ने 21 से 50 वर्ष की आयु की महिलाओं को आर्थिक रूप से सशक्त बनाने के लिए उन्हें वित्तीय सहायता के रूप में ₹1,000 प्रति माह प्रदान करने के लिए 'मुख्यमंत्री मइयां सम्मान योजना' (MMSY) शुरू की।"
       },
-      "category": "Science & Technology",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.thehindu.com/sci-tech/science/rotating-detonation-engines-the-science-and-the-promises/article71355953.ece"
+      "category": "Government Schemes",
+      "difficulty": "easy",
+      "sourceUrl": "https://pib.gov.in"
     },
     {
-      "id": "ca_20260818_02",
+      "id": "ca_20260819_02",
       "question": {
-        "en": "The historic Medak Fort, for which a special postal cover and stamp were recently launched, was built during the 12th century under the reign of which dynasty?",
-        "hi": "ऐतिहासिक मेडक किला, जिसके लिए हाल ही में एक विशेष डाक कवर और टिकट जारी किया गया था, 12वीं शताब्दी के दौरान किस राजवंश के शासनकाल में बनाया गया था?"
+        "en": "Which constitutional amendment act provides for the reservation of one-third of seats for women in the Lok Sabha and State Legislative Assemblies, as recently discussed in Parliament?",
+        "hi": "कौन सा संविधान संशोधन अधिनियम लोकसभा और राज्य विधानसभाओं में महिलाओं के लिए एक तिहाई सीटों के आरक्षण का प्रावधान करता है, जैसा कि हाल ही में संसद में चर्चा की गई थी?"
       },
       "options": [
         {
-          "en": "Chola Dynasty",
-          "hi": "चोल राजवंश"
+          "en": "104th Amendment Act",
+          "hi": "104वां संशोधन अधिनियम"
         },
         {
-          "en": "Vijayanagara Empire",
-          "hi": "विजयनगर साम्राज्य"
+          "en": "105th Amendment Act",
+          "hi": "105वां संशोधन अधिनियम"
         },
         {
-          "en": "Kakatiya Dynasty",
-          "hi": "काकतीय राजवंश"
+          "en": "106th Amendment Act",
+          "hi": "106वां संशोधन अधिनियम"
         },
         {
-          "en": "Maratha Empire",
-          "hi": "मराठा साम्राज्य"
+          "en": "107th Amendment Act",
+          "hi": "107वां संशोधन अधिनियम"
         }
       ],
       "correctAnswer": 2,
       "explanation": {
-        "en": "Medak Fort, located in Telangana, was built during the 12th century under the Kakatiya ruler Pratapa Rudra. It was originally called 'Methuku Durgam' and later served as a command post for the Qutub Shahis.",
-        "hi": "तेलंगाना में स्थित मेडक किला 12वीं सदी में काकतीय शासक प्रताप रुद्र के शासनकाल में बनाया गया था। इसे मूल रूप से 'मेथुकु दुर्गम' कहा जाता था और बाद में इसने कुतुब शाहियों के लिए एक कमांड पोस्ट के रूप में काम किया।"
+        "en": "The Constitution (106th Amendment) Act, 2023, also known as the Nari Shakti Vandan Adhiniyam, provides for a 33% reservation for women in the Lok Sabha, State Legislative Assemblies, and the Legislative Assembly of the NCT of Delhi.",
+        "hi": "संविधान (106वां संशोधन) अधिनियम, 2023, जिसे नारी शक्ति वंदन अधिनियम के रूप में भी जाना जाता है, लोकसभा, राज्य विधानसभाओं और दिल्ली के राष्ट्रीय राजधानी क्षेत्र की विधानसभा में महिलाओं के लिए 33% आरक्षण का प्रावधान करता है।"
       },
       "category": "Polity & Governance",
-      "difficulty": "hard",
-      "sourceUrl": "https://telanganatoday.com/postal-department-launches-special-cover-and-stamp-on-medak-fort"
+      "difficulty": "medium",
+      "sourceUrl": "https://pib.gov.in"
     },
     {
-      "id": "ca_20260818_03",
+      "id": "ca_20260819_03",
       "question": {
-        "en": "Which scheme was recently approved by the Ministry of Electronics and Information Technology (MeitY) to develop a robust domestic ecosystem for manufacturing select passive electronic components?",
-        "hi": "हाल ही में इलेक्ट्रॉनिक्स और सूचना प्रौद्योगिकी मंत्रालय (MeitY) द्वारा चुनिंदा निष्क्रिय इलेक्ट्रॉनिक घटकों (passive electronic components) के निर्माण के लिए एक मजबूत घरेलू पारिस्थितिकी तंत्र विकसित करने के लिए किस योजना को मंजूरी दी गई थी?"
+        "en": "According to the latest RBI monetary policy update, what is the current Repo Rate maintained by the Reserve Bank of India to control inflation?",
+        "hi": "आरबीआई की नवीनतम मौद्रिक नीति अद्यतन के अनुसार, मुद्रास्फीति को नियंत्रित करने के लिए भारतीय रिजर्व बैंक द्वारा बनाए रखा गया वर्तमान रेपो दर क्या है?"
       },
       "options": [
         {
-          "en": "Production Linked Incentive (PLI) 2.0",
-          "hi": "उत्पादन लिंक्ड प्रोत्साहन (PLI) 2.0"
+          "en": "6.25%",
+          "hi": "6.25%"
         },
         {
-          "en": "Electronics Components Manufacturing Scheme (ECMS)",
-          "hi": "इलेक्ट्रॉनिक्स घटक विनिर्माण योजना (ECMS)"
+          "en": "6.50%",
+          "hi": "6.50%"
         },
         {
-          "en": "Digital India Hardware Scheme",
-          "hi": "डिजिटल इंडिया हार्डवेयर योजना"
+          "en": "6.75%",
+          "hi": "6.75%"
         },
         {
-          "en": "Make in India Semiconductor Mission",
-          "hi": "मेक इन इंडिया सेमीकंडक्टर मिशन"
+          "en": "6.00%",
+          "hi": "6.00%"
         }
       ],
       "correctAnswer": 1,
       "explanation": {
-        "en": "The ECMS, launched by MeitY, aims to integrate the domestic electronic industry with Global Value Chains. It focuses particularly on passive components, while active components fall under the India Semiconductor Mission (ISM).",
-        "hi": "MeitY द्वारा शुरू की गई ECMS का उद्देश्य घरेलू इलेक्ट्रॉनिक उद्योग को वैश्विक मूल्य श्रृंखला (GVC) के साथ एकीकृत करना है। यह विशेष रूप से निष्क्रिय घटकों पर केंद्रित है, जबकि सक्रिय घटक भारत सेमीकंडक्टर मिशन (ISM) के अंतर्गत आते हैं।"
+        "en": "The Monetary Policy Committee (MPC) of the Reserve Bank of India decided to keep the policy repo rate unchanged at 6.50% for the eighth consecutive time to ensure inflation aligns with the target while supporting growth.",
+        "hi": "भारतीय रिजर्व बैंक की मौद्रिक नीति समिति (MPC) ने विकास का समर्थन करते हुए मुद्रास्फीति को लक्ष्य के अनुरूप सुनिश्चित करने के लिए लगातार आठवीं बार नीतिगत रेपो दर को 6.50% पर अपरिवर्तित रखने का निर्णय लिया।"
       },
       "category": "Economy & Banking",
-      "difficulty": "medium",
-      "sourceUrl": "https://indianexpress.com/article/business/meity-approves-31-projects-electronics-components-manufacturing-scheme-ecms-10837452/lite/"
-    },
-    {
-      "id": "ca_20260818_04",
-      "question": {
-        "en": "The 'National Anubhav Awards', recently conferred by the Minister of State for Personnel, Public Grievances and Pensions, are given to recognize the contributions of which group of individuals?",
-        "hi": "हाल ही में कार्मिक, लोक शिकायत और पेंशन राज्य मंत्री द्वारा प्रदान किए गए 'राष्ट्रीय अनुभव पुरस्कार', किस समूह के व्यक्तियों के योगदान को मान्यता देने के लिए दिए जाते हैं?"
-      },
-      "options": [
-        {
-          "en": "Young Entrepreneurs in Tech Startups",
-          "hi": "टेक स्टार्टअप्स में युवा उद्यमी"
-        },
-        {
-          "en": "Retiring and recently retired Central Government employees",
-          "hi": "सेवानिवृत्त होने वाले और हाल ही में सेवानिवृत्त हुए केंद्र सरकार के कर्मचारी"
-        },
-        {
-          "en": "Teachers contributing to rural education",
-          "hi": "ग्रामीण शिक्षा में योगदान देने वाले शिक्षक"
-        },
-        {
-          "en": "Scientists working in ISRO and DRDO",
-          "hi": "इसरो और डीआरडीओ में काम कर रहे वैज्ञानिक"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "The National Anubhav Awards were launched in 2015 by the DoPPW to recognize outstanding contributions of Central Govt employees, CPSEs, and Public Sector Banks who are within 8 months of retirement or retired within 3 years.",
-        "hi": "राष्ट्रीय अनुभव पुरस्कार 2015 में DoPPW द्वारा केंद्र सरकार के कर्मचारियों, CPSEs और सार्वजनिक क्षेत्र के बैंकों के उत्कृष्ट योगदान को मान्यता देने के लिए शुरू किए गए थे, जो सेवानिवृत्ति के 8 महीने के भीतर हैं या 3 साल के भीतर सेवानिवृत्त हुए हैं।"
-      },
-      "category": "Awards & Honours",
       "difficulty": "easy",
-      "sourceUrl": "https://newsonair.gov.in/mos-jitendra-singh-confers-national-anubhav-awards-2026-on-15-awardees/"
+      "sourceUrl": "https://pib.gov.in"
     },
     {
-      "id": "ca_20260818_05",
+      "id": "ca_20260819_04",
       "question": {
-        "en": "Which of the following bodies recently launched its upgraded 'Appeal and Complaint Management System' (AppCoMS 2.0) portal for handling online cases?",
-        "hi": "निम्नलिखित में से किस निकाय ने हाल ही में ऑनलाइन मामलों को संभालने के लिए अपना अपग्रेडेड 'अपील और शिकायत प्रबंधन प्रणाली' (AppCoMS 2.0) पोर्टल लॉन्च किया है?"
+        "en": "India recently successfully tested the air-to-air missile 'Astra'. It is an indigenously developed Beyond Visual Range (BVR) missile created by which organisation?",
+        "hi": "भारत ने हाल ही में हवा से हवा में मार करने वाली मिसाइल 'अस्त्र' का सफल परीक्षण किया। यह स्वदेशी रूप से विकसित बियॉन्ड विजुअल रेंज (BVR) मिसाइल किस संगठन द्वारा बनाई गई है?"
       },
       "options": [
         {
-          "en": "Central Vigilance Commission (CVC)",
-          "hi": "केंद्रीय सतर्कता आयोग (CVC)"
+          "en": "Hindustan Aeronautics Limited (HAL)",
+          "hi": "हिंदुस्तान एयरोनॉटिक्स लिमिटेड (HAL)"
         },
         {
-          "en": "National Human Rights Commission (NHRC)",
-          "hi": "राष्ट्रीय मानवाधिकार आयोग (NHRC)"
+          "en": "Indian Space Research Organisation (ISRO)",
+          "hi": "भारतीय अंतरिक्ष अनुसंधान संगठन (ISRO)"
         },
         {
-          "en": "Central Information Commission (CIC)",
-          "hi": "केंद्रीय सूचना आयोग (CIC)"
+          "en": "Defence Research and Development Organisation (DRDO)",
+          "hi": "रक्षा अनुसंधान एवं विकास संगठन (DRDO)"
         },
         {
-          "en": "Election Commission of India (ECI)",
-          "hi": "भारत निर्वाचन आयोग (ECI)"
+          "en": "Bharat Dynamics Limited (BDL)",
+          "hi": "भारत डायनेमिक्स लिमिटेड (BDL)"
         }
       ],
       "correctAnswer": 2,
       "explanation": {
-        "en": "The Central Information Commission (CIC) launched AppCoMS 2.0 to enable citizens to file Second Appeals and Complaints online under the RTI Act, facilitating end-to-end digital processing of cases.",
-        "hi": "केंद्रीय सूचना आयोग (CIC) ने RTI अधिनियम के तहत नागरिकों को ऑनलाइन दूसरी अपील और शिकायतें दर्ज करने में सक्षम बनाने के लिए AppCoMS 2.0 लॉन्च किया, जिससे मामलों की एंड-टू-एंड डिजिटल प्रोसेसिंग की सुविधा मिली।"
-      },
-      "category": "Polity & Governance",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300631&lang=1&reg=3"
-    },
-    {
-      "id": "ca_20260818_06",
-      "question": {
-        "en": "Which indigenous stealth guided missile destroyer of the Indian Navy was recently visited by over 200 Indian students while it was berthed at Sultan Qaboos Port in Oman?",
-        "hi": "भारतीय नौसेना के किस स्वदेशी स्टील्थ गाइडेड मिसाइल विध्वंसक का हाल ही में 200 से अधिक भारतीय छात्रों ने दौरा किया, जब यह ओमान के सुल्तान काबूस बंदरगाह पर खड़ा था?"
-      },
-      "options": [
-        {
-          "en": "INS Mormugao",
-          "hi": "आईएनएस मोरमुगाओ"
-        },
-        {
-          "en": "INS Imphal",
-          "hi": "आईएनएस इंफाल"
-        },
-        {
-          "en": "INS Visakhapatnam",
-          "hi": "आईएनएस विशाखापत्तनम"
-        },
-        {
-          "en": "INS Surat",
-          "hi": "आईएनएस सूरत"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "INS Imphal is the third ship of the Project 15B series (Visakhapatnam-class) commissioned in Dec 2023. It is the first warship named after a Northeast city and the first with accommodation for women officers.",
-        "hi": "आईएनएस इंफाल प्रोजेक्ट 15B श्रृंखला (विशाखापत्तनम-क्लास) का तीसरा जहाज है जिसे दिसंबर 2023 में कमीशन किया गया था। यह पूर्वोत्तर के किसी शहर के नाम पर पहला युद्धपोत है और इसमें महिला अधिकारियों के रहने की सुविधा भी है।"
+        "en": "Astra is India's first indigenously developed Beyond Visual Range (BVR) air-to-air missile, designed and developed by the Defence Research and Development Organisation (DRDO) for the Indian Air Force.",
+        "hi": "अस्त्र भारत की पहली स्वदेशी रूप से विकसित बियॉन्ड विजुअल रेंज (BVR) हवा से हवा में मार करने वाली मिसाइल है, जिसे रक्षा अनुसंधान और विकास संगठन (DRDO) द्वारा भारतीय वायु सेना के लिए डिजाइन और विकसित किया गया है।"
       },
       "category": "Defence & Security",
       "difficulty": "easy",
-      "sourceUrl": "https://www.aninews.in/news/world/middle-east/over-200-students-visit-indian-warship-berthed-at-oman-port20260817132843/"
+      "sourceUrl": "https://pib.gov.in"
     },
     {
-      "id": "ca_20260818_07",
+      "id": "ca_20260819_05",
       "question": {
-        "en": "The 15th edition of the Joint Military Exercise 'MAITREE-XV (2026)' is being conducted between the Indian Army and the military forces of which country?",
-        "hi": "संयुक्त सैन्य अभ्यास 'मैत्री-XV (2026)' का 15वां संस्करण भारतीय सेना और किस देश के सैन्य बलों के बीच आयोजित किया जा रहा है?"
+        "en": "The European Space Agency's 'JUICE' mission, which recently completed a crucial lunar-Earth flyby, is primarily designed to explore which planet's icy moons?",
+        "hi": "यूरोपीय अंतरिक्ष एजेंसी का 'जूस' (JUICE) मिशन, जिसने हाल ही में एक महत्वपूर्ण चंद्र-पृथ्वी फ्लाईबाई पूरा किया, मुख्य रूप से किस ग्रह के बर्फीले चंद्रमाओं का पता लगाने के लिए डिज़ाइन किया गया है?"
       },
       "options": [
         {
-          "en": "Malaysia",
-          "hi": "मलेशिया"
+          "en": "Mars",
+          "hi": "मंगल"
         },
         {
-          "en": "Indonesia",
-          "hi": "इंडोनेशिया"
+          "en": "Saturn",
+          "hi": "शनि"
         },
         {
-          "en": "Thailand",
-          "hi": "थाईलैंड"
+          "en": "Jupiter",
+          "hi": "बृहस्पति"
         },
         {
-          "en": "Vietnam",
-          "hi": "वियतनाम"
+          "en": "Uranus",
+          "hi": "अरुण"
         }
       ],
       "correctAnswer": 2,
       "explanation": {
-        "en": "Exercise MAITREE is a joint military exercise between India and Thailand instituted in 2006. The 2026 edition focused on company-level joint training for operations in jungle and semi-urban terrain.",
-        "hi": "अभ्यास 'मैत्री' भारत और थाईलैंड के बीच एक संयुक्त सैन्य अभ्यास है जिसे 2006 में स्थापित किया गया था। 2026 के संस्करण में जंगल और अर्ध-शहरी इलाकों में संचालन के लिए कंपनी-स्तरीय संयुक्त प्रशिक्षण पर ध्यान केंद्रित किया गया।"
-      },
-      "category": "Defence & Security",
-      "difficulty": "easy",
-      "sourceUrl": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2300293&reg=48&lang=2"
-    },
-    {
-      "id": "ca_20260818_08",
-      "question": {
-        "en": "Huntington's disease, recently in the news due to potential new treatments, is caused by a genetic mutation in the HTT gene. Which region of the brain is primarily affected by the destruction of nerve cells in this disorder?",
-        "hi": "संभावित नए उपचारों के कारण हाल ही में चर्चा में रही 'हंटिंगटन रोग', HTT जीन में आनुवंशिक उत्परिवर्तन के कारण होता है। इस विकार में तंत्रिका कोशिकाओं के नष्ट होने से मस्तिष्क का कौन सा क्षेत्र मुख्य रूप से प्रभावित होता है?"
-      },
-      "options": [
-        {
-          "en": "Cerebellum",
-          "hi": "सेरिबैलम (अनुमस्तिष्क)"
-        },
-        {
-          "en": "Medulla Oblongata",
-          "hi": "मेड्युला ऑब्लोंगाटा"
-        },
-        {
-          "en": "Basal Ganglia",
-          "hi": "बेसल गैन्ग्लिया"
-        },
-        {
-          "en": "Hypothalamus",
-          "hi": "हाइपोथैलेमस"
-        }
-      ],
-      "correctAnswer": 2,
-      "explanation": {
-        "en": "In Huntington's Disease, the destruction of nerve cells primarily happens in the basal ganglia, the region that regulates body movements. It also affects the brain cortex regulating thinking, decision-making, and memory.",
-        "hi": "हंटिंगटन रोग में, तंत्रिका कोशिकाओं का विनाश मुख्य रूप से बेसल गैन्ग्लिया में होता है, वह क्षेत्र जो शरीर की गतिविधियों को नियंत्रित करता है। यह मस्तिष्क कॉर्टेक्स को भी प्रभावित करता है जो सोच, निर्णय लेने और स्मृति को नियंत्रित करता है।"
+        "en": "The Jupiter Icy Moons Explorer (JUICE) is a European Space Agency (ESA) mission launched to make detailed observations of the giant gas planet Jupiter and its three large ocean-bearing moons—Ganymede, Callisto, and Europa.",
+        "hi": "जुपिटर आईसी मून्स एक्सप्लोरर (JUICE) एक यूरोपीय अंतरिक्ष एजेंसी (ESA) का मिशन है जिसे विशाल गैस ग्रह बृहस्पति और उसके तीन बड़े महासागर वाले चंद्रमाओं- गेनीमेड, कैलिस्टो और यूरोपा का विस्तृत अवलोकन करने के लिए लॉन्च किया गया है।"
       },
       "category": "Science & Technology",
+      "difficulty": "medium",
+      "sourceUrl": "https://pib.gov.in"
+    },
+    {
+      "id": "ca_20260819_06",
+      "question": {
+        "en": "Who has been appointed as the new Chairperson of the National Commission for Women (NCW) succeeding Rekha Sharma in August 2026?",
+        "hi": "अगस्त 2026 में रेखा शर्मा के स्थान पर राष्ट्रीय महिला आयोग (NCW) के नए अध्यक्ष के रूप में किसे नियुक्त किया गया है?"
+      },
+      "options": [
+        {
+          "en": "Mamta Sharma",
+          "hi": "ममता शर्मा"
+        },
+        {
+          "en": "Vijaya Rahatkar",
+          "hi": "विजया रहाटकर"
+        },
+        {
+          "en": "Girija Vyas",
+          "hi": "गिरिजा व्यास"
+        },
+        {
+          "en": "Smriti Irani",
+          "hi": "स्मृति ईरानी"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Vijaya Rahatkar, former chairperson of the Maharashtra State Commission for Women, has been appointed as the 10th Chairperson of the National Commission for Women (NCW) following the completion of Rekha Sharma's tenure.",
+        "hi": "महाराष्ट्र राज्य महिला आयोग की पूर्व अध्यक्ष विजया रहाटकर को रेखा शर्मा का कार्यकाल पूरा होने के बाद राष्ट्रीय महिला आयोग (NCW) की 10वीं अध्यक्ष के रूप में नियुक्त किया गया है।"
+      },
+      "category": "Appointments & Commissions",
+      "difficulty": "medium",
+      "sourceUrl": "https://pib.gov.in"
+    },
+    {
+      "id": "ca_20260819_07",
+      "question": {
+        "en": "Vinesh Phogat, who was recently in the news during the Paris Olympics, is associated with which weight category in women's freestyle wrestling?",
+        "hi": "विनेश फोगट, जो हाल ही में पेरिस ओलंपिक के दौरान चर्चा में थीं, महिलाओं की फ्रीस्टाइल कुश्ती में किस वजन श्रेणी से जुड़ी हैं?"
+      },
+      "options": [
+        {
+          "en": "50 kg",
+          "hi": "50 किग्रा"
+        },
+        {
+          "en": "53 kg",
+          "hi": "53 किग्रा"
+        },
+        {
+          "en": "57 kg",
+          "hi": "57 किग्रा"
+        },
+        {
+          "en": "62 kg",
+          "hi": "62 किग्रा"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "Vinesh Phogat competed in the women's 50kg freestyle wrestling category at the Paris Olympics. She historically reached the final but was unfortunately disqualified for being marginally overweight on the day of the gold medal match.",
+        "hi": "विनेश फोगट ने पेरिस ओलंपिक में महिलाओं की 50 किलोग्राम फ्रीस्टाइल कुश्ती श्रेणी में प्रतिस्पर्धा की। वह ऐतिहासिक रूप से फाइनल में पहुंचीं, लेकिन स्वर्ण पदक मैच के दिन मामूली रूप से अधिक वजन होने के कारण दुर्भाग्यवश अयोग्य घोषित कर दी गईं।"
+      },
+      "category": "Sports",
+      "difficulty": "medium",
+      "sourceUrl": "https://pib.gov.in"
+    },
+    {
+      "id": "ca_20260819_08",
+      "question": {
+        "en": "Which Tiger Reserve in India recently recorded the highest tiger density according to the latest quadrennial tiger census report?",
+        "hi": "भारत के किस टाइगर रिजर्व ने नवीनतम चतुष्कोणीय बाघ जनगणना रिपोर्ट के अनुसार हाल ही में बाघों का उच्चतम घनत्व दर्ज किया है?"
+      },
+      "options": [
+        {
+          "en": "Bandhavgarh Tiger Reserve",
+          "hi": "बांधवगढ़ टाइगर रिजर्व"
+        },
+        {
+          "en": "Corbett Tiger Reserve",
+          "hi": "कॉर्बेट टाइगर रिजर्व"
+        },
+        {
+          "en": "Nagarhole Tiger Reserve",
+          "hi": "नागरहोल टाइगर रिजर्व"
+        },
+        {
+          "en": "Kaziranga Tiger Reserve",
+          "hi": "काजीरंगा टाइगर रिजर्व"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Corbett Tiger Reserve (Uttarakhand) has consistently recorded the highest tiger density in India. It also has the highest absolute number of tigers among all reserves in the country according to the National Tiger Conservation Authority (NTCA).",
+        "hi": "कॉर्बेट टाइगर रिजर्व (उत्तराखंड) ने लगातार भारत में सबसे अधिक बाघ घनत्व दर्ज किया है। राष्ट्रीय बाघ संरक्षण प्राधिकरण (NTCA) के अनुसार देश के सभी अभ्यारण्यों में बाघों की पूर्ण संख्या भी सबसे अधिक है।"
+      },
+      "category": "Environment & Ecology",
+      "difficulty": "medium",
+      "sourceUrl": "https://pib.gov.in"
+    },
+    {
+      "id": "ca_20260819_09",
+      "question": {
+        "en": "World Humanitarian Day is observed annually on August 19. It marks the anniversary of the bombing of the UN headquarters in which city in 2003?",
+        "hi": "विश्व मानवतावादी दिवस प्रतिवर्ष 19 अगस्त को मनाया जाता है। यह 2003 में किस शहर में संयुक्त राष्ट्र मुख्यालय पर हुए बम विस्फोट की वर्षगांठ का प्रतीक है?"
+      },
+      "options": [
+        {
+          "en": "Kabul",
+          "hi": "काबुल"
+        },
+        {
+          "en": "Baghdad",
+          "hi": "बगदाद"
+        },
+        {
+          "en": "Mogadishu",
+          "hi": "मोगादिशु"
+        },
+        {
+          "en": "Damascus",
+          "hi": "दमिश्क"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "World Humanitarian Day is celebrated on August 19 to honour humanitarian workers. The date commemorates the 2003 bomb attack on the Canal Hotel in Baghdad, Iraq, which killed 22 people, including the Chief UN Humanitarian in Iraq, Sérgio Vieira de Mello.",
+        "hi": "मानवतावादी कार्यकर्ताओं को सम्मानित करने के लिए 19 अगस्त को विश्व मानवतावादी दिवस मनाया जाता है। यह तारीख इराक के बगदाद में कैनाल होटल पर 2003 के बम हमले की याद दिलाती है, जिसमें इराक में संयुक्त राष्ट्र के मुख्य मानवतावादी सर्जियो विएरा डी मेलो सहित 22 लोग मारे गए थे।"
+      },
+      "category": "Important Days & Themes",
       "difficulty": "hard",
-      "sourceUrl": "https://medicalxpress.com/news/2026-08-huntington-disease-discovery-door-class.html"
+      "sourceUrl": "https://pib.gov.in"
     },
     {
-      "id": "ca_20260818_09",
+      "id": "ca_20260819_10",
       "question": {
-        "en": "Lake Powell, one of the largest man-made reservoirs which has seen critically low water levels recently, is located on which major river?",
-        "hi": "हाल ही में पानी के गंभीर रूप से निम्न स्तर को देखने वाला सबसे बड़े मानव निर्मित जलाशयों में से एक 'लेक पॉवेल' (Lake Powell), किस प्रमुख नदी पर स्थित है?"
+        "en": "Under Article 280 of the Indian Constitution, the 16th Finance Commission has been constituted. Who is currently serving as its Chairman?",
+        "hi": "भारतीय संविधान के अनुच्छेद 280 के तहत 16वें वित्त आयोग का गठन किया गया है। वर्तमान में इसके अध्यक्ष के रूप में कौन कार्यरत है?"
       },
       "options": [
         {
-          "en": "Mississippi River",
-          "hi": "मिसिसिपी नदी"
+          "en": "N.K. Singh",
+          "hi": "एन.के. सिंह"
         },
         {
-          "en": "Amazon River",
-          "hi": "अमेज़ॅन नदी"
+          "en": "Arvind Panagariya",
+          "hi": "अरविंद पनगढ़िया"
         },
         {
-          "en": "Colorado River",
-          "hi": "कोलोराडो नदी"
+          "en": "Y.V. Reddy",
+          "hi": "वाई.वी. रेड्डी"
         },
         {
-          "en": "Nile River",
-          "hi": "नील नदी"
+          "en": "Urjit Patel",
+          "hi": "उर्जित पटेल"
         }
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 1,
       "explanation": {
-        "en": "Lake Powell is the second-largest man-made reservoir by volume in the United States, created by the Glen Canyon Dam on the Colorado River, situated between Utah and Arizona.",
-        "hi": "लेक पॉवेल संयुक्त राज्य अमेरिका में आयतन के हिसाब से दूसरा सबसे बड़ा मानव निर्मित जलाशय है, जिसे यूटा और एरिज़ोना के बीच कोलोराडो नदी पर ग्लेन कैन्यन बांध द्वारा बनाया गया है।"
+        "en": "Dr. Arvind Panagariya, former Vice-Chairman of NITI Aayog, was appointed as the Chairman of the 16th Finance Commission. The commission makes recommendations on the distribution of net proceeds of taxes between the Union and the States.",
+        "hi": "नीति आयोग के पूर्व उपाध्यक्ष डॉ. अरविंद पनगढ़िया को 16वें वित्त आयोग का अध्यक्ष नियुक्त किया गया। यह आयोग संघ और राज्यों के बीच करों की शुद्ध आय के वितरण पर सिफारिशें करता है।"
       },
-      "category": "Environment & Ecology",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.moneycontrol.com/world/what-record-low-water-levels-at-lake-powell-could-mean-article-14007641.html"
-    },
-    {
-      "id": "ca_20260818_10",
-      "question": {
-        "en": "Mount Kanlaon, an active stratovolcano that recently erupted producing a grayish plume, is located on Negros Island in which country?",
-        "hi": "माउंट कनलाओन, एक सक्रिय स्ट्रैटोवोलकैनो जो हाल ही में फटा और भूरे रंग का धुआं (plume) उत्पन्न किया, किस देश के नेग्रोस द्वीप पर स्थित है?"
-      },
-      "options": [
-        {
-          "en": "Japan",
-          "hi": "जापान"
-        },
-        {
-          "en": "Indonesia",
-          "hi": "इंडोनेशिया"
-        },
-        {
-          "en": "Philippines",
-          "hi": "फिलीपींस"
-        },
-        {
-          "en": "New Zealand",
-          "hi": "न्यूजीलैंड"
-        }
-      ],
-      "correctAnswer": 2,
-      "explanation": {
-        "en": "Mount Kanlaon is an active stratovolcano located in the Philippines (Negros Island). It is part of the Pacific Ring of Fire and has erupted more than 30 times since 1819.",
-        "hi": "माउंट कनलाओन फिलीपींस (नेग्रोस द्वीप) में स्थित एक सक्रिय ज्वालामुखी है। यह प्रशांत महासागर के 'रिंग ऑफ फायर' का हिस्सा है और 1819 के बाद से 30 से अधिक बार फट चुका है।"
-      },
-      "category": "Environment & Ecology",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.reutersconnect.com/item/philippines-kanlaon-volcano-sends-200-meter-ash-plume-into-the-sky/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX09XU0hCQzExNzYzODQ"
+      "category": "Polity & Governance",
+      "difficulty": "hard",
+      "sourceUrl": "https://pib.gov.in"
     }
   ]
 }
