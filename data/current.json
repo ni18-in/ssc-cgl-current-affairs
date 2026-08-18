@@ -1,340 +1,340 @@
 {
-  "date": "2026-07-21",
+  "date": "2026-08-18",
   "topic": "SSC CGL Daily Current Affairs",
   "source": "PIB / The Hindu / Economic Times / Indian Express / GKToday",
-  "lastUpdated": "2026-07-21T06:30:00+05:30",
+  "lastUpdated": "2026-08-18T06:30:00+05:30",
   "version": 1,
   "totalQuestions": 10,
   "quiz": [
     {
-      "id": "ca_20260721_01",
+      "id": "ca_20260818_01",
       "question": {
-        "en": "Which portal was launched by the Union Ministry of Law and Justice to provide seamless digital access to legal publications, court judgments, and law journals in Hindi?",
-        "hi": "केंद्रीय विधि एवं न्याय मंत्रालय द्वारा कानूनी प्रकाशनों, अदालती निर्णयों और कानून पत्रिकाओं को हिंदी में डिजिटल रूप से उपलब्ध कराने के लिए कौन सा पोर्टल लॉन्च किया गया?"
+        "en": "Recently, an India-based defence start-up successfully demonstrated a 'Rotating Detonation Engine' (RDE) at a DRDO facility. What is the primary advantage of an RDE over conventional gas turbines?",
+        "hi": "हाल ही में, भारत स्थित एक रक्षा स्टार्ट-अप ने DRDO सुविधा में 'रोटेटिंग डेटोनेशन इंजन' (RDE) का सफलतापूर्वक प्रदर्शन किया। पारंपरिक गैस टरबाइन की तुलना में RDE का प्राथमिक लाभ क्या है?"
       },
       "options": [
         {
-          "en": "e-Vidhi Portal",
-          "hi": "ई-विधि पोर्टल"
+          "en": "It uses solar power instead of chemical fuel.",
+          "hi": "यह रासायनिक ईंधन के बजाय सौर ऊर्जा का उपयोग करता है।"
         },
         {
-          "en": "e-Nyaya Portal",
-          "hi": "ई-न्याय पोर्टल"
+          "en": "It uses rapid supersonic detonations to burn fuel, producing more thrust for the same amount of fuel.",
+          "hi": "यह ईंधन को जलाने के लिए तीव्र सुपरसोनिक विस्फोटों का उपयोग करता है, जिससे समान मात्रा में ईंधन के लिए अधिक थ्रस्ट उत्पन्न होता है।"
         },
         {
-          "en": "e-VSP Portal",
-          "hi": "ई-वीएसपी पोर्टल"
+          "en": "It relies entirely on electric propulsion for thrust.",
+          "hi": "यह थ्रस्ट के लिए पूरी तरह से इलेक्ट्रिक प्रणोदन पर निर्भर करता है।"
         },
         {
-          "en": "e-Kanoon Portal",
-          "hi": "ई-कानून पोर्टल"
-        }
-      ],
-      "correctAnswer": 2,
-      "explanation": {
-        "en": "The electronic-Vidhi Sahitya Prakashan (e-VSP) portal was launched by Union Law Minister Arjun Ram Meghwal in New Delhi. It provides online digital access to Hindi legal literature, Supreme Court/High Court judgments, and legal texts.",
-        "hi": "इलेक्ट्रॉनिक-विधि साहित्य प्रकाशन (e-VSP) पोर्टल केंद्रीय कानून मंत्री अर्जुन राम मेघवाल द्वारा नई दिल्ली में लॉन्च किया गया। यह हिंदी कानूनी साहित्य, सुप्रीम कोर्ट/हाई कोर्ट के फैसलों और कानूनी पाठों तक ऑनलाइन डिजिटल पहुंच प्रदान करता है।"
-      },
-      "category": "Polity & Governance",
-      "difficulty": "medium",
-      "sourceUrl": "https://pib.gov.in"
-    },
-    {
-      "id": "ca_20260721_02",
-      "question": {
-        "en": "Under India's BRICS Chairship 2026, which Indian city hosted the 3rd BRICS Transport Ministers' Meeting?",
-        "hi": "भारत की ब्रिक्स अध्यक्षता 2026 के तहत, किस भारतीय शहर ने तीसरी ब्रिक्स परिवहन मंत्रियों की बैठक की मेजबानी की?"
-      },
-      "options": [
-        {
-          "en": "Mumbai",
-          "hi": "मुंबई"
-        },
-        {
-          "en": "New Delhi",
-          "hi": "नई दिल्ली"
-        },
-        {
-          "en": "Nagpur",
-          "hi": "नागपुर"
-        },
-        {
-          "en": "Bengaluru",
-          "hi": "बेंगलुरु"
-        }
-      ],
-      "correctAnswer": 2,
-      "explanation": {
-        "en": "The 3rd BRICS Transport Ministers' Meeting was held in Nagpur under India's BRICS Chairship 2026, focusing on infrastructure circularity, Sustainable Aviation Fuel (SAF), and transport decarbonisation.",
-        "hi": "तीसरी ब्रिक्स परिवहन मंत्रियों की बैठक भारत की ब्रिक्स अध्यक्षता 2026 के तहत नागपुर में आयोजित की गई, जिसमें बुनियादी ढांचे की परिपत्रता, सतत विमानन ईंधन (SAF) और परिवहन डीकार्बोनाइजेशन पर ध्यान केंद्रित किया गया।"
-      },
-      "category": "International Summits",
-      "difficulty": "easy",
-      "sourceUrl": "https://pib.gov.in"
-    },
-    {
-      "id": "ca_20260721_03",
-      "question": {
-        "en": "The Department of Biotechnology (DBT) launched Phase-III of the Biomedical Research Career Programme (BRCP) in partnership with which international organization?",
-        "hi": "जैव प्रौद्योगिकी विभाग (DBT) ने किस अंतरराष्ट्रीय संगठन के साथ साझेदारी में बायोमेडिकल रिसर्च करियर प्रोग्राम (BRCP) के चरण-III का शुभारंभ किया?"
-      },
-      "options": [
-        {
-          "en": "Bill & Melinda Gates Foundation",
-          "hi": "बिल एंड मेलिंडा गेट्स फाउंडेशन"
-        },
-        {
-          "en": "Wellcome Trust (UK)",
-          "hi": "वेलकम ट्रस्ट (यूके)"
-        },
-        {
-          "en": "World Health Organization",
-          "hi": "विश्व स्वास्थ्य संगठन"
-        },
-        {
-          "en": "Gavi, the Vaccine Alliance",
-          "hi": "गावी, द वैक्सीन एलायंस"
+          "en": "It is exclusively designed for underwater applications.",
+          "hi": "इसे विशेष रूप से पानी के नीचे के अनुप्रयोगों के लिए डिज़ाइन किया गया है।"
         }
       ],
       "correctAnswer": 1,
       "explanation": {
-        "en": "Phase-III of BRCP was launched with an outlay of ₹1,500 crore, jointly funded by DBT (₹1,000 crore) and London-based Wellcome Trust (₹500 crore) to foster medical and biomedical research leadership in India.",
-        "hi": "BRCP का चरण-III ₹1,500 करोड़ के परिव्यय के साथ शुरू किया गया, जिसे DBT (₹1,000 करोड़) और लंदन स्थित वेलकम ट्रस्ट (₹500 करोड़) द्वारा भारत में चिकित्सा और बायोमेडिकल अनुसंधान नेतृत्व को बढ़ावा देने के लिए संयुक्त रूप से वित्तपोषित किया गया है।"
+        "en": "An RDE uses supersonic detonation to burn fuel, making it more efficient than conventional engines using subsonic deflagration. This produces more thrust per unit fuel, offering potential range, speed, and cost benefits.",
+        "hi": "एक RDE ईंधन को जलाने के लिए सुपरसोनिक विस्फोट का उपयोग करता है, जो इसे सबसोनिक दहन (deflagration) का उपयोग करने वाले पारंपरिक इंजनों की तुलना में अधिक कुशल बनाता है। यह प्रति इकाई ईंधन अधिक थ्रस्ट उत्पन्न करता है, जिससे संभावित रेंज, गति और लागत लाभ मिलते हैं।"
       },
       "category": "Science & Technology",
       "difficulty": "medium",
-      "sourceUrl": "https://pib.gov.in"
+      "sourceUrl": "https://www.thehindu.com/sci-tech/science/rotating-detonation-engines-the-science-and-the-promises/article71355953.ece"
     },
     {
-      "id": "ca_20260721_04",
+      "id": "ca_20260818_02",
       "question": {
-        "en": "Which country topped the medal tally at the Asian Under-19 and Under-23 Boxing Championships 2026 held in Jakarta, Indonesia?",
-        "hi": "जकार्ता, इंडोनेशिया में आयोजित एशियाई अंडर-19 और अंडर-23 मुक्केबाजी चैंपियनशिप 2026 में कौन सा देश पदक तालिका में शीर्ष पर रहा?"
+        "en": "The historic Medak Fort, for which a special postal cover and stamp were recently launched, was built during the 12th century under the reign of which dynasty?",
+        "hi": "ऐतिहासिक मेडक किला, जिसके लिए हाल ही में एक विशेष डाक कवर और टिकट जारी किया गया था, 12वीं शताब्दी के दौरान किस राजवंश के शासनकाल में बनाया गया था?"
       },
       "options": [
         {
-          "en": "Kazakhstan",
-          "hi": "कजाकिस्तान"
+          "en": "Chola Dynasty",
+          "hi": "चोल राजवंश"
         },
         {
-          "en": "Uzbekistan",
-          "hi": "उज्बेकिस्तान"
+          "en": "Vijayanagara Empire",
+          "hi": "विजयनगर साम्राज्य"
         },
         {
-          "en": "India",
-          "hi": "भारत"
+          "en": "Kakatiya Dynasty",
+          "hi": "काकतीय राजवंश"
         },
         {
-          "en": "China",
-          "hi": "चीन"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "Uzbekistan topped the overall medal table with 18 gold medals at the Asian U19 & U23 Boxing Championships in Jakarta, followed by Kazakhstan (second) and India (third with 7 gold medals).",
-        "hi": "जकार्ता में आयोजित एशियाई U19 और U23 मुक्केबाजी चैंपियनशिप में उज्बेकिस्तान 18 स्वर्ण पदकों के साथ पदक तालिका में शीर्ष पर रहा, जिसके बाद कजाकिस्तान (दूसरे) और भारत (7 स्वर्ण पदकों के साथ तीसरे स्थान पर) रहा।"
-      },
-      "category": "Sports",
-      "difficulty": "medium",
-      "sourceUrl": "https://pib.gov.in"
-    },
-    {
-      "id": "ca_20260721_05",
-      "question": {
-        "en": "According to NITI Aayog's strategic document 'Vision for Viksit Bharat @ 2047', what is the targeted GDP size of the Indian economy by 2047?",
-        "hi": "नीति आयोग के रणनीतिक दस्तावेज 'विजन फॉर विकसित भारत @ 2047' के अनुसार, वर्ष 2047 तक भारतीय अर्थव्यवस्था का लक्षित जीडीपी आकार क्या है?"
-      },
-      "options": [
-        {
-          "en": "USD 10 trillion",
-          "hi": "10 ट्रिलियन अमेरिकी डॉलर"
-        },
-        {
-          "en": "USD 20 trillion",
-          "hi": "20 ट्रिलियन अमेरिकी डॉलर"
-        },
-        {
-          "en": "USD 30 trillion",
-          "hi": "30 ट्रिलियन अमेरिकी डॉलर"
-        },
-        {
-          "en": "USD 50 trillion",
-          "hi": "50 ट्रिलियन अमेरिकी डॉलर"
+          "en": "Maratha Empire",
+          "hi": "मराठा साम्राज्य"
         }
       ],
       "correctAnswer": 2,
       "explanation": {
-        "en": "NITI Aayog's 'Vision for Viksit Bharat @ 2047' targets transforming India into a USD 30 trillion developed economy by 2047, with a per capita income ranging between USD 18,000 and USD 21,000.",
-        "hi": "नीति आयोग के 'विजन फॉर विकसित भारत @ 2047' का लक्ष्य 2047 तक भारत को 30 ट्रिलियन अमेरिकी डॉलर की विकसित अर्थव्यवस्था में बदलना है, जिसमें प्रति व्यक्ति आय 18,000 से 21,000 अमेरिकी डॉलर के बीच होगी।"
+        "en": "Medak Fort, located in Telangana, was built during the 12th century under the Kakatiya ruler Pratapa Rudra. It was originally called 'Methuku Durgam' and later served as a command post for the Qutub Shahis.",
+        "hi": "तेलंगाना में स्थित मेडक किला 12वीं सदी में काकतीय शासक प्रताप रुद्र के शासनकाल में बनाया गया था। इसे मूल रूप से 'मेथुकु दुर्गम' कहा जाता था और बाद में इसने कुतुब शाहियों के लिए एक कमांड पोस्ट के रूप में काम किया।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "hard",
+      "sourceUrl": "https://telanganatoday.com/postal-department-launches-special-cover-and-stamp-on-medak-fort"
+    },
+    {
+      "id": "ca_20260818_03",
+      "question": {
+        "en": "Which scheme was recently approved by the Ministry of Electronics and Information Technology (MeitY) to develop a robust domestic ecosystem for manufacturing select passive electronic components?",
+        "hi": "हाल ही में इलेक्ट्रॉनिक्स और सूचना प्रौद्योगिकी मंत्रालय (MeitY) द्वारा चुनिंदा निष्क्रिय इलेक्ट्रॉनिक घटकों (passive electronic components) के निर्माण के लिए एक मजबूत घरेलू पारिस्थितिकी तंत्र विकसित करने के लिए किस योजना को मंजूरी दी गई थी?"
+      },
+      "options": [
+        {
+          "en": "Production Linked Incentive (PLI) 2.0",
+          "hi": "उत्पादन लिंक्ड प्रोत्साहन (PLI) 2.0"
+        },
+        {
+          "en": "Electronics Components Manufacturing Scheme (ECMS)",
+          "hi": "इलेक्ट्रॉनिक्स घटक विनिर्माण योजना (ECMS)"
+        },
+        {
+          "en": "Digital India Hardware Scheme",
+          "hi": "डिजिटल इंडिया हार्डवेयर योजना"
+        },
+        {
+          "en": "Make in India Semiconductor Mission",
+          "hi": "मेक इन इंडिया सेमीकंडक्टर मिशन"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The ECMS, launched by MeitY, aims to integrate the domestic electronic industry with Global Value Chains. It focuses particularly on passive components, while active components fall under the India Semiconductor Mission (ISM).",
+        "hi": "MeitY द्वारा शुरू की गई ECMS का उद्देश्य घरेलू इलेक्ट्रॉनिक उद्योग को वैश्विक मूल्य श्रृंखला (GVC) के साथ एकीकृत करना है। यह विशेष रूप से निष्क्रिय घटकों पर केंद्रित है, जबकि सक्रिय घटक भारत सेमीकंडक्टर मिशन (ISM) के अंतर्गत आते हैं।"
       },
       "category": "Economy & Banking",
-      "difficulty": "easy",
-      "sourceUrl": "https://niti.gov.in"
-    },
-    {
-      "id": "ca_20260721_06",
-      "question": {
-        "en": "Which financial institution is the nodal implementation agency for the PM Surya Ghar: Muft Bijli Yojana launched to install rooftop solar in 1 crore households?",
-        "hi": "1 करोड़ घरों में रूफटॉप सोलर स्थापित करने के लिए शुरू की गई 'पीएम सूर्य घर: मुफ्त बिजली योजना' की नोडल कार्यान्वयन एजेंसी कौन सा वित्तीय संस्थान है?"
-      },
-      "options": [
-        {
-          "en": "Power Finance Corporation (PFC)",
-          "hi": "पावर फाइनेंस कॉर्पोरेशन (PFC)"
-        },
-        {
-          "en": "REC Limited",
-          "hi": "आरईसी लिमिटेड (REC Limited)"
-        },
-        {
-          "en": "NABARD",
-          "hi": "नाबार्ड (NABARD)"
-        },
-        {
-          "en": "SIDBI",
-          "hi": "सिडबी (SIDBI)"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "REC Limited (a Maharatna CPSE under the Ministry of Power) is designated as the National Programme Implementation Agency (NPIA) for the ₹75,021 crore PM Surya Ghar: Muft Bijli Yojana.",
-        "hi": "विद्युत मंत्रालय के तहत महारत्न सीपीएसई आरईसी लिमिटेड (REC Limited) को ₹75,021 करोड़ की पीएम सूर्य घर: मुफ्त बिजली योजना के लिए राष्ट्रीय कार्यक्रम कार्यान्वयन एजेंसी (NPIA) नामित किया गया है।"
-      },
-      "category": "Government Schemes",
       "difficulty": "medium",
-      "sourceUrl": "https://pib.gov.in"
+      "sourceUrl": "https://indianexpress.com/article/business/meity-approves-31-projects-electronics-components-manufacturing-scheme-ecms-10837452/lite/"
     },
     {
-      "id": "ca_20260721_07",
+      "id": "ca_20260818_04",
       "question": {
-        "en": "India's indigenous next-generation ballistic missile 'Agni-Prime' (Agni-P) has an operational strike range of up to how many kilometers?",
-        "hi": "भारत की स्वदेशी अगली पीढ़ी की बैलिस्टिक मिसाइल 'अग्नि-प्राइम' (Agni-P) की परिचालन मारक क्षमता कितने किलोमीटर तक है?"
+        "en": "The 'National Anubhav Awards', recently conferred by the Minister of State for Personnel, Public Grievances and Pensions, are given to recognize the contributions of which group of individuals?",
+        "hi": "हाल ही में कार्मिक, लोक शिकायत और पेंशन राज्य मंत्री द्वारा प्रदान किए गए 'राष्ट्रीय अनुभव पुरस्कार', किस समूह के व्यक्तियों के योगदान को मान्यता देने के लिए दिए जाते हैं?"
       },
       "options": [
         {
-          "en": "500 to 1,000 km",
-          "hi": "500 से 1,000 किमी"
+          "en": "Young Entrepreneurs in Tech Startups",
+          "hi": "टेक स्टार्टअप्स में युवा उद्यमी"
         },
         {
-          "en": "1,000 to 2,000 km",
-          "hi": "1,000 से 2,000 किमी"
+          "en": "Retiring and recently retired Central Government employees",
+          "hi": "सेवानिवृत्त होने वाले और हाल ही में सेवानिवृत्त हुए केंद्र सरकार के कर्मचारी"
         },
         {
-          "en": "2,500 to 3,500 km",
-          "hi": "2,500 से 3,500 किमी"
+          "en": "Teachers contributing to rural education",
+          "hi": "ग्रामीण शिक्षा में योगदान देने वाले शिक्षक"
         },
         {
-          "en": "5,000 km and above",
-          "hi": "5,000 किमी और उससे अधिक"
+          "en": "Scientists working in ISRO and DRDO",
+          "hi": "इसरो और डीआरडीओ में काम कर रहे वैज्ञानिक"
         }
       ],
       "correctAnswer": 1,
       "explanation": {
-        "en": "Agni-Prime is a two-stage, canisterised solid propellant ballistic missile developed by DRDO with an operational range of 1,000 to 2,000 km, equipped with dual redundant navigation and guidance systems.",
-        "hi": "अग्नि-प्राइम डीआरडीओ द्वारा विकसित दो-चरणीय, कनस्तर-युक्त ठोस प्रणोदक बैलिस्टिक मिसाइल है जिसकी मारक क्षमता 1,000 से 2,000 किमी है, जो दोहरी निरर्थक नेविगेशन और मार्गदर्शन प्रणालियों से सुसज्जित है।"
+        "en": "The National Anubhav Awards were launched in 2015 by the DoPPW to recognize outstanding contributions of Central Govt employees, CPSEs, and Public Sector Banks who are within 8 months of retirement or retired within 3 years.",
+        "hi": "राष्ट्रीय अनुभव पुरस्कार 2015 में DoPPW द्वारा केंद्र सरकार के कर्मचारियों, CPSEs और सार्वजनिक क्षेत्र के बैंकों के उत्कृष्ट योगदान को मान्यता देने के लिए शुरू किए गए थे, जो सेवानिवृत्ति के 8 महीने के भीतर हैं या 3 साल के भीतर सेवानिवृत्त हुए हैं।"
+      },
+      "category": "Awards & Honours",
+      "difficulty": "easy",
+      "sourceUrl": "https://newsonair.gov.in/mos-jitendra-singh-confers-national-anubhav-awards-2026-on-15-awardees/"
+    },
+    {
+      "id": "ca_20260818_05",
+      "question": {
+        "en": "Which of the following bodies recently launched its upgraded 'Appeal and Complaint Management System' (AppCoMS 2.0) portal for handling online cases?",
+        "hi": "निम्नलिखित में से किस निकाय ने हाल ही में ऑनलाइन मामलों को संभालने के लिए अपना अपग्रेडेड 'अपील और शिकायत प्रबंधन प्रणाली' (AppCoMS 2.0) पोर्टल लॉन्च किया है?"
+      },
+      "options": [
+        {
+          "en": "Central Vigilance Commission (CVC)",
+          "hi": "केंद्रीय सतर्कता आयोग (CVC)"
+        },
+        {
+          "en": "National Human Rights Commission (NHRC)",
+          "hi": "राष्ट्रीय मानवाधिकार आयोग (NHRC)"
+        },
+        {
+          "en": "Central Information Commission (CIC)",
+          "hi": "केंद्रीय सूचना आयोग (CIC)"
+        },
+        {
+          "en": "Election Commission of India (ECI)",
+          "hi": "भारत निर्वाचन आयोग (ECI)"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The Central Information Commission (CIC) launched AppCoMS 2.0 to enable citizens to file Second Appeals and Complaints online under the RTI Act, facilitating end-to-end digital processing of cases.",
+        "hi": "केंद्रीय सूचना आयोग (CIC) ने RTI अधिनियम के तहत नागरिकों को ऑनलाइन दूसरी अपील और शिकायतें दर्ज करने में सक्षम बनाने के लिए AppCoMS 2.0 लॉन्च किया, जिससे मामलों की एंड-टू-एंड डिजिटल प्रोसेसिंग की सुविधा मिली।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.pib.gov.in/PressReleaseDetail.aspx?PRID=2300631&lang=1&reg=3"
+    },
+    {
+      "id": "ca_20260818_06",
+      "question": {
+        "en": "Which indigenous stealth guided missile destroyer of the Indian Navy was recently visited by over 200 Indian students while it was berthed at Sultan Qaboos Port in Oman?",
+        "hi": "भारतीय नौसेना के किस स्वदेशी स्टील्थ गाइडेड मिसाइल विध्वंसक का हाल ही में 200 से अधिक भारतीय छात्रों ने दौरा किया, जब यह ओमान के सुल्तान काबूस बंदरगाह पर खड़ा था?"
+      },
+      "options": [
+        {
+          "en": "INS Mormugao",
+          "hi": "आईएनएस मोरमुगाओ"
+        },
+        {
+          "en": "INS Imphal",
+          "hi": "आईएनएस इंफाल"
+        },
+        {
+          "en": "INS Visakhapatnam",
+          "hi": "आईएनएस विशाखापत्तनम"
+        },
+        {
+          "en": "INS Surat",
+          "hi": "आईएनएस सूरत"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "INS Imphal is the third ship of the Project 15B series (Visakhapatnam-class) commissioned in Dec 2023. It is the first warship named after a Northeast city and the first with accommodation for women officers.",
+        "hi": "आईएनएस इंफाल प्रोजेक्ट 15B श्रृंखला (विशाखापत्तनम-क्लास) का तीसरा जहाज है जिसे दिसंबर 2023 में कमीशन किया गया था। यह पूर्वोत्तर के किसी शहर के नाम पर पहला युद्धपोत है और इसमें महिला अधिकारियों के रहने की सुविधा भी है।"
       },
       "category": "Defence & Security",
       "difficulty": "easy",
-      "sourceUrl": "https://drdo.gov.in"
+      "sourceUrl": "https://www.aninews.in/news/world/middle-east/over-200-students-visit-indian-warship-berthed-at-oman-port20260817132843/"
     },
     {
-      "id": "ca_20260721_08",
+      "id": "ca_20260818_07",
       "question": {
-        "en": "In the Union Budget, which dedicated mission was announced with an outlay of ₹1,27,500 crore to build an indigenous semiconductor manufacturing and chip design ecosystem?",
-        "hi": "केंद्रीय बजट में, स्वदेशी सेमीकंडक्टर निर्माण और चिप डिजाइन पारिस्थितिकी तंत्र के निर्माण के लिए ₹1,27,500 करोड़ के परिव्यय के साथ किस समर्पित मिशन की घोषणा की गई थी?"
+        "en": "The 15th edition of the Joint Military Exercise 'MAITREE-XV (2026)' is being conducted between the Indian Army and the military forces of which country?",
+        "hi": "संयुक्त सैन्य अभ्यास 'मैत्री-XV (2026)' का 15वां संस्करण भारतीय सेना और किस देश के सैन्य बलों के बीच आयोजित किया जा रहा है?"
       },
       "options": [
         {
-          "en": "India Semiconductor Mission (ISM)",
-          "hi": "इंडिया सेमीकंडक्टर मिशन (ISM)"
+          "en": "Malaysia",
+          "hi": "मलेशिया"
         },
         {
-          "en": "Digital Chip Bharat Yojana",
-          "hi": "डिजिटल चिप भारत योजना"
+          "en": "Indonesia",
+          "hi": "इंडोनेशिया"
         },
         {
-          "en": "Semicon India 2.0",
-          "hi": "सेमीकॉन इंडिया 2.0"
+          "en": "Thailand",
+          "hi": "थाईलैंड"
         },
         {
-          "en": "National Nano-Electronics Mission",
-          "hi": "राष्ट्रीय नैनो-इलेक्ट्रॉनिक्स मिशन"
+          "en": "Vietnam",
+          "hi": "वियतनाम"
         }
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 2,
       "explanation": {
-        "en": "The India Semiconductor Mission (ISM) under the Ministry of Electronics and IT drives the fiscal support program of ₹76,000+ crore and expanded investments totaling ₹1.27 lakh crore across fabrication units, ATMP facilities, and design-linked incentives.",
-        "hi": "इलेक्ट्रॉनिक्स और आईटी मंत्रालय के तहत इंडिया सेमीकंडक्टर मिशन (ISM) ₹76,000+ करोड़ के राजकोषीय सहायता कार्यक्रम और फैब्रिकेशन इकाइयों, ATMP सुविधाओं और डिजाइन-लिंक्ड प्रोत्साहनों में कुल ₹1.27 लाख करोड़ के विस्तारित निवेश का संचालन करता है।"
+        "en": "Exercise MAITREE is a joint military exercise between India and Thailand instituted in 2006. The 2026 edition focused on company-level joint training for operations in jungle and semi-urban terrain.",
+        "hi": "अभ्यास 'मैत्री' भारत और थाईलैंड के बीच एक संयुक्त सैन्य अभ्यास है जिसे 2006 में स्थापित किया गया था। 2026 के संस्करण में जंगल और अर्ध-शहरी इलाकों में संचालन के लिए कंपनी-स्तरीय संयुक्त प्रशिक्षण पर ध्यान केंद्रित किया गया।"
       },
-      "category": "Economy & Industry",
-      "difficulty": "medium",
-      "sourceUrl": "https://meity.gov.in"
+      "category": "Defence & Security",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2300293&reg=48&lang=2"
     },
     {
-      "id": "ca_20260721_09",
+      "id": "ca_20260818_08",
       "question": {
-        "en": "Under the Ramsar Convention, which state currently holds the highest number of Ramsar wetland sites of international importance in India?",
-        "hi": "रामसर कन्वेंशन के तहत, वर्तमान में भारत में किस राज्य में अंतरराष्ट्रीय महत्व के रामसर आर्द्रभूमि (वेटलैंड) स्थलों की संख्या सबसे अधिक है?"
+        "en": "Huntington's disease, recently in the news due to potential new treatments, is caused by a genetic mutation in the HTT gene. Which region of the brain is primarily affected by the destruction of nerve cells in this disorder?",
+        "hi": "संभावित नए उपचारों के कारण हाल ही में चर्चा में रही 'हंटिंगटन रोग', HTT जीन में आनुवंशिक उत्परिवर्तन के कारण होता है। इस विकार में तंत्रिका कोशिकाओं के नष्ट होने से मस्तिष्क का कौन सा क्षेत्र मुख्य रूप से प्रभावित होता है?"
       },
       "options": [
         {
-          "en": "Uttar Pradesh",
-          "hi": "उत्तर प्रदेश"
+          "en": "Cerebellum",
+          "hi": "सेरिबैलम (अनुमस्तिष्क)"
         },
         {
-          "en": "Tamil Nadu",
-          "hi": "तमिलनाडु"
+          "en": "Medulla Oblongata",
+          "hi": "मेड्युला ऑब्लोंगाटा"
         },
         {
-          "en": "Kerala",
-          "hi": "केरल"
+          "en": "Basal Ganglia",
+          "hi": "बेसल गैन्ग्लिया"
         },
         {
-          "en": "Odisha",
-          "hi": "ओडिशा"
+          "en": "Hypothalamus",
+          "hi": "हाइपोथैलेमस"
         }
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": {
-        "en": "Tamil Nadu holds the highest number of Ramsar sites in India with 16 designated wetlands, followed by Uttar Pradesh with 10 Ramsar sites. India's total tally stands at 85+ sites.",
-        "hi": "तमिलनाडु में 16 नामित आर्द्रभूमियों के साथ भारत में रामसर स्थलों की संख्या सबसे अधिक है, इसके बाद उत्तर प्रदेश 10 रामसर स्थलों के साथ दूसरे स्थान पर है। भारत में कुल रामसर स्थलों की संख्या 85+ है।"
+        "en": "In Huntington's Disease, the destruction of nerve cells primarily happens in the basal ganglia, the region that regulates body movements. It also affects the brain cortex regulating thinking, decision-making, and memory.",
+        "hi": "हंटिंगटन रोग में, तंत्रिका कोशिकाओं का विनाश मुख्य रूप से बेसल गैन्ग्लिया में होता है, वह क्षेत्र जो शरीर की गतिविधियों को नियंत्रित करता है। यह मस्तिष्क कॉर्टेक्स को भी प्रभावित करता है जो सोच, निर्णय लेने और स्मृति को नियंत्रित करता है।"
+      },
+      "category": "Science & Technology",
+      "difficulty": "hard",
+      "sourceUrl": "https://medicalxpress.com/news/2026-08-huntington-disease-discovery-door-class.html"
+    },
+    {
+      "id": "ca_20260818_09",
+      "question": {
+        "en": "Lake Powell, one of the largest man-made reservoirs which has seen critically low water levels recently, is located on which major river?",
+        "hi": "हाल ही में पानी के गंभीर रूप से निम्न स्तर को देखने वाला सबसे बड़े मानव निर्मित जलाशयों में से एक 'लेक पॉवेल' (Lake Powell), किस प्रमुख नदी पर स्थित है?"
+      },
+      "options": [
+        {
+          "en": "Mississippi River",
+          "hi": "मिसिसिपी नदी"
+        },
+        {
+          "en": "Amazon River",
+          "hi": "अमेज़ॅन नदी"
+        },
+        {
+          "en": "Colorado River",
+          "hi": "कोलोराडो नदी"
+        },
+        {
+          "en": "Nile River",
+          "hi": "नील नदी"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Lake Powell is the second-largest man-made reservoir by volume in the United States, created by the Glen Canyon Dam on the Colorado River, situated between Utah and Arizona.",
+        "hi": "लेक पॉवेल संयुक्त राज्य अमेरिका में आयतन के हिसाब से दूसरा सबसे बड़ा मानव निर्मित जलाशय है, जिसे यूटा और एरिज़ोना के बीच कोलोराडो नदी पर ग्लेन कैन्यन बांध द्वारा बनाया गया है।"
       },
       "category": "Environment & Ecology",
-      "difficulty": "easy",
-      "sourceUrl": "https://moef.gov.in"
+      "difficulty": "medium",
+      "sourceUrl": "https://www.moneycontrol.com/world/what-record-low-water-levels-at-lake-powell-could-mean-article-14007641.html"
     },
     {
-      "id": "ca_20260721_10",
+      "id": "ca_20260818_10",
       "question": {
-        "en": "Who has been appointed as the Chairperson of the 16th Finance Commission of India constituted under Article 280 of the Constitution?",
-        "hi": "संविधान के अनुच्छेद 280 के तहत गठित भारत के 16वें वित्त आयोग के अध्यक्ष के रूप में किसे नियुक्त किया गया है?"
+        "en": "Mount Kanlaon, an active stratovolcano that recently erupted producing a grayish plume, is located on Negros Island in which country?",
+        "hi": "माउंट कनलाओन, एक सक्रिय स्ट्रैटोवोलकैनो जो हाल ही में फटा और भूरे रंग का धुआं (plume) उत्पन्न किया, किस देश के नेग्रोस द्वीप पर स्थित है?"
       },
       "options": [
         {
-          "en": "N. K. Singh",
-          "hi": "एन. के. सिंह"
+          "en": "Japan",
+          "hi": "जापान"
         },
         {
-          "en": "Dr. Arvind Panagariya",
-          "hi": "डॉ. अरविंद पनगढ़िया"
+          "en": "Indonesia",
+          "hi": "इंडोनेशिया"
         },
         {
-          "en": "Dr. Y. V. Reddy",
-          "hi": "डॉ. वाई. वी. रेड्डी"
+          "en": "Philippines",
+          "hi": "फिलीपींस"
         },
         {
-          "en": "Raghuram Rajan",
-          "hi": "रघुराम राजन"
+          "en": "New Zealand",
+          "hi": "न्यूजीलैंड"
         }
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": {
-        "en": "Dr. Arvind Panagariya, former Vice-Chairman of NITI Aayog and Professor at Columbia University, was appointed as the Chairman of the 16th Finance Commission. The commission will recommend tax devolution formula for the 5-year period starting April 1, 2026.",
-        "hi": "नीति आयोग के पूर्व उपाध्यक्ष और कोलंबिया विश्वविद्यालय के प्रोफेसर डॉ. अरविंद पनगढ़िया को 16वें वित्त आयोग का अध्यक्ष नियुक्त किया गया है। आयोग 1 अप्रैल 2026 से शुरू होने वाली 5 साल की अवधि के लिए कर हस्तांतरण सूत्र की सिफारिश करेगा।"
+        "en": "Mount Kanlaon is an active stratovolcano located in the Philippines (Negros Island). It is part of the Pacific Ring of Fire and has erupted more than 30 times since 1819.",
+        "hi": "माउंट कनलाओन फिलीपींस (नेग्रोस द्वीप) में स्थित एक सक्रिय ज्वालामुखी है। यह प्रशांत महासागर के 'रिंग ऑफ फायर' का हिस्सा है और 1819 के बाद से 30 से अधिक बार फट चुका है।"
       },
-      "category": "Appointments & Commissions",
-      "difficulty": "easy",
-      "sourceUrl": "https://pib.gov.in"
+      "category": "Environment & Ecology",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.reutersconnect.com/item/philippines-kanlaon-volcano-sends-200-meter-ash-plume-into-the-sky/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX09XU0hCQzExNzYzODQ"
     }
   ]
 }
