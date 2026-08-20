@@ -1,0 +1,340 @@
+{
+  "date": "2026-08-20",
+  "topic": "SSC CGL Daily Current Affairs",
+  "source": "PIB / The Hindu / Economic Times / Indian Express / GKToday",
+  "lastUpdated": "2026-08-20T00:00:00+05:30",
+  "version": 1,
+  "totalQuestions": 10,
+  "quiz": [
+    {
+      "id": "ca_20260820_01",
+      "question": {
+        "en": "Sadbhavana Diwas is observed annually on August 20 to commemorate the birth anniversary of which former Prime Minister of India?",
+        "hi": "सद्भावना दिवस प्रतिवर्ष 20 अगस्त को भारत के किस पूर्व प्रधान मंत्री की जयंती मनाने के लिए मनाया जाता है?"
+      },
+      "options": [
+        {
+          "en": "Indira Gandhi",
+          "hi": "इंदिरा गांधी"
+        },
+        {
+          "en": "Rajiv Gandhi",
+          "hi": "राजीव गांधी"
+        },
+        {
+          "en": "Atal Bihari Vajpayee",
+          "hi": "अटल बिहारी वाजपेयी"
+        },
+        {
+          "en": "Lal Bahadur Shastri",
+          "hi": "लाल बहादुर शास्त्री"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Sadbhavana Diwas is celebrated on August 20 every year to commemorate the birth anniversary of Rajiv Gandhi, the 6th Prime Minister of India. The day aims to encourage national integration, peace, and communal harmony.",
+        "hi": "भारत के छठे प्रधान मंत्री राजीव गांधी की जयंती मनाने के लिए हर साल 20 अगस्त को सद्भावना दिवस मनाया जाता है। इस दिवस का उद्देश्य राष्ट्रीय एकीकरण, शांति और सांप्रदायिक सद्भाव को प्रोत्साहित करना है।"
+      },
+      "category": "Important Days & Themes",
+      "difficulty": "easy",
+      "sourceUrl": "https://pib.gov.in"
+    },
+    {
+      "id": "ca_20260820_02",
+      "question": {
+        "en": "Recently, the Supreme Court invoked which Article of the Constitution to do \"complete justice\" in a landmark environmental ruling?",
+        "hi": "हाल ही में, सर्वोच्च न्यायालय ने एक ऐतिहासिक पर्यावरण फैसले में \"पूर्ण न्याय\" करने के लिए संविधान के किस अनुच्छेद का आह्वान किया?"
+      },
+      "options": [
+        {
+          "en": "Article 131",
+          "hi": "अनुच्छेद 131"
+        },
+        {
+          "en": "Article 136",
+          "hi": "अनुच्छेद 136"
+        },
+        {
+          "en": "Article 142",
+          "hi": "अनुच्छेद 142"
+        },
+        {
+          "en": "Article 143",
+          "hi": "अनुच्छेद 143"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Article 142 of the Indian Constitution empowers the Supreme Court to pass any decree or order necessary for doing \"complete justice\" in any cause or matter pending before it. This extraordinary power is often invoked in landmark environmental and human rights cases.",
+        "hi": "भारतीय संविधान का अनुच्छेद 142 सर्वोच्च न्यायालय को उसके समक्ष लंबित किसी भी कारण या मामले में \"पूर्ण न्याय\" करने के लिए आवश्यक कोई भी डिक्री या आदेश पारित करने का अधिकार देता है। इस असाधारण शक्ति का उपयोग अक्सर ऐतिहासिक पर्यावरण और मानवाधिकार मामलों में किया जाता है।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "hard",
+      "sourceUrl": "https://pib.gov.in"
+    },
+    {
+      "id": "ca_20260820_03",
+      "question": {
+        "en": "As per the latest circular by the Reserve Bank of India (RBI), what is the revised limit for collateral-free agriculture loans?",
+        "hi": "भारतीय रिजर्व बैंक (RBI) के नवीनतम परिपत्र के अनुसार, संपार्श्विक-मुक्त कृषि ऋण (collateral-free agriculture loans) की संशोधित सीमा क्या है?"
+      },
+      "options": [
+        {
+          "en": "₹1.6 lakh",
+          "hi": "₹1.6 लाख"
+        },
+        {
+          "en": "₹2.0 lakh",
+          "hi": "₹2.0 लाख"
+        },
+        {
+          "en": "₹2.5 lakh",
+          "hi": "₹2.5 लाख"
+        },
+        {
+          "en": "₹3.0 lakh",
+          "hi": "₹3.0 लाख"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "To support small and marginal farmers, the Reserve Bank of India (RBI) recently increased the limit for collateral-free agriculture loans from ₹1.6 lakh to ₹2.5 lakh, providing better access to formal credit under the Kisan Credit Card (KCC) scheme.",
+        "hi": "छोटे और सीमांत किसानों का समर्थन करने के लिए, भारतीय रिजर्व बैंक (RBI) ने हाल ही में संपार्श्विक-मुक्त कृषि ऋण की सीमा ₹1.6 लाख से बढ़ाकर ₹2.5 लाख कर दी है, जिससे किसान क्रेडिट कार्ड (KCC) योजना के तहत औपचारिक ऋण तक बेहतर पहुंच प्रदान की जा सके।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "medium",
+      "sourceUrl": "https://pib.gov.in"
+    },
+    {
+      "id": "ca_20260820_04",
+      "question": {
+        "en": "The bilateral naval exercise 'SLINEX' is conducted between the Indian Navy and the navy of which country?",
+        "hi": "द्विपक्षीय नौसैनिक अभ्यास 'स्लिनेक्स' (SLINEX) भारतीय नौसेना और किस देश की नौसेना के बीच आयोजित किया जाता है?"
+      },
+      "options": [
+        {
+          "en": "Singapore",
+          "hi": "सिंगापुर"
+        },
+        {
+          "en": "Sri Lanka",
+          "hi": "श्रीलंका"
+        },
+        {
+          "en": "Seychelles",
+          "hi": "सेशेल्स"
+        },
+        {
+          "en": "Saudi Arabia",
+          "hi": "सऊदी अरब"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "SLINEX (Sri Lanka-India Naval Exercise) is a bilateral maritime exercise between the Indian Navy and the Sri Lanka Navy. It aims to enhance interoperability, improve mutual understanding, and exchange best practices in maritime operations.",
+        "hi": "स्लिनेक्स (SLINEX - श्रीलंका-भारत नौसेना अभ्यास) भारतीय नौसेना और श्रीलंकाई नौसेना के बीच एक द्विपक्षीय समुद्री अभ्यास है। इसका उद्देश्य अंतर-संचालनीयता (interoperability) बढ़ाना, आपसी समझ में सुधार करना और समुद्री संचालन में सर्वोत्तम प्रथाओं का आदान-प्रदान करना है।"
+      },
+      "category": "Defence & Security",
+      "difficulty": "medium",
+      "sourceUrl": "https://pib.gov.in"
+    },
+    {
+      "id": "ca_20260820_05",
+      "question": {
+        "en": "Which supercomputer recently became India's fastest and most powerful, securing a top position in the global AI supercomputing list?",
+        "hi": "कौन सा सुपरकंप्यूटर हाल ही में वैश्विक एआई सुपरकंप्यूटिंग सूची में शीर्ष स्थान हासिल करते हुए भारत का सबसे तेज और सबसे शक्तिशाली सुपरकंप्यूटर बन गया है?"
+      },
+      "options": [
+        {
+          "en": "PARAM Siddhi",
+          "hi": "परम सिद्धि"
+        },
+        {
+          "en": "Pratyush",
+          "hi": "प्रत्यूष"
+        },
+        {
+          "en": "AIRAWAT",
+          "hi": "ऐरावत"
+        },
+        {
+          "en": "Mihir",
+          "hi": "मिहिर"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "AIRAWAT, installed at C-DAC in Pune, is currently India's fastest and most powerful AI supercomputer. It has been ranked highly in the TOP500 global supercomputing list, reflecting India's push towards artificial intelligence and high-performance computing.",
+        "hi": "पुणे में सी-डैक (C-DAC) में स्थापित ऐरावत (AIRAWAT), वर्तमान में भारत का सबसे तेज़ और सबसे शक्तिशाली एआई सुपरकंप्यूटर है। इसे TOP500 वैश्विक सुपरकंप्यूटिंग सूची में उच्च स्थान दिया गया है, जो कृत्रिम बुद्धिमत्ता और उच्च-प्रदर्शन कंप्यूटिंग की दिशा में भारत के प्रयास को दर्शाता है।"
+      },
+      "category": "Science & Technology",
+      "difficulty": "medium",
+      "sourceUrl": "https://pib.gov.in"
+    },
+    {
+      "id": "ca_20260820_06",
+      "question": {
+        "en": "Under Article 148 of the Indian Constitution, the Comptroller and Auditor General (CAG) is appointed by the President. Who is the current CAG of India?",
+        "hi": "भारतीय संविधान के अनुच्छेद 148 के तहत, भारत के नियंत्रक और महालेखा परीक्षक (CAG) की नियुक्ति राष्ट्रपति द्वारा की जाती है। भारत के वर्तमान कैग कौन हैं?"
+      },
+      "options": [
+        {
+          "en": "Rajiv Mehrishi",
+          "hi": "राजीव महर्षि"
+        },
+        {
+          "en": "Girish Chandra Murmu",
+          "hi": "गिरीश चंद्र मुर्मू"
+        },
+        {
+          "en": "Shashi Kant Sharma",
+          "hi": "शशिकांत शर्मा"
+        },
+        {
+          "en": "Vinod Rai",
+          "hi": "विनोद राय"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Girish Chandra Murmu is the current Comptroller and Auditor General (CAG) of India, appointed under Article 148 of the Constitution. The CAG is the supreme audit institution of India, responsible for auditing the receipts and expenditure of the government.",
+        "hi": "गिरीश चंद्र मुर्मू भारत के वर्तमान नियंत्रक और महालेखा परीक्षक (CAG) हैं, जिन्हें संविधान के अनुच्छेद 148 के तहत नियुक्त किया गया है। कैग भारत का सर्वोच्च लेखा परीक्षा संस्थान है, जो सरकार की प्राप्तियों और व्यय के लेखा परीक्षा के लिए जिम्मेदार है।"
+      },
+      "category": "Appointments & Commissions",
+      "difficulty": "hard",
+      "sourceUrl": "https://pib.gov.in"
+    },
+    {
+      "id": "ca_20260820_07",
+      "question": {
+        "en": "Which city is slated to host the 2026 Asian Games?",
+        "hi": "कौन सा शहर 2026 एशियाई खेलों की मेजबानी करने वाला है?"
+      },
+      "options": [
+        {
+          "en": "Doha (Qatar)",
+          "hi": "दोहा (कतर)"
+        },
+        {
+          "en": "Riyadh (Saudi Arabia)",
+          "hi": "रियाद (सऊदी अरब)"
+        },
+        {
+          "en": "Aichi-Nagoya (Japan)",
+          "hi": "आइची-नागोया (जापान)"
+        },
+        {
+          "en": "Hangzhou (China)",
+          "hi": "हांगझू (चीन)"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The 2026 Asian Games, officially known as the 20th Asian Games, will be held in the Aichi Prefecture and its capital city, Nagoya, in Japan. This major multi-sport event brings together athletes from across the Asian continent.",
+        "hi": "2026 एशियाई खेल, जिन्हें आधिकारिक तौर पर 20वें एशियाई खेलों के रूप में जाना जाता है, जापान के आइची प्रान्त और इसकी राजधानी नागोया में आयोजित किए जाएंगे। यह प्रमुख बहु-खेल आयोजन पूरे एशियाई महाद्वीप के एथलीटों को एक साथ लाता है।"
+      },
+      "category": "Sports",
+      "difficulty": "easy",
+      "sourceUrl": "https://pib.gov.in"
+    },
+    {
+      "id": "ca_20260820_08",
+      "question": {
+        "en": "The 'Amrit Dharohar' scheme, recently emphasized by the government, focuses on the conservation of which of the following?",
+        "hi": "सरकार द्वारा हाल ही में जोर दी गई 'अमृत धरोहर' योजना, निम्नलिखित में से किसके संरक्षण पर केंद्रित है?"
+      },
+      "options": [
+        {
+          "en": "Tiger Reserves",
+          "hi": "बाघ अभयारण्य"
+        },
+        {
+          "en": "Wetlands (Ramsar Sites)",
+          "hi": "आर्द्रभूमि (रामसर स्थल)"
+        },
+        {
+          "en": "Mangrove Forests",
+          "hi": "मैंग्रोव वन"
+        },
+        {
+          "en": "Coral Reefs",
+          "hi": "प्रवाल भित्तियां"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The Amrit Dharohar scheme was launched by the Central Government to promote the unique conservation values of Ramsar Sites (wetlands). It aims to encourage optimal use of wetlands, enhance biodiversity, and improve the livelihoods of local communities.",
+        "hi": "अमृत धरोहर योजना केंद्र सरकार द्वारा रामसर स्थलों (आर्द्रभूमि) के अद्वितीय संरक्षण मूल्यों को बढ़ावा देने के लिए शुरू की गई थी। इसका उद्देश्य आर्द्रभूमि के इष्टतम उपयोग को प्रोत्साहित करना, जैव विविधता को बढ़ाना और स्थानीय समुदायों की आजीविका में सुधार करना है।"
+      },
+      "category": "Environment & Ecology",
+      "difficulty": "medium",
+      "sourceUrl": "https://pib.gov.in"
+    },
+    {
+      "id": "ca_20260820_09",
+      "question": {
+        "en": "The 'PM Vishwakarma Yojana' is implemented by which nodal ministry?",
+        "hi": "'पीएम विश्वकर्मा योजना' किस नोडल मंत्रालय द्वारा लागू की जाती है?"
+      },
+      "options": [
+        {
+          "en": "Ministry of Rural Development",
+          "hi": "ग्रामीण विकास मंत्रालय"
+        },
+        {
+          "en": "Ministry of Micro, Small and Medium Enterprises (MSME)",
+          "hi": "सूक्ष्म, लघु और मध्यम उद्यम मंत्रालय (MSME)"
+        },
+        {
+          "en": "Ministry of Skill Development and Entrepreneurship",
+          "hi": "कौशल विकास और उद्यमिता मंत्रालय"
+        },
+        {
+          "en": "Ministry of Labour and Employment",
+          "hi": "श्रम और रोजगार मंत्रालय"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The PM Vishwakarma Yojana is a Central Sector Scheme primarily implemented by the Ministry of Micro, Small and Medium Enterprises (MSME). It provides end-to-end holistic support to traditional artisans and craftspeople through credit, skill training, and market linkage.",
+        "hi": "पीएम विश्वकर्मा योजना एक केंद्रीय क्षेत्र की योजना है जिसे मुख्य रूप से सूक्ष्म, लघु और मध्यम उद्यम मंत्रालय (MSME) द्वारा लागू किया जाता है। यह ऋण, कौशल प्रशिक्षण और बाजार लिंकेज के माध्यम से पारंपरिक कारीगरों और शिल्पकारों को शुरू से अंत तक समग्र सहायता प्रदान करता है।"
+      },
+      "category": "Government Schemes",
+      "difficulty": "medium",
+      "sourceUrl": "https://pib.gov.in"
+    },
+    {
+      "id": "ca_20260820_10",
+      "question": {
+        "en": "Who among the following was awarded the prestigious Bharat Ratna, India's highest civilian award, posthumously in 2024 for his contribution to agriculture?",
+        "hi": "कृषि में उनके योगदान के लिए निम्नलिखित में से किसे 2024 में मरणोपरांत भारत के सर्वोच्च नागरिक पुरस्कार प्रतिष्ठित 'भारत रत्न' से सम्मानित किया गया था?"
+      },
+      "options": [
+        {
+          "en": "Verghese Kurien",
+          "hi": "वर्गीज कुरियन"
+        },
+        {
+          "en": "M. S. Swaminathan",
+          "hi": "एम. एस. स्वामीनाथन"
+        },
+        {
+          "en": "Norman Borlaug",
+          "hi": "नॉर्मन बोरलॉग"
+        },
+        {
+          "en": "C. Subramaniam",
+          "hi": "सी. सुब्रमण्यम"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Dr. M. S. Swaminathan, the chief architect of India's Green Revolution, was posthumously awarded the Bharat Ratna in 2024. His pioneering work in high-yielding varieties of wheat and rice transformed India from a food-deficient nation to a self-sufficient one.",
+        "hi": "भारत की हरित क्रांति के मुख्य वास्तुकार डॉ. एम. एस. स्वामीनाथन को 2024 में मरणोपरांत भारत रत्न से सम्मानित किया गया था। गेहूं और चावल की उच्च उपज वाली किस्मों में उनके अग्रणी काम ने भारत को भोजन की कमी वाले देश से आत्मनिर्भर देश में बदल दिया।"
+      },
+      "category": "Awards & Honours",
+      "difficulty": "easy",
+      "sourceUrl": "https://pib.gov.in"
+    }
+  ]
+}
