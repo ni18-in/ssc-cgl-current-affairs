@@ -1,340 +1,340 @@
 {
-  "date": "2026-08-21",
+  "date": "2026-08-22",
   "topic": "SSC CGL Daily Current Affairs",
   "source": "PIB / The Hindu / Economic Times / Indian Express / GKToday",
-  "lastUpdated": "2026-08-21T00:00:00+05:30",
+  "lastUpdated": "2026-08-22T00:00:00+05:30",
   "version": 1,
   "totalQuestions": 10,
   "quiz": [
     {
-      "id": "ca_20260821_01",
+      "id": "ca_20260822_01",
       "question": {
-        "en": "In which Indian region has the invasive sap-sucking insect Drosicha turkistanica recently raised quarantine concerns?",
-        "hi": "हाल ही में किस भारतीय क्षेत्र में आक्रामक रस चूसने वाले कीट ड्रोसिचा तुर्किस्तनिका ने संगरोध (क्वारंटाइन) संबंधी चिंताएं बढ़ा दी हैं?"
+        "en": "What is the repo rate kept unchanged by the Reserve Bank of India (RBI) after its Monetary Policy Committee (MPC) meeting in August 2026?",
+        "hi": "अगस्त 2026 में अपनी मौद्रिक नीति समिति (MPC) की बैठक के बाद भारतीय रिजर्व बैंक (RBI) द्वारा रेपो दर को क्या अपरिवर्तित रखा गया है?"
       },
       "options": [
         {
-          "en": "Himachal Pradesh",
-          "hi": "हिमाचल प्रदेश"
+          "en": "4.75%",
+          "hi": "4.75%"
         },
         {
-          "en": "Jammu & Kashmir",
-          "hi": "जम्मू और कश्मीर"
+          "en": "5.00%",
+          "hi": "5.00%"
         },
         {
-          "en": "Uttarakhand",
-          "hi": "उत्तराखंड"
+          "en": "5.25%",
+          "hi": "5.25%"
         },
         {
-          "en": "Sikkim",
-          "hi": "सिक्किम"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "Drosicha turkistanica, an invasive sap-sucking insect belonging to the Hemiptera order, has been identified in poplar and willow plantations in South Kashmir. Quarantine measures are standard plant protection tools used to limit the spread of such invasive species.",
-        "hi": "हेमिप्टेरा गण से संबंधित एक आक्रामक रस चूसने वाले कीट, ड्रोसिचा तुर्किस्तनिका की पहचान दक्षिण कश्मीर में पॉपलर और विलो के बागानों में की गई है। संगरोध उपाय ऐसी आक्रामक प्रजातियों के प्रसार को सीमित करने के लिए उपयोग किए जाने वाले मानक पौधा संरक्षण उपकरण हैं।"
-      },
-      "category": "Environment & Ecology",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.gktoday.in/drosicha-turkistanica-raises-quarantine-concerns-in-jammu-kashmir/"
-    },
-    {
-      "id": "ca_20260821_02",
-      "question": {
-        "en": "In August 2026, the Supreme Court of India revisited the 1978 Bangalore Water Supply precedent regarding the definition of which term under the Industrial Disputes Act, 1947?",
-        "hi": "अगस्त 2026 में, भारत के सर्वोच्च न्यायालय ने औद्योगिक विवाद अधिनियम, 1947 के तहत किस शब्द की परिभाषा के संबंध में 1978 के बैंगलोर वाटर सप्लाई मिसाल (नजीर) पर पुनर्विचार किया?"
-      },
-      "options": [
-        {
-          "en": "Workman",
-          "hi": "कर्मकार"
-        },
-        {
-          "en": "Industry",
-          "hi": "उद्योग"
-        },
-        {
-          "en": "Strike",
-          "hi": "हड़ताल"
-        },
-        {
-          "en": "Employer",
-          "hi": "नियोक्ता"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "A nine-judge Constitution Bench led by CJI Surya Kant revised the meaning of “industry” under Section 2(j) of the Industrial Disputes Act, 1947. The Bench held by a 5:4 majority that the classic “triple test” from the 1978 Bangalore Water Supply case requires further refinement.",
-        "hi": "CJI सूर्यकांत के नेतृत्व में नौ-न्यायाधीशों की संविधान पीठ ने औद्योगिक विवाद अधिनियम, 1947 की धारा 2(j) के तहत 'उद्योग' के अर्थ को संशोधित किया। पीठ ने 5:4 के बहुमत से माना कि 1978 के बैंगलोर वाटर सप्लाई मामले के क्लासिक 'ट्रिपल टेस्ट' में और सुधार की आवश्यकता है।"
-      },
-      "category": "Polity & Governance",
-      "difficulty": "hard",
-      "sourceUrl": "https://www.gktoday.in/supreme-court-revises-industry-definition-under-labour-law/"
-    },
-    {
-      "id": "ca_20260821_03",
-      "question": {
-        "en": "The Union Cabinet recently approved the establishment of a permanent bench of the High Court of Jammu and Kashmir and Ladakh in which region?",
-        "hi": "केंद्रीय मंत्रिमंडल ने हाल ही में किस क्षेत्र में जम्मू-कश्मीर और लद्दाख उच्च न्यायालय की एक स्थायी पीठ (बेंच) की स्थापना को मंजूरी दी है?"
-      },
-      "options": [
-        {
-          "en": "Anantnag",
-          "hi": "अनंतनाग"
-        },
-        {
-          "en": "Kargil",
-          "hi": "कारगिल"
-        },
-        {
-          "en": "Ladakh",
-          "hi": "लद्दाख"
-        },
-        {
-          "en": "Baramulla",
-          "hi": "बारामूला"
+          "en": "5.50%",
+          "hi": "5.50%"
         }
       ],
       "correctAnswer": 2,
       "explanation": {
-        "en": "The Union Cabinet approved a permanent bench of the High Court of Jammu and Kashmir and Ladakh in the Union Territory of Ladakh. This will be the court's third location, alongside Srinagar and Jammu, aimed at improving judicial access in the remote region.",
-        "hi": "केंद्रीय मंत्रिमंडल ने केंद्र शासित प्रदेश लद्दाख में जम्मू-कश्मीर और लद्दाख उच्च न्यायालय की एक स्थायी पीठ को मंजूरी दी। यह श्रीनगर और जम्मू के साथ-साथ अदालत का तीसरा स्थान होगा, जिसका उद्देश्य दूरस्थ क्षेत्र में न्यायिक पहुंच में सुधार करना है।"
-      },
-      "category": "Polity & Governance",
-      "difficulty": "easy",
-      "sourceUrl": "https://www.gktoday.in/cabinet-approves-permanent-ladakh-bench-for-jk-high-court/"
-    },
-    {
-      "id": "ca_20260821_04",
-      "question": {
-        "en": "Which state became the first inland state in India to begin the export of value-added Tilapia fish products to the United States?",
-        "hi": "कौन सा राज्य संयुक्त राज्य अमेरिका को मूल्यवर्धित तिलापिया मछली उत्पादों का निर्यात शुरू करने वाला भारत का पहला अंतर्देशीय राज्य बन गया है?"
-      },
-      "options": [
-        {
-          "en": "Madhya Pradesh",
-          "hi": "मध्य प्रदेश"
-        },
-        {
-          "en": "Haryana",
-          "hi": "हरियाणा"
-        },
-        {
-          "en": "Telangana",
-          "hi": "तेलंगाना"
-        },
-        {
-          "en": "Chhattisgarh",
-          "hi": "छत्तीसगढ़"
-        }
-      ],
-      "correctAnswer": 3,
-      "explanation": {
-        "en": "Chhattisgarh became the first inland state in India to export value-added Tilapia products, shipping 382 tonnes to the US. This achievement is supported by investments under the Pradhan Mantri Matsya Sampada Yojana.",
-        "hi": "छत्तीसगढ़ मूल्यवर्धित तिलापिया उत्पादों का निर्यात करने वाला भारत का पहला अंतर्देशीय राज्य बन गया, जिसने अमेरिका को 382 टन निर्यात किया। इस उपलब्धि को प्रधान मंत्री मत्स्य संपदा योजना के तहत निवेश का समर्थन प्राप्त है।"
+        "en": "The Reserve Bank of India (RBI) kept the repo rate unchanged at 5.25% in its August 2026 MPC meeting. However, policymakers warned that rising global oil prices could increase inflationary risks in the future.",
+        "hi": "भारतीय रिजर्व बैंक (RBI) ने अपनी अगस्त 2026 की MPC बैठक में रेपो दर को 5.25% पर अपरिवर्तित रखा। हालांकि, नीति निर्माताओं ने चेतावनी दी कि वैश्विक तेल की बढ़ती कीमतें भविष्य में मुद्रास्फीति के जोखिम को बढ़ा सकती हैं।"
       },
       "category": "Economy & Banking",
       "difficulty": "medium",
-      "sourceUrl": "https://www.gktoday.in/chhattisgarh-begins-tilapia-product-exports/"
+      "sourceUrl": "https://www.thetargetclasses.com/gk/current-affairs-22-august-2026/"
     },
     {
-      "id": "ca_20260821_05",
+      "id": "ca_20260822_02",
       "question": {
-        "en": "Who was elected as the 23rd President of Bangladesh in the parliamentary vote held on 20 August 2026?",
-        "hi": "20 अगस्त 2026 को हुए संसदीय मतदान में बांग्लादेश के 23वें राष्ट्रपति के रूप में किसे चुना गया?"
+        "en": "India's foreign-exchange reserves crossed which historic milestone as of August 2026?",
+        "hi": "अगस्त 2026 तक भारत का विदेशी मुद्रा भंडार किस ऐतिहासिक मील के पत्थर को पार कर गया है?"
       },
       "options": [
         {
-          "en": "Mirza Fakhrul Islam Alamgir",
-          "hi": "मिर्जा फखरुल इस्लाम आलमगीर"
+          "en": "$600 billion",
+          "hi": "$600 बिलियन"
         },
         {
-          "en": "Oli Ahmed",
-          "hi": "ओली अहमद"
+          "en": "$650 billion",
+          "hi": "$650 बिलियन"
         },
         {
-          "en": "Hafiz Uddin Ahmed",
-          "hi": "हाफिज उद्दीन अहमद"
+          "en": "$700 billion",
+          "hi": "$700 बिलियन"
         },
         {
-          "en": "Mohammed Shahabuddin",
-          "hi": "मोहम्मद शहाबुद्दीन"
-        }
-      ],
-      "correctAnswer": 0,
-      "explanation": {
-        "en": "Mirza Fakhrul Islam Alamgir, a veteran Bangladesh Nationalist Party leader, was elected as the 23rd President of Bangladesh. He won 255 votes in the parliament, succeeding former President Mohammed Shahabuddin who resigned due to health issues.",
-        "hi": "बांग्लादेश नेशनलिस्ट पार्टी के दिग्गज नेता मिर्जा फखरुल इस्लाम आलमगीर को बांग्लादेश का 23वां राष्ट्रपति चुना गया। उन्होंने संसद में 255 वोट हासिल किए और पूर्व राष्ट्रपति मोहम्मद शहाबुद्दीन का स्थान लिया, जिन्होंने स्वास्थ्य कारणों से इस्तीफा दे दिया था।"
-      },
-      "category": "Appointments & Commissions",
-      "difficulty": "easy",
-      "sourceUrl": "https://www.gktoday.in/mirza-fakhrul-islam-alamgir-elected-bangladesh-president/"
-    },
-    {
-      "id": "ca_20260821_06",
-      "question": {
-        "en": "India recently signed a Memorandum of Arrangement on Maritime Security Cooperation with which country to enhance naval coordination and logistics support?",
-        "hi": "भारत ने हाल ही में नौसैनिक समन्वय और लॉजिस्टिक्स समर्थन बढ़ाने के लिए किस देश के साथ समुद्री सुरक्षा सहयोग पर एक व्यवस्था ज्ञापन (MoA) पर हस्ताक्षर किए हैं?"
-      },
-      "options": [
-        {
-          "en": "Australia",
-          "hi": "ऑस्ट्रेलिया"
-        },
-        {
-          "en": "United States",
-          "hi": "संयुक्त राज्य अमेरिका"
-        },
-        {
-          "en": "Japan",
-          "hi": "जापान"
-        },
-        {
-          "en": "France",
-          "hi": "फ्रांस"
+          "en": "$750 billion",
+          "hi": "$750 बिलियन"
         }
       ],
       "correctAnswer": 2,
       "explanation": {
-        "en": "India and Japan signed a Memorandum of Arrangement on Maritime Security Cooperation in New Delhi. The pact creates a formal framework for cooperation between the Indian Navy and the Japan Maritime Self-Defense Force, linked to the Free and Open Indo-Pacific vision.",
-        "hi": "भारत और जापान ने नई दिल्ली में समुद्री सुरक्षा सहयोग पर एक व्यवस्था ज्ञापन पर हस्ताक्षर किए। यह समझौता भारतीय नौसेना और जापान समुद्री आत्मरक्षा बल के बीच सहयोग के लिए एक औपचारिक ढांचा तैयार करता है, जो फ्री एंड ओपन इंडो-पैसिफिक विजन से जुड़ा है।"
+        "en": "India's foreign-exchange reserves rose to approximately $707 billion as of early August 2026, touching a four-month high. The reserves include foreign currency assets, gold, Special Drawing Rights (SDRs), and the Reserve Tranche Position in the IMF.",
+        "hi": "अगस्त 2026 की शुरुआत तक भारत का विदेशी मुद्रा भंडार लगभग $707 बिलियन तक बढ़ गया, जो चार महीने के उच्चतम स्तर को छू रहा है। भंडार में विदेशी मुद्रा संपत्ति, सोना, विशेष आहरण अधिकार (SDR) और IMF में रिज़र्व ट्रेंच पोजीशन शामिल हैं।"
       },
-      "category": "Defence & Security",
+      "category": "Economy & Banking",
       "difficulty": "easy",
-      "sourceUrl": "https://www.gktoday.in/india-and-japan-sign-maritime-security-pact/"
+      "sourceUrl": "https://www.thetargetclasses.com/gk/current-affairs-22-august-2026/"
     },
     {
-      "id": "ca_20260821_07",
+      "id": "ca_20260822_03",
       "question": {
-        "en": "Indian researchers recently developed RK-251, a smart prodrug that activates in the presence of reactive oxygen species (ROS). It is designed to treat which disease?",
-        "hi": "भारतीय शोधकर्ताओं ने हाल ही में RK-251 विकसित किया है, जो एक स्मार्ट प्रोड्रग है और प्रतिक्रियाशील ऑक्सीजन प्रजातियों (ROS) की उपस्थिति में सक्रिय होता है। इसे किस बीमारी के इलाज के लिए डिज़ाइन किया गया है?"
+        "en": "How many new nuclear reactors have been announced as part of India's long-term energy expansion plans revealed around Independence Day 2026?",
+        "hi": "स्वतंत्रता दिवस 2026 के आसपास भारत की दीर्घकालिक ऊर्जा विस्तार योजनाओं के हिस्से के रूप में कितने नए परमाणु रिएक्टरों की घोषणा की गई है?"
       },
       "options": [
         {
-          "en": "Tuberculosis",
-          "hi": "तपेदिक"
+          "en": "3",
+          "hi": "3"
         },
         {
-          "en": "Cancer",
-          "hi": "कैंसर"
+          "en": "4",
+          "hi": "4"
         },
         {
-          "en": "Malaria",
-          "hi": "मलेरिया"
+          "en": "5",
+          "hi": "5"
         },
         {
-          "en": "Diabetes",
-          "hi": "मधुमेह"
+          "en": "7",
+          "hi": "7"
         }
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": {
-        "en": "RK-251 is a smart cancer drug developed by Indian researchers that remains inactive in healthy tissue and activates inside tumour cells triggered by high levels of ROS. It targets aggressive triple-negative breast cancer cells.",
-        "hi": "RK-251 भारतीय शोधकर्ताओं द्वारा विकसित एक स्मार्ट कैंसर दवा है जो स्वस्थ ऊतकों में निष्क्रिय रहती है और ROS के उच्च स्तर से ट्रिगर होकर ट्यूमर कोशिकाओं के अंदर सक्रिय होती है। यह आक्रामक ट्रिपल-नेगेटिव स्तन कैंसर कोशिकाओं को लक्षित करती है।"
-      },
-      "category": "Science & Technology",
-      "difficulty": "hard",
-      "sourceUrl": "https://www.gktoday.in/scientists-develop-rk-251-cancer-drug/"
-    },
-    {
-      "id": "ca_20260821_08",
-      "question": {
-        "en": "DRR Dhan 100 (Kamala) and Pusa DST Rice 1, recently launched in India, are examples of which type of crop varieties?",
-        "hi": "हाल ही में भारत में लॉन्च की गई DRR धन 100 (कमला) और पूसा डीएसटी राइस 1 किस प्रकार की फसल किस्मों के उदाहरण हैं?"
-      },
-      "options": [
-        {
-          "en": "Genome-edited varieties",
-          "hi": "जीनोम-संपादित किस्में"
-        },
-        {
-          "en": "Transgenic Bt varieties",
-          "hi": "ट्रांसजेनिक बीटी किस्में"
-        },
-        {
-          "en": "Hybrid wheat varieties",
-          "hi": "संकर गेहूं की किस्में"
-        },
-        {
-          "en": "Biofortified millets",
-          "hi": "बायोफोर्टिफाइड बाजरा"
-        }
-      ],
-      "correctAnswer": 0,
-      "explanation": {
-        "en": "DRR Dhan 100 (Kamala) and Pusa DST Rice 1 are India's first two genome-edited rice varieties, developed using CRISPR-Cas9 methods. Unlike transgenic organisms, genome-edited crops of the SDN-1 and SDN-2 types do not contain foreign DNA.",
-        "hi": "DRR धन 100 (कमला) और पूसा डीएसटी राइस 1 भारत की पहली दो जीनोम-संपादित चावल की किस्में हैं, जिन्हें CRISPR-Cas9 विधियों का उपयोग करके विकसित किया गया है। ट्रांसजेनिक जीवों के विपरीत, SDN-1 और SDN-2 प्रकार की जीनोम-संपादित फसलों में विदेशी डीएनए नहीं होता है।"
+        "en": "India announced 5 new nuclear reactors as part of its energy expansion plans. The nation is aiming to achieve a substantial increase in its nuclear power capacity to meet long-term energy needs and carbon emission reduction targets by 2047.",
+        "hi": "भारत ने अपनी ऊर्जा विस्तार योजनाओं के हिस्से के रूप में 5 नए परमाणु रिएक्टरों की घोषणा की। राष्ट्र 2047 तक दीर्घकालिक ऊर्जा आवश्यकताओं और कार्बन उत्सर्जन में कमी के लक्ष्यों को पूरा करने के लिए अपनी परमाणु ऊर्जा क्षमता में पर्याप्त वृद्धि प्राप्त करने का लक्ष्य रख रहा है।"
       },
       "category": "Science & Technology",
       "difficulty": "medium",
-      "sourceUrl": "https://www.gktoday.in/india-backs-genome-edited-rice-varieties/"
+      "sourceUrl": "https://www.thetargetclasses.com/gk/current-affairs-21-august-2026/"
     },
     {
-      "id": "ca_20260821_09",
+      "id": "ca_20260822_04",
       "question": {
-        "en": "Who is heading the High-Powered Enquiry Committee (HPEC) constituted by the Supreme Court to probe police excesses during student protests in July 2026?",
-        "hi": "जुलाई 2026 में छात्र विरोध प्रदर्शनों के दौरान पुलिस की ज्यादतियों की जांच के लिए सर्वोच्च न्यायालय द्वारा गठित उच्चाधिकार प्राप्त जांच समिति (HPEC) का नेतृत्व कौन कर रहा है?"
+        "en": "India is currently aiming to expand its piped gas coverage significantly. From the current coverage of around 70 cities, what is the new target number of cities?",
+        "hi": "भारत वर्तमान में अपने पाइप्ड गैस कवरेज का महत्वपूर्ण रूप से विस्तार करने का लक्ष्य रख रहा है। लगभग 70 शहरों के वर्तमान कवरेज से, शहरों का नया लक्षित संख्या क्या है?"
       },
       "options": [
         {
-          "en": "Justice D.Y. Chandrachud",
-          "hi": "न्यायमूर्ति डी.वाई. चंद्रचूड़"
+          "en": "300",
+          "hi": "300"
         },
         {
-          "en": "Justice R. Subhash Reddy",
-          "hi": "न्यायमूर्ति आर. सुभाष रेड्डी"
+          "en": "500",
+          "hi": "500"
         },
         {
-          "en": "Justice Ravi Shankar Jha",
-          "hi": "न्यायमूर्ति रविशंकर झा"
+          "en": "700",
+          "hi": "700"
         },
         {
-          "en": "Justice V. Mohana",
-          "hi": "न्यायमूर्ति वी. मोहना"
+          "en": "1,000",
+          "hi": "1,000"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "As part of India's infrastructural push, the government is preparing to expand piped natural gas (PNG) coverage from approximately 70 cities to around 700 cities, facilitating cleaner fuel for a broader population.",
+        "hi": "भारत के ढांचागत प्रोत्साहन के हिस्से के रूप में, सरकार पाइप्ड प्राकृतिक गैस (PNG) कवरेज को लगभग 70 शहरों से लगभग 700 शहरों तक विस्तारित करने की तैयारी कर रही है, जिससे व्यापक आबादी के लिए स्वच्छ ईंधन की सुविधा मिल सके।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "hard",
+      "sourceUrl": "https://www.thetargetclasses.com/gk/current-affairs-22-august-2026/"
+    },
+    {
+      "id": "ca_20260822_05",
+      "question": {
+        "en": "Regarding major international sporting events, what is India's formally stated preparation goal as highlighted in recent announcements?",
+        "hi": "प्रमुख अंतरराष्ट्रीय खेल आयोजनों के संबंध में, हाल की घोषणाओं में उजागर किए गए अनुसार भारत का औपचारिक रूप से घोषित तैयारी लक्ष्य क्या है?"
+      },
+      "options": [
+        {
+          "en": "Host the 2030 Asian Games",
+          "hi": "2030 एशियाई खेलों की मेजबानी करना"
+        },
+        {
+          "en": "Prepare to host the 2036 Olympics",
+          "hi": "2036 ओलंपिक की मेजबानी की तैयारी करना"
+        },
+        {
+          "en": "Host the 2034 FIFA World Cup",
+          "hi": "2034 फीफा विश्व कप की मेजबानी करना"
+        },
+        {
+          "en": "Host the 2030 Commonwealth Games",
+          "hi": "2030 राष्ट्रमंडल खेलों की मेजबानी करना"
         }
       ],
       "correctAnswer": 1,
       "explanation": {
-        "en": "The Supreme Court constituted a five-member High-Powered Enquiry Committee headed by retired Supreme Court Justice R. Subhash Reddy to conduct a fact-finding probe into police excesses during student protests related to the NEET exams.",
-        "hi": "सुप्रीम कोर्ट ने NEET परीक्षा से संबंधित छात्र विरोध प्रदर्शनों के दौरान पुलिस की ज्यादतियों की तथ्य-खोज जांच करने के लिए सेवानिवृत्त सुप्रीम कोर्ट के न्यायाधीश न्यायमूर्ति आर. सुभाष रेड्डी की अध्यक्षता में पांच सदस्यीय उच्चाधिकार प्राप्त जांच समिति का गठन किया।"
+        "en": "India is gearing up and setting long-term infrastructural and sporting goals to prepare a solid bid to host the 2036 Olympic Games. This goal is expected to boost sports infrastructure and talent development massively.",
+        "hi": "भारत 2036 ओलंपिक खेलों की मेजबानी के लिए एक ठोस बोली तैयार करने हेतु दीर्घकालिक ढांचागत और खेल लक्ष्य निर्धारित कर रहा है और तैयारी कर रहा है। इस लक्ष्य से खेल बुनियादी ढांचे और प्रतिभा विकास को बड़े पैमाने पर बढ़ावा मिलने की उम्मीद है।"
+      },
+      "category": "Sports",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.thetargetclasses.com/gk/current-affairs-21-august-2026/"
+    },
+    {
+      "id": "ca_20260822_06",
+      "question": {
+        "en": "The 'Sujalam Bharat' initiative, often seen in news, primarily relates to which of the following sectors?",
+        "hi": "अक्सर खबरों में देखी जाने वाली 'सुजलम भारत' पहल मुख्य रूप से निम्नलिखित में से किस क्षेत्र से संबंधित है?"
+      },
+      "options": [
+        {
+          "en": "Renewable energy production",
+          "hi": "नवीकरणीय ऊर्जा उत्पादन"
+        },
+        {
+          "en": "Rural drinking water and sanitation",
+          "hi": "ग्रामीण पेयजल और स्वच्छता"
+        },
+        {
+          "en": "Urban smart transportation",
+          "hi": "शहरी स्मार्ट परिवहन"
+        },
+        {
+          "en": "Agricultural crop insurance",
+          "hi": "कृषि फसल बीमा"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The Sujalam Bharat initiative primarily focuses on rural drinking water management and achieving open defecation free (ODF) plus status in villages by managing greywater and ensuring clean water access.",
+        "hi": "सुजलम भारत पहल मुख्य रूप से ग्रामीण पेयजल प्रबंधन पर केंद्रित है और ग्रेवाटर (अपशिष्ट जल) का प्रबंधन करके तथा स्वच्छ पानी की पहुंच सुनिश्चित करके गांवों में खुले में शौच मुक्त (ODF) प्लस का दर्जा प्राप्त करने पर केंद्रित है।"
+      },
+      "category": "Government Schemes",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thetargetclasses.com/gk/current-affairs-22-august-2026/"
+    },
+    {
+      "id": "ca_20260822_07",
+      "question": {
+        "en": "In August 2026, the 12th BRICS Communications Ministers Meeting was hosted by India in which city?",
+        "hi": "अगस्त 2026 में, भारत द्वारा 12वीं ब्रिक्स संचार मंत्रियों की बैठक की मेजबानी किस शहर में की गई थी?"
+      },
+      "options": [
+        {
+          "en": "New Delhi",
+          "hi": "नई दिल्ली"
+        },
+        {
+          "en": "Hyderabad",
+          "hi": "हैदराबाद"
+        },
+        {
+          "en": "Pune",
+          "hi": "पुणे"
+        },
+        {
+          "en": "Bengaluru",
+          "hi": "बेंगलुरु"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The 12th BRICS Communications Ministers Meeting was held in Pune, Maharashtra. The discussions focused on expanding cooperation in digital infrastructure, cyber security, and telecommunication among member nations.",
+        "hi": "12वीं ब्रिक्स संचार मंत्रियों की बैठक पुणे, महाराष्ट्र में आयोजित की गई थी। विचार-विमर्श सदस्य देशों के बीच डिजिटल बुनियादी ढांचे, साइबर सुरक्षा और दूरसंचार में सहयोग बढ़ाने पर केंद्रित था।"
+      },
+      "category": "International Summits",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thetargetclasses.com/gk/current-affairs-22-august-2026/"
+    },
+    {
+      "id": "ca_20260822_08",
+      "question": {
+        "en": "Which bill, passed by the Lok Sabha in August 2026, focuses on streamlining the process and integrating databases for civil registration?",
+        "hi": "अगस्त 2026 में लोकसभा द्वारा पारित कौन सा विधेयक नागरिक पंजीकरण के लिए प्रक्रिया को सुव्यवस्थित करने और डेटाबेस को एकीकृत करने पर केंद्रित है?"
+      },
+      "options": [
+        {
+          "en": "Civil Registration Bill, 2026",
+          "hi": "नागरिक पंजीकरण विधेयक, 2026"
+        },
+        {
+          "en": "Registration of Births and Deaths (Amendment) Bill, 2026",
+          "hi": "जन्म और मृत्यु पंजीकरण (संशोधन) विधेयक, 2026"
+        },
+        {
+          "en": "National Population Bill, 2026",
+          "hi": "राष्ट्रीय जनसंख्या विधेयक, 2026"
+        },
+        {
+          "en": "Census Reform Bill, 2026",
+          "hi": "जनगणना सुधार विधेयक, 2026"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The Lok Sabha passed the Registration of Births and Deaths (Amendment) Bill, 2026. The legislation paves the way for digital birth certificates and centralises databases for educational and government services integration.",
+        "hi": "लोकसभा ने जन्म और मृत्यु पंजीकरण (संशोधन) विधेयक, 2026 पारित किया। यह कानून डिजिटल जन्म प्रमाण पत्र का मार्ग प्रशस्त करता है और शैक्षिक और सरकारी सेवाओं के एकीकरण के लिए डेटाबेस को केंद्रीकृत करता है।"
       },
       "category": "Polity & Governance",
       "difficulty": "medium",
-      "sourceUrl": "https://www.gktoday.in/supreme-court-forms-panel-to-probe-police-excesses/"
+      "sourceUrl": "https://www.thetargetclasses.com/gk/current-affairs-21-august-2026/"
     },
     {
-      "id": "ca_20260821_10",
+      "id": "ca_20260822_09",
       "question": {
-        "en": "In 2026, Pakistan proposed its highest civilian award, the Nishan-e-Imtiaz, for two Mumbai-based Parsi doctors who examined which historical figure in 1946?",
-        "hi": "2026 में, पाकिस्तान ने अपने सर्वोच्च नागरिक पुरस्कार, निशान-ए-इम्तियाज के लिए मुंबई स्थित दो पारसी डॉक्टरों के नाम का प्रस्ताव रखा, जिन्होंने 1946 में किस ऐतिहासिक व्यक्ति का परीक्षण किया था?"
+        "en": "The proposed Liquefied Petroleum Gas (LPG) import agreement between Indian Oil Corporation (IOC) and Algeria's Sonatrach is expected to begin in which year?",
+        "hi": "इंडियन ऑयल कॉर्पोरेशन (IOC) और अल्जीरिया के सोनात्राच के बीच प्रस्तावित तरलीकृत पेट्रोलियम गैस (LPG) आयात समझौता किस वर्ष शुरू होने की उम्मीद है?"
       },
       "options": [
         {
-          "en": "Mahatma Gandhi",
-          "hi": "महात्मा गांधी"
+          "en": "2026",
+          "hi": "2026"
         },
         {
-          "en": "Liaquat Ali Khan",
-          "hi": "लियाकत अली खान"
+          "en": "2027",
+          "hi": "2027"
         },
         {
-          "en": "Muhammad Ali Jinnah",
-          "hi": "मुहम्मद अली जिन्ना"
+          "en": "2028",
+          "hi": "2028"
         },
         {
-          "en": "Jawaharlal Nehru",
-          "hi": "जवाहरलाल नेहरू"
+          "en": "2030",
+          "hi": "2030"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The proposed long-term LPG import agreement between India's IOC and Algeria's state-owned oil company Sonatrach is expected to commence in 2027. This move is aimed at diversifying India's energy import sources.",
+        "hi": "भारत की IOC और अल्जीरिया की सरकारी तेल कंपनी सोनात्राच के बीच प्रस्तावित दीर्घकालिक LPG आयात समझौता 2027 में शुरू होने की उम्मीद है। इस कदम का उद्देश्य भारत के ऊर्जा आयात स्रोतों में विविधता लाना है।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "hard",
+      "sourceUrl": "https://www.thetargetclasses.com/gk/current-affairs-22-august-2026/"
+    },
+    {
+      "id": "ca_20260822_10",
+      "question": {
+        "en": "Which Indian regulatory body recently launched two cybersecurity portals—Incident Reporting and Cyber Suraksha—to enhance market cyber-defence?",
+        "hi": "बाजार की साइबर-रक्षा को बढ़ाने के लिए हाल ही में किस भारतीय नियामक निकाय ने दो साइबर सुरक्षा पोर्टल—इंसीडेंट रिपोर्टिंग और साइबर सुरक्षा—लॉन्च किए हैं?"
+      },
+      "options": [
+        {
+          "en": "Reserve Bank of India (RBI)",
+          "hi": "भारतीय रिजर्व बैंक (RBI)"
+        },
+        {
+          "en": "Insurance Regulatory and Development Authority (IRDAI)",
+          "hi": "बीमा विनियामक और विकास प्राधिकरण (IRDAI)"
+        },
+        {
+          "en": "Securities and Exchange Board of India (SEBI)",
+          "hi": "भारतीय प्रतिभूति और विनिमय बोर्ड (SEBI)"
+        },
+        {
+          "en": "Telecom Regulatory Authority of India (TRAI)",
+          "hi": "भारतीय दूरसंचार विनियामक प्राधिकरण (TRAI)"
         }
       ],
       "correctAnswer": 2,
       "explanation": {
-        "en": "Pakistan proposed the Nishan-e-Imtiaz for Dr. Jal Ratanji Patel and Dr. Jal Dhaybho-Koo, who diagnosed Muhammad Ali Jinnah with terminal tuberculosis in Bombay in 1946. Their strict medical confidentiality became an important part of the historical narrative surrounding Partition.",
-        "hi": "पाकिस्तान ने डॉ. जल रतनजी पटेल और डॉ. जल धायभो-कू के लिए निशान-ए-इम्तियाज का प्रस्ताव रखा, जिन्होंने 1946 में बॉम्बे में मुहम्मद अली जिन्ना को टर्मिनल ट्यूबरकुलोसिस (तपेदिक) का निदान किया था। उनकी सख्त चिकित्सा गोपनीयता विभाजन से जुड़े ऐतिहासिक आख्यान का एक महत्वपूर्ण हिस्सा बन गई।"
+        "en": "The Securities and Exchange Board of India (SEBI) launched two portals: the SEBI Incident Reporting portal and the Cyber Suraksha portal. These are designed to strengthen the cybersecurity framework for stock market entities and intermediaries.",
+        "hi": "भारतीय प्रतिभूति और विनिमय बोर्ड (SEBI) ने दो पोर्टल लॉन्च किए: SEBI इंसीडेंट रिपोर्टिंग पोर्टल और साइबर सुरक्षा पोर्टल। इन्हें शेयर बाजार संस्थाओं और मध्यस्थों के लिए साइबर सुरक्षा ढांचे को मजबूत करने के लिए डिज़ाइन किया गया है।"
       },
-      "category": "Awards & Honours",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.gktoday.in/two-mumbai-doctors-to-receive-nishan-e-imtiaz/"
+      "category": "Economy & Banking",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.thetargetclasses.com/gk/current-affairs-21-august-2026/"
     }
   ]
 }
