@@ -1,0 +1,340 @@
+{
+  "date": "2026-08-22",
+  "topic": "SSC CGL Daily Current Affairs",
+  "source": "PIB / The Hindu / Economic Times / Indian Express / GKToday",
+  "lastUpdated": "2026-08-22T00:00:00+05:30",
+  "version": 1,
+  "totalQuestions": 10,
+  "quiz": [
+    {
+      "id": "ca_20260822_01",
+      "question": {
+        "en": "What is the repo rate kept unchanged by the Reserve Bank of India (RBI) after its Monetary Policy Committee (MPC) meeting in August 2026?",
+        "hi": "अगस्त 2026 में अपनी मौद्रिक नीति समिति (MPC) की बैठक के बाद भारतीय रिजर्व बैंक (RBI) द्वारा रेपो दर को क्या अपरिवर्तित रखा गया है?"
+      },
+      "options": [
+        {
+          "en": "4.75%",
+          "hi": "4.75%"
+        },
+        {
+          "en": "5.00%",
+          "hi": "5.00%"
+        },
+        {
+          "en": "5.25%",
+          "hi": "5.25%"
+        },
+        {
+          "en": "5.50%",
+          "hi": "5.50%"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The Reserve Bank of India (RBI) kept the repo rate unchanged at 5.25% in its August 2026 MPC meeting. However, policymakers warned that rising global oil prices could increase inflationary risks in the future.",
+        "hi": "भारतीय रिजर्व बैंक (RBI) ने अपनी अगस्त 2026 की MPC बैठक में रेपो दर को 5.25% पर अपरिवर्तित रखा। हालांकि, नीति निर्माताओं ने चेतावनी दी कि वैश्विक तेल की बढ़ती कीमतें भविष्य में मुद्रास्फीति के जोखिम को बढ़ा सकती हैं।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thetargetclasses.com/gk/current-affairs-22-august-2026/"
+    },
+    {
+      "id": "ca_20260822_02",
+      "question": {
+        "en": "India's foreign-exchange reserves crossed which historic milestone as of August 2026?",
+        "hi": "अगस्त 2026 तक भारत का विदेशी मुद्रा भंडार किस ऐतिहासिक मील के पत्थर को पार कर गया है?"
+      },
+      "options": [
+        {
+          "en": "$600 billion",
+          "hi": "$600 बिलियन"
+        },
+        {
+          "en": "$650 billion",
+          "hi": "$650 बिलियन"
+        },
+        {
+          "en": "$700 billion",
+          "hi": "$700 बिलियन"
+        },
+        {
+          "en": "$750 billion",
+          "hi": "$750 बिलियन"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "India's foreign-exchange reserves rose to approximately $707 billion as of early August 2026, touching a four-month high. The reserves include foreign currency assets, gold, Special Drawing Rights (SDRs), and the Reserve Tranche Position in the IMF.",
+        "hi": "अगस्त 2026 की शुरुआत तक भारत का विदेशी मुद्रा भंडार लगभग $707 बिलियन तक बढ़ गया, जो चार महीने के उच्चतम स्तर को छू रहा है। भंडार में विदेशी मुद्रा संपत्ति, सोना, विशेष आहरण अधिकार (SDR) और IMF में रिज़र्व ट्रेंच पोजीशन शामिल हैं।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.thetargetclasses.com/gk/current-affairs-22-august-2026/"
+    },
+    {
+      "id": "ca_20260822_03",
+      "question": {
+        "en": "How many new nuclear reactors have been announced as part of India's long-term energy expansion plans revealed around Independence Day 2026?",
+        "hi": "स्वतंत्रता दिवस 2026 के आसपास भारत की दीर्घकालिक ऊर्जा विस्तार योजनाओं के हिस्से के रूप में कितने नए परमाणु रिएक्टरों की घोषणा की गई है?"
+      },
+      "options": [
+        {
+          "en": "3",
+          "hi": "3"
+        },
+        {
+          "en": "4",
+          "hi": "4"
+        },
+        {
+          "en": "5",
+          "hi": "5"
+        },
+        {
+          "en": "7",
+          "hi": "7"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "India announced 5 new nuclear reactors as part of its energy expansion plans. The nation is aiming to achieve a substantial increase in its nuclear power capacity to meet long-term energy needs and carbon emission reduction targets by 2047.",
+        "hi": "भारत ने अपनी ऊर्जा विस्तार योजनाओं के हिस्से के रूप में 5 नए परमाणु रिएक्टरों की घोषणा की। राष्ट्र 2047 तक दीर्घकालिक ऊर्जा आवश्यकताओं और कार्बन उत्सर्जन में कमी के लक्ष्यों को पूरा करने के लिए अपनी परमाणु ऊर्जा क्षमता में पर्याप्त वृद्धि प्राप्त करने का लक्ष्य रख रहा है।"
+      },
+      "category": "Science & Technology",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thetargetclasses.com/gk/current-affairs-21-august-2026/"
+    },
+    {
+      "id": "ca_20260822_04",
+      "question": {
+        "en": "India is currently aiming to expand its piped gas coverage significantly. From the current coverage of around 70 cities, what is the new target number of cities?",
+        "hi": "भारत वर्तमान में अपने पाइप्ड गैस कवरेज का महत्वपूर्ण रूप से विस्तार करने का लक्ष्य रख रहा है। लगभग 70 शहरों के वर्तमान कवरेज से, शहरों का नया लक्षित संख्या क्या है?"
+      },
+      "options": [
+        {
+          "en": "300",
+          "hi": "300"
+        },
+        {
+          "en": "500",
+          "hi": "500"
+        },
+        {
+          "en": "700",
+          "hi": "700"
+        },
+        {
+          "en": "1,000",
+          "hi": "1,000"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "As part of India's infrastructural push, the government is preparing to expand piped natural gas (PNG) coverage from approximately 70 cities to around 700 cities, facilitating cleaner fuel for a broader population.",
+        "hi": "भारत के ढांचागत प्रोत्साहन के हिस्से के रूप में, सरकार पाइप्ड प्राकृतिक गैस (PNG) कवरेज को लगभग 70 शहरों से लगभग 700 शहरों तक विस्तारित करने की तैयारी कर रही है, जिससे व्यापक आबादी के लिए स्वच्छ ईंधन की सुविधा मिल सके।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "hard",
+      "sourceUrl": "https://www.thetargetclasses.com/gk/current-affairs-22-august-2026/"
+    },
+    {
+      "id": "ca_20260822_05",
+      "question": {
+        "en": "Regarding major international sporting events, what is India's formally stated preparation goal as highlighted in recent announcements?",
+        "hi": "प्रमुख अंतरराष्ट्रीय खेल आयोजनों के संबंध में, हाल की घोषणाओं में उजागर किए गए अनुसार भारत का औपचारिक रूप से घोषित तैयारी लक्ष्य क्या है?"
+      },
+      "options": [
+        {
+          "en": "Host the 2030 Asian Games",
+          "hi": "2030 एशियाई खेलों की मेजबानी करना"
+        },
+        {
+          "en": "Prepare to host the 2036 Olympics",
+          "hi": "2036 ओलंपिक की मेजबानी की तैयारी करना"
+        },
+        {
+          "en": "Host the 2034 FIFA World Cup",
+          "hi": "2034 फीफा विश्व कप की मेजबानी करना"
+        },
+        {
+          "en": "Host the 2030 Commonwealth Games",
+          "hi": "2030 राष्ट्रमंडल खेलों की मेजबानी करना"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "India is gearing up and setting long-term infrastructural and sporting goals to prepare a solid bid to host the 2036 Olympic Games. This goal is expected to boost sports infrastructure and talent development massively.",
+        "hi": "भारत 2036 ओलंपिक खेलों की मेजबानी के लिए एक ठोस बोली तैयार करने हेतु दीर्घकालिक ढांचागत और खेल लक्ष्य निर्धारित कर रहा है और तैयारी कर रहा है। इस लक्ष्य से खेल बुनियादी ढांचे और प्रतिभा विकास को बड़े पैमाने पर बढ़ावा मिलने की उम्मीद है।"
+      },
+      "category": "Sports",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.thetargetclasses.com/gk/current-affairs-21-august-2026/"
+    },
+    {
+      "id": "ca_20260822_06",
+      "question": {
+        "en": "The 'Sujalam Bharat' initiative, often seen in news, primarily relates to which of the following sectors?",
+        "hi": "अक्सर खबरों में देखी जाने वाली 'सुजलम भारत' पहल मुख्य रूप से निम्नलिखित में से किस क्षेत्र से संबंधित है?"
+      },
+      "options": [
+        {
+          "en": "Renewable energy production",
+          "hi": "नवीकरणीय ऊर्जा उत्पादन"
+        },
+        {
+          "en": "Rural drinking water and sanitation",
+          "hi": "ग्रामीण पेयजल और स्वच्छता"
+        },
+        {
+          "en": "Urban smart transportation",
+          "hi": "शहरी स्मार्ट परिवहन"
+        },
+        {
+          "en": "Agricultural crop insurance",
+          "hi": "कृषि फसल बीमा"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The Sujalam Bharat initiative primarily focuses on rural drinking water management and achieving open defecation free (ODF) plus status in villages by managing greywater and ensuring clean water access.",
+        "hi": "सुजलम भारत पहल मुख्य रूप से ग्रामीण पेयजल प्रबंधन पर केंद्रित है और ग्रेवाटर (अपशिष्ट जल) का प्रबंधन करके तथा स्वच्छ पानी की पहुंच सुनिश्चित करके गांवों में खुले में शौच मुक्त (ODF) प्लस का दर्जा प्राप्त करने पर केंद्रित है।"
+      },
+      "category": "Government Schemes",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thetargetclasses.com/gk/current-affairs-22-august-2026/"
+    },
+    {
+      "id": "ca_20260822_07",
+      "question": {
+        "en": "In August 2026, the 12th BRICS Communications Ministers Meeting was hosted by India in which city?",
+        "hi": "अगस्त 2026 में, भारत द्वारा 12वीं ब्रिक्स संचार मंत्रियों की बैठक की मेजबानी किस शहर में की गई थी?"
+      },
+      "options": [
+        {
+          "en": "New Delhi",
+          "hi": "नई दिल्ली"
+        },
+        {
+          "en": "Hyderabad",
+          "hi": "हैदराबाद"
+        },
+        {
+          "en": "Pune",
+          "hi": "पुणे"
+        },
+        {
+          "en": "Bengaluru",
+          "hi": "बेंगलुरु"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The 12th BRICS Communications Ministers Meeting was held in Pune, Maharashtra. The discussions focused on expanding cooperation in digital infrastructure, cyber security, and telecommunication among member nations.",
+        "hi": "12वीं ब्रिक्स संचार मंत्रियों की बैठक पुणे, महाराष्ट्र में आयोजित की गई थी। विचार-विमर्श सदस्य देशों के बीच डिजिटल बुनियादी ढांचे, साइबर सुरक्षा और दूरसंचार में सहयोग बढ़ाने पर केंद्रित था।"
+      },
+      "category": "International Summits",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thetargetclasses.com/gk/current-affairs-22-august-2026/"
+    },
+    {
+      "id": "ca_20260822_08",
+      "question": {
+        "en": "Which bill, passed by the Lok Sabha in August 2026, focuses on streamlining the process and integrating databases for civil registration?",
+        "hi": "अगस्त 2026 में लोकसभा द्वारा पारित कौन सा विधेयक नागरिक पंजीकरण के लिए प्रक्रिया को सुव्यवस्थित करने और डेटाबेस को एकीकृत करने पर केंद्रित है?"
+      },
+      "options": [
+        {
+          "en": "Civil Registration Bill, 2026",
+          "hi": "नागरिक पंजीकरण विधेयक, 2026"
+        },
+        {
+          "en": "Registration of Births and Deaths (Amendment) Bill, 2026",
+          "hi": "जन्म और मृत्यु पंजीकरण (संशोधन) विधेयक, 2026"
+        },
+        {
+          "en": "National Population Bill, 2026",
+          "hi": "राष्ट्रीय जनसंख्या विधेयक, 2026"
+        },
+        {
+          "en": "Census Reform Bill, 2026",
+          "hi": "जनगणना सुधार विधेयक, 2026"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The Lok Sabha passed the Registration of Births and Deaths (Amendment) Bill, 2026. The legislation paves the way for digital birth certificates and centralises databases for educational and government services integration.",
+        "hi": "लोकसभा ने जन्म और मृत्यु पंजीकरण (संशोधन) विधेयक, 2026 पारित किया। यह कानून डिजिटल जन्म प्रमाण पत्र का मार्ग प्रशस्त करता है और शैक्षिक और सरकारी सेवाओं के एकीकरण के लिए डेटाबेस को केंद्रीकृत करता है।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thetargetclasses.com/gk/current-affairs-21-august-2026/"
+    },
+    {
+      "id": "ca_20260822_09",
+      "question": {
+        "en": "The proposed Liquefied Petroleum Gas (LPG) import agreement between Indian Oil Corporation (IOC) and Algeria's Sonatrach is expected to begin in which year?",
+        "hi": "इंडियन ऑयल कॉर्पोरेशन (IOC) और अल्जीरिया के सोनात्राच के बीच प्रस्तावित तरलीकृत पेट्रोलियम गैस (LPG) आयात समझौता किस वर्ष शुरू होने की उम्मीद है?"
+      },
+      "options": [
+        {
+          "en": "2026",
+          "hi": "2026"
+        },
+        {
+          "en": "2027",
+          "hi": "2027"
+        },
+        {
+          "en": "2028",
+          "hi": "2028"
+        },
+        {
+          "en": "2030",
+          "hi": "2030"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The proposed long-term LPG import agreement between India's IOC and Algeria's state-owned oil company Sonatrach is expected to commence in 2027. This move is aimed at diversifying India's energy import sources.",
+        "hi": "भारत की IOC और अल्जीरिया की सरकारी तेल कंपनी सोनात्राच के बीच प्रस्तावित दीर्घकालिक LPG आयात समझौता 2027 में शुरू होने की उम्मीद है। इस कदम का उद्देश्य भारत के ऊर्जा आयात स्रोतों में विविधता लाना है।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "hard",
+      "sourceUrl": "https://www.thetargetclasses.com/gk/current-affairs-22-august-2026/"
+    },
+    {
+      "id": "ca_20260822_10",
+      "question": {
+        "en": "Which Indian regulatory body recently launched two cybersecurity portals—Incident Reporting and Cyber Suraksha—to enhance market cyber-defence?",
+        "hi": "बाजार की साइबर-रक्षा को बढ़ाने के लिए हाल ही में किस भारतीय नियामक निकाय ने दो साइबर सुरक्षा पोर्टल—इंसीडेंट रिपोर्टिंग और साइबर सुरक्षा—लॉन्च किए हैं?"
+      },
+      "options": [
+        {
+          "en": "Reserve Bank of India (RBI)",
+          "hi": "भारतीय रिजर्व बैंक (RBI)"
+        },
+        {
+          "en": "Insurance Regulatory and Development Authority (IRDAI)",
+          "hi": "बीमा विनियामक और विकास प्राधिकरण (IRDAI)"
+        },
+        {
+          "en": "Securities and Exchange Board of India (SEBI)",
+          "hi": "भारतीय प्रतिभूति और विनिमय बोर्ड (SEBI)"
+        },
+        {
+          "en": "Telecom Regulatory Authority of India (TRAI)",
+          "hi": "भारतीय दूरसंचार विनियामक प्राधिकरण (TRAI)"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The Securities and Exchange Board of India (SEBI) launched two portals: the SEBI Incident Reporting portal and the Cyber Suraksha portal. These are designed to strengthen the cybersecurity framework for stock market entities and intermediaries.",
+        "hi": "भारतीय प्रतिभूति और विनिमय बोर्ड (SEBI) ने दो पोर्टल लॉन्च किए: SEBI इंसीडेंट रिपोर्टिंग पोर्टल और साइबर सुरक्षा पोर्टल। इन्हें शेयर बाजार संस्थाओं और मध्यस्थों के लिए साइबर सुरक्षा ढांचे को मजबूत करने के लिए डिज़ाइन किया गया है।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.thetargetclasses.com/gk/current-affairs-21-august-2026/"
+    }
+  ]
+}
