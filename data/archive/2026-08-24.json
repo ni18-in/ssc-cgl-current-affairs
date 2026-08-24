@@ -1,0 +1,340 @@
+{
+  "date": "2026-08-24",
+  "topic": "SSC CGL Daily Current Affairs",
+  "source": "PIB / The Hindu / Economic Times / Indian Express / GKToday",
+  "lastUpdated": "2026-08-24T05:30:00+05:30",
+  "version": 1,
+  "totalQuestions": 10,
+  "quiz": [
+    {
+      "id": "ca_20260824_01",
+      "question": {
+        "en": "The Ministry of Defence notified the sixth Positive Indigenisation List covering 405 items. Which department is responsible for issuing this list?",
+        "hi": "रक्षा मंत्रालय ने 405 वस्तुओं को शामिल करते हुए छठी सकारात्मक स्वदेशीकरण सूची अधिसूचित की। इस सूची को जारी करने के लिए कौन सा विभाग जिम्मेदार है?"
+      },
+      "options": [
+        {
+          "en": "Department of Military Affairs",
+          "hi": "सैन्य मामलों का विभाग"
+        },
+        {
+          "en": "Department of Defence Production",
+          "hi": "रक्षा उत्पादन विभाग"
+        },
+        {
+          "en": "Defence Research and Development Organisation (DRDO)",
+          "hi": "रक्षा अनुसंधान और विकास संगठन (DRDO)"
+        },
+        {
+          "en": "Department of Ex-Servicemen Welfare",
+          "hi": "पूर्व सैनिक कल्याण विभाग"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The Department of Defence Production notified the 6th Positive Indigenisation List covering 405 strategically important defence items. These items will be sourced only from Indian industry, boosting the 'Aatmanirbhar Bharat' initiative.",
+        "hi": "रक्षा उत्पादन विभाग ने 405 रणनीतिक रूप से महत्वपूर्ण रक्षा वस्तुओं को शामिल करते हुए छठी सकारात्मक स्वदेशीकरण सूची अधिसूचित की। इन वस्तुओं को केवल भारतीय उद्योग से प्राप्त किया जाएगा, जिससे 'आत्मनिर्भर भारत' पहल को बढ़ावा मिलेगा।"
+      },
+      "category": "Defence & Security",
+      "difficulty": "medium",
+      "sourceUrl": "https://pib.gov.in"
+    },
+    {
+      "id": "ca_20260824_02",
+      "question": {
+        "en": "Who has been appointed as the new Chief Executive Officer (CEO) and Managing Director of Air India, succeeding Campbell Wilson?",
+        "hi": "कैंपबेल विल्सन के स्थान पर एयर इंडिया का नया मुख्य कार्यकारी अधिकारी (CEO) और प्रबंध निदेशक किसे नियुक्त किया गया है?"
+      },
+      "options": [
+        {
+          "en": "Ilker Ayci",
+          "hi": "इल्कर आयसी"
+        },
+        {
+          "en": "Pieter Elbers",
+          "hi": "पीटर एल्बर्स"
+        },
+        {
+          "en": "Tewolde Gebremariam",
+          "hi": "टेवोल्डे गेब्रेमरियम"
+        },
+        {
+          "en": "Willie Walsh",
+          "hi": "विली वॉल्श"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Tewolde Gebremariam, the former chief of Ethiopian Airlines, was named as the new CEO and MD of Air India by the Tata Group. He replaces Campbell Wilson in leading the airline's transformation efforts.",
+        "hi": "इथियोपियन एयरलाइंस के पूर्व प्रमुख टेवोल्डे गेब्रेमरियम को टाटा समूह द्वारा एयर इंडिया का नया सीईओ और एमडी नामित किया गया। वह एयरलाइन के परिवर्तन प्रयासों का नेतृत्व करने में कैंपबेल विल्सन का स्थान लेंगे।"
+      },
+      "category": "Appointments & Commissions",
+      "difficulty": "easy",
+      "sourceUrl": "https://economictimes.indiatimes.com"
+    },
+    {
+      "id": "ca_20260824_03",
+      "question": {
+        "en": "The 'Shakti Ki Saptadhara' framework recently mentioned in the news is primarily associated with which of the following objectives?",
+        "hi": "हाल ही में समाचारों में उल्लिखित 'शक्ति की सप्तधारा' रूपरेखा मुख्य रूप से निम्नलिखित में से किस उद्देश्य से जुड़ी है?"
+      },
+      "options": [
+        {
+          "en": "Empowering women entrepreneurs in rural India",
+          "hi": "ग्रामीण भारत में महिला उद्यमियों को सशक्त बनाना"
+        },
+        {
+          "en": "A seven-stream roadmap for reaching Viksit Bharat by 2047",
+          "hi": "2047 तक विकसित भारत तक पहुंचने के लिए सात-धारा रोडमैप"
+        },
+        {
+          "en": "Seven core sectors of the economy for boosting exports",
+          "hi": "निर्यात को बढ़ावा देने के लिए अर्थव्यवस्था के सात मुख्य क्षेत्र"
+        },
+        {
+          "en": "Modernization of India's conventional armed forces",
+          "hi": "भारत के पारंपरिक सशस्त्र बलों का आधुनिकीकरण"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "In his 80th Independence Day address, PM Narendra Modi unveiled 'Shakti Ki Saptadhara', a seven-stream roadmap aimed at transforming India into a developed nation (Viksit Bharat) by the year 2047.",
+        "hi": "अपने 80वें स्वतंत्रता दिवस के संबोधन में, पीएम नरेंद्र मोदी ने 'शक्ति की सप्तधारा' का अनावरण किया, जो वर्ष 2047 तक भारत को एक विकसित राष्ट्र (विकसित भारत) में बदलने के उद्देश्य से एक सात-धारा रोडमैप है।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "medium",
+      "sourceUrl": "https://pib.gov.in"
+    },
+    {
+      "id": "ca_20260824_04",
+      "question": {
+        "en": "Which state recently launched the 'Mukhyamantri Swasthya Bima Yojana' alongside the implementation of Ayushman Bharat PM-JAY?",
+        "hi": "हाल ही में किस राज्य ने आयुष्मान भारत PM-JAY के कार्यान्वयन के साथ 'मुख्यमंत्री स्वास्थ्य बीमा योजना' शुरू की है?"
+      },
+      "options": [
+        {
+          "en": "Odisha",
+          "hi": "ओडिशा"
+        },
+        {
+          "en": "West Bengal",
+          "hi": "पश्चिम बंगाल"
+        },
+        {
+          "en": "Rajasthan",
+          "hi": "राजस्थान"
+        },
+        {
+          "en": "Jharkhand",
+          "hi": "झारखंड"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "West Bengal formally rolled out the Ayushman Bharat PM-JAY health insurance scheme along with its own Mukhyamantri Swasthya Bima Yojana. It empanelled nearly 1,867 hospitals to expand healthcare access.",
+        "hi": "पश्चिम बंगाल ने औपचारिक रूप से अपनी मुख्यमंत्री स्वास्थ्य बीमा योजना के साथ-साथ आयुष्मान भारत PM-JAY स्वास्थ्य बीमा योजना शुरू की। इसने स्वास्थ्य सेवा तक पहुंच का विस्तार करने के लिए लगभग 1,867 अस्पतालों को सूचीबद्ध किया।"
+      },
+      "category": "Government Schemes",
+      "difficulty": "easy",
+      "sourceUrl": "https://thehindu.com"
+    },
+    {
+      "id": "ca_20260824_05",
+      "question": {
+        "en": "The Union Cabinet recently approved the National Circular Bioenergy Scheme 'GOBARdhan' with an outlay of Rs 23,731 crore. What is the administered price set for compressed biogas under this scheme?",
+        "hi": "केंद्रीय मंत्रिमंडल ने हाल ही में 23,731 करोड़ रुपये के परिव्यय के साथ राष्ट्रीय परिपत्र जैव ऊर्जा योजना 'गोबरधन (GOBARdhan)' को मंजूरी दी। इस योजना के तहत संपीड़ित बायोगैस के लिए निर्धारित मूल्य क्या है?"
+      },
+      "options": [
+        {
+          "en": "Rs 1,550 per MMBTU",
+          "hi": "रुपये 1,550 प्रति MMBTU"
+        },
+        {
+          "en": "Rs 1,850 per MMBTU",
+          "hi": "रुपये 1,850 प्रति MMBTU"
+        },
+        {
+          "en": "Rs 2,110 per MMBTU",
+          "hi": "रुपये 2,110 प्रति MMBTU"
+        },
+        {
+          "en": "Rs 2,500 per MMBTU",
+          "hi": "रुपये 2,500 प्रति MMBTU"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The GOBARdhan scheme aims to scale compressed biogas production. It sets an administered price of Rs 2,110 per MMBTU and provides capital assistance to boost the circular bio-economy in India.",
+        "hi": "गोबरधन योजना का उद्देश्य संपीड़ित बायोगैस उत्पादन को बढ़ाना है। यह 2,110 रुपये प्रति MMBTU का प्रबंधित मूल्य निर्धारित करता है और भारत में परिपत्र जैव-अर्थव्यवस्था को बढ़ावा देने के लिए पूंजीगत सहायता प्रदान करता है।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "hard",
+      "sourceUrl": "https://pib.gov.in"
+    },
+    {
+      "id": "ca_20260824_06",
+      "question": {
+        "en": "India is scheduled to host the 18th BRICS Summit in September 2026. Following recent expansions, how many full members does the BRICS bloc currently have?",
+        "hi": "भारत सितंबर 2026 में 18वें ब्रिक्स शिखर सम्मेलन की मेजबानी करने वाला है। हाल के विस्तार के बाद, ब्रिक्स समूह में वर्तमान में कितने पूर्ण सदस्य हैं?"
+      },
+      "options": [
+        {
+          "en": "5",
+          "hi": "5"
+        },
+        {
+          "en": "9",
+          "hi": "9"
+        },
+        {
+          "en": "11",
+          "hi": "11"
+        },
+        {
+          "en": "15",
+          "hi": "15"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "India will host the 18th BRICS Summit in New Delhi. The BRICS bloc has expanded from its original five members and now consists of 11 full members, enhancing its geopolitical influence.",
+        "hi": "भारत नई दिल्ली में 18वें ब्रिक्स शिखर सम्मेलन की मेजबानी करेगा। ब्रिक्स समूह का अपने मूल पांच सदस्यों से विस्तार हुआ है और अब इसमें 11 पूर्ण सदस्य हैं, जिससे इसका भू-राजनीतिक प्रभाव बढ़ गया है।"
+      },
+      "category": "International Summits",
+      "difficulty": "medium",
+      "sourceUrl": "https://indianexpress.com"
+    },
+    {
+      "id": "ca_20260824_07",
+      "question": {
+        "en": "Glaw Lake has been designated as a Wetland of International Importance under the Ramsar Convention. It is the first Ramsar site located in which state?",
+        "hi": "ग्लाउ झील को रामसर कन्वेंशन के तहत अंतरराष्ट्रीय महत्व के आर्द्रभूमि के रूप में नामित किया गया है। यह किस राज्य में स्थित पहला रामसर स्थल है?"
+      },
+      "options": [
+        {
+          "en": "Sikkim",
+          "hi": "सिक्किम"
+        },
+        {
+          "en": "Nagaland",
+          "hi": "नागालैंड"
+        },
+        {
+          "en": "Meghalaya",
+          "hi": "मेघालय"
+        },
+        {
+          "en": "Arunachal Pradesh",
+          "hi": "अरुणाचल प्रदेश"
+        }
+      ],
+      "correctAnswer": 3,
+      "explanation": {
+        "en": "Glaw Lake, situated within the Kamlang Tiger Reserve, became the 101st Ramsar site of India and the very first Ramsar site for the state of Arunachal Pradesh.",
+        "hi": "कमलांग टाइगर रिजर्व के भीतर स्थित ग्लाउ झील, भारत का 101वां रामसर स्थल और अरुणाचल प्रदेश राज्य के लिए पहला रामसर स्थल बन गया।"
+      },
+      "category": "Environment & Ecology",
+      "difficulty": "medium",
+      "sourceUrl": "https://pib.gov.in"
+    },
+    {
+      "id": "ca_20260824_08",
+      "question": {
+        "en": "Which aerospace startup unveiled 'EVEREST', India's first privately built 800 kN LOX-Methane full-flow staged combustion rocket engine?",
+        "hi": "किस एयरोस्पेस स्टार्टअप ने 'एवरेस्ट (EVEREST)', भारत का पहला निजी तौर पर निर्मित 800 kN LOX-मीथेन पूर्ण-प्रवाह चरणबद्ध दहन रॉकेट इंजन का अनावरण किया?"
+      },
+      "options": [
+        {
+          "en": "Skyroot Aerospace",
+          "hi": "स्काईरूट एयरोस्पेस"
+        },
+        {
+          "en": "Agnikul Cosmos",
+          "hi": "अग्निकुल कॉसमॉस"
+        },
+        {
+          "en": "Astrobase Space Technologies",
+          "hi": "एस्ट्रोबेस स्पेस टेक्नोलॉजीज"
+        },
+        {
+          "en": "Bellatrix Aerospace",
+          "hi": "बेलाट्रिक्स एयरोस्पेस"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Bengaluru-based Astrobase Space Technologies unveiled EVEREST, an advanced 800 kN full-flow staged combustion engine. This makes India the fourth country globally to possess this specific propulsion technology.",
+        "hi": "बेंगलुरु स्थित एस्ट्रोबेस स्पेस टेक्नोलॉजीज ने एक उन्नत 800 kN पूर्ण-प्रवाह चरणबद्ध दहन इंजन, एवरेस्ट का अनावरण किया। यह भारत को इस विशिष्ट प्रणोदन तकनीक के लिए विश्व स्तर पर चौथा देश बनाता है।"
+      },
+      "category": "Science & Technology",
+      "difficulty": "hard",
+      "sourceUrl": "https://thehindu.com"
+    },
+    {
+      "id": "ca_20260824_09",
+      "question": {
+        "en": "At the World Athletics U20 Championships in Eugene, Basant Kumar Meghwal won India's first junior global medal in which athletic event?",
+        "hi": "यूजीन में विश्व एथलेटिक्स U20 चैंपियनशिप में, बसंत कुमार मेघवाल ने किस एथलेटिक स्पर्धा में भारत का पहला जूनियर वैश्विक पदक जीता?"
+      },
+      "options": [
+        {
+          "en": "Long Jump",
+          "hi": "लंबी कूद"
+        },
+        {
+          "en": "High Jump",
+          "hi": "ऊंची कूद"
+        },
+        {
+          "en": "Javelin Throw",
+          "hi": "भाला फेंक"
+        },
+        {
+          "en": "Triple Jump",
+          "hi": "त्रिकूद"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Rajasthan's Basant Kumar Meghwal secured a silver medal in the men's high jump at the World Athletics U20 Championships. This marked India's first-ever high jump medal at a junior global championship.",
+        "hi": "राजस्थान के बसंत कुमार मेघवाल ने विश्व एथलेटिक्स U20 चैंपियनशिप में पुरुषों की ऊंची कूद में रजत पदक हासिल किया। यह जूनियर वैश्विक चैंपियनशिप में भारत का पहला ऊंची कूद पदक था।"
+      },
+      "category": "Sports",
+      "difficulty": "medium",
+      "sourceUrl": "https://indianexpress.com"
+    },
+    {
+      "id": "ca_20260824_10",
+      "question": {
+        "en": "Under the new amendments to the Registration of Births and Deaths Act, a birth registered beyond two years requires an order from which authority?",
+        "hi": "जन्म और मृत्यु पंजीकरण अधिनियम में नए संशोधनों के तहत, दो वर्ष से अधिक समय बाद पंजीकृत जन्म के लिए किस प्राधिकरण के आदेश की आवश्यकता होती है?"
+      },
+      "options": [
+        {
+          "en": "District Magistrate",
+          "hi": "जिला मजिस्ट्रेट"
+        },
+        {
+          "en": "Judicial Magistrate First Class",
+          "hi": "न्यायिक मजिस्ट्रेट प्रथम श्रेणी"
+        },
+        {
+          "en": "Chief Medical Officer",
+          "hi": "मुख्य चिकित्सा अधिकारी"
+        },
+        {
+          "en": "Sub-Divisional Magistrate",
+          "hi": "उप-मंडल मजिस्ट्रेट"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The Registration of Births and Deaths (Amendment) Bill, 2026 stipulates that delayed registration beyond two years will require an order from a Judicial Magistrate First Class. Registrations between one and two years need a regular magistrate's order.",
+        "hi": "जन्म और मृत्यु पंजीकरण (संशोधन) विधेयक, 2026 में यह प्रावधान है कि दो वर्ष से अधिक के विलंबित पंजीकरण के लिए न्यायिक मजिस्ट्रेट प्रथम श्रेणी के आदेश की आवश्यकता होगी। एक से दो वर्ष के बीच के पंजीकरण के लिए नियमित मजिस्ट्रेट के आदेश की आवश्यकता होती है।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "easy",
+      "sourceUrl": "https://thehindu.com"
+    }
+  ]
+}
