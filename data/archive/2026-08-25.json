@@ -1,0 +1,340 @@
+{
+  "date": "2026-08-25",
+  "topic": "SSC CGL Daily Current Affairs",
+  "source": "PIB / The Hindu / Economic Times / Indian Express / GKToday",
+  "lastUpdated": "2026-08-25T05:30:00+05:30",
+  "version": 1,
+  "totalQuestions": 10,
+  "quiz": [
+    {
+      "id": "ca_20260825_01",
+      "question": {
+        "en": "According to the 'Reimagining Skilling for Viksit Bharat@2047' report released by NITI Aayog, what is the estimated number of Indian youth aged 15 to 29 falling into the 'NEET' (Not in Education, Employment, or Training) category?",
+        "hi": "नीति आयोग द्वारा जारी 'विकसित भारत@2047 के लिए कौशल की पुनर्कल्पना (Reimagining Skilling for Viksit Bharat@2047)' रिपोर्ट के अनुसार, 'NEET' (शिक्षा, रोजगार या प्रशिक्षण में नहीं) श्रेणी में आने वाले 15 से 29 वर्ष की आयु के भारतीय युवाओं की अनुमानित संख्या क्या है?"
+      },
+      "options": [
+        {
+          "en": "3.5 crore",
+          "hi": "3.5 करोड़"
+        },
+        {
+          "en": "5.2 crore",
+          "hi": "5.2 करोड़"
+        },
+        {
+          "en": "8.7 crore",
+          "hi": "8.7 करोड़"
+        },
+        {
+          "en": "11.4 crore",
+          "hi": "11.4 करोड़"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "NITI Aayog's report highlights that an estimated 8.7 crore youth in India aged 15-29 are in the NEET category. It identifies education-to-employment gaps and proposes integrating universal General Employability and Entrepreneurship Skills (GEES) from Class 6.",
+        "hi": "नीति आयोग की रिपोर्ट में इस बात पर प्रकाश डाला गया है कि 15-29 आयु वर्ग के अनुमानित 8.7 करोड़ युवा NEET श्रेणी में हैं। यह शिक्षा-से-रोजगार के अंतराल की पहचान करता है और कक्षा 6 से सार्वभौमिक सामान्य रोजगार और उद्यमिता कौशल (GEES) को एकीकृत करने का प्रस्ताव करता है।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "medium",
+      "sourceUrl": "https://pib.gov.in"
+    },
+    {
+      "id": "ca_20260825_02",
+      "question": {
+        "en": "The PM Surya Sarovar Yojana, recently seen in the news, aims to establish 5,000 MW of floating solar capacity along with battery storage. Which of the following is a primary objective of this scheme?",
+        "hi": "हाल ही में समाचारों में देखी गई पीएम सूर्य सरोवर योजना का उद्देश्य बैटरी स्टोरेज के साथ 5,000 मेगावाट की फ्लोटिंग सोलर क्षमता स्थापित करना है। निम्नलिखित में से कौन सा इस योजना का प्राथमिक उद्देश्य है?"
+      },
+      "options": [
+        {
+          "en": "To provide free electricity to farmers for agricultural pumps",
+          "hi": "किसानों को कृषि पंपों के लिए मुफ्त बिजली प्रदान करना"
+        },
+        {
+          "en": "To address land constraints and promote water conservation",
+          "hi": "भूमि की कमी को दूर करना और जल संरक्षण को बढ़ावा देना"
+        },
+        {
+          "en": "To power all Gram Panchayats exclusively with solar energy",
+          "hi": "सभी ग्राम पंचायतों को विशेष रूप से सौर ऊर्जा से बिजली देना"
+        },
+        {
+          "en": "To subsidize rooftop solar panel installation in urban areas",
+          "hi": "शहरी क्षेत्रों में छत पर सौर पैनल स्थापना को सब्सिडी देना"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The PM Surya Sarovar Yojana targets establishing 5,000 MW of floating solar projects with 10,000 MWh battery storage. Floating solar panels help bypass land acquisition issues and reduce water evaporation from reservoirs.",
+        "hi": "पीएम सूर्य सरोवर योजना का लक्ष्य 10,000 MWh बैटरी स्टोरेज के साथ 5,000 मेगावाट की फ्लोटिंग (तैरती) सौर परियोजनाएं स्थापित करना है। फ्लोटिंग सोलर पैनल भूमि अधिग्रहण के मुद्दों को दरकिनार करने और जलाशयों से पानी के वाष्पीकरण को कम करने में मदद करते हैं।"
+      },
+      "category": "Government Schemes",
+      "difficulty": "medium",
+      "sourceUrl": "https://pib.gov.in"
+    },
+    {
+      "id": "ca_20260825_03",
+      "question": {
+        "en": "Which organization recently eased rules for rupee-based export transactions, providing Indian exporters greater flexibility to invoice overseas sales and receive payments in Indian Rupee (INR)?",
+        "hi": "किस संगठन ने हाल ही में रुपया आधारित निर्यात लेनदेन के नियमों में ढील दी है, जिससे भारतीय निर्यातकों को विदेशी बिक्री का चालान बनाने और भारतीय रुपये (INR) में भुगतान प्राप्त करने में अधिक लचीलापन मिला है?"
+      },
+      "options": [
+        {
+          "en": "Securities and Exchange Board of India (SEBI)",
+          "hi": "भारतीय प्रतिभूति और विनिमय बोर्ड (SEBI)"
+        },
+        {
+          "en": "Enforcement Directorate (ED)",
+          "hi": "प्रवर्तन निदेशालय (ED)"
+        },
+        {
+          "en": "Directorate General of Foreign Trade (DGFT)",
+          "hi": "विदेश व्यापार महानिदेशालय (DGFT)"
+        },
+        {
+          "en": "National Bank for Agriculture and Rural Development (NABARD)",
+          "hi": "राष्ट्रीय कृषि और ग्रामीण विकास बैंक (NABARD)"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The Directorate General of Foreign Trade (DGFT), under the Ministry of Commerce and Industry, amended provisions of the Foreign Trade Policy (FTP 2023) to align with RBI guidelines, facilitating easier INR-based trade settlements.",
+        "hi": "वाणिज्य और उद्योग मंत्रालय के तहत विदेश व्यापार महानिदेशालय (DGFT) ने RBI के दिशानिर्देशों के साथ संरेखित करने के लिए विदेश व्यापार नीति (FTP 2023) के प्रावधानों में संशोधन किया, जिससे आसान INR-आधारित व्यापार निपटान की सुविधा मिली।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "easy",
+      "sourceUrl": "https://pib.gov.in"
+    },
+    {
+      "id": "ca_20260825_04",
+      "question": {
+        "en": "President Droupadi Murmu gave her assent to the Taxation and Other Laws (Amendment) Act, 2026. What does the amendment to the Payment and Settlement Systems (PSS) Act of 2007 primarily seek to facilitate?",
+        "hi": "राष्ट्रपति द्रौपदी मुर्मू ने कराधान और अन्य कानून (संशोधन) अधिनियम, 2026 को अपनी स्वीकृति दी। 2007 के भुगतान और निपटान प्रणाली (PSS) अधिनियम में संशोधन मुख्य रूप से क्या सुविधा प्रदान करना चाहता है?"
+      },
+      "options": [
+        {
+          "en": "Abolishing all charges on UPI transactions indefinitely",
+          "hi": "UPI लेनदेन पर सभी शुल्कों को अनिश्चित काल के लिए समाप्त करना"
+        },
+        {
+          "en": "Setting a universal single tax rate for all digital payments",
+          "hi": "सभी डिजिटल भुगतानों के लिए एक सार्वभौमिक एकल कर दर निर्धारित करना"
+        },
+        {
+          "en": "Modifying the framework governing charges on electronic payments",
+          "hi": "इलेक्ट्रॉनिक भुगतान पर शुल्क को नियंत्रित करने वाले ढांचे को संशोधित करना"
+        },
+        {
+          "en": "Banning cryptocurrency transactions via the banking system",
+          "hi": "बैंकिंग प्रणाली के माध्यम से क्रिप्टोकरेंसी लेनदेन पर प्रतिबंध लगाना"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The amendment to the Payment and Settlement Systems (PSS) Act modifies the framework governing charges on electronic payments. These amendments also aim to attract foreign capital and promote domestic electronics manufacturing.",
+        "hi": "भुगतान और निपटान प्रणाली (PSS) अधिनियम में संशोधन इलेक्ट्रॉनिक भुगतान पर शुल्क को नियंत्रित करने वाले ढांचे को संशोधित करता है। इन संशोधनों का उद्देश्य विदेशी पूंजी को आकर्षित करना और घरेलू इलेक्ट्रॉनिक्स निर्माण को बढ़ावा देना भी है।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "medium",
+      "sourceUrl": "https://pib.gov.in"
+    },
+    {
+      "id": "ca_20260825_05",
+      "question": {
+        "en": "The Joint Military Exercise 'MAITREE-XV' was held in August 2026. This bilateral exercise is conducted between India and which country?",
+        "hi": "अगस्त 2026 में संयुक्त सैन्य अभ्यास 'मैत्री-XV (MAITREE-XV)' आयोजित किया गया था। यह द्विपक्षीय अभ्यास भारत और किस देश के बीच आयोजित किया जाता है?"
+      },
+      "options": [
+        {
+          "en": "Sri Lanka",
+          "hi": "श्रीलंका"
+        },
+        {
+          "en": "Thailand",
+          "hi": "थाईलैंड"
+        },
+        {
+          "en": "Malaysia",
+          "hi": "मलेशिया"
+        },
+        {
+          "en": "Vietnam",
+          "hi": "वियतनाम"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Exercise MAITREE is a joint military exercise between the Indian Army and the Royal Thai Army. The 15th edition (MAITREE-XV) was conducted in Surat Thani, Thailand in August 2026 to enhance interoperability in counter-terrorism operations.",
+        "hi": "अभ्यास मैत्री भारतीय सेना और रॉयल थाई सेना के बीच एक संयुक्त सैन्य अभ्यास है। आतंकवाद विरोधी अभियानों में अंतरसंचालनीयता (interoperability) बढ़ाने के लिए अगस्त 2026 में सूरत थानी, थाईलैंड में 15वां संस्करण (मैत्री-XV) आयोजित किया गया था।"
+      },
+      "category": "Defence & Security",
+      "difficulty": "easy",
+      "sourceUrl": "https://indianexpress.com"
+    },
+    {
+      "id": "ca_20260825_06",
+      "question": {
+        "en": "In recent discoveries, fresh excavations have been undertaken at Vaishya Tekri. This ancient site, linked to the Mauryan period, is located in which city?",
+        "hi": "हाल की खोजों में, वैश्य टेकरी में ताज़ा खुदाई की गई है। मौर्य काल से जुड़ा यह प्राचीन स्थल किस शहर में स्थित है?"
+      },
+      "options": [
+        {
+          "en": "Patna",
+          "hi": "पटना"
+        },
+        {
+          "en": "Varanasi",
+          "hi": "वाराणसी"
+        },
+        {
+          "en": "Ujjain",
+          "hi": "उज्जैन"
+        },
+        {
+          "en": "Bhopal",
+          "hi": "भोपाल"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Vaishya Tekri is an Ashoka-era Buddhist site located in Ujjain, Madhya Pradesh. Fresh excavations have uncovered significant artifacts linked to the Mauryan period, shedding light on ancient trade and religious practices.",
+        "hi": "वैश्य टेकरी उज्जैन, मध्य प्रदेश में स्थित अशोक युग का एक बौद्ध स्थल है। ताजा उत्खनन से मौर्य काल से जुड़ी महत्वपूर्ण कलाकृतियां मिली हैं, जो प्राचीन व्यापार और धार्मिक प्रथाओं पर प्रकाश डालती हैं।"
+      },
+      "category": "Science & Technology",
+      "difficulty": "hard",
+      "sourceUrl": "https://www.chronicleindia.in"
+    },
+    {
+      "id": "ca_20260825_07",
+      "question": {
+        "en": "Which organization is developing 'MutAIverse', an AI platform aimed at tracing cancer-causing exposures and mutations?",
+        "hi": "कौन सा संगठन 'म्यूटएआईवर्स (MutAIverse)' विकसित कर रहा है, जो कैंसर पैदा करने वाले एक्सपोज़र और उत्परिवर्तन का पता लगाने के उद्देश्य से एक AI प्लेटफॉर्म है?"
+      },
+      "options": [
+        {
+          "en": "Indian Council of Medical Research (ICMR)",
+          "hi": "भारतीय आयुर्विज्ञान अनुसंधान परिषद (ICMR)"
+        },
+        {
+          "en": "Tata Memorial Centre",
+          "hi": "टाटा मेमोरियल सेंटर"
+        },
+        {
+          "en": "All India Institute of Medical Sciences (AIIMS)",
+          "hi": "अखिल भारतीय आयुर्विज्ञान संस्थान (AIIMS)"
+        },
+        {
+          "en": "Council of Scientific and Industrial Research (CSIR)",
+          "hi": "वैज्ञानिक और औद्योगिक अनुसंधान परिषद (CSIR)"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "MutAIverse is an advanced AI-driven platform being developed to trace cancer-causing environmental exposures and genetic mutations. Such innovations are crucial for predictive oncology and precision medicine in India.",
+        "hi": "म्यूटएआईवर्स (MutAIverse) एक उन्नत एआई-संचालित प्लेटफॉर्म है जिसे कैंसर पैदा करने वाले पर्यावरणीय जोखिमों और आनुवंशिक उत्परिवर्तन का पता लगाने के लिए विकसित किया जा रहा है। भारत में प्रेडिक्टिव ऑन्कोलॉजी और प्रिसिजन मेडिसिन के लिए ऐसे नवाचार महत्वपूर्ण हैं।"
+      },
+      "category": "Science & Technology",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.chronicleindia.in"
+    },
+    {
+      "id": "ca_20260825_08",
+      "question": {
+        "en": "The United Kingdom Maritime Trade Operations (UKMTO), which handles distress calls during maritime security threats in the Indian Ocean, was originally established in which year?",
+        "hi": "यूनाइटेड किंगडम मैरीटाइम ट्रेड ऑपरेशंस (UKMTO), जो हिंद महासागर में समुद्री सुरक्षा खतरों के दौरान संकटकालीन कॉलों (distress calls) को संभालता है, मूल रूप से किस वर्ष स्थापित किया गया था?"
+      },
+      "options": [
+        {
+          "en": "1995",
+          "hi": "1995"
+        },
+        {
+          "en": "2001",
+          "hi": "2001"
+        },
+        {
+          "en": "2008",
+          "hi": "2008"
+        },
+        {
+          "en": "2014",
+          "hi": "2014"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The UKMTO is a British Royal Navy-sponsored organisation formed in 2001 with an initial office in Dubai. It acts as the primary point of contact for commercial vessels dealing with security threats like piracy in the Indian Ocean and Red Sea regions.",
+        "hi": "UKMTO ब्रिटिश रॉयल नेवी द्वारा प्रायोजित एक संगठन है जिसका गठन 2001 में दुबई में एक प्रारंभिक कार्यालय के साथ किया गया था। यह हिंद महासागर और लाल सागर क्षेत्रों में समुद्री डकैती जैसे सुरक्षा खतरों से निपटने वाले वाणिज्यिक जहाजों के लिए संपर्क के प्राथमिक बिंदु के रूप में कार्य करता है।"
+      },
+      "category": "Defence & Security",
+      "difficulty": "hard",
+      "sourceUrl": "https://vajiramandravi.com"
+    },
+    {
+      "id": "ca_20260825_09",
+      "question": {
+        "en": "Sophie Adenot recently became the first woman from which country to conduct a spacewalk outside the International Space Station (ISS)?",
+        "hi": "सोफी एडेनॉट हाल ही में अंतर्राष्ट्रीय अंतरिक्ष स्टेशन (ISS) के बाहर स्पेसवॉक करने वाली किस देश की पहली महिला बन गई हैं?"
+      },
+      "options": [
+        {
+          "en": "Germany",
+          "hi": "जर्मनी"
+        },
+        {
+          "en": "Italy",
+          "hi": "इटली"
+        },
+        {
+          "en": "France",
+          "hi": "फ़्रांस"
+        },
+        {
+          "en": "Canada",
+          "hi": "कनाडा"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Astronaut Sophie Adenot made history by becoming the first French woman to perform an Extravehicular Activity (EVA) or spacewalk outside the International Space Station (ISS).",
+        "hi": "अंतरिक्ष यात्री सोफी एडेनॉट अंतर्राष्ट्रीय अंतरिक्ष स्टेशन (ISS) के बाहर एक्स्ट्रावेहिकुलर गतिविधि (EVA) या स्पेसवॉक करने वाली पहली फ्रांसीसी महिला बनकर इतिहास रच दिया।"
+      },
+      "category": "Science & Technology",
+      "difficulty": "easy",
+      "sourceUrl": "https://testbook.com"
+    },
+    {
+      "id": "ca_20260825_10",
+      "question": {
+        "en": "The Asian Development Bank (ADB) has provided a $230 million loan for a climate-resilient water security and sewerage project in which Indian city?",
+        "hi": "एशियाई विकास बैंक (ADB) ने किस भारतीय शहर में जलवायु-अनुकूल जल सुरक्षा और सीवरेज परियोजना के लिए $230 मिलियन का ऋण प्रदान किया है?"
+      },
+      "options": [
+        {
+          "en": "Bengaluru",
+          "hi": "बेंगलुरु"
+        },
+        {
+          "en": "Chennai",
+          "hi": "चेन्नई"
+        },
+        {
+          "en": "Mumbai",
+          "hi": "मुंबई"
+        },
+        {
+          "en": "Hyderabad",
+          "hi": "हैदराबाद"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The Asian Development Bank (ADB) approved a $230 million loan to support the Chennai climate-resilient water security and sewerage project. It aims to improve urban infrastructure against climate change impacts.",
+        "hi": "एशियाई विकास बैंक (ADB) ने चेन्नई की जलवायु-अनुकूल जल सुरक्षा और सीवरेज परियोजना का समर्थन करने के लिए $230 मिलियन के ऋण को मंजूरी दी। इसका उद्देश्य जलवायु परिवर्तन के प्रभावों के खिलाफ शहरी बुनियादी ढांचे में सुधार करना है।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.chronicleindia.in"
+    }
+  ]
+}

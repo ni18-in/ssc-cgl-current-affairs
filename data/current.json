@@ -1,340 +1,340 @@
 {
-  "date": "2026-08-25",
+  "date": "2026-08-26",
   "topic": "SSC CGL Daily Current Affairs",
   "source": "PIB / The Hindu / Economic Times / Indian Express / GKToday",
-  "lastUpdated": "2026-08-25T05:30:00+05:30",
+  "lastUpdated": "2026-08-26T05:30:00+05:30",
   "version": 1,
   "totalQuestions": 10,
   "quiz": [
     {
-      "id": "ca_20260825_01",
+      "id": "ca_20260826_01",
       "question": {
-        "en": "According to the 'Reimagining Skilling for Viksit Bharat@2047' report released by NITI Aayog, what is the estimated number of Indian youth aged 15 to 29 falling into the 'NEET' (Not in Education, Employment, or Training) category?",
-        "hi": "नीति आयोग द्वारा जारी 'विकसित भारत@2047 के लिए कौशल की पुनर्कल्पना (Reimagining Skilling for Viksit Bharat@2047)' रिपोर्ट के अनुसार, 'NEET' (शिक्षा, रोजगार या प्रशिक्षण में नहीं) श्रेणी में आने वाले 15 से 29 वर्ष की आयु के भारतीय युवाओं की अनुमानित संख्या क्या है?"
+        "en": "Recently, a Tamil Nadu-based start-up launched India’s first reusable hybrid rocket. What is the name of this rocket?",
+        "hi": "हाल ही में, तमिलनाडु स्थित एक स्टार्ट-अप ने भारत का पहला पुन: प्रयोज्य (reusable) हाइब्रिड रॉकेट लॉन्च किया। इस रॉकेट का नाम क्या है?"
       },
       "options": [
         {
-          "en": "3.5 crore",
-          "hi": "3.5 करोड़"
+          "en": "AGNI 1",
+          "hi": "अग्नि 1"
         },
         {
-          "en": "5.2 crore",
-          "hi": "5.2 करोड़"
+          "en": "VYOM 1",
+          "hi": "व्योम 1"
         },
         {
-          "en": "8.7 crore",
-          "hi": "8.7 करोड़"
+          "en": "RHUMI 1",
+          "hi": "रुमी 1 (RHUMI 1)"
         },
         {
-          "en": "11.4 crore",
-          "hi": "11.4 करोड़"
+          "en": "GAGAN 1",
+          "hi": "गगन 1"
         }
       ],
       "correctAnswer": 2,
       "explanation": {
-        "en": "NITI Aayog's report highlights that an estimated 8.7 crore youth in India aged 15-29 are in the NEET category. It identifies education-to-employment gaps and proposes integrating universal General Employability and Entrepreneurship Skills (GEES) from Class 6.",
-        "hi": "नीति आयोग की रिपोर्ट में इस बात पर प्रकाश डाला गया है कि 15-29 आयु वर्ग के अनुमानित 8.7 करोड़ युवा NEET श्रेणी में हैं। यह शिक्षा-से-रोजगार के अंतराल की पहचान करता है और कक्षा 6 से सार्वभौमिक सामान्य रोजगार और उद्यमिता कौशल (GEES) को एकीकृत करने का प्रस्ताव करता है।"
+        "en": "India’s first reusable hybrid rocket, “RHUMI 1”, was launched by a Tamil Nadu-based start-up from Chennai. It is powered by a hybrid motor and aims to advance research on global warming and climate change.",
+        "hi": "भारत का पहला पुन: प्रयोज्य (reusable) हाइब्रिड रॉकेट, 'रुमी 1', चेन्नई से तमिलनाडु स्थित एक स्टार्ट-अप द्वारा लॉन्च किया गया था। यह हाइब्रिड मोटर द्वारा संचालित है और इसका उद्देश्य ग्लोबल वार्मिंग और जलवायु परिवर्तन पर अनुसंधान को आगे बढ़ाना है।"
       },
-      "category": "Economy & Banking",
-      "difficulty": "medium",
-      "sourceUrl": "https://pib.gov.in"
+      "category": "Science & Technology",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.gktoday.in"
     },
     {
-      "id": "ca_20260825_02",
+      "id": "ca_20260826_02",
       "question": {
-        "en": "The PM Surya Sarovar Yojana, recently seen in the news, aims to establish 5,000 MW of floating solar capacity along with battery storage. Which of the following is a primary objective of this scheme?",
-        "hi": "हाल ही में समाचारों में देखी गई पीएम सूर्य सरोवर योजना का उद्देश्य बैटरी स्टोरेज के साथ 5,000 मेगावाट की फ्लोटिंग सोलर क्षमता स्थापित करना है। निम्नलिखित में से कौन सा इस योजना का प्राथमिक उद्देश्य है?"
+        "en": "Which ministry recently launched the 'National Medical Register (NMR) Portal' to create a comprehensive database for all registered allopathic doctors in India?",
+        "hi": "किस मंत्रालय ने हाल ही में भारत में सभी पंजीकृत एलोपैथिक डॉक्टरों के लिए एक व्यापक डेटाबेस बनाने के लिए 'राष्ट्रीय चिकित्सा रजिस्टर (NMR) पोर्टल' लॉन्च किया है?"
       },
       "options": [
         {
-          "en": "To provide free electricity to farmers for agricultural pumps",
-          "hi": "किसानों को कृषि पंपों के लिए मुफ्त बिजली प्रदान करना"
+          "en": "Ministry of Science and Technology",
+          "hi": "विज्ञान और प्रौद्योगिकी मंत्रालय"
         },
         {
-          "en": "To address land constraints and promote water conservation",
-          "hi": "भूमि की कमी को दूर करना और जल संरक्षण को बढ़ावा देना"
+          "en": "Ministry of Health and Family Welfare",
+          "hi": "स्वास्थ्य एवं परिवार कल्याण मंत्रालय"
         },
         {
-          "en": "To power all Gram Panchayats exclusively with solar energy",
-          "hi": "सभी ग्राम पंचायतों को विशेष रूप से सौर ऊर्जा से बिजली देना"
+          "en": "Ministry of Social Justice and Empowerment",
+          "hi": "सामाजिक न्याय और अधिकारिता मंत्रालय"
         },
         {
-          "en": "To subsidize rooftop solar panel installation in urban areas",
-          "hi": "शहरी क्षेत्रों में छत पर सौर पैनल स्थापना को सब्सिडी देना"
+          "en": "Ministry of Ayush",
+          "hi": "आयुष मंत्रालय"
         }
       ],
       "correctAnswer": 1,
       "explanation": {
-        "en": "The PM Surya Sarovar Yojana targets establishing 5,000 MW of floating solar projects with 10,000 MWh battery storage. Floating solar panels help bypass land acquisition issues and reduce water evaporation from reservoirs.",
-        "hi": "पीएम सूर्य सरोवर योजना का लक्ष्य 10,000 MWh बैटरी स्टोरेज के साथ 5,000 मेगावाट की फ्लोटिंग (तैरती) सौर परियोजनाएं स्थापित करना है। फ्लोटिंग सोलर पैनल भूमि अधिग्रहण के मुद्दों को दरकिनार करने और जलाशयों से पानी के वाष्पीकरण को कम करने में मदद करते हैं।"
+        "en": "The Ministry of Health and Family Welfare launched the 'National Medical Register Portal' in New Delhi. Maintained by the National Medical Commission, it serves as a dynamic database for all MBBS doctors eligible for registration in India.",
+        "hi": "स्वास्थ्य और परिवार कल्याण मंत्रालय ने नई दिल्ली में 'राष्ट्रीय चिकित्सा रजिस्टर (NMR) पोर्टल' लॉन्च किया। राष्ट्रीय चिकित्सा आयोग (NMC) द्वारा प्रबंधित यह पोर्टल भारत में पंजीकरण के लिए पात्र सभी MBBS डॉक्टरों के लिए एक गतिशील डेटाबेस के रूप में कार्य करता है।"
+      },
+      "category": "Government Schemes",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.gktoday.in"
+    },
+    {
+      "id": "ca_20260826_03",
+      "question": {
+        "en": "Who recently became the first female national racing champion from India in the saloon category at the MRF Indian National Car Racing Championship?",
+        "hi": "MRF इंडियन नेशनल कार रेसिंग चैंपियनशिप में सैलून श्रेणी में भारत की पहली महिला राष्ट्रीय रेसिंग चैंपियन हाल ही में कौन बनीं?"
+      },
+      "options": [
+        {
+          "en": "Sneha Sharma",
+          "hi": "स्नेहा शर्मा"
+        },
+        {
+          "en": "Alisha Abdullah",
+          "hi": "अलीशा अब्दुल्ला"
+        },
+        {
+          "en": "Diana Pundole",
+          "hi": "डायना पुंडोले"
+        },
+        {
+          "en": "Aishwarya Pissay",
+          "hi": "ऐश्वर्या पिस्से"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Diana Pundole, a teacher and mother from Pune, won the national championship in the saloon category at the MRF Indian National Car Racing Championship in Chennai, breaking barriers in the male-dominated motorsport industry.",
+        "hi": "पुणे की एक शिक्षिका और माँ डायना पुंडोले ने चेन्नई में MRF इंडियन नेशनल कार रेसिंग चैंपियनशिप में सैलून श्रेणी में राष्ट्रीय चैंपियनशिप जीती, जिससे पुरुष-प्रधान मोटरस्पोर्ट उद्योग में बाधाएं टूटीं।"
+      },
+      "category": "Sports",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.gktoday.in"
+    },
+    {
+      "id": "ca_20260826_04",
+      "question": {
+        "en": "The 'Tanager-1 Satellite', recently launched using a SpaceX Falcon 9 rocket, was developed by which space organization to track methane and carbon dioxide emissions?",
+        "hi": "मीथेन और कार्बन डाइऑक्साइड उत्सर्जन को ट्रैक करने के लिए स्पेसएक्स फाल्कन 9 रॉकेट का उपयोग करके हाल ही में लॉन्च किया गया 'टैनेजर-1 सैटेलाइट (Tanager-1 Satellite)' किस अंतरिक्ष संगठन द्वारा विकसित किया गया था?"
+      },
+      "options": [
+        {
+          "en": "ISRO",
+          "hi": "इसरो (ISRO)"
+        },
+        {
+          "en": "ESA",
+          "hi": "ईएसए (ESA)"
+        },
+        {
+          "en": "NASA",
+          "hi": "नासा (NASA)"
+        },
+        {
+          "en": "JAXA",
+          "hi": "जाक्सा (JAXA)"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "NASA launched the Tanager-1 satellite to track methane and carbon dioxide emissions. Developed by NASA’s Jet Propulsion Laboratory, it uses advanced spectrometer technology to identify specific greenhouse gases.",
+        "hi": "NASA ने मीथेन और कार्बन डाइऑक्साइड उत्सर्जन को ट्रैक करने के लिए टैनेजर-1 (Tanager-1) उपग्रह लॉन्च किया। NASA की जेट प्रोपल्शन लेबोरेटरी द्वारा विकसित, यह विशिष्ट ग्रीनहाउस गैसों की पहचान करने के लिए उन्नत स्पेक्ट्रोमीटर तकनीक का उपयोग करता है।"
+      },
+      "category": "Environment & Ecology",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.gktoday.in"
+    },
+    {
+      "id": "ca_20260826_05",
+      "question": {
+        "en": "A South Indian Adivasi Knowledge Centre named 'KAANU' was recently launched in the BR Hills region. In which state is it located?",
+        "hi": "हाल ही में बीआर हिल्स (BR Hills) क्षेत्र में 'कानू (KAANU)' नामक एक दक्षिण भारतीय आदिवासी ज्ञान केंद्र शुरू किया गया। यह किस राज्य में स्थित है?"
+      },
+      "options": [
+        {
+          "en": "Kerala",
+          "hi": "केरल"
+        },
+        {
+          "en": "Karnataka",
+          "hi": "कर्नाटक"
+        },
+        {
+          "en": "Tamil Nadu",
+          "hi": "तमिलनाडु"
+        },
+        {
+          "en": "Andhra Pradesh",
+          "hi": "आंध्र प्रदेश"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The Tribal Health Resource Centre in BR Hills, Karnataka, launched Kaanu, a South Indian Adivasi Knowledge Centre. 'Kaanu' means 'evergreen forest' in Kannada and Soliga, and it is dedicated to Adivasi culture.",
+        "hi": "कर्नाटक के बीआर हिल्स (BR Hills) में जनजातीय स्वास्थ्य संसाधन केंद्र ने दक्षिण भारतीय आदिवासी ज्ञान केंद्र 'कानू' लॉन्च किया। कन्नड़ और सोलिगा में 'कानू' का अर्थ 'सदाबहार जंगल' है, और यह आदिवासी संस्कृति को समर्पित है।"
+      },
+      "category": "Environment & Ecology",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.gktoday.in"
+    },
+    {
+      "id": "ca_20260826_06",
+      "question": {
+        "en": "Which of the following portals was recently upgraded by the Ministry of Women and Child Development to better track the implementation of the POSHAN Abhiyaan?",
+        "hi": "पोषण अभियान (POSHAN Abhiyaan) के कार्यान्वयन को बेहतर ढंग से ट्रैक करने के लिए महिला एवं बाल विकास मंत्रालय द्वारा हाल ही में निम्नलिखित में से किस पोर्टल को अपग्रेड किया गया था?"
+      },
+      "options": [
+        {
+          "en": "Poshan Tracker",
+          "hi": "पोषण ट्रैकर (Poshan Tracker)"
+        },
+        {
+          "en": "E-Kalyan",
+          "hi": "ई-कल्याण"
+        },
+        {
+          "en": "Bal Vikas Portal",
+          "hi": "बाल विकास पोर्टल"
+        },
+        {
+          "en": "Nari Shakti App",
+          "hi": "नारी शक्ति ऐप"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "The Poshan Tracker is a centralized platform launched by the Ministry of Women and Child Development to monitor nutritional outcomes under POSHAN Abhiyaan. Its recent upgrades include facial recognition for anganwadi workers.",
+        "hi": "पोषण ट्रैकर (Poshan Tracker) पोषण अभियान के तहत पोषण संबंधी परिणामों की निगरानी के लिए महिला एवं बाल विकास मंत्रालय द्वारा शुरू किया गया एक केंद्रीकृत मंच है। इसके हालिया अपग्रेड में आंगनवाड़ी कार्यकर्ताओं के लिए चेहरे की पहचान (facial recognition) शामिल है।"
       },
       "category": "Government Schemes",
       "difficulty": "medium",
       "sourceUrl": "https://pib.gov.in"
     },
     {
-      "id": "ca_20260825_03",
+      "id": "ca_20260826_07",
       "question": {
-        "en": "Which organization recently eased rules for rupee-based export transactions, providing Indian exporters greater flexibility to invoice overseas sales and receive payments in Indian Rupee (INR)?",
-        "hi": "किस संगठन ने हाल ही में रुपया आधारित निर्यात लेनदेन के नियमों में ढील दी है, जिससे भारतीय निर्यातकों को विदेशी बिक्री का चालान बनाने और भारतीय रुपये (INR) में भुगतान प्राप्त करने में अधिक लचीलापन मिला है?"
+        "en": "Who has been appointed as the new Chairperson of the National Commission for Women (NCW) in August 2026?",
+        "hi": "अगस्त 2026 में राष्ट्रीय महिला आयोग (NCW) के नए अध्यक्ष के रूप में किसे नियुक्त किया गया है?"
       },
       "options": [
         {
-          "en": "Securities and Exchange Board of India (SEBI)",
-          "hi": "भारतीय प्रतिभूति और विनिमय बोर्ड (SEBI)"
+          "en": "Rekha Sharma",
+          "hi": "रेखा शर्मा"
         },
         {
-          "en": "Enforcement Directorate (ED)",
-          "hi": "प्रवर्तन निदेशालय (ED)"
+          "en": "Vijaya Rahatkar",
+          "hi": "विजया रहाटकर"
         },
         {
-          "en": "Directorate General of Foreign Trade (DGFT)",
-          "hi": "विदेश व्यापार महानिदेशालय (DGFT)"
+          "en": "Swati Maliwal",
+          "hi": "स्वाति मालीवाल"
         },
         {
-          "en": "National Bank for Agriculture and Rural Development (NABARD)",
-          "hi": "राष्ट्रीय कृषि और ग्रामीण विकास बैंक (NABARD)"
+          "en": "Mamta Sharma",
+          "hi": "ममता शर्मा"
         }
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 1,
       "explanation": {
-        "en": "The Directorate General of Foreign Trade (DGFT), under the Ministry of Commerce and Industry, amended provisions of the Foreign Trade Policy (FTP 2023) to align with RBI guidelines, facilitating easier INR-based trade settlements.",
-        "hi": "वाणिज्य और उद्योग मंत्रालय के तहत विदेश व्यापार महानिदेशालय (DGFT) ने RBI के दिशानिर्देशों के साथ संरेखित करने के लिए विदेश व्यापार नीति (FTP 2023) के प्रावधानों में संशोधन किया, जिससे आसान INR-आधारित व्यापार निपटान की सुविधा मिली।"
+        "en": "Vijaya Rahatkar has been appointed as the new Chairperson of the National Commission for Women (NCW), succeeding Rekha Sharma. The NCW is a statutory body established in 1992 under the National Commission for Women Act, 1990.",
+        "hi": "विजया रहाटकर को रेखा शर्मा के स्थान पर राष्ट्रीय महिला आयोग (NCW) का नया अध्यक्ष नियुक्त किया गया है। NCW एक वैधानिक निकाय है जिसकी स्थापना 1992 में राष्ट्रीय महिला आयोग अधिनियम, 1990 के तहत की गई थी।"
       },
-      "category": "Economy & Banking",
+      "category": "Appointments & Commissions",
       "difficulty": "easy",
       "sourceUrl": "https://pib.gov.in"
     },
     {
-      "id": "ca_20260825_04",
+      "id": "ca_20260826_08",
       "question": {
-        "en": "President Droupadi Murmu gave her assent to the Taxation and Other Laws (Amendment) Act, 2026. What does the amendment to the Payment and Settlement Systems (PSS) Act of 2007 primarily seek to facilitate?",
-        "hi": "राष्ट्रपति द्रौपदी मुर्मू ने कराधान और अन्य कानून (संशोधन) अधिनियम, 2026 को अपनी स्वीकृति दी। 2007 के भुगतान और निपटान प्रणाली (PSS) अधिनियम में संशोधन मुख्य रूप से क्या सुविधा प्रदान करना चाहता है?"
+        "en": "Under the recent amendments to the Banking Regulation Act, what is the revised limit for the maximum number of nominees allowed for a single bank account?",
+        "hi": "बैंकिंग विनियमन अधिनियम (Banking Regulation Act) में हाल के संशोधनों के तहत, एक ही बैंक खाते के लिए अनुमत नामांकित व्यक्तियों (nominees) की अधिकतम संख्या की संशोधित सीमा क्या है?"
       },
       "options": [
         {
-          "en": "Abolishing all charges on UPI transactions indefinitely",
-          "hi": "UPI लेनदेन पर सभी शुल्कों को अनिश्चित काल के लिए समाप्त करना"
+          "en": "1",
+          "hi": "1"
         },
         {
-          "en": "Setting a universal single tax rate for all digital payments",
-          "hi": "सभी डिजिटल भुगतानों के लिए एक सार्वभौमिक एकल कर दर निर्धारित करना"
+          "en": "2",
+          "hi": "2"
         },
         {
-          "en": "Modifying the framework governing charges on electronic payments",
-          "hi": "इलेक्ट्रॉनिक भुगतान पर शुल्क को नियंत्रित करने वाले ढांचे को संशोधित करना"
+          "en": "3",
+          "hi": "3"
         },
         {
-          "en": "Banning cryptocurrency transactions via the banking system",
-          "hi": "बैंकिंग प्रणाली के माध्यम से क्रिप्टोकरेंसी लेनदेन पर प्रतिबंध लगाना"
+          "en": "4",
+          "hi": "4"
         }
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 3,
       "explanation": {
-        "en": "The amendment to the Payment and Settlement Systems (PSS) Act modifies the framework governing charges on electronic payments. These amendments also aim to attract foreign capital and promote domestic electronics manufacturing.",
-        "hi": "भुगतान और निपटान प्रणाली (PSS) अधिनियम में संशोधन इलेक्ट्रॉनिक भुगतान पर शुल्क को नियंत्रित करने वाले ढांचे को संशोधित करता है। इन संशोधनों का उद्देश्य विदेशी पूंजी को आकर्षित करना और घरेलू इलेक्ट्रॉनिक्स निर्माण को बढ़ावा देना भी है।"
+        "en": "The recent Banking Laws (Amendment) Bill introduced in the Lok Sabha allows account holders to have up to four nominees in their bank accounts, up from the previous limit of one, to reduce the issue of unclaimed deposits.",
+        "hi": "लोकसभा में पेश किए गए हालिया बैंकिंग कानून (संशोधन) विधेयक में खाताधारकों को उनके बैंक खातों में चार नामांकित (nominees) व्यक्ति रखने की अनुमति दी गई है, जो पहले की एक सीमा से अधिक है, ताकि लावारिस जमा की समस्या को कम किया जा सके।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "hard",
+      "sourceUrl": "https://www.thehindu.com"
+    },
+    {
+      "id": "ca_20260826_09",
+      "question": {
+        "en": "Which constitutional article deals with the 'Advisory Jurisdiction' of the Supreme Court of India, which was recently invoked by the President for legal clarification on a national issue?",
+        "hi": "कौन सा संवैधानिक अनुच्छेद भारत के सर्वोच्च न्यायालय के 'सलाहकार अधिकार क्षेत्र (Advisory Jurisdiction)' से संबंधित है, जिसे हाल ही में एक राष्ट्रीय मुद्दे पर कानूनी स्पष्टीकरण के लिए राष्ट्रपति द्वारा लागू किया गया था?"
+      },
+      "options": [
+        {
+          "en": "Article 131",
+          "hi": "अनुच्छेद 131"
+        },
+        {
+          "en": "Article 143",
+          "hi": "अनुच्छेद 143"
+        },
+        {
+          "en": "Article 136",
+          "hi": "अनुच्छेद 136"
+        },
+        {
+          "en": "Article 32",
+          "hi": "अनुच्छेद 32"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Article 143 of the Indian Constitution confers Advisory Jurisdiction on the Supreme Court. It allows the President of India to seek the court's opinion on questions of law or fact of public importance.",
+        "hi": "भारतीय संविधान का अनुच्छेद 143 सर्वोच्च न्यायालय को सलाहकार अधिकार क्षेत्र प्रदान करता है। यह भारत के राष्ट्रपति को सार्वजनिक महत्व के कानून या तथ्य के सवालों पर अदालत की राय लेने की अनुमति देता है।"
       },
       "category": "Polity & Governance",
       "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com"
+    },
+    {
+      "id": "ca_20260826_10",
+      "question": {
+        "en": "The Indian Coast Guard (ICG) recently commissioned the new offshore patrol vessel 'ICGS Sujay'. In which shipyard was it manufactured?",
+        "hi": "भारतीय तटरक्षक बल (ICG) ने हाल ही में नए अपतटीय गश्ती पोत (offshore patrol vessel) 'ICGS सुजय' को चालू किया है। इसका निर्माण किस शिपयार्ड में किया गया था?"
+      },
+      "options": [
+        {
+          "en": "Mazagon Dock Shipbuilders Limited",
+          "hi": "मझगांव डॉक शिपबिल्डर्स लिमिटेड"
+        },
+        {
+          "en": "Goa Shipyard Limited",
+          "hi": "गोवा शिपयार्ड लिमिटेड"
+        },
+        {
+          "en": "Cochin Shipyard Limited",
+          "hi": "कोचीन शिपयार्ड लिमिटेड"
+        },
+        {
+          "en": "Garden Reach Shipbuilders and Engineers",
+          "hi": "गार्डन रीच शिपबिल्डर्स एंड इंजीनियर्स"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "ICGS Sujay is an Offshore Patrol Vessel designed and built indigenously by Goa Shipyard Limited (GSL). It enhances the Indian Coast Guard's operational capability in maritime security and search & rescue missions.",
+        "hi": "ICGS सुजय एक अपतटीय गश्ती पोत है जिसे गोवा शिपयार्ड लिमिटेड (GSL) द्वारा स्वदेशी रूप से डिजाइन और निर्मित किया गया है। यह समुद्री सुरक्षा और खोज एवं बचाव मिशन में भारतीय तटरक्षक बल की परिचालन क्षमता को बढ़ाता है।"
+      },
+      "category": "Defence & Security",
+      "difficulty": "hard",
       "sourceUrl": "https://pib.gov.in"
-    },
-    {
-      "id": "ca_20260825_05",
-      "question": {
-        "en": "The Joint Military Exercise 'MAITREE-XV' was held in August 2026. This bilateral exercise is conducted between India and which country?",
-        "hi": "अगस्त 2026 में संयुक्त सैन्य अभ्यास 'मैत्री-XV (MAITREE-XV)' आयोजित किया गया था। यह द्विपक्षीय अभ्यास भारत और किस देश के बीच आयोजित किया जाता है?"
-      },
-      "options": [
-        {
-          "en": "Sri Lanka",
-          "hi": "श्रीलंका"
-        },
-        {
-          "en": "Thailand",
-          "hi": "थाईलैंड"
-        },
-        {
-          "en": "Malaysia",
-          "hi": "मलेशिया"
-        },
-        {
-          "en": "Vietnam",
-          "hi": "वियतनाम"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "Exercise MAITREE is a joint military exercise between the Indian Army and the Royal Thai Army. The 15th edition (MAITREE-XV) was conducted in Surat Thani, Thailand in August 2026 to enhance interoperability in counter-terrorism operations.",
-        "hi": "अभ्यास मैत्री भारतीय सेना और रॉयल थाई सेना के बीच एक संयुक्त सैन्य अभ्यास है। आतंकवाद विरोधी अभियानों में अंतरसंचालनीयता (interoperability) बढ़ाने के लिए अगस्त 2026 में सूरत थानी, थाईलैंड में 15वां संस्करण (मैत्री-XV) आयोजित किया गया था।"
-      },
-      "category": "Defence & Security",
-      "difficulty": "easy",
-      "sourceUrl": "https://indianexpress.com"
-    },
-    {
-      "id": "ca_20260825_06",
-      "question": {
-        "en": "In recent discoveries, fresh excavations have been undertaken at Vaishya Tekri. This ancient site, linked to the Mauryan period, is located in which city?",
-        "hi": "हाल की खोजों में, वैश्य टेकरी में ताज़ा खुदाई की गई है। मौर्य काल से जुड़ा यह प्राचीन स्थल किस शहर में स्थित है?"
-      },
-      "options": [
-        {
-          "en": "Patna",
-          "hi": "पटना"
-        },
-        {
-          "en": "Varanasi",
-          "hi": "वाराणसी"
-        },
-        {
-          "en": "Ujjain",
-          "hi": "उज्जैन"
-        },
-        {
-          "en": "Bhopal",
-          "hi": "भोपाल"
-        }
-      ],
-      "correctAnswer": 2,
-      "explanation": {
-        "en": "Vaishya Tekri is an Ashoka-era Buddhist site located in Ujjain, Madhya Pradesh. Fresh excavations have uncovered significant artifacts linked to the Mauryan period, shedding light on ancient trade and religious practices.",
-        "hi": "वैश्य टेकरी उज्जैन, मध्य प्रदेश में स्थित अशोक युग का एक बौद्ध स्थल है। ताजा उत्खनन से मौर्य काल से जुड़ी महत्वपूर्ण कलाकृतियां मिली हैं, जो प्राचीन व्यापार और धार्मिक प्रथाओं पर प्रकाश डालती हैं।"
-      },
-      "category": "Science & Technology",
-      "difficulty": "hard",
-      "sourceUrl": "https://www.chronicleindia.in"
-    },
-    {
-      "id": "ca_20260825_07",
-      "question": {
-        "en": "Which organization is developing 'MutAIverse', an AI platform aimed at tracing cancer-causing exposures and mutations?",
-        "hi": "कौन सा संगठन 'म्यूटएआईवर्स (MutAIverse)' विकसित कर रहा है, जो कैंसर पैदा करने वाले एक्सपोज़र और उत्परिवर्तन का पता लगाने के उद्देश्य से एक AI प्लेटफॉर्म है?"
-      },
-      "options": [
-        {
-          "en": "Indian Council of Medical Research (ICMR)",
-          "hi": "भारतीय आयुर्विज्ञान अनुसंधान परिषद (ICMR)"
-        },
-        {
-          "en": "Tata Memorial Centre",
-          "hi": "टाटा मेमोरियल सेंटर"
-        },
-        {
-          "en": "All India Institute of Medical Sciences (AIIMS)",
-          "hi": "अखिल भारतीय आयुर्विज्ञान संस्थान (AIIMS)"
-        },
-        {
-          "en": "Council of Scientific and Industrial Research (CSIR)",
-          "hi": "वैज्ञानिक और औद्योगिक अनुसंधान परिषद (CSIR)"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "MutAIverse is an advanced AI-driven platform being developed to trace cancer-causing environmental exposures and genetic mutations. Such innovations are crucial for predictive oncology and precision medicine in India.",
-        "hi": "म्यूटएआईवर्स (MutAIverse) एक उन्नत एआई-संचालित प्लेटफॉर्म है जिसे कैंसर पैदा करने वाले पर्यावरणीय जोखिमों और आनुवंशिक उत्परिवर्तन का पता लगाने के लिए विकसित किया जा रहा है। भारत में प्रेडिक्टिव ऑन्कोलॉजी और प्रिसिजन मेडिसिन के लिए ऐसे नवाचार महत्वपूर्ण हैं।"
-      },
-      "category": "Science & Technology",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.chronicleindia.in"
-    },
-    {
-      "id": "ca_20260825_08",
-      "question": {
-        "en": "The United Kingdom Maritime Trade Operations (UKMTO), which handles distress calls during maritime security threats in the Indian Ocean, was originally established in which year?",
-        "hi": "यूनाइटेड किंगडम मैरीटाइम ट्रेड ऑपरेशंस (UKMTO), जो हिंद महासागर में समुद्री सुरक्षा खतरों के दौरान संकटकालीन कॉलों (distress calls) को संभालता है, मूल रूप से किस वर्ष स्थापित किया गया था?"
-      },
-      "options": [
-        {
-          "en": "1995",
-          "hi": "1995"
-        },
-        {
-          "en": "2001",
-          "hi": "2001"
-        },
-        {
-          "en": "2008",
-          "hi": "2008"
-        },
-        {
-          "en": "2014",
-          "hi": "2014"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "The UKMTO is a British Royal Navy-sponsored organisation formed in 2001 with an initial office in Dubai. It acts as the primary point of contact for commercial vessels dealing with security threats like piracy in the Indian Ocean and Red Sea regions.",
-        "hi": "UKMTO ब्रिटिश रॉयल नेवी द्वारा प्रायोजित एक संगठन है जिसका गठन 2001 में दुबई में एक प्रारंभिक कार्यालय के साथ किया गया था। यह हिंद महासागर और लाल सागर क्षेत्रों में समुद्री डकैती जैसे सुरक्षा खतरों से निपटने वाले वाणिज्यिक जहाजों के लिए संपर्क के प्राथमिक बिंदु के रूप में कार्य करता है।"
-      },
-      "category": "Defence & Security",
-      "difficulty": "hard",
-      "sourceUrl": "https://vajiramandravi.com"
-    },
-    {
-      "id": "ca_20260825_09",
-      "question": {
-        "en": "Sophie Adenot recently became the first woman from which country to conduct a spacewalk outside the International Space Station (ISS)?",
-        "hi": "सोफी एडेनॉट हाल ही में अंतर्राष्ट्रीय अंतरिक्ष स्टेशन (ISS) के बाहर स्पेसवॉक करने वाली किस देश की पहली महिला बन गई हैं?"
-      },
-      "options": [
-        {
-          "en": "Germany",
-          "hi": "जर्मनी"
-        },
-        {
-          "en": "Italy",
-          "hi": "इटली"
-        },
-        {
-          "en": "France",
-          "hi": "फ़्रांस"
-        },
-        {
-          "en": "Canada",
-          "hi": "कनाडा"
-        }
-      ],
-      "correctAnswer": 2,
-      "explanation": {
-        "en": "Astronaut Sophie Adenot made history by becoming the first French woman to perform an Extravehicular Activity (EVA) or spacewalk outside the International Space Station (ISS).",
-        "hi": "अंतरिक्ष यात्री सोफी एडेनॉट अंतर्राष्ट्रीय अंतरिक्ष स्टेशन (ISS) के बाहर एक्स्ट्रावेहिकुलर गतिविधि (EVA) या स्पेसवॉक करने वाली पहली फ्रांसीसी महिला बनकर इतिहास रच दिया।"
-      },
-      "category": "Science & Technology",
-      "difficulty": "easy",
-      "sourceUrl": "https://testbook.com"
-    },
-    {
-      "id": "ca_20260825_10",
-      "question": {
-        "en": "The Asian Development Bank (ADB) has provided a $230 million loan for a climate-resilient water security and sewerage project in which Indian city?",
-        "hi": "एशियाई विकास बैंक (ADB) ने किस भारतीय शहर में जलवायु-अनुकूल जल सुरक्षा और सीवरेज परियोजना के लिए $230 मिलियन का ऋण प्रदान किया है?"
-      },
-      "options": [
-        {
-          "en": "Bengaluru",
-          "hi": "बेंगलुरु"
-        },
-        {
-          "en": "Chennai",
-          "hi": "चेन्नई"
-        },
-        {
-          "en": "Mumbai",
-          "hi": "मुंबई"
-        },
-        {
-          "en": "Hyderabad",
-          "hi": "हैदराबाद"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "The Asian Development Bank (ADB) approved a $230 million loan to support the Chennai climate-resilient water security and sewerage project. It aims to improve urban infrastructure against climate change impacts.",
-        "hi": "एशियाई विकास बैंक (ADB) ने चेन्नई की जलवायु-अनुकूल जल सुरक्षा और सीवरेज परियोजना का समर्थन करने के लिए $230 मिलियन के ऋण को मंजूरी दी। इसका उद्देश्य जलवायु परिवर्तन के प्रभावों के खिलाफ शहरी बुनियादी ढांचे में सुधार करना है।"
-      },
-      "category": "Economy & Banking",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.chronicleindia.in"
     }
   ]
 }
