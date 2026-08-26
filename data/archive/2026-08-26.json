@@ -1,0 +1,340 @@
+{
+  "date": "2026-08-26",
+  "topic": "SSC CGL Daily Current Affairs",
+  "source": "PIB / The Hindu / Economic Times / Indian Express / GKToday",
+  "lastUpdated": "2026-08-26T05:30:00+05:30",
+  "version": 1,
+  "totalQuestions": 10,
+  "quiz": [
+    {
+      "id": "ca_20260826_01",
+      "question": {
+        "en": "Recently, a Tamil Nadu-based start-up launched India’s first reusable hybrid rocket. What is the name of this rocket?",
+        "hi": "हाल ही में, तमिलनाडु स्थित एक स्टार्ट-अप ने भारत का पहला पुन: प्रयोज्य (reusable) हाइब्रिड रॉकेट लॉन्च किया। इस रॉकेट का नाम क्या है?"
+      },
+      "options": [
+        {
+          "en": "AGNI 1",
+          "hi": "अग्नि 1"
+        },
+        {
+          "en": "VYOM 1",
+          "hi": "व्योम 1"
+        },
+        {
+          "en": "RHUMI 1",
+          "hi": "रुमी 1 (RHUMI 1)"
+        },
+        {
+          "en": "GAGAN 1",
+          "hi": "गगन 1"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "India’s first reusable hybrid rocket, “RHUMI 1”, was launched by a Tamil Nadu-based start-up from Chennai. It is powered by a hybrid motor and aims to advance research on global warming and climate change.",
+        "hi": "भारत का पहला पुन: प्रयोज्य (reusable) हाइब्रिड रॉकेट, 'रुमी 1', चेन्नई से तमिलनाडु स्थित एक स्टार्ट-अप द्वारा लॉन्च किया गया था। यह हाइब्रिड मोटर द्वारा संचालित है और इसका उद्देश्य ग्लोबल वार्मिंग और जलवायु परिवर्तन पर अनुसंधान को आगे बढ़ाना है।"
+      },
+      "category": "Science & Technology",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.gktoday.in"
+    },
+    {
+      "id": "ca_20260826_02",
+      "question": {
+        "en": "Which ministry recently launched the 'National Medical Register (NMR) Portal' to create a comprehensive database for all registered allopathic doctors in India?",
+        "hi": "किस मंत्रालय ने हाल ही में भारत में सभी पंजीकृत एलोपैथिक डॉक्टरों के लिए एक व्यापक डेटाबेस बनाने के लिए 'राष्ट्रीय चिकित्सा रजिस्टर (NMR) पोर्टल' लॉन्च किया है?"
+      },
+      "options": [
+        {
+          "en": "Ministry of Science and Technology",
+          "hi": "विज्ञान और प्रौद्योगिकी मंत्रालय"
+        },
+        {
+          "en": "Ministry of Health and Family Welfare",
+          "hi": "स्वास्थ्य एवं परिवार कल्याण मंत्रालय"
+        },
+        {
+          "en": "Ministry of Social Justice and Empowerment",
+          "hi": "सामाजिक न्याय और अधिकारिता मंत्रालय"
+        },
+        {
+          "en": "Ministry of Ayush",
+          "hi": "आयुष मंत्रालय"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The Ministry of Health and Family Welfare launched the 'National Medical Register Portal' in New Delhi. Maintained by the National Medical Commission, it serves as a dynamic database for all MBBS doctors eligible for registration in India.",
+        "hi": "स्वास्थ्य और परिवार कल्याण मंत्रालय ने नई दिल्ली में 'राष्ट्रीय चिकित्सा रजिस्टर (NMR) पोर्टल' लॉन्च किया। राष्ट्रीय चिकित्सा आयोग (NMC) द्वारा प्रबंधित यह पोर्टल भारत में पंजीकरण के लिए पात्र सभी MBBS डॉक्टरों के लिए एक गतिशील डेटाबेस के रूप में कार्य करता है।"
+      },
+      "category": "Government Schemes",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.gktoday.in"
+    },
+    {
+      "id": "ca_20260826_03",
+      "question": {
+        "en": "Who recently became the first female national racing champion from India in the saloon category at the MRF Indian National Car Racing Championship?",
+        "hi": "MRF इंडियन नेशनल कार रेसिंग चैंपियनशिप में सैलून श्रेणी में भारत की पहली महिला राष्ट्रीय रेसिंग चैंपियन हाल ही में कौन बनीं?"
+      },
+      "options": [
+        {
+          "en": "Sneha Sharma",
+          "hi": "स्नेहा शर्मा"
+        },
+        {
+          "en": "Alisha Abdullah",
+          "hi": "अलीशा अब्दुल्ला"
+        },
+        {
+          "en": "Diana Pundole",
+          "hi": "डायना पुंडोले"
+        },
+        {
+          "en": "Aishwarya Pissay",
+          "hi": "ऐश्वर्या पिस्से"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Diana Pundole, a teacher and mother from Pune, won the national championship in the saloon category at the MRF Indian National Car Racing Championship in Chennai, breaking barriers in the male-dominated motorsport industry.",
+        "hi": "पुणे की एक शिक्षिका और माँ डायना पुंडोले ने चेन्नई में MRF इंडियन नेशनल कार रेसिंग चैंपियनशिप में सैलून श्रेणी में राष्ट्रीय चैंपियनशिप जीती, जिससे पुरुष-प्रधान मोटरस्पोर्ट उद्योग में बाधाएं टूटीं।"
+      },
+      "category": "Sports",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.gktoday.in"
+    },
+    {
+      "id": "ca_20260826_04",
+      "question": {
+        "en": "The 'Tanager-1 Satellite', recently launched using a SpaceX Falcon 9 rocket, was developed by which space organization to track methane and carbon dioxide emissions?",
+        "hi": "मीथेन और कार्बन डाइऑक्साइड उत्सर्जन को ट्रैक करने के लिए स्पेसएक्स फाल्कन 9 रॉकेट का उपयोग करके हाल ही में लॉन्च किया गया 'टैनेजर-1 सैटेलाइट (Tanager-1 Satellite)' किस अंतरिक्ष संगठन द्वारा विकसित किया गया था?"
+      },
+      "options": [
+        {
+          "en": "ISRO",
+          "hi": "इसरो (ISRO)"
+        },
+        {
+          "en": "ESA",
+          "hi": "ईएसए (ESA)"
+        },
+        {
+          "en": "NASA",
+          "hi": "नासा (NASA)"
+        },
+        {
+          "en": "JAXA",
+          "hi": "जाक्सा (JAXA)"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "NASA launched the Tanager-1 satellite to track methane and carbon dioxide emissions. Developed by NASA’s Jet Propulsion Laboratory, it uses advanced spectrometer technology to identify specific greenhouse gases.",
+        "hi": "NASA ने मीथेन और कार्बन डाइऑक्साइड उत्सर्जन को ट्रैक करने के लिए टैनेजर-1 (Tanager-1) उपग्रह लॉन्च किया। NASA की जेट प्रोपल्शन लेबोरेटरी द्वारा विकसित, यह विशिष्ट ग्रीनहाउस गैसों की पहचान करने के लिए उन्नत स्पेक्ट्रोमीटर तकनीक का उपयोग करता है।"
+      },
+      "category": "Environment & Ecology",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.gktoday.in"
+    },
+    {
+      "id": "ca_20260826_05",
+      "question": {
+        "en": "A South Indian Adivasi Knowledge Centre named 'KAANU' was recently launched in the BR Hills region. In which state is it located?",
+        "hi": "हाल ही में बीआर हिल्स (BR Hills) क्षेत्र में 'कानू (KAANU)' नामक एक दक्षिण भारतीय आदिवासी ज्ञान केंद्र शुरू किया गया। यह किस राज्य में स्थित है?"
+      },
+      "options": [
+        {
+          "en": "Kerala",
+          "hi": "केरल"
+        },
+        {
+          "en": "Karnataka",
+          "hi": "कर्नाटक"
+        },
+        {
+          "en": "Tamil Nadu",
+          "hi": "तमिलनाडु"
+        },
+        {
+          "en": "Andhra Pradesh",
+          "hi": "आंध्र प्रदेश"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The Tribal Health Resource Centre in BR Hills, Karnataka, launched Kaanu, a South Indian Adivasi Knowledge Centre. 'Kaanu' means 'evergreen forest' in Kannada and Soliga, and it is dedicated to Adivasi culture.",
+        "hi": "कर्नाटक के बीआर हिल्स (BR Hills) में जनजातीय स्वास्थ्य संसाधन केंद्र ने दक्षिण भारतीय आदिवासी ज्ञान केंद्र 'कानू' लॉन्च किया। कन्नड़ और सोलिगा में 'कानू' का अर्थ 'सदाबहार जंगल' है, और यह आदिवासी संस्कृति को समर्पित है।"
+      },
+      "category": "Environment & Ecology",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.gktoday.in"
+    },
+    {
+      "id": "ca_20260826_06",
+      "question": {
+        "en": "Which of the following portals was recently upgraded by the Ministry of Women and Child Development to better track the implementation of the POSHAN Abhiyaan?",
+        "hi": "पोषण अभियान (POSHAN Abhiyaan) के कार्यान्वयन को बेहतर ढंग से ट्रैक करने के लिए महिला एवं बाल विकास मंत्रालय द्वारा हाल ही में निम्नलिखित में से किस पोर्टल को अपग्रेड किया गया था?"
+      },
+      "options": [
+        {
+          "en": "Poshan Tracker",
+          "hi": "पोषण ट्रैकर (Poshan Tracker)"
+        },
+        {
+          "en": "E-Kalyan",
+          "hi": "ई-कल्याण"
+        },
+        {
+          "en": "Bal Vikas Portal",
+          "hi": "बाल विकास पोर्टल"
+        },
+        {
+          "en": "Nari Shakti App",
+          "hi": "नारी शक्ति ऐप"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "The Poshan Tracker is a centralized platform launched by the Ministry of Women and Child Development to monitor nutritional outcomes under POSHAN Abhiyaan. Its recent upgrades include facial recognition for anganwadi workers.",
+        "hi": "पोषण ट्रैकर (Poshan Tracker) पोषण अभियान के तहत पोषण संबंधी परिणामों की निगरानी के लिए महिला एवं बाल विकास मंत्रालय द्वारा शुरू किया गया एक केंद्रीकृत मंच है। इसके हालिया अपग्रेड में आंगनवाड़ी कार्यकर्ताओं के लिए चेहरे की पहचान (facial recognition) शामिल है।"
+      },
+      "category": "Government Schemes",
+      "difficulty": "medium",
+      "sourceUrl": "https://pib.gov.in"
+    },
+    {
+      "id": "ca_20260826_07",
+      "question": {
+        "en": "Who has been appointed as the new Chairperson of the National Commission for Women (NCW) in August 2026?",
+        "hi": "अगस्त 2026 में राष्ट्रीय महिला आयोग (NCW) के नए अध्यक्ष के रूप में किसे नियुक्त किया गया है?"
+      },
+      "options": [
+        {
+          "en": "Rekha Sharma",
+          "hi": "रेखा शर्मा"
+        },
+        {
+          "en": "Vijaya Rahatkar",
+          "hi": "विजया रहाटकर"
+        },
+        {
+          "en": "Swati Maliwal",
+          "hi": "स्वाति मालीवाल"
+        },
+        {
+          "en": "Mamta Sharma",
+          "hi": "ममता शर्मा"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Vijaya Rahatkar has been appointed as the new Chairperson of the National Commission for Women (NCW), succeeding Rekha Sharma. The NCW is a statutory body established in 1992 under the National Commission for Women Act, 1990.",
+        "hi": "विजया रहाटकर को रेखा शर्मा के स्थान पर राष्ट्रीय महिला आयोग (NCW) का नया अध्यक्ष नियुक्त किया गया है। NCW एक वैधानिक निकाय है जिसकी स्थापना 1992 में राष्ट्रीय महिला आयोग अधिनियम, 1990 के तहत की गई थी।"
+      },
+      "category": "Appointments & Commissions",
+      "difficulty": "easy",
+      "sourceUrl": "https://pib.gov.in"
+    },
+    {
+      "id": "ca_20260826_08",
+      "question": {
+        "en": "Under the recent amendments to the Banking Regulation Act, what is the revised limit for the maximum number of nominees allowed for a single bank account?",
+        "hi": "बैंकिंग विनियमन अधिनियम (Banking Regulation Act) में हाल के संशोधनों के तहत, एक ही बैंक खाते के लिए अनुमत नामांकित व्यक्तियों (nominees) की अधिकतम संख्या की संशोधित सीमा क्या है?"
+      },
+      "options": [
+        {
+          "en": "1",
+          "hi": "1"
+        },
+        {
+          "en": "2",
+          "hi": "2"
+        },
+        {
+          "en": "3",
+          "hi": "3"
+        },
+        {
+          "en": "4",
+          "hi": "4"
+        }
+      ],
+      "correctAnswer": 3,
+      "explanation": {
+        "en": "The recent Banking Laws (Amendment) Bill introduced in the Lok Sabha allows account holders to have up to four nominees in their bank accounts, up from the previous limit of one, to reduce the issue of unclaimed deposits.",
+        "hi": "लोकसभा में पेश किए गए हालिया बैंकिंग कानून (संशोधन) विधेयक में खाताधारकों को उनके बैंक खातों में चार नामांकित (nominees) व्यक्ति रखने की अनुमति दी गई है, जो पहले की एक सीमा से अधिक है, ताकि लावारिस जमा की समस्या को कम किया जा सके।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "hard",
+      "sourceUrl": "https://www.thehindu.com"
+    },
+    {
+      "id": "ca_20260826_09",
+      "question": {
+        "en": "Which constitutional article deals with the 'Advisory Jurisdiction' of the Supreme Court of India, which was recently invoked by the President for legal clarification on a national issue?",
+        "hi": "कौन सा संवैधानिक अनुच्छेद भारत के सर्वोच्च न्यायालय के 'सलाहकार अधिकार क्षेत्र (Advisory Jurisdiction)' से संबंधित है, जिसे हाल ही में एक राष्ट्रीय मुद्दे पर कानूनी स्पष्टीकरण के लिए राष्ट्रपति द्वारा लागू किया गया था?"
+      },
+      "options": [
+        {
+          "en": "Article 131",
+          "hi": "अनुच्छेद 131"
+        },
+        {
+          "en": "Article 143",
+          "hi": "अनुच्छेद 143"
+        },
+        {
+          "en": "Article 136",
+          "hi": "अनुच्छेद 136"
+        },
+        {
+          "en": "Article 32",
+          "hi": "अनुच्छेद 32"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Article 143 of the Indian Constitution confers Advisory Jurisdiction on the Supreme Court. It allows the President of India to seek the court's opinion on questions of law or fact of public importance.",
+        "hi": "भारतीय संविधान का अनुच्छेद 143 सर्वोच्च न्यायालय को सलाहकार अधिकार क्षेत्र प्रदान करता है। यह भारत के राष्ट्रपति को सार्वजनिक महत्व के कानून या तथ्य के सवालों पर अदालत की राय लेने की अनुमति देता है।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com"
+    },
+    {
+      "id": "ca_20260826_10",
+      "question": {
+        "en": "The Indian Coast Guard (ICG) recently commissioned the new offshore patrol vessel 'ICGS Sujay'. In which shipyard was it manufactured?",
+        "hi": "भारतीय तटरक्षक बल (ICG) ने हाल ही में नए अपतटीय गश्ती पोत (offshore patrol vessel) 'ICGS सुजय' को चालू किया है। इसका निर्माण किस शिपयार्ड में किया गया था?"
+      },
+      "options": [
+        {
+          "en": "Mazagon Dock Shipbuilders Limited",
+          "hi": "मझगांव डॉक शिपबिल्डर्स लिमिटेड"
+        },
+        {
+          "en": "Goa Shipyard Limited",
+          "hi": "गोवा शिपयार्ड लिमिटेड"
+        },
+        {
+          "en": "Cochin Shipyard Limited",
+          "hi": "कोचीन शिपयार्ड लिमिटेड"
+        },
+        {
+          "en": "Garden Reach Shipbuilders and Engineers",
+          "hi": "गार्डन रीच शिपबिल्डर्स एंड इंजीनियर्स"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "ICGS Sujay is an Offshore Patrol Vessel designed and built indigenously by Goa Shipyard Limited (GSL). It enhances the Indian Coast Guard's operational capability in maritime security and search & rescue missions.",
+        "hi": "ICGS सुजय एक अपतटीय गश्ती पोत है जिसे गोवा शिपयार्ड लिमिटेड (GSL) द्वारा स्वदेशी रूप से डिजाइन और निर्मित किया गया है। यह समुद्री सुरक्षा और खोज एवं बचाव मिशन में भारतीय तटरक्षक बल की परिचालन क्षमता को बढ़ाता है।"
+      },
+      "category": "Defence & Security",
+      "difficulty": "hard",
+      "sourceUrl": "https://pib.gov.in"
+    }
+  ]
+}
