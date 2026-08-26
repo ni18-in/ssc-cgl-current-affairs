@@ -1,319 +1,18 @@
 {
-  "date": "2026-08-26",
+  "date": "2026-08-27",
   "topic": "SSC CGL Daily Current Affairs",
   "source": "PIB / The Hindu / Economic Times / Indian Express / GKToday",
-  "lastUpdated": "2026-08-26T05:30:00+05:30",
+  "lastUpdated": "2026-08-27T05:30:00+05:30",
   "version": 1,
   "totalQuestions": 10,
   "quiz": [
     {
-      "id": "ca_20260826_01",
+      "id": "ca_20260827_01",
       "question": {
-        "en": "Recently, a Tamil Nadu-based start-up launched India’s first reusable hybrid rocket. What is the name of this rocket?",
-        "hi": "हाल ही में, तमिलनाडु स्थित एक स्टार्ट-अप ने भारत का पहला पुन: प्रयोज्य (reusable) हाइब्रिड रॉकेट लॉन्च किया। इस रॉकेट का नाम क्या है?"
+        "en": "Which shipyard recently handed over the Fast Patrol Vessel 'ICGS Ajit' to the Indian Coast Guard?",
+        "hi": "हाल ही में किस शिपयार्ड ने भारतीय तटरक्षक बल को फास्ट पेट्रोल वेसल 'ICGS अजीत' सौंपा है?"
       },
       "options": [
-        {
-          "en": "AGNI 1",
-          "hi": "अग्नि 1"
-        },
-        {
-          "en": "VYOM 1",
-          "hi": "व्योम 1"
-        },
-        {
-          "en": "RHUMI 1",
-          "hi": "रुमी 1 (RHUMI 1)"
-        },
-        {
-          "en": "GAGAN 1",
-          "hi": "गगन 1"
-        }
-      ],
-      "correctAnswer": 2,
-      "explanation": {
-        "en": "India’s first reusable hybrid rocket, “RHUMI 1”, was launched by a Tamil Nadu-based start-up from Chennai. It is powered by a hybrid motor and aims to advance research on global warming and climate change.",
-        "hi": "भारत का पहला पुन: प्रयोज्य (reusable) हाइब्रिड रॉकेट, 'रुमी 1', चेन्नई से तमिलनाडु स्थित एक स्टार्ट-अप द्वारा लॉन्च किया गया था। यह हाइब्रिड मोटर द्वारा संचालित है और इसका उद्देश्य ग्लोबल वार्मिंग और जलवायु परिवर्तन पर अनुसंधान को आगे बढ़ाना है।"
-      },
-      "category": "Science & Technology",
-      "difficulty": "easy",
-      "sourceUrl": "https://www.gktoday.in"
-    },
-    {
-      "id": "ca_20260826_02",
-      "question": {
-        "en": "Which ministry recently launched the 'National Medical Register (NMR) Portal' to create a comprehensive database for all registered allopathic doctors in India?",
-        "hi": "किस मंत्रालय ने हाल ही में भारत में सभी पंजीकृत एलोपैथिक डॉक्टरों के लिए एक व्यापक डेटाबेस बनाने के लिए 'राष्ट्रीय चिकित्सा रजिस्टर (NMR) पोर्टल' लॉन्च किया है?"
-      },
-      "options": [
-        {
-          "en": "Ministry of Science and Technology",
-          "hi": "विज्ञान और प्रौद्योगिकी मंत्रालय"
-        },
-        {
-          "en": "Ministry of Health and Family Welfare",
-          "hi": "स्वास्थ्य एवं परिवार कल्याण मंत्रालय"
-        },
-        {
-          "en": "Ministry of Social Justice and Empowerment",
-          "hi": "सामाजिक न्याय और अधिकारिता मंत्रालय"
-        },
-        {
-          "en": "Ministry of Ayush",
-          "hi": "आयुष मंत्रालय"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "The Ministry of Health and Family Welfare launched the 'National Medical Register Portal' in New Delhi. Maintained by the National Medical Commission, it serves as a dynamic database for all MBBS doctors eligible for registration in India.",
-        "hi": "स्वास्थ्य और परिवार कल्याण मंत्रालय ने नई दिल्ली में 'राष्ट्रीय चिकित्सा रजिस्टर (NMR) पोर्टल' लॉन्च किया। राष्ट्रीय चिकित्सा आयोग (NMC) द्वारा प्रबंधित यह पोर्टल भारत में पंजीकरण के लिए पात्र सभी MBBS डॉक्टरों के लिए एक गतिशील डेटाबेस के रूप में कार्य करता है।"
-      },
-      "category": "Government Schemes",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.gktoday.in"
-    },
-    {
-      "id": "ca_20260826_03",
-      "question": {
-        "en": "Who recently became the first female national racing champion from India in the saloon category at the MRF Indian National Car Racing Championship?",
-        "hi": "MRF इंडियन नेशनल कार रेसिंग चैंपियनशिप में सैलून श्रेणी में भारत की पहली महिला राष्ट्रीय रेसिंग चैंपियन हाल ही में कौन बनीं?"
-      },
-      "options": [
-        {
-          "en": "Sneha Sharma",
-          "hi": "स्नेहा शर्मा"
-        },
-        {
-          "en": "Alisha Abdullah",
-          "hi": "अलीशा अब्दुल्ला"
-        },
-        {
-          "en": "Diana Pundole",
-          "hi": "डायना पुंडोले"
-        },
-        {
-          "en": "Aishwarya Pissay",
-          "hi": "ऐश्वर्या पिस्से"
-        }
-      ],
-      "correctAnswer": 2,
-      "explanation": {
-        "en": "Diana Pundole, a teacher and mother from Pune, won the national championship in the saloon category at the MRF Indian National Car Racing Championship in Chennai, breaking barriers in the male-dominated motorsport industry.",
-        "hi": "पुणे की एक शिक्षिका और माँ डायना पुंडोले ने चेन्नई में MRF इंडियन नेशनल कार रेसिंग चैंपियनशिप में सैलून श्रेणी में राष्ट्रीय चैंपियनशिप जीती, जिससे पुरुष-प्रधान मोटरस्पोर्ट उद्योग में बाधाएं टूटीं।"
-      },
-      "category": "Sports",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.gktoday.in"
-    },
-    {
-      "id": "ca_20260826_04",
-      "question": {
-        "en": "The 'Tanager-1 Satellite', recently launched using a SpaceX Falcon 9 rocket, was developed by which space organization to track methane and carbon dioxide emissions?",
-        "hi": "मीथेन और कार्बन डाइऑक्साइड उत्सर्जन को ट्रैक करने के लिए स्पेसएक्स फाल्कन 9 रॉकेट का उपयोग करके हाल ही में लॉन्च किया गया 'टैनेजर-1 सैटेलाइट (Tanager-1 Satellite)' किस अंतरिक्ष संगठन द्वारा विकसित किया गया था?"
-      },
-      "options": [
-        {
-          "en": "ISRO",
-          "hi": "इसरो (ISRO)"
-        },
-        {
-          "en": "ESA",
-          "hi": "ईएसए (ESA)"
-        },
-        {
-          "en": "NASA",
-          "hi": "नासा (NASA)"
-        },
-        {
-          "en": "JAXA",
-          "hi": "जाक्सा (JAXA)"
-        }
-      ],
-      "correctAnswer": 2,
-      "explanation": {
-        "en": "NASA launched the Tanager-1 satellite to track methane and carbon dioxide emissions. Developed by NASA’s Jet Propulsion Laboratory, it uses advanced spectrometer technology to identify specific greenhouse gases.",
-        "hi": "NASA ने मीथेन और कार्बन डाइऑक्साइड उत्सर्जन को ट्रैक करने के लिए टैनेजर-1 (Tanager-1) उपग्रह लॉन्च किया। NASA की जेट प्रोपल्शन लेबोरेटरी द्वारा विकसित, यह विशिष्ट ग्रीनहाउस गैसों की पहचान करने के लिए उन्नत स्पेक्ट्रोमीटर तकनीक का उपयोग करता है।"
-      },
-      "category": "Environment & Ecology",
-      "difficulty": "easy",
-      "sourceUrl": "https://www.gktoday.in"
-    },
-    {
-      "id": "ca_20260826_05",
-      "question": {
-        "en": "A South Indian Adivasi Knowledge Centre named 'KAANU' was recently launched in the BR Hills region. In which state is it located?",
-        "hi": "हाल ही में बीआर हिल्स (BR Hills) क्षेत्र में 'कानू (KAANU)' नामक एक दक्षिण भारतीय आदिवासी ज्ञान केंद्र शुरू किया गया। यह किस राज्य में स्थित है?"
-      },
-      "options": [
-        {
-          "en": "Kerala",
-          "hi": "केरल"
-        },
-        {
-          "en": "Karnataka",
-          "hi": "कर्नाटक"
-        },
-        {
-          "en": "Tamil Nadu",
-          "hi": "तमिलनाडु"
-        },
-        {
-          "en": "Andhra Pradesh",
-          "hi": "आंध्र प्रदेश"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "The Tribal Health Resource Centre in BR Hills, Karnataka, launched Kaanu, a South Indian Adivasi Knowledge Centre. 'Kaanu' means 'evergreen forest' in Kannada and Soliga, and it is dedicated to Adivasi culture.",
-        "hi": "कर्नाटक के बीआर हिल्स (BR Hills) में जनजातीय स्वास्थ्य संसाधन केंद्र ने दक्षिण भारतीय आदिवासी ज्ञान केंद्र 'कानू' लॉन्च किया। कन्नड़ और सोलिगा में 'कानू' का अर्थ 'सदाबहार जंगल' है, और यह आदिवासी संस्कृति को समर्पित है।"
-      },
-      "category": "Environment & Ecology",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.gktoday.in"
-    },
-    {
-      "id": "ca_20260826_06",
-      "question": {
-        "en": "Which of the following portals was recently upgraded by the Ministry of Women and Child Development to better track the implementation of the POSHAN Abhiyaan?",
-        "hi": "पोषण अभियान (POSHAN Abhiyaan) के कार्यान्वयन को बेहतर ढंग से ट्रैक करने के लिए महिला एवं बाल विकास मंत्रालय द्वारा हाल ही में निम्नलिखित में से किस पोर्टल को अपग्रेड किया गया था?"
-      },
-      "options": [
-        {
-          "en": "Poshan Tracker",
-          "hi": "पोषण ट्रैकर (Poshan Tracker)"
-        },
-        {
-          "en": "E-Kalyan",
-          "hi": "ई-कल्याण"
-        },
-        {
-          "en": "Bal Vikas Portal",
-          "hi": "बाल विकास पोर्टल"
-        },
-        {
-          "en": "Nari Shakti App",
-          "hi": "नारी शक्ति ऐप"
-        }
-      ],
-      "correctAnswer": 0,
-      "explanation": {
-        "en": "The Poshan Tracker is a centralized platform launched by the Ministry of Women and Child Development to monitor nutritional outcomes under POSHAN Abhiyaan. Its recent upgrades include facial recognition for anganwadi workers.",
-        "hi": "पोषण ट्रैकर (Poshan Tracker) पोषण अभियान के तहत पोषण संबंधी परिणामों की निगरानी के लिए महिला एवं बाल विकास मंत्रालय द्वारा शुरू किया गया एक केंद्रीकृत मंच है। इसके हालिया अपग्रेड में आंगनवाड़ी कार्यकर्ताओं के लिए चेहरे की पहचान (facial recognition) शामिल है।"
-      },
-      "category": "Government Schemes",
-      "difficulty": "medium",
-      "sourceUrl": "https://pib.gov.in"
-    },
-    {
-      "id": "ca_20260826_07",
-      "question": {
-        "en": "Who has been appointed as the new Chairperson of the National Commission for Women (NCW) in August 2026?",
-        "hi": "अगस्त 2026 में राष्ट्रीय महिला आयोग (NCW) के नए अध्यक्ष के रूप में किसे नियुक्त किया गया है?"
-      },
-      "options": [
-        {
-          "en": "Rekha Sharma",
-          "hi": "रेखा शर्मा"
-        },
-        {
-          "en": "Vijaya Rahatkar",
-          "hi": "विजया रहाटकर"
-        },
-        {
-          "en": "Swati Maliwal",
-          "hi": "स्वाति मालीवाल"
-        },
-        {
-          "en": "Mamta Sharma",
-          "hi": "ममता शर्मा"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "Vijaya Rahatkar has been appointed as the new Chairperson of the National Commission for Women (NCW), succeeding Rekha Sharma. The NCW is a statutory body established in 1992 under the National Commission for Women Act, 1990.",
-        "hi": "विजया रहाटकर को रेखा शर्मा के स्थान पर राष्ट्रीय महिला आयोग (NCW) का नया अध्यक्ष नियुक्त किया गया है। NCW एक वैधानिक निकाय है जिसकी स्थापना 1992 में राष्ट्रीय महिला आयोग अधिनियम, 1990 के तहत की गई थी।"
-      },
-      "category": "Appointments & Commissions",
-      "difficulty": "easy",
-      "sourceUrl": "https://pib.gov.in"
-    },
-    {
-      "id": "ca_20260826_08",
-      "question": {
-        "en": "Under the recent amendments to the Banking Regulation Act, what is the revised limit for the maximum number of nominees allowed for a single bank account?",
-        "hi": "बैंकिंग विनियमन अधिनियम (Banking Regulation Act) में हाल के संशोधनों के तहत, एक ही बैंक खाते के लिए अनुमत नामांकित व्यक्तियों (nominees) की अधिकतम संख्या की संशोधित सीमा क्या है?"
-      },
-      "options": [
-        {
-          "en": "1",
-          "hi": "1"
-        },
-        {
-          "en": "2",
-          "hi": "2"
-        },
-        {
-          "en": "3",
-          "hi": "3"
-        },
-        {
-          "en": "4",
-          "hi": "4"
-        }
-      ],
-      "correctAnswer": 3,
-      "explanation": {
-        "en": "The recent Banking Laws (Amendment) Bill introduced in the Lok Sabha allows account holders to have up to four nominees in their bank accounts, up from the previous limit of one, to reduce the issue of unclaimed deposits.",
-        "hi": "लोकसभा में पेश किए गए हालिया बैंकिंग कानून (संशोधन) विधेयक में खाताधारकों को उनके बैंक खातों में चार नामांकित (nominees) व्यक्ति रखने की अनुमति दी गई है, जो पहले की एक सीमा से अधिक है, ताकि लावारिस जमा की समस्या को कम किया जा सके।"
-      },
-      "category": "Economy & Banking",
-      "difficulty": "hard",
-      "sourceUrl": "https://www.thehindu.com"
-    },
-    {
-      "id": "ca_20260826_09",
-      "question": {
-        "en": "Which constitutional article deals with the 'Advisory Jurisdiction' of the Supreme Court of India, which was recently invoked by the President for legal clarification on a national issue?",
-        "hi": "कौन सा संवैधानिक अनुच्छेद भारत के सर्वोच्च न्यायालय के 'सलाहकार अधिकार क्षेत्र (Advisory Jurisdiction)' से संबंधित है, जिसे हाल ही में एक राष्ट्रीय मुद्दे पर कानूनी स्पष्टीकरण के लिए राष्ट्रपति द्वारा लागू किया गया था?"
-      },
-      "options": [
-        {
-          "en": "Article 131",
-          "hi": "अनुच्छेद 131"
-        },
-        {
-          "en": "Article 143",
-          "hi": "अनुच्छेद 143"
-        },
-        {
-          "en": "Article 136",
-          "hi": "अनुच्छेद 136"
-        },
-        {
-          "en": "Article 32",
-          "hi": "अनुच्छेद 32"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "Article 143 of the Indian Constitution confers Advisory Jurisdiction on the Supreme Court. It allows the President of India to seek the court's opinion on questions of law or fact of public importance.",
-        "hi": "भारतीय संविधान का अनुच्छेद 143 सर्वोच्च न्यायालय को सलाहकार अधिकार क्षेत्र प्रदान करता है। यह भारत के राष्ट्रपति को सार्वजनिक महत्व के कानून या तथ्य के सवालों पर अदालत की राय लेने की अनुमति देता है।"
-      },
-      "category": "Polity & Governance",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.thehindu.com"
-    },
-    {
-      "id": "ca_20260826_10",
-      "question": {
-        "en": "The Indian Coast Guard (ICG) recently commissioned the new offshore patrol vessel 'ICGS Sujay'. In which shipyard was it manufactured?",
-        "hi": "भारतीय तटरक्षक बल (ICG) ने हाल ही में नए अपतटीय गश्ती पोत (offshore patrol vessel) 'ICGS सुजय' को चालू किया है। इसका निर्माण किस शिपयार्ड में किया गया था?"
-      },
-      "options": [
-        {
-          "en": "Mazagon Dock Shipbuilders Limited",
-          "hi": "मझगांव डॉक शिपबिल्डर्स लिमिटेड"
-        },
         {
           "en": "Goa Shipyard Limited",
           "hi": "गोवा शिपयार्ड लिमिटेड"
@@ -323,17 +22,318 @@
           "hi": "कोचीन शिपयार्ड लिमिटेड"
         },
         {
-          "en": "Garden Reach Shipbuilders and Engineers",
-          "hi": "गार्डन रीच शिपबिल्डर्स एंड इंजीनियर्स"
+          "en": "Mazagon Dock Shipbuilders",
+          "hi": "मझगांव डॉक शिपबिल्डर्स"
+        },
+        {
+          "en": "Garden Reach Shipbuilders",
+          "hi": "गार्डन रीच शिपबिल्डर्स"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "Goa Shipyard Limited (GSL) has handed over the indigenously built Fast Patrol Vessel (FPV) ICGS Ajit to the Indian Coast Guard. It is capable of multi-mission roles including coastal patrol and anti-smuggling.",
+        "hi": "गोवा शिपयार्ड लिमिटेड (GSL) ने स्वदेश निर्मित फास्ट पेट्रोल वेसल (FPV) ICGS अजीत को भारतीय तटरक्षक बल को सौंप दिया है। यह तटीय गश्त और तस्करी विरोधी अभियानों सहित बहु-मिशन भूमिकाओं में सक्षम है।"
+      },
+      "category": "Defence & Security",
+      "difficulty": "easy",
+      "sourceUrl": "https://pib.gov.in"
+    },
+    {
+      "id": "ca_20260827_02",
+      "question": {
+        "en": "In August 2026, the Prime Minister chaired the 53rd meeting of the PRAGATI platform. In which year was the PRAGATI platform originally launched?",
+        "hi": "अगस्त 2026 में, प्रधान मंत्री ने प्रगति (PRAGATI) प्लेटफॉर्म की 53वीं बैठक की अध्यक्षता की। प्रगति प्लेटफॉर्म मूल रूप से किस वर्ष लॉन्च किया गया था?"
+      },
+      "options": [
+        {
+          "en": "2014",
+          "hi": "2014"
+        },
+        {
+          "en": "2015",
+          "hi": "2015"
+        },
+        {
+          "en": "2017",
+          "hi": "2017"
+        },
+        {
+          "en": "2019",
+          "hi": "2019"
         }
       ],
       "correctAnswer": 1,
       "explanation": {
-        "en": "ICGS Sujay is an Offshore Patrol Vessel designed and built indigenously by Goa Shipyard Limited (GSL). It enhances the Indian Coast Guard's operational capability in maritime security and search & rescue missions.",
-        "hi": "ICGS सुजय एक अपतटीय गश्ती पोत है जिसे गोवा शिपयार्ड लिमिटेड (GSL) द्वारा स्वदेशी रूप से डिजाइन और निर्मित किया गया है। यह समुद्री सुरक्षा और खोज एवं बचाव मिशन में भारतीय तटरक्षक बल की परिचालन क्षमता को बढ़ाता है।"
+        "en": "PRAGATI (Pro-Active Governance and Timely Implementation) is a flagship platform of the Government of India launched in 2015. It focuses on fast-tracking projects and grievance redressal through direct review by the Prime Minister.",
+        "hi": "प्रगति (प्रो-एक्टिव गवर्नेंस एंड टाइमली इम्प्लीमेंटेशन) भारत सरकार का एक प्रमुख प्लेटफॉर्म है जिसे 2015 में लॉन्च किया गया था। यह प्रधान मंत्री द्वारा प्रत्यक्ष समीक्षा के माध्यम से परियोजनाओं और शिकायत निवारण को तेजी से ट्रैक करने पर केंद्रित है।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "medium",
+      "sourceUrl": "https://pib.gov.in"
+    },
+    {
+      "id": "ca_20260827_03",
+      "question": {
+        "en": "Where is the COP17 of the United Nations Convention to Combat Desertification (UNCCD) scheduled to be held, as announced in August 2026?",
+        "hi": "अगस्त 2026 में की गई घोषणा के अनुसार, मरुस्थलीकरण से निपटने के लिए संयुक्त राष्ट्र सम्मेलन (UNCCD) का COP17 कहाँ आयोजित होने वाला है?"
+      },
+      "options": [
+        {
+          "en": "India",
+          "hi": "भारत"
+        },
+        {
+          "en": "Saudi Arabia",
+          "hi": "सऊदी अरब"
+        },
+        {
+          "en": "Mongolia",
+          "hi": "मंगोलिया"
+        },
+        {
+          "en": "Ivory Coast",
+          "hi": "आइवरी कोस्ट"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The 17th Conference of Parties (COP17) of the UNCCD is scheduled to open in Mongolia. The UNCCD is the sole legally binding international agreement linking environment and development to sustainable land management.",
+        "hi": "UNCCD के 17वें कॉन्फ्रेंस ऑफ पार्टीज (COP17) का उद्घाटन मंगोलिया में होने वाला है। UNCCD पर्यावरण और विकास को स्थायी भूमि प्रबंधन से जोड़ने वाला एकमात्र कानूनी रूप से बाध्यकारी अंतर्राष्ट्रीय समझौता है।"
+      },
+      "category": "Environment & Ecology",
+      "difficulty": "hard",
+      "sourceUrl": "https://www.thehindu.com"
+    },
+    {
+      "id": "ca_20260827_04",
+      "question": {
+        "en": "According to a recent report released by NITI Aayog in August 2026, approximately how many Indian youth are currently 'Not in Education, Employment, or Training' (NEET)?",
+        "hi": "अगस्त 2026 में नीति आयोग द्वारा जारी एक हालिया रिपोर्ट के अनुसार, लगभग कितने भारतीय युवा वर्तमान में 'शिक्षा, रोजगार या प्रशिक्षण में नहीं' (NEET) हैं?"
+      },
+      "options": [
+        {
+          "en": "55 Million",
+          "hi": "55 मिलियन"
+        },
+        {
+          "en": "87 Million",
+          "hi": "87 मिलियन"
+        },
+        {
+          "en": "120 Million",
+          "hi": "120 मिलियन"
+        },
+        {
+          "en": "150 Million",
+          "hi": "150 मिलियन"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "A report by NITI Aayog highlighted that 87 million Indian youth are not studying, working, or in training. This metric, known as NEET (Not in Education, Employment, or Training), is crucial for policy making regarding India's demographic dividend.",
+        "hi": "नीति आयोग की एक रिपोर्ट में इस बात पर प्रकाश डाला गया है कि 87 मिलियन भारतीय युवा पढ़ाई, काम या प्रशिक्षण में नहीं हैं। जनसांख्यिकीय लाभांश के संबंध में नीति निर्माण के लिए यह मीट्रिक, जिसे NEET (नॉट इन एजुकेशन, एम्प्लॉयमेंट, या ट्रेनिंग) के रूप में जाना जाता है, महत्वपूर्ण है।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "medium",
+      "sourceUrl": "https://niti.gov.in"
+    },
+    {
+      "id": "ca_20260827_05",
+      "question": {
+        "en": "Parichha Dam was recently recognized as a 'World Heritage Irrigation Structure'. On which river is this dam situated?",
+        "hi": "परीक्षा बांध (Parichha Dam) को हाल ही में 'विश्व विरासत सिंचाई संरचना' के रूप में मान्यता दी गई थी। यह बांध किस नदी पर स्थित है?"
+      },
+      "options": [
+        {
+          "en": "Narmada",
+          "hi": "नर्मदा"
+        },
+        {
+          "en": "Godavari",
+          "hi": "गोदावरी"
+        },
+        {
+          "en": "Betwa",
+          "hi": "बेतवा"
+        },
+        {
+          "en": "Chambal",
+          "hi": "चंबल"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Parichha Dam, built on the Betwa River near Jhansi in Uttar Pradesh, has been declared a World Heritage Irrigation Structure. The dam is significant for irrigation and water supply in the Bundelkhand region.",
+        "hi": "उत्तर प्रदेश में झाँसी के पास बेतवा नदी पर बने परीक्षा बांध को विश्व विरासत सिंचाई संरचना घोषित किया गया है। बुंदेलखंड क्षेत्र में सिंचाई और पानी की आपूर्ति के लिए यह बांध महत्वपूर्ण है।"
+      },
+      "category": "Awards & Honours",
+      "difficulty": "medium",
+      "sourceUrl": "https://pib.gov.in"
+    },
+    {
+      "id": "ca_20260827_06",
+      "question": {
+        "en": "Which country won the Women's Africa Cup of Nations (WAFCON) in August 2026?",
+        "hi": "अगस्त 2026 में किस देश ने महिला अफ्रीका कप ऑफ नेशंस (WAFCON) जीता?"
+      },
+      "options": [
+        {
+          "en": "South Africa",
+          "hi": "दक्षिण अफ्रीका"
+        },
+        {
+          "en": "Nigeria",
+          "hi": "नाइजीरिया"
+        },
+        {
+          "en": "Cameroon",
+          "hi": "कैमरून"
+        },
+        {
+          "en": "Morocco",
+          "hi": "मोरक्को"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Cameroon won the Women's Africa Cup of Nations 2026. The tournament is the premier international women's football competition in Africa, organized by the Confederation of African Football (CAF).",
+        "hi": "कैमरून ने महिला अफ्रीका कप ऑफ नेशंस 2026 जीता। यह टूर्नामेंट अफ्रीका में प्रमुख अंतर्राष्ट्रीय महिला फुटबॉल प्रतियोगिता है, जो कन्फेडरेशन ऑफ अफ्रीकन फुटबॉल (CAF) द्वारा आयोजित की जाती है।"
+      },
+      "category": "Sports",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.thehindu.com"
+    },
+    {
+      "id": "ca_20260827_07",
+      "question": {
+        "en": "Under the newly launched 'Sujalam Bharat' initiative, what is the primary focus of the government?",
+        "hi": "हाल ही में शुरू की गई 'सुजलम भारत' (Sujalam Bharat) पहल के तहत, सरकार का प्राथमिक फोकस क्या है?"
+      },
+      "options": [
+        {
+          "en": "Clean cooking fuel",
+          "hi": "स्वच्छ खाना पकाने का ईंधन"
+        },
+        {
+          "en": "Data sharing and interoperability in the water sector",
+          "hi": "जल क्षेत्र में डेटा साझाकरण और इंटरऑपरेबिलिटी"
+        },
+        {
+          "en": "Solar panel installation for farmers",
+          "hi": "किसानों के लिए सौर पैनल स्थापना"
+        },
+        {
+          "en": "Free digital literacy for rural women",
+          "hi": "ग्रामीण महिलाओं के लिए मुफ्त डिजिटल साक्षरता"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "'Sujalam Bharat' is a policy initiative focused on Data Sharing and Interoperability in the water and sanitation sector. It aims to integrate various water-related databases to improve governance and water management.",
+        "hi": "'सुजलम भारत' जल और स्वच्छता क्षेत्र में डेटा साझाकरण और इंटरऑपरेबिलिटी पर केंद्रित एक नीतिगत पहल है। इसका उद्देश्य शासन और जल प्रबंधन में सुधार के लिए पानी से संबंधित विभिन्न डेटाबेस को एकीकृत करना है।"
+      },
+      "category": "Government Schemes",
+      "difficulty": "medium",
+      "sourceUrl": "https://pib.gov.in"
+    },
+    {
+      "id": "ca_20260827_08",
+      "question": {
+        "en": "With which country did the Indian Navy conduct the Explosive Ordnance Disposal (EOD) Exercise 2026?",
+        "hi": "भारतीय नौसेना ने किस देश के साथ एक्सप्लोसिव ऑर्डनेंस डिस्पोजल (EOD) अभ्यास 2026 आयोजित किया?"
+      },
+      "options": [
+        {
+          "en": "Japan",
+          "hi": "जापान"
+        },
+        {
+          "en": "Australia",
+          "hi": "ऑस्ट्रेलिया"
+        },
+        {
+          "en": "United States",
+          "hi": "संयुक्त राज्य अमेरिका"
+        },
+        {
+          "en": "France",
+          "hi": "फ्रांस"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The India-US Navy EOD (Explosive Ordnance Disposal) Exercise 2026 was conducted to enhance interoperability and share best practices in handling unexploded ordnance and improvised explosive devices.",
+        "hi": "भारत-अमेरिका नौसेना EOD (एक्सप्लोसिव ऑर्डनेंस डिस्पोजल) अभ्यास 2026 अंतर-संचालनीयता बढ़ाने और बिना फटे आयुध और तात्कालिक विस्फोटक उपकरणों से निपटने में सर्वोत्तम प्रथाओं को साझा करने के लिए आयोजित किया गया था।"
       },
       "category": "Defence & Security",
       "difficulty": "hard",
+      "sourceUrl": "https://pib.gov.in"
+    },
+    {
+      "id": "ca_20260827_09",
+      "question": {
+        "en": "Recently, researchers have developed a smart cancer drug named 'RK-251'. It is a significant milestone achieved by the scientists of which country?",
+        "hi": "हाल ही में, शोधकर्ताओं ने 'RK-251' नामक एक स्मार्ट कैंसर दवा विकसित की है। यह किस देश के वैज्ञानिकों द्वारा हासिल किया गया एक महत्वपूर्ण मील का पत्थर है?"
+      },
+      "options": [
+        {
+          "en": "China",
+          "hi": "चीन"
+        },
+        {
+          "en": "Israel",
+          "hi": "इजराइल"
+        },
+        {
+          "en": "India",
+          "hi": "भारत"
+        },
+        {
+          "en": "United Kingdom",
+          "hi": "यूनाइटेड किंगडम"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Indian scientists have developed a smart cancer drug named RK-251. This drug aims to target cancer cells more precisely, reducing the side effects commonly associated with conventional chemotherapy treatments.",
+        "hi": "भारतीय वैज्ञानिकों ने RK-251 नामक एक स्मार्ट कैंसर दवा विकसित की है। इस दवा का उद्देश्य कैंसर कोशिकाओं को अधिक सटीक रूप से लक्षित करना है, जिससे पारंपरिक कीमोथेरेपी उपचारों से जुड़े दुष्प्रभावों को कम किया जा सके।"
+      },
+      "category": "Science & Technology",
+      "difficulty": "medium",
+      "sourceUrl": "https://indianexpress.com"
+    },
+    {
+      "id": "ca_20260827_10",
+      "question": {
+        "en": "In India, 'Partition Horrors Remembrance Day' is officially observed every year on which date?",
+        "hi": "भारत में, 'विभाजन विभीषिका स्मृति दिवस' आधिकारिक तौर पर हर साल किस तारीख को मनाया जाता है?"
+      },
+      "options": [
+        {
+          "en": "12 August",
+          "hi": "12 अगस्त"
+        },
+        {
+          "en": "14 August",
+          "hi": "14 अगस्त"
+        },
+        {
+          "en": "15 August",
+          "hi": "15 अगस्त"
+        },
+        {
+          "en": "16 August",
+          "hi": "16 अगस्त"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Partition Horrors Remembrance Day is observed on 14 August every year in India to commemorate the struggles and sacrifices of millions of people during the partition of India in 1947.",
+        "hi": "1947 में भारत के विभाजन के दौरान लाखों लोगों के संघर्षों और बलिदानों को याद करने के लिए भारत में हर साल 14 अगस्त को विभाजन विभीषिका स्मृति दिवस मनाया जाता है।"
+      },
+      "category": "Important Days & Themes",
+      "difficulty": "easy",
       "sourceUrl": "https://pib.gov.in"
     }
   ]
