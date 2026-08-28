@@ -1,0 +1,340 @@
+{
+  "date": "2026-08-27",
+  "topic": "SSC CGL Daily Current Affairs",
+  "source": "PIB / The Hindu / Economic Times / Indian Express / GKToday",
+  "lastUpdated": "2026-08-27T05:30:00+05:30",
+  "version": 1,
+  "totalQuestions": 10,
+  "quiz": [
+    {
+      "id": "ca_20260827_01",
+      "question": {
+        "en": "Which shipyard recently handed over the Fast Patrol Vessel 'ICGS Ajit' to the Indian Coast Guard?",
+        "hi": "हाल ही में किस शिपयार्ड ने भारतीय तटरक्षक बल को फास्ट पेट्रोल वेसल 'ICGS अजीत' सौंपा है?"
+      },
+      "options": [
+        {
+          "en": "Goa Shipyard Limited",
+          "hi": "गोवा शिपयार्ड लिमिटेड"
+        },
+        {
+          "en": "Cochin Shipyard Limited",
+          "hi": "कोचीन शिपयार्ड लिमिटेड"
+        },
+        {
+          "en": "Mazagon Dock Shipbuilders",
+          "hi": "मझगांव डॉक शिपबिल्डर्स"
+        },
+        {
+          "en": "Garden Reach Shipbuilders",
+          "hi": "गार्डन रीच शिपबिल्डर्स"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "Goa Shipyard Limited (GSL) has handed over the indigenously built Fast Patrol Vessel (FPV) ICGS Ajit to the Indian Coast Guard. It is capable of multi-mission roles including coastal patrol and anti-smuggling.",
+        "hi": "गोवा शिपयार्ड लिमिटेड (GSL) ने स्वदेश निर्मित फास्ट पेट्रोल वेसल (FPV) ICGS अजीत को भारतीय तटरक्षक बल को सौंप दिया है। यह तटीय गश्त और तस्करी विरोधी अभियानों सहित बहु-मिशन भूमिकाओं में सक्षम है।"
+      },
+      "category": "Defence & Security",
+      "difficulty": "easy",
+      "sourceUrl": "https://pib.gov.in"
+    },
+    {
+      "id": "ca_20260827_02",
+      "question": {
+        "en": "In August 2026, the Prime Minister chaired the 53rd meeting of the PRAGATI platform. In which year was the PRAGATI platform originally launched?",
+        "hi": "अगस्त 2026 में, प्रधान मंत्री ने प्रगति (PRAGATI) प्लेटफॉर्म की 53वीं बैठक की अध्यक्षता की। प्रगति प्लेटफॉर्म मूल रूप से किस वर्ष लॉन्च किया गया था?"
+      },
+      "options": [
+        {
+          "en": "2014",
+          "hi": "2014"
+        },
+        {
+          "en": "2015",
+          "hi": "2015"
+        },
+        {
+          "en": "2017",
+          "hi": "2017"
+        },
+        {
+          "en": "2019",
+          "hi": "2019"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "PRAGATI (Pro-Active Governance and Timely Implementation) is a flagship platform of the Government of India launched in 2015. It focuses on fast-tracking projects and grievance redressal through direct review by the Prime Minister.",
+        "hi": "प्रगति (प्रो-एक्टिव गवर्नेंस एंड टाइमली इम्प्लीमेंटेशन) भारत सरकार का एक प्रमुख प्लेटफॉर्म है जिसे 2015 में लॉन्च किया गया था। यह प्रधान मंत्री द्वारा प्रत्यक्ष समीक्षा के माध्यम से परियोजनाओं और शिकायत निवारण को तेजी से ट्रैक करने पर केंद्रित है।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "medium",
+      "sourceUrl": "https://pib.gov.in"
+    },
+    {
+      "id": "ca_20260827_03",
+      "question": {
+        "en": "Where is the COP17 of the United Nations Convention to Combat Desertification (UNCCD) scheduled to be held, as announced in August 2026?",
+        "hi": "अगस्त 2026 में की गई घोषणा के अनुसार, मरुस्थलीकरण से निपटने के लिए संयुक्त राष्ट्र सम्मेलन (UNCCD) का COP17 कहाँ आयोजित होने वाला है?"
+      },
+      "options": [
+        {
+          "en": "India",
+          "hi": "भारत"
+        },
+        {
+          "en": "Saudi Arabia",
+          "hi": "सऊदी अरब"
+        },
+        {
+          "en": "Mongolia",
+          "hi": "मंगोलिया"
+        },
+        {
+          "en": "Ivory Coast",
+          "hi": "आइवरी कोस्ट"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The 17th Conference of Parties (COP17) of the UNCCD is scheduled to open in Mongolia. The UNCCD is the sole legally binding international agreement linking environment and development to sustainable land management.",
+        "hi": "UNCCD के 17वें कॉन्फ्रेंस ऑफ पार्टीज (COP17) का उद्घाटन मंगोलिया में होने वाला है। UNCCD पर्यावरण और विकास को स्थायी भूमि प्रबंधन से जोड़ने वाला एकमात्र कानूनी रूप से बाध्यकारी अंतर्राष्ट्रीय समझौता है।"
+      },
+      "category": "Environment & Ecology",
+      "difficulty": "hard",
+      "sourceUrl": "https://www.thehindu.com"
+    },
+    {
+      "id": "ca_20260827_04",
+      "question": {
+        "en": "According to a recent report released by NITI Aayog in August 2026, approximately how many Indian youth are currently 'Not in Education, Employment, or Training' (NEET)?",
+        "hi": "अगस्त 2026 में नीति आयोग द्वारा जारी एक हालिया रिपोर्ट के अनुसार, लगभग कितने भारतीय युवा वर्तमान में 'शिक्षा, रोजगार या प्रशिक्षण में नहीं' (NEET) हैं?"
+      },
+      "options": [
+        {
+          "en": "55 Million",
+          "hi": "55 मिलियन"
+        },
+        {
+          "en": "87 Million",
+          "hi": "87 मिलियन"
+        },
+        {
+          "en": "120 Million",
+          "hi": "120 मिलियन"
+        },
+        {
+          "en": "150 Million",
+          "hi": "150 मिलियन"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "A report by NITI Aayog highlighted that 87 million Indian youth are not studying, working, or in training. This metric, known as NEET (Not in Education, Employment, or Training), is crucial for policy making regarding India's demographic dividend.",
+        "hi": "नीति आयोग की एक रिपोर्ट में इस बात पर प्रकाश डाला गया है कि 87 मिलियन भारतीय युवा पढ़ाई, काम या प्रशिक्षण में नहीं हैं। जनसांख्यिकीय लाभांश के संबंध में नीति निर्माण के लिए यह मीट्रिक, जिसे NEET (नॉट इन एजुकेशन, एम्प्लॉयमेंट, या ट्रेनिंग) के रूप में जाना जाता है, महत्वपूर्ण है।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "medium",
+      "sourceUrl": "https://niti.gov.in"
+    },
+    {
+      "id": "ca_20260827_05",
+      "question": {
+        "en": "Parichha Dam was recently recognized as a 'World Heritage Irrigation Structure'. On which river is this dam situated?",
+        "hi": "परीक्षा बांध (Parichha Dam) को हाल ही में 'विश्व विरासत सिंचाई संरचना' के रूप में मान्यता दी गई थी। यह बांध किस नदी पर स्थित है?"
+      },
+      "options": [
+        {
+          "en": "Narmada",
+          "hi": "नर्मदा"
+        },
+        {
+          "en": "Godavari",
+          "hi": "गोदावरी"
+        },
+        {
+          "en": "Betwa",
+          "hi": "बेतवा"
+        },
+        {
+          "en": "Chambal",
+          "hi": "चंबल"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Parichha Dam, built on the Betwa River near Jhansi in Uttar Pradesh, has been declared a World Heritage Irrigation Structure. The dam is significant for irrigation and water supply in the Bundelkhand region.",
+        "hi": "उत्तर प्रदेश में झाँसी के पास बेतवा नदी पर बने परीक्षा बांध को विश्व विरासत सिंचाई संरचना घोषित किया गया है। बुंदेलखंड क्षेत्र में सिंचाई और पानी की आपूर्ति के लिए यह बांध महत्वपूर्ण है।"
+      },
+      "category": "Awards & Honours",
+      "difficulty": "medium",
+      "sourceUrl": "https://pib.gov.in"
+    },
+    {
+      "id": "ca_20260827_06",
+      "question": {
+        "en": "Which country won the Women's Africa Cup of Nations (WAFCON) in August 2026?",
+        "hi": "अगस्त 2026 में किस देश ने महिला अफ्रीका कप ऑफ नेशंस (WAFCON) जीता?"
+      },
+      "options": [
+        {
+          "en": "South Africa",
+          "hi": "दक्षिण अफ्रीका"
+        },
+        {
+          "en": "Nigeria",
+          "hi": "नाइजीरिया"
+        },
+        {
+          "en": "Cameroon",
+          "hi": "कैमरून"
+        },
+        {
+          "en": "Morocco",
+          "hi": "मोरक्को"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Cameroon won the Women's Africa Cup of Nations 2026. The tournament is the premier international women's football competition in Africa, organized by the Confederation of African Football (CAF).",
+        "hi": "कैमरून ने महिला अफ्रीका कप ऑफ नेशंस 2026 जीता। यह टूर्नामेंट अफ्रीका में प्रमुख अंतर्राष्ट्रीय महिला फुटबॉल प्रतियोगिता है, जो कन्फेडरेशन ऑफ अफ्रीकन फुटबॉल (CAF) द्वारा आयोजित की जाती है।"
+      },
+      "category": "Sports",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.thehindu.com"
+    },
+    {
+      "id": "ca_20260827_07",
+      "question": {
+        "en": "Under the newly launched 'Sujalam Bharat' initiative, what is the primary focus of the government?",
+        "hi": "हाल ही में शुरू की गई 'सुजलम भारत' (Sujalam Bharat) पहल के तहत, सरकार का प्राथमिक फोकस क्या है?"
+      },
+      "options": [
+        {
+          "en": "Clean cooking fuel",
+          "hi": "स्वच्छ खाना पकाने का ईंधन"
+        },
+        {
+          "en": "Data sharing and interoperability in the water sector",
+          "hi": "जल क्षेत्र में डेटा साझाकरण और इंटरऑपरेबिलिटी"
+        },
+        {
+          "en": "Solar panel installation for farmers",
+          "hi": "किसानों के लिए सौर पैनल स्थापना"
+        },
+        {
+          "en": "Free digital literacy for rural women",
+          "hi": "ग्रामीण महिलाओं के लिए मुफ्त डिजिटल साक्षरता"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "'Sujalam Bharat' is a policy initiative focused on Data Sharing and Interoperability in the water and sanitation sector. It aims to integrate various water-related databases to improve governance and water management.",
+        "hi": "'सुजलम भारत' जल और स्वच्छता क्षेत्र में डेटा साझाकरण और इंटरऑपरेबिलिटी पर केंद्रित एक नीतिगत पहल है। इसका उद्देश्य शासन और जल प्रबंधन में सुधार के लिए पानी से संबंधित विभिन्न डेटाबेस को एकीकृत करना है।"
+      },
+      "category": "Government Schemes",
+      "difficulty": "medium",
+      "sourceUrl": "https://pib.gov.in"
+    },
+    {
+      "id": "ca_20260827_08",
+      "question": {
+        "en": "With which country did the Indian Navy conduct the Explosive Ordnance Disposal (EOD) Exercise 2026?",
+        "hi": "भारतीय नौसेना ने किस देश के साथ एक्सप्लोसिव ऑर्डनेंस डिस्पोजल (EOD) अभ्यास 2026 आयोजित किया?"
+      },
+      "options": [
+        {
+          "en": "Japan",
+          "hi": "जापान"
+        },
+        {
+          "en": "Australia",
+          "hi": "ऑस्ट्रेलिया"
+        },
+        {
+          "en": "United States",
+          "hi": "संयुक्त राज्य अमेरिका"
+        },
+        {
+          "en": "France",
+          "hi": "फ्रांस"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The India-US Navy EOD (Explosive Ordnance Disposal) Exercise 2026 was conducted to enhance interoperability and share best practices in handling unexploded ordnance and improvised explosive devices.",
+        "hi": "भारत-अमेरिका नौसेना EOD (एक्सप्लोसिव ऑर्डनेंस डिस्पोजल) अभ्यास 2026 अंतर-संचालनीयता बढ़ाने और बिना फटे आयुध और तात्कालिक विस्फोटक उपकरणों से निपटने में सर्वोत्तम प्रथाओं को साझा करने के लिए आयोजित किया गया था।"
+      },
+      "category": "Defence & Security",
+      "difficulty": "hard",
+      "sourceUrl": "https://pib.gov.in"
+    },
+    {
+      "id": "ca_20260827_09",
+      "question": {
+        "en": "Recently, researchers have developed a smart cancer drug named 'RK-251'. It is a significant milestone achieved by the scientists of which country?",
+        "hi": "हाल ही में, शोधकर्ताओं ने 'RK-251' नामक एक स्मार्ट कैंसर दवा विकसित की है। यह किस देश के वैज्ञानिकों द्वारा हासिल किया गया एक महत्वपूर्ण मील का पत्थर है?"
+      },
+      "options": [
+        {
+          "en": "China",
+          "hi": "चीन"
+        },
+        {
+          "en": "Israel",
+          "hi": "इजराइल"
+        },
+        {
+          "en": "India",
+          "hi": "भारत"
+        },
+        {
+          "en": "United Kingdom",
+          "hi": "यूनाइटेड किंगडम"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Indian scientists have developed a smart cancer drug named RK-251. This drug aims to target cancer cells more precisely, reducing the side effects commonly associated with conventional chemotherapy treatments.",
+        "hi": "भारतीय वैज्ञानिकों ने RK-251 नामक एक स्मार्ट कैंसर दवा विकसित की है। इस दवा का उद्देश्य कैंसर कोशिकाओं को अधिक सटीक रूप से लक्षित करना है, जिससे पारंपरिक कीमोथेरेपी उपचारों से जुड़े दुष्प्रभावों को कम किया जा सके।"
+      },
+      "category": "Science & Technology",
+      "difficulty": "medium",
+      "sourceUrl": "https://indianexpress.com"
+    },
+    {
+      "id": "ca_20260827_10",
+      "question": {
+        "en": "In India, 'Partition Horrors Remembrance Day' is officially observed every year on which date?",
+        "hi": "भारत में, 'विभाजन विभीषिका स्मृति दिवस' आधिकारिक तौर पर हर साल किस तारीख को मनाया जाता है?"
+      },
+      "options": [
+        {
+          "en": "12 August",
+          "hi": "12 अगस्त"
+        },
+        {
+          "en": "14 August",
+          "hi": "14 अगस्त"
+        },
+        {
+          "en": "15 August",
+          "hi": "15 अगस्त"
+        },
+        {
+          "en": "16 August",
+          "hi": "16 अगस्त"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Partition Horrors Remembrance Day is observed on 14 August every year in India to commemorate the struggles and sacrifices of millions of people during the partition of India in 1947.",
+        "hi": "1947 में भारत के विभाजन के दौरान लाखों लोगों के संघर्षों और बलिदानों को याद करने के लिए भारत में हर साल 14 अगस्त को विभाजन विभीषिका स्मृति दिवस मनाया जाता है।"
+      },
+      "category": "Important Days & Themes",
+      "difficulty": "easy",
+      "sourceUrl": "https://pib.gov.in"
+    }
+  ]
+}
