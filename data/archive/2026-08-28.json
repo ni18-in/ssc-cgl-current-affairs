@@ -1,0 +1,340 @@
+{
+  "date": "2026-08-28",
+  "topic": "SSC CGL Daily Current Affairs",
+  "source": "PIB / The Hindu / Economic Times / Indian Express / GKToday",
+  "lastUpdated": "2026-08-28T05:30:00+05:30",
+  "version": 1,
+  "totalQuestions": 10,
+  "quiz": [
+    {
+      "id": "ca_20260828_01",
+      "question": {
+        "en": "Who was appointed as the Chairman of the 16th Finance Commission of India?",
+        "hi": "भारत के 16वें वित्त आयोग के अध्यक्ष के रूप में किसे नियुक्त किया गया है?"
+      },
+      "options": [
+        {
+          "en": "N. K. Singh",
+          "hi": "एन. के. सिंह"
+        },
+        {
+          "en": "Arvind Panagariya",
+          "hi": "अरविंद पनगड़िया"
+        },
+        {
+          "en": "Rajiv Kumar",
+          "hi": "राजीव कुमार"
+        },
+        {
+          "en": "Suman Bery",
+          "hi": "सुमन बेरी"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Dr. Arvind Panagariya, former Vice-Chairman of NITI Aayog, was appointed as the Chairman of the 16th Finance Commission. The Finance Commission is a constitutional body established under Article 280 of the Indian Constitution.",
+        "hi": "नीति आयोग के पूर्व उपाध्यक्ष डॉ. अरविंद पनगड़िया को 16वें वित्त आयोग का अध्यक्ष नियुक्त किया गया है। वित्त आयोग भारतीय संविधान के अनुच्छेद 280 के तहत स्थापित एक संवैधानिक निकाय है।"
+      },
+      "category": "Appointments & Commissions",
+      "difficulty": "easy",
+      "sourceUrl": "https://pib.gov.in"
+    },
+    {
+      "id": "ca_20260828_02",
+      "question": {
+        "en": "Recently, DRDO successfully flight-tested the new generation ballistic missile 'Agni-Prime'. What is its approximate strike range?",
+        "hi": "हाल ही में, DRDO ने नई पीढ़ी की बैलिस्टिक मिसाइल 'अग्नि-प्राइम' का सफलतापूर्वक उड़ान परीक्षण किया। इसकी अनुमानित मारक क्षमता (रेंज) क्या है?"
+      },
+      "options": [
+        {
+          "en": "500 - 1000 km",
+          "hi": "500 - 1000 किमी"
+        },
+        {
+          "en": "1000 - 2000 km",
+          "hi": "1000 - 2000 किमी"
+        },
+        {
+          "en": "3000 - 4000 km",
+          "hi": "3000 - 4000 किमी"
+        },
+        {
+          "en": "5000 - 6000 km",
+          "hi": "5000 - 6000 किमी"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "'Agni-Prime' is a two-stage, solid-fuelled, canisterised missile developed by the Defence Research and Development Organisation (DRDO). It has a strike range between 1000 to 2000 km and features advanced navigation and guidance systems.",
+        "hi": "'अग्नि-प्राइम' रक्षा अनुसंधान एवं विकास संगठन (DRDO) द्वारा विकसित एक दो चरणों वाली, ठोस-ईंधन वाली, कनस्तरीकृत (canisterised) मिसाइल है। इसकी मारक क्षमता 1000 से 2000 किमी के बीच है और इसमें उन्नत नेविगेशन तथा मार्गदर्शन प्रणाली है।"
+      },
+      "category": "Defence & Security",
+      "difficulty": "medium",
+      "sourceUrl": "https://pib.gov.in"
+    },
+    {
+      "id": "ca_20260828_03",
+      "question": {
+        "en": "What is the total financial outlay of the 'PM Surya Ghar: Muft Bijli Yojana' launched by the Central Government to promote rooftop solar installations?",
+        "hi": "रूफटॉप सौर प्रतिष्ठानों को बढ़ावा देने के लिए केंद्र सरकार द्वारा शुरू की गई 'पीएम सूर्य घर: मुफ्त बिजली योजना' का कुल वित्तीय परिव्यय कितना है?"
+      },
+      "options": [
+        {
+          "en": "₹ 50,000 crore",
+          "hi": "₹ 50,000 करोड़"
+        },
+        {
+          "en": "₹ 75,021 crore",
+          "hi": "₹ 75,021 करोड़"
+        },
+        {
+          "en": "₹ 1,00,000 crore",
+          "hi": "₹ 1,00,000 करोड़"
+        },
+        {
+          "en": "₹ 25,000 crore",
+          "hi": "₹ 25,000 करोड़"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The Union Cabinet approved the 'PM Surya Ghar: Muft Bijli Yojana' with a total outlay of ₹75,021 crore. It aims to provide up to 300 units of free electricity every month to one crore households through rooftop solar panels.",
+        "hi": "केंद्रीय मंत्रिमंडल ने ₹75,021 करोड़ के कुल परिव्यय के साथ 'पीएम सूर्य घर: मुफ्त बिजली योजना' को मंजूरी दी है। इसका उद्देश्य रूफटॉप सोलर पैनल के माध्यम से एक करोड़ घरों को हर महीने 300 यूनिट तक मुफ्त बिजली प्रदान करना है।"
+      },
+      "category": "Government Schemes",
+      "difficulty": "hard",
+      "sourceUrl": "https://pib.gov.in"
+    },
+    {
+      "id": "ca_20260828_04",
+      "question": {
+        "en": "'National Space Day' is celebrated in India on which date to commemorate the successful soft landing of Chandrayaan-3?",
+        "hi": "चंद्रयान-3 की सफल सॉफ्ट लैंडिंग के उपलक्ष्य में भारत में 'राष्ट्रीय अंतरिक्ष दिवस' किस तिथि को मनाया जाता है?"
+      },
+      "options": [
+        {
+          "en": "14 July",
+          "hi": "14 जुलाई"
+        },
+        {
+          "en": "23 August",
+          "hi": "23 अगस्त"
+        },
+        {
+          "en": "15 August",
+          "hi": "15 अगस्त"
+        },
+        {
+          "en": "2 September",
+          "hi": "2 सितंबर"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The Government of India has declared August 23 as 'National Space Day' to mark the historic soft landing of the Chandrayaan-3 mission's Vikram Lander on the lunar south pole.",
+        "hi": "भारत सरकार ने चंद्रमा के दक्षिणी ध्रुव पर चंद्रयान-3 मिशन के विक्रम लैंडर की ऐतिहासिक सॉफ्ट लैंडिंग को चिह्नित करने के लिए 23 अगस्त को 'राष्ट्रीय अंतरिक्ष दिवस' के रूप में घोषित किया है।"
+      },
+      "category": "Science & Technology",
+      "difficulty": "easy",
+      "sourceUrl": "https://pib.gov.in"
+    },
+    {
+      "id": "ca_20260828_05",
+      "question": {
+        "en": "The Reserve Bank of India (RBI) introduced the 'UDGAM' portal for which of the following purposes?",
+        "hi": "भारतीय रिजर्व बैंक (RBI) ने निम्नलिखित में से किस उद्देश्य के लिए 'उद्गम' (UDGAM) पोर्टल शुरू किया है?"
+      },
+      "options": [
+        {
+          "en": "To facilitate digital payments in rural areas",
+          "hi": "ग्रामीण क्षेत्रों में डिजिटल भुगतान की सुविधा के लिए"
+        },
+        {
+          "en": "To track and claim unclaimed deposits in multiple banks",
+          "hi": "कई बैंकों में लावारिस जमा राशि को ट्रैक करने और दावा करने के लिए"
+        },
+        {
+          "en": "To provide educational loans to students",
+          "hi": "छात्रों को शिक्षा ऋण प्रदान करने के लिए"
+        },
+        {
+          "en": "To report cyber fraud instantly",
+          "hi": "साइबर धोखाधड़ी की तुरंत रिपोर्ट करने के लिए"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "UDGAM (Unclaimed Deposits - Gateway to Access inforMation) is a centralized web portal launched by the RBI. It helps members of the public search for their unclaimed deposits across multiple banks in one place.",
+        "hi": "उद्गम (UDGAM - Unclaimed Deposits - Gateway to Access inforMation) RBI द्वारा लॉन्च किया गया एक केंद्रीकृत वेब पोर्टल है। यह आम जनता को एक ही स्थान पर कई बैंकों में अपनी लावारिस जमा राशि खोजने में मदद करता है।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "medium",
+      "sourceUrl": "https://rbi.org.in"
+    },
+    {
+      "id": "ca_20260828_06",
+      "question": {
+        "en": "Which city/country is scheduled to host the 2026 Winter Olympic Games?",
+        "hi": "2026 शीतकालीन ओलंपिक खेलों (Winter Olympic Games) की मेजबानी कौन सा शहर/देश करने वाला है?"
+      },
+      "options": [
+        {
+          "en": "Paris, France",
+          "hi": "पेरिस, फ्रांस"
+        },
+        {
+          "en": "Los Angeles, USA",
+          "hi": "लॉस एंजिल्स, संयुक्त राज्य अमेरिका"
+        },
+        {
+          "en": "Milan and Cortina d'Ampezzo, Italy",
+          "hi": "मिलान और कॉर्टिना डी'अम्पेज़ो, इटली"
+        },
+        {
+          "en": "Beijing, China",
+          "hi": "बीजिंग, चीन"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The 2026 Winter Olympics, officially known as the XXV Olympic Winter Games, will be hosted jointly by the Italian cities of Milan and Cortina d'Ampezzo. It is a major multi-sport event scheduled for February 2026.",
+        "hi": "2026 शीतकालीन ओलंपिक, जिसे आधिकारिक तौर पर XXV ओलंपिक शीतकालीन खेलों के रूप में जाना जाता है, इतालवी शहरों मिलान और कॉर्टिना डी'अम्पेज़ो द्वारा संयुक्त रूप से आयोजित किया जाएगा। यह फरवरी 2026 में होने वाला एक प्रमुख बहु-खेल आयोजन है।"
+      },
+      "category": "Sports",
+      "difficulty": "medium",
+      "sourceUrl": "https://olympics.com"
+    },
+    {
+      "id": "ca_20260828_07",
+      "question": {
+        "en": "The 'Bharatiya Nyaya Sanhita, 2023', which came into effect recently, replaces which of the following historical British-era laws?",
+        "hi": "हाल ही में लागू हुई 'भारतीय न्याय संहिता, 2023', निम्नलिखित में से किस ऐतिहासिक ब्रिटिश-युग के कानून की जगह लेती है?"
+      },
+      "options": [
+        {
+          "en": "The Indian Penal Code, 1860",
+          "hi": "भारतीय दंड संहिता (IPC), 1860"
+        },
+        {
+          "en": "The Indian Evidence Act, 1872",
+          "hi": "भारतीय साक्ष्य अधिनियम, 1872"
+        },
+        {
+          "en": "The Code of Criminal Procedure, 1973",
+          "hi": "आपराधिक प्रक्रिया संहिता (CrPC), 1973"
+        },
+        {
+          "en": "The Police Act, 1861",
+          "hi": "पुलिस अधिनियम, 1861"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "The Bharatiya Nyaya Sanhita (BNS) replaces the Indian Penal Code (IPC) of 1860. Alongside it, the Bharatiya Nagarik Suraksha Sanhita replaces the CrPC, and the Bharatiya Sakshya Adhiniyam replaces the Indian Evidence Act.",
+        "hi": "भारतीय न्याय संहिता (BNS) 1860 की भारतीय दंड संहिता (IPC) का स्थान लेती है। इसके साथ, भारतीय नागरिक सुरक्षा संहिता CrPC का स्थान लेती है, और भारतीय साक्ष्य अधिनियम 1872 के भारतीय साक्ष्य अधिनियम का स्थान लेता है।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "easy",
+      "sourceUrl": "https://pib.gov.in"
+    },
+    {
+      "id": "ca_20260828_08",
+      "question": {
+        "en": "India recently added the Nagi and Nakti Bird Sanctuaries to the list of Ramsar sites. In which state are they located?",
+        "hi": "भारत ने हाल ही में नागी और नकटी पक्षी अभयारण्यों (Nagi and Nakti Bird Sanctuaries) को रामसर स्थलों की सूची में शामिल किया है। ये किस राज्य में स्थित हैं?"
+      },
+      "options": [
+        {
+          "en": "Uttar Pradesh",
+          "hi": "उत्तर प्रदेश"
+        },
+        {
+          "en": "Gujarat",
+          "hi": "गुजरात"
+        },
+        {
+          "en": "Bihar",
+          "hi": "बिहार"
+        },
+        {
+          "en": "Rajasthan",
+          "hi": "राजस्थान"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The Nagi and Nakti Bird Sanctuaries are located in the Jamui district of Bihar. They were recently recognized as Wetlands of International Importance under the Ramsar Convention, boosting India's total number of Ramsar sites.",
+        "hi": "नागी और नकटी पक्षी अभयारण्य बिहार के जमुई जिले में स्थित हैं। हाल ही में उन्हें रामसर कन्वेंशन के तहत अंतर्राष्ट्रीय महत्व के आर्द्रभूमि (Wetlands) के रूप में मान्यता दी गई थी, जिससे भारत के कुल रामसर स्थलों की संख्या में वृद्धि हुई है।"
+      },
+      "category": "Environment & Ecology",
+      "difficulty": "medium",
+      "sourceUrl": "https://pib.gov.in"
+    },
+    {
+      "id": "ca_20260828_09",
+      "question": {
+        "en": "Which country is scheduled to host the G20 Summit in the year 2026?",
+        "hi": "वर्ष 2026 में जी-20 (G20) शिखर सम्मेलन की मेजबानी करने वाला देश कौन सा है?"
+      },
+      "options": [
+        {
+          "en": "Brazil",
+          "hi": "ब्राजील"
+        },
+        {
+          "en": "South Africa",
+          "hi": "दक्षिण अफ्रीका"
+        },
+        {
+          "en": "United States",
+          "hi": "संयुक्त राज्य अमेरिका"
+        },
+        {
+          "en": "United Kingdom",
+          "hi": "यूनाइटेड किंगडम"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The United States is scheduled to hold the G20 Presidency and host the G20 Summit in 2026. Prior to this, Brazil hosted it in 2024 and South Africa is slated to host in 2025.",
+        "hi": "संयुक्त राज्य अमेरिका 2026 में जी-20 की अध्यक्षता करेगा और शिखर सम्मेलन की मेजबानी करेगा। इससे पहले, ब्राजील ने 2024 में इसकी मेजबानी की थी और दक्षिण अफ्रीका 2025 में मेजबानी करने वाला है।"
+      },
+      "category": "International Summits",
+      "difficulty": "hard",
+      "sourceUrl": "https://www.g20.org"
+    },
+    {
+      "id": "ca_20260828_10",
+      "question": {
+        "en": "Who among the following was honored with the prestigious 53rd Dadasaheb Phalke Award, the highest award in Indian cinema?",
+        "hi": "निम्नलिखित में से किसे भारतीय सिनेमा के सर्वोच्च पुरस्कार, प्रतिष्ठित 53वें दादा साहब फाल्के पुरस्कार से सम्मानित किया गया?"
+      },
+      "options": [
+        {
+          "en": "Amitabh Bachchan",
+          "hi": "अमिताभ बच्चन"
+        },
+        {
+          "en": "Rajinikanth",
+          "hi": "रजनीकांत"
+        },
+        {
+          "en": "Asha Parekh",
+          "hi": "आशा पारेख"
+        },
+        {
+          "en": "Waheeda Rehman",
+          "hi": "वहीदा रहमान"
+        }
+      ],
+      "correctAnswer": 3,
+      "explanation": {
+        "en": "Veteran actress Waheeda Rehman was conferred with the 53rd Dadasaheb Phalke Lifetime Achievement Award for her stellar contribution to Indian cinema. The award is presented annually at the National Film Awards ceremony.",
+        "hi": "दिग्गज अभिनेत्री वहीदा रहमान को भारतीय सिनेमा में उनके शानदार योगदान के लिए 53वें दादा साहब फाल्के लाइफटाइम अचीवमेंट अवार्ड से सम्मानित किया गया। यह पुरस्कार प्रतिवर्ष राष्ट्रीय फिल्म पुरस्कार समारोह में प्रदान किया जाता है।"
+      },
+      "category": "Awards & Honours",
+      "difficulty": "medium",
+      "sourceUrl": "https://pib.gov.in"
+    }
+  ]
+}

@@ -1,340 +1,340 @@
 {
-  "date": "2026-08-28",
+  "date": "2026-08-29",
   "topic": "SSC CGL Daily Current Affairs",
   "source": "PIB / The Hindu / Economic Times / Indian Express / GKToday",
-  "lastUpdated": "2026-08-28T05:30:00+05:30",
+  "lastUpdated": "2026-08-29T06:00:00+05:30",
   "version": 1,
   "totalQuestions": 10,
   "quiz": [
     {
-      "id": "ca_20260828_01",
+      "id": "ca_20260829_01",
       "question": {
-        "en": "Who was appointed as the Chairman of the 16th Finance Commission of India?",
-        "hi": "भारत के 16वें वित्त आयोग के अध्यक्ष के रूप में किसे नियुक्त किया गया है?"
+        "en": "The Pradhan Mantri Jan Dhan Yojana (PMJDY), which recently completed 12 years, is considered the world's largest initiative for which of the following?",
+        "hi": "प्रधानमंत्री जन धन योजना (PMJDY), जिसने हाल ही में 12 साल पूरे किए हैं, निम्नलिखित में से किसके लिए दुनिया की सबसे बड़ी पहल मानी जाती है?"
       },
       "options": [
         {
-          "en": "N. K. Singh",
-          "hi": "एन. के. सिंह"
+          "en": "Financial Inclusion",
+          "hi": "वित्तीय समावेशन (Financial Inclusion)"
         },
         {
-          "en": "Arvind Panagariya",
-          "hi": "अरविंद पनगड़िया"
+          "en": "Free Healthcare",
+          "hi": "मुफ्त स्वास्थ्य सेवा (Free Healthcare)"
         },
         {
-          "en": "Rajiv Kumar",
-          "hi": "राजीव कुमार"
+          "en": "Skill Development",
+          "hi": "कौशल विकास (Skill Development)"
         },
         {
-          "en": "Suman Bery",
-          "hi": "सुमन बेरी"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "Dr. Arvind Panagariya, former Vice-Chairman of NITI Aayog, was appointed as the Chairman of the 16th Finance Commission. The Finance Commission is a constitutional body established under Article 280 of the Indian Constitution.",
-        "hi": "नीति आयोग के पूर्व उपाध्यक्ष डॉ. अरविंद पनगड़िया को 16वें वित्त आयोग का अध्यक्ष नियुक्त किया गया है। वित्त आयोग भारतीय संविधान के अनुच्छेद 280 के तहत स्थापित एक संवैधानिक निकाय है।"
-      },
-      "category": "Appointments & Commissions",
-      "difficulty": "easy",
-      "sourceUrl": "https://pib.gov.in"
-    },
-    {
-      "id": "ca_20260828_02",
-      "question": {
-        "en": "Recently, DRDO successfully flight-tested the new generation ballistic missile 'Agni-Prime'. What is its approximate strike range?",
-        "hi": "हाल ही में, DRDO ने नई पीढ़ी की बैलिस्टिक मिसाइल 'अग्नि-प्राइम' का सफलतापूर्वक उड़ान परीक्षण किया। इसकी अनुमानित मारक क्षमता (रेंज) क्या है?"
-      },
-      "options": [
-        {
-          "en": "500 - 1000 km",
-          "hi": "500 - 1000 किमी"
-        },
-        {
-          "en": "1000 - 2000 km",
-          "hi": "1000 - 2000 किमी"
-        },
-        {
-          "en": "3000 - 4000 km",
-          "hi": "3000 - 4000 किमी"
-        },
-        {
-          "en": "5000 - 6000 km",
-          "hi": "5000 - 6000 किमी"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "'Agni-Prime' is a two-stage, solid-fuelled, canisterised missile developed by the Defence Research and Development Organisation (DRDO). It has a strike range between 1000 to 2000 km and features advanced navigation and guidance systems.",
-        "hi": "'अग्नि-प्राइम' रक्षा अनुसंधान एवं विकास संगठन (DRDO) द्वारा विकसित एक दो चरणों वाली, ठोस-ईंधन वाली, कनस्तरीकृत (canisterised) मिसाइल है। इसकी मारक क्षमता 1000 से 2000 किमी के बीच है और इसमें उन्नत नेविगेशन तथा मार्गदर्शन प्रणाली है।"
-      },
-      "category": "Defence & Security",
-      "difficulty": "medium",
-      "sourceUrl": "https://pib.gov.in"
-    },
-    {
-      "id": "ca_20260828_03",
-      "question": {
-        "en": "What is the total financial outlay of the 'PM Surya Ghar: Muft Bijli Yojana' launched by the Central Government to promote rooftop solar installations?",
-        "hi": "रूफटॉप सौर प्रतिष्ठानों को बढ़ावा देने के लिए केंद्र सरकार द्वारा शुरू की गई 'पीएम सूर्य घर: मुफ्त बिजली योजना' का कुल वित्तीय परिव्यय कितना है?"
-      },
-      "options": [
-        {
-          "en": "₹ 50,000 crore",
-          "hi": "₹ 50,000 करोड़"
-        },
-        {
-          "en": "₹ 75,021 crore",
-          "hi": "₹ 75,021 करोड़"
-        },
-        {
-          "en": "₹ 1,00,000 crore",
-          "hi": "₹ 1,00,000 करोड़"
-        },
-        {
-          "en": "₹ 25,000 crore",
-          "hi": "₹ 25,000 करोड़"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "The Union Cabinet approved the 'PM Surya Ghar: Muft Bijli Yojana' with a total outlay of ₹75,021 crore. It aims to provide up to 300 units of free electricity every month to one crore households through rooftop solar panels.",
-        "hi": "केंद्रीय मंत्रिमंडल ने ₹75,021 करोड़ के कुल परिव्यय के साथ 'पीएम सूर्य घर: मुफ्त बिजली योजना' को मंजूरी दी है। इसका उद्देश्य रूफटॉप सोलर पैनल के माध्यम से एक करोड़ घरों को हर महीने 300 यूनिट तक मुफ्त बिजली प्रदान करना है।"
-      },
-      "category": "Government Schemes",
-      "difficulty": "hard",
-      "sourceUrl": "https://pib.gov.in"
-    },
-    {
-      "id": "ca_20260828_04",
-      "question": {
-        "en": "'National Space Day' is celebrated in India on which date to commemorate the successful soft landing of Chandrayaan-3?",
-        "hi": "चंद्रयान-3 की सफल सॉफ्ट लैंडिंग के उपलक्ष्य में भारत में 'राष्ट्रीय अंतरिक्ष दिवस' किस तिथि को मनाया जाता है?"
-      },
-      "options": [
-        {
-          "en": "14 July",
-          "hi": "14 जुलाई"
-        },
-        {
-          "en": "23 August",
-          "hi": "23 अगस्त"
-        },
-        {
-          "en": "15 August",
-          "hi": "15 अगस्त"
-        },
-        {
-          "en": "2 September",
-          "hi": "2 सितंबर"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "The Government of India has declared August 23 as 'National Space Day' to mark the historic soft landing of the Chandrayaan-3 mission's Vikram Lander on the lunar south pole.",
-        "hi": "भारत सरकार ने चंद्रमा के दक्षिणी ध्रुव पर चंद्रयान-3 मिशन के विक्रम लैंडर की ऐतिहासिक सॉफ्ट लैंडिंग को चिह्नित करने के लिए 23 अगस्त को 'राष्ट्रीय अंतरिक्ष दिवस' के रूप में घोषित किया है।"
-      },
-      "category": "Science & Technology",
-      "difficulty": "easy",
-      "sourceUrl": "https://pib.gov.in"
-    },
-    {
-      "id": "ca_20260828_05",
-      "question": {
-        "en": "The Reserve Bank of India (RBI) introduced the 'UDGAM' portal for which of the following purposes?",
-        "hi": "भारतीय रिजर्व बैंक (RBI) ने निम्नलिखित में से किस उद्देश्य के लिए 'उद्गम' (UDGAM) पोर्टल शुरू किया है?"
-      },
-      "options": [
-        {
-          "en": "To facilitate digital payments in rural areas",
-          "hi": "ग्रामीण क्षेत्रों में डिजिटल भुगतान की सुविधा के लिए"
-        },
-        {
-          "en": "To track and claim unclaimed deposits in multiple banks",
-          "hi": "कई बैंकों में लावारिस जमा राशि को ट्रैक करने और दावा करने के लिए"
-        },
-        {
-          "en": "To provide educational loans to students",
-          "hi": "छात्रों को शिक्षा ऋण प्रदान करने के लिए"
-        },
-        {
-          "en": "To report cyber fraud instantly",
-          "hi": "साइबर धोखाधड़ी की तुरंत रिपोर्ट करने के लिए"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "UDGAM (Unclaimed Deposits - Gateway to Access inforMation) is a centralized web portal launched by the RBI. It helps members of the public search for their unclaimed deposits across multiple banks in one place.",
-        "hi": "उद्गम (UDGAM - Unclaimed Deposits - Gateway to Access inforMation) RBI द्वारा लॉन्च किया गया एक केंद्रीकृत वेब पोर्टल है। यह आम जनता को एक ही स्थान पर कई बैंकों में अपनी लावारिस जमा राशि खोजने में मदद करता है।"
-      },
-      "category": "Economy & Banking",
-      "difficulty": "medium",
-      "sourceUrl": "https://rbi.org.in"
-    },
-    {
-      "id": "ca_20260828_06",
-      "question": {
-        "en": "Which city/country is scheduled to host the 2026 Winter Olympic Games?",
-        "hi": "2026 शीतकालीन ओलंपिक खेलों (Winter Olympic Games) की मेजबानी कौन सा शहर/देश करने वाला है?"
-      },
-      "options": [
-        {
-          "en": "Paris, France",
-          "hi": "पेरिस, फ्रांस"
-        },
-        {
-          "en": "Los Angeles, USA",
-          "hi": "लॉस एंजिल्स, संयुक्त राज्य अमेरिका"
-        },
-        {
-          "en": "Milan and Cortina d'Ampezzo, Italy",
-          "hi": "मिलान और कॉर्टिना डी'अम्पेज़ो, इटली"
-        },
-        {
-          "en": "Beijing, China",
-          "hi": "बीजिंग, चीन"
-        }
-      ],
-      "correctAnswer": 2,
-      "explanation": {
-        "en": "The 2026 Winter Olympics, officially known as the XXV Olympic Winter Games, will be hosted jointly by the Italian cities of Milan and Cortina d'Ampezzo. It is a major multi-sport event scheduled for February 2026.",
-        "hi": "2026 शीतकालीन ओलंपिक, जिसे आधिकारिक तौर पर XXV ओलंपिक शीतकालीन खेलों के रूप में जाना जाता है, इतालवी शहरों मिलान और कॉर्टिना डी'अम्पेज़ो द्वारा संयुक्त रूप से आयोजित किया जाएगा। यह फरवरी 2026 में होने वाला एक प्रमुख बहु-खेल आयोजन है।"
-      },
-      "category": "Sports",
-      "difficulty": "medium",
-      "sourceUrl": "https://olympics.com"
-    },
-    {
-      "id": "ca_20260828_07",
-      "question": {
-        "en": "The 'Bharatiya Nyaya Sanhita, 2023', which came into effect recently, replaces which of the following historical British-era laws?",
-        "hi": "हाल ही में लागू हुई 'भारतीय न्याय संहिता, 2023', निम्नलिखित में से किस ऐतिहासिक ब्रिटिश-युग के कानून की जगह लेती है?"
-      },
-      "options": [
-        {
-          "en": "The Indian Penal Code, 1860",
-          "hi": "भारतीय दंड संहिता (IPC), 1860"
-        },
-        {
-          "en": "The Indian Evidence Act, 1872",
-          "hi": "भारतीय साक्ष्य अधिनियम, 1872"
-        },
-        {
-          "en": "The Code of Criminal Procedure, 1973",
-          "hi": "आपराधिक प्रक्रिया संहिता (CrPC), 1973"
-        },
-        {
-          "en": "The Police Act, 1861",
-          "hi": "पुलिस अधिनियम, 1861"
+          "en": "Affordable Housing",
+          "hi": "किफायती आवास (Affordable Housing)"
         }
       ],
       "correctAnswer": 0,
       "explanation": {
-        "en": "The Bharatiya Nyaya Sanhita (BNS) replaces the Indian Penal Code (IPC) of 1860. Alongside it, the Bharatiya Nagarik Suraksha Sanhita replaces the CrPC, and the Bharatiya Sakshya Adhiniyam replaces the Indian Evidence Act.",
-        "hi": "भारतीय न्याय संहिता (BNS) 1860 की भारतीय दंड संहिता (IPC) का स्थान लेती है। इसके साथ, भारतीय नागरिक सुरक्षा संहिता CrPC का स्थान लेती है, और भारतीय साक्ष्य अधिनियम 1872 के भारतीय साक्ष्य अधिनियम का स्थान लेता है।"
+        "en": "The Pradhan Mantri Jan Dhan Yojana (PMJDY) is India's National Mission for Financial Inclusion. Launched on 28 August 2014, it has completed 12 years with over 59.09 crore bank accounts opened, ensuring affordable access to banking facilities.",
+        "hi": "प्रधानमंत्री जन धन योजना (PMJDY) वित्तीय समावेशन के लिए भारत का राष्ट्रीय मिशन है। 28 अगस्त 2014 को शुरू की गई इस योजना ने 12 साल पूरे कर लिए हैं, जिसमें 59.09 करोड़ से अधिक बैंक खाते खोले गए हैं, जिससे बैंकिंग सुविधाओं तक किफायती पहुंच सुनिश्चित हुई है।"
       },
-      "category": "Polity & Governance",
+      "category": "Government Schemes",
       "difficulty": "easy",
-      "sourceUrl": "https://pib.gov.in"
+      "sourceUrl": "https://www.pib.gov.in"
     },
     {
-      "id": "ca_20260828_08",
+      "id": "ca_20260829_02",
       "question": {
-        "en": "India recently added the Nagi and Nakti Bird Sanctuaries to the list of Ramsar sites. In which state are they located?",
-        "hi": "भारत ने हाल ही में नागी और नकटी पक्षी अभयारण्यों (Nagi and Nakti Bird Sanctuaries) को रामसर स्थलों की सूची में शामिल किया है। ये किस राज्य में स्थित हैं?"
+        "en": "According to the recent NITI Aayog report 'Ease of Doing R&D in India', a large percentage (nearly 80%) of funding from the Anusandhan National Research Foundation (ANRF) is concentrated in which institutions?",
+        "hi": "हाल ही में नीति आयोग की रिपोर्ट 'ईज़ ऑफ़ डूइंग आर एंड डी इन इंडिया' (Ease of Doing R&D in India) के अनुसार, अनुसंधान नेशनल रिसर्च फाउंडेशन (ANRF) के वित्तपोषण का एक बड़ा प्रतिशत (लगभग 80%) किन संस्थानों में केंद्रित है?"
       },
       "options": [
         {
-          "en": "Uttar Pradesh",
-          "hi": "उत्तर प्रदेश"
+          "en": "NITs (National Institutes of Technology)",
+          "hi": "एनआईटी (राष्ट्रीय प्रौद्योगिकी संस्थान)"
         },
         {
-          "en": "Gujarat",
-          "hi": "गुजरात"
+          "en": "State Universities",
+          "hi": "राज्य विश्वविद्यालय"
         },
         {
-          "en": "Bihar",
-          "hi": "बिहार"
+          "en": "IITs (Indian Institutes of Technology)",
+          "hi": "आईआईटी (भारतीय प्रौद्योगिकी संस्थान)"
         },
         {
-          "en": "Rajasthan",
-          "hi": "राजस्थान"
+          "en": "Private Engineering Colleges",
+          "hi": "निजी इंजीनियरिंग कॉलेज"
         }
       ],
       "correctAnswer": 2,
       "explanation": {
-        "en": "The Nagi and Nakti Bird Sanctuaries are located in the Jamui district of Bihar. They were recently recognized as Wetlands of International Importance under the Ramsar Convention, boosting India's total number of Ramsar sites.",
-        "hi": "नागी और नकटी पक्षी अभयारण्य बिहार के जमुई जिले में स्थित हैं। हाल ही में उन्हें रामसर कन्वेंशन के तहत अंतर्राष्ट्रीय महत्व के आर्द्रभूमि (Wetlands) के रूप में मान्यता दी गई थी, जिससे भारत के कुल रामसर स्थलों की संख्या में वृद्धि हुई है।"
+        "en": "A NITI Aayog report highlighted significant gaps in India's research funding ecosystem, noting that close to 80% of funding under the Anusandhan National Research Foundation (ANRF) is concentrated in the IITs. It emphasized the need for a unified tracking system.",
+        "hi": "नीति आयोग की एक रिपोर्ट ने भारत के अनुसंधान वित्तपोषण पारिस्थितिकी तंत्र में महत्वपूर्ण कमियों को उजागर किया, यह देखते हुए कि अनुसंधान नेशनल रिसर्च फाउंडेशन (ANRF) के तहत लगभग 80% वित्तपोषण आईआईटी (IIT) में केंद्रित है। इसमें एक एकीकृत ट्रैकिंग प्रणाली की आवश्यकता पर जोर दिया गया।"
+      },
+      "category": "Science & Technology",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.nextias.com"
+    },
+    {
+      "id": "ca_20260829_03",
+      "question": {
+        "en": "Which Union Ministry recently launched the 'DAANVEER' initiative to strengthen digital infrastructure through voluntary citizen contributions?",
+        "hi": "हाल ही में किस केंद्रीय मंत्रालय ने स्वैच्छिक नागरिक योगदान के माध्यम से डिजिटल बुनियादी ढांचे को मजबूत करने के लिए 'दानवीर' (DAANVEER) पहल शुरू की है?"
+      },
+      "options": [
+        {
+          "en": "Ministry of Electronics and Information Technology",
+          "hi": "इलेक्ट्रॉनिक्स और सूचना प्रौद्योगिकी मंत्रालय"
+        },
+        {
+          "en": "Ministry of Panchayati Raj",
+          "hi": "पंचायती राज मंत्रालय"
+        },
+        {
+          "en": "Ministry of Education",
+          "hi": "शिक्षा मंत्रालय"
+        },
+        {
+          "en": "Ministry of Rural Development",
+          "hi": "ग्रामीण विकास मंत्रालय"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The Ministry of Panchayati Raj launched the DAANVEER initiative. It is a computer crowdsourcing platform that enables citizens, organizations, and the diaspora to donate desktop computers to Gram Panchayats directly to bridge the rural digital divide.",
+        "hi": "पंचायती राज मंत्रालय ने दानवीर (DAANVEER) पहल की शुरुआत की है। यह एक कंप्यूटर क्राउडसोर्सिंग प्लेटफॉर्म है जो नागरिकों, संगठनों और प्रवासियों को ग्रामीण डिजिटल विभाजन को पाटने के लिए सीधे ग्राम पंचायतों को डेस्कटॉप कंप्यूटर दान करने में सक्षम बनाता है।"
+      },
+      "category": "Government Schemes",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.insightsonindia.com"
+    },
+    {
+      "id": "ca_20260829_04",
+      "question": {
+        "en": "What is the name of the first indigenously designed and constructed Multi-Purpose Vessel (MPV) recently delivered to the Indian Navy by Larsen & Toubro (L&T)?",
+        "hi": "लार्सन एंड टुब्रो (L&T) द्वारा हाल ही में भारतीय नौसेना को सौंपे गए पहले स्वदेशी रूप से डिजाइन और निर्मित बहुउद्देशीय पोत (Multi-Purpose Vessel - MPV) का नाम क्या है?"
+      },
+      "options": [
+        {
+          "en": "Samarthak",
+          "hi": "समर्थक (Samarthak)"
+        },
+        {
+          "en": "Vaghir",
+          "hi": "वागीर (Vaghir)"
+        },
+        {
+          "en": "Vikrant",
+          "hi": "विक्रांत (Vikrant)"
+        },
+        {
+          "en": "Sandhayak",
+          "hi": "संधायक (Sandhayak)"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "'Samarthak', built by L&T at its Kattupalli shipyard in Chennai, is the first indigenous Multi-Purpose Vessel of the Indian Navy. It comprises 75% indigenous content and is designed for maritime surveillance, offshore patrolling, and disaster relief operations.",
+        "hi": "चेन्नई में एलएंडटी के कट्टुपल्ली शिपयार्ड में निर्मित 'समर्थक', भारतीय नौसेना का पहला स्वदेशी बहुउद्देशीय पोत है। इसमें 75% स्वदेशी सामग्री शामिल है और इसे समुद्री निगरानी, अपतटीय गश्त और आपदा राहत कार्यों के लिए डिज़ाइन किया गया है।"
+      },
+      "category": "Defence & Security",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.navaltoday.com"
+    },
+    {
+      "id": "ca_20260829_05",
+      "question": {
+        "en": "A new freshwater flowering plant species named 'Ammannia telanganensis' was recently discovered in which of the following states?",
+        "hi": "'अम्मानिया तेलंगानाेंसिस' (Ammannia telanganensis) नामक नई मीठे पानी के फूल वाले पौधे की प्रजाति हाल ही में निम्नलिखित में से किस राज्य में खोजी गई थी?"
+      },
+      "options": [
+        {
+          "en": "Kerala",
+          "hi": "केरल"
+        },
+        {
+          "en": "Andhra Pradesh",
+          "hi": "आंध्र प्रदेश"
+        },
+        {
+          "en": "Telangana",
+          "hi": "तेलंगाना"
+        },
+        {
+          "en": "Karnataka",
+          "hi": "कर्नाटक"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Researchers have identified a new flowering plant species, 'Ammannia telanganensis', belonging to the Lythraceae family in the Amrabad Tiger Reserve and Rangareddy district of Telangana. Its seeds feature a distinctive brain-like surface pattern.",
+        "hi": "शोधकर्ताओं ने तेलंगाना के अमराबाद टाइगर रिजर्व और रंगारेड्डी जिले में लितरासी (Lythraceae) परिवार से संबंधित एक नई फूल वाली पौधे की प्रजाति 'अम्मानिया तेलंगानाेंसिस' की पहचान की है। इसके बीजों में एक विशिष्ट मस्तिष्क जैसा (brain-like) सतह पैटर्न होता है।"
       },
       "category": "Environment & Ecology",
-      "difficulty": "medium",
-      "sourceUrl": "https://pib.gov.in"
+      "difficulty": "hard",
+      "sourceUrl": "https://www.newindianexpress.com"
     },
     {
-      "id": "ca_20260828_09",
+      "id": "ca_20260829_06",
       "question": {
-        "en": "Which country is scheduled to host the G20 Summit in the year 2026?",
-        "hi": "वर्ष 2026 में जी-20 (G20) शिखर सम्मेलन की मेजबानी करने वाला देश कौन सा है?"
+        "en": "During the recent visit of the Foreign Minister of Uzbekistan to India, the two countries agreed to double bilateral trade to US$3 billion. Who is the current Foreign Minister of Uzbekistan who visited India in August 2026?",
+        "hi": "उज़्बेकिस्तान के विदेश मंत्री की हाल ही की भारत यात्रा के दौरान, दोनों देशों ने द्विपक्षीय व्यापार को दोगुना कर 3 बिलियन अमेरिकी डॉलर करने पर सहमति व्यक्त की। अगस्त 2026 में भारत का दौरा करने वाले उज़्बेकिस्तान के वर्तमान विदेश मंत्री कौन हैं?"
       },
       "options": [
         {
-          "en": "Brazil",
-          "hi": "ब्राजील"
+          "en": "Abdulaziz Kamilov",
+          "hi": "अब्दुलअज़ीज़ कामिलोव"
         },
         {
-          "en": "South Africa",
-          "hi": "दक्षिण अफ्रीका"
+          "en": "Bakhtiyor Saidov",
+          "hi": "बख्तियार सैदोव"
         },
         {
-          "en": "United States",
-          "hi": "संयुक्त राज्य अमेरिका"
+          "en": "Shavkat Mirziyoyev",
+          "hi": "शवकत मिर्ज़ियोयेव"
         },
         {
-          "en": "United Kingdom",
-          "hi": "यूनाइटेड किंगडम"
+          "en": "Vladimir Norov",
+          "hi": "व्लादिमीर नोरोव"
         }
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 1,
       "explanation": {
-        "en": "The United States is scheduled to hold the G20 Presidency and host the G20 Summit in 2026. Prior to this, Brazil hosted it in 2024 and South Africa is slated to host in 2025.",
-        "hi": "संयुक्त राज्य अमेरिका 2026 में जी-20 की अध्यक्षता करेगा और शिखर सम्मेलन की मेजबानी करेगा। इससे पहले, ब्राजील ने 2024 में इसकी मेजबानी की थी और दक्षिण अफ्रीका 2025 में मेजबानी करने वाला है।"
+        "en": "Uzbekistan's Foreign Minister Bakhtiyor Saidov visited New Delhi in August 2026. The two nations initiated talks on a Free Trade Agreement and agreed to double bilateral trade to US$3 billion within three years, highlighting India's Central Asian outreach.",
+        "hi": "उज्बेकिस्तान के विदेश मंत्री बख्तियार सैदोव (Bakhtiyor Saidov) ने अगस्त 2026 में नई दिल्ली का दौरा किया। दोनों देशों ने मुक्त व्यापार समझौते पर बातचीत शुरू की और तीन साल के भीतर द्विपक्षीय व्यापार को दोगुना करके 3 बिलियन अमेरिकी डॉलर करने पर सहमति व्यक्त की, जो भारत की मध्य एशियाई कूटनीति को उजागर करता है।"
       },
       "category": "International Summits",
       "difficulty": "hard",
-      "sourceUrl": "https://www.g20.org"
+      "sourceUrl": "https://www.icpsnet.org"
     },
     {
-      "id": "ca_20260828_10",
+      "id": "ca_20260829_07",
       "question": {
-        "en": "Who among the following was honored with the prestigious 53rd Dadasaheb Phalke Award, the highest award in Indian cinema?",
-        "hi": "निम्नलिखित में से किसे भारतीय सिनेमा के सर्वोच्च पुरस्कार, प्रतिष्ठित 53वें दादा साहब फाल्के पुरस्कार से सम्मानित किया गया?"
+        "en": "The Ministry of Tribal Affairs (MoTA) recently organized the 'National Conclave on Tribal Languages & Museums' in which city?",
+        "hi": "जनजातीय कार्य मंत्रालय (MoTA) ने हाल ही में किस शहर में 'जनजातीय भाषाओं और संग्रहालयों पर राष्ट्रीय सम्मेलन' आयोजित किया?"
       },
       "options": [
         {
-          "en": "Amitabh Bachchan",
-          "hi": "अमिताभ बच्चन"
+          "en": "Ranchi, Jharkhand",
+          "hi": "रांची, झारखंड"
         },
         {
-          "en": "Rajinikanth",
-          "hi": "रजनीकांत"
+          "en": "Bhopal, Madhya Pradesh",
+          "hi": "भोपाल, मध्य प्रदेश"
         },
         {
-          "en": "Asha Parekh",
-          "hi": "आशा पारेख"
+          "en": "Mysuru, Karnataka",
+          "hi": "मैसूरु, कर्नाटक"
         },
         {
-          "en": "Waheeda Rehman",
-          "hi": "वहीदा रहमान"
+          "en": "Raipur, Chhattisgarh",
+          "hi": "रायपुर, छत्तीसगढ़"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The Ministry of Tribal Affairs organized the three-day National Conclave on Tribal Languages & Museums in Mysuru, Karnataka. During the event, the MoTA AI bot 'Jago' and the upgraded Adi Vaani platform were launched.",
+        "hi": "जनजातीय कार्य मंत्रालय ने कर्नाटक के मैसूरु में जनजातीय भाषाओं और संग्रहालयों पर तीन दिवसीय राष्ट्रीय सम्मेलन का आयोजन किया। इस कार्यक्रम के दौरान, MoTA AI बॉट 'जागो' (Jago) और अपग्रेडेड आदि वाणी प्लेटफॉर्म को लॉन्च किया गया।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.pib.gov.in"
+    },
+    {
+      "id": "ca_20260829_08",
+      "question": {
+        "en": "India recently sent its second tranche of 37.5 tonnes of Humanitarian Assistance and Disaster Relief (HADR) material to which neighboring country affected by devastating flash floods?",
+        "hi": "भारत ने हाल ही में विनाशकारी अचानक आई बाढ़ से प्रभावित किस पड़ोसी देश को मानवीय सहायता और आपदा राहत (HADR) सामग्री की 37.5 टन की दूसरी खेप भेजी है?"
+      },
+      "options": [
+        {
+          "en": "Bangladesh",
+          "hi": "बांग्लादेश"
+        },
+        {
+          "en": "Sri Lanka",
+          "hi": "श्रीलंका"
+        },
+        {
+          "en": "Bhutan",
+          "hi": "भूटान"
+        },
+        {
+          "en": "Nepal",
+          "hi": "नेपाल"
         }
       ],
       "correctAnswer": 3,
       "explanation": {
-        "en": "Veteran actress Waheeda Rehman was conferred with the 53rd Dadasaheb Phalke Lifetime Achievement Award for her stellar contribution to Indian cinema. The award is presented annually at the National Film Awards ceremony.",
-        "hi": "दिग्गज अभिनेत्री वहीदा रहमान को भारतीय सिनेमा में उनके शानदार योगदान के लिए 53वें दादा साहब फाल्के लाइफटाइम अचीवमेंट अवार्ड से सम्मानित किया गया। यह पुरस्कार प्रतिवर्ष राष्ट्रीय फिल्म पुरस्कार समारोह में प्रदान किया जाता है।"
+        "en": "India sent a second tranche of relief supplies, carrying 37.5 tonnes of HADR material, medicines, and food packets in a military transport aircraft to flood-ravaged Nepal in late August 2026.",
+        "hi": "भारत ने अगस्त 2026 के अंत में बाढ़ की तबाही का सामना कर रहे नेपाल को सैन्य परिवहन विमान में HADR सामग्री, दवाओं और भोजन के पैकेटों से लदी 37.5 टन की राहत आपूर्ति की दूसरी खेप भेजी।"
       },
-      "category": "Awards & Honours",
+      "category": "International Summits",
       "difficulty": "medium",
-      "sourceUrl": "https://pib.gov.in"
+      "sourceUrl": "https://www.thehindu.com"
+    },
+    {
+      "id": "ca_20260829_09",
+      "question": {
+        "en": "According to a recent study by the GEER Foundation, which Ramsar-designated bird sanctuary in Gujarat has emerged as a significant breeding site for the 'black-necked stork'?",
+        "hi": "GEER फाउंडेशन के एक हालिया अध्ययन के अनुसार, गुजरात में रामसर-नामित कौन सा पक्षी अभयारण्य 'ब्लैक-नेक्ड स्टॉर्क' (black-necked stork) के लिए एक महत्वपूर्ण प्रजनन स्थल के रूप में उभरा है?"
+      },
+      "options": [
+        {
+          "en": "Nalsarovar Bird Sanctuary",
+          "hi": "नलसरोवर पक्षी अभयारण्य"
+        },
+        {
+          "en": "Thol Lake Bird Sanctuary",
+          "hi": "थोल झील पक्षी अभयारण्य"
+        },
+        {
+          "en": "Khijadiya Bird Sanctuary",
+          "hi": "खिजादिया पक्षी अभयारण्य"
+        },
+        {
+          "en": "Porbandar Bird Sanctuary",
+          "hi": "पोरबंदर पक्षी अभयारण्य"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "A peer-reviewed study by the Gujarat Ecological Education and Research (GEER) Foundation confirmed Khijadiya Bird Sanctuary in Jamnagar, Gujarat, as a highly suitable breeding habitat for the black-necked stork, documenting successful nesting.",
+        "hi": "गुजरात पारिस्थितिकी शिक्षा और अनुसंधान (GEER) फाउंडेशन के एक सहकर्मी-समीक्षित अध्ययन ने गुजरात के जामनगर में खिजादिया पक्षी अभयारण्य (Khijadiya Bird Sanctuary) को ब्लैक-नेक्ड स्टॉर्क के लिए एक अत्यधिक उपयुक्त प्रजनन निवास के रूप में पुष्टि की है।"
+      },
+      "category": "Environment & Ecology",
+      "difficulty": "medium",
+      "sourceUrl": "https://indianexpress.com"
+    },
+    {
+      "id": "ca_20260829_10",
+      "question": {
+        "en": "India observed its 3rd National Space Day on 23 August 2026. What was the theme for this year?",
+        "hi": "भारत ने 23 अगस्त 2026 को अपना तीसरा राष्ट्रीय अंतरिक्ष दिवस मनाया। इस वर्ष का विषय (Theme) क्या था?"
+      },
+      "options": [
+        {
+          "en": "Exploring the Lunar South Pole",
+          "hi": "चंद्रमा के दक्षिणी ध्रुव की खोज"
+        },
+        {
+          "en": "Towards Viksit Bharat: Innovating, Collaborating and Aspiring to Global Space Leadership",
+          "hi": "विकसित भारत की ओर: नवाचार, सहयोग और वैश्विक अंतरिक्ष नेतृत्व की आकांक्षा (Towards Viksit Bharat: Innovating, Collaborating and Aspiring to Global Space Leadership)"
+        },
+        {
+          "en": "Space Technology for Rural Development",
+          "hi": "ग्रामीण विकास के लिए अंतरिक्ष प्रौद्योगिकी"
+        },
+        {
+          "en": "Women in Space Exploration",
+          "hi": "अंतरिक्ष अन्वेषण में महिलाएँ"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The 3rd National Space Day was celebrated to commemorate the historic soft landing of the Chandrayaan-3 mission. The theme for 2026 was “Towards Viksit Bharat: Innovating, Collaborating and Aspiring to Global Space Leadership”.",
+        "hi": "चंद्रयान-3 मिशन की ऐतिहासिक सॉफ्ट लैंडिंग के उपलक्ष्य में तीसरा राष्ट्रीय अंतरिक्ष दिवस मनाया गया। 2026 के लिए विषय “Towards Viksit Bharat: Innovating, Collaborating and Aspiring to Global Space Leadership” था।"
+      },
+      "category": "Important Days & Themes",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.isro.gov.in"
     }
   ]
 }
