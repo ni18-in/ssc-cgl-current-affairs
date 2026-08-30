@@ -1,340 +1,340 @@
 {
-  "date": "2026-08-29",
+  "date": "2026-08-30",
   "topic": "SSC CGL Daily Current Affairs",
   "source": "PIB / The Hindu / Economic Times / Indian Express / GKToday",
-  "lastUpdated": "2026-08-29T06:00:00+05:30",
+  "lastUpdated": "2026-08-30T06:00:00+05:30",
   "version": 1,
   "totalQuestions": 10,
   "quiz": [
     {
-      "id": "ca_20260829_01",
+      "id": "ca_20260830_01",
       "question": {
-        "en": "The Pradhan Mantri Jan Dhan Yojana (PMJDY), which recently completed 12 years, is considered the world's largest initiative for which of the following?",
-        "hi": "प्रधानमंत्री जन धन योजना (PMJDY), जिसने हाल ही में 12 साल पूरे किए हैं, निम्नलिखित में से किसके लिए दुनिया की सबसे बड़ी पहल मानी जाती है?"
+        "en": "Which organization recently launched the 'Vidyut Rakshak' IoT-enabled system for the Indian Army to monitor and control generators?",
+        "hi": "हाल ही में किस संगठन ने भारतीय सेना के लिए जनरेटरों की निगरानी और नियंत्रण हेतु IoT-सक्षम प्रणाली 'विद्युत रक्षक' लॉन्च की है?"
       },
       "options": [
         {
-          "en": "Financial Inclusion",
-          "hi": "वित्तीय समावेशन (Financial Inclusion)"
+          "en": "ISRO",
+          "hi": "इसरो"
         },
         {
-          "en": "Free Healthcare",
-          "hi": "मुफ्त स्वास्थ्य सेवा (Free Healthcare)"
+          "en": "DRDO",
+          "hi": "डीआरडीओ"
         },
         {
-          "en": "Skill Development",
-          "hi": "कौशल विकास (Skill Development)"
+          "en": "HAL",
+          "hi": "एचएएल (HAL)"
         },
         {
-          "en": "Affordable Housing",
-          "hi": "किफायती आवास (Affordable Housing)"
-        }
-      ],
-      "correctAnswer": 0,
-      "explanation": {
-        "en": "The Pradhan Mantri Jan Dhan Yojana (PMJDY) is India's National Mission for Financial Inclusion. Launched on 28 August 2014, it has completed 12 years with over 59.09 crore bank accounts opened, ensuring affordable access to banking facilities.",
-        "hi": "प्रधानमंत्री जन धन योजना (PMJDY) वित्तीय समावेशन के लिए भारत का राष्ट्रीय मिशन है। 28 अगस्त 2014 को शुरू की गई इस योजना ने 12 साल पूरे कर लिए हैं, जिसमें 59.09 करोड़ से अधिक बैंक खाते खोले गए हैं, जिससे बैंकिंग सुविधाओं तक किफायती पहुंच सुनिश्चित हुई है।"
-      },
-      "category": "Government Schemes",
-      "difficulty": "easy",
-      "sourceUrl": "https://www.pib.gov.in"
-    },
-    {
-      "id": "ca_20260829_02",
-      "question": {
-        "en": "According to the recent NITI Aayog report 'Ease of Doing R&D in India', a large percentage (nearly 80%) of funding from the Anusandhan National Research Foundation (ANRF) is concentrated in which institutions?",
-        "hi": "हाल ही में नीति आयोग की रिपोर्ट 'ईज़ ऑफ़ डूइंग आर एंड डी इन इंडिया' (Ease of Doing R&D in India) के अनुसार, अनुसंधान नेशनल रिसर्च फाउंडेशन (ANRF) के वित्तपोषण का एक बड़ा प्रतिशत (लगभग 80%) किन संस्थानों में केंद्रित है?"
-      },
-      "options": [
-        {
-          "en": "NITs (National Institutes of Technology)",
-          "hi": "एनआईटी (राष्ट्रीय प्रौद्योगिकी संस्थान)"
-        },
-        {
-          "en": "State Universities",
-          "hi": "राज्य विश्वविद्यालय"
-        },
-        {
-          "en": "IITs (Indian Institutes of Technology)",
-          "hi": "आईआईटी (भारतीय प्रौद्योगिकी संस्थान)"
-        },
-        {
-          "en": "Private Engineering Colleges",
-          "hi": "निजी इंजीनियरिंग कॉलेज"
-        }
-      ],
-      "correctAnswer": 2,
-      "explanation": {
-        "en": "A NITI Aayog report highlighted significant gaps in India's research funding ecosystem, noting that close to 80% of funding under the Anusandhan National Research Foundation (ANRF) is concentrated in the IITs. It emphasized the need for a unified tracking system.",
-        "hi": "नीति आयोग की एक रिपोर्ट ने भारत के अनुसंधान वित्तपोषण पारिस्थितिकी तंत्र में महत्वपूर्ण कमियों को उजागर किया, यह देखते हुए कि अनुसंधान नेशनल रिसर्च फाउंडेशन (ANRF) के तहत लगभग 80% वित्तपोषण आईआईटी (IIT) में केंद्रित है। इसमें एक एकीकृत ट्रैकिंग प्रणाली की आवश्यकता पर जोर दिया गया।"
-      },
-      "category": "Science & Technology",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.nextias.com"
-    },
-    {
-      "id": "ca_20260829_03",
-      "question": {
-        "en": "Which Union Ministry recently launched the 'DAANVEER' initiative to strengthen digital infrastructure through voluntary citizen contributions?",
-        "hi": "हाल ही में किस केंद्रीय मंत्रालय ने स्वैच्छिक नागरिक योगदान के माध्यम से डिजिटल बुनियादी ढांचे को मजबूत करने के लिए 'दानवीर' (DAANVEER) पहल शुरू की है?"
-      },
-      "options": [
-        {
-          "en": "Ministry of Electronics and Information Technology",
-          "hi": "इलेक्ट्रॉनिक्स और सूचना प्रौद्योगिकी मंत्रालय"
-        },
-        {
-          "en": "Ministry of Panchayati Raj",
-          "hi": "पंचायती राज मंत्रालय"
-        },
-        {
-          "en": "Ministry of Education",
-          "hi": "शिक्षा मंत्रालय"
-        },
-        {
-          "en": "Ministry of Rural Development",
-          "hi": "ग्रामीण विकास मंत्रालय"
+          "en": "BEL",
+          "hi": "बीईएल (BEL)"
         }
       ],
       "correctAnswer": 1,
       "explanation": {
-        "en": "The Ministry of Panchayati Raj launched the DAANVEER initiative. It is a computer crowdsourcing platform that enables citizens, organizations, and the diaspora to donate desktop computers to Gram Panchayats directly to bridge the rural digital divide.",
-        "hi": "पंचायती राज मंत्रालय ने दानवीर (DAANVEER) पहल की शुरुआत की है। यह एक कंप्यूटर क्राउडसोर्सिंग प्लेटफॉर्म है जो नागरिकों, संगठनों और प्रवासियों को ग्रामीण डिजिटल विभाजन को पाटने के लिए सीधे ग्राम पंचायतों को डेस्कटॉप कंप्यूटर दान करने में सक्षम बनाता है।"
+        "en": "The Defence Research and Development Organisation (DRDO) developed 'Vidyut Rakshak', an IoT-based system integrated into the Indian Army to monitor and control power generators. This aligns with static GK on DRDO's role in indigenization of defence tech.",
+        "hi": "रक्षा अनुसंधान एवं विकास संगठन (DRDO) ने 'विद्युत रक्षक' विकसित किया है, जो भारतीय सेना में बिजली जनरेटरों की निगरानी और नियंत्रण के लिए एक IoT-आधारित प्रणाली है। यह रक्षा तकनीक के स्वदेशीकरण में DRDO की भूमिका के स्टेटिक जीके से मेल खाता है।"
       },
-      "category": "Government Schemes",
+      "category": "Defence & Security",
       "difficulty": "medium",
-      "sourceUrl": "https://www.insightsonindia.com"
+      "sourceUrl": "https://pib.gov.in"
     },
     {
-      "id": "ca_20260829_04",
+      "id": "ca_20260830_02",
       "question": {
-        "en": "What is the name of the first indigenously designed and constructed Multi-Purpose Vessel (MPV) recently delivered to the Indian Navy by Larsen & Toubro (L&T)?",
-        "hi": "लार्सन एंड टुब्रो (L&T) द्वारा हाल ही में भारतीय नौसेना को सौंपे गए पहले स्वदेशी रूप से डिजाइन और निर्मित बहुउद्देशीय पोत (Multi-Purpose Vessel - MPV) का नाम क्या है?"
+        "en": "Who has been appointed as the new Chairman of the Union Public Service Commission (UPSC) in August 2026?",
+        "hi": "अगस्त 2026 में संघ लोक सेवा आयोग (UPSC) के नए अध्यक्ष के रूप में किसे नियुक्त किया गया है?"
       },
       "options": [
         {
-          "en": "Samarthak",
-          "hi": "समर्थक (Samarthak)"
+          "en": "Preeti Sudan",
+          "hi": "प्रीति सूदन"
         },
         {
-          "en": "Vaghir",
-          "hi": "वागीर (Vaghir)"
+          "en": "Manoj Soni",
+          "hi": "मनोज सोनी"
         },
         {
-          "en": "Vikrant",
-          "hi": "विक्रांत (Vikrant)"
+          "en": "Suman Bery",
+          "hi": "सुमन बेरी"
         },
         {
-          "en": "Sandhayak",
-          "hi": "संधायक (Sandhayak)"
+          "en": "Rajiv Kumar",
+          "hi": "राजीव कुमार"
         }
       ],
       "correctAnswer": 0,
       "explanation": {
-        "en": "'Samarthak', built by L&T at its Kattupalli shipyard in Chennai, is the first indigenous Multi-Purpose Vessel of the Indian Navy. It comprises 75% indigenous content and is designed for maritime surveillance, offshore patrolling, and disaster relief operations.",
-        "hi": "चेन्नई में एलएंडटी के कट्टुपल्ली शिपयार्ड में निर्मित 'समर्थक', भारतीय नौसेना का पहला स्वदेशी बहुउद्देशीय पोत है। इसमें 75% स्वदेशी सामग्री शामिल है और इसे समुद्री निगरानी, अपतटीय गश्त और आपदा राहत कार्यों के लिए डिज़ाइन किया गया है।"
+        "en": "Preeti Sudan has been appointed as the new Chairperson of UPSC. Under Article 316 of the Indian Constitution, the Chairman of UPSC is appointed by the President of India.",
+        "hi": "प्रीति सूदन को UPSC का नया अध्यक्ष नियुक्त किया गया है। भारतीय संविधान के अनुच्छेद 316 के तहत, UPSC के अध्यक्ष की नियुक्ति भारत के राष्ट्रपति द्वारा की जाती है।"
       },
-      "category": "Defence & Security",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.navaltoday.com"
+      "category": "Appointments & Commissions",
+      "difficulty": "easy",
+      "sourceUrl": "https://pib.gov.in"
     },
     {
-      "id": "ca_20260829_05",
+      "id": "ca_20260830_03",
       "question": {
-        "en": "A new freshwater flowering plant species named 'Ammannia telanganensis' was recently discovered in which of the following states?",
-        "hi": "'अम्मानिया तेलंगानाेंसिस' (Ammannia telanganensis) नामक नई मीठे पानी के फूल वाले पौधे की प्रजाति हाल ही में निम्नलिखित में से किस राज्य में खोजी गई थी?"
+        "en": "Which state recently launched the 'Mukhyamantri Maiya Samman Yojana' to provide financial assistance to women?",
+        "hi": "हाल ही में किस राज्य ने महिलाओं को वित्तीय सहायता प्रदान करने के लिए 'मुख्यमंत्री मइयां सम्मान योजना' शुरू की है?"
       },
       "options": [
         {
-          "en": "Kerala",
-          "hi": "केरल"
+          "en": "Madhya Pradesh",
+          "hi": "मध्य प्रदेश"
+        },
+        {
+          "en": "Jharkhand",
+          "hi": "झारखंड"
+        },
+        {
+          "en": "Chhattisgarh",
+          "hi": "छत्तीसगढ़"
+        },
+        {
+          "en": "Rajasthan",
+          "hi": "राजस्थान"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The Jharkhand government launched the 'Mukhyamantri Maiya Samman Yojana' to provide ₹1000 per month to women aged 21-50, aiming at financial empowerment.",
+        "hi": "झारखंड सरकार ने 'मुख्यमंत्री मइयां सम्मान योजना' शुरू की है, जिसके तहत 21-50 वर्ष की महिलाओं को 1000 रुपये प्रति माह प्रदान किए जाएंगे, जिसका उद्देश्य वित्तीय सशक्तिकरण है।"
+      },
+      "category": "Government Schemes",
+      "difficulty": "medium",
+      "sourceUrl": "https://pib.gov.in"
+    },
+    {
+      "id": "ca_20260830_04",
+      "question": {
+        "en": "Which Indian city will host the 2nd Asia-Pacific Ministerial Conference on Civil Aviation in September 2026?",
+        "hi": "कौन सा भारतीय शहर सितंबर 2026 में नागरिक उड्डयन पर दूसरे एशिया-प्रशांत मंत्रिस्तरीय सम्मेलन की मेजबानी करेगा?"
+      },
+      "options": [
+        {
+          "en": "Mumbai",
+          "hi": "मुंबई"
+        },
+        {
+          "en": "Bengaluru",
+          "hi": "बेंगलुरु"
+        },
+        {
+          "en": "New Delhi",
+          "hi": "नई दिल्ली"
+        },
+        {
+          "en": "Hyderabad",
+          "hi": "हैदराबाद"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "New Delhi will host the 2nd Asia-Pacific Ministerial Conference on Civil Aviation, organized by the Ministry of Civil Aviation and ICAO to discuss regional aviation challenges.",
+        "hi": "नई दिल्ली नागरिक उड्डयन मंत्रालय और ICAO द्वारा आयोजित नागरिक उड्डयन पर दूसरे एशिया-प्रशांत मंत्रिस्तरीय सम्मेलन की मेजबानी करेगी, जिसमें क्षेत्रीय विमानन चुनौतियों पर चर्चा की जाएगी।"
+      },
+      "category": "International Summits",
+      "difficulty": "medium",
+      "sourceUrl": "https://pib.gov.in"
+    },
+    {
+      "id": "ca_20260830_05",
+      "question": {
+        "en": "India recently added three new Ramsar sites. Which among the following is NOT one of the newly added sites in August 2026?",
+        "hi": "भारत ने हाल ही में तीन नए रामसर स्थल जोड़े हैं। निम्नलिखित में से कौन सा अगस्त 2026 में जोड़े गए नए स्थलों में से एक नहीं है?"
+      },
+      "options": [
+        {
+          "en": "Nanjarayan Bird Sanctuary",
+          "hi": "नंजरायन पक्षी अभयारण्य"
+        },
+        {
+          "en": "Kazhuveli Bird Sanctuary",
+          "hi": "काज़ुवेली पक्षी अभयारण्य"
+        },
+        {
+          "en": "Tawa Reservoir",
+          "hi": "तवा जलाशय"
+        },
+        {
+          "en": "Bhindawas Wildlife Sanctuary",
+          "hi": "भिंडावास वन्यजीव अभयारण्य"
+        }
+      ],
+      "correctAnswer": 3,
+      "explanation": {
+        "en": "Bhindawas is an older site. In August 2026, Nanjarayan Bird Sanctuary, Kazhuveli Bird Sanctuary (both Tamil Nadu), and Tawa Reservoir (Madhya Pradesh) were added, taking India's tally to 85 Ramsar sites.",
+        "hi": "भिंडावास एक पुराना स्थल है। अगस्त 2026 में, नंजरायन पक्षी अभयारण्य, काज़ुवेली पक्षी अभयारण्य (दोनों तमिलनाडु) और तवा जलाशय (मध्य प्रदेश) जोड़े गए, जिससे भारत में रामसर स्थलों की संख्या 85 हो गई।"
+      },
+      "category": "Environment & Ecology",
+      "difficulty": "hard",
+      "sourceUrl": "https://pib.gov.in"
+    },
+    {
+      "id": "ca_20260830_06",
+      "question": {
+        "en": "The Reserve Bank of India (RBI) recently launched 'UDGAM' portal for what purpose?",
+        "hi": "भारतीय रिज़र्व बैंक (RBI) ने हाल ही में किस उद्देश्य के लिए 'UDGAM' पोर्टल लॉन्च किया है?"
+      },
+      "options": [
+        {
+          "en": "To track Unclaimed Deposits",
+          "hi": "लावारिस जमा (Unclaimed Deposits) को ट्रैक करने के लिए"
+        },
+        {
+          "en": "To issue sovereign green bonds",
+          "hi": "सॉवरेन ग्रीन बांड जारी करने के लिए"
+        },
+        {
+          "en": "For digital currency (CBDC) registration",
+          "hi": "डिजिटल मुद्रा (CBDC) पंजीकरण के लिए"
+        },
+        {
+          "en": "To monitor NBFC compliance",
+          "hi": "एनबीएफसी (NBFC) अनुपालन की निगरानी के लिए"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "The RBI launched the UDGAM (Unclaimed Deposits - Gateway to Access inforMation) portal to help the public search for their unclaimed deposits across multiple banks in one place.",
+        "hi": "RBI ने उडगम (UDGAM - Unclaimed Deposits - Gateway to Access inforMation) पोर्टल लॉन्च किया है, ताकि लोग एक ही स्थान पर कई बैंकों में अपनी लावारिस जमा राशि खोज सकें।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "easy",
+      "sourceUrl": "https://rbi.org.in"
+    },
+    {
+      "id": "ca_20260830_07",
+      "question": {
+        "en": "Which Indian state recently launched the 'NTR Bharosa Pension Scheme', increasing the pension amount to ₹4000?",
+        "hi": "किस भारतीय राज्य ने हाल ही में 'एनटीआर भरोसा पेंशन योजना' शुरू की है, जिससे पेंशन राशि बढ़कर ₹4000 हो गई है?"
+      },
+      "options": [
+        {
+          "en": "Telangana",
+          "hi": "तेलंगाना"
         },
         {
           "en": "Andhra Pradesh",
           "hi": "आंध्र प्रदेश"
         },
         {
-          "en": "Telangana",
-          "hi": "तेलंगाना"
-        },
-        {
           "en": "Karnataka",
           "hi": "कर्नाटक"
-        }
-      ],
-      "correctAnswer": 2,
-      "explanation": {
-        "en": "Researchers have identified a new flowering plant species, 'Ammannia telanganensis', belonging to the Lythraceae family in the Amrabad Tiger Reserve and Rangareddy district of Telangana. Its seeds feature a distinctive brain-like surface pattern.",
-        "hi": "शोधकर्ताओं ने तेलंगाना के अमराबाद टाइगर रिजर्व और रंगारेड्डी जिले में लितरासी (Lythraceae) परिवार से संबंधित एक नई फूल वाली पौधे की प्रजाति 'अम्मानिया तेलंगानाेंसिस' की पहचान की है। इसके बीजों में एक विशिष्ट मस्तिष्क जैसा (brain-like) सतह पैटर्न होता है।"
-      },
-      "category": "Environment & Ecology",
-      "difficulty": "hard",
-      "sourceUrl": "https://www.newindianexpress.com"
-    },
-    {
-      "id": "ca_20260829_06",
-      "question": {
-        "en": "During the recent visit of the Foreign Minister of Uzbekistan to India, the two countries agreed to double bilateral trade to US$3 billion. Who is the current Foreign Minister of Uzbekistan who visited India in August 2026?",
-        "hi": "उज़्बेकिस्तान के विदेश मंत्री की हाल ही की भारत यात्रा के दौरान, दोनों देशों ने द्विपक्षीय व्यापार को दोगुना कर 3 बिलियन अमेरिकी डॉलर करने पर सहमति व्यक्त की। अगस्त 2026 में भारत का दौरा करने वाले उज़्बेकिस्तान के वर्तमान विदेश मंत्री कौन हैं?"
-      },
-      "options": [
-        {
-          "en": "Abdulaziz Kamilov",
-          "hi": "अब्दुलअज़ीज़ कामिलोव"
         },
         {
-          "en": "Bakhtiyor Saidov",
-          "hi": "बख्तियार सैदोव"
-        },
-        {
-          "en": "Shavkat Mirziyoyev",
-          "hi": "शवकत मिर्ज़ियोयेव"
-        },
-        {
-          "en": "Vladimir Norov",
-          "hi": "व्लादिमीर नोरोव"
+          "en": "Odisha",
+          "hi": "ओडिशा"
         }
       ],
       "correctAnswer": 1,
       "explanation": {
-        "en": "Uzbekistan's Foreign Minister Bakhtiyor Saidov visited New Delhi in August 2026. The two nations initiated talks on a Free Trade Agreement and agreed to double bilateral trade to US$3 billion within three years, highlighting India's Central Asian outreach.",
-        "hi": "उज्बेकिस्तान के विदेश मंत्री बख्तियार सैदोव (Bakhtiyor Saidov) ने अगस्त 2026 में नई दिल्ली का दौरा किया। दोनों देशों ने मुक्त व्यापार समझौते पर बातचीत शुरू की और तीन साल के भीतर द्विपक्षीय व्यापार को दोगुना करके 3 बिलियन अमेरिकी डॉलर करने पर सहमति व्यक्त की, जो भारत की मध्य एशियाई कूटनीति को उजागर करता है।"
+        "en": "The Andhra Pradesh government launched the NTR Bharosa Pension Scheme, increasing the monthly pension for senior citizens, widows, and vulnerable groups to ₹4,000.",
+        "hi": "आंध्र प्रदेश सरकार ने एनटीआर भरोसा पेंशन योजना शुरू की, जिसमें वरिष्ठ नागरिकों, विधवाओं और कमजोर वर्गों के लिए मासिक पेंशन बढ़ाकर ₹4,000 कर दी गई है।"
       },
-      "category": "International Summits",
-      "difficulty": "hard",
-      "sourceUrl": "https://www.icpsnet.org"
+      "category": "Government Schemes",
+      "difficulty": "medium",
+      "sourceUrl": "https://pib.gov.in"
     },
     {
-      "id": "ca_20260829_07",
+      "id": "ca_20260830_08",
       "question": {
-        "en": "The Ministry of Tribal Affairs (MoTA) recently organized the 'National Conclave on Tribal Languages & Museums' in which city?",
-        "hi": "जनजातीय कार्य मंत्रालय (MoTA) ने हाल ही में किस शहर में 'जनजातीय भाषाओं और संग्रहालयों पर राष्ट्रीय सम्मेलन' आयोजित किया?"
+        "en": "In August 2026, Neeraj Chopra secured which position in the Lausanne Diamond League 2026?",
+        "hi": "अगस्त 2026 में, नीरज चोपड़ा ने लुसाने डायमंड लीग 2026 में कौन सा स्थान हासिल किया?"
       },
       "options": [
         {
-          "en": "Ranchi, Jharkhand",
-          "hi": "रांची, झारखंड"
+          "en": "First",
+          "hi": "प्रथम"
         },
         {
-          "en": "Bhopal, Madhya Pradesh",
-          "hi": "भोपाल, मध्य प्रदेश"
+          "en": "Second",
+          "hi": "द्वितीय"
         },
         {
-          "en": "Mysuru, Karnataka",
-          "hi": "मैसूरु, कर्नाटक"
+          "en": "Third",
+          "hi": "तृतीय"
         },
         {
-          "en": "Raipur, Chhattisgarh",
-          "hi": "रायपुर, छत्तीसगढ़"
+          "en": "Fourth",
+          "hi": "चतुर्थ"
         }
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 1,
       "explanation": {
-        "en": "The Ministry of Tribal Affairs organized the three-day National Conclave on Tribal Languages & Museums in Mysuru, Karnataka. During the event, the MoTA AI bot 'Jago' and the upgraded Adi Vaani platform were launched.",
-        "hi": "जनजातीय कार्य मंत्रालय ने कर्नाटक के मैसूरु में जनजातीय भाषाओं और संग्रहालयों पर तीन दिवसीय राष्ट्रीय सम्मेलन का आयोजन किया। इस कार्यक्रम के दौरान, MoTA AI बॉट 'जागो' (Jago) और अपग्रेडेड आदि वाणी प्लेटफॉर्म को लॉन्च किया गया।"
+        "en": "India's ace javelin thrower Neeraj Chopra finished second at the Lausanne Diamond League 2026 with a season-best throw of 89.49m.",
+        "hi": "भारत के प्रमुख भाला फेंक एथलीट नीरज चोपड़ा ने लुसाने डायमंड लीग 2026 में 89.49 मीटर के सीजन के सर्वश्रेष्ठ थ्रो के साथ दूसरा स्थान हासिल किया।"
+      },
+      "category": "Sports",
+      "difficulty": "easy",
+      "sourceUrl": "https://olympics.com"
+    },
+    {
+      "id": "ca_20260830_09",
+      "question": {
+        "en": "Which constitutional article empowers the Supreme Court of India to grant special leave to appeal from any judgment or order?",
+        "hi": "कौन सा संवैधानिक अनुच्छेद भारत के सर्वोच्च न्यायालय को किसी भी निर्णय या आदेश के खिलाफ अपील करने के लिए विशेष अनुमति (Special Leave) देने का अधिकार देता है?"
+      },
+      "options": [
+        {
+          "en": "Article 131",
+          "hi": "अनुच्छेद 131"
+        },
+        {
+          "en": "Article 136",
+          "hi": "अनुच्छेद 136"
+        },
+        {
+          "en": "Article 143",
+          "hi": "अनुच्छेद 143"
+        },
+        {
+          "en": "Article 32",
+          "hi": "अनुच्छेद 32"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Article 136 of the Indian Constitution grants the Supreme Court the discretionary power to grant special leave to appeal against any judgment, decree, or order from any court or tribunal in India. This was recently discussed in landmark rulings.",
+        "hi": "भारतीय संविधान का अनुच्छेद 136 सर्वोच्च न्यायालय को भारत के किसी भी न्यायालय या न्यायाधिकरण के किसी भी निर्णय, डिक्री या आदेश के खिलाफ अपील करने के लिए विशेष अनुमति देने की विवेकाधीन शक्ति प्रदान करता है। हाल ही में ऐतिहासिक फैसलों में इस पर चर्चा की गई थी।"
       },
       "category": "Polity & Governance",
-      "difficulty": "easy",
-      "sourceUrl": "https://www.pib.gov.in"
+      "difficulty": "hard",
+      "sourceUrl": "https://pib.gov.in"
     },
     {
-      "id": "ca_20260829_08",
+      "id": "ca_20260830_10",
       "question": {
-        "en": "India recently sent its second tranche of 37.5 tonnes of Humanitarian Assistance and Disaster Relief (HADR) material to which neighboring country affected by devastating flash floods?",
-        "hi": "भारत ने हाल ही में विनाशकारी अचानक आई बाढ़ से प्रभावित किस पड़ोसी देश को मानवीय सहायता और आपदा राहत (HADR) सामग्री की 37.5 टन की दूसरी खेप भेजी है?"
+        "en": "What is the theme of National Sports Day 2026, celebrated annually on 29 August in India?",
+        "hi": "भारत में प्रतिवर्ष 29 अगस्त को मनाए जाने वाले राष्ट्रीय खेल दिवस 2026 का विषय (Theme) क्या है?"
       },
       "options": [
         {
-          "en": "Bangladesh",
-          "hi": "बांग्लादेश"
+          "en": "Sports for Peace and Development",
+          "hi": "शांति और विकास के लिए खेल"
         },
         {
-          "en": "Sri Lanka",
-          "hi": "श्रीलंका"
+          "en": "Sports are an enabler to an inclusive and fit society",
+          "hi": "खेल एक समावेशी और फिट समाज को सक्षम करने वाले हैं (Sports are an enabler to an inclusive and fit society)"
         },
         {
-          "en": "Bhutan",
-          "hi": "भूटान"
+          "en": "Fitness First for Nation Building",
+          "hi": "राष्ट्र निर्माण के लिए फिटनेस प्रथम"
         },
         {
-          "en": "Nepal",
-          "hi": "नेपाल"
-        }
-      ],
-      "correctAnswer": 3,
-      "explanation": {
-        "en": "India sent a second tranche of relief supplies, carrying 37.5 tonnes of HADR material, medicines, and food packets in a military transport aircraft to flood-ravaged Nepal in late August 2026.",
-        "hi": "भारत ने अगस्त 2026 के अंत में बाढ़ की तबाही का सामना कर रहे नेपाल को सैन्य परिवहन विमान में HADR सामग्री, दवाओं और भोजन के पैकेटों से लदी 37.5 टन की राहत आपूर्ति की दूसरी खेप भेजी।"
-      },
-      "category": "International Summits",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.thehindu.com"
-    },
-    {
-      "id": "ca_20260829_09",
-      "question": {
-        "en": "According to a recent study by the GEER Foundation, which Ramsar-designated bird sanctuary in Gujarat has emerged as a significant breeding site for the 'black-necked stork'?",
-        "hi": "GEER फाउंडेशन के एक हालिया अध्ययन के अनुसार, गुजरात में रामसर-नामित कौन सा पक्षी अभयारण्य 'ब्लैक-नेक्ड स्टॉर्क' (black-necked stork) के लिए एक महत्वपूर्ण प्रजनन स्थल के रूप में उभरा है?"
-      },
-      "options": [
-        {
-          "en": "Nalsarovar Bird Sanctuary",
-          "hi": "नलसरोवर पक्षी अभयारण्य"
-        },
-        {
-          "en": "Thol Lake Bird Sanctuary",
-          "hi": "थोल झील पक्षी अभयारण्य"
-        },
-        {
-          "en": "Khijadiya Bird Sanctuary",
-          "hi": "खिजादिया पक्षी अभयारण्य"
-        },
-        {
-          "en": "Porbandar Bird Sanctuary",
-          "hi": "पोरबंदर पक्षी अभयारण्य"
-        }
-      ],
-      "correctAnswer": 2,
-      "explanation": {
-        "en": "A peer-reviewed study by the Gujarat Ecological Education and Research (GEER) Foundation confirmed Khijadiya Bird Sanctuary in Jamnagar, Gujarat, as a highly suitable breeding habitat for the black-necked stork, documenting successful nesting.",
-        "hi": "गुजरात पारिस्थितिकी शिक्षा और अनुसंधान (GEER) फाउंडेशन के एक सहकर्मी-समीक्षित अध्ययन ने गुजरात के जामनगर में खिजादिया पक्षी अभयारण्य (Khijadiya Bird Sanctuary) को ब्लैक-नेक्ड स्टॉर्क के लिए एक अत्यधिक उपयुक्त प्रजनन निवास के रूप में पुष्टि की है।"
-      },
-      "category": "Environment & Ecology",
-      "difficulty": "medium",
-      "sourceUrl": "https://indianexpress.com"
-    },
-    {
-      "id": "ca_20260829_10",
-      "question": {
-        "en": "India observed its 3rd National Space Day on 23 August 2026. What was the theme for this year?",
-        "hi": "भारत ने 23 अगस्त 2026 को अपना तीसरा राष्ट्रीय अंतरिक्ष दिवस मनाया। इस वर्ष का विषय (Theme) क्या था?"
-      },
-      "options": [
-        {
-          "en": "Exploring the Lunar South Pole",
-          "hi": "चंद्रमा के दक्षिणी ध्रुव की खोज"
-        },
-        {
-          "en": "Towards Viksit Bharat: Innovating, Collaborating and Aspiring to Global Space Leadership",
-          "hi": "विकसित भारत की ओर: नवाचार, सहयोग और वैश्विक अंतरिक्ष नेतृत्व की आकांक्षा (Towards Viksit Bharat: Innovating, Collaborating and Aspiring to Global Space Leadership)"
-        },
-        {
-          "en": "Space Technology for Rural Development",
-          "hi": "ग्रामीण विकास के लिए अंतरिक्ष प्रौद्योगिकी"
-        },
-        {
-          "en": "Women in Space Exploration",
-          "hi": "अंतरिक्ष अन्वेषण में महिलाएँ"
+          "en": "Championing Youth in Sports",
+          "hi": "खेलों में युवाओं को चैंपियन बनाना"
         }
       ],
       "correctAnswer": 1,
       "explanation": {
-        "en": "The 3rd National Space Day was celebrated to commemorate the historic soft landing of the Chandrayaan-3 mission. The theme for 2026 was “Towards Viksit Bharat: Innovating, Collaborating and Aspiring to Global Space Leadership”.",
-        "hi": "चंद्रयान-3 मिशन की ऐतिहासिक सॉफ्ट लैंडिंग के उपलक्ष्य में तीसरा राष्ट्रीय अंतरिक्ष दिवस मनाया गया। 2026 के लिए विषय “Towards Viksit Bharat: Innovating, Collaborating and Aspiring to Global Space Leadership” था।"
+        "en": "National Sports Day is celebrated on 29 August to mark the birth anniversary of Major Dhyan Chand. The theme for 2026 was 'Sports are an enabler to an inclusive and fit society'.",
+        "hi": "राष्ट्रीय खेल दिवस 29 अगस्त को मेजर ध्यानचंद की जयंती के उपलक्ष्य में मनाया जाता है। 2026 का विषय 'खेल एक समावेशी और फिट समाज को सक्षम करने वाले हैं' (Sports are an enabler to an inclusive and fit society) था।"
       },
       "category": "Important Days & Themes",
-      "difficulty": "easy",
-      "sourceUrl": "https://www.isro.gov.in"
+      "difficulty": "medium",
+      "sourceUrl": "https://pib.gov.in"
     }
   ]
 }
