@@ -1,0 +1,340 @@
+{
+  "date": "2026-08-31",
+  "topic": "SSC CGL Daily Current Affairs",
+  "source": "PIB / The Hindu / Economic Times / Indian Express / GKToday",
+  "lastUpdated": "2026-08-31T06:00:00+05:30",
+  "version": 1,
+  "totalQuestions": 10,
+  "quiz": [
+    {
+      "id": "ca_20260831_01",
+      "question": {
+        "en": "Recently, which ministry launched the updated version of the 'PENCIL' portal to combat child labour?",
+        "hi": "हाल ही में, किस मंत्रालय ने बाल श्रम से निपटने के लिए 'पेंसिल' (PENCIL) पोर्टल का अद्यतन संस्करण लॉन्च किया है?"
+      },
+      "options": [
+        {
+          "en": "Ministry of Women and Child Development",
+          "hi": "महिला एवं बाल विकास मंत्रालय"
+        },
+        {
+          "en": "Ministry of Labour and Employment",
+          "hi": "श्रम एवं रोजगार मंत्रालय"
+        },
+        {
+          "en": "Ministry of Social Justice and Empowerment",
+          "hi": "सामाजिक न्याय एवं अधिकारिता मंत्रालय"
+        },
+        {
+          "en": "Ministry of Home Affairs",
+          "hi": "गृह मंत्रालय"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The Ministry of Labour and Employment operates the PENCIL (Platform for Effective Enforcement for No Child Labour) portal. Article 24 of the Indian Constitution prohibits the employment of children in factories, aligning with static GK.",
+        "hi": "श्रम एवं रोजगार मंत्रालय 'पेंसिल' (PENCIL - Platform for Effective Enforcement for No Child Labour) पोर्टल का संचालन करता है। भारतीय संविधान का अनुच्छेद 24 कारखानों में बच्चों के रोजगार पर रोक लगाता है, जो स्टेटिक जीके के अनुरूप है।"
+      },
+      "category": "Government Schemes",
+      "difficulty": "medium",
+      "sourceUrl": "https://pib.gov.in"
+    },
+    {
+      "id": "ca_20260831_02",
+      "question": {
+        "en": "Who has been appointed as the new Chief Justice of India, succeeding Justice D.Y. Chandrachud in late 2024 (as per recent formal transitions in static records)?",
+        "hi": "न्यायमूर्ति डी.वाई. चंद्रचूड़ के बाद नए भारत के मुख्य न्यायाधीश (CJI) के रूप में किसे नियुक्त किया गया है (हालिया औपचारिक परिवर्तनों के अनुसार)?"
+      },
+      "options": [
+        {
+          "en": "Justice Sanjiv Khanna",
+          "hi": "न्यायमूर्ति संजीव खन्ना"
+        },
+        {
+          "en": "Justice B.R. Gavai",
+          "hi": "न्यायमूर्ति बी.आर. गवई"
+        },
+        {
+          "en": "Justice Surya Kant",
+          "hi": "न्यायमूर्ति सूर्य कांत"
+        },
+        {
+          "en": "Justice Hima Kohli",
+          "hi": "न्यायमूर्ति हिमा कोहली"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "Justice Sanjiv Khanna succeeded Justice D.Y. Chandrachud as the Chief Justice of India. Under Article 124 of the Constitution, the CJI is appointed by the President of India.",
+        "hi": "न्यायमूर्ति संजीव खन्ना ने भारत के मुख्य न्यायाधीश के रूप में न्यायमूर्ति डी.वाई. चंद्रचूड़ का स्थान लिया है। संविधान के अनुच्छेद 124 के तहत, CJI की नियुक्ति भारत के राष्ट्रपति द्वारा की जाती है।"
+      },
+      "category": "Appointments & Commissions",
+      "difficulty": "easy",
+      "sourceUrl": "https://pib.gov.in"
+    },
+    {
+      "id": "ca_20260831_03",
+      "question": {
+        "en": "What is the new repo rate kept unchanged by the RBI's Monetary Policy Committee (MPC) in its recent bi-monthly meeting?",
+        "hi": "हाल ही में RBI की मौद्रिक नीति समिति (MPC) की द्विमासिक बैठक में नई रेपो दर को कितना अपरिवर्तित रखा गया है?"
+      },
+      "options": [
+        {
+          "en": "6.25%",
+          "hi": "6.25%"
+        },
+        {
+          "en": "6.50%",
+          "hi": "6.50%"
+        },
+        {
+          "en": "6.75%",
+          "hi": "6.75%"
+        },
+        {
+          "en": "6.00%",
+          "hi": "6.00%"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The Reserve Bank of India's Monetary Policy Committee (MPC) kept the repo rate unchanged at 6.50% to balance inflation control and economic growth. The MPC was established in 2016.",
+        "hi": "भारतीय रिजर्व बैंक की मौद्रिक नीति समिति (MPC) ने मुद्रास्फीति नियंत्रण और आर्थिक विकास को संतुलित करने के लिए रेपो दर को 6.50% पर अपरिवर्तित रखा है। MPC की स्थापना 2016 में हुई थी।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "easy",
+      "sourceUrl": "https://rbi.org.in"
+    },
+    {
+      "id": "ca_20260831_04",
+      "question": {
+        "en": "Which indigenously developed nuclear-capable intercontinental ballistic missile (ICBM) with MIRV technology was successfully flight-tested recently?",
+        "hi": "हाल ही में MIRV तकनीक के साथ किस स्वदेशी रूप से विकसित परमाणु-सक्षम अंतरमहाद्वीपीय बैलिस्टिक मिसाइल (ICBM) का सफलतापूर्वक उड़ान परीक्षण किया गया?"
+      },
+      "options": [
+        {
+          "en": "Agni-V",
+          "hi": "अग्नि-V"
+        },
+        {
+          "en": "Prithvi-II",
+          "hi": "पृथ्वी-II"
+        },
+        {
+          "en": "BrahMos",
+          "hi": "ब्रह्मोस"
+        },
+        {
+          "en": "Shaurya",
+          "hi": "शौर्य"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "India successfully test-fired the Agni-V ICBM with Multiple Independently Targetable Re-entry Vehicle (MIRV) technology under 'Mission Divyastra', developed by DRDO. It has a range of over 5000 km.",
+        "hi": "भारत ने DRDO द्वारा विकसित 'मिशन दिव्यास्त्र' के तहत मल्टीपल इंडिपेंडेंटली टारगेटेबल री-एंट्री व्हीकल (MIRV) तकनीक के साथ अग्नि-V ICBM का सफल परीक्षण किया। इसकी रेंज 5000 किमी से अधिक है।"
+      },
+      "category": "Defence & Security",
+      "difficulty": "medium",
+      "sourceUrl": "https://pib.gov.in"
+    },
+    {
+      "id": "ca_20260831_05",
+      "question": {
+        "en": "ISRO recently announced the timeline for establishing 'Bharatiya Antariksha Station' (Indian Space Station). By which year is the first module expected to be launched?",
+        "hi": "इसरो ने हाल ही में 'भारतीय अंतरिक्ष स्टेशन' स्थापित करने की समय सीमा की घोषणा की है। किस वर्ष तक पहला मॉड्यूल लॉन्च होने की उम्मीद है?"
+      },
+      "options": [
+        {
+          "en": "2026",
+          "hi": "2026"
+        },
+        {
+          "en": "2028",
+          "hi": "2028"
+        },
+        {
+          "en": "2030",
+          "hi": "2030"
+        },
+        {
+          "en": "2035",
+          "hi": "2035"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "ISRO plans to launch the first module of the 'Bharatiya Antariksha Station' (BAS-1) by 2028, with the complete space station expected to be operational by 2035.",
+        "hi": "इसरो ने 2028 तक 'भारतीय अंतरिक्ष स्टेशन' (BAS-1) का पहला मॉड्यूल लॉन्च करने की योजना बनाई है, जबकि पूरा अंतरिक्ष स्टेशन 2035 तक चालू होने की उम्मीद है।"
+      },
+      "category": "Science & Technology",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.isro.gov.in"
+    },
+    {
+      "id": "ca_20260831_06",
+      "question": {
+        "en": "Who won the gold medal in the men's singles badminton at the recent Paris Olympics 2024?",
+        "hi": "हाल ही में पेरिस ओलंपिक 2024 में पुरुष एकल बैडमिंटन में स्वर्ण पदक किसने जीता?"
+      },
+      "options": [
+        {
+          "en": "Viktor Axelsen",
+          "hi": "विक्टर एक्सेलसन"
+        },
+        {
+          "en": "Kunlavut Vitidsarn",
+          "hi": "कुनलावुत विटिडसार्न"
+        },
+        {
+          "en": "Lakshya Sen",
+          "hi": "लक्ष्य सेन"
+        },
+        {
+          "en": "Lee Zii Jia",
+          "hi": "ली ज़ी जिया"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "Denmark's Viktor Axelsen defended his Olympic title by winning the gold medal in men's singles badminton at the Paris 2024 Olympics, defeating Thailand's Kunlavut Vitidsarn.",
+        "hi": "डेनमार्क के विक्टर एक्सेलसन ने पेरिस 2024 ओलंपिक में पुरुष एकल बैडमिंटन में थाईलैंड के कुनलावुत विटिडसार्न को हराकर स्वर्ण पदक जीता और अपने ओलंपिक खिताब का बचाव किया।"
+      },
+      "category": "Sports",
+      "difficulty": "medium",
+      "sourceUrl": "https://olympics.com"
+    },
+    {
+      "id": "ca_20260831_07",
+      "question": {
+        "en": "In August 2026, which country hosted the 18th ASEAN Defence Ministers' Meeting Plus (ADMM-Plus)?",
+        "hi": "अगस्त 2026 में, किस देश ने 18वीं आसियान रक्षा मंत्रियों की बैठक प्लस (ADMM-Plus) की मेजबानी की?"
+      },
+      "options": [
+        {
+          "en": "Vietnam",
+          "hi": "वियतनाम"
+        },
+        {
+          "en": "Indonesia",
+          "hi": "इंडोनेशिया"
+        },
+        {
+          "en": "Malaysia",
+          "hi": "मलेशिया"
+        },
+        {
+          "en": "Laos",
+          "hi": "लाओस"
+        }
+      ],
+      "correctAnswer": 3,
+      "explanation": {
+        "en": "Laos, the ASEAN Chair for 2024 (and related subsequent events), hosted the ADMM-Plus meeting. The forum consists of 10 ASEAN member states and 8 dialogue partners, including India.",
+        "hi": "लाओस (2024 के लिए आसियान अध्यक्ष) ने ADMM-Plus बैठक की मेजबानी की। इस मंच में 10 आसियान सदस्य देश और भारत सहित 8 संवाद भागीदार शामिल हैं।"
+      },
+      "category": "International Summits",
+      "difficulty": "hard",
+      "sourceUrl": "https://pib.gov.in"
+    },
+    {
+      "id": "ca_20260831_08",
+      "question": {
+        "en": "Who has been named the recipient of the prestigious Sahitya Akademi Fellowship recently?",
+        "hi": "हाल ही में किसे प्रतिष्ठित साहित्य अकादमी फेलोशिप का प्राप्तकर्ता नामित किया गया है?"
+      },
+      "options": [
+        {
+          "en": "Ruskin Bond",
+          "hi": "रस्किन बॉन्ड"
+        },
+        {
+          "en": "Arundhati Roy",
+          "hi": "अरुंधति रॉय"
+        },
+        {
+          "en": "Amitav Ghosh",
+          "hi": "अमिताव घोष"
+        },
+        {
+          "en": "Vikram Seth",
+          "hi": "विक्रम सेठ"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "Eminent English author Ruskin Bond was recently awarded the Sahitya Akademi Fellowship, the highest honor conferred by the Sahitya Akademi.",
+        "hi": "प्रख्यात अंग्रेजी लेखक रस्किन बॉन्ड को हाल ही में साहित्य अकादमी फेलोशिप से सम्मानित किया गया, जो साहित्य अकादमी द्वारा दिया जाने वाला सर्वोच्च सम्मान है।"
+      },
+      "category": "Awards & Honours",
+      "difficulty": "easy",
+      "sourceUrl": "https://sahitya-akademi.gov.in"
+    },
+    {
+      "id": "ca_20260831_09",
+      "question": {
+        "en": "Under which schedule of the Indian Constitution are the provisions relating to the administration and control of Scheduled Areas and Scheduled Tribes mentioned?",
+        "hi": "भारतीय संविधान की किस अनुसूची के अंतर्गत अनुसूचित क्षेत्रों और अनुसूचित जनजातियों के प्रशासन और नियंत्रण से संबंधित प्रावधान उल्लिखित हैं?"
+      },
+      "options": [
+        {
+          "en": "Fourth Schedule",
+          "hi": "चौथी अनुसूची"
+        },
+        {
+          "en": "Fifth Schedule",
+          "hi": "पांचवीं अनुसूची"
+        },
+        {
+          "en": "Sixth Schedule",
+          "hi": "छठी अनुसूची"
+        },
+        {
+          "en": "Seventh Schedule",
+          "hi": "सातवीं अनुसूची"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The Fifth Schedule of the Constitution deals with the administration and control of Scheduled Areas and Scheduled Tribes in states other than Assam, Meghalaya, Tripura, and Mizoram.",
+        "hi": "संविधान की पांचवीं अनुसूची असम, मेघालय, त्रिपुरा और मिजोरम को छोड़कर अन्य राज्यों में अनुसूचित क्षेत्रों और अनुसूचित जनजातियों के प्रशासन और नियंत्रण से संबंधित है।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "medium",
+      "sourceUrl": "https://pib.gov.in"
+    },
+    {
+      "id": "ca_20260831_10",
+      "question": {
+        "en": "When is the 'World Sanskrit Day' celebrated?",
+        "hi": "'विश्व संस्कृत दिवस' कब मनाया जाता है?"
+      },
+      "options": [
+        {
+          "en": "On the full moon day of Shravana month",
+          "hi": "श्रावण मास की पूर्णिमा को"
+        },
+        {
+          "en": "On the full moon day of Ashadha month",
+          "hi": "आषाढ़ मास की पूर्णिमा को"
+        },
+        {
+          "en": "On the new moon day of Bhadrapada month",
+          "hi": "भाद्रपद मास की अमावस्या को"
+        },
+        {
+          "en": "On August 15 every year",
+          "hi": "हर साल 15 अगस्त को"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "World Sanskrit Day is celebrated annually on the full moon day of the Hindu month of Shravana (Shravana Purnima). In 2026, it fell in August.",
+        "hi": "विश्व संस्कृत दिवस प्रतिवर्ष हिंदू श्रावण मास की पूर्णिमा (श्रावण पूर्णिमा) को मनाया जाता है। 2026 में यह अगस्त में पड़ा।"
+      },
+      "category": "Important Days & Themes",
+      "difficulty": "hard",
+      "sourceUrl": "https://pib.gov.in"
+    }
+  ]
+}
