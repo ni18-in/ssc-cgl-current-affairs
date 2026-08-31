@@ -1,340 +1,340 @@
 {
-  "date": "2026-08-31",
+  "date": "2026-09-01",
   "topic": "SSC CGL Daily Current Affairs",
   "source": "PIB / The Hindu / Economic Times / Indian Express / GKToday",
-  "lastUpdated": "2026-08-31T06:00:00+05:30",
+  "lastUpdated": "2026-09-01T06:00:00+05:30",
   "version": 1,
   "totalQuestions": 10,
   "quiz": [
     {
-      "id": "ca_20260831_01",
+      "id": "ca_20260901_01",
       "question": {
-        "en": "Recently, which ministry launched the updated version of the 'PENCIL' portal to combat child labour?",
-        "hi": "हाल ही में, किस मंत्रालय ने बाल श्रम से निपटने के लिए 'पेंसिल' (PENCIL) पोर्टल का अद्यतन संस्करण लॉन्च किया है?"
+        "en": "Recently, the Indian Army signed a USD 93 million deal with which country to procure FGM-148 Javelin Anti-Tank Guided Missiles (ATGM)?",
+        "hi": "हाल ही में, भारतीय सेना ने एफजीएम-148 जैवलिन एंटी-टैंक गाइडेड मिसाइल (ATGM) की खरीद के लिए किस देश के साथ 93 मिलियन अमेरिकी डॉलर के समझौते पर हस्ताक्षर किए हैं?"
       },
       "options": [
         {
-          "en": "Ministry of Women and Child Development",
-          "hi": "महिला एवं बाल विकास मंत्रालय"
+          "en": "France",
+          "hi": "फ्रांस"
         },
         {
-          "en": "Ministry of Labour and Employment",
-          "hi": "श्रम एवं रोजगार मंत्रालय"
+          "en": "Russia",
+          "hi": "रूस"
         },
         {
-          "en": "Ministry of Social Justice and Empowerment",
-          "hi": "सामाजिक न्याय एवं अधिकारिता मंत्रालय"
+          "en": "USA",
+          "hi": "संयुक्त राज्य अमेरिका"
         },
         {
-          "en": "Ministry of Home Affairs",
-          "hi": "गृह मंत्रालय"
+          "en": "Israel",
+          "hi": "इजराइल"
         }
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": {
-        "en": "The Ministry of Labour and Employment operates the PENCIL (Platform for Effective Enforcement for No Child Labour) portal. Article 24 of the Indian Constitution prohibits the employment of children in factories, aligning with static GK.",
-        "hi": "श्रम एवं रोजगार मंत्रालय 'पेंसिल' (PENCIL - Platform for Effective Enforcement for No Child Labour) पोर्टल का संचालन करता है। भारतीय संविधान का अनुच्छेद 24 कारखानों में बच्चों के रोजगार पर रोक लगाता है, जो स्टेटिक जीके के अनुरूप है।"
-      },
-      "category": "Government Schemes",
-      "difficulty": "medium",
-      "sourceUrl": "https://pib.gov.in"
-    },
-    {
-      "id": "ca_20260831_02",
-      "question": {
-        "en": "Who has been appointed as the new Chief Justice of India, succeeding Justice D.Y. Chandrachud in late 2024 (as per recent formal transitions in static records)?",
-        "hi": "न्यायमूर्ति डी.वाई. चंद्रचूड़ के बाद नए भारत के मुख्य न्यायाधीश (CJI) के रूप में किसे नियुक्त किया गया है (हालिया औपचारिक परिवर्तनों के अनुसार)?"
-      },
-      "options": [
-        {
-          "en": "Justice Sanjiv Khanna",
-          "hi": "न्यायमूर्ति संजीव खन्ना"
-        },
-        {
-          "en": "Justice B.R. Gavai",
-          "hi": "न्यायमूर्ति बी.आर. गवई"
-        },
-        {
-          "en": "Justice Surya Kant",
-          "hi": "न्यायमूर्ति सूर्य कांत"
-        },
-        {
-          "en": "Justice Hima Kohli",
-          "hi": "न्यायमूर्ति हिमा कोहली"
-        }
-      ],
-      "correctAnswer": 0,
-      "explanation": {
-        "en": "Justice Sanjiv Khanna succeeded Justice D.Y. Chandrachud as the Chief Justice of India. Under Article 124 of the Constitution, the CJI is appointed by the President of India.",
-        "hi": "न्यायमूर्ति संजीव खन्ना ने भारत के मुख्य न्यायाधीश के रूप में न्यायमूर्ति डी.वाई. चंद्रचूड़ का स्थान लिया है। संविधान के अनुच्छेद 124 के तहत, CJI की नियुक्ति भारत के राष्ट्रपति द्वारा की जाती है।"
-      },
-      "category": "Appointments & Commissions",
-      "difficulty": "easy",
-      "sourceUrl": "https://pib.gov.in"
-    },
-    {
-      "id": "ca_20260831_03",
-      "question": {
-        "en": "What is the new repo rate kept unchanged by the RBI's Monetary Policy Committee (MPC) in its recent bi-monthly meeting?",
-        "hi": "हाल ही में RBI की मौद्रिक नीति समिति (MPC) की द्विमासिक बैठक में नई रेपो दर को कितना अपरिवर्तित रखा गया है?"
-      },
-      "options": [
-        {
-          "en": "6.25%",
-          "hi": "6.25%"
-        },
-        {
-          "en": "6.50%",
-          "hi": "6.50%"
-        },
-        {
-          "en": "6.75%",
-          "hi": "6.75%"
-        },
-        {
-          "en": "6.00%",
-          "hi": "6.00%"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "The Reserve Bank of India's Monetary Policy Committee (MPC) kept the repo rate unchanged at 6.50% to balance inflation control and economic growth. The MPC was established in 2016.",
-        "hi": "भारतीय रिजर्व बैंक की मौद्रिक नीति समिति (MPC) ने मुद्रास्फीति नियंत्रण और आर्थिक विकास को संतुलित करने के लिए रेपो दर को 6.50% पर अपरिवर्तित रखा है। MPC की स्थापना 2016 में हुई थी।"
-      },
-      "category": "Economy & Banking",
-      "difficulty": "easy",
-      "sourceUrl": "https://rbi.org.in"
-    },
-    {
-      "id": "ca_20260831_04",
-      "question": {
-        "en": "Which indigenously developed nuclear-capable intercontinental ballistic missile (ICBM) with MIRV technology was successfully flight-tested recently?",
-        "hi": "हाल ही में MIRV तकनीक के साथ किस स्वदेशी रूप से विकसित परमाणु-सक्षम अंतरमहाद्वीपीय बैलिस्टिक मिसाइल (ICBM) का सफलतापूर्वक उड़ान परीक्षण किया गया?"
-      },
-      "options": [
-        {
-          "en": "Agni-V",
-          "hi": "अग्नि-V"
-        },
-        {
-          "en": "Prithvi-II",
-          "hi": "पृथ्वी-II"
-        },
-        {
-          "en": "BrahMos",
-          "hi": "ब्रह्मोस"
-        },
-        {
-          "en": "Shaurya",
-          "hi": "शौर्य"
-        }
-      ],
-      "correctAnswer": 0,
-      "explanation": {
-        "en": "India successfully test-fired the Agni-V ICBM with Multiple Independently Targetable Re-entry Vehicle (MIRV) technology under 'Mission Divyastra', developed by DRDO. It has a range of over 5000 km.",
-        "hi": "भारत ने DRDO द्वारा विकसित 'मिशन दिव्यास्त्र' के तहत मल्टीपल इंडिपेंडेंटली टारगेटेबल री-एंट्री व्हीकल (MIRV) तकनीक के साथ अग्नि-V ICBM का सफल परीक्षण किया। इसकी रेंज 5000 किमी से अधिक है।"
+        "en": "The Indian Army signed a USD 93 million deal with the USA to procure around 100 FGM-148 Javelin ATGM systems. The Javelin is a fire-and-forget missile, manufactured by a joint venture of RTX Corporation and Lockheed Martin.",
+        "hi": "भारतीय सेना ने लगभग 100 FGM-148 जैवलिन ATGM सिस्टम की खरीद के लिए अमेरिका के साथ 93 मिलियन अमेरिकी डॉलर के समझौते पर हस्ताक्षर किए हैं। जैवलिन एक 'फायर-एंड-फॉरगेट' मिसाइल है, जिसे RTX कॉर्पोरेशन और लॉकहीड मार्टिन के संयुक्त उद्यम द्वारा निर्मित किया गया है।"
       },
       "category": "Defence & Security",
-      "difficulty": "medium",
-      "sourceUrl": "https://pib.gov.in"
+      "difficulty": "easy",
+      "sourceUrl": "https://affairscloud.com/current-affairs-30-31-august-2026/"
     },
     {
-      "id": "ca_20260831_05",
+      "id": "ca_20260901_02",
       "question": {
-        "en": "ISRO recently announced the timeline for establishing 'Bharatiya Antariksha Station' (Indian Space Station). By which year is the first module expected to be launched?",
-        "hi": "इसरो ने हाल ही में 'भारतीय अंतरिक्ष स्टेशन' स्थापित करने की समय सीमा की घोषणा की है। किस वर्ष तक पहला मॉड्यूल लॉन्च होने की उम्मीद है?"
+        "en": "Where was the 10th edition of the Taiwan-India Industrial Collaboration Summit hosted by FICCI and CNFI?",
+        "hi": "FICCI और CNFI द्वारा ताइवान-भारत औद्योगिक सहयोग शिखर सम्मेलन के 10वें संस्करण की मेजबानी कहाँ की गई थी?"
       },
       "options": [
         {
-          "en": "2026",
-          "hi": "2026"
+          "en": "New Delhi",
+          "hi": "नई दिल्ली"
         },
         {
-          "en": "2028",
-          "hi": "2028"
+          "en": "Bengaluru",
+          "hi": "बेंगलुरु"
         },
         {
-          "en": "2030",
-          "hi": "2030"
+          "en": "Mumbai",
+          "hi": "मुंबई"
         },
         {
-          "en": "2035",
-          "hi": "2035"
+          "en": "Hyderabad",
+          "hi": "हैदराबाद"
         }
       ],
       "correctAnswer": 1,
       "explanation": {
-        "en": "ISRO plans to launch the first module of the 'Bharatiya Antariksha Station' (BAS-1) by 2028, with the complete space station expected to be operational by 2035.",
-        "hi": "इसरो ने 2028 तक 'भारतीय अंतरिक्ष स्टेशन' (BAS-1) का पहला मॉड्यूल लॉन्च करने की योजना बनाई है, जबकि पूरा अंतरिक्ष स्टेशन 2035 तक चालू होने की उम्मीद है।"
+        "en": "The 10th Taiwan-India Industrial Collaboration Summit was hosted in Bengaluru, Karnataka by FICCI and CNFI. The event led to the signing of 6 MoUs in various technology sectors.",
+        "hi": "10वें ताइवान-भारत औद्योगिक सहयोग शिखर सम्मेलन की मेजबानी फिक्की (FICCI) और CNFI द्वारा बेंगलुरु, कर्नाटक में की गई। इस आयोजन के दौरान विभिन्न प्रौद्योगिकी क्षेत्रों में 6 समझौता ज्ञापनों (MoU) पर हस्ताक्षर किए गए।"
       },
-      "category": "Science & Technology",
+      "category": "International Summits",
       "difficulty": "medium",
-      "sourceUrl": "https://www.isro.gov.in"
+      "sourceUrl": "https://affairscloud.com/current-affairs-30-31-august-2026/"
     },
     {
-      "id": "ca_20260831_06",
+      "id": "ca_20260901_03",
       "question": {
-        "en": "Who won the gold medal in the men's singles badminton at the recent Paris Olympics 2024?",
-        "hi": "हाल ही में पेरिस ओलंपिक 2024 में पुरुष एकल बैडमिंटन में स्वर्ण पदक किसने जीता?"
+        "en": "Under which Act has the Department of Legal Affairs notified the establishment of the 'Mediation Council of India' headquartered in New Delhi?",
+        "hi": "कानूनी मामलों के विभाग ने किस अधिनियम के तहत नई दिल्ली में मुख्यालय वाली 'भारतीय मध्यस्थता परिषद' की स्थापना को अधिसूचित किया है?"
       },
       "options": [
         {
-          "en": "Viktor Axelsen",
-          "hi": "विक्टर एक्सेलसन"
+          "en": "Arbitration and Conciliation Act, 1996",
+          "hi": "मध्यस्थता और सुलह अधिनियम, 1996"
         },
         {
-          "en": "Kunlavut Vitidsarn",
-          "hi": "कुनलावुत विटिडसार्न"
+          "en": "Commercial Courts Act, 2015",
+          "hi": "वाणिज्यिक न्यायालय अधिनियम, 2015"
         },
         {
-          "en": "Lakshya Sen",
-          "hi": "लक्ष्य सेन"
+          "en": "Mediation Act, 2023",
+          "hi": "मध्यस्थता अधिनियम, 2023"
         },
         {
-          "en": "Lee Zii Jia",
-          "hi": "ली ज़ी जिया"
+          "en": "Legal Services Authorities Act, 1987",
+          "hi": "विधिक सेवा प्राधिकरण अधिनियम, 1987"
         }
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 2,
       "explanation": {
-        "en": "Denmark's Viktor Axelsen defended his Olympic title by winning the gold medal in men's singles badminton at the Paris 2024 Olympics, defeating Thailand's Kunlavut Vitidsarn.",
-        "hi": "डेनमार्क के विक्टर एक्सेलसन ने पेरिस 2024 ओलंपिक में पुरुष एकल बैडमिंटन में थाईलैंड के कुनलावुत विटिडसार्न को हराकर स्वर्ण पदक जीता और अपने ओलंपिक खिताब का बचाव किया।"
+        "en": "The Mediation Council of India was established under Section 31 of the Mediation Act, 2023. This statutory body aims to promote domestic and international mediation in India.",
+        "hi": "भारतीय मध्यस्थता परिषद (Mediation Council of India) की स्थापना मध्यस्थता अधिनियम, 2023 की धारा 31 के तहत की गई है। इस वैधानिक निकाय का उद्देश्य भारत में घरेलू और अंतर्राष्ट्रीय मध्यस्थता को बढ़ावा देना है।"
       },
-      "category": "Sports",
+      "category": "Polity & Governance",
       "difficulty": "medium",
-      "sourceUrl": "https://olympics.com"
+      "sourceUrl": "https://affairscloud.com/current-affairs-30-31-august-2026/"
     },
     {
-      "id": "ca_20260831_07",
+      "id": "ca_20260901_04",
       "question": {
-        "en": "In August 2026, which country hosted the 18th ASEAN Defence Ministers' Meeting Plus (ADMM-Plus)?",
-        "hi": "अगस्त 2026 में, किस देश ने 18वीं आसियान रक्षा मंत्रियों की बैठक प्लस (ADMM-Plus) की मेजबानी की?"
+        "en": "Which Indian startup developed 'Gnani Artha', a sovereign AI stack featuring Evon 3.3 and Plexus, recently launched by Vice President C.P. Radhakrishnan?",
+        "hi": "किस भारतीय स्टार्टअप ने 'ज्ञान अर्था' (Gnani Artha) नामक सॉवरेन AI स्टैक विकसित किया है, जिसमें इवोन 3.3 और प्लेक्सस शामिल हैं, जिसे हाल ही में उपराष्ट्रपति सी.पी. राधाकृष्णन द्वारा लॉन्च किया गया?"
       },
       "options": [
         {
-          "en": "Vietnam",
-          "hi": "वियतनाम"
+          "en": "Krutrim AI",
+          "hi": "कृत्रिम एआई"
         },
         {
-          "en": "Indonesia",
-          "hi": "इंडोनेशिया"
+          "en": "GNANI AI",
+          "hi": "ज्ञानी एआई"
         },
         {
-          "en": "Malaysia",
-          "hi": "मलेशिया"
+          "en": "Sarvam AI",
+          "hi": "सर्वम एआई"
         },
         {
-          "en": "Laos",
-          "hi": "लाओस"
+          "en": "Arya.ai",
+          "hi": "आर्या.एआई"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Bengaluru-based voice AI startup GNANI AI developed 'Gnani Artha', featuring a 30-billion-parameter model Evon v3.3 that supports over 11 Indian languages. It was launched by VP C.P. Radhakrishnan.",
+        "hi": "बेंगलुरु स्थित वॉयस AI स्टार्टअप GNANI AI ने 'ज्ञान अर्था' विकसित किया है, जिसमें 30-बिलियन-पैरामीटर मॉडल Evon v3.3 शामिल है जो 11 से अधिक भारतीय भाषाओं का समर्थन करता है। इसे उपराष्ट्रपति सी.पी. राधाकृष्णन द्वारा लॉन्च किया गया।"
+      },
+      "category": "Science & Technology",
+      "difficulty": "hard",
+      "sourceUrl": "https://affairscloud.com/current-affairs-30-31-august-2026/"
+    },
+    {
+      "id": "ca_20260901_05",
+      "question": {
+        "en": "India formally secured a 'Dialogue Partner' status in the Global Combat Air Program (GCAP). Which of the following countries is NOT a founding member of GCAP?",
+        "hi": "भारत ने औपचारिक रूप से ग्लोबल कॉम्बैट एयर प्रोग्राम (GCAP) में 'डायलॉग पार्टनर' का दर्जा हासिल कर लिया है। निम्नलिखित में से कौन सा देश GCAP का संस्थापक सदस्य नहीं है?"
+      },
+      "options": [
+        {
+          "en": "United Kingdom",
+          "hi": "यूनाइटेड किंगडम"
+        },
+        {
+          "en": "Italy",
+          "hi": "इटली"
+        },
+        {
+          "en": "Japan",
+          "hi": "जापान"
+        },
+        {
+          "en": "France",
+          "hi": "फ्रांस"
         }
       ],
       "correctAnswer": 3,
       "explanation": {
-        "en": "Laos, the ASEAN Chair for 2024 (and related subsequent events), hosted the ADMM-Plus meeting. The forum consists of 10 ASEAN member states and 8 dialogue partners, including India.",
-        "hi": "लाओस (2024 के लिए आसियान अध्यक्ष) ने ADMM-Plus बैठक की मेजबानी की। इस मंच में 10 आसियान सदस्य देश और भारत सहित 8 संवाद भागीदार शामिल हैं।"
+        "en": "Launched in 2022, GCAP (also known as Tempest) is a trilateral initiative led by the UK, Italy, and Japan to develop a 6th-generation fighter jet. India has joined as a dialogue partner to explore future air combat technologies.",
+        "hi": "2022 में शुरू किया गया GCAP (जिसे टेम्पेस्ट के नाम से भी जाना जाता है) 6वीं पीढ़ी के लड़ाकू जेट विकसित करने के लिए यूके, इटली और जापान के नेतृत्व में एक त्रिपक्षीय पहल है। भारत भविष्य की हवाई लड़ाकू तकनीकों का पता लगाने के लिए एक वार्ता भागीदार के रूप में शामिल हुआ है।"
       },
-      "category": "International Summits",
-      "difficulty": "hard",
-      "sourceUrl": "https://pib.gov.in"
+      "category": "Defence & Security",
+      "difficulty": "medium",
+      "sourceUrl": "https://affairscloud.com/current-affairs-30-31-august-2026/"
     },
     {
-      "id": "ca_20260831_08",
+      "id": "ca_20260901_06",
       "question": {
-        "en": "Who has been named the recipient of the prestigious Sahitya Akademi Fellowship recently?",
-        "hi": "हाल ही में किसे प्रतिष्ठित साहित्य अकादमी फेलोशिप का प्राप्तकर्ता नामित किया गया है?"
+        "en": "The Department of Administrative Reforms and Public Grievances (DARPG) was selected for the special 'Rajbhasha Utkrishtta Sammaan' 2025–26. When is Hindi Diwas celebrated annually in India?",
+        "hi": "प्रशासनिक सुधार और लोक शिकायत विभाग (DARPG) को विशेष 'राजभाषा उत्कृष्टता सम्मान' 2025-26 के लिए चुना गया। भारत में प्रतिवर्ष हिंदी दिवस कब मनाया जाता है?"
       },
       "options": [
         {
-          "en": "Ruskin Bond",
-          "hi": "रस्किन बॉन्ड"
+          "en": "10 January",
+          "hi": "10 जनवरी"
         },
         {
-          "en": "Arundhati Roy",
-          "hi": "अरुंधति रॉय"
+          "en": "14 September",
+          "hi": "14 सितंबर"
         },
         {
-          "en": "Amitav Ghosh",
-          "hi": "अमिताव घोष"
+          "en": "21 February",
+          "hi": "21 फरवरी"
         },
         {
-          "en": "Vikram Seth",
-          "hi": "विक्रम सेठ"
-        }
-      ],
-      "correctAnswer": 0,
-      "explanation": {
-        "en": "Eminent English author Ruskin Bond was recently awarded the Sahitya Akademi Fellowship, the highest honor conferred by the Sahitya Akademi.",
-        "hi": "प्रख्यात अंग्रेजी लेखक रस्किन बॉन्ड को हाल ही में साहित्य अकादमी फेलोशिप से सम्मानित किया गया, जो साहित्य अकादमी द्वारा दिया जाने वाला सर्वोच्च सम्मान है।"
-      },
-      "category": "Awards & Honours",
-      "difficulty": "easy",
-      "sourceUrl": "https://sahitya-akademi.gov.in"
-    },
-    {
-      "id": "ca_20260831_09",
-      "question": {
-        "en": "Under which schedule of the Indian Constitution are the provisions relating to the administration and control of Scheduled Areas and Scheduled Tribes mentioned?",
-        "hi": "भारतीय संविधान की किस अनुसूची के अंतर्गत अनुसूचित क्षेत्रों और अनुसूचित जनजातियों के प्रशासन और नियंत्रण से संबंधित प्रावधान उल्लिखित हैं?"
-      },
-      "options": [
-        {
-          "en": "Fourth Schedule",
-          "hi": "चौथी अनुसूची"
-        },
-        {
-          "en": "Fifth Schedule",
-          "hi": "पांचवीं अनुसूची"
-        },
-        {
-          "en": "Sixth Schedule",
-          "hi": "छठी अनुसूची"
-        },
-        {
-          "en": "Seventh Schedule",
-          "hi": "सातवीं अनुसूची"
+          "en": "5 June",
+          "hi": "5 जून"
         }
       ],
       "correctAnswer": 1,
       "explanation": {
-        "en": "The Fifth Schedule of the Constitution deals with the administration and control of Scheduled Areas and Scheduled Tribes in states other than Assam, Meghalaya, Tripura, and Mizoram.",
-        "hi": "संविधान की पांचवीं अनुसूची असम, मेघालय, त्रिपुरा और मिजोरम को छोड़कर अन्य राज्यों में अनुसूचित क्षेत्रों और अनुसूचित जनजातियों के प्रशासन और नियंत्रण से संबंधित है।"
+        "en": "Hindi Diwas is celebrated annually on 14 September in India to mark the adoption of Hindi as an official language in 1949. DARPG won the award for its excellent implementation of the Official Language.",
+        "hi": "1949 में आधिकारिक भाषा के रूप में हिंदी को अपनाए जाने के उपलक्ष्य में भारत में प्रतिवर्ष 14 सितंबर को हिंदी दिवस मनाया जाता है। DARPG ने राजभाषा के उत्कृष्ट कार्यान्वयन के लिए यह पुरस्कार जीता है।"
       },
-      "category": "Polity & Governance",
-      "difficulty": "medium",
-      "sourceUrl": "https://pib.gov.in"
+      "category": "Awards & Honours",
+      "difficulty": "easy",
+      "sourceUrl": "https://affairscloud.com/current-affairs-30-31-august-2026/"
     },
     {
-      "id": "ca_20260831_10",
+      "id": "ca_20260901_07",
       "question": {
-        "en": "When is the 'World Sanskrit Day' celebrated?",
-        "hi": "'विश्व संस्कृत दिवस' कब मनाया जाता है?"
+        "en": "Who has been appointed as the new Chief Executive Officer (CEO) and Director of TVS Motor Company, effective from January 2027?",
+        "hi": "जनवरी 2027 से टीवीएस मोटर कंपनी (TVS Motor Company) के नए मुख्य कार्यकारी अधिकारी (CEO) और निदेशक के रूप में किसे नियुक्त किया गया है?"
       },
       "options": [
         {
-          "en": "On the full moon day of Shravana month",
-          "hi": "श्रावण मास की पूर्णिमा को"
+          "en": "K.N. Radhakrishnan",
+          "hi": "के.एन. राधाकृष्णन"
         },
         {
-          "en": "On the full moon day of Ashadha month",
-          "hi": "आषाढ़ मास की पूर्णिमा को"
+          "en": "Peyman Kargar",
+          "hi": "पेयमान कारगार"
         },
         {
-          "en": "On the new moon day of Bhadrapada month",
-          "hi": "भाद्रपद मास की अमावस्या को"
+          "en": "Venu Srinivasan",
+          "hi": "वेणु श्रीनिवासन"
         },
         {
-          "en": "On August 15 every year",
-          "hi": "हर साल 15 अगस्त को"
+          "en": "Sudarshan Venu",
+          "hi": "सुदर्शन वेणु"
         }
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 1,
       "explanation": {
-        "en": "World Sanskrit Day is celebrated annually on the full moon day of the Hindu month of Shravana (Shravana Purnima). In 2026, it fell in August.",
-        "hi": "विश्व संस्कृत दिवस प्रतिवर्ष हिंदू श्रावण मास की पूर्णिमा (श्रावण पूर्णिमा) को मनाया जाता है। 2026 में यह अगस्त में पड़ा।"
+        "en": "Peyman Kargar, currently the President of International Business at TVS Motor, has been appointed as the new CEO and Director, succeeding K.N. Radhakrishnan in January 2027.",
+        "hi": "वर्तमान में टीवीएस मोटर में इंटरनेशनल बिजनेस के अध्यक्ष पेयमान कारगार को जनवरी 2027 में के.एन. राधाकृष्णन के स्थान पर नया सीईओ और निदेशक नियुक्त किया गया है।"
+      },
+      "category": "Appointments & Commissions",
+      "difficulty": "medium",
+      "sourceUrl": "https://affairscloud.com/current-affairs-30-31-august-2026/"
+    },
+    {
+      "id": "ca_20260901_08",
+      "question": {
+        "en": "A new subterranean fish species, 'Gangaichthys indonepalicus', was discovered by scientists from ZSI in which state of India?",
+        "hi": "ZSI के वैज्ञानिकों द्वारा भारत के किस राज्य में भूमिगत मछली की एक नई प्रजाति, 'गंगाइचथिस इंडोनेपालिकस' (Gangaichthys indonepalicus) की खोज की गई है?"
+      },
+      "options": [
+        {
+          "en": "Uttar Pradesh",
+          "hi": "उत्तर प्रदेश"
+        },
+        {
+          "en": "West Bengal",
+          "hi": "पश्चिम बंगाल"
+        },
+        {
+          "en": "Bihar",
+          "hi": "बिहार"
+        },
+        {
+          "en": "Assam",
+          "hi": "असम"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Scientists from ZSI discovered 'Gangaichthys indonepalicus', the first subterranean fish recorded from the Gangetic Basin, in Pashchim Champaran district of Bihar, near the Nepal border.",
+        "hi": "ZSI के वैज्ञानिकों ने नेपाल सीमा के पास बिहार के पश्चिम चंपारण जिले में गंगा बेसिन से दर्ज की गई पहली भूमिगत मछली 'गंगाइचथिस इंडोनेपालिकस' की खोज की है।"
+      },
+      "category": "Environment & Ecology",
+      "difficulty": "hard",
+      "sourceUrl": "https://affairscloud.com/current-affairs-30-31-august-2026/"
+    },
+    {
+      "id": "ca_20260901_09",
+      "question": {
+        "en": "The United Nations International Day Against Nuclear Tests is annually observed globally on which date?",
+        "hi": "संयुक्त राष्ट्र का 'परमाणु परीक्षणों के विरुद्ध अंतर्राष्ट्रीय दिवस' विश्व स्तर पर प्रतिवर्ष किस तिथि को मनाया जाता है?"
+      },
+      "options": [
+        {
+          "en": "6 August",
+          "hi": "6 अगस्त"
+        },
+        {
+          "en": "9 August",
+          "hi": "9 अगस्त"
+        },
+        {
+          "en": "29 August",
+          "hi": "29 अगस्त"
+        },
+        {
+          "en": "24 September",
+          "hi": "24 सितंबर"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The International Day Against Nuclear Tests is observed on 29 August. It marks the closure of the Semipalatinsk Nuclear Test Site in Kazakhstan on 29 August 1991.",
+        "hi": "परमाणु परीक्षणों के विरुद्ध अंतर्राष्ट्रीय दिवस 29 अगस्त को मनाया जाता है। यह 29 अगस्त 1991 को कजाकिस्तान में सेमीपालाटिंस्क परमाणु परीक्षण स्थल के बंद होने का प्रतीक है।"
       },
       "category": "Important Days & Themes",
-      "difficulty": "hard",
-      "sourceUrl": "https://pib.gov.in"
+      "difficulty": "easy",
+      "sourceUrl": "https://affairscloud.com/current-affairs-30-31-august-2026/"
+    },
+    {
+      "id": "ca_20260901_10",
+      "question": {
+        "en": "Crown Prince Haakon recently became the new King of which country as King Haakon VIII?",
+        "hi": "क्राउन प्रिंस हाकोन हाल ही में राजा हाकोन VIII के रूप में किस देश के नए राजा बने हैं?"
+      },
+      "options": [
+        {
+          "en": "Sweden",
+          "hi": "स्वीडन"
+        },
+        {
+          "en": "Denmark",
+          "hi": "डेनमार्क"
+        },
+        {
+          "en": "Norway",
+          "hi": "नॉर्वे"
+        },
+        {
+          "en": "Netherlands",
+          "hi": "नीदरलैंड"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Crown Prince Haakon became King Haakon VIII of Norway following the death of his father King Harald V. The King of Norway also serves as the Supreme Commander of the Norwegian Armed Forces.",
+        "hi": "क्राउन प्रिंस हाकोन अपने पिता किंग हेराल्ड V के निधन के बाद नॉर्वे के राजा हाकोन VIII बन गए हैं। नॉर्वे का राजा नॉर्वेजियन सशस्त्र बलों के सर्वोच्च कमांडर के रूप में भी कार्य करता है।"
+      },
+      "category": "Appointments & Commissions",
+      "difficulty": "medium",
+      "sourceUrl": "https://affairscloud.com/current-affairs-30-31-august-2026/"
     }
   ]
 }
