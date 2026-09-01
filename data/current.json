@@ -1,247 +1,49 @@
 {
-  "date": "2026-09-01",
+  "date": "2026-09-02",
   "topic": "SSC CGL Daily Current Affairs",
   "source": "PIB / The Hindu / Economic Times / Indian Express / GKToday",
-  "lastUpdated": "2026-09-01T06:00:00+05:30",
+  "lastUpdated": "2026-09-02T06:00:00+05:30",
   "version": 1,
   "totalQuestions": 10,
   "quiz": [
     {
-      "id": "ca_20260901_01",
+      "id": "ca_20260902_01",
       "question": {
-        "en": "Recently, the Indian Army signed a USD 93 million deal with which country to procure FGM-148 Javelin Anti-Tank Guided Missiles (ATGM)?",
-        "hi": "हाल ही में, भारतीय सेना ने एफजीएम-148 जैवलिन एंटी-टैंक गाइडेड मिसाइल (ATGM) की खरीद के लिए किस देश के साथ 93 मिलियन अमेरिकी डॉलर के समझौते पर हस्ताक्षर किए हैं?"
+        "en": "Recently, the Department of Consumer Affairs (DoCA) notified the Legal Metrology (Indian Standard Time) Rules, 2026. After how many days of their publication will these rules come into force?",
+        "hi": "हाल ही में, उपभोक्ता मामले विभाग (DoCA) ने विधिक माप विज्ञान (भारतीय मानक समय) नियम, 2026 को अधिसूचित किया है। प्रकाशन के कितने दिनों के बाद ये नियम लागू होंगे?"
       },
       "options": [
         {
-          "en": "France",
-          "hi": "फ्रांस"
+          "en": "90 days",
+          "hi": "90 दिन"
         },
         {
-          "en": "Russia",
-          "hi": "रूस"
+          "en": "180 days",
+          "hi": "180 दिन"
         },
         {
-          "en": "USA",
-          "hi": "संयुक्त राज्य अमेरिका"
+          "en": "270 days",
+          "hi": "270 दिन"
         },
         {
-          "en": "Israel",
-          "hi": "इजराइल"
-        }
-      ],
-      "correctAnswer": 2,
-      "explanation": {
-        "en": "The Indian Army signed a USD 93 million deal with the USA to procure around 100 FGM-148 Javelin ATGM systems. The Javelin is a fire-and-forget missile, manufactured by a joint venture of RTX Corporation and Lockheed Martin.",
-        "hi": "भारतीय सेना ने लगभग 100 FGM-148 जैवलिन ATGM सिस्टम की खरीद के लिए अमेरिका के साथ 93 मिलियन अमेरिकी डॉलर के समझौते पर हस्ताक्षर किए हैं। जैवलिन एक 'फायर-एंड-फॉरगेट' मिसाइल है, जिसे RTX कॉर्पोरेशन और लॉकहीड मार्टिन के संयुक्त उद्यम द्वारा निर्मित किया गया है।"
-      },
-      "category": "Defence & Security",
-      "difficulty": "easy",
-      "sourceUrl": "https://affairscloud.com/current-affairs-30-31-august-2026/"
-    },
-    {
-      "id": "ca_20260901_02",
-      "question": {
-        "en": "Where was the 10th edition of the Taiwan-India Industrial Collaboration Summit hosted by FICCI and CNFI?",
-        "hi": "FICCI और CNFI द्वारा ताइवान-भारत औद्योगिक सहयोग शिखर सम्मेलन के 10वें संस्करण की मेजबानी कहाँ की गई थी?"
-      },
-      "options": [
-        {
-          "en": "New Delhi",
-          "hi": "नई दिल्ली"
-        },
-        {
-          "en": "Bengaluru",
-          "hi": "बेंगलुरु"
-        },
-        {
-          "en": "Mumbai",
-          "hi": "मुंबई"
-        },
-        {
-          "en": "Hyderabad",
-          "hi": "हैदराबाद"
+          "en": "365 days",
+          "hi": "365 दिन"
         }
       ],
       "correctAnswer": 1,
       "explanation": {
-        "en": "The 10th Taiwan-India Industrial Collaboration Summit was hosted in Bengaluru, Karnataka by FICCI and CNFI. The event led to the signing of 6 MoUs in various technology sectors.",
-        "hi": "10वें ताइवान-भारत औद्योगिक सहयोग शिखर सम्मेलन की मेजबानी फिक्की (FICCI) और CNFI द्वारा बेंगलुरु, कर्नाटक में की गई। इस आयोजन के दौरान विभिन्न प्रौद्योगिकी क्षेत्रों में 6 समझौता ज्ञापनों (MoU) पर हस्ताक्षर किए गए।"
-      },
-      "category": "International Summits",
-      "difficulty": "medium",
-      "sourceUrl": "https://affairscloud.com/current-affairs-30-31-august-2026/"
-    },
-    {
-      "id": "ca_20260901_03",
-      "question": {
-        "en": "Under which Act has the Department of Legal Affairs notified the establishment of the 'Mediation Council of India' headquartered in New Delhi?",
-        "hi": "कानूनी मामलों के विभाग ने किस अधिनियम के तहत नई दिल्ली में मुख्यालय वाली 'भारतीय मध्यस्थता परिषद' की स्थापना को अधिसूचित किया है?"
-      },
-      "options": [
-        {
-          "en": "Arbitration and Conciliation Act, 1996",
-          "hi": "मध्यस्थता और सुलह अधिनियम, 1996"
-        },
-        {
-          "en": "Commercial Courts Act, 2015",
-          "hi": "वाणिज्यिक न्यायालय अधिनियम, 2015"
-        },
-        {
-          "en": "Mediation Act, 2023",
-          "hi": "मध्यस्थता अधिनियम, 2023"
-        },
-        {
-          "en": "Legal Services Authorities Act, 1987",
-          "hi": "विधिक सेवा प्राधिकरण अधिनियम, 1987"
-        }
-      ],
-      "correctAnswer": 2,
-      "explanation": {
-        "en": "The Mediation Council of India was established under Section 31 of the Mediation Act, 2023. This statutory body aims to promote domestic and international mediation in India.",
-        "hi": "भारतीय मध्यस्थता परिषद (Mediation Council of India) की स्थापना मध्यस्थता अधिनियम, 2023 की धारा 31 के तहत की गई है। इस वैधानिक निकाय का उद्देश्य भारत में घरेलू और अंतर्राष्ट्रीय मध्यस्थता को बढ़ावा देना है।"
+        "en": "The Legal Metrology (Indian Standard Time) Rules, 2026 mandate IST as the single time reference for official purposes. These rules will come into force 180 days after their publication in the Official Gazette.",
+        "hi": "विधिक माप विज्ञान (भारतीय मानक समय) नियम, 2026 आधिकारिक उद्देश्यों के लिए IST को एकल समय संदर्भ के रूप में अनिवार्य करता है। ये नियम आधिकारिक राजपत्र में प्रकाशन के 180 दिन बाद लागू होंगे।"
       },
       "category": "Polity & Governance",
       "difficulty": "medium",
-      "sourceUrl": "https://affairscloud.com/current-affairs-30-31-august-2026/"
+      "sourceUrl": "https://affairscloud.com/current-affairs-1-september-2026/"
     },
     {
-      "id": "ca_20260901_04",
+      "id": "ca_20260902_02",
       "question": {
-        "en": "Which Indian startup developed 'Gnani Artha', a sovereign AI stack featuring Evon 3.3 and Plexus, recently launched by Vice President C.P. Radhakrishnan?",
-        "hi": "किस भारतीय स्टार्टअप ने 'ज्ञान अर्था' (Gnani Artha) नामक सॉवरेन AI स्टैक विकसित किया है, जिसमें इवोन 3.3 और प्लेक्सस शामिल हैं, जिसे हाल ही में उपराष्ट्रपति सी.पी. राधाकृष्णन द्वारा लॉन्च किया गया?"
-      },
-      "options": [
-        {
-          "en": "Krutrim AI",
-          "hi": "कृत्रिम एआई"
-        },
-        {
-          "en": "GNANI AI",
-          "hi": "ज्ञानी एआई"
-        },
-        {
-          "en": "Sarvam AI",
-          "hi": "सर्वम एआई"
-        },
-        {
-          "en": "Arya.ai",
-          "hi": "आर्या.एआई"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "Bengaluru-based voice AI startup GNANI AI developed 'Gnani Artha', featuring a 30-billion-parameter model Evon v3.3 that supports over 11 Indian languages. It was launched by VP C.P. Radhakrishnan.",
-        "hi": "बेंगलुरु स्थित वॉयस AI स्टार्टअप GNANI AI ने 'ज्ञान अर्था' विकसित किया है, जिसमें 30-बिलियन-पैरामीटर मॉडल Evon v3.3 शामिल है जो 11 से अधिक भारतीय भाषाओं का समर्थन करता है। इसे उपराष्ट्रपति सी.पी. राधाकृष्णन द्वारा लॉन्च किया गया।"
-      },
-      "category": "Science & Technology",
-      "difficulty": "hard",
-      "sourceUrl": "https://affairscloud.com/current-affairs-30-31-august-2026/"
-    },
-    {
-      "id": "ca_20260901_05",
-      "question": {
-        "en": "India formally secured a 'Dialogue Partner' status in the Global Combat Air Program (GCAP). Which of the following countries is NOT a founding member of GCAP?",
-        "hi": "भारत ने औपचारिक रूप से ग्लोबल कॉम्बैट एयर प्रोग्राम (GCAP) में 'डायलॉग पार्टनर' का दर्जा हासिल कर लिया है। निम्नलिखित में से कौन सा देश GCAP का संस्थापक सदस्य नहीं है?"
-      },
-      "options": [
-        {
-          "en": "United Kingdom",
-          "hi": "यूनाइटेड किंगडम"
-        },
-        {
-          "en": "Italy",
-          "hi": "इटली"
-        },
-        {
-          "en": "Japan",
-          "hi": "जापान"
-        },
-        {
-          "en": "France",
-          "hi": "फ्रांस"
-        }
-      ],
-      "correctAnswer": 3,
-      "explanation": {
-        "en": "Launched in 2022, GCAP (also known as Tempest) is a trilateral initiative led by the UK, Italy, and Japan to develop a 6th-generation fighter jet. India has joined as a dialogue partner to explore future air combat technologies.",
-        "hi": "2022 में शुरू किया गया GCAP (जिसे टेम्पेस्ट के नाम से भी जाना जाता है) 6वीं पीढ़ी के लड़ाकू जेट विकसित करने के लिए यूके, इटली और जापान के नेतृत्व में एक त्रिपक्षीय पहल है। भारत भविष्य की हवाई लड़ाकू तकनीकों का पता लगाने के लिए एक वार्ता भागीदार के रूप में शामिल हुआ है।"
-      },
-      "category": "Defence & Security",
-      "difficulty": "medium",
-      "sourceUrl": "https://affairscloud.com/current-affairs-30-31-august-2026/"
-    },
-    {
-      "id": "ca_20260901_06",
-      "question": {
-        "en": "The Department of Administrative Reforms and Public Grievances (DARPG) was selected for the special 'Rajbhasha Utkrishtta Sammaan' 2025–26. When is Hindi Diwas celebrated annually in India?",
-        "hi": "प्रशासनिक सुधार और लोक शिकायत विभाग (DARPG) को विशेष 'राजभाषा उत्कृष्टता सम्मान' 2025-26 के लिए चुना गया। भारत में प्रतिवर्ष हिंदी दिवस कब मनाया जाता है?"
-      },
-      "options": [
-        {
-          "en": "10 January",
-          "hi": "10 जनवरी"
-        },
-        {
-          "en": "14 September",
-          "hi": "14 सितंबर"
-        },
-        {
-          "en": "21 February",
-          "hi": "21 फरवरी"
-        },
-        {
-          "en": "5 June",
-          "hi": "5 जून"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "Hindi Diwas is celebrated annually on 14 September in India to mark the adoption of Hindi as an official language in 1949. DARPG won the award for its excellent implementation of the Official Language.",
-        "hi": "1949 में आधिकारिक भाषा के रूप में हिंदी को अपनाए जाने के उपलक्ष्य में भारत में प्रतिवर्ष 14 सितंबर को हिंदी दिवस मनाया जाता है। DARPG ने राजभाषा के उत्कृष्ट कार्यान्वयन के लिए यह पुरस्कार जीता है।"
-      },
-      "category": "Awards & Honours",
-      "difficulty": "easy",
-      "sourceUrl": "https://affairscloud.com/current-affairs-30-31-august-2026/"
-    },
-    {
-      "id": "ca_20260901_07",
-      "question": {
-        "en": "Who has been appointed as the new Chief Executive Officer (CEO) and Director of TVS Motor Company, effective from January 2027?",
-        "hi": "जनवरी 2027 से टीवीएस मोटर कंपनी (TVS Motor Company) के नए मुख्य कार्यकारी अधिकारी (CEO) और निदेशक के रूप में किसे नियुक्त किया गया है?"
-      },
-      "options": [
-        {
-          "en": "K.N. Radhakrishnan",
-          "hi": "के.एन. राधाकृष्णन"
-        },
-        {
-          "en": "Peyman Kargar",
-          "hi": "पेयमान कारगार"
-        },
-        {
-          "en": "Venu Srinivasan",
-          "hi": "वेणु श्रीनिवासन"
-        },
-        {
-          "en": "Sudarshan Venu",
-          "hi": "सुदर्शन वेणु"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "Peyman Kargar, currently the President of International Business at TVS Motor, has been appointed as the new CEO and Director, succeeding K.N. Radhakrishnan in January 2027.",
-        "hi": "वर्तमान में टीवीएस मोटर में इंटरनेशनल बिजनेस के अध्यक्ष पेयमान कारगार को जनवरी 2027 में के.एन. राधाकृष्णन के स्थान पर नया सीईओ और निदेशक नियुक्त किया गया है।"
-      },
-      "category": "Appointments & Commissions",
-      "difficulty": "medium",
-      "sourceUrl": "https://affairscloud.com/current-affairs-30-31-august-2026/"
-    },
-    {
-      "id": "ca_20260901_08",
-      "question": {
-        "en": "A new subterranean fish species, 'Gangaichthys indonepalicus', was discovered by scientists from ZSI in which state of India?",
-        "hi": "ZSI के वैज्ञानिकों द्वारा भारत के किस राज्य में भूमिगत मछली की एक नई प्रजाति, 'गंगाइचथिस इंडोनेपालिकस' (Gangaichthys indonepalicus) की खोज की गई है?"
+        "en": "Union Minister Rajnath Singh recently laid the foundation for a Rs 472 crore T-72 and T-90 Tank Overhaul Facility in which state?",
+        "hi": "केंद्रीय मंत्री राजनाथ सिंह ने हाल ही में किस राज्य में 472 करोड़ रुपये के टी-72 और टी-90 टैंक ओवरहाल सुविधा (Tank Overhaul Facility) की आधारशिला रखी है?"
       },
       "options": [
         {
@@ -249,92 +51,290 @@
           "hi": "उत्तर प्रदेश"
         },
         {
-          "en": "West Bengal",
-          "hi": "पश्चिम बंगाल"
+          "en": "Maharashtra",
+          "hi": "महाराष्ट्र"
         },
         {
-          "en": "Bihar",
-          "hi": "बिहार"
+          "en": "Madhya Pradesh",
+          "hi": "मध्य प्रदेश"
         },
         {
-          "en": "Assam",
-          "hi": "असम"
+          "en": "Rajasthan",
+          "hi": "राजस्थान"
         }
       ],
       "correctAnswer": 2,
       "explanation": {
-        "en": "Scientists from ZSI discovered 'Gangaichthys indonepalicus', the first subterranean fish recorded from the Gangetic Basin, in Pashchim Champaran district of Bihar, near the Nepal border.",
-        "hi": "ZSI के वैज्ञानिकों ने नेपाल सीमा के पास बिहार के पश्चिम चंपारण जिले में गंगा बेसिन से दर्ज की गई पहली भूमिगत मछली 'गंगाइचथिस इंडोनेपालिकस' की खोज की है।"
+        "en": "Union Defence Minister Rajnath Singh laid the foundation for a T-72 and T-90 Tank Overhaul Facility at Vehicle Factory Jabalpur, Madhya Pradesh. It will have an annual capacity to overhaul 80 tanks.",
+        "hi": "केंद्रीय रक्षा मंत्री राजनाथ सिंह ने मध्य प्रदेश के जबलपुर में व्हीकल फैक्ट्री में T-72 और T-90 टैंक ओवरहाल सुविधा की आधारशिला रखी। इसकी वार्षिक क्षमता 80 टैंकों को ओवरहाल करने की होगी।"
       },
-      "category": "Environment & Ecology",
-      "difficulty": "hard",
-      "sourceUrl": "https://affairscloud.com/current-affairs-30-31-august-2026/"
+      "category": "Defence & Security",
+      "difficulty": "medium",
+      "sourceUrl": "https://affairscloud.com/current-affairs-1-september-2026/"
     },
     {
-      "id": "ca_20260901_09",
+      "id": "ca_20260902_03",
       "question": {
-        "en": "The United Nations International Day Against Nuclear Tests is annually observed globally on which date?",
-        "hi": "संयुक्त राष्ट्र का 'परमाणु परीक्षणों के विरुद्ध अंतर्राष्ट्रीय दिवस' विश्व स्तर पर प्रतिवर्ष किस तिथि को मनाया जाता है?"
+        "en": "Which company signed an MoU with the Javelin Joint Venture (JJV) for the co-production of the Javelin Anti-Tank Missile System in India?",
+        "hi": "किस कंपनी ने भारत में जेवलिन एंटी-टैंक मिसाइल सिस्टम के सह-उत्पादन के लिए जेवलिन जॉइंट वेंचर (JJV) के साथ समझौता ज्ञापन पर हस्ताक्षर किए हैं?"
       },
       "options": [
         {
-          "en": "6 August",
-          "hi": "6 अगस्त"
+          "en": "Hindustan Aeronautics Limited (HAL)",
+          "hi": "हिंदुस्तान एयरोनॉटिक्स लिमिटेड (HAL)"
         },
         {
-          "en": "9 August",
-          "hi": "9 अगस्त"
+          "en": "Bharat Dynamics Limited (BDL)",
+          "hi": "भारत डायनेमिक्स लिमिटेड (BDL)"
         },
+        {
+          "en": "Tata Advanced Systems Limited (TASL)",
+          "hi": "टाटा एडवांस्ड सिस्टम्स लिमिटेड (TASL)"
+        },
+        {
+          "en": "Larsen & Toubro (L&T)",
+          "hi": "लार्सन एंड टुब्रो (L&T)"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Tata Advanced Systems Limited (TASL) signed an MoU with the Javelin Joint Venture (Raytheon and Lockheed Martin) to explore co-production of the Javelin anti-tank guided missile system in India.",
+        "hi": "टाटा एडवांस्ड सिस्टम्स लिमिटेड (TASL) ने भारत में जेवलिन एंटी-टैंक गाइडेड मिसाइल सिस्टम के सह-उत्पादन की संभावनाएं तलाशने के लिए जेवलिन जॉइंट वेंचर (रेथियॉन और लॉकहीड मार्टिन) के साथ एक समझौता ज्ञापन पर हस्ताक्षर किए।"
+      },
+      "category": "Science & Technology",
+      "difficulty": "easy",
+      "sourceUrl": "https://affairscloud.com/current-affairs-1-september-2026/"
+    },
+    {
+      "id": "ca_20260902_04",
+      "question": {
+        "en": "Who has been named the 'Indian Footballer of the Year 2026' at the FPAI Indian Football Awards?",
+        "hi": "FPAI इंडियन फुटबॉल अवार्ड्स में किसे 'इंडियन फुटबॉलर ऑफ द ईयर 2026' नामित किया गया है?"
+      },
+      "options": [
+        {
+          "en": "Sunil Chhetri",
+          "hi": "सुनील छेत्री"
+        },
+        {
+          "en": "Lallianzuala Chhangte",
+          "hi": "लल्लियांजुआला छांगटे"
+        },
+        {
+          "en": "Gurpreet Singh Sandhu",
+          "hi": "गुरप्रीत सिंह संधू"
+        },
+        {
+          "en": "Sanan Mohammed K.",
+          "hi": "सनन मोहम्मद के."
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Mizoram’s Lallianzuala Chhangte was named the Indian Footballer of the Year 2026 at the FPAI awards, while Manisha Kalyan won the Indian Women’s Player of the Year award.",
+        "hi": "मिजोरम के लल्लियांजुआला छांगटे को FPAI पुरस्कारों में इंडियन फुटबॉलर ऑफ द ईयर 2026 नामित किया गया, जबकि मनीषा कल्याण ने इंडियन विमेंस प्लेयर ऑफ द ईयर का पुरस्कार जीता।"
+      },
+      "category": "Awards & Honours",
+      "difficulty": "easy",
+      "sourceUrl": "https://affairscloud.com/current-affairs-1-september-2026/"
+    },
+    {
+      "id": "ca_20260902_05",
+      "question": {
+        "en": "Which rocket was used by NASA to launch the USD 4.3 billion 'Nancy Grace Roman Space Telescope'?",
+        "hi": "4.3 बिलियन अमेरिकी डॉलर के 'नैन्सी ग्रेस रोमन स्पेस टेलीस्कोप' (Nancy Grace Roman Space Telescope) को लॉन्च करने के लिए NASA द्वारा किस रॉकेट का उपयोग किया गया?"
+      },
+      "options": [
+        {
+          "en": "Atlas V",
+          "hi": "एटलस V"
+        },
+        {
+          "en": "Falcon 9",
+          "hi": "फाल्कन 9"
+        },
+        {
+          "en": "Falcon Heavy",
+          "hi": "फाल्कन हेवी"
+        },
+        {
+          "en": "Ariane 5",
+          "hi": "एरियन 5"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "NASA launched the Nancy Grace Roman Space Telescope aboard SpaceX’s Falcon Heavy rocket. It is NASA’s first space telescope named after a woman and aims to explore the universe's biggest mysteries.",
+        "hi": "NASA ने स्पेसएक्स के फाल्कन हेवी रॉकेट से नैन्सी ग्रेस रोमन स्पेस टेलीस्कोप लॉन्च किया। यह एक महिला के नाम पर रखा गया NASA का पहला स्पेस टेलीस्कोप है और इसका उद्देश्य ब्रह्मांड के सबसे बड़े रहस्यों का पता लगाना है।"
+      },
+      "category": "Science & Technology",
+      "difficulty": "medium",
+      "sourceUrl": "https://affairscloud.com/current-affairs-1-september-2026/"
+    },
+    {
+      "id": "ca_20260902_06",
+      "question": {
+        "en": "The Indian Navy recently commissioned its second indigenous Diving Support Vessel. What is the name of this vessel?",
+        "hi": "भारतीय नौसेना ने हाल ही में अपने दूसरे स्वदेशी डाइविंग सपोर्ट वेसल (Diving Support Vessel) को कमीशन किया है। इस पोत का नाम क्या है?"
+      },
+      "options": [
+        {
+          "en": "Nistar",
+          "hi": "निस्तार"
+        },
+        {
+          "en": "Nipun",
+          "hi": "निपुण"
+        },
+        {
+          "en": "Nirbhik",
+          "hi": "निर्भीक"
+        },
+        {
+          "en": "Nishant",
+          "hi": "निशांत"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The Indian Navy commissioned 'Nipun', its second indigenous Diving Support Vessel built by Hindustan Shipyard Limited. It supports saturation diving up to 300 metres and acts as a mother ship for DSRV.",
+        "hi": "भारतीय नौसेना ने हिंदुस्तान शिपयार्ड लिमिटेड द्वारा निर्मित अपना दूसरा स्वदेशी डाइविंग सपोर्ट वेसल 'निपुण' कमीशन किया। यह 300 मीटर तक सैचुरेशन डाइविंग का समर्थन करता है और DSRV के लिए मदर शिप के रूप में कार्य करता है।"
+      },
+      "category": "Defence & Security",
+      "difficulty": "medium",
+      "sourceUrl": "https://affairscloud.com/current-affairs-1-september-2026/"
+    },
+    {
+      "id": "ca_20260902_07",
+      "question": {
+        "en": "Who has been elected as the President of the Esports Games Federation (ESGF) in India?",
+        "hi": "भारत में ईस्पोर्ट्स गेम्स फेडरेशन (ESGF) के अध्यक्ष के रूप में किसे चुना गया है?"
+      },
+      "options": [
+        {
+          "en": "Nandan Jha",
+          "hi": "नंदन झा"
+        },
+        {
+          "en": "Ashok Dhyanchand",
+          "hi": "अशोक ध्यानचंद"
+        },
+        {
+          "en": "Ashish Shelar",
+          "hi": "आशीष शेलार"
+        },
+        {
+          "en": "Kiren Rijiju",
+          "hi": "किरेन रिजिजू"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Ashish Shelar, Maharashtra Minister for IT and AI Development, has been elected as the President of the Esports Games Federation (ESGF).",
+        "hi": "महाराष्ट्र के आईटी और एआई विकास मंत्री आशीष शेलार को ईस्पोर्ट्स गेम्स फेडरेशन (ESGF) का अध्यक्ष चुना गया है।"
+      },
+      "category": "Appointments & Commissions",
+      "difficulty": "easy",
+      "sourceUrl": "https://affairscloud.com/current-affairs-1-september-2026/"
+    },
+    {
+      "id": "ca_20260902_08",
+      "question": {
+        "en": "Under which scheme did the Sports Authority of India (SAI), BAI, and SAA sign a tripartite pact to set up North East India’s first Swimming NCoE in Assam?",
+        "hi": "किस योजना के तहत भारतीय खेल प्राधिकरण (SAI), BAI और SAA ने असम में पूर्वोत्तर भारत का पहला तैराकी NCoE स्थापित करने के लिए एक त्रिपक्षीय समझौते पर हस्ताक्षर किए?"
+      },
+      "options": [
+        {
+          "en": "Target Olympic Podium Scheme (TOPS)",
+          "hi": "टारगेट ओलंपिक पोडियम स्कीम (TOPS)"
+        },
+        {
+          "en": "Khelo India Scheme",
+          "hi": "खेलो इंडिया योजना"
+        },
+        {
+          "en": "Fit India Movement",
+          "hi": "फिट इंडिया मूवमेंट"
+        },
+        {
+          "en": "National Centre of Excellence (NCoE) initiative",
+          "hi": "राष्ट्रीय उत्कृष्टता केंद्र (NCoE) पहल"
+        }
+      ],
+      "correctAnswer": 3,
+      "explanation": {
+        "en": "SAI, Badminton Association of India (BAI) and Sports Authority of Assam (SAA) signed an agreement to establish a National Centre of Excellence (NCoE) for Swimming at Amingaon Sports Complex in Assam, the first such NCoE in the North East region.",
+        "hi": "SAI, भारतीय बैडमिंटन संघ (BAI) और असम खेल प्राधिकरण (SAA) ने असम के अमीनगांव खेल परिसर में तैराकी के लिए राष्ट्रीय उत्कृष्टता केंद्र (NCoE) स्थापित करने के लिए एक समझौते पर हस्ताक्षर किए, जो पूर्वोत्तर क्षेत्र में ऐसा पहला NCoE है।"
+      },
+      "category": "Sports",
+      "difficulty": "hard",
+      "sourceUrl": "https://affairscloud.com/current-affairs-1-september-2026/"
+    },
+    {
+      "id": "ca_20260902_09",
+      "question": {
+        "en": "The United Nations International Day of the Victims of Enforced Disappearances is observed globally on which date?",
+        "hi": "संयुक्त राष्ट्र का 'जबर्दस्ती गुम किए गए पीड़ितों का अंतर्राष्ट्रीय दिवस' (International Day of the Victims of Enforced Disappearances) विश्व स्तर पर किस तिथि को मनाया जाता है?"
+      },
+      "options": [
         {
           "en": "29 August",
           "hi": "29 अगस्त"
         },
         {
-          "en": "24 September",
-          "hi": "24 सितंबर"
+          "en": "30 August",
+          "hi": "30 अगस्त"
+        },
+        {
+          "en": "1 September",
+          "hi": "1 सितंबर"
+        },
+        {
+          "en": "21 December",
+          "hi": "21 दिसंबर"
         }
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 1,
       "explanation": {
-        "en": "The International Day Against Nuclear Tests is observed on 29 August. It marks the closure of the Semipalatinsk Nuclear Test Site in Kazakhstan on 29 August 1991.",
-        "hi": "परमाणु परीक्षणों के विरुद्ध अंतर्राष्ट्रीय दिवस 29 अगस्त को मनाया जाता है। यह 29 अगस्त 1991 को कजाकिस्तान में सेमीपालाटिंस्क परमाणु परीक्षण स्थल के बंद होने का प्रतीक है।"
+        "en": "The UN observes the International Day of the Victims of Enforced Disappearances annually on 30 August to advocate for justice and accountability. 2026 marks the 20th anniversary of the UN convention on this issue.",
+        "hi": "संयुक्त राष्ट्र न्याय और जवाबदेही की वकालत करने के लिए प्रतिवर्ष 30 अगस्त को जबर्दस्ती गुम किए गए पीड़ितों का अंतर्राष्ट्रीय दिवस मनाता है। 2026 में इस मुद्दे पर संयुक्त राष्ट्र कन्वेंशन की 20वीं वर्षगांठ है।"
       },
       "category": "Important Days & Themes",
-      "difficulty": "easy",
-      "sourceUrl": "https://affairscloud.com/current-affairs-30-31-august-2026/"
+      "difficulty": "medium",
+      "sourceUrl": "https://affairscloud.com/current-affairs-1-september-2026/"
     },
     {
-      "id": "ca_20260901_10",
+      "id": "ca_20260902_10",
       "question": {
-        "en": "Crown Prince Haakon recently became the new King of which country as King Haakon VIII?",
-        "hi": "क्राउन प्रिंस हाकोन हाल ही में राजा हाकोन VIII के रूप में किस देश के नए राजा बने हैं?"
+        "en": "Oil India Limited (OIL) Green Energy signed MoUs with four municipalities to develop Waste-to-Clean Energy projects in which state?",
+        "hi": "ऑयल इंडिया लिमिटेड (OIL) ग्रीन एनर्जी ने किस राज्य में अपशिष्ट-से-स्वच्छ ऊर्जा (Waste-to-Clean Energy) परियोजनाओं को विकसित करने के लिए चार नगर पालिकाओं के साथ समझौता ज्ञापनों पर हस्ताक्षर किए?"
       },
       "options": [
         {
-          "en": "Sweden",
-          "hi": "स्वीडन"
+          "en": "Punjab",
+          "hi": "पंजाब"
         },
         {
-          "en": "Denmark",
-          "hi": "डेनमार्क"
+          "en": "Uttar Pradesh",
+          "hi": "उत्तर प्रदेश"
         },
         {
-          "en": "Norway",
-          "hi": "नॉर्वे"
+          "en": "Haryana",
+          "hi": "हरियाणा"
         },
         {
-          "en": "Netherlands",
-          "hi": "नीदरलैंड"
+          "en": "Gujarat",
+          "hi": "गुजरात"
         }
       ],
       "correctAnswer": 2,
       "explanation": {
-        "en": "Crown Prince Haakon became King Haakon VIII of Norway following the death of his father King Harald V. The King of Norway also serves as the Supreme Commander of the Norwegian Armed Forces.",
-        "hi": "क्राउन प्रिंस हाकोन अपने पिता किंग हेराल्ड V के निधन के बाद नॉर्वे के राजा हाकोन VIII बन गए हैं। नॉर्वे का राजा नॉर्वेजियन सशस्त्र बलों के सर्वोच्च कमांडर के रूप में भी कार्य करता है।"
+        "en": "OIL Green Energy signed MoUs with four municipalities in Haryana (Gurugram, Faridabad, Hisar, and Ambala) to develop integrated Compressed Biogas and Waste-to-Energy projects aligned with the GOBARdhan scheme.",
+        "hi": "ऑयल (OIL) ग्रीन एनर्जी ने गोवर्धन (GOBARdhan) योजना के अनुरूप संपीड़ित बायोगैस और अपशिष्ट-से-ऊर्जा परियोजनाओं को विकसित करने के लिए हरियाणा की चार नगर पालिकाओं (गुरुग्राम, फरीदाबाद, हिसार और अंबाला) के साथ समझौता ज्ञापनों पर हस्ताक्षर किए।"
       },
-      "category": "Appointments & Commissions",
-      "difficulty": "medium",
-      "sourceUrl": "https://affairscloud.com/current-affairs-30-31-august-2026/"
+      "category": "Environment & Ecology",
+      "difficulty": "hard",
+      "sourceUrl": "https://affairscloud.com/current-affairs-1-september-2026/"
     }
   ]
 }

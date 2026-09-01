@@ -1,0 +1,340 @@
+{
+  "date": "2026-09-01",
+  "topic": "SSC CGL Daily Current Affairs",
+  "source": "PIB / The Hindu / Economic Times / Indian Express / GKToday",
+  "lastUpdated": "2026-09-01T06:00:00+05:30",
+  "version": 1,
+  "totalQuestions": 10,
+  "quiz": [
+    {
+      "id": "ca_20260901_01",
+      "question": {
+        "en": "Recently, the Indian Army signed a USD 93 million deal with which country to procure FGM-148 Javelin Anti-Tank Guided Missiles (ATGM)?",
+        "hi": "हाल ही में, भारतीय सेना ने एफजीएम-148 जैवलिन एंटी-टैंक गाइडेड मिसाइल (ATGM) की खरीद के लिए किस देश के साथ 93 मिलियन अमेरिकी डॉलर के समझौते पर हस्ताक्षर किए हैं?"
+      },
+      "options": [
+        {
+          "en": "France",
+          "hi": "फ्रांस"
+        },
+        {
+          "en": "Russia",
+          "hi": "रूस"
+        },
+        {
+          "en": "USA",
+          "hi": "संयुक्त राज्य अमेरिका"
+        },
+        {
+          "en": "Israel",
+          "hi": "इजराइल"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The Indian Army signed a USD 93 million deal with the USA to procure around 100 FGM-148 Javelin ATGM systems. The Javelin is a fire-and-forget missile, manufactured by a joint venture of RTX Corporation and Lockheed Martin.",
+        "hi": "भारतीय सेना ने लगभग 100 FGM-148 जैवलिन ATGM सिस्टम की खरीद के लिए अमेरिका के साथ 93 मिलियन अमेरिकी डॉलर के समझौते पर हस्ताक्षर किए हैं। जैवलिन एक 'फायर-एंड-फॉरगेट' मिसाइल है, जिसे RTX कॉर्पोरेशन और लॉकहीड मार्टिन के संयुक्त उद्यम द्वारा निर्मित किया गया है।"
+      },
+      "category": "Defence & Security",
+      "difficulty": "easy",
+      "sourceUrl": "https://affairscloud.com/current-affairs-30-31-august-2026/"
+    },
+    {
+      "id": "ca_20260901_02",
+      "question": {
+        "en": "Where was the 10th edition of the Taiwan-India Industrial Collaboration Summit hosted by FICCI and CNFI?",
+        "hi": "FICCI और CNFI द्वारा ताइवान-भारत औद्योगिक सहयोग शिखर सम्मेलन के 10वें संस्करण की मेजबानी कहाँ की गई थी?"
+      },
+      "options": [
+        {
+          "en": "New Delhi",
+          "hi": "नई दिल्ली"
+        },
+        {
+          "en": "Bengaluru",
+          "hi": "बेंगलुरु"
+        },
+        {
+          "en": "Mumbai",
+          "hi": "मुंबई"
+        },
+        {
+          "en": "Hyderabad",
+          "hi": "हैदराबाद"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The 10th Taiwan-India Industrial Collaboration Summit was hosted in Bengaluru, Karnataka by FICCI and CNFI. The event led to the signing of 6 MoUs in various technology sectors.",
+        "hi": "10वें ताइवान-भारत औद्योगिक सहयोग शिखर सम्मेलन की मेजबानी फिक्की (FICCI) और CNFI द्वारा बेंगलुरु, कर्नाटक में की गई। इस आयोजन के दौरान विभिन्न प्रौद्योगिकी क्षेत्रों में 6 समझौता ज्ञापनों (MoU) पर हस्ताक्षर किए गए।"
+      },
+      "category": "International Summits",
+      "difficulty": "medium",
+      "sourceUrl": "https://affairscloud.com/current-affairs-30-31-august-2026/"
+    },
+    {
+      "id": "ca_20260901_03",
+      "question": {
+        "en": "Under which Act has the Department of Legal Affairs notified the establishment of the 'Mediation Council of India' headquartered in New Delhi?",
+        "hi": "कानूनी मामलों के विभाग ने किस अधिनियम के तहत नई दिल्ली में मुख्यालय वाली 'भारतीय मध्यस्थता परिषद' की स्थापना को अधिसूचित किया है?"
+      },
+      "options": [
+        {
+          "en": "Arbitration and Conciliation Act, 1996",
+          "hi": "मध्यस्थता और सुलह अधिनियम, 1996"
+        },
+        {
+          "en": "Commercial Courts Act, 2015",
+          "hi": "वाणिज्यिक न्यायालय अधिनियम, 2015"
+        },
+        {
+          "en": "Mediation Act, 2023",
+          "hi": "मध्यस्थता अधिनियम, 2023"
+        },
+        {
+          "en": "Legal Services Authorities Act, 1987",
+          "hi": "विधिक सेवा प्राधिकरण अधिनियम, 1987"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The Mediation Council of India was established under Section 31 of the Mediation Act, 2023. This statutory body aims to promote domestic and international mediation in India.",
+        "hi": "भारतीय मध्यस्थता परिषद (Mediation Council of India) की स्थापना मध्यस्थता अधिनियम, 2023 की धारा 31 के तहत की गई है। इस वैधानिक निकाय का उद्देश्य भारत में घरेलू और अंतर्राष्ट्रीय मध्यस्थता को बढ़ावा देना है।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "medium",
+      "sourceUrl": "https://affairscloud.com/current-affairs-30-31-august-2026/"
+    },
+    {
+      "id": "ca_20260901_04",
+      "question": {
+        "en": "Which Indian startup developed 'Gnani Artha', a sovereign AI stack featuring Evon 3.3 and Plexus, recently launched by Vice President C.P. Radhakrishnan?",
+        "hi": "किस भारतीय स्टार्टअप ने 'ज्ञान अर्था' (Gnani Artha) नामक सॉवरेन AI स्टैक विकसित किया है, जिसमें इवोन 3.3 और प्लेक्सस शामिल हैं, जिसे हाल ही में उपराष्ट्रपति सी.पी. राधाकृष्णन द्वारा लॉन्च किया गया?"
+      },
+      "options": [
+        {
+          "en": "Krutrim AI",
+          "hi": "कृत्रिम एआई"
+        },
+        {
+          "en": "GNANI AI",
+          "hi": "ज्ञानी एआई"
+        },
+        {
+          "en": "Sarvam AI",
+          "hi": "सर्वम एआई"
+        },
+        {
+          "en": "Arya.ai",
+          "hi": "आर्या.एआई"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Bengaluru-based voice AI startup GNANI AI developed 'Gnani Artha', featuring a 30-billion-parameter model Evon v3.3 that supports over 11 Indian languages. It was launched by VP C.P. Radhakrishnan.",
+        "hi": "बेंगलुरु स्थित वॉयस AI स्टार्टअप GNANI AI ने 'ज्ञान अर्था' विकसित किया है, जिसमें 30-बिलियन-पैरामीटर मॉडल Evon v3.3 शामिल है जो 11 से अधिक भारतीय भाषाओं का समर्थन करता है। इसे उपराष्ट्रपति सी.पी. राधाकृष्णन द्वारा लॉन्च किया गया।"
+      },
+      "category": "Science & Technology",
+      "difficulty": "hard",
+      "sourceUrl": "https://affairscloud.com/current-affairs-30-31-august-2026/"
+    },
+    {
+      "id": "ca_20260901_05",
+      "question": {
+        "en": "India formally secured a 'Dialogue Partner' status in the Global Combat Air Program (GCAP). Which of the following countries is NOT a founding member of GCAP?",
+        "hi": "भारत ने औपचारिक रूप से ग्लोबल कॉम्बैट एयर प्रोग्राम (GCAP) में 'डायलॉग पार्टनर' का दर्जा हासिल कर लिया है। निम्नलिखित में से कौन सा देश GCAP का संस्थापक सदस्य नहीं है?"
+      },
+      "options": [
+        {
+          "en": "United Kingdom",
+          "hi": "यूनाइटेड किंगडम"
+        },
+        {
+          "en": "Italy",
+          "hi": "इटली"
+        },
+        {
+          "en": "Japan",
+          "hi": "जापान"
+        },
+        {
+          "en": "France",
+          "hi": "फ्रांस"
+        }
+      ],
+      "correctAnswer": 3,
+      "explanation": {
+        "en": "Launched in 2022, GCAP (also known as Tempest) is a trilateral initiative led by the UK, Italy, and Japan to develop a 6th-generation fighter jet. India has joined as a dialogue partner to explore future air combat technologies.",
+        "hi": "2022 में शुरू किया गया GCAP (जिसे टेम्पेस्ट के नाम से भी जाना जाता है) 6वीं पीढ़ी के लड़ाकू जेट विकसित करने के लिए यूके, इटली और जापान के नेतृत्व में एक त्रिपक्षीय पहल है। भारत भविष्य की हवाई लड़ाकू तकनीकों का पता लगाने के लिए एक वार्ता भागीदार के रूप में शामिल हुआ है।"
+      },
+      "category": "Defence & Security",
+      "difficulty": "medium",
+      "sourceUrl": "https://affairscloud.com/current-affairs-30-31-august-2026/"
+    },
+    {
+      "id": "ca_20260901_06",
+      "question": {
+        "en": "The Department of Administrative Reforms and Public Grievances (DARPG) was selected for the special 'Rajbhasha Utkrishtta Sammaan' 2025–26. When is Hindi Diwas celebrated annually in India?",
+        "hi": "प्रशासनिक सुधार और लोक शिकायत विभाग (DARPG) को विशेष 'राजभाषा उत्कृष्टता सम्मान' 2025-26 के लिए चुना गया। भारत में प्रतिवर्ष हिंदी दिवस कब मनाया जाता है?"
+      },
+      "options": [
+        {
+          "en": "10 January",
+          "hi": "10 जनवरी"
+        },
+        {
+          "en": "14 September",
+          "hi": "14 सितंबर"
+        },
+        {
+          "en": "21 February",
+          "hi": "21 फरवरी"
+        },
+        {
+          "en": "5 June",
+          "hi": "5 जून"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Hindi Diwas is celebrated annually on 14 September in India to mark the adoption of Hindi as an official language in 1949. DARPG won the award for its excellent implementation of the Official Language.",
+        "hi": "1949 में आधिकारिक भाषा के रूप में हिंदी को अपनाए जाने के उपलक्ष्य में भारत में प्रतिवर्ष 14 सितंबर को हिंदी दिवस मनाया जाता है। DARPG ने राजभाषा के उत्कृष्ट कार्यान्वयन के लिए यह पुरस्कार जीता है।"
+      },
+      "category": "Awards & Honours",
+      "difficulty": "easy",
+      "sourceUrl": "https://affairscloud.com/current-affairs-30-31-august-2026/"
+    },
+    {
+      "id": "ca_20260901_07",
+      "question": {
+        "en": "Who has been appointed as the new Chief Executive Officer (CEO) and Director of TVS Motor Company, effective from January 2027?",
+        "hi": "जनवरी 2027 से टीवीएस मोटर कंपनी (TVS Motor Company) के नए मुख्य कार्यकारी अधिकारी (CEO) और निदेशक के रूप में किसे नियुक्त किया गया है?"
+      },
+      "options": [
+        {
+          "en": "K.N. Radhakrishnan",
+          "hi": "के.एन. राधाकृष्णन"
+        },
+        {
+          "en": "Peyman Kargar",
+          "hi": "पेयमान कारगार"
+        },
+        {
+          "en": "Venu Srinivasan",
+          "hi": "वेणु श्रीनिवासन"
+        },
+        {
+          "en": "Sudarshan Venu",
+          "hi": "सुदर्शन वेणु"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Peyman Kargar, currently the President of International Business at TVS Motor, has been appointed as the new CEO and Director, succeeding K.N. Radhakrishnan in January 2027.",
+        "hi": "वर्तमान में टीवीएस मोटर में इंटरनेशनल बिजनेस के अध्यक्ष पेयमान कारगार को जनवरी 2027 में के.एन. राधाकृष्णन के स्थान पर नया सीईओ और निदेशक नियुक्त किया गया है।"
+      },
+      "category": "Appointments & Commissions",
+      "difficulty": "medium",
+      "sourceUrl": "https://affairscloud.com/current-affairs-30-31-august-2026/"
+    },
+    {
+      "id": "ca_20260901_08",
+      "question": {
+        "en": "A new subterranean fish species, 'Gangaichthys indonepalicus', was discovered by scientists from ZSI in which state of India?",
+        "hi": "ZSI के वैज्ञानिकों द्वारा भारत के किस राज्य में भूमिगत मछली की एक नई प्रजाति, 'गंगाइचथिस इंडोनेपालिकस' (Gangaichthys indonepalicus) की खोज की गई है?"
+      },
+      "options": [
+        {
+          "en": "Uttar Pradesh",
+          "hi": "उत्तर प्रदेश"
+        },
+        {
+          "en": "West Bengal",
+          "hi": "पश्चिम बंगाल"
+        },
+        {
+          "en": "Bihar",
+          "hi": "बिहार"
+        },
+        {
+          "en": "Assam",
+          "hi": "असम"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Scientists from ZSI discovered 'Gangaichthys indonepalicus', the first subterranean fish recorded from the Gangetic Basin, in Pashchim Champaran district of Bihar, near the Nepal border.",
+        "hi": "ZSI के वैज्ञानिकों ने नेपाल सीमा के पास बिहार के पश्चिम चंपारण जिले में गंगा बेसिन से दर्ज की गई पहली भूमिगत मछली 'गंगाइचथिस इंडोनेपालिकस' की खोज की है।"
+      },
+      "category": "Environment & Ecology",
+      "difficulty": "hard",
+      "sourceUrl": "https://affairscloud.com/current-affairs-30-31-august-2026/"
+    },
+    {
+      "id": "ca_20260901_09",
+      "question": {
+        "en": "The United Nations International Day Against Nuclear Tests is annually observed globally on which date?",
+        "hi": "संयुक्त राष्ट्र का 'परमाणु परीक्षणों के विरुद्ध अंतर्राष्ट्रीय दिवस' विश्व स्तर पर प्रतिवर्ष किस तिथि को मनाया जाता है?"
+      },
+      "options": [
+        {
+          "en": "6 August",
+          "hi": "6 अगस्त"
+        },
+        {
+          "en": "9 August",
+          "hi": "9 अगस्त"
+        },
+        {
+          "en": "29 August",
+          "hi": "29 अगस्त"
+        },
+        {
+          "en": "24 September",
+          "hi": "24 सितंबर"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The International Day Against Nuclear Tests is observed on 29 August. It marks the closure of the Semipalatinsk Nuclear Test Site in Kazakhstan on 29 August 1991.",
+        "hi": "परमाणु परीक्षणों के विरुद्ध अंतर्राष्ट्रीय दिवस 29 अगस्त को मनाया जाता है। यह 29 अगस्त 1991 को कजाकिस्तान में सेमीपालाटिंस्क परमाणु परीक्षण स्थल के बंद होने का प्रतीक है।"
+      },
+      "category": "Important Days & Themes",
+      "difficulty": "easy",
+      "sourceUrl": "https://affairscloud.com/current-affairs-30-31-august-2026/"
+    },
+    {
+      "id": "ca_20260901_10",
+      "question": {
+        "en": "Crown Prince Haakon recently became the new King of which country as King Haakon VIII?",
+        "hi": "क्राउन प्रिंस हाकोन हाल ही में राजा हाकोन VIII के रूप में किस देश के नए राजा बने हैं?"
+      },
+      "options": [
+        {
+          "en": "Sweden",
+          "hi": "स्वीडन"
+        },
+        {
+          "en": "Denmark",
+          "hi": "डेनमार्क"
+        },
+        {
+          "en": "Norway",
+          "hi": "नॉर्वे"
+        },
+        {
+          "en": "Netherlands",
+          "hi": "नीदरलैंड"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Crown Prince Haakon became King Haakon VIII of Norway following the death of his father King Harald V. The King of Norway also serves as the Supreme Commander of the Norwegian Armed Forces.",
+        "hi": "क्राउन प्रिंस हाकोन अपने पिता किंग हेराल्ड V के निधन के बाद नॉर्वे के राजा हाकोन VIII बन गए हैं। नॉर्वे का राजा नॉर्वेजियन सशस्त्र बलों के सर्वोच्च कमांडर के रूप में भी कार्य करता है।"
+      },
+      "category": "Appointments & Commissions",
+      "difficulty": "medium",
+      "sourceUrl": "https://affairscloud.com/current-affairs-30-31-august-2026/"
+    }
+  ]
+}
