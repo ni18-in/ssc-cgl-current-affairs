@@ -1,0 +1,340 @@
+{
+  "date": "2026-09-04",
+  "topic": "SSC CGL Daily Current Affairs",
+  "source": "NEXT IAS / PMF IAS / GKToday",
+  "lastUpdated": "2026-09-04T06:00:00+05:30",
+  "version": 1,
+  "totalQuestions": 10,
+  "quiz": [
+    {
+      "id": "ca_20260904_01",
+      "question": {
+        "en": "India and which country recently reviewed bilateral cooperation in energy security and electrification, marking 75 years of diplomatic relations in 2026?",
+        "hi": "भारत और किस देश ने हाल ही में ऊर्जा सुरक्षा और विद्युतीकरण में द्विपक्षीय सहयोग की समीक्षा की, जो 2026 में राजनयिक संबंधों के 75 वर्ष पूरे होने का प्रतीक है?"
+      },
+      "options": [
+        {
+          "en": "France",
+          "hi": "फ्रांस"
+        },
+        {
+          "en": "Germany",
+          "hi": "जर्मनी"
+        },
+        {
+          "en": "Japan",
+          "hi": "जापान"
+        },
+        {
+          "en": "Russia",
+          "hi": "रूस"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "India and Germany recently reviewed bilateral cooperation in energy security, electrification, and low-carbon development. In 2026, the two countries mark 75 years of diplomatic relations and 25 years of their Strategic Partnership.",
+        "hi": "भारत और जर्मनी ने हाल ही में ऊर्जा सुरक्षा, विद्युतीकरण और निम्न-कार्बन विकास में द्विपक्षीय सहयोग की समीक्षा की। 2026 में, दोनों देश अपने राजनयिक संबंधों के 75 साल और अपनी रणनीतिक साझेदारी के 25 साल पूरे कर रहे हैं।"
+      },
+      "category": "International Summits",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.nextias.com/ca/current-affairs/03-09-2026"
+    },
+    {
+      "id": "ca_20260904_02",
+      "question": {
+        "en": "India's medical devices market is projected to grow to what value by 2030, according to recent estimates?",
+        "hi": "हालिया अनुमानों के अनुसार, भारत का चिकित्सा उपकरण बाजार 2030 तक किस मूल्य तक बढ़ने का अनुमान है?"
+      },
+      "options": [
+        {
+          "en": "US$ 25.1 billion",
+          "hi": "US$ 25.1 बिलियन"
+        },
+        {
+          "en": "US$ 30.5 billion",
+          "hi": "US$ 30.5 बिलियन"
+        },
+        {
+          "en": "US$ 40.2 billion",
+          "hi": "US$ 40.2 बिलियन"
+        },
+        {
+          "en": "US$ 50.1 billion",
+          "hi": "US$ 50.1 बिलियन"
+        }
+      ],
+      "correctAnswer": 3,
+      "explanation": {
+        "en": "India's medical devices market is projected to grow steadily from US$ 15.2 billion in 2025 to US$ 50.1 billion by 2030, supporting the country's expanding healthcare ecosystem.",
+        "hi": "भारत का चिकित्सा उपकरण बाजार 2025 में US$ 15.2 बिलियन से लगातार बढ़कर 2030 तक US$ 50.1 बिलियन होने का अनुमान है, जो देश के विस्तार वाले स्वास्थ्य सेवा पारिस्थितिकी तंत्र का समर्थन करता है।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "hard",
+      "sourceUrl": "https://www.nextias.com/ca/current-affairs/03-09-2026"
+    },
+    {
+      "id": "ca_20260904_03",
+      "question": {
+        "en": "According to the UNEP 'Limiting Overshoot' report, what is the 'Overshoot' pathway?",
+        "hi": "UNEP की 'लिमिटिंग ओवरशूट' रिपोर्ट के अनुसार, 'ओवरशूट' मार्ग क्या है?"
+      },
+      "options": [
+        {
+          "en": "Global average temperature temporarily rises above 1.5°C above pre-industrial levels.",
+          "hi": "वैश्विक औसत तापमान अस्थायी रूप से पूर्व-औद्योगिक स्तरों से 1.5°C से ऊपर बढ़ जाता है।"
+        },
+        {
+          "en": "Global average temperature permanently drops below 1.5°C.",
+          "hi": "वैश्विक औसत तापमान स्थायी रूप से 1.5°C से नीचे गिर जाता है।"
+        },
+        {
+          "en": "Greenhouse gas emissions reach zero by 2030.",
+          "hi": "ग्रीनहाउस गैस उत्सर्जन 2030 तक शून्य हो जाएगा।"
+        },
+        {
+          "en": "Renewable energy replaces all fossil fuels globally.",
+          "hi": "नवीकरणीय ऊर्जा विश्व स्तर पर सभी जीवाश्म ईंधन की जगह ले लेगी।"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "The UNEP Limiting Overshoot report outlines a pathway to manage the likely temporary breach of the 1.5°C global warming limit, where 'Overshoot' means the global average temperature temporarily rises above 1.5°C above pre-industrial levels.",
+        "hi": "UNEP लिमिटिंग ओवरशूट रिपोर्ट 1.5°C ग्लोबल वार्मिंग सीमा के संभावित अस्थायी उल्लंघन को प्रबंधित करने के लिए एक मार्ग की रूपरेखा तैयार करती है, जहाँ 'ओवरशूट' का अर्थ है वैश्विक औसत तापमान का अस्थायी रूप से पूर्व-औद्योगिक स्तरों से 1.5°C से ऊपर बढ़ना।"
+      },
+      "category": "Environment & Ecology",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.nextias.com/ca/current-affairs/03-09-2026"
+    },
+    {
+      "id": "ca_20260904_04",
+      "question": {
+        "en": "The 7th Status of Coral Reefs of the World report highlights that recovery periods for coral reefs have shortened dramatically. Which organization released this report?",
+        "hi": "दुनिया के प्रवाल भित्तियों की 7वीं स्थिति (7th Status of Coral Reefs of the World) रिपोर्ट इस बात पर प्रकाश डालती है कि प्रवाल भित्तियों के लिए पुनर्प्राप्ति अवधि (recovery periods) नाटकीय रूप से कम हो गई है। यह रिपोर्ट किस संगठन ने जारी की?"
+      },
+      "options": [
+        {
+          "en": "United Nations Environment Programme (UNEP)",
+          "hi": "संयुक्त राष्ट्र पर्यावरण कार्यक्रम (UNEP)"
+        },
+        {
+          "en": "Global Coral Reef Monitoring Network (GCRMN)",
+          "hi": "ग्लोबल कोरल रीफ मॉनिटरिंग नेटवर्क (GCRMN)"
+        },
+        {
+          "en": "World Wildlife Fund (WWF)",
+          "hi": "वर्ल्ड वाइल्डलाइफ फंड (WWF)"
+        },
+        {
+          "en": "International Union for Conservation of Nature (IUCN)",
+          "hi": "अंतर्राष्ट्रीय प्रकृति संरक्षण संघ (IUCN)"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The seventh Status of Coral Reefs of the World report by the Global Coral Reef Monitoring Network (GCRMN) said recovery periods had shortened dramatically, with major disturbances occurring every four to six years.",
+        "hi": "ग्लोबल कोरल रीफ मॉनिटरिंग नेटवर्क (GCRMN) द्वारा दुनिया के प्रवाल भित्तियों की 7वीं स्थिति की रिपोर्ट में कहा गया है कि हर चार से छह साल में होने वाली बड़ी गड़बड़ी के साथ, पुनर्प्राप्ति अवधि नाटकीय रूप से कम हो गई है।"
+      },
+      "category": "Environment & Ecology",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.nextias.com/ca/current-affairs/03-09-2026"
+    },
+    {
+      "id": "ca_20260904_05",
+      "question": {
+        "en": "Who unveiled the statue of Veerangana Rani Avantibai Lodhi in Lucknow?",
+        "hi": "लखनऊ में वीरांगना रानी अवंतीबाई लोधी की प्रतिमा का अनावरण किसने किया?"
+      },
+      "options": [
+        {
+          "en": "Prime Minister of India",
+          "hi": "भारत के प्रधानमंत्री"
+        },
+        {
+          "en": "Defence Minister of India",
+          "hi": "भारत के रक्षा मंत्री"
+        },
+        {
+          "en": "Chief Minister of Uttar Pradesh",
+          "hi": "उत्तर प्रदेश के मुख्यमंत्री"
+        },
+        {
+          "en": "President of India",
+          "hi": "भारत के राष्ट्रपति"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The Defence Minister of India unveiled the statue of Veerangana Rani Avantibai Lodhi in Lucknow. She was a prominent woman leader of the Revolt of 1857 and queen of the Ramgarh princely state.",
+        "hi": "भारत के रक्षा मंत्री ने लखनऊ में वीरांगना रानी अवंतीबाई लोधी की प्रतिमा का अनावरण किया। वह 1857 के विद्रोह की एक प्रमुख महिला नेता और रामगढ़ रियासत की रानी थीं।"
+      },
+      "category": "Awards & Honours",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.nextias.com/ca/current-affairs/03-09-2026"
+    },
+    {
+      "id": "ca_20260904_06",
+      "question": {
+        "en": "What is the primary objective of the Districts as Export Hubs (DEH) initiative?",
+        "hi": "निर्यात हब के रूप में जिले (Districts as Export Hubs - DEH) पहल का प्राथमिक उद्देश्य क्या है?"
+      },
+      "options": [
+        {
+          "en": "To centralize all manufacturing activities in major metropolitan cities.",
+          "hi": "प्रमुख महानगरीय शहरों में सभी विनिर्माण गतिविधियों को केंद्रीकृत करना।"
+        },
+        {
+          "en": "To restrict exports to saturated industrial clusters.",
+          "hi": "संतृप्त औद्योगिक समूहों तक निर्यात को सीमित करना।"
+        },
+        {
+          "en": "To decentralize India’s export ecosystem by shifting focus to untapped manufacturing centers in the hinterland.",
+          "hi": "भीतरी इलाकों में अप्रयुक्त विनिर्माण केंद्रों पर ध्यान केंद्रित करके भारत के निर्यात पारिस्थितिकी तंत्र का विकेंद्रीकरण करना।"
+        },
+        {
+          "en": "To promote imports of high-value goods in rural districts.",
+          "hi": "ग्रामीण जिलों में उच्च मूल्य वाले सामानों के आयात को बढ़ावा देना।"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The DEH initiative aims to decentralize India’s export ecosystem by shifting focus from saturated industrial clusters to untapped manufacturing centers in the hinterland, transforming every district into an export planning unit.",
+        "hi": "DEH पहल का उद्देश्य भारत के निर्यात पारिस्थितिकी तंत्र का विकेंद्रीकरण करना है, जिसके लिए हर जिले को एक निर्यात योजना इकाई में बदलकर, संतृप्त औद्योगिक समूहों से अपना ध्यान हटाकर भीतरी इलाकों में अप्रयुक्त विनिर्माण केंद्रों पर केंद्रित किया गया है।"
+      },
+      "category": "Government Schemes",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.pmfias.com/current-affairs-september-03-2026/"
+    },
+    {
+      "id": "ca_20260904_07",
+      "question": {
+        "en": "In the context of EVM vote counting, what is the purpose of a 'Totaliser' machine?",
+        "hi": "EVM वोट गिनती के संदर्भ में, 'टोटलाइज़र' (Totaliser) मशीन का उद्देश्य क्या है?"
+      },
+      "options": [
+        {
+          "en": "To verify VVPAT slips individually.",
+          "hi": "VVPAT पर्चियों को व्यक्तिगत रूप से सत्यापित करना।"
+        },
+        {
+          "en": "To aggregate votes from multiple EVMs, protecting the secrecy of voting patterns.",
+          "hi": "मतदान पैटर्न की गोपनीयता की रक्षा करते हुए, कई EVM से वोटों को एकत्र करना।"
+        },
+        {
+          "en": "To reveal the exact voting pattern of individual polling booths.",
+          "hi": "व्यक्तिगत मतदान केंद्रों के सटीक मतदान पैटर्न को प्रकट करना।"
+        },
+        {
+          "en": "To speed up the transportation of EVMs to counting centers.",
+          "hi": "गणना केंद्रों तक EVM के परिवहन को गति देना।"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "A totaliser allows votes recorded in multiple EVMs to be aggregated and counted together, protecting the secrecy of voting patterns and preventing post-election intimidation or victimisation.",
+        "hi": "एक टोटलाइज़र कई EVM में दर्ज वोटों को एक साथ एकत्र करने और गिनने की अनुमति देता है, जिससे मतदान पैटर्न की गोपनीयता की रक्षा होती है और चुनाव के बाद की धमकी या उत्पीड़न को रोका जा सकता है।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.pmfias.com/current-affairs-september-03-2026/"
+    },
+    {
+      "id": "ca_20260904_08",
+      "question": {
+        "en": "Which constitutional article empowers the Supreme Court to pass any decree or order necessary to do 'complete justice' in any pending case?",
+        "hi": "कौन सा संवैधानिक अनुच्छेद सर्वोच्च न्यायालय को किसी भी लंबित मामले में 'पूर्ण न्याय' करने के लिए आवश्यक कोई भी डिक्री या आदेश पारित करने का अधिकार देता है?"
+      },
+      "options": [
+        {
+          "en": "Article 131",
+          "hi": "अनुच्छेद 131"
+        },
+        {
+          "en": "Article 142",
+          "hi": "अनुच्छेद 142"
+        },
+        {
+          "en": "Article 32",
+          "hi": "अनुच्छेद 32"
+        },
+        {
+          "en": "Article 129",
+          "hi": "अनुच्छेद 129"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Article 142 of the Indian Constitution empowers the Supreme Court to pass any decree or order necessary to do 'complete justice' in any case or matter pending before it.",
+        "hi": "भारतीय संविधान का अनुच्छेद 142 सर्वोच्च न्यायालय को उसके समक्ष लंबित किसी भी मामले या मामले में 'पूर्ण न्याय' करने के लिए आवश्यक कोई भी डिक्री या आदेश पारित करने का अधिकार देता है।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.pmfias.com/current-affairs-september-03-2026/"
+    },
+    {
+      "id": "ca_20260904_09",
+      "question": {
+        "en": "Recently, the Indian Copyright Office ruled that an AI system cannot be recognized as an 'author'. This ruling was based on which act?",
+        "hi": "हाल ही में, भारतीय कॉपीराइट कार्यालय ने फैसला सुनाया कि AI सिस्टम को 'लेखक' के रूप में मान्यता नहीं दी जा सकती। यह फैसला किस अधिनियम पर आधारित था?"
+      },
+      "options": [
+        {
+          "en": "The Patents Act, 1970",
+          "hi": "पेटेंट अधिनियम, 1970"
+        },
+        {
+          "en": "The Information Technology Act, 2000",
+          "hi": "सूचना प्रौद्योगिकी अधिनियम, 2000"
+        },
+        {
+          "en": "The Copyright Act, 1957",
+          "hi": "कॉपीराइट अधिनियम, 1957"
+        },
+        {
+          "en": "The Trademarks Act, 1999",
+          "hi": "ट्रेडमार्क अधिनियम, 1999"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The Indian Copyright Office ruled that an AI system cannot be recognized as an 'author' under the Copyright Act, 1957, as Section 2(d)(vi) restricts authorship to legally recognized individuals with juridical will.",
+        "hi": "भारतीय कॉपीराइट कार्यालय ने फैसला सुनाया कि कॉपीराइट अधिनियम, 1957 के तहत एआई (AI) प्रणाली को 'लेखक' के रूप में मान्यता नहीं दी जा सकती, क्योंकि धारा 2(d)(vi) लेखकत्व को कानूनी रूप से मान्यता प्राप्त न्यायिक इच्छाशक्ति वाले व्यक्तियों तक सीमित करती है।"
+      },
+      "category": "Science & Technology",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.pmfias.com/current-affairs-september-03-2026/"
+    },
+    {
+      "id": "ca_20260904_10",
+      "question": {
+        "en": "The Pichavaram Mangrove Ecosystem, recently valued for its huge blue carbon stock, is located in which state?",
+        "hi": "पिचावरम मैंग्रोव पारिस्थितिकी तंत्र (Pichavaram Mangrove Ecosystem), जिसे हाल ही में इसके विशाल ब्लू कार्बन स्टॉक के लिए महत्व दिया गया है, किस राज्य में स्थित है?"
+      },
+      "options": [
+        {
+          "en": "Odisha",
+          "hi": "ओडिशा"
+        },
+        {
+          "en": "West Bengal",
+          "hi": "पश्चिम बंगाल"
+        },
+        {
+          "en": "Tamil Nadu",
+          "hi": "तमिलनाडु"
+        },
+        {
+          "en": "Kerala",
+          "hi": "केरल"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The Pichavaram Mangrove Forest is located in Cuddalore, Tamil Nadu. It is one of India’s largest mangroves, a Ramsar site, and acts as a bio-shield protecting coastal communities.",
+        "hi": "पिचावरम मैंग्रोव वन कुड्डालोर, तमिलनाडु में स्थित है। यह भारत के सबसे बड़े मैंग्रोव में से एक है, एक रामसर स्थल (Ramsar site) है, और तटीय समुदायों की रक्षा करने वाले जैव-ढाल के रूप में कार्य करता है।"
+      },
+      "category": "Environment & Ecology",
+      "difficulty": "hard",
+      "sourceUrl": "https://www.pmfias.com/current-affairs-september-03-2026/"
+    }
+  ]
+}

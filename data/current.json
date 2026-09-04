@@ -1,340 +1,340 @@
 {
-  "date": "2026-09-04",
+  "date": "2026-09-05",
   "topic": "SSC CGL Daily Current Affairs",
-  "source": "NEXT IAS / PMF IAS / GKToday",
-  "lastUpdated": "2026-09-04T06:00:00+05:30",
+  "source": "Insights IAS / The Hindu / PIB / TOI",
+  "lastUpdated": "2026-09-05T06:00:00+05:30",
   "version": 1,
   "totalQuestions": 10,
   "quiz": [
     {
-      "id": "ca_20260904_01",
+      "id": "ca_20260905_01",
       "question": {
-        "en": "India and which country recently reviewed bilateral cooperation in energy security and electrification, marking 75 years of diplomatic relations in 2026?",
-        "hi": "भारत और किस देश ने हाल ही में ऊर्जा सुरक्षा और विद्युतीकरण में द्विपक्षीय सहयोग की समीक्षा की, जो 2026 में राजनयिक संबंधों के 75 वर्ष पूरे होने का प्रतीक है?"
+        "en": "According to the UNEP 'Limiting Overshoot' report, what does an 'overshoot pathway' refer to?",
+        "hi": "UNEP की 'लिमिटिंग ओवरशूट' (Limiting Overshoot) रिपोर्ट के अनुसार, 'ओवरशूट पाथवे' (overshoot pathway) का क्या अर्थ है?"
       },
       "options": [
         {
-          "en": "France",
-          "hi": "फ्रांस"
+          "en": "A scenario where carbon emissions reach absolute zero by 2030.",
+          "hi": "एक परिदृश्य जहाँ 2030 तक कार्बन उत्सर्जन पूर्ण रूप से शून्य हो जाता है।"
+        },
+        {
+          "en": "A scenario where global average temperatures temporarily exceed the 1.5°C target before declining.",
+          "hi": "एक ऐसा परिदृश्य जहां वैश्विक औसत तापमान अस्थायी रूप से 1.5 डिग्री सेल्सियस के लक्ष्य को पार कर जाता है, और फिर गिरता है।"
+        },
+        {
+          "en": "A strategy to increase fossil fuel production to meet energy demands.",
+          "hi": "ऊर्जा मांगों को पूरा करने के लिए जीवाश्म ईंधन उत्पादन बढ़ाने की रणनीति।"
+        },
+        {
+          "en": "A natural phenomenon where ocean currents reverse their direction permanently.",
+          "hi": "एक प्राकृतिक घटना जहाँ महासागरीय धाराएँ स्थायी रूप से अपनी दिशा उलट देती हैं।"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "An overshoot pathway refers to a scenario where global average surface temperatures temporarily exceed the internationally agreed target of 1.5°C before peaking and gradually declining through sustained net-negative emissions.",
+        "hi": "एक ओवरशूट पाथवे एक ऐसे परिदृश्य को संदर्भित करता है जहां वैश्विक औसत सतह का तापमान निरंतर शुद्ध-नकारात्मक उत्सर्जन के माध्यम से चरम पर पहुंचने और धीरे-धीरे घटने से पहले अंतरराष्ट्रीय स्तर पर सहमत 1.5°C लक्ष्य को अस्थायी रूप से पार कर जाता है।"
+      },
+      "category": "Environment & Ecology",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.insightsonindia.com/2026/09/04/upsc-current-affairs-4-september-2026/"
+    },
+    {
+      "id": "ca_20260905_02",
+      "question": {
+        "en": "Recently, the Indian Copyright Office rejected an application seeking to recognize an AI system as an author. Under which section of the Copyright Act, 1957 is the author of a computer-generated work defined as the 'person who causes the work to be created'?",
+        "hi": "हाल ही में, भारतीय कॉपीराइट कार्यालय ने एक एआई (AI) प्रणाली को लेखक के रूप में मान्यता देने की मांग करने वाले आवेदन को खारिज कर दिया। कॉपीराइट अधिनियम, 1957 की किस धारा के तहत कंप्यूटर जनित कार्य के लेखक को 'वह व्यक्ति जिसके कारण कार्य का निर्माण होता है' के रूप में परिभाषित किया गया है?"
+      },
+      "options": [
+        {
+          "en": "Section 2(d)(vi)",
+          "hi": "धारा 2(d)(vi)"
+        },
+        {
+          "en": "Section 14(a)",
+          "hi": "धारा 14(a)"
+        },
+        {
+          "en": "Section 17",
+          "hi": "धारा 17"
+        },
+        {
+          "en": "Section 52(1)",
+          "hi": "धारा 52(1)"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "The Copyright Office ruled that an AI system like DABUS cannot be an author. Under Section 2(d)(vi) of the Copyright Act, 1957, the author of a computer-generated work is the legally responsible human who 'causes the work to be created'.",
+        "hi": "कॉपीराइट कार्यालय ने फैसला सुनाया कि DABUS जैसी AI प्रणाली लेखक नहीं हो सकती। कॉपीराइट अधिनियम, 1957 की धारा 2(d)(vi) के तहत, कंप्यूटर जनित कार्य का लेखक वह कानूनी रूप से जिम्मेदार इंसान होता है 'जिसके कारण कार्य का निर्माण होता है'।"
+      },
+      "category": "Science & Technology",
+      "difficulty": "hard",
+      "sourceUrl": "https://www.insightsonindia.com/2026/09/04/upsc-current-affairs-4-september-2026/"
+    },
+    {
+      "id": "ca_20260905_03",
+      "question": {
+        "en": "Who has been appointed as the first full-time Chief Executive Officer (CEO) of the Shri Ram Janmabhoomi Teerth Kshetra Trust?",
+        "hi": "श्री राम जन्मभूमि तीर्थ क्षेत्र ट्रस्ट के पहले पूर्णकालिक मुख्य कार्यकारी अधिकारी (CEO) के रूप में किसे नियुक्त किया गया है?"
+      },
+      "options": [
+        {
+          "en": "Nripendra Misra",
+          "hi": "नृपेन्द्र मिश्रा"
+        },
+        {
+          "en": "Air Marshal Jitendra Mishra (Retd)",
+          "hi": "एयर मार्शल जितेंद्र मिश्रा (सेवानिवृत्त)"
+        },
+        {
+          "en": "Champat Rai",
+          "hi": "चंपत राय"
+        },
+        {
+          "en": "Mahant Nritya Gopal Das",
+          "hi": "महंत नृत्य गोपाल दास"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Decorated former Indian Air Force officer Air Marshal Jeetendra Mishra (Retd) has been appointed as the first full-time CEO of the Shri Ram Janmabhoomi Teerth Kshetra Trust to bring professional administration to the temple's management.",
+        "hi": "भारतीय वायु सेना के पूर्व अधिकारी एयर मार्शल जितेंद्र मिश्रा (सेवानिवृत्त) को मंदिर के प्रबंधन में पेशेवर प्रशासन लाने के लिए श्री राम जन्मभूमि तीर्थ क्षेत्र ट्रस्ट के पहले पूर्णकालिक सीईओ के रूप में नियुक्त किया गया है।"
+      },
+      "category": "Appointments & Commissions",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.insightsonindia.com/2026/09/04/upsc-current-affairs-4-september-2026/"
+    },
+    {
+      "id": "ca_20260905_04",
+      "question": {
+        "en": "What is the primary objective of the 'RAKSHA' document recently released by the Ministry of Defence?",
+        "hi": "रक्षा मंत्रालय द्वारा हाल ही में जारी 'RAKSHA' दस्तावेज़ का प्राथमिक उद्देश्य क्या है?"
+      },
+      "options": [
+        {
+          "en": "To privatize all ordnance factories in India.",
+          "hi": "भारत में सभी आयुध कारखानों का निजीकरण करना।"
+        },
+        {
+          "en": "To outline a 10-year defence diplomacy roadmap and vision for global partnerships.",
+          "hi": "वैश्विक साझेदारी के लिए 10 वर्षीय रक्षा कूटनीति रोडमैप और विजन को रेखांकित करना।"
+        },
+        {
+          "en": "To mandate compulsory military training for college students.",
+          "hi": "कॉलेज के छात्रों के लिए अनिवार्य सैन्य प्रशिक्षण को अनिवार्य करना।"
+        },
+        {
+          "en": "To increase the retirement age of armed forces personnel.",
+          "hi": "सशस्त्र बलों के जवानों की सेवानिवृत्ति की आयु बढ़ाना।"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "'RAKSHA' is a strategic 10-year defence diplomacy vision document outlining how India will leverage military engagements, multilateral security frameworks, and defence exports to foster global stability.",
+        "hi": "'RAKSHA' एक रणनीतिक 10-वर्षीय रक्षा कूटनीति विजन दस्तावेज़ है जो यह रेखांकित करता है कि भारत वैश्विक स्थिरता को बढ़ावा देने के लिए सैन्य जुड़ाव, बहुपक्षीय सुरक्षा ढांचे और रक्षा निर्यात का लाभ कैसे उठाएगा।"
+      },
+      "category": "Defence & Security",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.insightsonindia.com/2026/09/04/upsc-current-affairs-4-september-2026/"
+    },
+    {
+      "id": "ca_20260905_05",
+      "question": {
+        "en": "Where will the 16th edition of Aero India (Aero India 2027) be held?",
+        "hi": "एयरो इंडिया के 16वें संस्करण (एयरो इंडिया 2027) का आयोजन कहाँ किया जाएगा?"
+      },
+      "options": [
+        {
+          "en": "Hindan, Uttar Pradesh",
+          "hi": "हिंडन, उत्तर प्रदेश"
+        },
+        {
+          "en": "Pune, Maharashtra",
+          "hi": "पुणे, महाराष्ट्र"
+        },
+        {
+          "en": "Yelahanka, Bengaluru",
+          "hi": "येलहंका, बेंगलुरु"
+        },
+        {
+          "en": "Jodhpur, Rajasthan",
+          "hi": "जोधपुर, राजस्थान"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The Ministry of Defence announced that the 16th edition of Aero India, Asia's largest aerospace and defense exhibition, will take place from February 8 to 12, 2027, at Air Force Station, Yelahanka in Bengaluru.",
+        "hi": "रक्षा मंत्रालय ने घोषणा की कि एशिया की सबसे बड़ी एयरोस्पेस और रक्षा प्रदर्शनी, एयरो इंडिया का 16वां संस्करण 8 से 12 फरवरी, 2027 तक बेंगलुरु के वायु सेना स्टेशन, येलहंका में होगा।"
+      },
+      "category": "Defence & Security",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.insightsonindia.com/2026/09/04/upsc-current-affairs-4-september-2026/"
+    },
+    {
+      "id": "ca_20260905_06",
+      "question": {
+        "en": "How does a global bond sell-off typically affect bond yields and prices?",
+        "hi": "वैश्विक बांड बिकवाली (global bond sell-off) आमतौर पर बांड यील्ड (प्रतिफल) और कीमतों को कैसे प्रभावित करती है?"
+      },
+      "options": [
+        {
+          "en": "Bond prices rise and yields fall.",
+          "hi": "बांड की कीमतें बढ़ती हैं और यील्ड गिरती है।"
+        },
+        {
+          "en": "Both bond prices and yields rise.",
+          "hi": "बांड की कीमतें और यील्ड दोनों बढ़ते हैं।"
+        },
+        {
+          "en": "Bond prices fall and yields rise.",
+          "hi": "बांड की कीमतें गिरती हैं और यील्ड बढ़ती है।"
+        },
+        {
+          "en": "Both bond prices and yields fall.",
+          "hi": "बांड की कीमतें और यील्ड दोनों गिरते हैं।"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Bond prices and yields share an inverse relationship. When investors dump bonds (sell-off), market supply outstrips demand, causing bond prices to fall, which in turn causes the effective percentage return (yield) to rise.",
+        "hi": "बांड की कीमतों और यील्ड में विपरीत संबंध होता है। जब निवेशक बांड बेचते हैं (बिकवाली), तो बाजार की आपूर्ति मांग से अधिक हो जाती है, जिससे बांड की कीमतें गिर जाती हैं, जिसके कारण प्रभावी प्रतिशत रिटर्न (यील्ड) बढ़ जाता है।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.insightsonindia.com/2026/09/04/upsc-current-affairs-4-september-2026/"
+    },
+    {
+      "id": "ca_20260905_07",
+      "question": {
+        "en": "In a recent ruling, the Supreme Court stated that which organization lacks statutory power to take disciplinary action against law students?",
+        "hi": "हाल ही के एक फैसले में, सर्वोच्च न्यायालय ने कहा कि किस संगठन के पास कानून के छात्रों के खिलाफ अनुशासनात्मक कार्रवाई करने की वैधानिक शक्ति नहीं है?"
+      },
+      "options": [
+        {
+          "en": "University Grants Commission (UGC)",
+          "hi": "विश्वविद्यालय अनुदान आयोग (UGC)"
+        },
+        {
+          "en": "Bar Council of India (BCI)",
+          "hi": "भारतीय विधिज्ञ परिषद (Bar Council of India)"
+        },
+        {
+          "en": "Ministry of Law and Justice",
+          "hi": "कानून और न्याय मंत्रालय"
+        },
+        {
+          "en": "National Legal Services Authority (NALSA)",
+          "hi": "राष्ट्रीय विधिक सेवा प्राधिकरण (NALSA)"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The Supreme Court ruled that the Bar Council of India (BCI) and State Bar Councils have no statutory power under the Advocates Act, 1961 to take disciplinary actions against law students, as their jurisdiction begins only after enrolment as an advocate.",
+        "hi": "सुप्रीम कोर्ट ने फैसला सुनाया कि बार काउंसिल ऑफ इंडिया (BCI) और राज्य बार काउंसिलों के पास अधिवक्ता अधिनियम, 1961 के तहत कानून के छात्रों के खिलाफ अनुशासनात्मक कार्रवाई करने की कोई वैधानिक शक्ति नहीं है, क्योंकि उनका अधिकार क्षेत्र वकील के रूप में नामांकन के बाद ही शुरू होता है।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.insightsonindia.com/2026/09/04/upsc-current-affairs-4-september-2026/"
+    },
+    {
+      "id": "ca_20260905_08",
+      "question": {
+        "en": "India recently held talks to double bilateral trade and expand defence cooperation with which European country, whose capital is Brussels?",
+        "hi": "भारत ने हाल ही में किस यूरोपीय देश के साथ द्विपक्षीय व्यापार को दोगुना करने और रक्षा सहयोग का विस्तार करने के लिए वार्ता की, जिसकी राजधानी ब्रसेल्स (Brussels) है?"
+      },
+      "options": [
+        {
+          "en": "Netherlands",
+          "hi": "नीदरलैंड"
         },
         {
           "en": "Germany",
           "hi": "जर्मनी"
         },
         {
-          "en": "Japan",
-          "hi": "जापान"
+          "en": "Belgium",
+          "hi": "बेल्जियम"
         },
         {
-          "en": "Russia",
-          "hi": "रूस"
+          "en": "France",
+          "hi": "फ्रांस"
         }
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": {
-        "en": "India and Germany recently reviewed bilateral cooperation in energy security, electrification, and low-carbon development. In 2026, the two countries mark 75 years of diplomatic relations and 25 years of their Strategic Partnership.",
-        "hi": "भारत और जर्मनी ने हाल ही में ऊर्जा सुरक्षा, विद्युतीकरण और निम्न-कार्बन विकास में द्विपक्षीय सहयोग की समीक्षा की। 2026 में, दोनों देश अपने राजनयिक संबंधों के 75 साल और अपनी रणनीतिक साझेदारी के 25 साल पूरे कर रहे हैं।"
+        "en": "The Prime Minister of India recently held talks with Belgian PM Bart De Wever in New Delhi. They agreed to double bilateral trade in five years and expand cooperation in clean energy and advanced military platforms. Brussels is the capital of Belgium.",
+        "hi": "भारत के प्रधान मंत्री ने हाल ही में नई दिल्ली में बेल्जियम के प्रधान मंत्री बार्ट डी वेवर (Bart De Wever) के साथ वार्ता की। वे पांच वर्षों में द्विपक्षीय व्यापार को दोगुना करने और स्वच्छ ऊर्जा और उन्नत सैन्य प्लेटफार्मों में सहयोग का विस्तार करने पर सहमत हुए। ब्रसेल्स बेल्जियम की राजधानी है।"
       },
       "category": "International Summits",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.nextias.com/ca/current-affairs/03-09-2026"
-    },
-    {
-      "id": "ca_20260904_02",
-      "question": {
-        "en": "India's medical devices market is projected to grow to what value by 2030, according to recent estimates?",
-        "hi": "हालिया अनुमानों के अनुसार, भारत का चिकित्सा उपकरण बाजार 2030 तक किस मूल्य तक बढ़ने का अनुमान है?"
-      },
-      "options": [
-        {
-          "en": "US$ 25.1 billion",
-          "hi": "US$ 25.1 बिलियन"
-        },
-        {
-          "en": "US$ 30.5 billion",
-          "hi": "US$ 30.5 बिलियन"
-        },
-        {
-          "en": "US$ 40.2 billion",
-          "hi": "US$ 40.2 बिलियन"
-        },
-        {
-          "en": "US$ 50.1 billion",
-          "hi": "US$ 50.1 बिलियन"
-        }
-      ],
-      "correctAnswer": 3,
-      "explanation": {
-        "en": "India's medical devices market is projected to grow steadily from US$ 15.2 billion in 2025 to US$ 50.1 billion by 2030, supporting the country's expanding healthcare ecosystem.",
-        "hi": "भारत का चिकित्सा उपकरण बाजार 2025 में US$ 15.2 बिलियन से लगातार बढ़कर 2030 तक US$ 50.1 बिलियन होने का अनुमान है, जो देश के विस्तार वाले स्वास्थ्य सेवा पारिस्थितिकी तंत्र का समर्थन करता है।"
-      },
-      "category": "Economy & Banking",
-      "difficulty": "hard",
-      "sourceUrl": "https://www.nextias.com/ca/current-affairs/03-09-2026"
-    },
-    {
-      "id": "ca_20260904_03",
-      "question": {
-        "en": "According to the UNEP 'Limiting Overshoot' report, what is the 'Overshoot' pathway?",
-        "hi": "UNEP की 'लिमिटिंग ओवरशूट' रिपोर्ट के अनुसार, 'ओवरशूट' मार्ग क्या है?"
-      },
-      "options": [
-        {
-          "en": "Global average temperature temporarily rises above 1.5°C above pre-industrial levels.",
-          "hi": "वैश्विक औसत तापमान अस्थायी रूप से पूर्व-औद्योगिक स्तरों से 1.5°C से ऊपर बढ़ जाता है।"
-        },
-        {
-          "en": "Global average temperature permanently drops below 1.5°C.",
-          "hi": "वैश्विक औसत तापमान स्थायी रूप से 1.5°C से नीचे गिर जाता है।"
-        },
-        {
-          "en": "Greenhouse gas emissions reach zero by 2030.",
-          "hi": "ग्रीनहाउस गैस उत्सर्जन 2030 तक शून्य हो जाएगा।"
-        },
-        {
-          "en": "Renewable energy replaces all fossil fuels globally.",
-          "hi": "नवीकरणीय ऊर्जा विश्व स्तर पर सभी जीवाश्म ईंधन की जगह ले लेगी।"
-        }
-      ],
-      "correctAnswer": 0,
-      "explanation": {
-        "en": "The UNEP Limiting Overshoot report outlines a pathway to manage the likely temporary breach of the 1.5°C global warming limit, where 'Overshoot' means the global average temperature temporarily rises above 1.5°C above pre-industrial levels.",
-        "hi": "UNEP लिमिटिंग ओवरशूट रिपोर्ट 1.5°C ग्लोबल वार्मिंग सीमा के संभावित अस्थायी उल्लंघन को प्रबंधित करने के लिए एक मार्ग की रूपरेखा तैयार करती है, जहाँ 'ओवरशूट' का अर्थ है वैश्विक औसत तापमान का अस्थायी रूप से पूर्व-औद्योगिक स्तरों से 1.5°C से ऊपर बढ़ना।"
-      },
-      "category": "Environment & Ecology",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.nextias.com/ca/current-affairs/03-09-2026"
-    },
-    {
-      "id": "ca_20260904_04",
-      "question": {
-        "en": "The 7th Status of Coral Reefs of the World report highlights that recovery periods for coral reefs have shortened dramatically. Which organization released this report?",
-        "hi": "दुनिया के प्रवाल भित्तियों की 7वीं स्थिति (7th Status of Coral Reefs of the World) रिपोर्ट इस बात पर प्रकाश डालती है कि प्रवाल भित्तियों के लिए पुनर्प्राप्ति अवधि (recovery periods) नाटकीय रूप से कम हो गई है। यह रिपोर्ट किस संगठन ने जारी की?"
-      },
-      "options": [
-        {
-          "en": "United Nations Environment Programme (UNEP)",
-          "hi": "संयुक्त राष्ट्र पर्यावरण कार्यक्रम (UNEP)"
-        },
-        {
-          "en": "Global Coral Reef Monitoring Network (GCRMN)",
-          "hi": "ग्लोबल कोरल रीफ मॉनिटरिंग नेटवर्क (GCRMN)"
-        },
-        {
-          "en": "World Wildlife Fund (WWF)",
-          "hi": "वर्ल्ड वाइल्डलाइफ फंड (WWF)"
-        },
-        {
-          "en": "International Union for Conservation of Nature (IUCN)",
-          "hi": "अंतर्राष्ट्रीय प्रकृति संरक्षण संघ (IUCN)"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "The seventh Status of Coral Reefs of the World report by the Global Coral Reef Monitoring Network (GCRMN) said recovery periods had shortened dramatically, with major disturbances occurring every four to six years.",
-        "hi": "ग्लोबल कोरल रीफ मॉनिटरिंग नेटवर्क (GCRMN) द्वारा दुनिया के प्रवाल भित्तियों की 7वीं स्थिति की रिपोर्ट में कहा गया है कि हर चार से छह साल में होने वाली बड़ी गड़बड़ी के साथ, पुनर्प्राप्ति अवधि नाटकीय रूप से कम हो गई है।"
-      },
-      "category": "Environment & Ecology",
       "difficulty": "easy",
-      "sourceUrl": "https://www.nextias.com/ca/current-affairs/03-09-2026"
+      "sourceUrl": "https://www.insightsonindia.com/2026/09/04/upsc-current-affairs-4-september-2026/"
     },
     {
-      "id": "ca_20260904_05",
+      "id": "ca_20260905_09",
       "question": {
-        "en": "Who unveiled the statue of Veerangana Rani Avantibai Lodhi in Lucknow?",
-        "hi": "लखनऊ में वीरांगना रानी अवंतीबाई लोधी की प्रतिमा का अनावरण किसने किया?"
+        "en": "According to the UNEP 'Limiting Overshoot' report, which gas reduction offers one of the fastest ways to reduce near-term peak warming?",
+        "hi": "UNEP की 'लिमिटिंग ओवरशूट' (Limiting Overshoot) रिपोर्ट के अनुसार, किस गैस की कमी निकट-अवधि (near-term) के चरम वार्मिंग को कम करने के सबसे तेज़ तरीकों में से एक प्रदान करती है?"
       },
       "options": [
         {
-          "en": "Prime Minister of India",
-          "hi": "भारत के प्रधानमंत्री"
+          "en": "Carbon Dioxide (CO2)",
+          "hi": "कार्बन डाइऑक्साइड (CO2)"
         },
         {
-          "en": "Defence Minister of India",
-          "hi": "भारत के रक्षा मंत्री"
+          "en": "Methane",
+          "hi": "मीथेन"
         },
         {
-          "en": "Chief Minister of Uttar Pradesh",
-          "hi": "उत्तर प्रदेश के मुख्यमंत्री"
+          "en": "Nitrous Oxide (N2O)",
+          "hi": "नाइट्रस ऑक्साइड (N2O)"
         },
         {
-          "en": "President of India",
-          "hi": "भारत के राष्ट्रपति"
+          "en": "Chlorofluorocarbons (CFCs)",
+          "hi": "क्लोरोफ्लोरोकार्बन (CFCs)"
         }
       ],
       "correctAnswer": 1,
       "explanation": {
-        "en": "The Defence Minister of India unveiled the statue of Veerangana Rani Avantibai Lodhi in Lucknow. She was a prominent woman leader of the Revolt of 1857 and queen of the Ramgarh princely state.",
-        "hi": "भारत के रक्षा मंत्री ने लखनऊ में वीरांगना रानी अवंतीबाई लोधी की प्रतिमा का अनावरण किया। वह 1857 के विद्रोह की एक प्रमुख महिला नेता और रामगढ़ रियासत की रानी थीं।"
+        "en": "The UNEP report highlights that cutting methane emissions, which are responsible for approximately 0.5°C of warming, offers one of the fastest ways to reduce near-term peak global warming.",
+        "hi": "UNEP की रिपोर्ट इस बात पर प्रकाश डालती है कि मीथेन उत्सर्जन में कटौती, जो लगभग 0.5°C वार्मिंग के लिए जिम्मेदार है, निकट-अवधि की चरम ग्लोबल वार्मिंग को कम करने के सबसे तेज़ तरीकों में से एक प्रदान करती है।"
       },
-      "category": "Awards & Honours",
+      "category": "Environment & Ecology",
       "difficulty": "medium",
-      "sourceUrl": "https://www.nextias.com/ca/current-affairs/03-09-2026"
+      "sourceUrl": "https://www.insightsonindia.com/2026/09/04/upsc-current-affairs-4-september-2026/"
     },
     {
-      "id": "ca_20260904_06",
+      "id": "ca_20260905_10",
       "question": {
-        "en": "What is the primary objective of the Districts as Export Hubs (DEH) initiative?",
-        "hi": "निर्यात हब के रूप में जिले (Districts as Export Hubs - DEH) पहल का प्राथमिक उद्देश्य क्या है?"
+        "en": "Under which act was the Bar Council of India (BCI) formed to oversee the legal profession and legal education in India?",
+        "hi": "भारत में कानूनी पेशे और कानूनी शिक्षा की देखरेख के लिए भारतीय विधिज्ञ परिषद (Bar Council of India - BCI) का गठन किस अधिनियम के तहत किया गया था?"
       },
       "options": [
         {
-          "en": "To centralize all manufacturing activities in major metropolitan cities.",
-          "hi": "प्रमुख महानगरीय शहरों में सभी विनिर्माण गतिविधियों को केंद्रीकृत करना।"
+          "en": "The Legal Services Authorities Act, 1987",
+          "hi": "विधिक सेवा प्राधिकरण अधिनियम, 1987"
         },
         {
-          "en": "To restrict exports to saturated industrial clusters.",
-          "hi": "संतृप्त औद्योगिक समूहों तक निर्यात को सीमित करना।"
+          "en": "The Advocates Act, 1961",
+          "hi": "अधिवक्ता अधिनियम, 1961"
         },
         {
-          "en": "To decentralize India’s export ecosystem by shifting focus to untapped manufacturing centers in the hinterland.",
-          "hi": "भीतरी इलाकों में अप्रयुक्त विनिर्माण केंद्रों पर ध्यान केंद्रित करके भारत के निर्यात पारिस्थितिकी तंत्र का विकेंद्रीकरण करना।"
+          "en": "The Bar Councils Act, 1926",
+          "hi": "बार काउंसिल अधिनियम, 1926"
         },
         {
-          "en": "To promote imports of high-value goods in rural districts.",
-          "hi": "ग्रामीण जिलों में उच्च मूल्य वाले सामानों के आयात को बढ़ावा देना।"
-        }
-      ],
-      "correctAnswer": 2,
-      "explanation": {
-        "en": "The DEH initiative aims to decentralize India’s export ecosystem by shifting focus from saturated industrial clusters to untapped manufacturing centers in the hinterland, transforming every district into an export planning unit.",
-        "hi": "DEH पहल का उद्देश्य भारत के निर्यात पारिस्थितिकी तंत्र का विकेंद्रीकरण करना है, जिसके लिए हर जिले को एक निर्यात योजना इकाई में बदलकर, संतृप्त औद्योगिक समूहों से अपना ध्यान हटाकर भीतरी इलाकों में अप्रयुक्त विनिर्माण केंद्रों पर केंद्रित किया गया है।"
-      },
-      "category": "Government Schemes",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.pmfias.com/current-affairs-september-03-2026/"
-    },
-    {
-      "id": "ca_20260904_07",
-      "question": {
-        "en": "In the context of EVM vote counting, what is the purpose of a 'Totaliser' machine?",
-        "hi": "EVM वोट गिनती के संदर्भ में, 'टोटलाइज़र' (Totaliser) मशीन का उद्देश्य क्या है?"
-      },
-      "options": [
-        {
-          "en": "To verify VVPAT slips individually.",
-          "hi": "VVPAT पर्चियों को व्यक्तिगत रूप से सत्यापित करना।"
-        },
-        {
-          "en": "To aggregate votes from multiple EVMs, protecting the secrecy of voting patterns.",
-          "hi": "मतदान पैटर्न की गोपनीयता की रक्षा करते हुए, कई EVM से वोटों को एकत्र करना।"
-        },
-        {
-          "en": "To reveal the exact voting pattern of individual polling booths.",
-          "hi": "व्यक्तिगत मतदान केंद्रों के सटीक मतदान पैटर्न को प्रकट करना।"
-        },
-        {
-          "en": "To speed up the transportation of EVMs to counting centers.",
-          "hi": "गणना केंद्रों तक EVM के परिवहन को गति देना।"
+          "en": "The Indian Penal Code, 1860",
+          "hi": "भारतीय दंड संहिता, 1860"
         }
       ],
       "correctAnswer": 1,
       "explanation": {
-        "en": "A totaliser allows votes recorded in multiple EVMs to be aggregated and counted together, protecting the secrecy of voting patterns and preventing post-election intimidation or victimisation.",
-        "hi": "एक टोटलाइज़र कई EVM में दर्ज वोटों को एक साथ एकत्र करने और गिनने की अनुमति देता है, जिससे मतदान पैटर्न की गोपनीयता की रक्षा होती है और चुनाव के बाद की धमकी या उत्पीड़न को रोका जा सकता है।"
+        "en": "The Bar Council of India (BCI) was formed under the authority of the Advocates Act, 1961, enacted by the Indian Parliament to serve as a statutory, apex regulatory body for the legal profession.",
+        "hi": "भारतीय विधिज्ञ परिषद (BCI) का गठन अधिवक्ता अधिनियम, 1961 (Advocates Act, 1961) के अधिकार के तहत किया गया था, जिसे भारतीय संसद द्वारा कानूनी पेशे के लिए एक वैधानिक, शीर्ष नियामक निकाय के रूप में कार्य करने के लिए अधिनियमित किया गया था।"
       },
       "category": "Polity & Governance",
-      "difficulty": "easy",
-      "sourceUrl": "https://www.pmfias.com/current-affairs-september-03-2026/"
-    },
-    {
-      "id": "ca_20260904_08",
-      "question": {
-        "en": "Which constitutional article empowers the Supreme Court to pass any decree or order necessary to do 'complete justice' in any pending case?",
-        "hi": "कौन सा संवैधानिक अनुच्छेद सर्वोच्च न्यायालय को किसी भी लंबित मामले में 'पूर्ण न्याय' करने के लिए आवश्यक कोई भी डिक्री या आदेश पारित करने का अधिकार देता है?"
-      },
-      "options": [
-        {
-          "en": "Article 131",
-          "hi": "अनुच्छेद 131"
-        },
-        {
-          "en": "Article 142",
-          "hi": "अनुच्छेद 142"
-        },
-        {
-          "en": "Article 32",
-          "hi": "अनुच्छेद 32"
-        },
-        {
-          "en": "Article 129",
-          "hi": "अनुच्छेद 129"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "Article 142 of the Indian Constitution empowers the Supreme Court to pass any decree or order necessary to do 'complete justice' in any case or matter pending before it.",
-        "hi": "भारतीय संविधान का अनुच्छेद 142 सर्वोच्च न्यायालय को उसके समक्ष लंबित किसी भी मामले या मामले में 'पूर्ण न्याय' करने के लिए आवश्यक कोई भी डिक्री या आदेश पारित करने का अधिकार देता है।"
-      },
-      "category": "Polity & Governance",
-      "difficulty": "easy",
-      "sourceUrl": "https://www.pmfias.com/current-affairs-september-03-2026/"
-    },
-    {
-      "id": "ca_20260904_09",
-      "question": {
-        "en": "Recently, the Indian Copyright Office ruled that an AI system cannot be recognized as an 'author'. This ruling was based on which act?",
-        "hi": "हाल ही में, भारतीय कॉपीराइट कार्यालय ने फैसला सुनाया कि AI सिस्टम को 'लेखक' के रूप में मान्यता नहीं दी जा सकती। यह फैसला किस अधिनियम पर आधारित था?"
-      },
-      "options": [
-        {
-          "en": "The Patents Act, 1970",
-          "hi": "पेटेंट अधिनियम, 1970"
-        },
-        {
-          "en": "The Information Technology Act, 2000",
-          "hi": "सूचना प्रौद्योगिकी अधिनियम, 2000"
-        },
-        {
-          "en": "The Copyright Act, 1957",
-          "hi": "कॉपीराइट अधिनियम, 1957"
-        },
-        {
-          "en": "The Trademarks Act, 1999",
-          "hi": "ट्रेडमार्क अधिनियम, 1999"
-        }
-      ],
-      "correctAnswer": 2,
-      "explanation": {
-        "en": "The Indian Copyright Office ruled that an AI system cannot be recognized as an 'author' under the Copyright Act, 1957, as Section 2(d)(vi) restricts authorship to legally recognized individuals with juridical will.",
-        "hi": "भारतीय कॉपीराइट कार्यालय ने फैसला सुनाया कि कॉपीराइट अधिनियम, 1957 के तहत एआई (AI) प्रणाली को 'लेखक' के रूप में मान्यता नहीं दी जा सकती, क्योंकि धारा 2(d)(vi) लेखकत्व को कानूनी रूप से मान्यता प्राप्त न्यायिक इच्छाशक्ति वाले व्यक्तियों तक सीमित करती है।"
-      },
-      "category": "Science & Technology",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.pmfias.com/current-affairs-september-03-2026/"
-    },
-    {
-      "id": "ca_20260904_10",
-      "question": {
-        "en": "The Pichavaram Mangrove Ecosystem, recently valued for its huge blue carbon stock, is located in which state?",
-        "hi": "पिचावरम मैंग्रोव पारिस्थितिकी तंत्र (Pichavaram Mangrove Ecosystem), जिसे हाल ही में इसके विशाल ब्लू कार्बन स्टॉक के लिए महत्व दिया गया है, किस राज्य में स्थित है?"
-      },
-      "options": [
-        {
-          "en": "Odisha",
-          "hi": "ओडिशा"
-        },
-        {
-          "en": "West Bengal",
-          "hi": "पश्चिम बंगाल"
-        },
-        {
-          "en": "Tamil Nadu",
-          "hi": "तमिलनाडु"
-        },
-        {
-          "en": "Kerala",
-          "hi": "केरल"
-        }
-      ],
-      "correctAnswer": 2,
-      "explanation": {
-        "en": "The Pichavaram Mangrove Forest is located in Cuddalore, Tamil Nadu. It is one of India’s largest mangroves, a Ramsar site, and acts as a bio-shield protecting coastal communities.",
-        "hi": "पिचावरम मैंग्रोव वन कुड्डालोर, तमिलनाडु में स्थित है। यह भारत के सबसे बड़े मैंग्रोव में से एक है, एक रामसर स्थल (Ramsar site) है, और तटीय समुदायों की रक्षा करने वाले जैव-ढाल के रूप में कार्य करता है।"
-      },
-      "category": "Environment & Ecology",
       "difficulty": "hard",
-      "sourceUrl": "https://www.pmfias.com/current-affairs-september-03-2026/"
+      "sourceUrl": "https://www.insightsonindia.com/2026/09/04/upsc-current-affairs-4-september-2026/"
     }
   ]
 }
