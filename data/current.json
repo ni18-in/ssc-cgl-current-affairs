@@ -1,340 +1,340 @@
 {
-  "date": "2026-09-03",
+  "date": "2026-09-04",
   "topic": "SSC CGL Daily Current Affairs",
-  "source": "GKToday",
-  "lastUpdated": "2026-09-03T00:00:00+05:30",
+  "source": "NEXT IAS / PMF IAS / GKToday",
+  "lastUpdated": "2026-09-04T06:00:00+05:30",
   "version": 1,
   "totalQuestions": 10,
   "quiz": [
     {
-      "id": "ca_20260903_01",
+      "id": "ca_20260904_01",
       "question": {
-        "en": "Gollala Gudi Temple, recently declared a monument of national importance, is located in which state?",
-        "hi": "हाल ही में राष्ट्रीय महत्व का स्मारक घोषित किया गया गोलाला गुड़ी मंदिर (Gollala Gudi Temple) किस राज्य में स्थित है?"
+        "en": "India and which country recently reviewed bilateral cooperation in energy security and electrification, marking 75 years of diplomatic relations in 2026?",
+        "hi": "भारत और किस देश ने हाल ही में ऊर्जा सुरक्षा और विद्युतीकरण में द्विपक्षीय सहयोग की समीक्षा की, जो 2026 में राजनयिक संबंधों के 75 वर्ष पूरे होने का प्रतीक है?"
       },
       "options": [
         {
-          "en": "Karnataka",
-          "hi": "कर्नाटक"
+          "en": "France",
+          "hi": "फ्रांस"
         },
         {
-          "en": "Telangana",
-          "hi": "तेलंगाना"
+          "en": "Germany",
+          "hi": "जर्मनी"
         },
         {
-          "en": "Andhra Pradesh",
-          "hi": "आंध्र प्रदेश"
+          "en": "Japan",
+          "hi": "जापान"
         },
         {
-          "en": "Tamil Nadu",
-          "hi": "तमिलनाडु"
+          "en": "Russia",
+          "hi": "रूस"
         }
       ],
       "correctAnswer": 1,
       "explanation": {
-        "en": "Gollalagudi Temple, located in Palampet village of Mulugu district, Telangana, was recently declared a monument of national importance by the Union Government. It highlights the architectural heritage of the region.",
-        "hi": "तेलंगाना के मुलुगु जिले के पालमपेट गांव में स्थित गोलालागुड़ी मंदिर को हाल ही में केंद्र सरकार द्वारा राष्ट्रीय महत्व का स्मारक घोषित किया गया। यह इस क्षेत्र की स्थापत्य विरासत को उजागर करता है।"
-      },
-      "category": "Polity & Governance",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.gktoday.in/gollala-gudi-temple-added-to-indias-national-monuments-list/"
-    },
-    {
-      "id": "ca_20260903_02",
-      "question": {
-        "en": "Under the modified regional connectivity framework known as UDAN, India plans to build how many new airports over the next 10 years?",
-        "hi": "उड़ान (UDAN) नामक संशोधित क्षेत्रीय कनेक्टिविटी ढांचे के तहत, भारत की अगले 10 वर्षों में कितने नए हवाई अड्डे बनाने की योजना है?"
-      },
-      "options": [
-        {
-          "en": "50",
-          "hi": "50"
-        },
-        {
-          "en": "75",
-          "hi": "75"
-        },
-        {
-          "en": "100",
-          "hi": "100"
-        },
-        {
-          "en": "150",
-          "hi": "150"
-        }
-      ],
-      "correctAnswer": 2,
-      "explanation": {
-        "en": "India plans to build 100 new airports over the next 10 years under the modified regional connectivity framework known as UDAN (Ude Desh ka Aam Nagrik) to enhance domestic air travel infrastructure.",
-        "hi": "घरेलू हवाई यात्रा के बुनियादी ढांचे को बढ़ाने के लिए उड़ान (उड़े देश का आम नागरिक) नामक संशोधित क्षेत्रीय कनेक्टिविटी ढांचे के तहत भारत की अगले 10 वर्षों में 100 नए हवाई अड्डे बनाने की योजना है।"
-      },
-      "category": "Government Schemes",
-      "difficulty": "easy",
-      "sourceUrl": "https://www.gktoday.in/india-plans-100-new-airports-under-modified-udan/"
-    },
-    {
-      "id": "ca_20260903_03",
-      "question": {
-        "en": "The Japan Credit Rating Agency (JCR) recently upgraded India’s sovereign rating to what level?",
-        "hi": "जापान क्रेडिट रेटिंग एजेंसी (JCR) ने हाल ही में भारत की सॉवरेन रेटिंग (sovereign rating) को किस स्तर तक बढ़ा दिया है?"
-      },
-      "options": [
-        {
-          "en": "BBB-",
-          "hi": "BBB-"
-        },
-        {
-          "en": "A+",
-          "hi": "A+"
-        },
-        {
-          "en": "A-",
-          "hi": "A-"
-        },
-        {
-          "en": "AA",
-          "hi": "AA"
-        }
-      ],
-      "correctAnswer": 2,
-      "explanation": {
-        "en": "The Japan Credit Rating Agency (JCR) upgraded India’s foreign currency and local currency long-term issuer ratings from BBB+ to A-, reflecting a positive outlook on India's economic stability.",
-        "hi": "जापान क्रेडिट रेटिंग एजेंसी (JCR) ने भारत की आर्थिक स्थिरता पर सकारात्मक दृष्टिकोण को दर्शाते हुए भारत की विदेशी मुद्रा और स्थानीय मुद्रा दीर्घकालिक जारीकर्ता रेटिंग को BBB+ से बढ़ाकर A- कर दिया है।"
-      },
-      "category": "Economy & Banking",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.gktoday.in/japans-jcra-upgrades-indias-sovereign-rating-to-a/"
-    },
-    {
-      "id": "ca_20260903_04",
-      "question": {
-        "en": "The All India Institute of Ayurveda (AIIA) launched a digital dialogue series in September 2026 named what?",
-        "hi": "अखिल भारतीय आयुर्वेद संस्थान (AIIA) ने सितंबर 2026 में किस नाम से एक डिजिटल संवाद श्रृंखला शुरू की?"
-      },
-      "options": [
-        {
-          "en": "AyushSamvad",
-          "hi": "आयुषसंवाद (AyushSamvad)"
-        },
-        {
-          "en": "AyurVarta",
-          "hi": "आयुर्वार्ता (AyurVarta)"
-        },
-        {
-          "en": "VedaGyan",
-          "hi": "वेदज्ञान (VedaGyan)"
-        },
-        {
-          "en": "ArogyaManthan",
-          "hi": "आरोग्यमंथन (ArogyaManthan)"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "The All India Institute of Ayurveda (AIIA), New Delhi, an autonomous body under the Ministry of Ayush, launched a digital dialogue series named AyurVarta to promote Ayurvedic knowledge and research.",
-        "hi": "आयुष मंत्रालय के तहत एक स्वायत्त निकाय, अखिल भारतीय आयुर्वेद संस्थान (AIIA), नई दिल्ली ने आयुर्वेदिक ज्ञान और अनुसंधान को बढ़ावा देने के लिए आयुर्वार्ता (AyurVarta) नामक एक डिजिटल संवाद श्रृंखला शुरू की।"
-      },
-      "category": "Science & Technology",
-      "difficulty": "easy",
-      "sourceUrl": "https://www.gktoday.in/aiia-launches-ayurvarta-digital-dialogue-series/"
-    },
-    {
-      "id": "ca_20260903_05",
-      "question": {
-        "en": "Who assumed charge as the Air Officer-in-Charge Maintenance (AOM) of the Indian Air Force in September 2026?",
-        "hi": "सितंबर 2026 में भारतीय वायु सेना के एयर ऑफिसर-इन-चार्ज मेंटेनेंस (AOM) के रूप में किसने कार्यभार संभाला?"
-      },
-      "options": [
-        {
-          "en": "Air Marshal V.R. Chaudhari",
-          "hi": "एयर मार्शल वी.आर. चौधरी"
-        },
-        {
-          "en": "Air Marshal KAA Sanjeeb",
-          "hi": "एयर मार्शल के.ए.ए. संजीव"
-        },
-        {
-          "en": "Air Marshal AP Singh",
-          "hi": "एयर मार्शल ए.पी. सिंह"
-        },
-        {
-          "en": "Air Marshal Sandeep Singh",
-          "hi": "एयर मार्शल संदीप सिंह"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "Air Marshal KAA Sanjeeb, AVSM, VSM, assumed charge as the Air Officer-in-Charge Maintenance (AOM) of the Indian Air Force on 1 September 2026.",
-        "hi": "एयर मार्शल के.ए.ए. संजीव (KAA Sanjeeb), AVSM, VSM ने 1 सितंबर 2026 को भारतीय वायु सेना के एयर ऑफिसर-इन-चार्ज मेंटेनेंस (AOM) के रूप में कार्यभार संभाला।"
-      },
-      "category": "Appointments & Commissions",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.gktoday.in/air-marshal-kaa-sanjeeb-takes-over-as-aom/"
-    },
-    {
-      "id": "ca_20260903_06",
-      "question": {
-        "en": "The 5th Edition of the 'Swachh Sagar, Surakshit Sagar' campaign was launched for marine litter removal. It is led by which union ministry?",
-        "hi": "समुद्री कचरे को हटाने के लिए 'स्वच्छ सागर, सुरक्षित सागर' अभियान का 5वां संस्करण शुरू किया गया। इसका नेतृत्व किस केंद्रीय मंत्रालय द्वारा किया जाता है?"
-      },
-      "options": [
-        {
-          "en": "Ministry of Environment, Forest and Climate Change",
-          "hi": "पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय"
-        },
-        {
-          "en": "Ministry of Earth Sciences",
-          "hi": "पृथ्वी विज्ञान मंत्रालय"
-        },
-        {
-          "en": "Ministry of Jal Shakti",
-          "hi": "जल शक्ति मंत्रालय"
-        },
-        {
-          "en": "Ministry of Ports, Shipping and Waterways",
-          "hi": "पत्तन, पोत परिवहन और जलमार्ग मंत्रालय"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "The fifth edition of Swachh Sagar, Surakshit Sagar (SSSS v.5.0) was launched for marine litter removal and coastal conservation in India. It is primarily driven by the Ministry of Earth Sciences along with other partners.",
-        "hi": "भारत में समुद्री कचरे को हटाने और तटीय संरक्षण के लिए 'स्वच्छ सागर, सुरक्षित सागर' (SSSS v.5.0) का पांचवां संस्करण लॉन्च किया गया। यह मुख्य रूप से पृथ्वी विज्ञान मंत्रालय द्वारा अन्य भागीदारों के साथ चलाया जाता है।"
-      },
-      "category": "Environment & Ecology",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.gktoday.in/5th-edition-of-swachh-sagar-surakshit-sagar-2026-launched/"
-    },
-    {
-      "id": "ca_20260903_07",
-      "question": {
-        "en": "Which city was designated as the Tourism and Cultural Capital for the 2026–27 term by the Shanghai Cooperation Organisation (SCO)?",
-        "hi": "शंघाई सहयोग संगठन (SCO) द्वारा 2026-27 के कार्यकाल के लिए किस शहर को पर्यटन और सांस्कृतिक राजधानी (Tourism and Cultural Capital) के रूप में नामित किया गया था?"
-      },
-      "options": [
-        {
-          "en": "Almaty",
-          "hi": "अल्माटी"
-        },
-        {
-          "en": "Tashkent",
-          "hi": "ताशकंद"
-        },
-        {
-          "en": "Lahore",
-          "hi": "लाहौर"
-        },
-        {
-          "en": "Varanasi",
-          "hi": "वाराणसी"
-        }
-      ],
-      "correctAnswer": 2,
-      "explanation": {
-        "en": "Lahore in Pakistan was designated as the Tourism and Cultural Capital for the 2026–27 term by the Shanghai Cooperation Organisation (SCO) during its 26th Summit.",
-        "hi": "शंघाई सहयोग संगठन (SCO) के 26वें शिखर सम्मेलन के दौरान पाकिस्तान के लाहौर को 2026-27 के कार्यकाल के लिए पर्यटन और सांस्कृतिक राजधानी के रूप में नामित किया गया था।"
+        "en": "India and Germany recently reviewed bilateral cooperation in energy security, electrification, and low-carbon development. In 2026, the two countries mark 75 years of diplomatic relations and 25 years of their Strategic Partnership.",
+        "hi": "भारत और जर्मनी ने हाल ही में ऊर्जा सुरक्षा, विद्युतीकरण और निम्न-कार्बन विकास में द्विपक्षीय सहयोग की समीक्षा की। 2026 में, दोनों देश अपने राजनयिक संबंधों के 75 साल और अपनी रणनीतिक साझेदारी के 25 साल पूरे कर रहे हैं।"
       },
       "category": "International Summits",
       "difficulty": "medium",
-      "sourceUrl": "https://www.gktoday.in/sco-names-lahore-tourism-and-cultural-capital/"
+      "sourceUrl": "https://www.nextias.com/ca/current-affairs/03-09-2026"
     },
     {
-      "id": "ca_20260903_08",
+      "id": "ca_20260904_02",
       "question": {
-        "en": "Indian Railways approved ₹170 Crore for the deployment of Kavach 4.0 in which railway division?",
-        "hi": "भारतीय रेलवे ने किस रेलवे मंडल (डिवीजन) में कवच 4.0 (Kavach 4.0) की तैनाती के लिए ₹170 करोड़ मंजूर किए हैं?"
+        "en": "India's medical devices market is projected to grow to what value by 2030, according to recent estimates?",
+        "hi": "हालिया अनुमानों के अनुसार, भारत का चिकित्सा उपकरण बाजार 2030 तक किस मूल्य तक बढ़ने का अनुमान है?"
       },
       "options": [
         {
-          "en": "Delhi Division",
-          "hi": "दिल्ली मंडल"
+          "en": "US$ 25.1 billion",
+          "hi": "US$ 25.1 बिलियन"
         },
         {
-          "en": "Moradabad Division",
-          "hi": "मुरादाबाद मंडल"
+          "en": "US$ 30.5 billion",
+          "hi": "US$ 30.5 बिलियन"
         },
         {
-          "en": "Lucknow Division",
-          "hi": "लखनऊ मंडल"
+          "en": "US$ 40.2 billion",
+          "hi": "US$ 40.2 बिलियन"
         },
         {
-          "en": "Ambala Division",
-          "hi": "अंबाला मंडल"
+          "en": "US$ 50.1 billion",
+          "hi": "US$ 50.1 बिलियन"
         }
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 3,
       "explanation": {
-        "en": "Indian Railways approved ₹170 crore for the deployment of Kavach Version 4.0, an indigenous Automatic Train Protection system, across the remaining 712 route kilometres of Northern Railway’s Moradabad Division.",
-        "hi": "भारतीय रेलवे ने उत्तर रेलवे के मुरादाबाद मंडल के शेष 712 मार्ग किलोमीटर में स्वदेशी स्वचालित ट्रेन सुरक्षा प्रणाली, कवच (Kavach) संस्करण 4.0 की तैनाती के लिए ₹170 करोड़ मंजूर किए हैं।"
+        "en": "India's medical devices market is projected to grow steadily from US$ 15.2 billion in 2025 to US$ 50.1 billion by 2030, supporting the country's expanding healthcare ecosystem.",
+        "hi": "भारत का चिकित्सा उपकरण बाजार 2025 में US$ 15.2 बिलियन से लगातार बढ़कर 2030 तक US$ 50.1 बिलियन होने का अनुमान है, जो देश के विस्तार वाले स्वास्थ्य सेवा पारिस्थितिकी तंत्र का समर्थन करता है।"
       },
-      "category": "Science & Technology",
+      "category": "Economy & Banking",
       "difficulty": "hard",
-      "sourceUrl": "https://www.gktoday.in/indian-railways-approves-%e2%82%b9170-crore-for-kavach-4-0/"
+      "sourceUrl": "https://www.nextias.com/ca/current-affairs/03-09-2026"
     },
     {
-      "id": "ca_20260903_09",
+      "id": "ca_20260904_03",
       "question": {
-        "en": "Who became the youngest player to score a half-century in Duleep Trophy history?",
-        "hi": "दिलीप ट्रॉफी (Duleep Trophy) के इतिहास में अर्धशतक बनाने वाले सबसे कम उम्र के खिलाड़ी कौन बने हैं?"
+        "en": "According to the UNEP 'Limiting Overshoot' report, what is the 'Overshoot' pathway?",
+        "hi": "UNEP की 'लिमिटिंग ओवरशूट' रिपोर्ट के अनुसार, 'ओवरशूट' मार्ग क्या है?"
       },
       "options": [
         {
-          "en": "Yashasvi Jaiswal",
-          "hi": "यशस्वी जायसवाल"
+          "en": "Global average temperature temporarily rises above 1.5°C above pre-industrial levels.",
+          "hi": "वैश्विक औसत तापमान अस्थायी रूप से पूर्व-औद्योगिक स्तरों से 1.5°C से ऊपर बढ़ जाता है।"
         },
         {
-          "en": "Prithvi Shaw",
-          "hi": "पृथ्वी शॉ"
+          "en": "Global average temperature permanently drops below 1.5°C.",
+          "hi": "वैश्विक औसत तापमान स्थायी रूप से 1.5°C से नीचे गिर जाता है।"
         },
         {
-          "en": "Vaibhav Sooryavanshi",
-          "hi": "वैभव सूर्यवंशी"
+          "en": "Greenhouse gas emissions reach zero by 2030.",
+          "hi": "ग्रीनहाउस गैस उत्सर्जन 2030 तक शून्य हो जाएगा।"
         },
         {
-          "en": "Sachin Tendulkar",
-          "hi": "सचिन तेंदुलकर"
-        }
-      ],
-      "correctAnswer": 2,
-      "explanation": {
-        "en": "Vaibhav Sooryavanshi, a 15-year-old batter from East Zone, became the youngest player to score a half-century in Duleep Trophy history on 31 August 2026.",
-        "hi": "ईस्ट ज़ोन के 15 वर्षीय बल्लेबाज वैभव सूर्यवंशी 31 अगस्त 2026 को दलीप ट्रॉफी के इतिहास में अर्धशतक बनाने वाले सबसे कम उम्र के खिलाड़ी बन गए।"
-      },
-      "category": "Sports",
-      "difficulty": "hard",
-      "sourceUrl": "https://www.gktoday.in/vaibhav-sooryavanshi-becomes-youngest-duleep-trophy-half-century-maker/"
-    },
-    {
-      "id": "ca_20260903_10",
-      "question": {
-        "en": "Who recently assumed charge as the Assistant Chief of the Air Staff (Education) and became the first non-medical woman Air Vice Marshal in the IAF?",
-        "hi": "हाल ही में किसने असिस्टेंट चीफ ऑफ द एयर स्टाफ (एजुकेशन) के रूप में कार्यभार संभाला और भारतीय वायु सेना (IAF) में पहली गैर-चिकित्सा (non-medical) महिला एयर वाइस मार्शल बनीं?"
-      },
-      "options": [
-        {
-          "en": "Shakti Sharma",
-          "hi": "शक्ति शर्मा"
-        },
-        {
-          "en": "Padmavathy Bandopadhyay",
-          "hi": "पद्मावती बंदोपाध्याय"
-        },
-        {
-          "en": "Sadhna Saxena Nair",
-          "hi": "साधना सक्सेना नायर"
-        },
-        {
-          "en": "Arti Sarin",
-          "hi": "आरती सरीन"
+          "en": "Renewable energy replaces all fossil fuels globally.",
+          "hi": "नवीकरणीय ऊर्जा विश्व स्तर पर सभी जीवाश्म ईंधन की जगह ले लेगी।"
         }
       ],
       "correctAnswer": 0,
       "explanation": {
-        "en": "Air Vice Marshal Shakti Sharma assumed charge as the Assistant Chief of the Air Staff (Education) at Air Headquarters, becoming the first non-medical woman officer to reach this rank in the Indian Air Force.",
-        "hi": "एयर वाइस मार्शल शक्ति शर्मा ने वायु सेना मुख्यालय में असिस्टेंट चीफ ऑफ द एयर स्टाफ (एजुकेशन) के रूप में कार्यभार संभाला, जो भारतीय वायु सेना में इस पद तक पहुंचने वाली पहली गैर-चिकित्सा महिला अधिकारी बन गईं।"
+        "en": "The UNEP Limiting Overshoot report outlines a pathway to manage the likely temporary breach of the 1.5°C global warming limit, where 'Overshoot' means the global average temperature temporarily rises above 1.5°C above pre-industrial levels.",
+        "hi": "UNEP लिमिटिंग ओवरशूट रिपोर्ट 1.5°C ग्लोबल वार्मिंग सीमा के संभावित अस्थायी उल्लंघन को प्रबंधित करने के लिए एक मार्ग की रूपरेखा तैयार करती है, जहाँ 'ओवरशूट' का अर्थ है वैश्विक औसत तापमान का अस्थायी रूप से पूर्व-औद्योगिक स्तरों से 1.5°C से ऊपर बढ़ना।"
       },
-      "category": "Defence & Security",
+      "category": "Environment & Ecology",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.nextias.com/ca/current-affairs/03-09-2026"
+    },
+    {
+      "id": "ca_20260904_04",
+      "question": {
+        "en": "The 7th Status of Coral Reefs of the World report highlights that recovery periods for coral reefs have shortened dramatically. Which organization released this report?",
+        "hi": "दुनिया के प्रवाल भित्तियों की 7वीं स्थिति (7th Status of Coral Reefs of the World) रिपोर्ट इस बात पर प्रकाश डालती है कि प्रवाल भित्तियों के लिए पुनर्प्राप्ति अवधि (recovery periods) नाटकीय रूप से कम हो गई है। यह रिपोर्ट किस संगठन ने जारी की?"
+      },
+      "options": [
+        {
+          "en": "United Nations Environment Programme (UNEP)",
+          "hi": "संयुक्त राष्ट्र पर्यावरण कार्यक्रम (UNEP)"
+        },
+        {
+          "en": "Global Coral Reef Monitoring Network (GCRMN)",
+          "hi": "ग्लोबल कोरल रीफ मॉनिटरिंग नेटवर्क (GCRMN)"
+        },
+        {
+          "en": "World Wildlife Fund (WWF)",
+          "hi": "वर्ल्ड वाइल्डलाइफ फंड (WWF)"
+        },
+        {
+          "en": "International Union for Conservation of Nature (IUCN)",
+          "hi": "अंतर्राष्ट्रीय प्रकृति संरक्षण संघ (IUCN)"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The seventh Status of Coral Reefs of the World report by the Global Coral Reef Monitoring Network (GCRMN) said recovery periods had shortened dramatically, with major disturbances occurring every four to six years.",
+        "hi": "ग्लोबल कोरल रीफ मॉनिटरिंग नेटवर्क (GCRMN) द्वारा दुनिया के प्रवाल भित्तियों की 7वीं स्थिति की रिपोर्ट में कहा गया है कि हर चार से छह साल में होने वाली बड़ी गड़बड़ी के साथ, पुनर्प्राप्ति अवधि नाटकीय रूप से कम हो गई है।"
+      },
+      "category": "Environment & Ecology",
       "difficulty": "easy",
-      "sourceUrl": "https://www.gktoday.in/shakti-sharma-becomes-first-woman-non-medical-air-vice-marshal/"
+      "sourceUrl": "https://www.nextias.com/ca/current-affairs/03-09-2026"
+    },
+    {
+      "id": "ca_20260904_05",
+      "question": {
+        "en": "Who unveiled the statue of Veerangana Rani Avantibai Lodhi in Lucknow?",
+        "hi": "लखनऊ में वीरांगना रानी अवंतीबाई लोधी की प्रतिमा का अनावरण किसने किया?"
+      },
+      "options": [
+        {
+          "en": "Prime Minister of India",
+          "hi": "भारत के प्रधानमंत्री"
+        },
+        {
+          "en": "Defence Minister of India",
+          "hi": "भारत के रक्षा मंत्री"
+        },
+        {
+          "en": "Chief Minister of Uttar Pradesh",
+          "hi": "उत्तर प्रदेश के मुख्यमंत्री"
+        },
+        {
+          "en": "President of India",
+          "hi": "भारत के राष्ट्रपति"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The Defence Minister of India unveiled the statue of Veerangana Rani Avantibai Lodhi in Lucknow. She was a prominent woman leader of the Revolt of 1857 and queen of the Ramgarh princely state.",
+        "hi": "भारत के रक्षा मंत्री ने लखनऊ में वीरांगना रानी अवंतीबाई लोधी की प्रतिमा का अनावरण किया। वह 1857 के विद्रोह की एक प्रमुख महिला नेता और रामगढ़ रियासत की रानी थीं।"
+      },
+      "category": "Awards & Honours",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.nextias.com/ca/current-affairs/03-09-2026"
+    },
+    {
+      "id": "ca_20260904_06",
+      "question": {
+        "en": "What is the primary objective of the Districts as Export Hubs (DEH) initiative?",
+        "hi": "निर्यात हब के रूप में जिले (Districts as Export Hubs - DEH) पहल का प्राथमिक उद्देश्य क्या है?"
+      },
+      "options": [
+        {
+          "en": "To centralize all manufacturing activities in major metropolitan cities.",
+          "hi": "प्रमुख महानगरीय शहरों में सभी विनिर्माण गतिविधियों को केंद्रीकृत करना।"
+        },
+        {
+          "en": "To restrict exports to saturated industrial clusters.",
+          "hi": "संतृप्त औद्योगिक समूहों तक निर्यात को सीमित करना।"
+        },
+        {
+          "en": "To decentralize India’s export ecosystem by shifting focus to untapped manufacturing centers in the hinterland.",
+          "hi": "भीतरी इलाकों में अप्रयुक्त विनिर्माण केंद्रों पर ध्यान केंद्रित करके भारत के निर्यात पारिस्थितिकी तंत्र का विकेंद्रीकरण करना।"
+        },
+        {
+          "en": "To promote imports of high-value goods in rural districts.",
+          "hi": "ग्रामीण जिलों में उच्च मूल्य वाले सामानों के आयात को बढ़ावा देना।"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The DEH initiative aims to decentralize India’s export ecosystem by shifting focus from saturated industrial clusters to untapped manufacturing centers in the hinterland, transforming every district into an export planning unit.",
+        "hi": "DEH पहल का उद्देश्य भारत के निर्यात पारिस्थितिकी तंत्र का विकेंद्रीकरण करना है, जिसके लिए हर जिले को एक निर्यात योजना इकाई में बदलकर, संतृप्त औद्योगिक समूहों से अपना ध्यान हटाकर भीतरी इलाकों में अप्रयुक्त विनिर्माण केंद्रों पर केंद्रित किया गया है।"
+      },
+      "category": "Government Schemes",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.pmfias.com/current-affairs-september-03-2026/"
+    },
+    {
+      "id": "ca_20260904_07",
+      "question": {
+        "en": "In the context of EVM vote counting, what is the purpose of a 'Totaliser' machine?",
+        "hi": "EVM वोट गिनती के संदर्भ में, 'टोटलाइज़र' (Totaliser) मशीन का उद्देश्य क्या है?"
+      },
+      "options": [
+        {
+          "en": "To verify VVPAT slips individually.",
+          "hi": "VVPAT पर्चियों को व्यक्तिगत रूप से सत्यापित करना।"
+        },
+        {
+          "en": "To aggregate votes from multiple EVMs, protecting the secrecy of voting patterns.",
+          "hi": "मतदान पैटर्न की गोपनीयता की रक्षा करते हुए, कई EVM से वोटों को एकत्र करना।"
+        },
+        {
+          "en": "To reveal the exact voting pattern of individual polling booths.",
+          "hi": "व्यक्तिगत मतदान केंद्रों के सटीक मतदान पैटर्न को प्रकट करना।"
+        },
+        {
+          "en": "To speed up the transportation of EVMs to counting centers.",
+          "hi": "गणना केंद्रों तक EVM के परिवहन को गति देना।"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "A totaliser allows votes recorded in multiple EVMs to be aggregated and counted together, protecting the secrecy of voting patterns and preventing post-election intimidation or victimisation.",
+        "hi": "एक टोटलाइज़र कई EVM में दर्ज वोटों को एक साथ एकत्र करने और गिनने की अनुमति देता है, जिससे मतदान पैटर्न की गोपनीयता की रक्षा होती है और चुनाव के बाद की धमकी या उत्पीड़न को रोका जा सकता है।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.pmfias.com/current-affairs-september-03-2026/"
+    },
+    {
+      "id": "ca_20260904_08",
+      "question": {
+        "en": "Which constitutional article empowers the Supreme Court to pass any decree or order necessary to do 'complete justice' in any pending case?",
+        "hi": "कौन सा संवैधानिक अनुच्छेद सर्वोच्च न्यायालय को किसी भी लंबित मामले में 'पूर्ण न्याय' करने के लिए आवश्यक कोई भी डिक्री या आदेश पारित करने का अधिकार देता है?"
+      },
+      "options": [
+        {
+          "en": "Article 131",
+          "hi": "अनुच्छेद 131"
+        },
+        {
+          "en": "Article 142",
+          "hi": "अनुच्छेद 142"
+        },
+        {
+          "en": "Article 32",
+          "hi": "अनुच्छेद 32"
+        },
+        {
+          "en": "Article 129",
+          "hi": "अनुच्छेद 129"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Article 142 of the Indian Constitution empowers the Supreme Court to pass any decree or order necessary to do 'complete justice' in any case or matter pending before it.",
+        "hi": "भारतीय संविधान का अनुच्छेद 142 सर्वोच्च न्यायालय को उसके समक्ष लंबित किसी भी मामले या मामले में 'पूर्ण न्याय' करने के लिए आवश्यक कोई भी डिक्री या आदेश पारित करने का अधिकार देता है।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.pmfias.com/current-affairs-september-03-2026/"
+    },
+    {
+      "id": "ca_20260904_09",
+      "question": {
+        "en": "Recently, the Indian Copyright Office ruled that an AI system cannot be recognized as an 'author'. This ruling was based on which act?",
+        "hi": "हाल ही में, भारतीय कॉपीराइट कार्यालय ने फैसला सुनाया कि AI सिस्टम को 'लेखक' के रूप में मान्यता नहीं दी जा सकती। यह फैसला किस अधिनियम पर आधारित था?"
+      },
+      "options": [
+        {
+          "en": "The Patents Act, 1970",
+          "hi": "पेटेंट अधिनियम, 1970"
+        },
+        {
+          "en": "The Information Technology Act, 2000",
+          "hi": "सूचना प्रौद्योगिकी अधिनियम, 2000"
+        },
+        {
+          "en": "The Copyright Act, 1957",
+          "hi": "कॉपीराइट अधिनियम, 1957"
+        },
+        {
+          "en": "The Trademarks Act, 1999",
+          "hi": "ट्रेडमार्क अधिनियम, 1999"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The Indian Copyright Office ruled that an AI system cannot be recognized as an 'author' under the Copyright Act, 1957, as Section 2(d)(vi) restricts authorship to legally recognized individuals with juridical will.",
+        "hi": "भारतीय कॉपीराइट कार्यालय ने फैसला सुनाया कि कॉपीराइट अधिनियम, 1957 के तहत एआई (AI) प्रणाली को 'लेखक' के रूप में मान्यता नहीं दी जा सकती, क्योंकि धारा 2(d)(vi) लेखकत्व को कानूनी रूप से मान्यता प्राप्त न्यायिक इच्छाशक्ति वाले व्यक्तियों तक सीमित करती है।"
+      },
+      "category": "Science & Technology",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.pmfias.com/current-affairs-september-03-2026/"
+    },
+    {
+      "id": "ca_20260904_10",
+      "question": {
+        "en": "The Pichavaram Mangrove Ecosystem, recently valued for its huge blue carbon stock, is located in which state?",
+        "hi": "पिचावरम मैंग्रोव पारिस्थितिकी तंत्र (Pichavaram Mangrove Ecosystem), जिसे हाल ही में इसके विशाल ब्लू कार्बन स्टॉक के लिए महत्व दिया गया है, किस राज्य में स्थित है?"
+      },
+      "options": [
+        {
+          "en": "Odisha",
+          "hi": "ओडिशा"
+        },
+        {
+          "en": "West Bengal",
+          "hi": "पश्चिम बंगाल"
+        },
+        {
+          "en": "Tamil Nadu",
+          "hi": "तमिलनाडु"
+        },
+        {
+          "en": "Kerala",
+          "hi": "केरल"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The Pichavaram Mangrove Forest is located in Cuddalore, Tamil Nadu. It is one of India’s largest mangroves, a Ramsar site, and acts as a bio-shield protecting coastal communities.",
+        "hi": "पिचावरम मैंग्रोव वन कुड्डालोर, तमिलनाडु में स्थित है। यह भारत के सबसे बड़े मैंग्रोव में से एक है, एक रामसर स्थल (Ramsar site) है, और तटीय समुदायों की रक्षा करने वाले जैव-ढाल के रूप में कार्य करता है।"
+      },
+      "category": "Environment & Ecology",
+      "difficulty": "hard",
+      "sourceUrl": "https://www.pmfias.com/current-affairs-september-03-2026/"
     }
   ]
 }
