@@ -1,340 +1,340 @@
 {
-  "date": "2026-09-08",
+  "date": "2026-09-09",
   "topic": "SSC CGL Daily Current Affairs",
   "source": "PIB / The Hindu / Economic Times / Indian Express / GKToday",
-  "lastUpdated": "2026-09-08T06:00:00+05:30",
+  "lastUpdated": "2026-09-09T06:00:00+05:30",
   "version": 1,
   "totalQuestions": 10,
   "quiz": [
     {
-      "id": "ca_20260908_01",
+      "id": "ca_20260909_01",
       "question": {
-        "en": "Recently, which country formally recognised India's carbon credit scheme under its Carbon Border Adjustment Mechanism (CBAM) or carbon tax framework?",
-        "hi": "हाल ही में, किस देश ने अपने कार्बन सीमा समायोजन तंत्र (CBAM) या कार्बन कर ढांचे के तहत भारत की कार्बन क्रेडिट योजना को औपचारिक रूप से मान्यता दी है?"
+        "en": "Recently, which state government approved a massive ₹8,000 crore investment by Goa Shipyard Limited to set up a new defence and warship building unit?",
+        "hi": "हाल ही में, किस राज्य सरकार ने नई रक्षा और युद्धपोत निर्माण इकाई स्थापित करने के लिए गोवा शिपयार्ड लिमिटेड द्वारा ₹8,000 करोड़ के बड़े निवेश को मंजूरी दी है?"
       },
       "options": [
         {
-          "en": "United States",
-          "hi": "संयुक्त राज्य अमेरिका"
+          "en": "Gujarat",
+          "hi": "गुजरात"
         },
         {
-          "en": "United Kingdom",
-          "hi": "यूनाइटेड किंगडम"
+          "en": "Andhra Pradesh",
+          "hi": "आंध्र प्रदेश"
         },
         {
-          "en": "Australia",
-          "hi": "ऑस्ट्रेलिया"
+          "en": "Maharashtra",
+          "hi": "महाराष्ट्र"
         },
         {
-          "en": "France",
-          "hi": "फ्रांस"
+          "en": "Tamil Nadu",
+          "hi": "तमिलनाडु"
         }
       ],
       "correctAnswer": 1,
       "explanation": {
-        "en": "The United Kingdom has officially recognised India's carbon credit mechanism under its carbon tax framework. This will help Indian exporters remain competitive in the UK market by avoiding double taxation on carbon emissions. This aligns with global climate targets and trade facilitation.",
-        "hi": "यूनाइटेड किंगडम ने अपने कार्बन कर ढांचे के तहत भारत के कार्बन क्रेडिट तंत्र को आधिकारिक रूप से मान्यता दी है। इससे भारतीय निर्यातकों को कार्बन उत्सर्जन पर दोहरे कराधान से बचकर यूके के बाजार में प्रतिस्पर्धी बने रहने में मदद मिलेगी। यह वैश्विक जलवायु लक्ष्यों और व्यापार सुविधा के अनुरूप है।"
-      },
-      "category": "Environment & Ecology",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.thehindu.com/news/national/"
-    },
-    {
-      "id": "ca_20260908_02",
-      "question": {
-        "en": "Who has been sworn in as the new Chief Justice of the Rajasthan High Court?",
-        "hi": "राजस्थान उच्च न्यायालय के नए मुख्य न्यायाधीश के रूप में किसने शपथ ली है?"
-      },
-      "options": [
-        {
-          "en": "Justice Sanjay Kumar Agrawal",
-          "hi": "न्यायमूर्ति संजय कुमार अग्रवाल"
-        },
-        {
-          "en": "Justice Manindra Mohan Shrivastava",
-          "hi": "न्यायमूर्ति मणीन्द्र मोहन श्रीवास्तव"
-        },
-        {
-          "en": "Justice Pankaj Mithal",
-          "hi": "न्यायमूर्ति पंकज मिथल"
-        },
-        {
-          "en": "Justice D.Y. Chandrachud",
-          "hi": "न्यायमूर्ति डी.वाई. चंद्रचूड़"
-        }
-      ],
-      "correctAnswer": 0,
-      "explanation": {
-        "en": "Justice Sanjay Kumar Agrawal was recently sworn in as the Chief Justice of the Rajasthan High Court. The Governor of the state administers the oath of office to the Chief Justice of a High Court under Article 219 of the Indian Constitution.",
-        "hi": "न्यायमूर्ति संजय कुमार अग्रवाल ने हाल ही में राजस्थान उच्च न्यायालय के मुख्य न्यायाधीश के रूप में शपथ ली। भारतीय संविधान के अनुच्छेद 219 के तहत राज्य के राज्यपाल उच्च न्यायालय के मुख्य न्यायाधीश को पद की शपथ दिलाते हैं।"
-      },
-      "category": "Appointments & Commissions",
-      "difficulty": "easy",
-      "sourceUrl": "https://www.thehindu.com/news/national/"
-    },
-    {
-      "id": "ca_20260908_03",
-      "question": {
-        "en": "The Defence Acquisition Council (DAC), chaired by Defence Minister Rajnath Singh, recently cleared proposals worth ₹1.1 lakh crore. What percentage of these military hardware purchases is set to be sourced from domestic (local) companies?",
-        "hi": "रक्षा मंत्री राजनाथ सिंह की अध्यक्षता में रक्षा अधिग्रहण परिषद (DAC) ने हाल ही में ₹1.1 लाख करोड़ के प्रस्तावों को मंजूरी दी। इन सैन्य हार्डवेयर खरीद का कितना प्रतिशत घरेलू (स्थानीय) कंपनियों से प्राप्त किया जाना है?"
-      },
-      "options": [
-        {
-          "en": "50%",
-          "hi": "50%"
-        },
-        {
-          "en": "75%",
-          "hi": "75%"
-        },
-        {
-          "en": "98%",
-          "hi": "98%"
-        },
-        {
-          "en": "100%",
-          "hi": "100%"
-        }
-      ],
-      "correctAnswer": 2,
-      "explanation": {
-        "en": "The government has cleared proposals worth Rs 1.1 lakh crore to buy military hardware, with 98% of this expected to be sourced from local Indian companies. This massive step under the 'Make in India' and 'Aatmanirbhar Bharat' initiatives aims to boost indigenous defence manufacturing.",
-        "hi": "सरकार ने सैन्य हार्डवेयर खरीदने के लिए 1.1 लाख करोड़ रुपये के प्रस्तावों को मंजूरी दी है, जिसमें से 98% स्थानीय भारतीय कंपनियों से प्राप्त होने की उम्मीद है। 'मेक इन इंडिया' और 'आत्मनिर्भर भारत' पहल के तहत इस बड़े कदम का उद्देश्य स्वदेशी रक्षा निर्माण को बढ़ावा देना है।"
+        "en": "The Andhra Pradesh government has cleared the decks for a new defence and warship building unit at Machilipatnam. Goa Shipyard Limited, a Defence PSU, will invest ₹8,000 crore for this facility, which marks its first major expansion outside Goa.",
+        "hi": "आंध्र प्रदेश सरकार ने मछलीपट्टनम में एक नई रक्षा और युद्धपोत निर्माण इकाई के लिए रास्ता साफ कर दिया है। एक रक्षा पीएसयू गोवा शिपयार्ड लिमिटेड इस सुविधा के लिए ₹8,000 करोड़ का निवेश करेगी, जो गोवा के बाहर इसका पहला बड़ा विस्तार है।"
       },
       "category": "Defence & Security",
       "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/"
+      "sourceUrl": "https://economictimes.indiatimes.com/news/defence/andhra-pradesh-clears-decks-for-new-defence-warship-building-unit/articleshow/133938086.cms"
     },
     {
-      "id": "ca_20260908_04",
+      "id": "ca_20260909_02",
       "question": {
-        "en": "Recently, the Indian government joined hands with the United States and 24 other nations for a major push towards the development of which next-generation technology?",
-        "hi": "हाल ही में, भारत सरकार ने किस अगली पीढ़ी की तकनीक के विकास की दिशा में एक बड़े कदम के लिए संयुक्त राज्य अमेरिका और 24 अन्य देशों के साथ हाथ मिलाया है?"
+        "en": "Which Indian space startup recently unveiled two new facilities in Chennai for testing and manufacturing reusable rocket stages?",
+        "hi": "हाल ही में किस भारतीय अंतरिक्ष स्टार्टअप ने चेन्नई में पुन: प्रयोज्य रॉकेट चरणों के परीक्षण और निर्माण के लिए दो नई सुविधाओं का अनावरण किया है?"
       },
       "options": [
         {
-          "en": "Quantum Computing",
-          "hi": "क्वांटम कंप्यूटिंग"
+          "en": "Skyroot Aerospace",
+          "hi": "स्काईरूट एयरोस्पेस"
         },
         {
-          "en": "6G Networks",
-          "hi": "6G नेटवर्क"
+          "en": "Agnikul Cosmos",
+          "hi": "अग्निकुल कॉसमॉस"
         },
         {
-          "en": "Nuclear Fusion",
-          "hi": "परमाणु संलयन"
+          "en": "Pixxel",
+          "hi": "पिक्सेल"
         },
         {
-          "en": "Space Tourism",
-          "hi": "अंतरिक्ष पर्यटन"
+          "en": "Dhruva Space",
+          "hi": "ध्रुव स्पेस"
         }
       ],
       "correctAnswer": 1,
       "explanation": {
-        "en": "India has partnered with the US and 24 other nations in a joint statement to push for the development of next-generation 6G networks. The 'Joint Statement Endorsing Principles for 6G' focuses on creating secure, resilient, and inclusive telecom networks, boosting global connectivity.",
-        "hi": "भारत ने अगली पीढ़ी के 6G नेटवर्क के विकास को आगे बढ़ाने के लिए एक संयुक्त बयान में अमेरिका और 24 अन्य देशों के साथ साझेदारी की है। '6G के लिए सिद्धांतों का समर्थन करने वाला संयुक्त वक्तव्य' सुरक्षित, लचीला और समावेशी दूरसंचार नेटवर्क बनाने पर केंद्रित है, जो वैश्विक कनेक्टिविटी को बढ़ावा देता है।"
+        "en": "Indian space startup Agnikul Cosmos inaugurated two new testing and manufacturing hubs in Chennai to validate reusable rocket stages. The startup aims to develop reusable launch vehicle technology to expand India's capabilities in future space missions.",
+        "hi": "भारतीय अंतरिक्ष स्टार्टअप अग्निकुल कॉसमॉस ने पुन: प्रयोज्य रॉकेट चरणों को मान्य करने के लिए चेन्नई में दो नए परीक्षण और विनिर्माण हब का उद्घाटन किया। स्टार्टअप का उद्देश्य भविष्य के अंतरिक्ष मिशनों में भारत की क्षमताओं का विस्तार करने के लिए पुन: प्रयोज्य लॉन्च वाहन तकनीक विकसित करना है।"
       },
       "category": "Science & Technology",
       "difficulty": "easy",
-      "sourceUrl": "https://timesofindia.indiatimes.com/"
+      "sourceUrl": "https://timesofindia.indiatimes.com/science/indian-startup-agnikul-cosmos-unveils-testing-manufacturing-hubs-in-chennai-to-validate-reusable-rocket-stages/articleshow/133922997.cms"
     },
     {
-      "id": "ca_20260908_05",
+      "id": "ca_20260909_03",
       "question": {
-        "en": "As per recent policy updates for rural LPG consumers in India, the mandated interval for LPG cylinder booking has been reduced from 45 days to how many days?",
-        "hi": "भारत में ग्रामीण एलपीजी उपभोक्ताओं के लिए हाल के नीतिगत अपडेट के अनुसार, एलपीजी सिलेंडर बुकिंग के लिए अनिवार्य अंतराल को 45 दिनों से घटाकर कितने दिन कर दिया गया है?"
+        "en": "According to recent economic data, which sector in India is growing nearly four times faster than corporate entities?",
+        "hi": "हाल के आर्थिक आंकड़ों के अनुसार, भारत में कौन सा क्षेत्र कॉर्पोरेट संस्थाओं की तुलना में लगभग चार गुना तेजी से बढ़ रहा है?"
       },
       "options": [
         {
-          "en": "15 days",
-          "hi": "15 दिन"
+          "en": "Information Technology",
+          "hi": "सूचना प्रौद्योगिकी"
         },
         {
-          "en": "21 days",
-          "hi": "21 दिन"
+          "en": "Household Manufacturing",
+          "hi": "घरेलू विनिर्माण"
         },
         {
-          "en": "25 days",
-          "hi": "25 दिन"
+          "en": "Heavy Industries",
+          "hi": "भारी उद्योग"
         },
         {
-          "en": "30 days",
-          "hi": "30 दिन"
-        }
-      ],
-      "correctAnswer": 2,
-      "explanation": {
-        "en": "The government has reduced the minimum booking interval for liquefied petroleum gas (LPG) for rural consumers from 45 days to 25 days. This policy adjustment under schemes like PMUY aims to ensure consistent availability of clean cooking fuel in rural areas.",
-        "hi": "सरकार ने ग्रामीण उपभोक्ताओं के लिए तरलीकृत पेट्रोलियम गैस (एलपीजी) के लिए न्यूनतम बुकिंग अंतराल को 45 दिनों से घटाकर 25 दिन कर दिया है। पीएमयूवाई जैसी योजनाओं के तहत इस नीति समायोजन का उद्देश्य ग्रामीण क्षेत्रों में स्वच्छ खाना पकाने के ईंधन की निरंतर उपलब्धता सुनिश्चित करना है।"
-      },
-      "category": "Government Schemes",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.thehindu.com/business/Economy/"
-    },
-    {
-      "id": "ca_20260908_06",
-      "question": {
-        "en": "Which constitutional body/authority was urged by former RBI Governor C. Rangarajan to incentivise Small Finance Banks (SFBs) while cautioning against the reduction in the number of Regional Rural Banks (RRBs)?",
-        "hi": "आरबीआई के पूर्व गवर्नर सी. रंगराजन ने किस संवैधानिक निकाय/प्राधिकरण से क्षेत्रीय ग्रामीण बैंकों (आरआरबी) की संख्या में कमी के प्रति आगाह करते हुए लघु वित्त बैंकों (एसएफबी) को प्रोत्साहित करने का आग्रह किया?"
-      },
-      "options": [
-        {
-          "en": "Ministry of Finance",
-          "hi": "वित्त मंत्रालय"
-        },
-        {
-          "en": "NITI Aayog",
-          "hi": "नीति आयोग"
-        },
-        {
-          "en": "Reserve Bank of India (RBI)",
-          "hi": "भारतीय रिजर्व बैंक (RBI)"
-        },
-        {
-          "en": "NABARD",
-          "hi": "नाबार्ड"
-        }
-      ],
-      "correctAnswer": 2,
-      "explanation": {
-        "en": "Former RBI Governor C. Rangarajan flagged that having fewer Regional Rural Banks (RRBs) is a step in the wrong direction and urged the Reserve Bank of India (RBI) to instead incentivise Small Finance Banks (SFBs). RRBs play a crucial role in financial inclusion by serving rural agriculture and micro-enterprises.",
-        "hi": "आरबीआई के पूर्व गवर्नर सी. रंगराजन ने कहा कि कम क्षेत्रीय ग्रामीण बैंक (आरआरबी) होना गलत दिशा में उठाया गया कदम है और भारतीय रिजर्व बैंक (आरबीआई) से इसके बजाय लघु वित्त बैंकों (एसएफबी) को प्रोत्साहित करने का आग्रह किया। आरआरबी ग्रामीण कृषि और सूक्ष्म उद्यमों की सेवा करके वित्तीय समावेशन में महत्वपूर्ण भूमिका निभाते हैं।"
-      },
-      "category": "Economy & Banking",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.thehindu.com/business/Economy/"
-    },
-    {
-      "id": "ca_20260908_07",
-      "question": {
-        "en": "In a recent landmark observation, the Supreme Court of India noted that a company can face a fine for offences that carry a mandatory jail term. Under which overarching constitutional principle does the apex court predominantly exercise such interpretations of corporate criminal liability?",
-        "hi": "एक हालिया ऐतिहासिक अवलोकन में, भारत के सर्वोच्च न्यायालय ने कहा कि एक कंपनी को उन अपराधों के लिए जुर्माने का सामना करना पड़ सकता है जिनमें अनिवार्य जेल की सजा का प्रावधान है। किस व्यापक संवैधानिक सिद्धांत के तहत शीर्ष अदालत मुख्य रूप से कॉर्पोरेट आपराधिक दायित्व की ऐसी व्याख्याओं का प्रयोग करती है?"
-      },
-      "options": [
-        {
-          "en": "Article 14 - Right to Equality",
-          "hi": "अनुच्छेद 14 - समानता का अधिकार"
-        },
-        {
-          "en": "Article 21 - Protection of Life and Personal Liberty",
-          "hi": "अनुच्छेद 21 - जीवन और व्यक्तिगत स्वतंत्रता की सुरक्षा"
-        },
-        {
-          "en": "Article 142 - Enforcement of decrees and orders of Supreme Court",
-          "hi": "अनुच्छेद 142 - सर्वोच्च न्यायालय की डिक्री और आदेशों का प्रवर्तन"
-        },
-        {
-          "en": "Article 32 - Remedies for enforcement of rights",
-          "hi": "अनुच्छेद 32 - अधिकारों के प्रवर्तन के लिए उपचार"
-        }
-      ],
-      "correctAnswer": 2,
-      "explanation": {
-        "en": "The Supreme Court clarified that a corporate entity can be fined even if the statute prescribes a mandatory jail term, resolving a long-standing legal conundrum. The Court often relies on its inherent powers under Article 142 to do 'complete justice' in complex cases involving corporate criminal liability where imprisonment of a non-living entity is practically impossible.",
-        "hi": "सुप्रीम कोर्ट ने स्पष्ट किया कि एक कॉर्पोरेट इकाई पर जुर्माना लगाया जा सकता है, भले ही क़ानून में अनिवार्य जेल की सज़ा का प्रावधान हो, जिससे एक लंबे समय से चली आ रही कानूनी पहेली हल हो गई। न्यायालय अक्सर कॉर्पोरेट आपराधिक दायित्व से जुड़े जटिल मामलों में 'पूर्ण न्याय' करने के लिए अनुच्छेद 142 के तहत अपनी अंतर्निहित शक्तियों पर निर्भर करता है, जहां एक निर्जीव इकाई को कारावास देना व्यावहारिक रूप से असंभव है।"
-      },
-      "category": "Polity & Governance",
-      "difficulty": "hard",
-      "sourceUrl": "https://timesofindia.indiatimes.com/"
-    },
-    {
-      "id": "ca_20260908_08",
-      "question": {
-        "en": "To strengthen fuel stock positions at thermal power plants across India, the government has spurred coal rake loading by what percentage?",
-        "hi": "पूरे भारत में ताप विद्युत संयंत्रों में ईंधन स्टॉक की स्थिति को मजबूत करने के लिए, सरकार ने कोयला रेक लोडिंग में कितने प्रतिशत की वृद्धि की है?"
-      },
-      "options": [
-        {
-          "en": "10%",
-          "hi": "10%"
-        },
-        {
-          "en": "15%",
-          "hi": "15%"
-        },
-        {
-          "en": "20%",
-          "hi": "20%"
-        },
-        {
-          "en": "25%",
-          "hi": "25%"
-        }
-      ],
-      "correctAnswer": 2,
-      "explanation": {
-        "en": "The central government has increased coal rake loading by 20% to bolster stocks at thermal power plants. This strategic move aims to prevent power outages during peak demand seasons and ensure a steady supply of electricity. India heavily relies on coal, which constitutes about 70% of its total electricity generation.",
-        "hi": "केंद्र सरकार ने ताप विद्युत संयंत्रों में स्टॉक बढ़ाने के लिए कोयला रेक लोडिंग में 20% की वृद्धि की है। इस रणनीतिक कदम का उद्देश्य चरम मांग वाले मौसमों के दौरान बिजली कटौती को रोकना और बिजली की निरंतर आपूर्ति सुनिश्चित करना है। भारत कोयले पर बहुत अधिक निर्भर है, जो इसके कुल बिजली उत्पादन का लगभग 70% हिस्सा है।"
-      },
-      "category": "Economy & Banking",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.thehindu.com/business/Economy/"
-    },
-    {
-      "id": "ca_20260908_09",
-      "question": {
-        "en": "A new map released by the United Nations has depicted which two regions as territories caught between Indian and Chinese ‘unspecified’ claim lines?",
-        "hi": "संयुक्त राष्ट्र द्वारा जारी किए गए एक नए नक्शे में किन दो क्षेत्रों को भारतीय और चीनी 'अनिर्दिष्ट' दावा रेखाओं के बीच फंसे क्षेत्रों के रूप में दर्शाया गया है?"
-      },
-      "options": [
-        {
-          "en": "Ladakh and Sikkim",
-          "hi": "लद्दाख और सिक्किम"
-        },
-        {
-          "en": "Arunachal Pradesh and Aksai Chin",
-          "hi": "अरुणाचल प्रदेश और अक्साई चिन"
-        },
-        {
-          "en": "Doklam and Tawang",
-          "hi": "डोकलाम और तवांग"
-        },
-        {
-          "en": "Galwan Valley and Pangong Tso",
-          "hi": "गलवान घाटी और पैंगोंग त्सो"
+          "en": "Renewable Energy",
+          "hi": "नवीकरणीय ऊर्जा"
         }
       ],
       "correctAnswer": 1,
       "explanation": {
-        "en": "A recently updated United Nations map depicts Arunachal Pradesh and Aksai Chin as territories with 'unspecified' claim lines between India and China. While India claims Aksai Chin as part of Ladakh and Arunachal Pradesh as its integral state, China illegally occupies Aksai Chin and claims Arunachal as South Tibet.",
-        "hi": "हाल ही में अपडेट किए गए संयुक्त राष्ट्र के नक्शे में अरुणाचल प्रदेश और अक्साई चिन को भारत और चीन के बीच 'अनिर्दिष्ट' दावा रेखाओं वाले क्षेत्रों के रूप में दर्शाया गया है। जबकि भारत अक्साई चिन को लद्दाख का हिस्सा और अरुणाचल प्रदेश को अपना अभिन्न राज्य होने का दावा करता है, चीन अवैध रूप से अक्साई चिन पर कब्जा करता है और अरुणाचल को दक्षिणी तिब्बत के रूप में दावा करता है।"
+        "en": "Recent economic indicators show that household manufacturing in India is growing almost four times faster than corporate manufacturing. Driven primarily by small businesses and better informal sector data, sectors like textiles and metal products lead this household manufacturing expansion.",
+        "hi": "हाल के आर्थिक संकेतक बताते हैं कि भारत में घरेलू विनिर्माण कॉर्पोरेट विनिर्माण की तुलना में लगभग चार गुना तेजी से बढ़ रहा है। मुख्य रूप से छोटे व्यवसायों और बेहतर अनौपचारिक क्षेत्र के आंकड़ों से प्रेरित, कपड़ा और धातु उत्पादों जैसे क्षेत्र इस घरेलू विनिर्माण विस्तार का नेतृत्व करते हैं।"
       },
-      "category": "Polity & Governance",
-      "difficulty": "hard",
-      "sourceUrl": "https://www.thehindu.com/news/national/"
+      "category": "Economy & Banking",
+      "difficulty": "medium",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/indicators/gaining-ground-household-manufacturing-grows-4x-faster-than-corporates/articleshow/133937512.cms"
     },
     {
-      "id": "ca_20260908_10",
+      "id": "ca_20260909_04",
       "question": {
-        "en": "In a recent bilateral move to boost connectivity and trade, Bangladesh and India plan to resume international train operations by which month of 2026?",
-        "hi": "कनेक्टिविटी और व्यापार को बढ़ावा देने के लिए एक हालिया द्विपक्षीय कदम में, बांग्लादेश और भारत 2026 के किस महीने तक अंतरराष्ट्रीय ट्रेन संचालन फिर से शुरू करने की योजना बना रहे हैं?"
+        "en": "Which company emerged as the lowest bidder for the Indian Army's ₹20,000-crore Project Zorawar to develop a new light battle tank?",
+        "hi": "भारतीय सेना के नई हल्की युद्धक टैंक विकसित करने के ₹20,000 करोड़ के प्रोजेक्ट जोरावर के लिए सबसे कम बोली लगाने वाली कंपनी कौन सी बनकर उभरी है?"
       },
       "options": [
         {
-          "en": "October",
-          "hi": "अक्टूबर"
+          "en": "Larsen & Toubro (L&T)",
+          "hi": "लार्सन एंड टूब्रो (L&T)"
         },
         {
-          "en": "November",
-          "hi": "नवंबर"
+          "en": "Mahindra Defence Systems",
+          "hi": "महिंद्रा डिफेंस सिस्टम्स"
         },
         {
-          "en": "December",
-          "hi": "दिसंबर"
+          "en": "Tata Advanced Systems Ltd (TASL)",
+          "hi": "टाटा एडवांस्ड सिस्टम्स लिमिटेड (TASL)"
         },
         {
-          "en": "January 2027",
-          "hi": "जनवरी 2027"
+          "en": "Bharat Forge",
+          "hi": "भारत फोर्ज"
         }
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 2,
       "explanation": {
-        "en": "Bangladesh and India are planning to resume cross-border train operations by October 2026. This move will restore vital passenger and freight rail links such as the Maitree Express and Bandhan Express, significantly boosting bilateral trade and people-to-people connectivity.",
-        "hi": "बांग्लादेश और भारत अक्टूबर 2026 तक सीमा पार ट्रेन संचालन फिर से शुरू करने की योजना बना रहे हैं। यह कदम मैत्री एक्सप्रेस और बंधन एक्सप्रेस जैसे महत्वपूर्ण यात्री और माल ढुलाई रेल लिंक को बहाल करेगा, जिससे द्विपक्षीय व्यापार और लोगों से लोगों के संपर्क को काफी बढ़ावा मिलेगा।"
+        "en": "Tata Advanced Systems Ltd (TASL) emerged as the lowest bidder in the Army's Project Zorawar defence contract to produce light battle tanks for high-altitude operations. TASL will develop two prototype tanks within 130 weeks, while Mahindra Defence Systems (second-lowest bidder) will also develop a prototype.",
+        "hi": "टाटा एडवांस्ड सिस्टम्स लिमिटेड (TASL) उच्च ऊंचाई वाले अभियानों के लिए हल्के युद्धक टैंकों का उत्पादन करने के लिए सेना के प्रोजेक्ट जोरावर रक्षा अनुबंध में सबसे कम बोली लगाने वाले के रूप में उभरी। TASL 130 सप्ताह के भीतर दो प्रोटोटाइप टैंक विकसित करेगा, जबकि महिंद्रा डिफेंस सिस्टम्स (दूसरी सबसे कम बोली लगाने वाली) भी एक प्रोटोटाइप विकसित करेगी।"
       },
-      "category": "International Summits",
+      "category": "Defence & Security",
+      "difficulty": "hard",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/defence/tata-emerges-lowest-bidder-for-rs-20000-crore-project-zorawar-light-tank-mahindra-to-also-develop-prototype/articleshow/133937116.cms"
+    },
+    {
+      "id": "ca_20260909_05",
+      "question": {
+        "en": "With the inauguration of three new sections, India's Dedicated Freight Corridor (DFC) network is now fully operational across how many kilometres?",
+        "hi": "तीन नए खंडों के उद्घाटन के साथ, भारत का समर्पित माल ढुलाई गलियारा (DFC) नेटवर्क अब कितने किलोमीटर में पूरी तरह से चालू हो गया है?"
+      },
+      "options": [
+        {
+          "en": "2,050 km",
+          "hi": "2,050 किमी"
+        },
+        {
+          "en": "2,500 km",
+          "hi": "2,500 किमी"
+        },
+        {
+          "en": "2,843 km",
+          "hi": "2,843 किमी"
+        },
+        {
+          "en": "3,200 km",
+          "hi": "3,200 किमी"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "India has completed the construction of its Dedicated Freight Corridor network, now fully operational across 2,843 km with the inauguration of three new sections costing ₹20,700 crore. The network includes the Eastern DFC and Western DFC.",
+        "hi": "भारत ने अपने समर्पित माल ढुलाई गलियारे (DFC) नेटवर्क का निर्माण पूरा कर लिया है, जो अब ₹20,700 करोड़ की लागत वाले तीन नए खंडों के उद्घाटन के साथ 2,843 किलोमीटर में पूरी तरह से चालू है। नेटवर्क में पूर्वी DFC और पश्चिमी DFC शामिल हैं।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/rs-20700-crore-326-km-more-india-completes-its-dedicated-freight-corridor-network-as-pm-modi-inaugurates-three-new-sections-now-fully-operational-across-2843-km-with-443-trains-daily-as-of-now/articleshow/133914769.cms"
+    },
+    {
+      "id": "ca_20260909_06",
+      "question": {
+        "en": "Who has recently scripted history by becoming the first football player to be nominated for the Ballon d’Or three times before turning 20?",
+        "hi": "हाल ही में 20 वर्ष का होने से पहले तीन बार बैलन डी'ओर के लिए नामांकित होने वाले पहले फुटबॉल खिलाड़ी बनकर किसने इतिहास रचा है?"
+      },
+      "options": [
+        {
+          "en": "Jude Bellingham",
+          "hi": "जूड बेलिंगहैम"
+        },
+        {
+          "en": "Kylian Mbappé",
+          "hi": "कैलियन एम्बाप्पे"
+        },
+        {
+          "en": "Lamine Yamal",
+          "hi": "लामीन यामल"
+        },
+        {
+          "en": "Pedri",
+          "hi": "पेड्री"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Barcelona and Spain star Lamine Yamal made Ballon d'Or history by becoming the first player to earn three nominations for the prestigious award before the age of 20. He was nominated in 2024, 2025, and now in 2026 following his recent World Cup triumph with Spain.",
+        "hi": "बार्सिलोना और स्पेन के स्टार लामीन यामल ने 20 साल की उम्र से पहले प्रतिष्ठित पुरस्कार के लिए तीन नामांकन अर्जित करने वाले पहले खिलाड़ी बनकर बैलन डी'ओर के इतिहास में नाम दर्ज कराया है। उन्हें 2024, 2025 और अब स्पेन के साथ उनकी हालिया विश्व कप जीत के बाद 2026 में नामांकित किया गया है।"
+      },
+      "category": "Sports",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/football/top-stories/lamine-yamal-scripts-ballon-dor-history-becomes-first-player-to-be-nominated-three-times-before-turning-20/articleshow/133941325.cms"
+    },
+    {
+      "id": "ca_20260909_07",
+      "question": {
+        "en": "After widespread criticism, Hockey India has reverted to which colour for the official jerseys of the men's and women's teams ahead of the Asian Games?",
+        "hi": "व्यापक आलोचना के बाद, एशियाई खेलों से पहले हॉकी इंडिया ने पुरुष और महिला टीमों की आधिकारिक जर्सी के लिए किस रंग को वापस अपना लिया है?"
+      },
+      "options": [
+        {
+          "en": "Saffron",
+          "hi": "भगवा"
+        },
+        {
+          "en": "White",
+          "hi": "सफेद"
+        },
+        {
+          "en": "Blue",
+          "hi": "नीला"
+        },
+        {
+          "en": "Green",
+          "hi": "हरा"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Following significant uproar and criticism over the earlier saffron jersey plan, Hockey India has reverted to the classic blue kits for the national teams ahead of the Asian Games.",
+        "hi": "पहले की भगवा जर्सी योजना को लेकर हुए व्यापक विरोध और आलोचना के बाद, हॉकी इंडिया ने एशियाई खेलों से पहले राष्ट्रीय टीमों के लिए क्लासिक नीली किट वापस ले ली है।"
+      },
+      "category": "Sports",
       "difficulty": "easy",
-      "sourceUrl": "https://timesofindia.indiatimes.com/"
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/back-to-blue-hockey-india-reverses-saffron-jersey-decision-for-asian-games-after-world-cup-uproar/articleshow/133925987.cms"
+    },
+    {
+      "id": "ca_20260909_08",
+      "question": {
+        "en": "India and Japan are scheduled to hold the bilateral air exercise 'Veer Guardian' in September 2026 at which location in India?",
+        "hi": "भारत और जापान सितंबर 2026 में द्विपक्षीय हवाई अभ्यास 'वीर गार्डियन' भारत में किस स्थान पर आयोजित करने वाले हैं?"
+      },
+      "options": [
+        {
+          "en": "Kalaikunda",
+          "hi": "कलाईकुंडा"
+        },
+        {
+          "en": "Jodhpur",
+          "hi": "जोधपुर"
+        },
+        {
+          "en": "Gwalior",
+          "hi": "ग्वालियर"
+        },
+        {
+          "en": "Pune",
+          "hi": "पुणे"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "India and Japan are set to engage in the bilateral air exercise 'Veer Guardian' from September 9 to 22 in Jodhpur. The Indian Air Force will field its Tejas, Su-30 MKI, and Rafale jets in the exercise to promote enhanced tactical skills.",
+        "hi": "भारत और जापान 9 से 22 सितंबर तक जोधपुर में द्विपक्षीय हवाई अभ्यास 'वीर गार्डियन' में शामिल होने के लिए तैयार हैं। भारतीय वायु सेना उन्नत सामरिक कौशल को बढ़ावा देने के लिए अभ्यास में अपने तेजस, एसयू-30 एमकेआई और राफेल जेट उतारेगी।"
+      },
+      "category": "Defence & Security",
+      "difficulty": "medium",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/defence/indias-lca-tejas-su-30-mki-rafale-to-take-part-in-bilateral-air-exercise-with-japan-in-jodhpur/articleshow/133930491.cms"
+    },
+    {
+      "id": "ca_20260909_09",
+      "question": {
+        "en": "Recently, the European Union allowed which country to use its loan funds specifically to buy US-made Patriot missile systems?",
+        "hi": "हाल ही में, यूरोपीय संघ ने किस देश को विशेष रूप से अमेरिका निर्मित पैट्रियट मिसाइल प्रणाली खरीदने के लिए अपने ऋण कोष का उपयोग करने की अनुमति दी है?"
+      },
+      "options": [
+        {
+          "en": "Israel",
+          "hi": "इज़राइल"
+        },
+        {
+          "en": "Taiwan",
+          "hi": "ताइवान"
+        },
+        {
+          "en": "Ukraine",
+          "hi": "यूक्रेन"
+        },
+        {
+          "en": "Poland",
+          "hi": "पोलैंड"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The European Union has given the green light for Ukraine to utilise loan funds to acquire Patriot missile systems. This decisive measure is intended to help the nation fortify its air defences against Russian assaults amid a shortage of essential interceptors.",
+        "hi": "यूरोपीय संघ ने यूक्रेन को पैट्रियट मिसाइल सिस्टम हासिल करने के लिए ऋण राशि का उपयोग करने की हरी झंडी दे दी है। इस निर्णायक उपाय का उद्देश्य आवश्यक इंटरसेप्टर की कमी के बीच देश को रूसी हमलों के खिलाफ अपने हवाई सुरक्षा को मजबूत करने में मदद करना है।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "hard",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/defence/eu-allows-ukraine-to-use-loan-to-buy-us-patriot-missiles/articleshow/133929430.cms"
+    },
+    {
+      "id": "ca_20260909_10",
+      "question": {
+        "en": "In August 2026, which country recorded the largest monthly addition to its gold reserves since 2023, purchasing 650,000 ounces?",
+        "hi": "अगस्त 2026 में, किस देश ने 2023 के बाद से अपने स्वर्ण भंडार में सबसे बड़ी मासिक वृद्धि दर्ज करते हुए 6,50,000 औंस सोना खरीदा?"
+      },
+      "options": [
+        {
+          "en": "India",
+          "hi": "भारत"
+        },
+        {
+          "en": "Russia",
+          "hi": "रूस"
+        },
+        {
+          "en": "China",
+          "hi": "चीन"
+        },
+        {
+          "en": "United States",
+          "hi": "संयुक्त राज्य अमेरिका"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "In August, the People's Bank of China added 650,000 ounces to its gold reserves. This was its largest monthly increase since 2023, continuing a buying streak extending for 22 months despite sharply climbing bullion prices globally.",
+        "hi": "अगस्त में, पीपुल्स बैंक ऑफ चाइना ने अपने स्वर्ण भंडार में 6,50,000 औंस की वृद्धि की। यह 2023 के बाद से इसकी सबसे बड़ी मासिक वृद्धि थी, जो वैश्विक स्तर पर बुलियन की कीमतों में तेजी से वृद्धि के बावजूद 22 महीनों तक जारी रहने वाली खरीद का सिलसिला है।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/gold-soars-but-china-keeps-buying-peoples-bank-of-china-adds-650000-ounces-in-august-biggest-monthly-increase-in-nearly-3-years-extends-buying-streak-to-22-months/articleshow/133917574.cms"
     }
   ]
 }
