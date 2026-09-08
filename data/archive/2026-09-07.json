@@ -1,0 +1,340 @@
+{
+  "date": "2026-09-07",
+  "topic": "SSC CGL Daily Current Affairs",
+  "source": "PIB / The Hindu / Economic Times / Indian Express / GKToday",
+  "lastUpdated": "2026-09-07T06:00:00+05:30",
+  "version": 1,
+  "totalQuestions": 10,
+  "quiz": [
+    {
+      "id": "ca_20260907_01",
+      "question": {
+        "en": "In September 2026, the 'Parakh' mobile application was launched by the Department of Consumer Affairs for which primary purpose?",
+        "hi": "सितंबर 2026 में, उपभोक्ता मामलों के विभाग द्वारा 'परख' (Parakh) मोबाइल एप्लिकेशन को किस प्राथमिक उद्देश्य के लिए लॉन्च किया गया था?"
+      },
+      "options": [
+        {
+          "en": "To streamline testing access for industry stakeholders and MSMEs",
+          "hi": "उद्योग हितधारकों और MSME के लिए परीक्षण (testing) पहुंच को सुव्यवस्थित करने के लिए"
+        },
+        {
+          "en": "To monitor daily fluctuations in retail food prices",
+          "hi": "खुदरा खाद्य कीमतों में दैनिक उतार-चढ़ाव की निगरानी करने के लिए"
+        },
+        {
+          "en": "To track public distribution system (PDS) food grains allocation",
+          "hi": "सार्वजनिक वितरण प्रणाली (PDS) खाद्यान्न आवंटन को ट्रैक करने के लिए"
+        },
+        {
+          "en": "To register consumer complaints against online retail platforms",
+          "hi": "ऑनलाइन खुदरा प्लेटफार्मों के खिलाफ उपभोक्ता शिकायतें दर्ज करने के लिए"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "During the 115th Foundation Day of the National Test House (NTH), the 'Parakh' mobile application was launched to streamline testing access for industry stakeholders and MSMEs.",
+        "hi": "नेशनल टेस्ट हाउस (NTH) के 115वें स्थापना दिवस के दौरान, उद्योग हितधारकों और MSME के लिए परीक्षण (testing) तक पहुंच को सुव्यवस्थित करने के लिए 'परख' मोबाइल एप्लिकेशन लॉन्च किया गया था।"
+      },
+      "category": "Government Schemes",
+      "difficulty": "medium",
+      "sourceUrl": "https://affairscloud.com/current-affairs-1-september-2026/"
+    },
+    {
+      "id": "ca_20260907_02",
+      "question": {
+        "en": "Under which act has the Department of Consumer Affairs notified the Legal Metrology (Indian Standard Time) Rules, 2026 to mandate IST for official and commercial use?",
+        "hi": "आधिकारिक और व्यावसायिक उपयोग के लिए IST को अनिवार्य करने के लिए उपभोक्ता मामलों के विभाग ने किस अधिनियम के तहत विधिक माप विज्ञान (भारतीय मानक समय) नियम, 2026 अधिसूचित किया है?"
+      },
+      "options": [
+        {
+          "en": "Bureau of Indian Standards Act, 2016",
+          "hi": "भारतीय मानक ब्यूरो अधिनियम, 2016"
+        },
+        {
+          "en": "Legal Metrology Act, 2009",
+          "hi": "विधिक माप विज्ञान (Legal Metrology) अधिनियम, 2009"
+        },
+        {
+          "en": "Consumer Protection Act, 2019",
+          "hi": "उपभोक्ता संरक्षण अधिनियम, 2019"
+        },
+        {
+          "en": "Essential Commodities Act, 1955",
+          "hi": "आवश्यक वस्तु अधिनियम, 1955"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The Legal Metrology (Indian Standard Time) Rules, 2026 were notified under Section 52 of the Legal Metrology Act, 2009, making Indian Standard Time (IST) the single time reference for official purposes.",
+        "hi": "विधिक माप विज्ञान (भारतीय मानक समय) नियम, 2026 को विधिक माप विज्ञान अधिनियम, 2009 की धारा 52 के तहत अधिसूचित किया गया था, जिससे भारतीय मानक समय (IST) को आधिकारिक उद्देश्यों के लिए एकल समय संदर्भ बनाया गया।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "medium",
+      "sourceUrl": "https://affairscloud.com/current-affairs-1-september-2026/"
+    },
+    {
+      "id": "ca_20260907_03",
+      "question": {
+        "en": "In September 2026, the Defence Minister laid the foundation stone for a Rs 472 crore overhaul facility for T-72 and T-90 tanks. Where will this facility be located?",
+        "hi": "सितंबर 2026 में, रक्षा मंत्री ने T-72 और T-90 टैंकों के लिए 472 करोड़ रुपये की ओवरहाल सुविधा की आधारशिला रखी। यह सुविधा कहाँ स्थित होगी?"
+      },
+      "options": [
+        {
+          "en": "Avadi, Tamil Nadu",
+          "hi": "अवादी, तमिलनाडु"
+        },
+        {
+          "en": "Pune, Maharashtra",
+          "hi": "पुणे, महाराष्ट्र"
+        },
+        {
+          "en": "Jabalpur, Madhya Pradesh",
+          "hi": "जबलपुर, मध्य प्रदेश"
+        },
+        {
+          "en": "Kanpur, Uttar Pradesh",
+          "hi": "कानपुर, उत्तर प्रदेश"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Defence Minister Rajnath Singh laid the foundation stone for a new T-72 and T-90 tank overhaul facility in Jabalpur, Madhya Pradesh to strengthen India's MRO capabilities.",
+        "hi": "रक्षा मंत्री राजनाथ सिंह ने भारत की MRO क्षमताओं को मजबूत करने के लिए जबलपुर, मध्य प्रदेश में एक नई T-72 और T-90 टैंक ओवरहाल सुविधा की आधारशिला रखी।"
+      },
+      "category": "Defence & Security",
+      "difficulty": "easy",
+      "sourceUrl": "https://affairscloud.com/current-affairs-1-september-2026/"
+    },
+    {
+      "id": "ca_20260907_04",
+      "question": {
+        "en": "Which state has partnered with SAI and BAI to set up North East India's first National Centre of Excellence (NCoE) for Swimming?",
+        "hi": "किस राज्य ने तैराकी के लिए उत्तर पूर्व भारत का पहला राष्ट्रीय उत्कृष्टता केंद्र (NCoE) स्थापित करने के लिए SAI और BAI के साथ साझेदारी की है?"
+      },
+      "options": [
+        {
+          "en": "Assam",
+          "hi": "असम"
+        },
+        {
+          "en": "Manipur",
+          "hi": "मणिपुर"
+        },
+        {
+          "en": "Meghalaya",
+          "hi": "मेघालय"
+        },
+        {
+          "en": "Sikkim",
+          "hi": "सिक्किम"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "The Sports Authority of India (SAI), Badminton Association of India (BAI) and the Sports Authority of Assam (SAA) signed an agreement to establish North East India's first Swimming NCoE at the Amingaon Sports Complex in Assam.",
+        "hi": "भारतीय खेल प्राधिकरण (SAI), भारतीय बैडमिंटन संघ (BAI) और असम खेल प्राधिकरण (SAA) ने असम के अमीनगाँव खेल परिसर में उत्तर पूर्व भारत का पहला तैराकी NCoE स्थापित करने के लिए एक समझौते पर हस्ताक्षर किए।"
+      },
+      "category": "Sports",
+      "difficulty": "easy",
+      "sourceUrl": "https://affairscloud.com/current-affairs-1-september-2026/"
+    },
+    {
+      "id": "ca_20260907_05",
+      "question": {
+        "en": "Petroleum and Natural Gas Regulatory Board (PNGRB) signed an MoU with EESL in August 2026 to accelerate the deployment of which technology in the CGD sector?",
+        "hi": "पेट्रोलियम और प्राकृतिक गैस नियामक बोर्ड (PNGRB) ने CGD क्षेत्र में किस तकनीक की तैनाती में तेजी लाने के लिए अगस्त 2026 में EESL के साथ एक समझौता ज्ञापन पर हस्ताक्षर किए?"
+      },
+      "options": [
+        {
+          "en": "Smart Domestic PNG Meters",
+          "hi": "स्मार्ट घरेलू पीएनजी (PNG) मीटर"
+        },
+        {
+          "en": "Solar Powered Gas Stations",
+          "hi": "सौर ऊर्जा संचालित गैस स्टेशन"
+        },
+        {
+          "en": "Hydrogen Blending Sensors",
+          "hi": "हाइड्रोजन सम्मिश्रण सेंसर"
+        },
+        {
+          "en": "CNG Conversion Kits for Tractors",
+          "hi": "ट्रैक्टरों के लिए सीएनजी (CNG) रूपांतरण किट"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "PNGRB and Energy Efficiency Services Limited (EESL) signed an MoU to accelerate the adoption and deployment of smart domestic Piped Natural Gas (PNG) meters across India.",
+        "hi": "PNGRB और एनर्जी एफिशिएंसी सर्विसेज लिमिटेड (EESL) ने पूरे भारत में स्मार्ट घरेलू पाइप्ड नेचुरल गैस (PNG) मीटरों को अपनाने और उनकी तैनाती में तेजी लाने के लिए एक समझौता ज्ञापन पर हस्ताक्षर किए।"
+      },
+      "category": "Science & Technology",
+      "difficulty": "medium",
+      "sourceUrl": "https://affairscloud.com/current-affairs-1-september-2026/"
+    },
+    {
+      "id": "ca_20260907_06",
+      "question": {
+        "en": "Which strategic action plan was released by the Vice President in Lakshadweep in 2026 for the development of the ornamental fisheries sector?",
+        "hi": "सजावटी मत्स्य पालन क्षेत्र के विकास के लिए 2026 में लक्षद्वीप में उपराष्ट्रपति द्वारा कौन सी रणनीतिक कार्य योजना जारी की गई थी?"
+      },
+      "options": [
+        {
+          "en": "Mission Neel Kranti 2030",
+          "hi": "मिशन नील क्रांति 2030"
+        },
+        {
+          "en": "Mission Rangeen Machhli 2031",
+          "hi": "मिशन रंगीन मछली 2031"
+        },
+        {
+          "en": "Pradhan Mantri Matsya Sampada Yojna 2.0",
+          "hi": "प्रधानमंत्री मत्स्य संपदा योजना 2.0"
+        },
+        {
+          "en": "Lakshadweep Blue Economy Framework",
+          "hi": "लक्षद्वीप नीली अर्थव्यवस्था (Blue Economy) ढांचा"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Vice President C.P. Radhakrishnan released the 'Mission Rangeen Machhli 2031' Strategic Action Plan in Lakshadweep to promote the organised growth of the ornamental fisheries sector in India.",
+        "hi": "उपराष्ट्रपति सी.पी. राधाकृष्णन ने भारत में सजावटी मत्स्य पालन क्षेत्र के संगठित विकास को बढ़ावा देने के लिए लक्षद्वीप में 'मिशन रंगीन मछली 2031' रणनीतिक कार्य योजना जारी की।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "hard",
+      "sourceUrl": "https://affairscloud.com/current-affairs-1-september-2026/"
+    },
+    {
+      "id": "ca_20260907_07",
+      "question": {
+        "en": "According to the All India Survey on Higher Education (AISHE) 2023-24, what is the Gender Parity Index (GPI) for higher education in India?",
+        "hi": "अखिल भारतीय उच्च शिक्षा सर्वेक्षण (AISHE) 2023-24 के अनुसार, भारत में उच्च शिक्षा के लिए जेंडर पैरिटी इंडेक्स (GPI) क्या है?"
+      },
+      "options": [
+        {
+          "en": "0.95",
+          "hi": "0.95"
+        },
+        {
+          "en": "0.99",
+          "hi": "0.99"
+        },
+        {
+          "en": "1.06",
+          "hi": "1.06"
+        },
+        {
+          "en": "1.12",
+          "hi": "1.12"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "According to the latest AISHE 2023-24 data, the Gender Parity Index (GPI) in higher education stands at 1.06, indicating that female participation has consistently been higher than males for the seventh consecutive year.",
+        "hi": "नवीनतम AISHE 2023-24 डेटा के अनुसार, उच्च शिक्षा में जेंडर पैरिटी इंडेक्स (GPI) 1.06 है, जो दर्शाता है कि लगातार सातवें वर्ष महिला भागीदारी पुरुषों की तुलना में अधिक रही है।"
+      },
+      "category": "Government Schemes",
+      "difficulty": "hard",
+      "sourceUrl": "https://affairscloud.com/current-affairs-1-september-2026/"
+    },
+    {
+      "id": "ca_20260907_08",
+      "question": {
+        "en": "Which state has received in-principle approval to establish a Rs 24,700 crore shipbuilding and heavy industries cluster at Kendrapara under the NSHIPOL project?",
+        "hi": "NSHIPOL परियोजना के तहत किस राज्य को केंद्रपाड़ा में 24,700 करोड़ रुपये का जहाज निर्माण और भारी उद्योग क्लस्टर स्थापित करने के लिए सैद्धांतिक मंजूरी मिली है?"
+      },
+      "options": [
+        {
+          "en": "West Bengal",
+          "hi": "पश्चिम बंगाल"
+        },
+        {
+          "en": "Odisha",
+          "hi": "ओडिशा"
+        },
+        {
+          "en": "Andhra Pradesh",
+          "hi": "आंध्र प्रदेश"
+        },
+        {
+          "en": "Gujarat",
+          "hi": "गुजरात"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The National Shipbuilding and Heavy Industries Park Odisha Limited (NSHIPOL) received in-principle approval to set up a mega shipbuilding cluster in Kendrapara, Odisha along the Mahanadi River.",
+        "hi": "नेशनल शिपबिल्डिंग एंड हेवी इंडस्ट्रीज पार्क ओडिशा लिमिटेड (NSHIPOL) को ओडिशा के केंद्रपाड़ा में महानदी नदी के किनारे एक मेगा जहाज निर्माण क्लस्टर स्थापित करने के लिए सैद्धांतिक मंजूरी मिल गई है।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "medium",
+      "sourceUrl": "https://affairscloud.com/current-affairs-1-september-2026/"
+    },
+    {
+      "id": "ca_20260907_09",
+      "question": {
+        "en": "In August 2026, the Forum of Indian Food Importers (FIFI) signed an MoU with EICA to promote culinary innovation and food trade specifically in which region of India?",
+        "hi": "अगस्त 2026 में, फोरम ऑफ इंडियन फूड इंपोर्टर्स (FIFI) ने विशेष रूप से भारत के किस क्षेत्र में पाक नवाचार और खाद्य व्यापार को बढ़ावा देने के लिए EICA के साथ एक समझौता ज्ञापन पर हस्ताक्षर किए?"
+      },
+      "options": [
+        {
+          "en": "Western India",
+          "hi": "पश्चिमी भारत"
+        },
+        {
+          "en": "Southern India",
+          "hi": "दक्षिण भारत"
+        },
+        {
+          "en": "Eastern and North-Eastern India",
+          "hi": "पूर्वी और उत्तर-पूर्वी भारत"
+        },
+        {
+          "en": "Northern India",
+          "hi": "उत्तर भारत"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "FIFI and EICA signed an MoU to accelerate culinary innovation and food trade, focusing on developing Eastern and North-Eastern India as a hub for food tourism and hospitality.",
+        "hi": "FIFI और EICA ने पूर्वी और उत्तर-पूर्वी भारत को खाद्य पर्यटन और आतिथ्य के केंद्र के रूप में विकसित करने पर ध्यान केंद्रित करते हुए पाक नवाचार और खाद्य व्यापार में तेजी लाने के लिए एक समझौता ज्ञापन पर हस्ताक्षर किए।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "medium",
+      "sourceUrl": "https://affairscloud.com/current-affairs-1-september-2026/"
+    },
+    {
+      "id": "ca_20260907_10",
+      "question": {
+        "en": "What is the name of India’s first indigenously developed Artificial Intelligence (AI) platform for strengthening industrial safety, launched in 2026?",
+        "hi": "औद्योगिक सुरक्षा को मजबूत करने के लिए 2026 में लॉन्च किए गए भारत के पहले स्वदेशी रूप से विकसित आर्टिफिशियल इंटेलिजेंस (AI) प्लेटफॉर्म का नाम क्या है?"
+      },
+      "options": [
+        {
+          "en": "SafetyNet-AI",
+          "hi": "सेफ्टीनेट-एआई (SafetyNet-AI)"
+        },
+        {
+          "en": "Agni Kawach",
+          "hi": "अग्नि कवच (Agni Kawach)"
+        },
+        {
+          "en": "Suraksha AI",
+          "hi": "सुरक्षा एआई (Suraksha AI)"
+        },
+        {
+          "en": "Industrial Shield AI",
+          "hi": "इंडस्ट्रियल शील्ड एआई (Industrial Shield AI)"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Agnikawach Safety launched 'Agni Kawach', which is India’s first indigenously developed AI platform designed to enhance and strengthen the global industrial safety ecosystem.",
+        "hi": "अग्निकवच सेफ्टी ने 'अग्नि कवच' लॉन्च किया, जो भारत का पहला स्वदेशी रूप से विकसित AI प्लेटफॉर्म है जिसे वैश्विक औद्योगिक सुरक्षा पारिस्थितिकी तंत्र को बढ़ाने और मजबूत करने के लिए डिज़ाइन किया गया है।"
+      },
+      "category": "Science & Technology",
+      "difficulty": "easy",
+      "sourceUrl": "https://affairscloud.com/current-affairs-1-september-2026/"
+    }
+  ]
+}
