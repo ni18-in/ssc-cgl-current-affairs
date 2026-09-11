@@ -1,340 +1,340 @@
 {
-  "date": "2026-09-11",
+  "date": "2026-09-12",
   "topic": "SSC CGL Daily Current Affairs",
-  "source": "PIB / The Hindu / Economic Times / Indian Express / Livemint",
-  "lastUpdated": "2026-09-11T05:29:33+05:30",
+  "source": "PIB / The Hindu / Economic Times / Indian Express / GKToday",
+  "lastUpdated": "2026-09-12T06:00:00+05:30",
   "version": 1,
   "totalQuestions": 10,
   "quiz": [
     {
-      "id": "ca_20260911_01",
+      "id": "ca_20260912_01",
       "question": {
-        "en": "Recently, which country hosted the 18th BRICS summit?",
-        "hi": "हाल ही में, किस देश ने 18वें ब्रिक्स शिखर सम्मेलन की मेजबानी की?"
+        "en": "Recently, which High Court declared that 'talaq-e-hassan' is a valid form of divorce under Muslim personal law?",
+        "hi": "हाल ही में, किस उच्च न्यायालय ने घोषित किया है कि 'तलाक-ए-हसन' मुस्लिम पर्सनल लॉ के तहत तलाक का एक वैध रूप है?"
       },
       "options": [
+        {
+          "en": "Allahabad High Court",
+          "hi": "इलाहाबाद उच्च न्यायालय"
+        },
+        {
+          "en": "Gauhati High Court",
+          "hi": "गुवाहाटी उच्च न्यायालय"
+        },
+        {
+          "en": "Delhi High Court",
+          "hi": "दिल्ली उच्च न्यायालय"
+        },
+        {
+          "en": "Kerala High Court",
+          "hi": "केरल उच्च न्यायालय"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The Gauhati High Court has held that 'talaq-e-hassan' is a valid form of divorce. The court directed the petitioner to register his divorce under the Assam Compulsory Registration of Muslim Marriages and Divorce Act, 2024.",
+        "hi": "गुवाहाटी उच्च न्यायालय ने माना है कि 'तलाक-ए-हसन' तलाक का एक वैध रूप है। अदालत ने याचिकाकर्ता को असम मुस्लिम विवाह और तलाक अनिवार्य पंजीकरण अधिनियम, 2024 के तहत अपना तलाक पंजीकृत करने का निर्देश दिया।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/news/national/assam/gauhati-high-court-says-talaq-e-hassan-is-a-valid-form-of-divorce/article71456358.ece"
+    },
+    {
+      "id": "ca_20260912_02",
+      "question": {
+        "en": "Recently, finance chiefs of which multilateral forum flagged tariff risks and pushed for cross-border payments?",
+        "hi": "हाल ही में, किस बहुपक्षीय मंच के वित्त प्रमुखों ने टैरिफ जोखिमों को हरी झंडी दिखाई और सीमा पार से भुगतान पर जोर दिया?"
+      },
+      "options": [
+        {
+          "en": "G20",
+          "hi": "जी20"
+        },
+        {
+          "en": "ASEAN",
+          "hi": "आसियान"
+        },
+        {
+          "en": "BRICS",
+          "hi": "ब्रिक्स"
+        },
+        {
+          "en": "SAARC",
+          "hi": "सार्क"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "BRICS finance chiefs recently flagged tariff risks and pushed for enhanced cross-border payments among member nations to reduce dependency on traditional financial systems.",
+        "hi": "ब्रिक्स के वित्त प्रमुखों ने हाल ही में टैरिफ जोखिमों को हरी झंडी दिखाई और पारंपरिक वित्तीय प्रणालियों पर निर्भरता कम करने के लिए सदस्य देशों के बीच सीमा पार से भुगतान बढ़ाने पर जोर दिया।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "medium",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/foreign-trade/brics-finance-chiefs-flag-tariff-risks-push-cross-border-payments/articleshow/134083987.cms"
+    },
+    {
+      "id": "ca_20260912_03",
+      "question": {
+        "en": "Under the proposed India-EU Free Trade Agreement, what is the initial tariff quota for cars that the EU is set to receive?",
+        "hi": "प्रस्तावित भारत-ईयू मुक्त व्यापार समझौते के तहत, कारों के लिए प्रारंभिक टैरिफ कोटा क्या है जो यूरोपीय संघ को प्राप्त होने वाला है?"
+      },
+      "options": [
+        {
+          "en": "50,000 cars",
+          "hi": "50,000 कारें"
+        },
+        {
+          "en": "1,000,000 cars",
+          "hi": "1,000,000 कारें"
+        },
+        {
+          "en": "100,000 cars",
+          "hi": "1,00,000 कारें"
+        },
+        {
+          "en": "150,000 cars",
+          "hi": "1,50,000 कारें"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Under the ongoing India-EU FTA talks, the EU is reportedly set to get a tariff quota for 1 lakh (100,000) cars initially, which may rise to 1.6 lakh.",
+        "hi": "चल रही भारत-यूरोपीय संघ एफटीए वार्ता के तहत, यूरोपीय संघ को शुरू में 1 लाख (1,00,000) कारों के लिए टैरिफ कोटा मिलने की उम्मीद है, जो बढ़कर 1.6 लाख हो सकता है।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "medium",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-eu-fta-eu-gets-tariff-quota-for-1-lakh-cars-initially-rising-to-1-6-lakh/articleshow/134080810.cms"
+    },
+    {
+      "id": "ca_20260912_04",
+      "question": {
+        "en": "State Bank of India (SBI) is expected to complete its software and hardware deployment for compliance with the DPDP Act by which month?",
+        "hi": "भारतीय स्टेट बैंक (SBI) द्वारा DPDP अधिनियम के अनुपालन के लिए अपने सॉफ्टवेयर और हार्डवेयर परिनियोजन को किस महीने तक पूरा करने की उम्मीद है?"
+      },
+      "options": [
+        {
+          "en": "October 2026",
+          "hi": "अक्टूबर 2026"
+        },
+        {
+          "en": "November 2026",
+          "hi": "नवंबर 2026"
+        },
+        {
+          "en": "December 2026",
+          "hi": "दिसंबर 2026"
+        },
+        {
+          "en": "January 2027",
+          "hi": "जनवरी 2027"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "State Bank of India (SBI) aims to complete the deployment of necessary software and hardware for Digital Personal Data Protection (DPDP) compliance by December.",
+        "hi": "भारतीय स्टेट बैंक (SBI) का लक्ष्य दिसंबर तक डिजिटल पर्सनल डेटा प्रोटेक्शन (DPDP) अनुपालन के लिए आवश्यक सॉफ्टवेयर और हार्डवेयर की तैनाती पूरी करना है।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.business-standard.com/companies/news/sbi-to-complete-software-hardware-deployment-for-dpdp-compliance-by-dec-126091101309_1.html"
+    },
+    {
+      "id": "ca_20260912_05",
+      "question": {
+        "en": "According to the CEO of BMW India, states should not impose a price cap on which type of vehicle benefit?",
+        "hi": "बीएमडब्ल्यू इंडिया के सीईओ के अनुसार, राज्यों को किस प्रकार के वाहन लाभ पर मूल्य सीमा नहीं लगानी चाहिए?"
+      },
+      "options": [
+        {
+          "en": "Hybrid Vehicle Subsidies",
+          "hi": "हाइब्रिड वाहन सब्सिडी"
+        },
+        {
+          "en": "EV Road Tax Benefit",
+          "hi": "ईवी रोड टैक्स लाभ"
+        },
+        {
+          "en": "Diesel Vehicle Registration",
+          "hi": "डीजल वाहन पंजीकरण"
+        },
+        {
+          "en": "CNG Vehicle Incentives",
+          "hi": "सीएनजी वाहन प्रोत्साहन"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The CEO of BMW India stated that state governments should avoid putting a price cap on road tax benefits for Electric Vehicles (EVs) to encourage their adoption.",
+        "hi": "बीएमडब्ल्यू इंडिया के सीईओ ने कहा कि राज्य सरकारों को इलेक्ट्रिक वाहनों (ईवी) को अपनाने के लिए प्रोत्साहित करने के लिए रोड टैक्स लाभ पर मूल्य सीमा लगाने से बचना चाहिए।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.business-standard.com/companies/news/states-should-not-cap-road-tax-benefits-for-evs-based-on-price-bmw-india-126091101316_1.html"
+    },
+    {
+      "id": "ca_20260912_06",
+      "question": {
+        "en": "As per RBI Governor Shaktikanta Das (referred to in the news), nearly 50% of Foreign Currency Non-Resident (Bank) [FCNR(B)] deposits are for what tenure?",
+        "hi": "आरबीआई गवर्नर शक्तिकांत दास (समाचार में संदर्भित) के अनुसार, लगभग 50% विदेशी मुद्रा अनिवासी (बैंक) [FCNR(B)] जमा किस अवधि के लिए हैं?"
+      },
+      "options": [
+        {
+          "en": "1-year tenure",
+          "hi": "1-वर्षीय अवधि"
+        },
+        {
+          "en": "3-year tenure",
+          "hi": "3-वर्षीय अवधि"
+        },
+        {
+          "en": "5-year tenure",
+          "hi": "5-वर्षीय अवधि"
+        },
+        {
+          "en": "10-year tenure",
+          "hi": "10-वर्षीय अवधि"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The RBI Governor stated that nearly 50% of the FCNR(B) deposits received under the RBI swap window have a 5-year tenure, indicating long-term confidence.",
+        "hi": "आरबीआई गवर्नर ने कहा कि आरबीआई स्वैप विंडो के तहत प्राप्त FCNR(B) जमा का लगभग 50% 5 साल का कार्यकाल है, जो दीर्घकालिक विश्वास को दर्शाता है।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "hard",
+      "sourceUrl": "https://www.business-standard.com/finance/news/nearly-50-of-fcnr-b-deposits-under-rbi-swap-have-five-year-tenure-guv-126091101308_1.html"
+    },
+    {
+      "id": "ca_20260912_07",
+      "question": {
+        "en": "In the Women's Asia Cup, which team fought back from 33/4 to beat Pakistan and set up a final clash with India?",
+        "hi": "महिला एशिया कप में, किस टीम ने 33/4 से वापसी करते हुए पाकिस्तान को हराया और भारत के साथ खिताबी मुकाबले में जगह बनाई?"
+      },
+      "options": [
+        {
+          "en": "Bangladesh",
+          "hi": "बांग्लादेश"
+        },
+        {
+          "en": "Sri Lanka",
+          "hi": "श्रीलंका"
+        },
+        {
+          "en": "Thailand",
+          "hi": "थाईलैंड"
+        },
+        {
+          "en": "UAE",
+          "hi": "यूएई"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Sri Lanka's women's cricket team staged a brilliant comeback from 33/4 to defeat Pakistan and qualify for the Women's Asia Cup final against India.",
+        "hi": "श्रीलंका की महिला क्रिकेट टीम ने 33/4 से शानदार वापसी करते हुए पाकिस्तान को हराया और भारत के खिलाफ महिला एशिया कप फाइनल के लिए क्वालीफाई किया।"
+      },
+      "category": "Sports",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/rssfeeds/4719148.cms"
+    },
+    {
+      "id": "ca_20260912_08",
+      "question": {
+        "en": "ISRO has successfully tested a more powerful engine for which of its launch vehicles, often referred to as 'Bahubali'?",
+        "hi": "ISRO ने अपने किस लॉन्च वाहन के लिए अधिक शक्तिशाली इंजन का सफलतापूर्वक परीक्षण किया है, जिसे अक्सर 'बाहुबली' कहा जाता है?"
+      },
+      "options": [
+        {
+          "en": "PSLV",
+          "hi": "पीएसएलवी (PSLV)"
+        },
+        {
+          "en": "GSLV Mk II",
+          "hi": "जीएसएलवी एमके II (GSLV Mk II)"
+        },
+        {
+          "en": "LVM3 (GSLV Mk III)",
+          "hi": "एलवीएम3 (GSLV Mk III)"
+        },
+        {
+          "en": "SSLV",
+          "hi": "एसएसएलवी (SSLV)"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The Indian Space Research Organisation (ISRO) successfully tested a more powerful engine for India's heaviest rocket, the LVM3, also known as 'Bahubali'.",
+        "hi": "भारतीय अंतरिक्ष अनुसंधान संगठन (ISRO) ने भारत के सबसे भारी रॉकेट, LVM3, जिसे 'बाहुबली' के नाम से भी जाना जाता है, के लिए अधिक शक्तिशाली इंजन का सफलतापूर्वक परीक्षण किया है।"
+      },
+      "category": "Science & Technology",
+      "difficulty": "medium",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/science/isro-successfully-tests-more-powerful-engine-for-indias-bahubali-lvm3-rocket/articleshow/133999096.cms"
+    },
+    {
+      "id": "ca_20260912_09",
+      "question": {
+        "en": "Which major Indian conglomerate has reportedly emerged as a key defence partner for Russia in India, alongside HAL and BDL?",
+        "hi": "HAL और BDL के साथ, कौन सा प्रमुख भारतीय समूह भारत में रूस के लिए एक प्रमुख रक्षा भागीदार के रूप में उभरा है?"
+      },
+      "options": [
+        {
+          "en": "Tata Group",
+          "hi": "टाटा समूह"
+        },
+        {
+          "en": "Adani Group",
+          "hi": "अडानी समूह"
+        },
+        {
+          "en": "Mahindra Defence",
+          "hi": "महिंद्रा डिफेंस"
+        },
+        {
+          "en": "Reliance Naval",
+          "hi": "रिलायंस नेवल"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The Adani Group has reportedly emerged as a key defence partner for Russia in India, alongside state-run entities like Hindustan Aeronautics Limited (HAL) and Bharat Dynamics Limited (BDL).",
+        "hi": "अडानी समूह को भारत में रूस के लिए एक प्रमुख रक्षा भागीदार के रूप में उभरा है, जिसमें हिंदुस्तान एयरोनॉटिक्स लिमिटेड (HAL) और भारत डायनेमिक्स लिमिटेड (BDL) जैसी सरकारी संस्थाएं भी शामिल हैं।"
+      },
+      "category": "Defence & Security",
+      "difficulty": "medium",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/defence/adani-emerges-key-russia-defence-partner-in-india-hal-bdl-on-board/articleshow/134084336.cms"
+    },
+    {
+      "id": "ca_20260912_10",
+      "question": {
+        "en": "In a recent cricket match at Edgbaston, which team mounted a stunning fightback to force a tricky chase for England?",
+        "hi": "एजबेस्टन में हाल ही में हुए एक क्रिकेट मैच में, किस टीम ने शानदार वापसी करते हुए इंग्लैंड के सामने एक मुश्किल लक्ष्य रखा?"
+      },
+      "options": [
+        {
+          "en": "Australia",
+          "hi": "ऑस्ट्रेलिया"
+        },
         {
           "en": "India",
           "hi": "भारत"
         },
         {
-          "en": "Russia",
-          "hi": "रूस"
+          "en": "Pakistan",
+          "hi": "पाकिस्तान"
         },
         {
-          "en": "Brazil",
-          "hi": "ब्राज़ील"
-        },
-        {
-          "en": "China",
-          "hi": "चीन"
-        }
-      ],
-      "correctAnswer": 0,
-      "explanation": {
-        "en": "The 18th BRICS summit was held in New Delhi, India. Russian President Vladimir Putin and other top leaders attended the summit, which focused on the global economy and various crises.",
-        "hi": "18वां ब्रिक्स शिखर सम्मेलन नई दिल्ली, भारत में आयोजित किया गया। रूसी राष्ट्रपति व्लादिमीर पुतिन और अन्य शीर्ष नेताओं ने शिखर सम्मेलन में भाग लिया, जो वैश्विक अर्थव्यवस्था और विभिन्न संकटों पर केंद्रित था।"
-      },
-      "category": "International Summits",
-      "difficulty": "easy",
-      "sourceUrl": "https://www.thehindu.com/news/national/russian-president-vladimir-putin-in-new-delhi-to-attend-brics-summit/article71453608.ece"
-    },
-    {
-      "id": "ca_20260911_02",
-      "question": {
-        "en": "India pitched for the integration of which of the following during the 2026 BRICS Summit in New Delhi?",
-        "hi": "भारत ने नई दिल्ली में 2026 ब्रिक्स शिखर सम्मेलन के दौरान निम्नलिखित में से किसके एकीकरण की वकालत की?"
-      },
-      "options": [
-        {
-          "en": "Unified Military Command",
-          "hi": "एकीकृत सैन्य कमान"
-        },
-        {
-          "en": "Central Bank Digital Currencies (CBDCs)",
-          "hi": "सेंट्रल बैंक डिजिटल करेंसी (CBDC)"
-        },
-        {
-          "en": "BRICS Space Station",
-          "hi": "ब्रिक्स अंतरिक्ष स्टेशन"
-        },
-        {
-          "en": "Common BRICS Visa",
-          "hi": "सामान्य ब्रिक्स वीज़ा"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "During the BRICS 2026 Summit in New Delhi, India pitched for the integration of Central Bank Digital Currencies (CBDCs) among member countries. This initiative builds on the declaration adopted at the 2025 BRICS summit in Rio de Janeiro to improve cross-border transactions.",
-        "hi": "नई दिल्ली में ब्रिक्स 2026 शिखर सम्मेलन के दौरान, भारत ने सदस्य देशों के बीच सेंट्रल बैंक डिजिटल मुद्राओं (CBDC) के एकीकरण की वकालत की। यह पहल सीमा पार लेनदेन में सुधार के लिए रियो डी जनेरियो में 2025 ब्रिक्स शिखर सम्मेलन में अपनाई गई घोषणा पर आधारित है।"
-      },
-      "category": "Economy & Banking",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.livemint.com/news/brics-2026-india-to-seek-to-link-central-bank-digital-currencies-will-cbdc-integration-face-challenges-11789050704729.html"
-    },
-    {
-      "id": "ca_20260911_03",
-      "question": {
-        "en": "The Indian women's cricket team recently reached the final of the Women's Asia Cup. How many times has India won the Women's Asia Cup title previously?",
-        "hi": "भारतीय महिला क्रिकेट टीम हाल ही में महिला एशिया कप के फाइनल में पहुंची है। भारत ने इससे पहले कितनी बार महिला एशिया कप का खिताब जीता है?"
-      },
-      "options": [
-        {
-          "en": "Five times",
-          "hi": "पाँच बार"
-        },
-        {
-          "en": "Six times",
-          "hi": "छह बार"
-        },
-        {
-          "en": "Seven times",
-          "hi": "सात बार"
-        },
-        {
-          "en": "Eight times",
-          "hi": "आठ बार"
+          "en": "South Africa",
+          "hi": "दक्षिण अफ्रीका"
         }
       ],
       "correctAnswer": 2,
       "explanation": {
-        "en": "India is the most successful team in the Women's Asia Cup, having won the title seven times previously (four in 50-over format and three in T20s). Shafali Verma recently steered India to the final.",
-        "hi": "भारत महिला एशिया कप में सबसे सफल टीम है, जिसने इससे पहले सात बार (50 ओवर के प्रारूप में चार और टी20 में तीन बार) खिताब जीता है। शैफाली वर्मा ने हाल ही में भारत को फाइनल में पहुंचाया है।"
+        "en": "Pakistan mounted a stunning fightback against England in a match at Edgbaston, recovering from a tough situation to set a challenging target.",
+        "hi": "एजबेस्टन में हुए एक मैच में पाकिस्तान ने इंग्लैंड के खिलाफ शानदार वापसी की और कठिन स्थिति से उबरते हुए एक चुनौतीपूर्ण लक्ष्य रखा।"
       },
       "category": "Sports",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.thehindu.com/sport/cricket/shafali-steers-india-to-womens-asia-cup-final/article71453317.ece"
-    },
-    {
-      "id": "ca_20260911_04",
-      "question": {
-        "en": "The Organization of the Petroleum Exporting Countries (OPEC) recently released its forecast for India's oil demand in 2026. What is the expected acceleration in demand?",
-        "hi": "पेट्रोलियम निर्यातक देशों के संगठन (ओपेक) ने हाल ही में 2026 में भारत की तेल मांग के लिए अपना पूर्वानुमान जारी किया है। मांग में अपेक्षित वृद्धि क्या है?"
-      },
-      "options": [
-        {
-          "en": "0.02 mb/d",
-          "hi": "0.02 mb/d"
-        },
-        {
-          "en": "0.04 mb/d",
-          "hi": "0.04 mb/d"
-        },
-        {
-          "en": "0.06 mb/d",
-          "hi": "0.06 mb/d"
-        },
-        {
-          "en": "0.08 mb/d",
-          "hi": "0.08 mb/d"
-        }
-      ],
-      "correctAnswer": 2,
-      "explanation": {
-        "en": "OPEC forecasts India's oil demand to accelerate by 0.06 million barrels per day (mb/d) in 2026. OPEC also trimmed its forecast for global oil demand growth for 2026.",
-        "hi": "ओपेक का अनुमान है कि 2026 में भारत की तेल मांग में 0.06 मिलियन बैरल प्रति दिन (mb/d) की वृद्धि होगी। ओपेक ने 2026 के लिए वैश्विक तेल मांग वृद्धि के अपने पूर्वानुमान में भी कटौती की है।"
-      },
-      "category": "Economy & Banking",
-      "difficulty": "hard",
-      "sourceUrl": "https://www.thehindu.com/business/Industry/opec-forecasts-indias-oil-demand-to-accelerate-by-006-mbd-in-2026/article71452956.ece"
-    },
-    {
-      "id": "ca_20260911_05",
-      "question": {
-        "en": "Who recently resigned from the position of WHO regional director amid fraud allegations?",
-        "hi": "हाल ही में धोखाधड़ी के आरोपों के बीच डब्ल्यूएचओ के क्षेत्रीय निदेशक के पद से किसने इस्तीफा दिया है?"
-      },
-      "options": [
-        {
-          "en": "Tedros Adhanom Ghebreyesus",
-          "hi": "टेड्रोस एडनॉम घेब्येयियस"
-        },
-        {
-          "en": "Poonam Khetrapal Singh",
-          "hi": "पूनम खेत्रपाल सिंह"
-        },
-        {
-          "en": "Saima Wazed",
-          "hi": "साइमा वाजेद"
-        },
-        {
-          "en": "Soumya Swaminathan",
-          "hi": "सौम्या स्वामीनाथन"
-        }
-      ],
-      "correctAnswer": 2,
-      "explanation": {
-        "en": "Saima Wazed, the daughter of former Bangladesh Prime Minister Sheikh Hasina, recently resigned as the WHO regional director for South-East Asia amid fraud allegations. The WHO regional committee had recommended her termination earlier.",
-        "hi": "बांग्लादेश की पूर्व प्रधान मंत्री शेख हसीना की बेटी साइमा वाजेद ने हाल ही में धोखाधड़ी के आरोपों के बीच दक्षिण-पूर्व एशिया के लिए डब्ल्यूएचओ क्षेत्रीय निदेशक के पद से इस्तीफा दे दिया। डब्ल्यूएचओ क्षेत्रीय समिति ने पहले ही उनकी बर्खास्तगी की सिफारिश की थी।"
-      },
-      "category": "Appointments & Commissions",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.thehindu.com/news/international/saima-wazed-hasina-daughter-resigns-as-who-regional-director-fraud-allegations-bangladesh/article71450449.ece"
-    },
-    {
-      "id": "ca_20260911_06",
-      "question": {
-        "en": "To tighten regulations, the Indian government recently introduced new e-commerce rules. These rules aim to address concerns regarding which of the following?",
-        "hi": "नियमों को सख्त करने के लिए, भारत सरकार ने हाल ही में नए ई-कॉमर्स नियम पेश किए हैं। इन नियमों का उद्देश्य निम्नलिखित में से किस चिंता को दूर करना है?"
-      },
-      "options": [
-        {
-          "en": "Only cross-border taxation",
-          "hi": "केवल सीमा पार कराधान"
-        },
-        {
-          "en": "Discounts, search results, and sponsored listings",
-          "hi": "छूट, खोज परिणाम और प्रायोजित लिस्टिंग"
-        },
-        {
-          "en": "Mandatory physical stores for all e-commerce platforms",
-          "hi": "सभी ई-कॉमर्स प्लेटफॉर्म के लिए अनिवार्य भौतिक स्टोर"
-        },
-        {
-          "en": "Banning of cash-on-delivery services",
-          "hi": "कैश-ऑन-डिलीवरी सेवाओं पर प्रतिबंध"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "The government tightened e-commerce rules focusing on discounts, search results, and sponsored listings. The amendments aim to protect consumer interests in the digital marketplace while balancing the ease of doing business.",
-        "hi": "सरकार ने छूट, खोज परिणाम और प्रायोजित लिस्टिंग पर ध्यान केंद्रित करते हुए ई-कॉमर्स नियमों को सख्त कर दिया है। संशोधनों का उद्देश्य व्यापार करने में आसानी को संतुलित करते हुए डिजिटल बाज़ार में उपभोक्ता हितों की रक्षा करना है।"
-      },
-      "category": "Polity & Governance",
       "difficulty": "easy",
-      "sourceUrl": "https://www.livemint.com/news/ecommerce-platforms-to-face-tighter-rules-on-discounts-search-results-and-sponsored-listings-11789050186264.html"
-    },
-    {
-      "id": "ca_20260911_07",
-      "question": {
-        "en": "Who recently quit their position as the physiotherapist for the Indian national cricket team?",
-        "hi": "हाल ही में किसने भारतीय राष्ट्रीय क्रिकेट टीम के फिजियोथेरेपिस्ट के पद से इस्तीफा दिया है?"
-      },
-      "options": [
-        {
-          "en": "Nitin Patel",
-          "hi": "नितिन पटेल"
-        },
-        {
-          "en": "Kamlesh Jain",
-          "hi": "कमलेश जैन"
-        },
-        {
-          "en": "Patrick Farhart",
-          "hi": "पैट्रिक फरहार्ट"
-        },
-        {
-          "en": "Andrew Leipus",
-          "hi": "एंड्रयू लीपस"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "Kamlesh Jain recently quit as the India team physio. He had replaced Nitin Patel in June 2022. Patel had moved to the Centre of Excellence (CoE) in Bengaluru and subsequently joined Mumbai Indians.",
-        "hi": "कमलेश जैन ने हाल ही में भारतीय टीम के फिजियो के पद से इस्तीफा दिया है। उन्होंने जून 2022 में नितिन पटेल की जगह ली थी। पटेल बेंगलुरु में सेंटर ऑफ एक्सीलेंस (CoE) चले गए थे और बाद में मुंबई इंडियंस में शामिल हो गए।"
-      },
-      "category": "Sports",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.thehindu.com/sport/cricket/kamlesh-jain-quits-as-india-team-physio/article71452834.ece"
-    },
-    {
-      "id": "ca_20260911_08",
-      "question": {
-        "en": "The bidding deadline for blocks under the Open Acreage Licensing Programme (OALP) for deepwater was extended to November 15. What sector does OALP belong to?",
-        "hi": "डीपवाटर के लिए ओपन एकरेज लाइसेंसिंग प्रोग्राम (OALP) के तहत ब्लॉकों के लिए बोली की समय सीमा 15 नवंबर तक बढ़ा दी गई थी। OALP किस क्षेत्र से संबंधित है?"
-      },
-      "options": [
-        {
-          "en": "Telecommunications Spectrum",
-          "hi": "दूरसंचार स्पेक्ट्रम"
-        },
-        {
-          "en": "Oil and Gas Exploration",
-          "hi": "तेल और गैस अन्वेषण"
-        },
-        {
-          "en": "Coal Mining",
-          "hi": "कोयला खनन"
-        },
-        {
-          "en": "Renewable Energy Projects",
-          "hi": "नवीकरणीय ऊर्जा परियोजनाएं"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "The Open Acreage Licensing Programme (OALP) is a key initiative by the Government of India in the Oil and Gas Exploration sector. It allows investors to carve out blocks of their choice to assess exploration potential.",
-        "hi": "ओपन एकरेज लाइसेंसिंग प्रोग्राम (OALP) तेल और गैस अन्वेषण क्षेत्र में भारत सरकार की एक प्रमुख पहल है। यह निवेशकों को अन्वेषण क्षमता का आकलन करने के लिए अपनी पसंद के ब्लॉक बनाने की अनुमति देता है।"
-      },
-      "category": "Economy & Banking",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.thehindu.com/business/Industry/oalp-deepwater-bidding-deadline-extended-by-two-months-to-november-15/article71452744.ece"
-    },
-    {
-      "id": "ca_20260911_09",
-      "question": {
-        "en": "According to Canadian High Commissioner Christopher Cooter, India and Canada are expected to sign a Comprehensive Economic Partnership Agreement (CEPA) by the end of the year. This agreement primarily focuses on enhancing:",
-        "hi": "कनाडाई उच्चायुक्त क्रिस्टोफर कूट्टर के अनुसार, भारत और कनाडा के बीच वर्ष के अंत तक एक व्यापक आर्थिक भागीदारी समझौता (CEPA) पर हस्ताक्षर होने की उम्मीद है। यह समझौता मुख्य रूप से किसे बढ़ाने पर केंद्रित है:"
-      },
-      "options": [
-        {
-          "en": "Military and defence cooperation",
-          "hi": "सैन्य और रक्षा सहयोग"
-        },
-        {
-          "en": "Space exploration missions",
-          "hi": "अंतरिक्ष अन्वेषण मिशन"
-        },
-        {
-          "en": "Bilateral trade and economic relations",
-          "hi": "द्विपक्षीय व्यापार और आर्थिक संबंध"
-        },
-        {
-          "en": "Cultural exchange programs",
-          "hi": "सांस्कृतिक आदान-प्रदान कार्यक्रम"
-        }
-      ],
-      "correctAnswer": 2,
-      "explanation": {
-        "en": "A Comprehensive Economic Partnership Agreement (CEPA) is a free trade agreement aimed at enhancing bilateral trade, investment, and economic cooperation between the participating countries, in this case, India and Canada.",
-        "hi": "व्यापक आर्थिक भागीदारी समझौता (CEPA) एक मुक्त व्यापार समझौता है जिसका उद्देश्य भाग लेने वाले देशों, इस मामले में, भारत और कनाडा के बीच द्विपक्षीय व्यापार, निवेश और आर्थिक सहयोग को बढ़ाना है।"
-      },
-      "category": "International Summits",
-      "difficulty": "easy",
-      "sourceUrl": "https://www.thehindu.com/news/national/india-canada-trade-deal-by-the-end-of-the-year-canadian-high-commissioner-cooter-says/article71452027.ece"
-    },
-    {
-      "id": "ca_20260911_10",
-      "question": {
-        "en": "The Supreme Court of India recently declined pre-arrest relief to the PA of a prominent political leader in West Bengal. Which Article of the Constitution grants the Supreme Court special leave to appeal in such matters?",
-        "hi": "भारत के सर्वोच्च न्यायालय ने हाल ही में पश्चिम बंगाल में एक प्रमुख राजनीतिक नेता के पीए को गिरफ्तारी पूर्व राहत देने से इनकार कर दिया। संविधान का कौन सा अनुच्छेद सर्वोच्च न्यायालय को ऐसे मामलों में अपील करने की विशेष अनुमति देता है?"
-      },
-      "options": [
-        {
-          "en": "Article 32",
-          "hi": "अनुच्छेद 32"
-        },
-        {
-          "en": "Article 136",
-          "hi": "अनुच्छेद 136"
-        },
-        {
-          "en": "Article 226",
-          "hi": "अनुच्छेद 226"
-        },
-        {
-          "en": "Article 143",
-          "hi": "अनुच्छेद 143"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "Article 136 of the Indian Constitution empowers the Supreme Court to grant special leave to appeal against any judgment, decree, or order in any cause or matter passed or made by any court or tribunal in the territory of India. The recent case involved an investigation where custodial interrogation was deemed necessary.",
-        "hi": "भारतीय संविधान का अनुच्छेद 136 सर्वोच्च न्यायालय को भारत के क्षेत्र में किसी भी अदालत या न्यायाधिकरण द्वारा पारित या किए गए किसी भी निर्णय, डिक्री या आदेश के खिलाफ अपील करने की विशेष अनुमति देने का अधिकार देता है। हालिया मामला एक ऐसी जांच से जुड़ा था जिसमें हिरासत में पूछताछ को आवश्यक माना गया था।"
-      },
-      "category": "Polity & Governance",
-      "difficulty": "hard",
-      "sourceUrl": "https://www.thehindu.com/news/national/west-bengal/supreme-court-declines-pre-arrest-relief-to-abhishek-banerjees-pa/article71452952.ece"
+      "sourceUrl": "https://timesofindia.indiatimes.com/rssfeeds/4719148.cms"
     }
   ]
 }
