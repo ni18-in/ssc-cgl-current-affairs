@@ -1,340 +1,340 @@
 {
-  "date": "2026-09-12",
+  "date": "2026-09-13",
   "topic": "SSC CGL Daily Current Affairs",
-  "source": "PIB / The Hindu / Economic Times / Indian Express / GKToday",
-  "lastUpdated": "2026-09-12T06:00:00+05:30",
+  "source": "The Hindu / Times of India",
+  "lastUpdated": "2026-09-13T06:00:00+05:30",
   "version": 1,
   "totalQuestions": 10,
   "quiz": [
     {
-      "id": "ca_20260912_01",
+      "id": "ca_20260913_01",
       "question": {
-        "en": "Recently, which High Court declared that 'talaq-e-hassan' is a valid form of divorce under Muslim personal law?",
-        "hi": "हाल ही में, किस उच्च न्यायालय ने घोषित किया है कि 'तलाक-ए-हसन' मुस्लिम पर्सनल लॉ के तहत तलाक का एक वैध रूप है?"
+        "en": "Where is the DRDO setting up a new weapon and missile testing range, complementing the existing facility in Chandipur?",
+        "hi": "डीआरडीओ (DRDO) चांदीपुर स्थित मौजूदा सुविधा के अतिरिक्त एक नया हथियार और मिसाइल परीक्षण रेंज कहाँ स्थापित कर रहा है?"
       },
       "options": [
         {
-          "en": "Allahabad High Court",
-          "hi": "इलाहाबाद उच्च न्यायालय"
+          "en": "Balasore, Odisha",
+          "hi": "बालासोर, ओडिशा"
         },
         {
-          "en": "Gauhati High Court",
-          "hi": "गुवाहाटी उच्च न्यायालय"
+          "en": "Junput, West Bengal",
+          "hi": "जुनपुट, पश्चिम बंगाल"
         },
+        {
+          "en": "Sriharikota, Andhra Pradesh",
+          "hi": "श्रीहरिकोटा, आंध्र प्रदेश"
+        },
+        {
+          "en": "Thumba, Kerala",
+          "hi": "थुम्बा, केरल"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The Defence Research and Development Organisation (DRDO) is establishing a new missile testing range in Junput, Purba Medinipur district of West Bengal. This state-of-the-art facility will complement the existing Integrated Test Range (ITR) in Chandipur, Odisha.",
+        "hi": "रक्षा अनुसंधान एवं विकास संगठन (DRDO) पश्चिम बंगाल के पूर्व मेदिनीपुर जिले के जुनपुट में एक नई मिसाइल परीक्षण रेंज स्थापित कर रहा है। यह अत्याधुनिक सुविधा ओडिशा के चांदीपुर में मौजूदा एकीकृत परीक्षण रेंज (ITR) की पूरक होगी।"
+      },
+      "category": "Defence & Security",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/india-to-get-another-major-drdo-missile-testing-range-in-bengal/articleshow/134161810.cms"
+    },
+    {
+      "id": "ca_20260913_02",
+      "question": {
+        "en": "Which international alliance recently opposed the unilateral Carbon Border Adjustment Mechanism (CBAM) proposed by the European Union?",
+        "hi": "हाल ही में किस अंतर्राष्ट्रीय गठबंधन ने यूरोपीय संघ द्वारा प्रस्तावित एकतरफा कार्बन बॉर्डर एडजस्टमेंट मैकेनिज्म (CBAM) का विरोध किया है?"
+      },
+      "options": [
+        {
+          "en": "G7",
+          "hi": "जी7 (G7)"
+        },
+        {
+          "en": "ASEAN",
+          "hi": "आसियान (ASEAN)"
+        },
+        {
+          "en": "BRICS",
+          "hi": "ब्रिक्स (BRICS)"
+        },
+        {
+          "en": "NATO",
+          "hi": "नाटो (NATO)"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "BRICS nations have strongly opposed unilateral trade measures like the EU's Carbon Border Adjustment Mechanism (CBAM). They argued that such measures undermine developing countries' efforts to address climate change and emphasized the need for equity and collective responsibility.",
+        "hi": "ब्रिक्स (BRICS) देशों ने यूरोपीय संघ के कार्बन बॉर्डर एडजस्टमेंट मैकेनिज्म (CBAM) जैसे एकतरफा व्यापार उपायों का कड़ा विरोध किया है। उन्होंने तर्क दिया कि इस तरह के उपाय जलवायु परिवर्तन को संबोधित करने के विकासशील देशों के प्रयासों को कमजोर करते हैं और समानता तथा सामूहिक जिम्मेदारी की आवश्यकता पर जोर दिया।"
+      },
+      "category": "International Summits",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/brics-opposes-unilateral-trade-steps-like-eu-carbon-border-tax/articleshow/134158775.cms"
+    },
+    {
+      "id": "ca_20260913_03",
+      "question": {
+        "en": "Who recently broke Sachin Tendulkar's record for the most half-centuries (fifties) in Test cricket?",
+        "hi": "हाल ही में टेस्ट क्रिकेट में सर्वाधिक अर्धशतक (पचास) का सचिन तेंदुलकर का रिकॉर्ड किसने तोड़ा?"
+      },
+      "options": [
+        {
+          "en": "Virat Kohli",
+          "hi": "विराट कोहली"
+        },
+        {
+          "en": "Steve Smith",
+          "hi": "स्टीव स्मिथ"
+        },
+        {
+          "en": "Joe Root",
+          "hi": "जो रूट"
+        },
+        {
+          "en": "Kane Williamson",
+          "hi": "केन विलियमसन"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "England cricketer Joe Root surpassed Sachin Tendulkar's record of 68 Test fifties by scoring his 69th half-century during a match against Pakistan. Tendulkar still holds the record for most Test centuries and total runs.",
+        "hi": "इंग्लैंड के क्रिकेटर जो रूट ने पाकिस्तान के खिलाफ एक मैच के दौरान अपना 69वां अर्धशतक बनाकर सचिन तेंदुलकर के 68 टेस्ट अर्धशतकों के रिकॉर्ड को पीछे छोड़ दिया। तेंदुलकर के नाम अभी भी सबसे ज्यादा टेस्ट शतक और कुल रन बनाने का रिकॉर्ड है।"
+      },
+      "category": "Sports",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/joe-root-creates-history-breaks-sachin-tendulkars-record/articleshow/134136516.cms"
+    },
+    {
+      "id": "ca_20260913_04",
+      "question": {
+        "en": "Which High Court recently ruled that a government employee who resigns to contest elections cannot seek reinstatement if they lose?",
+        "hi": "किस उच्च न्यायालय ने हाल ही में फैसला सुनाया है कि चुनाव लड़ने के लिए इस्तीफा देने वाला सरकारी कर्मचारी हारने पर अपनी नौकरी पर बहाली की मांग नहीं कर सकता?"
+      },
+      "options": [
         {
           "en": "Delhi High Court",
           "hi": "दिल्ली उच्च न्यायालय"
         },
         {
-          "en": "Kerala High Court",
-          "hi": "केरल उच्च न्यायालय"
+          "en": "Allahabad High Court",
+          "hi": "इलाहाबाद उच्च न्यायालय"
+        },
+        {
+          "en": "Rajasthan High Court",
+          "hi": "राजस्थान उच्च न्यायालय"
+        },
+        {
+          "en": "Madras High Court",
+          "hi": "मद्रास उच्च न्यायालय"
         }
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": {
-        "en": "The Gauhati High Court has held that 'talaq-e-hassan' is a valid form of divorce. The court directed the petitioner to register his divorce under the Assam Compulsory Registration of Muslim Marriages and Divorce Act, 2024.",
-        "hi": "गुवाहाटी उच्च न्यायालय ने माना है कि 'तलाक-ए-हसन' तलाक का एक वैध रूप है। अदालत ने याचिकाकर्ता को असम मुस्लिम विवाह और तलाक अनिवार्य पंजीकरण अधिनियम, 2024 के तहत अपना तलाक पंजीकृत करने का निर्देश दिया।"
+        "en": "The Rajasthan High Court upheld a tribunal's decision that a government employee who quits to fight polls cannot seek reinstatement. The court emphasized that contesting as a political party's candidate violates the requirement of maintaining political neutrality.",
+        "hi": "राजस्थान उच्च न्यायालय ने एक न्यायाधिकरण के उस निर्णय को बरकरार रखा कि चुनाव लड़ने के लिए इस्तीफा देने वाला सरकारी कर्मचारी बहाली की मांग नहीं कर सकता। अदालत ने इस बात पर जोर दिया कि किसी राजनीतिक दल के उम्मीदवार के रूप में चुनाव लड़ना राजनीतिक तटस्थता बनाए रखने की आवश्यकता का उल्लंघन करता है।"
       },
       "category": "Polity & Governance",
       "difficulty": "medium",
-      "sourceUrl": "https://www.thehindu.com/news/national/assam/gauhati-high-court-says-talaq-e-hassan-is-a-valid-form-of-divorce/article71456358.ece"
+      "sourceUrl": "https://www.thehindu.com/news/national/rajasthan/govt-employee-quitting-to-fight-polls-cant-seek-reinstatement-rajasthan-high-court/article71460588.ece"
     },
     {
-      "id": "ca_20260912_02",
+      "id": "ca_20260913_05",
       "question": {
-        "en": "Recently, finance chiefs of which multilateral forum flagged tariff risks and pushed for cross-border payments?",
-        "hi": "हाल ही में, किस बहुपक्षीय मंच के वित्त प्रमुखों ने टैरिफ जोखिमों को हरी झंडी दिखाई और सीमा पार से भुगतान पर जोर दिया?"
+        "en": "Which major corporate group's bid to remain an unlisted 'private' company was recently rejected by the Reserve Bank of India (RBI)?",
+        "hi": "भारतीय रिज़र्व बैंक (RBI) द्वारा हाल ही में किस प्रमुख कॉर्पोरेट समूह की असूचीबद्ध 'निजी' कंपनी बने रहने की बोली को खारिज कर दिया गया है?"
       },
       "options": [
         {
-          "en": "G20",
-          "hi": "जी20"
-        },
-        {
-          "en": "ASEAN",
-          "hi": "आसियान"
-        },
-        {
-          "en": "BRICS",
-          "hi": "ब्रिक्स"
-        },
-        {
-          "en": "SAARC",
-          "hi": "सार्क"
-        }
-      ],
-      "correctAnswer": 2,
-      "explanation": {
-        "en": "BRICS finance chiefs recently flagged tariff risks and pushed for enhanced cross-border payments among member nations to reduce dependency on traditional financial systems.",
-        "hi": "ब्रिक्स के वित्त प्रमुखों ने हाल ही में टैरिफ जोखिमों को हरी झंडी दिखाई और पारंपरिक वित्तीय प्रणालियों पर निर्भरता कम करने के लिए सदस्य देशों के बीच सीमा पार से भुगतान बढ़ाने पर जोर दिया।"
-      },
-      "category": "Economy & Banking",
-      "difficulty": "medium",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/foreign-trade/brics-finance-chiefs-flag-tariff-risks-push-cross-border-payments/articleshow/134083987.cms"
-    },
-    {
-      "id": "ca_20260912_03",
-      "question": {
-        "en": "Under the proposed India-EU Free Trade Agreement, what is the initial tariff quota for cars that the EU is set to receive?",
-        "hi": "प्रस्तावित भारत-ईयू मुक्त व्यापार समझौते के तहत, कारों के लिए प्रारंभिक टैरिफ कोटा क्या है जो यूरोपीय संघ को प्राप्त होने वाला है?"
-      },
-      "options": [
-        {
-          "en": "50,000 cars",
-          "hi": "50,000 कारें"
-        },
-        {
-          "en": "1,000,000 cars",
-          "hi": "1,000,000 कारें"
-        },
-        {
-          "en": "100,000 cars",
-          "hi": "1,00,000 कारें"
-        },
-        {
-          "en": "150,000 cars",
-          "hi": "1,50,000 कारें"
-        }
-      ],
-      "correctAnswer": 2,
-      "explanation": {
-        "en": "Under the ongoing India-EU FTA talks, the EU is reportedly set to get a tariff quota for 1 lakh (100,000) cars initially, which may rise to 1.6 lakh.",
-        "hi": "चल रही भारत-यूरोपीय संघ एफटीए वार्ता के तहत, यूरोपीय संघ को शुरू में 1 लाख (1,00,000) कारों के लिए टैरिफ कोटा मिलने की उम्मीद है, जो बढ़कर 1.6 लाख हो सकता है।"
-      },
-      "category": "Economy & Banking",
-      "difficulty": "medium",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-eu-fta-eu-gets-tariff-quota-for-1-lakh-cars-initially-rising-to-1-6-lakh/articleshow/134080810.cms"
-    },
-    {
-      "id": "ca_20260912_04",
-      "question": {
-        "en": "State Bank of India (SBI) is expected to complete its software and hardware deployment for compliance with the DPDP Act by which month?",
-        "hi": "भारतीय स्टेट बैंक (SBI) द्वारा DPDP अधिनियम के अनुपालन के लिए अपने सॉफ्टवेयर और हार्डवेयर परिनियोजन को किस महीने तक पूरा करने की उम्मीद है?"
-      },
-      "options": [
-        {
-          "en": "October 2026",
-          "hi": "अक्टूबर 2026"
-        },
-        {
-          "en": "November 2026",
-          "hi": "नवंबर 2026"
-        },
-        {
-          "en": "December 2026",
-          "hi": "दिसंबर 2026"
-        },
-        {
-          "en": "January 2027",
-          "hi": "जनवरी 2027"
-        }
-      ],
-      "correctAnswer": 2,
-      "explanation": {
-        "en": "State Bank of India (SBI) aims to complete the deployment of necessary software and hardware for Digital Personal Data Protection (DPDP) compliance by December.",
-        "hi": "भारतीय स्टेट बैंक (SBI) का लक्ष्य दिसंबर तक डिजिटल पर्सनल डेटा प्रोटेक्शन (DPDP) अनुपालन के लिए आवश्यक सॉफ्टवेयर और हार्डवेयर की तैनाती पूरी करना है।"
-      },
-      "category": "Economy & Banking",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.business-standard.com/companies/news/sbi-to-complete-software-hardware-deployment-for-dpdp-compliance-by-dec-126091101309_1.html"
-    },
-    {
-      "id": "ca_20260912_05",
-      "question": {
-        "en": "According to the CEO of BMW India, states should not impose a price cap on which type of vehicle benefit?",
-        "hi": "बीएमडब्ल्यू इंडिया के सीईओ के अनुसार, राज्यों को किस प्रकार के वाहन लाभ पर मूल्य सीमा नहीं लगानी चाहिए?"
-      },
-      "options": [
-        {
-          "en": "Hybrid Vehicle Subsidies",
-          "hi": "हाइब्रिड वाहन सब्सिडी"
-        },
-        {
-          "en": "EV Road Tax Benefit",
-          "hi": "ईवी रोड टैक्स लाभ"
-        },
-        {
-          "en": "Diesel Vehicle Registration",
-          "hi": "डीजल वाहन पंजीकरण"
-        },
-        {
-          "en": "CNG Vehicle Incentives",
-          "hi": "सीएनजी वाहन प्रोत्साहन"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "The CEO of BMW India stated that state governments should avoid putting a price cap on road tax benefits for Electric Vehicles (EVs) to encourage their adoption.",
-        "hi": "बीएमडब्ल्यू इंडिया के सीईओ ने कहा कि राज्य सरकारों को इलेक्ट्रिक वाहनों (ईवी) को अपनाने के लिए प्रोत्साहित करने के लिए रोड टैक्स लाभ पर मूल्य सीमा लगाने से बचना चाहिए।"
-      },
-      "category": "Economy & Banking",
-      "difficulty": "easy",
-      "sourceUrl": "https://www.business-standard.com/companies/news/states-should-not-cap-road-tax-benefits-for-evs-based-on-price-bmw-india-126091101316_1.html"
-    },
-    {
-      "id": "ca_20260912_06",
-      "question": {
-        "en": "As per RBI Governor Shaktikanta Das (referred to in the news), nearly 50% of Foreign Currency Non-Resident (Bank) [FCNR(B)] deposits are for what tenure?",
-        "hi": "आरबीआई गवर्नर शक्तिकांत दास (समाचार में संदर्भित) के अनुसार, लगभग 50% विदेशी मुद्रा अनिवासी (बैंक) [FCNR(B)] जमा किस अवधि के लिए हैं?"
-      },
-      "options": [
-        {
-          "en": "1-year tenure",
-          "hi": "1-वर्षीय अवधि"
-        },
-        {
-          "en": "3-year tenure",
-          "hi": "3-वर्षीय अवधि"
-        },
-        {
-          "en": "5-year tenure",
-          "hi": "5-वर्षीय अवधि"
-        },
-        {
-          "en": "10-year tenure",
-          "hi": "10-वर्षीय अवधि"
-        }
-      ],
-      "correctAnswer": 2,
-      "explanation": {
-        "en": "The RBI Governor stated that nearly 50% of the FCNR(B) deposits received under the RBI swap window have a 5-year tenure, indicating long-term confidence.",
-        "hi": "आरबीआई गवर्नर ने कहा कि आरबीआई स्वैप विंडो के तहत प्राप्त FCNR(B) जमा का लगभग 50% 5 साल का कार्यकाल है, जो दीर्घकालिक विश्वास को दर्शाता है।"
-      },
-      "category": "Economy & Banking",
-      "difficulty": "hard",
-      "sourceUrl": "https://www.business-standard.com/finance/news/nearly-50-of-fcnr-b-deposits-under-rbi-swap-have-five-year-tenure-guv-126091101308_1.html"
-    },
-    {
-      "id": "ca_20260912_07",
-      "question": {
-        "en": "In the Women's Asia Cup, which team fought back from 33/4 to beat Pakistan and set up a final clash with India?",
-        "hi": "महिला एशिया कप में, किस टीम ने 33/4 से वापसी करते हुए पाकिस्तान को हराया और भारत के साथ खिताबी मुकाबले में जगह बनाई?"
-      },
-      "options": [
-        {
-          "en": "Bangladesh",
-          "hi": "बांग्लादेश"
-        },
-        {
-          "en": "Sri Lanka",
-          "hi": "श्रीलंका"
-        },
-        {
-          "en": "Thailand",
-          "hi": "थाईलैंड"
-        },
-        {
-          "en": "UAE",
-          "hi": "यूएई"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "Sri Lanka's women's cricket team staged a brilliant comeback from 33/4 to defeat Pakistan and qualify for the Women's Asia Cup final against India.",
-        "hi": "श्रीलंका की महिला क्रिकेट टीम ने 33/4 से शानदार वापसी करते हुए पाकिस्तान को हराया और भारत के खिलाफ महिला एशिया कप फाइनल के लिए क्वालीफाई किया।"
-      },
-      "category": "Sports",
-      "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/rssfeeds/4719148.cms"
-    },
-    {
-      "id": "ca_20260912_08",
-      "question": {
-        "en": "ISRO has successfully tested a more powerful engine for which of its launch vehicles, often referred to as 'Bahubali'?",
-        "hi": "ISRO ने अपने किस लॉन्च वाहन के लिए अधिक शक्तिशाली इंजन का सफलतापूर्वक परीक्षण किया है, जिसे अक्सर 'बाहुबली' कहा जाता है?"
-      },
-      "options": [
-        {
-          "en": "PSLV",
-          "hi": "पीएसएलवी (PSLV)"
-        },
-        {
-          "en": "GSLV Mk II",
-          "hi": "जीएसएलवी एमके II (GSLV Mk II)"
-        },
-        {
-          "en": "LVM3 (GSLV Mk III)",
-          "hi": "एलवीएम3 (GSLV Mk III)"
-        },
-        {
-          "en": "SSLV",
-          "hi": "एसएसएलवी (SSLV)"
-        }
-      ],
-      "correctAnswer": 2,
-      "explanation": {
-        "en": "The Indian Space Research Organisation (ISRO) successfully tested a more powerful engine for India's heaviest rocket, the LVM3, also known as 'Bahubali'.",
-        "hi": "भारतीय अंतरिक्ष अनुसंधान संगठन (ISRO) ने भारत के सबसे भारी रॉकेट, LVM3, जिसे 'बाहुबली' के नाम से भी जाना जाता है, के लिए अधिक शक्तिशाली इंजन का सफलतापूर्वक परीक्षण किया है।"
-      },
-      "category": "Science & Technology",
-      "difficulty": "medium",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/science/isro-successfully-tests-more-powerful-engine-for-indias-bahubali-lvm3-rocket/articleshow/133999096.cms"
-    },
-    {
-      "id": "ca_20260912_09",
-      "question": {
-        "en": "Which major Indian conglomerate has reportedly emerged as a key defence partner for Russia in India, alongside HAL and BDL?",
-        "hi": "HAL और BDL के साथ, कौन सा प्रमुख भारतीय समूह भारत में रूस के लिए एक प्रमुख रक्षा भागीदार के रूप में उभरा है?"
-      },
-      "options": [
-        {
-          "en": "Tata Group",
-          "hi": "टाटा समूह"
+          "en": "Reliance Industries",
+          "hi": "रिलायंस इंडस्ट्रीज"
         },
         {
           "en": "Adani Group",
-          "hi": "अडानी समूह"
+          "hi": "अडानी ग्रुप"
         },
         {
-          "en": "Mahindra Defence",
-          "hi": "महिंद्रा डिफेंस"
+          "en": "Tata Sons",
+          "hi": "टाटा संस"
         },
         {
-          "en": "Reliance Naval",
-          "hi": "रिलायंस नेवल"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "The Adani Group has reportedly emerged as a key defence partner for Russia in India, alongside state-run entities like Hindustan Aeronautics Limited (HAL) and Bharat Dynamics Limited (BDL).",
-        "hi": "अडानी समूह को भारत में रूस के लिए एक प्रमुख रक्षा भागीदार के रूप में उभरा है, जिसमें हिंदुस्तान एयरोनॉटिक्स लिमिटेड (HAL) और भारत डायनेमिक्स लिमिटेड (BDL) जैसी सरकारी संस्थाएं भी शामिल हैं।"
-      },
-      "category": "Defence & Security",
-      "difficulty": "medium",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/defence/adani-emerges-key-russia-defence-partner-in-india-hal-bdl-on-board/articleshow/134084336.cms"
-    },
-    {
-      "id": "ca_20260912_10",
-      "question": {
-        "en": "In a recent cricket match at Edgbaston, which team mounted a stunning fightback to force a tricky chase for England?",
-        "hi": "एजबेस्टन में हाल ही में हुए एक क्रिकेट मैच में, किस टीम ने शानदार वापसी करते हुए इंग्लैंड के सामने एक मुश्किल लक्ष्य रखा?"
-      },
-      "options": [
-        {
-          "en": "Australia",
-          "hi": "ऑस्ट्रेलिया"
-        },
-        {
-          "en": "India",
-          "hi": "भारत"
-        },
-        {
-          "en": "Pakistan",
-          "hi": "पाकिस्तान"
-        },
-        {
-          "en": "South Africa",
-          "hi": "दक्षिण अफ्रीका"
+          "en": "Aditya Birla Group",
+          "hi": "आदित्य बिड़ला ग्रुप"
         }
       ],
       "correctAnswer": 2,
       "explanation": {
-        "en": "Pakistan mounted a stunning fightback against England in a match at Edgbaston, recovering from a tough situation to set a challenging target.",
-        "hi": "एजबेस्टन में हुए एक मैच में पाकिस्तान ने इंग्लैंड के खिलाफ शानदार वापसी की और कठिन स्थिति से उबरते हुए एक चुनौतीपूर्ण लक्ष्य रखा।"
+        "en": "The Reserve Bank of India (RBI) rejected Tata Sons' application for exemption from the mandatory listing requirement for Upper Layer Non-Banking Financial Companies (NBFC-UL), directing them to proceed with the public listing.",
+        "hi": "भारतीय रिजर्व बैंक (RBI) ने टाटा संस के अपर लेयर गैर-बैंकिंग वित्तीय कंपनियों (NBFC-UL) के लिए अनिवार्य लिस्टिंग आवश्यकता से छूट के आवेदन को खारिज कर दिया, और उन्हें सार्वजनिक लिस्टिंग के साथ आगे बढ़ने का निर्देश दिया।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/rbi-rejects-tata-sons-bid-to-stay-private-directs-listing/articleshow/134163398.cms"
+    },
+    {
+      "id": "ca_20260913_06",
+      "question": {
+        "en": "HDFC Bank recently sent the names of two candidates to the RBI for the position of CEO. Under which section of the Banking Regulation Act, 1949, is RBI approval required for the appointment of bank CEOs?",
+        "hi": "HDFC बैंक ने हाल ही में CEO के पद के लिए दो उम्मीदवारों के नाम RBI को भेजे हैं। बैंकिंग विनियमन अधिनियम, 1949 की किस धारा के तहत बैंक के CEO की नियुक्ति के लिए RBI की मंजूरी आवश्यक है?"
+      },
+      "options": [
+        {
+          "en": "Section 35B",
+          "hi": "धारा 35बी (Section 35B)"
+        },
+        {
+          "en": "Section 24",
+          "hi": "धारा 24 (Section 24)"
+        },
+        {
+          "en": "Section 42",
+          "hi": "धारा 42 (Section 42)"
+        },
+        {
+          "en": "Section 18",
+          "hi": "धारा 18 (Section 18)"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "Under Section 35B of the Banking Regulation Act, 1949, prior approval of the Reserve Bank of India (RBI) is required for the appointment, re-appointment, or termination of the Chairman, Managing Director, or whole-time Directors of a banking company.",
+        "hi": "बैंकिंग विनियमन अधिनियम, 1949 की धारा 35B के तहत, किसी बैंकिंग कंपनी के अध्यक्ष, प्रबंध निदेशक या पूर्णकालिक निदेशकों की नियुक्ति, पुनर्नियुक्ति या समाप्ति के लिए भारतीय रिजर्व बैंक (RBI) की पूर्व स्वीकृति आवश्यक है।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "hard",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/hdfc-bank-sends-names-of-2-ceo-candidates-to-rbi/articleshow/134163788.cms"
+    },
+    {
+      "id": "ca_20260913_07",
+      "question": {
+        "en": "Global nutrition experts have supported warning labels on ultra-processed foods by the Food Safety and Standards Authority of India (FSSAI). Under which ministry does FSSAI operate?",
+        "hi": "वैश्विक पोषण विशेषज्ञों ने भारतीय खाद्य सुरक्षा और मानक प्राधिकरण (FSSAI) द्वारा अल्ट्रा-प्रोसेस्ड खाद्य पदार्थों पर चेतावनी लेबल का समर्थन किया है। FSSAI किस मंत्रालय के अंतर्गत कार्य करता है?"
+      },
+      "options": [
+        {
+          "en": "Ministry of Consumer Affairs",
+          "hi": "उपभोक्ता मामले मंत्रालय"
+        },
+        {
+          "en": "Ministry of Health & Family Welfare",
+          "hi": "स्वास्थ्य और परिवार कल्याण मंत्रालय"
+        },
+        {
+          "en": "Ministry of Agriculture",
+          "hi": "कृषि मंत्रालय"
+        },
+        {
+          "en": "Ministry of Commerce and Industry",
+          "hi": "वाणिज्य और उद्योग मंत्रालय"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The Food Safety and Standards Authority of India (FSSAI) is a statutory body established under the Food Safety and Standards Act, 2006. It functions under the administrative control of the Ministry of Health & Family Welfare, Government of India.",
+        "hi": "भारतीय खाद्य सुरक्षा और मानक प्राधिकरण (FSSAI) खाद्य सुरक्षा और मानक अधिनियम, 2006 के तहत स्थापित एक वैधानिक निकाय है। यह भारत सरकार के स्वास्थ्य और परिवार कल्याण मंत्रालय के प्रशासनिक नियंत्रण में कार्य करता है।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/global-nutrition-experts-back-fssai-warning-labels-seek-stricter-rules/articleshow/134161131.cms"
+    },
+    {
+      "id": "ca_20260913_08",
+      "question": {
+        "en": "In the context of recent discussions at the BRICS forum, what does the acronym CBAM stand for?",
+        "hi": "ब्रिक्स (BRICS) मंच पर हालिया चर्चाओं के संदर्भ में, संक्षिप्त नाम CBAM का क्या अर्थ है?"
+      },
+      "options": [
+        {
+          "en": "Climate Based Action Mechanism",
+          "hi": "क्लाइमेट बेस्ड एक्शन मैकेनिज्म"
+        },
+        {
+          "en": "Carbon Border Adjustment Mechanism",
+          "hi": "कार्बन बॉर्डर एडजस्टमेंट मैकेनिज्म"
+        },
+        {
+          "en": "Coalition for Biodiversity and Mitigation",
+          "hi": "कोलिशन फॉर बायोडायवर्सिटी एंड मिटिगेशन"
+        },
+        {
+          "en": "Cross-Border Assessment Metric",
+          "hi": "क्रॉस-बॉर्डर असेसमेंट मीट्रिक"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "CBAM stands for Carbon Border Adjustment Mechanism. It is a policy framework proposed by the European Union to put a fair price on the carbon emitted during the production of carbon-intensive goods entering the EU, which has faced opposition from developing nations.",
+        "hi": "CBAM का अर्थ कार्बन बॉर्डर एडजस्टमेंट मैकेनिज्म (Carbon Border Adjustment Mechanism) है। यह यूरोपीय संघ द्वारा प्रस्तावित एक नीति ढांचा है जिसका उद्देश्य यूरोपीय संघ में प्रवेश करने वाले कार्बन-गहन सामानों के उत्पादन के दौरान उत्सर्जित कार्बन पर उचित मूल्य लगाना है, जिसका विकासशील देशों ने विरोध किया है।"
+      },
+      "category": "Environment & Ecology",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/brics-opposes-unilateral-trade-steps-like-eu-carbon-border-tax/articleshow/134158775.cms"
+    },
+    {
+      "id": "ca_20260913_09",
+      "question": {
+        "en": "Ben Shelton recently reached the US Open final. The US Open is played on which type of court surface?",
+        "hi": "बेन शेल्टन हाल ही में यूएस ओपन के फाइनल में पहुंचे हैं। यूएस ओपन किस प्रकार की कोर्ट सतह पर खेला जाता है?"
+      },
+      "options": [
+        {
+          "en": "Clay Court",
+          "hi": "क्ले कोर्ट"
+        },
+        {
+          "en": "Grass Court",
+          "hi": "ग्रास कोर्ट"
+        },
+        {
+          "en": "Hard Court",
+          "hi": "हार्ड कोर्ट"
+        },
+        {
+          "en": "Carpet Court",
+          "hi": "कार्पेट कोर्ट"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The US Open, the fourth and final Grand Slam tennis tournament of the year, is played on hard courts. The Australian Open is also played on hard courts, while the French Open is played on clay and Wimbledon on grass.",
+        "hi": "वर्ष का चौथा और अंतिम ग्रैंड स्लैम टेनिस टूर्नामेंट, यूएस ओपन, हार्ड कोर्ट पर खेला जाता है। ऑस्ट्रेलियन ओपन भी हार्ड कोर्ट पर खेला जाता है, जबकि फ्रेंच ओपन क्ले (मिट्टी) पर और विंबलडन ग्रास (घास) पर खेला जाता है।"
       },
       "category": "Sports",
       "difficulty": "easy",
-      "sourceUrl": "https://timesofindia.indiatimes.com/rssfeeds/4719148.cms"
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/ben-shelton-eyes-us-open-history-as-he-takes-on-alexander-zverev-in-maiden-grand-slam-final/articleshow/134134241.cms"
+    },
+    {
+      "id": "ca_20260913_10",
+      "question": {
+        "en": "Which major regulatory body recently suggested changes to the Consolidated Account Statement (CAS) timing and derivatives settlement prices?",
+        "hi": "हाल ही में किस प्रमुख विनियामक निकाय ने कंसोलिडेटेड अकाउंट स्टेटमेंट (CAS) के समय और डेरिवेटिव्स सेटलमेंट कीमतों में बदलाव का सुझाव दिया है?"
+      },
+      "options": [
+        {
+          "en": "RBI",
+          "hi": "आरबीआई (RBI)"
+        },
+        {
+          "en": "SEBI",
+          "hi": "सेबी (SEBI)"
+        },
+        {
+          "en": "PFRDA",
+          "hi": "पीएफआरडीए (PFRDA)"
+        },
+        {
+          "en": "IRDAI",
+          "hi": "इरडाई (IRDAI)"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The Securities and Exchange Board of India (SEBI) has proposed changes to the timing of the Consolidated Account Statement (CAS) and the methodology for calculating derivatives settlement prices to enhance market transparency and investor protection.",
+        "hi": "भारतीय प्रतिभूति और विनिमय बोर्ड (SEBI) ने बाजार में पारदर्शिता और निवेशक सुरक्षा बढ़ाने के लिए कंसोलिडेटेड अकाउंट स्टेटमेंट (CAS) के समय और डेरिवेटिव निपटान कीमतों की गणना की कार्यप्रणाली में बदलाव का प्रस्ताव दिया है।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "hard",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/sebi-for-changes-to-cas-timing-derivatives-settlement-prices/articleshow/134163588.cms"
     }
   ]
 }

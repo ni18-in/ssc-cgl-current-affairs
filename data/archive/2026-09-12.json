@@ -1,0 +1,340 @@
+{
+  "date": "2026-09-12",
+  "topic": "SSC CGL Daily Current Affairs",
+  "source": "PIB / The Hindu / Economic Times / Indian Express / GKToday",
+  "lastUpdated": "2026-09-12T06:00:00+05:30",
+  "version": 1,
+  "totalQuestions": 10,
+  "quiz": [
+    {
+      "id": "ca_20260912_01",
+      "question": {
+        "en": "Recently, which High Court declared that 'talaq-e-hassan' is a valid form of divorce under Muslim personal law?",
+        "hi": "हाल ही में, किस उच्च न्यायालय ने घोषित किया है कि 'तलाक-ए-हसन' मुस्लिम पर्सनल लॉ के तहत तलाक का एक वैध रूप है?"
+      },
+      "options": [
+        {
+          "en": "Allahabad High Court",
+          "hi": "इलाहाबाद उच्च न्यायालय"
+        },
+        {
+          "en": "Gauhati High Court",
+          "hi": "गुवाहाटी उच्च न्यायालय"
+        },
+        {
+          "en": "Delhi High Court",
+          "hi": "दिल्ली उच्च न्यायालय"
+        },
+        {
+          "en": "Kerala High Court",
+          "hi": "केरल उच्च न्यायालय"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The Gauhati High Court has held that 'talaq-e-hassan' is a valid form of divorce. The court directed the petitioner to register his divorce under the Assam Compulsory Registration of Muslim Marriages and Divorce Act, 2024.",
+        "hi": "गुवाहाटी उच्च न्यायालय ने माना है कि 'तलाक-ए-हसन' तलाक का एक वैध रूप है। अदालत ने याचिकाकर्ता को असम मुस्लिम विवाह और तलाक अनिवार्य पंजीकरण अधिनियम, 2024 के तहत अपना तलाक पंजीकृत करने का निर्देश दिया।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/news/national/assam/gauhati-high-court-says-talaq-e-hassan-is-a-valid-form-of-divorce/article71456358.ece"
+    },
+    {
+      "id": "ca_20260912_02",
+      "question": {
+        "en": "Recently, finance chiefs of which multilateral forum flagged tariff risks and pushed for cross-border payments?",
+        "hi": "हाल ही में, किस बहुपक्षीय मंच के वित्त प्रमुखों ने टैरिफ जोखिमों को हरी झंडी दिखाई और सीमा पार से भुगतान पर जोर दिया?"
+      },
+      "options": [
+        {
+          "en": "G20",
+          "hi": "जी20"
+        },
+        {
+          "en": "ASEAN",
+          "hi": "आसियान"
+        },
+        {
+          "en": "BRICS",
+          "hi": "ब्रिक्स"
+        },
+        {
+          "en": "SAARC",
+          "hi": "सार्क"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "BRICS finance chiefs recently flagged tariff risks and pushed for enhanced cross-border payments among member nations to reduce dependency on traditional financial systems.",
+        "hi": "ब्रिक्स के वित्त प्रमुखों ने हाल ही में टैरिफ जोखिमों को हरी झंडी दिखाई और पारंपरिक वित्तीय प्रणालियों पर निर्भरता कम करने के लिए सदस्य देशों के बीच सीमा पार से भुगतान बढ़ाने पर जोर दिया।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "medium",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/foreign-trade/brics-finance-chiefs-flag-tariff-risks-push-cross-border-payments/articleshow/134083987.cms"
+    },
+    {
+      "id": "ca_20260912_03",
+      "question": {
+        "en": "Under the proposed India-EU Free Trade Agreement, what is the initial tariff quota for cars that the EU is set to receive?",
+        "hi": "प्रस्तावित भारत-ईयू मुक्त व्यापार समझौते के तहत, कारों के लिए प्रारंभिक टैरिफ कोटा क्या है जो यूरोपीय संघ को प्राप्त होने वाला है?"
+      },
+      "options": [
+        {
+          "en": "50,000 cars",
+          "hi": "50,000 कारें"
+        },
+        {
+          "en": "1,000,000 cars",
+          "hi": "1,000,000 कारें"
+        },
+        {
+          "en": "100,000 cars",
+          "hi": "1,00,000 कारें"
+        },
+        {
+          "en": "150,000 cars",
+          "hi": "1,50,000 कारें"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Under the ongoing India-EU FTA talks, the EU is reportedly set to get a tariff quota for 1 lakh (100,000) cars initially, which may rise to 1.6 lakh.",
+        "hi": "चल रही भारत-यूरोपीय संघ एफटीए वार्ता के तहत, यूरोपीय संघ को शुरू में 1 लाख (1,00,000) कारों के लिए टैरिफ कोटा मिलने की उम्मीद है, जो बढ़कर 1.6 लाख हो सकता है।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "medium",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-eu-fta-eu-gets-tariff-quota-for-1-lakh-cars-initially-rising-to-1-6-lakh/articleshow/134080810.cms"
+    },
+    {
+      "id": "ca_20260912_04",
+      "question": {
+        "en": "State Bank of India (SBI) is expected to complete its software and hardware deployment for compliance with the DPDP Act by which month?",
+        "hi": "भारतीय स्टेट बैंक (SBI) द्वारा DPDP अधिनियम के अनुपालन के लिए अपने सॉफ्टवेयर और हार्डवेयर परिनियोजन को किस महीने तक पूरा करने की उम्मीद है?"
+      },
+      "options": [
+        {
+          "en": "October 2026",
+          "hi": "अक्टूबर 2026"
+        },
+        {
+          "en": "November 2026",
+          "hi": "नवंबर 2026"
+        },
+        {
+          "en": "December 2026",
+          "hi": "दिसंबर 2026"
+        },
+        {
+          "en": "January 2027",
+          "hi": "जनवरी 2027"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "State Bank of India (SBI) aims to complete the deployment of necessary software and hardware for Digital Personal Data Protection (DPDP) compliance by December.",
+        "hi": "भारतीय स्टेट बैंक (SBI) का लक्ष्य दिसंबर तक डिजिटल पर्सनल डेटा प्रोटेक्शन (DPDP) अनुपालन के लिए आवश्यक सॉफ्टवेयर और हार्डवेयर की तैनाती पूरी करना है।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.business-standard.com/companies/news/sbi-to-complete-software-hardware-deployment-for-dpdp-compliance-by-dec-126091101309_1.html"
+    },
+    {
+      "id": "ca_20260912_05",
+      "question": {
+        "en": "According to the CEO of BMW India, states should not impose a price cap on which type of vehicle benefit?",
+        "hi": "बीएमडब्ल्यू इंडिया के सीईओ के अनुसार, राज्यों को किस प्रकार के वाहन लाभ पर मूल्य सीमा नहीं लगानी चाहिए?"
+      },
+      "options": [
+        {
+          "en": "Hybrid Vehicle Subsidies",
+          "hi": "हाइब्रिड वाहन सब्सिडी"
+        },
+        {
+          "en": "EV Road Tax Benefit",
+          "hi": "ईवी रोड टैक्स लाभ"
+        },
+        {
+          "en": "Diesel Vehicle Registration",
+          "hi": "डीजल वाहन पंजीकरण"
+        },
+        {
+          "en": "CNG Vehicle Incentives",
+          "hi": "सीएनजी वाहन प्रोत्साहन"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The CEO of BMW India stated that state governments should avoid putting a price cap on road tax benefits for Electric Vehicles (EVs) to encourage their adoption.",
+        "hi": "बीएमडब्ल्यू इंडिया के सीईओ ने कहा कि राज्य सरकारों को इलेक्ट्रिक वाहनों (ईवी) को अपनाने के लिए प्रोत्साहित करने के लिए रोड टैक्स लाभ पर मूल्य सीमा लगाने से बचना चाहिए।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.business-standard.com/companies/news/states-should-not-cap-road-tax-benefits-for-evs-based-on-price-bmw-india-126091101316_1.html"
+    },
+    {
+      "id": "ca_20260912_06",
+      "question": {
+        "en": "As per RBI Governor Shaktikanta Das (referred to in the news), nearly 50% of Foreign Currency Non-Resident (Bank) [FCNR(B)] deposits are for what tenure?",
+        "hi": "आरबीआई गवर्नर शक्तिकांत दास (समाचार में संदर्भित) के अनुसार, लगभग 50% विदेशी मुद्रा अनिवासी (बैंक) [FCNR(B)] जमा किस अवधि के लिए हैं?"
+      },
+      "options": [
+        {
+          "en": "1-year tenure",
+          "hi": "1-वर्षीय अवधि"
+        },
+        {
+          "en": "3-year tenure",
+          "hi": "3-वर्षीय अवधि"
+        },
+        {
+          "en": "5-year tenure",
+          "hi": "5-वर्षीय अवधि"
+        },
+        {
+          "en": "10-year tenure",
+          "hi": "10-वर्षीय अवधि"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The RBI Governor stated that nearly 50% of the FCNR(B) deposits received under the RBI swap window have a 5-year tenure, indicating long-term confidence.",
+        "hi": "आरबीआई गवर्नर ने कहा कि आरबीआई स्वैप विंडो के तहत प्राप्त FCNR(B) जमा का लगभग 50% 5 साल का कार्यकाल है, जो दीर्घकालिक विश्वास को दर्शाता है।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "hard",
+      "sourceUrl": "https://www.business-standard.com/finance/news/nearly-50-of-fcnr-b-deposits-under-rbi-swap-have-five-year-tenure-guv-126091101308_1.html"
+    },
+    {
+      "id": "ca_20260912_07",
+      "question": {
+        "en": "In the Women's Asia Cup, which team fought back from 33/4 to beat Pakistan and set up a final clash with India?",
+        "hi": "महिला एशिया कप में, किस टीम ने 33/4 से वापसी करते हुए पाकिस्तान को हराया और भारत के साथ खिताबी मुकाबले में जगह बनाई?"
+      },
+      "options": [
+        {
+          "en": "Bangladesh",
+          "hi": "बांग्लादेश"
+        },
+        {
+          "en": "Sri Lanka",
+          "hi": "श्रीलंका"
+        },
+        {
+          "en": "Thailand",
+          "hi": "थाईलैंड"
+        },
+        {
+          "en": "UAE",
+          "hi": "यूएई"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Sri Lanka's women's cricket team staged a brilliant comeback from 33/4 to defeat Pakistan and qualify for the Women's Asia Cup final against India.",
+        "hi": "श्रीलंका की महिला क्रिकेट टीम ने 33/4 से शानदार वापसी करते हुए पाकिस्तान को हराया और भारत के खिलाफ महिला एशिया कप फाइनल के लिए क्वालीफाई किया।"
+      },
+      "category": "Sports",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/rssfeeds/4719148.cms"
+    },
+    {
+      "id": "ca_20260912_08",
+      "question": {
+        "en": "ISRO has successfully tested a more powerful engine for which of its launch vehicles, often referred to as 'Bahubali'?",
+        "hi": "ISRO ने अपने किस लॉन्च वाहन के लिए अधिक शक्तिशाली इंजन का सफलतापूर्वक परीक्षण किया है, जिसे अक्सर 'बाहुबली' कहा जाता है?"
+      },
+      "options": [
+        {
+          "en": "PSLV",
+          "hi": "पीएसएलवी (PSLV)"
+        },
+        {
+          "en": "GSLV Mk II",
+          "hi": "जीएसएलवी एमके II (GSLV Mk II)"
+        },
+        {
+          "en": "LVM3 (GSLV Mk III)",
+          "hi": "एलवीएम3 (GSLV Mk III)"
+        },
+        {
+          "en": "SSLV",
+          "hi": "एसएसएलवी (SSLV)"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The Indian Space Research Organisation (ISRO) successfully tested a more powerful engine for India's heaviest rocket, the LVM3, also known as 'Bahubali'.",
+        "hi": "भारतीय अंतरिक्ष अनुसंधान संगठन (ISRO) ने भारत के सबसे भारी रॉकेट, LVM3, जिसे 'बाहुबली' के नाम से भी जाना जाता है, के लिए अधिक शक्तिशाली इंजन का सफलतापूर्वक परीक्षण किया है।"
+      },
+      "category": "Science & Technology",
+      "difficulty": "medium",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/science/isro-successfully-tests-more-powerful-engine-for-indias-bahubali-lvm3-rocket/articleshow/133999096.cms"
+    },
+    {
+      "id": "ca_20260912_09",
+      "question": {
+        "en": "Which major Indian conglomerate has reportedly emerged as a key defence partner for Russia in India, alongside HAL and BDL?",
+        "hi": "HAL और BDL के साथ, कौन सा प्रमुख भारतीय समूह भारत में रूस के लिए एक प्रमुख रक्षा भागीदार के रूप में उभरा है?"
+      },
+      "options": [
+        {
+          "en": "Tata Group",
+          "hi": "टाटा समूह"
+        },
+        {
+          "en": "Adani Group",
+          "hi": "अडानी समूह"
+        },
+        {
+          "en": "Mahindra Defence",
+          "hi": "महिंद्रा डिफेंस"
+        },
+        {
+          "en": "Reliance Naval",
+          "hi": "रिलायंस नेवल"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The Adani Group has reportedly emerged as a key defence partner for Russia in India, alongside state-run entities like Hindustan Aeronautics Limited (HAL) and Bharat Dynamics Limited (BDL).",
+        "hi": "अडानी समूह को भारत में रूस के लिए एक प्रमुख रक्षा भागीदार के रूप में उभरा है, जिसमें हिंदुस्तान एयरोनॉटिक्स लिमिटेड (HAL) और भारत डायनेमिक्स लिमिटेड (BDL) जैसी सरकारी संस्थाएं भी शामिल हैं।"
+      },
+      "category": "Defence & Security",
+      "difficulty": "medium",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/defence/adani-emerges-key-russia-defence-partner-in-india-hal-bdl-on-board/articleshow/134084336.cms"
+    },
+    {
+      "id": "ca_20260912_10",
+      "question": {
+        "en": "In a recent cricket match at Edgbaston, which team mounted a stunning fightback to force a tricky chase for England?",
+        "hi": "एजबेस्टन में हाल ही में हुए एक क्रिकेट मैच में, किस टीम ने शानदार वापसी करते हुए इंग्लैंड के सामने एक मुश्किल लक्ष्य रखा?"
+      },
+      "options": [
+        {
+          "en": "Australia",
+          "hi": "ऑस्ट्रेलिया"
+        },
+        {
+          "en": "India",
+          "hi": "भारत"
+        },
+        {
+          "en": "Pakistan",
+          "hi": "पाकिस्तान"
+        },
+        {
+          "en": "South Africa",
+          "hi": "दक्षिण अफ्रीका"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Pakistan mounted a stunning fightback against England in a match at Edgbaston, recovering from a tough situation to set a challenging target.",
+        "hi": "एजबेस्टन में हुए एक मैच में पाकिस्तान ने इंग्लैंड के खिलाफ शानदार वापसी की और कठिन स्थिति से उबरते हुए एक चुनौतीपूर्ण लक्ष्य रखा।"
+      },
+      "category": "Sports",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/rssfeeds/4719148.cms"
+    }
+  ]
+}
