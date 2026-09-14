@@ -1,0 +1,340 @@
+{
+  "date": "2026-09-13",
+  "topic": "SSC CGL Daily Current Affairs",
+  "source": "The Hindu / Times of India",
+  "lastUpdated": "2026-09-13T06:00:00+05:30",
+  "version": 1,
+  "totalQuestions": 10,
+  "quiz": [
+    {
+      "id": "ca_20260913_01",
+      "question": {
+        "en": "Where is the DRDO setting up a new weapon and missile testing range, complementing the existing facility in Chandipur?",
+        "hi": "डीआरडीओ (DRDO) चांदीपुर स्थित मौजूदा सुविधा के अतिरिक्त एक नया हथियार और मिसाइल परीक्षण रेंज कहाँ स्थापित कर रहा है?"
+      },
+      "options": [
+        {
+          "en": "Balasore, Odisha",
+          "hi": "बालासोर, ओडिशा"
+        },
+        {
+          "en": "Junput, West Bengal",
+          "hi": "जुनपुट, पश्चिम बंगाल"
+        },
+        {
+          "en": "Sriharikota, Andhra Pradesh",
+          "hi": "श्रीहरिकोटा, आंध्र प्रदेश"
+        },
+        {
+          "en": "Thumba, Kerala",
+          "hi": "थुम्बा, केरल"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The Defence Research and Development Organisation (DRDO) is establishing a new missile testing range in Junput, Purba Medinipur district of West Bengal. This state-of-the-art facility will complement the existing Integrated Test Range (ITR) in Chandipur, Odisha.",
+        "hi": "रक्षा अनुसंधान एवं विकास संगठन (DRDO) पश्चिम बंगाल के पूर्व मेदिनीपुर जिले के जुनपुट में एक नई मिसाइल परीक्षण रेंज स्थापित कर रहा है। यह अत्याधुनिक सुविधा ओडिशा के चांदीपुर में मौजूदा एकीकृत परीक्षण रेंज (ITR) की पूरक होगी।"
+      },
+      "category": "Defence & Security",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/india-to-get-another-major-drdo-missile-testing-range-in-bengal/articleshow/134161810.cms"
+    },
+    {
+      "id": "ca_20260913_02",
+      "question": {
+        "en": "Which international alliance recently opposed the unilateral Carbon Border Adjustment Mechanism (CBAM) proposed by the European Union?",
+        "hi": "हाल ही में किस अंतर्राष्ट्रीय गठबंधन ने यूरोपीय संघ द्वारा प्रस्तावित एकतरफा कार्बन बॉर्डर एडजस्टमेंट मैकेनिज्म (CBAM) का विरोध किया है?"
+      },
+      "options": [
+        {
+          "en": "G7",
+          "hi": "जी7 (G7)"
+        },
+        {
+          "en": "ASEAN",
+          "hi": "आसियान (ASEAN)"
+        },
+        {
+          "en": "BRICS",
+          "hi": "ब्रिक्स (BRICS)"
+        },
+        {
+          "en": "NATO",
+          "hi": "नाटो (NATO)"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "BRICS nations have strongly opposed unilateral trade measures like the EU's Carbon Border Adjustment Mechanism (CBAM). They argued that such measures undermine developing countries' efforts to address climate change and emphasized the need for equity and collective responsibility.",
+        "hi": "ब्रिक्स (BRICS) देशों ने यूरोपीय संघ के कार्बन बॉर्डर एडजस्टमेंट मैकेनिज्म (CBAM) जैसे एकतरफा व्यापार उपायों का कड़ा विरोध किया है। उन्होंने तर्क दिया कि इस तरह के उपाय जलवायु परिवर्तन को संबोधित करने के विकासशील देशों के प्रयासों को कमजोर करते हैं और समानता तथा सामूहिक जिम्मेदारी की आवश्यकता पर जोर दिया।"
+      },
+      "category": "International Summits",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/brics-opposes-unilateral-trade-steps-like-eu-carbon-border-tax/articleshow/134158775.cms"
+    },
+    {
+      "id": "ca_20260913_03",
+      "question": {
+        "en": "Who recently broke Sachin Tendulkar's record for the most half-centuries (fifties) in Test cricket?",
+        "hi": "हाल ही में टेस्ट क्रिकेट में सर्वाधिक अर्धशतक (पचास) का सचिन तेंदुलकर का रिकॉर्ड किसने तोड़ा?"
+      },
+      "options": [
+        {
+          "en": "Virat Kohli",
+          "hi": "विराट कोहली"
+        },
+        {
+          "en": "Steve Smith",
+          "hi": "स्टीव स्मिथ"
+        },
+        {
+          "en": "Joe Root",
+          "hi": "जो रूट"
+        },
+        {
+          "en": "Kane Williamson",
+          "hi": "केन विलियमसन"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "England cricketer Joe Root surpassed Sachin Tendulkar's record of 68 Test fifties by scoring his 69th half-century during a match against Pakistan. Tendulkar still holds the record for most Test centuries and total runs.",
+        "hi": "इंग्लैंड के क्रिकेटर जो रूट ने पाकिस्तान के खिलाफ एक मैच के दौरान अपना 69वां अर्धशतक बनाकर सचिन तेंदुलकर के 68 टेस्ट अर्धशतकों के रिकॉर्ड को पीछे छोड़ दिया। तेंदुलकर के नाम अभी भी सबसे ज्यादा टेस्ट शतक और कुल रन बनाने का रिकॉर्ड है।"
+      },
+      "category": "Sports",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/joe-root-creates-history-breaks-sachin-tendulkars-record/articleshow/134136516.cms"
+    },
+    {
+      "id": "ca_20260913_04",
+      "question": {
+        "en": "Which High Court recently ruled that a government employee who resigns to contest elections cannot seek reinstatement if they lose?",
+        "hi": "किस उच्च न्यायालय ने हाल ही में फैसला सुनाया है कि चुनाव लड़ने के लिए इस्तीफा देने वाला सरकारी कर्मचारी हारने पर अपनी नौकरी पर बहाली की मांग नहीं कर सकता?"
+      },
+      "options": [
+        {
+          "en": "Delhi High Court",
+          "hi": "दिल्ली उच्च न्यायालय"
+        },
+        {
+          "en": "Allahabad High Court",
+          "hi": "इलाहाबाद उच्च न्यायालय"
+        },
+        {
+          "en": "Rajasthan High Court",
+          "hi": "राजस्थान उच्च न्यायालय"
+        },
+        {
+          "en": "Madras High Court",
+          "hi": "मद्रास उच्च न्यायालय"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The Rajasthan High Court upheld a tribunal's decision that a government employee who quits to fight polls cannot seek reinstatement. The court emphasized that contesting as a political party's candidate violates the requirement of maintaining political neutrality.",
+        "hi": "राजस्थान उच्च न्यायालय ने एक न्यायाधिकरण के उस निर्णय को बरकरार रखा कि चुनाव लड़ने के लिए इस्तीफा देने वाला सरकारी कर्मचारी बहाली की मांग नहीं कर सकता। अदालत ने इस बात पर जोर दिया कि किसी राजनीतिक दल के उम्मीदवार के रूप में चुनाव लड़ना राजनीतिक तटस्थता बनाए रखने की आवश्यकता का उल्लंघन करता है।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/news/national/rajasthan/govt-employee-quitting-to-fight-polls-cant-seek-reinstatement-rajasthan-high-court/article71460588.ece"
+    },
+    {
+      "id": "ca_20260913_05",
+      "question": {
+        "en": "Which major corporate group's bid to remain an unlisted 'private' company was recently rejected by the Reserve Bank of India (RBI)?",
+        "hi": "भारतीय रिज़र्व बैंक (RBI) द्वारा हाल ही में किस प्रमुख कॉर्पोरेट समूह की असूचीबद्ध 'निजी' कंपनी बने रहने की बोली को खारिज कर दिया गया है?"
+      },
+      "options": [
+        {
+          "en": "Reliance Industries",
+          "hi": "रिलायंस इंडस्ट्रीज"
+        },
+        {
+          "en": "Adani Group",
+          "hi": "अडानी ग्रुप"
+        },
+        {
+          "en": "Tata Sons",
+          "hi": "टाटा संस"
+        },
+        {
+          "en": "Aditya Birla Group",
+          "hi": "आदित्य बिड़ला ग्रुप"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The Reserve Bank of India (RBI) rejected Tata Sons' application for exemption from the mandatory listing requirement for Upper Layer Non-Banking Financial Companies (NBFC-UL), directing them to proceed with the public listing.",
+        "hi": "भारतीय रिजर्व बैंक (RBI) ने टाटा संस के अपर लेयर गैर-बैंकिंग वित्तीय कंपनियों (NBFC-UL) के लिए अनिवार्य लिस्टिंग आवश्यकता से छूट के आवेदन को खारिज कर दिया, और उन्हें सार्वजनिक लिस्टिंग के साथ आगे बढ़ने का निर्देश दिया।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/rbi-rejects-tata-sons-bid-to-stay-private-directs-listing/articleshow/134163398.cms"
+    },
+    {
+      "id": "ca_20260913_06",
+      "question": {
+        "en": "HDFC Bank recently sent the names of two candidates to the RBI for the position of CEO. Under which section of the Banking Regulation Act, 1949, is RBI approval required for the appointment of bank CEOs?",
+        "hi": "HDFC बैंक ने हाल ही में CEO के पद के लिए दो उम्मीदवारों के नाम RBI को भेजे हैं। बैंकिंग विनियमन अधिनियम, 1949 की किस धारा के तहत बैंक के CEO की नियुक्ति के लिए RBI की मंजूरी आवश्यक है?"
+      },
+      "options": [
+        {
+          "en": "Section 35B",
+          "hi": "धारा 35बी (Section 35B)"
+        },
+        {
+          "en": "Section 24",
+          "hi": "धारा 24 (Section 24)"
+        },
+        {
+          "en": "Section 42",
+          "hi": "धारा 42 (Section 42)"
+        },
+        {
+          "en": "Section 18",
+          "hi": "धारा 18 (Section 18)"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "Under Section 35B of the Banking Regulation Act, 1949, prior approval of the Reserve Bank of India (RBI) is required for the appointment, re-appointment, or termination of the Chairman, Managing Director, or whole-time Directors of a banking company.",
+        "hi": "बैंकिंग विनियमन अधिनियम, 1949 की धारा 35B के तहत, किसी बैंकिंग कंपनी के अध्यक्ष, प्रबंध निदेशक या पूर्णकालिक निदेशकों की नियुक्ति, पुनर्नियुक्ति या समाप्ति के लिए भारतीय रिजर्व बैंक (RBI) की पूर्व स्वीकृति आवश्यक है।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "hard",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/hdfc-bank-sends-names-of-2-ceo-candidates-to-rbi/articleshow/134163788.cms"
+    },
+    {
+      "id": "ca_20260913_07",
+      "question": {
+        "en": "Global nutrition experts have supported warning labels on ultra-processed foods by the Food Safety and Standards Authority of India (FSSAI). Under which ministry does FSSAI operate?",
+        "hi": "वैश्विक पोषण विशेषज्ञों ने भारतीय खाद्य सुरक्षा और मानक प्राधिकरण (FSSAI) द्वारा अल्ट्रा-प्रोसेस्ड खाद्य पदार्थों पर चेतावनी लेबल का समर्थन किया है। FSSAI किस मंत्रालय के अंतर्गत कार्य करता है?"
+      },
+      "options": [
+        {
+          "en": "Ministry of Consumer Affairs",
+          "hi": "उपभोक्ता मामले मंत्रालय"
+        },
+        {
+          "en": "Ministry of Health & Family Welfare",
+          "hi": "स्वास्थ्य और परिवार कल्याण मंत्रालय"
+        },
+        {
+          "en": "Ministry of Agriculture",
+          "hi": "कृषि मंत्रालय"
+        },
+        {
+          "en": "Ministry of Commerce and Industry",
+          "hi": "वाणिज्य और उद्योग मंत्रालय"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The Food Safety and Standards Authority of India (FSSAI) is a statutory body established under the Food Safety and Standards Act, 2006. It functions under the administrative control of the Ministry of Health & Family Welfare, Government of India.",
+        "hi": "भारतीय खाद्य सुरक्षा और मानक प्राधिकरण (FSSAI) खाद्य सुरक्षा और मानक अधिनियम, 2006 के तहत स्थापित एक वैधानिक निकाय है। यह भारत सरकार के स्वास्थ्य और परिवार कल्याण मंत्रालय के प्रशासनिक नियंत्रण में कार्य करता है।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/global-nutrition-experts-back-fssai-warning-labels-seek-stricter-rules/articleshow/134161131.cms"
+    },
+    {
+      "id": "ca_20260913_08",
+      "question": {
+        "en": "In the context of recent discussions at the BRICS forum, what does the acronym CBAM stand for?",
+        "hi": "ब्रिक्स (BRICS) मंच पर हालिया चर्चाओं के संदर्भ में, संक्षिप्त नाम CBAM का क्या अर्थ है?"
+      },
+      "options": [
+        {
+          "en": "Climate Based Action Mechanism",
+          "hi": "क्लाइमेट बेस्ड एक्शन मैकेनिज्म"
+        },
+        {
+          "en": "Carbon Border Adjustment Mechanism",
+          "hi": "कार्बन बॉर्डर एडजस्टमेंट मैकेनिज्म"
+        },
+        {
+          "en": "Coalition for Biodiversity and Mitigation",
+          "hi": "कोलिशन फॉर बायोडायवर्सिटी एंड मिटिगेशन"
+        },
+        {
+          "en": "Cross-Border Assessment Metric",
+          "hi": "क्रॉस-बॉर्डर असेसमेंट मीट्रिक"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "CBAM stands for Carbon Border Adjustment Mechanism. It is a policy framework proposed by the European Union to put a fair price on the carbon emitted during the production of carbon-intensive goods entering the EU, which has faced opposition from developing nations.",
+        "hi": "CBAM का अर्थ कार्बन बॉर्डर एडजस्टमेंट मैकेनिज्म (Carbon Border Adjustment Mechanism) है। यह यूरोपीय संघ द्वारा प्रस्तावित एक नीति ढांचा है जिसका उद्देश्य यूरोपीय संघ में प्रवेश करने वाले कार्बन-गहन सामानों के उत्पादन के दौरान उत्सर्जित कार्बन पर उचित मूल्य लगाना है, जिसका विकासशील देशों ने विरोध किया है।"
+      },
+      "category": "Environment & Ecology",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/brics-opposes-unilateral-trade-steps-like-eu-carbon-border-tax/articleshow/134158775.cms"
+    },
+    {
+      "id": "ca_20260913_09",
+      "question": {
+        "en": "Ben Shelton recently reached the US Open final. The US Open is played on which type of court surface?",
+        "hi": "बेन शेल्टन हाल ही में यूएस ओपन के फाइनल में पहुंचे हैं। यूएस ओपन किस प्रकार की कोर्ट सतह पर खेला जाता है?"
+      },
+      "options": [
+        {
+          "en": "Clay Court",
+          "hi": "क्ले कोर्ट"
+        },
+        {
+          "en": "Grass Court",
+          "hi": "ग्रास कोर्ट"
+        },
+        {
+          "en": "Hard Court",
+          "hi": "हार्ड कोर्ट"
+        },
+        {
+          "en": "Carpet Court",
+          "hi": "कार्पेट कोर्ट"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The US Open, the fourth and final Grand Slam tennis tournament of the year, is played on hard courts. The Australian Open is also played on hard courts, while the French Open is played on clay and Wimbledon on grass.",
+        "hi": "वर्ष का चौथा और अंतिम ग्रैंड स्लैम टेनिस टूर्नामेंट, यूएस ओपन, हार्ड कोर्ट पर खेला जाता है। ऑस्ट्रेलियन ओपन भी हार्ड कोर्ट पर खेला जाता है, जबकि फ्रेंच ओपन क्ले (मिट्टी) पर और विंबलडन ग्रास (घास) पर खेला जाता है।"
+      },
+      "category": "Sports",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/ben-shelton-eyes-us-open-history-as-he-takes-on-alexander-zverev-in-maiden-grand-slam-final/articleshow/134134241.cms"
+    },
+    {
+      "id": "ca_20260913_10",
+      "question": {
+        "en": "Which major regulatory body recently suggested changes to the Consolidated Account Statement (CAS) timing and derivatives settlement prices?",
+        "hi": "हाल ही में किस प्रमुख विनियामक निकाय ने कंसोलिडेटेड अकाउंट स्टेटमेंट (CAS) के समय और डेरिवेटिव्स सेटलमेंट कीमतों में बदलाव का सुझाव दिया है?"
+      },
+      "options": [
+        {
+          "en": "RBI",
+          "hi": "आरबीआई (RBI)"
+        },
+        {
+          "en": "SEBI",
+          "hi": "सेबी (SEBI)"
+        },
+        {
+          "en": "PFRDA",
+          "hi": "पीएफआरडीए (PFRDA)"
+        },
+        {
+          "en": "IRDAI",
+          "hi": "इरडाई (IRDAI)"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The Securities and Exchange Board of India (SEBI) has proposed changes to the timing of the Consolidated Account Statement (CAS) and the methodology for calculating derivatives settlement prices to enhance market transparency and investor protection.",
+        "hi": "भारतीय प्रतिभूति और विनिमय बोर्ड (SEBI) ने बाजार में पारदर्शिता और निवेशक सुरक्षा बढ़ाने के लिए कंसोलिडेटेड अकाउंट स्टेटमेंट (CAS) के समय और डेरिवेटिव निपटान कीमतों की गणना की कार्यप्रणाली में बदलाव का प्रस्ताव दिया है।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "hard",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/sebi-for-changes-to-cas-timing-derivatives-settlement-prices/articleshow/134163588.cms"
+    }
+  ]
+}
