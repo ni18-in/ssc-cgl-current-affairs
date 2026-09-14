@@ -1,340 +1,340 @@
 {
-  "date": "2026-09-13",
+  "date": "2026-09-14",
   "topic": "SSC CGL Daily Current Affairs",
   "source": "The Hindu / Times of India",
-  "lastUpdated": "2026-09-13T06:00:00+05:30",
+  "lastUpdated": "2026-09-14T06:00:00+05:30",
   "version": 1,
   "totalQuestions": 10,
   "quiz": [
     {
-      "id": "ca_20260913_01",
+      "id": "ca_20260914_01",
       "question": {
-        "en": "Where is the DRDO setting up a new weapon and missile testing range, complementing the existing facility in Chandipur?",
-        "hi": "डीआरडीओ (DRDO) चांदीपुर स्थित मौजूदा सुविधा के अतिरिक्त एक नया हथियार और मिसाइल परीक्षण रेंज कहाँ स्थापित कर रहा है?"
+        "en": "At the BRICS Summit 2026, Chinese President Xi Jinping proposed a new action plan. How many points did this action plan contain?",
+        "hi": "ब्रिक्स शिखर सम्मेलन 2026 में, चीनी राष्ट्रपति शी जिनपिंग ने एक नई कार्य योजना का प्रस्ताव रखा। इस कार्य योजना में कितने बिंदु (पॉइंट) शामिल थे?"
       },
       "options": [
         {
-          "en": "Balasore, Odisha",
-          "hi": "बालासोर, ओडिशा"
+          "en": "3 points",
+          "hi": "3 बिंदु"
         },
         {
-          "en": "Junput, West Bengal",
-          "hi": "जुनपुट, पश्चिम बंगाल"
+          "en": "5 points",
+          "hi": "5 बिंदु"
         },
         {
-          "en": "Sriharikota, Andhra Pradesh",
-          "hi": "श्रीहरिकोटा, आंध्र प्रदेश"
+          "en": "7 points",
+          "hi": "7 बिंदु"
         },
         {
-          "en": "Thumba, Kerala",
-          "hi": "थुम्बा, केरल"
+          "en": "10 points",
+          "hi": "10 बिंदु"
         }
       ],
       "correctAnswer": 1,
       "explanation": {
-        "en": "The Defence Research and Development Organisation (DRDO) is establishing a new missile testing range in Junput, Purba Medinipur district of West Bengal. This state-of-the-art facility will complement the existing Integrated Test Range (ITR) in Chandipur, Odisha.",
-        "hi": "रक्षा अनुसंधान एवं विकास संगठन (DRDO) पश्चिम बंगाल के पूर्व मेदिनीपुर जिले के जुनपुट में एक नई मिसाइल परीक्षण रेंज स्थापित कर रहा है। यह अत्याधुनिक सुविधा ओडिशा के चांदीपुर में मौजूदा एकीकृत परीक्षण रेंज (ITR) की पूरक होगी।"
-      },
-      "category": "Defence & Security",
-      "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/india-to-get-another-major-drdo-missile-testing-range-in-bengal/articleshow/134161810.cms"
-    },
-    {
-      "id": "ca_20260913_02",
-      "question": {
-        "en": "Which international alliance recently opposed the unilateral Carbon Border Adjustment Mechanism (CBAM) proposed by the European Union?",
-        "hi": "हाल ही में किस अंतर्राष्ट्रीय गठबंधन ने यूरोपीय संघ द्वारा प्रस्तावित एकतरफा कार्बन बॉर्डर एडजस्टमेंट मैकेनिज्म (CBAM) का विरोध किया है?"
-      },
-      "options": [
-        {
-          "en": "G7",
-          "hi": "जी7 (G7)"
-        },
-        {
-          "en": "ASEAN",
-          "hi": "आसियान (ASEAN)"
-        },
-        {
-          "en": "BRICS",
-          "hi": "ब्रिक्स (BRICS)"
-        },
-        {
-          "en": "NATO",
-          "hi": "नाटो (NATO)"
-        }
-      ],
-      "correctAnswer": 2,
-      "explanation": {
-        "en": "BRICS nations have strongly opposed unilateral trade measures like the EU's Carbon Border Adjustment Mechanism (CBAM). They argued that such measures undermine developing countries' efforts to address climate change and emphasized the need for equity and collective responsibility.",
-        "hi": "ब्रिक्स (BRICS) देशों ने यूरोपीय संघ के कार्बन बॉर्डर एडजस्टमेंट मैकेनिज्म (CBAM) जैसे एकतरफा व्यापार उपायों का कड़ा विरोध किया है। उन्होंने तर्क दिया कि इस तरह के उपाय जलवायु परिवर्तन को संबोधित करने के विकासशील देशों के प्रयासों को कमजोर करते हैं और समानता तथा सामूहिक जिम्मेदारी की आवश्यकता पर जोर दिया।"
+        "en": "At the BRICS 2026 Summit, Chinese President Xi Jinping proposed a 5-point action plan. This development was met with caution in India due to underlying geopolitical tensions.",
+        "hi": "ब्रिक्स 2026 शिखर सम्मेलन में, चीनी राष्ट्रपति शी जिनपिंग ने 5-सूत्रीय कार्य योजना का प्रस्ताव रखा। अंतर्निहित भू-राजनीतिक तनावों के कारण भारत में इस घटनाक्रम को लेकर सावधानी बरती गई।"
       },
       "category": "International Summits",
       "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/brics-opposes-unilateral-trade-steps-like-eu-carbon-border-tax/articleshow/134158775.cms"
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/xis-5-point-action-plan-for-brics-may-see-red-flags-go-up-in-india/articleshow/134225006.cms"
     },
     {
-      "id": "ca_20260913_03",
+      "id": "ca_20260914_02",
       "question": {
-        "en": "Who recently broke Sachin Tendulkar's record for the most half-centuries (fifties) in Test cricket?",
-        "hi": "हाल ही में टेस्ट क्रिकेट में सर्वाधिक अर्धशतक (पचास) का सचिन तेंदुलकर का रिकॉर्ड किसने तोड़ा?"
+        "en": "Which country recently won their 8th Women's Asia Cup cricket title?",
+        "hi": "हाल ही में किस देश ने अपना 8वां महिला एशिया कप क्रिकेट खिताब जीता?"
       },
       "options": [
         {
-          "en": "Virat Kohli",
-          "hi": "विराट कोहली"
+          "en": "Sri Lanka",
+          "hi": "श्रीलंका"
         },
         {
-          "en": "Steve Smith",
-          "hi": "स्टीव स्मिथ"
+          "en": "India",
+          "hi": "भारत"
         },
         {
-          "en": "Joe Root",
-          "hi": "जो रूट"
+          "en": "Pakistan",
+          "hi": "पाकिस्तान"
         },
         {
-          "en": "Kane Williamson",
-          "hi": "केन विलियमसन"
+          "en": "Bangladesh",
+          "hi": "बांग्लादेश"
         }
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 1,
       "explanation": {
-        "en": "England cricketer Joe Root surpassed Sachin Tendulkar's record of 68 Test fifties by scoring his 69th half-century during a match against Pakistan. Tendulkar still holds the record for most Test centuries and total runs.",
-        "hi": "इंग्लैंड के क्रिकेटर जो रूट ने पाकिस्तान के खिलाफ एक मैच के दौरान अपना 69वां अर्धशतक बनाकर सचिन तेंदुलकर के 68 टेस्ट अर्धशतकों के रिकॉर्ड को पीछे छोड़ दिया। तेंदुलकर के नाम अभी भी सबसे ज्यादा टेस्ट शतक और कुल रन बनाने का रिकॉर्ड है।"
+        "en": "The Indian women's cricket team won their 8th Asia Cup title by defeating Sri Lanka. During the post-match events, the team reportedly refused to accept the trophy from ACC head Mohsin Naqvi.",
+        "hi": "भारतीय महिला क्रिकेट टीम ने श्रीलंका को हराकर अपना 8वां एशिया कप खिताब जीता। मैच के बाद के कार्यक्रमों के दौरान, कथित तौर पर टीम ने एसीसी प्रमुख मोहसिन नकवी से ट्रॉफी लेने से इनकार कर दिया।"
       },
       "category": "Sports",
       "difficulty": "easy",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/joe-root-creates-history-breaks-sachin-tendulkars-record/articleshow/134136516.cms"
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/india-womens-team-refuses-asia-cup-trophy-from-mohsin-naqvi-after-title-win/articleshow/134220894.cms"
     },
     {
-      "id": "ca_20260913_04",
+      "id": "ca_20260914_03",
       "question": {
-        "en": "Which High Court recently ruled that a government employee who resigns to contest elections cannot seek reinstatement if they lose?",
-        "hi": "किस उच्च न्यायालय ने हाल ही में फैसला सुनाया है कि चुनाव लड़ने के लिए इस्तीफा देने वाला सरकारी कर्मचारी हारने पर अपनी नौकरी पर बहाली की मांग नहीं कर सकता?"
+        "en": "The proposed IPO is set to unlock significant value in group companies holding a stake in Tata Sons. Tata Sons is the principal investment holding company of the Tata Group, founded in which year?",
+        "hi": "प्रस्तावित आईपीओ टाटा संस में हिस्सेदारी रखने वाली समूह कंपनियों के लिए महत्वपूर्ण मूल्य अनलॉक करने के लिए तैयार है। टाटा संस टाटा समूह की प्रमुख निवेश होल्डिंग कंपनी है, जिसकी स्थापना किस वर्ष हुई थी?"
       },
       "options": [
         {
-          "en": "Delhi High Court",
-          "hi": "दिल्ली उच्च न्यायालय"
+          "en": "1868",
+          "hi": "1868"
         },
         {
-          "en": "Allahabad High Court",
-          "hi": "इलाहाबाद उच्च न्यायालय"
+          "en": "1907",
+          "hi": "1907"
         },
         {
-          "en": "Rajasthan High Court",
-          "hi": "राजस्थान उच्च न्यायालय"
+          "en": "1947",
+          "hi": "1947"
         },
         {
-          "en": "Madras High Court",
-          "hi": "मद्रास उच्च न्यायालय"
-        }
-      ],
-      "correctAnswer": 2,
-      "explanation": {
-        "en": "The Rajasthan High Court upheld a tribunal's decision that a government employee who quits to fight polls cannot seek reinstatement. The court emphasized that contesting as a political party's candidate violates the requirement of maintaining political neutrality.",
-        "hi": "राजस्थान उच्च न्यायालय ने एक न्यायाधिकरण के उस निर्णय को बरकरार रखा कि चुनाव लड़ने के लिए इस्तीफा देने वाला सरकारी कर्मचारी बहाली की मांग नहीं कर सकता। अदालत ने इस बात पर जोर दिया कि किसी राजनीतिक दल के उम्मीदवार के रूप में चुनाव लड़ना राजनीतिक तटस्थता बनाए रखने की आवश्यकता का उल्लंघन करता है।"
-      },
-      "category": "Polity & Governance",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.thehindu.com/news/national/rajasthan/govt-employee-quitting-to-fight-polls-cant-seek-reinstatement-rajasthan-high-court/article71460588.ece"
-    },
-    {
-      "id": "ca_20260913_05",
-      "question": {
-        "en": "Which major corporate group's bid to remain an unlisted 'private' company was recently rejected by the Reserve Bank of India (RBI)?",
-        "hi": "भारतीय रिज़र्व बैंक (RBI) द्वारा हाल ही में किस प्रमुख कॉर्पोरेट समूह की असूचीबद्ध 'निजी' कंपनी बने रहने की बोली को खारिज कर दिया गया है?"
-      },
-      "options": [
-        {
-          "en": "Reliance Industries",
-          "hi": "रिलायंस इंडस्ट्रीज"
-        },
-        {
-          "en": "Adani Group",
-          "hi": "अडानी ग्रुप"
-        },
-        {
-          "en": "Tata Sons",
-          "hi": "टाटा संस"
-        },
-        {
-          "en": "Aditya Birla Group",
-          "hi": "आदित्य बिड़ला ग्रुप"
-        }
-      ],
-      "correctAnswer": 2,
-      "explanation": {
-        "en": "The Reserve Bank of India (RBI) rejected Tata Sons' application for exemption from the mandatory listing requirement for Upper Layer Non-Banking Financial Companies (NBFC-UL), directing them to proceed with the public listing.",
-        "hi": "भारतीय रिजर्व बैंक (RBI) ने टाटा संस के अपर लेयर गैर-बैंकिंग वित्तीय कंपनियों (NBFC-UL) के लिए अनिवार्य लिस्टिंग आवश्यकता से छूट के आवेदन को खारिज कर दिया, और उन्हें सार्वजनिक लिस्टिंग के साथ आगे बढ़ने का निर्देश दिया।"
-      },
-      "category": "Economy & Banking",
-      "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/rbi-rejects-tata-sons-bid-to-stay-private-directs-listing/articleshow/134163398.cms"
-    },
-    {
-      "id": "ca_20260913_06",
-      "question": {
-        "en": "HDFC Bank recently sent the names of two candidates to the RBI for the position of CEO. Under which section of the Banking Regulation Act, 1949, is RBI approval required for the appointment of bank CEOs?",
-        "hi": "HDFC बैंक ने हाल ही में CEO के पद के लिए दो उम्मीदवारों के नाम RBI को भेजे हैं। बैंकिंग विनियमन अधिनियम, 1949 की किस धारा के तहत बैंक के CEO की नियुक्ति के लिए RBI की मंजूरी आवश्यक है?"
-      },
-      "options": [
-        {
-          "en": "Section 35B",
-          "hi": "धारा 35बी (Section 35B)"
-        },
-        {
-          "en": "Section 24",
-          "hi": "धारा 24 (Section 24)"
-        },
-        {
-          "en": "Section 42",
-          "hi": "धारा 42 (Section 42)"
-        },
-        {
-          "en": "Section 18",
-          "hi": "धारा 18 (Section 18)"
+          "en": "1991",
+          "hi": "1991"
         }
       ],
       "correctAnswer": 0,
       "explanation": {
-        "en": "Under Section 35B of the Banking Regulation Act, 1949, prior approval of the Reserve Bank of India (RBI) is required for the appointment, re-appointment, or termination of the Chairman, Managing Director, or whole-time Directors of a banking company.",
-        "hi": "बैंकिंग विनियमन अधिनियम, 1949 की धारा 35B के तहत, किसी बैंकिंग कंपनी के अध्यक्ष, प्रबंध निदेशक या पूर्णकालिक निदेशकों की नियुक्ति, पुनर्नियुक्ति या समाप्ति के लिए भारतीय रिजर्व बैंक (RBI) की पूर्व स्वीकृति आवश्यक है।"
+        "en": "Tata Sons, the principal investment holding company and promoter of Tata companies, was established as a trading enterprise in 1868 by Jamsetji Tata. An upcoming IPO is expected to unlock value for group companies holding stakes.",
+        "hi": "टाटा संस, टाटा कंपनियों की प्रमुख निवेश होल्डिंग कंपनी और प्रवर्तक, 1868 में जमशेदजी टाटा द्वारा एक व्यापारिक उद्यम के रूप में स्थापित की गई थी। आगामी आईपीओ से हिस्सेदारी रखने वाली समूह कंपनियों के लिए मूल्य अनलॉक होने की उम्मीद है।"
       },
       "category": "Economy & Banking",
       "difficulty": "hard",
-      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/hdfc-bank-sends-names-of-2-ceo-candidates-to-rbi/articleshow/134163788.cms"
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/ipo-set-to-unlock-value-in-group-cos-holding-tata-sons-stake/articleshow/134229591.cms"
     },
     {
-      "id": "ca_20260913_07",
+      "id": "ca_20260914_04",
       "question": {
-        "en": "Global nutrition experts have supported warning labels on ultra-processed foods by the Food Safety and Standards Authority of India (FSSAI). Under which ministry does FSSAI operate?",
-        "hi": "वैश्विक पोषण विशेषज्ञों ने भारतीय खाद्य सुरक्षा और मानक प्राधिकरण (FSSAI) द्वारा अल्ट्रा-प्रोसेस्ड खाद्य पदार्थों पर चेतावनी लेबल का समर्थन किया है। FSSAI किस मंत्रालय के अंतर्गत कार्य करता है?"
+        "en": "Recently, scientists discovered a new species of legless amphibian from which Indian state?",
+        "hi": "हाल ही में, वैज्ञानिकों ने भारत के किस राज्य से पैर रहित उभयचर की एक नई प्रजाति की खोज की है?"
       },
       "options": [
         {
-          "en": "Ministry of Consumer Affairs",
-          "hi": "उपभोक्ता मामले मंत्रालय"
+          "en": "Kerala",
+          "hi": "केरल"
         },
         {
-          "en": "Ministry of Health & Family Welfare",
-          "hi": "स्वास्थ्य और परिवार कल्याण मंत्रालय"
+          "en": "Maharashtra",
+          "hi": "महाराष्ट्र"
         },
         {
-          "en": "Ministry of Agriculture",
-          "hi": "कृषि मंत्रालय"
+          "en": "Assam",
+          "hi": "असम"
         },
         {
-          "en": "Ministry of Commerce and Industry",
-          "hi": "वाणिज्य और उद्योग मंत्रालय"
+          "en": "Meghalaya",
+          "hi": "मेघालय"
         }
       ],
       "correctAnswer": 1,
       "explanation": {
-        "en": "The Food Safety and Standards Authority of India (FSSAI) is a statutory body established under the Food Safety and Standards Act, 2006. It functions under the administrative control of the Ministry of Health & Family Welfare, Government of India.",
-        "hi": "भारतीय खाद्य सुरक्षा और मानक प्राधिकरण (FSSAI) खाद्य सुरक्षा और मानक अधिनियम, 2006 के तहत स्थापित एक वैधानिक निकाय है। यह भारत सरकार के स्वास्थ्य और परिवार कल्याण मंत्रालय के प्रशासनिक नियंत्रण में कार्य करता है।"
+        "en": "A new species of legless amphibian, commonly known as caecilians, has been discovered in Maharashtra. These discoveries highlight the rich biodiversity present in the Western Ghats region.",
+        "hi": "महाराष्ट्र में सीसिलियन के नाम से जाने जाने वाले पैर रहित उभयचर की एक नई प्रजाति की खोज की गई है। ये खोजें पश्चिमी घाट क्षेत्र में मौजूद समृद्ध जैव विविधता को उजागर करती हैं।"
       },
-      "category": "Polity & Governance",
-      "difficulty": "easy",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/global-nutrition-experts-back-fssai-warning-labels-seek-stricter-rules/articleshow/134161131.cms"
-    },
-    {
-      "id": "ca_20260913_08",
-      "question": {
-        "en": "In the context of recent discussions at the BRICS forum, what does the acronym CBAM stand for?",
-        "hi": "ब्रिक्स (BRICS) मंच पर हालिया चर्चाओं के संदर्भ में, संक्षिप्त नाम CBAM का क्या अर्थ है?"
-      },
-      "options": [
-        {
-          "en": "Climate Based Action Mechanism",
-          "hi": "क्लाइमेट बेस्ड एक्शन मैकेनिज्म"
-        },
-        {
-          "en": "Carbon Border Adjustment Mechanism",
-          "hi": "कार्बन बॉर्डर एडजस्टमेंट मैकेनिज्म"
-        },
-        {
-          "en": "Coalition for Biodiversity and Mitigation",
-          "hi": "कोलिशन फॉर बायोडायवर्सिटी एंड मिटिगेशन"
-        },
-        {
-          "en": "Cross-Border Assessment Metric",
-          "hi": "क्रॉस-बॉर्डर असेसमेंट मीट्रिक"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "CBAM stands for Carbon Border Adjustment Mechanism. It is a policy framework proposed by the European Union to put a fair price on the carbon emitted during the production of carbon-intensive goods entering the EU, which has faced opposition from developing nations.",
-        "hi": "CBAM का अर्थ कार्बन बॉर्डर एडजस्टमेंट मैकेनिज्म (Carbon Border Adjustment Mechanism) है। यह यूरोपीय संघ द्वारा प्रस्तावित एक नीति ढांचा है जिसका उद्देश्य यूरोपीय संघ में प्रवेश करने वाले कार्बन-गहन सामानों के उत्पादन के दौरान उत्सर्जित कार्बन पर उचित मूल्य लगाना है, जिसका विकासशील देशों ने विरोध किया है।"
-      },
-      "category": "Environment & Ecology",
+      "category": "Science & Technology",
       "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/brics-opposes-unilateral-trade-steps-like-eu-carbon-border-tax/articleshow/134158775.cms"
+      "sourceUrl": "https://www.thehindu.com/sci-tech/science/new-species-of-legless-amphibian-discovered-from-maharashrtra/article71459475.ece"
     },
     {
-      "id": "ca_20260913_09",
+      "id": "ca_20260914_05",
       "question": {
-        "en": "Ben Shelton recently reached the US Open final. The US Open is played on which type of court surface?",
-        "hi": "बेन शेल्टन हाल ही में यूएस ओपन के फाइनल में पहुंचे हैं। यूएस ओपन किस प्रकार की कोर्ट सतह पर खेला जाता है?"
+        "en": "A recent genetic study shows that the ancient spice route may have shaped the genetic legacy of which indigenous animal breed of Kerala?",
+        "hi": "हाल ही के एक आनुवंशिक अध्ययन से पता चलता है कि प्राचीन मसाला मार्ग ने केरल की किस स्वदेशी पशु नस्ल की आनुवंशिक विरासत को आकार दिया होगा?"
       },
       "options": [
         {
-          "en": "Clay Court",
-          "hi": "क्ले कोर्ट"
+          "en": "Vechur Cow",
+          "hi": "वेचुर गाय"
         },
         {
-          "en": "Grass Court",
-          "hi": "ग्रास कोर्ट"
+          "en": "Malabari Goat",
+          "hi": "मालाबारी बकरी"
         },
         {
-          "en": "Hard Court",
-          "hi": "हार्ड कोर्ट"
+          "en": "Kuttanad Duck",
+          "hi": "कुट्टनाड बत्तख"
         },
         {
-          "en": "Carpet Court",
-          "hi": "कार्पेट कोर्ट"
+          "en": "Kasargod Dwarf",
+          "hi": "कासरगोड ड्वार्फ"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "A study suggests that the historical spice route significantly influenced the genetic lineage of Keralam's Malabari goat. The cross-breeding with goats brought by traders has given it a unique genetic legacy.",
+        "hi": "एक अध्ययन से पता चलता है कि ऐतिहासिक मसाला मार्ग ने केरल की मालाबारी बकरी के आनुवंशिक वंश को काफी प्रभावित किया है। व्यापारियों द्वारा लाई गई बकरियों के साथ क्रॉस-ब्रीडिंग ने इसे एक अनूठी आनुवंशिक विरासत दी है।"
+      },
+      "category": "Science & Technology",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/news/national/kerala/ancient-spice-route-may-have-shaped-keralams-malabari-goats-genetic-legacy-study-shows/article71455391.ece"
+    },
+    {
+      "id": "ca_20260914_06",
+      "question": {
+        "en": "A controversy recently arose over a 'Mathathon' event hosted at which prominent technological institute?",
+        "hi": "हाल ही में किस प्रमुख तकनीकी संस्थान में आयोजित 'मैथाथॉन' (Mathathon) कार्यक्रम को लेकर विवाद खड़ा हो गया?"
+      },
+      "options": [
+        {
+          "en": "MIT",
+          "hi": "एमआईटी (MIT)"
+        },
+        {
+          "en": "Stanford University",
+          "hi": "स्टैनफोर्ड विश्वविद्यालय"
+        },
+        {
+          "en": "Caltech",
+          "hi": "कैलटेक (Caltech)"
+        },
+        {
+          "en": "IIT Bombay",
+          "hi": "आईआईटी बॉम्बे (IIT Bombay)"
         }
       ],
       "correctAnswer": 2,
       "explanation": {
-        "en": "The US Open, the fourth and final Grand Slam tennis tournament of the year, is played on hard courts. The Australian Open is also played on hard courts, while the French Open is played on clay and Wimbledon on grass.",
-        "hi": "वर्ष का चौथा और अंतिम ग्रैंड स्लैम टेनिस टूर्नामेंट, यूएस ओपन, हार्ड कोर्ट पर खेला जाता है। ऑस्ट्रेलियन ओपन भी हार्ड कोर्ट पर खेला जाता है, जबकि फ्रेंच ओपन क्ले (मिट्टी) पर और विंबलडन ग्रास (घास) पर खेला जाता है।"
+        "en": "A controversy recently sparked regarding a 'Mathathon' held at the California Institute of Technology (Caltech). Debates emerged on academic policies and the management of such competitive events within prominent scientific institutions.",
+        "hi": "कैलिफोर्निया इंस्टीट्यूट ऑफ टेक्नोलॉजी (कैलटेक) में आयोजित एक 'मैथाथॉन' को लेकर हाल ही में एक विवाद छिड़ गया। प्रमुख वैज्ञानिक संस्थानों के भीतर शैक्षणिक नीतियों और ऐसी प्रतिस्पर्धी घटनाओं के प्रबंधन पर बहस हुई।"
       },
-      "category": "Sports",
-      "difficulty": "easy",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/ben-shelton-eyes-us-open-history-as-he-takes-on-alexander-zverev-in-maiden-grand-slam-final/articleshow/134134241.cms"
+      "category": "Science & Technology",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/sci-tech/science/controversy-over-mathathon-at-caltech/article71462676.ece"
     },
     {
-      "id": "ca_20260913_10",
+      "id": "ca_20260914_07",
       "question": {
-        "en": "Which major regulatory body recently suggested changes to the Consolidated Account Statement (CAS) timing and derivatives settlement prices?",
-        "hi": "हाल ही में किस प्रमुख विनियामक निकाय ने कंसोलिडेटेड अकाउंट स्टेटमेंट (CAS) के समय और डेरिवेटिव्स सेटलमेंट कीमतों में बदलाव का सुझाव दिया है?"
+        "en": "The local population in the high ranges of Kottayam, Kerala, is mobilising against the Centre's proposed ESA tag. What does 'ESA' stand for in this environmental context?",
+        "hi": "केरल के कोट्टायम की उच्च पर्वतमालाओं में स्थानीय आबादी केंद्र के प्रस्तावित ईएसए (ESA) टैग के खिलाफ लामबंद हो रही है। इस पर्यावरणीय संदर्भ में 'ESA' का क्या अर्थ है?"
       },
       "options": [
         {
-          "en": "RBI",
-          "hi": "आरबीआई (RBI)"
+          "en": "Economic Security Area",
+          "hi": "इकोनॉमिक सिक्योरिटी एरिया"
         },
         {
-          "en": "SEBI",
-          "hi": "सेबी (SEBI)"
+          "en": "Ecologically Sensitive Area",
+          "hi": "इकोलॉजिकली सेंसिटिव एरिया"
         },
         {
-          "en": "PFRDA",
-          "hi": "पीएफआरडीए (PFRDA)"
+          "en": "Environmental Safe Zone",
+          "hi": "एनवायर्नमेंटल सेफ जोन"
         },
         {
-          "en": "IRDAI",
-          "hi": "इरडाई (IRDAI)"
+          "en": "Endangered Species Area",
+          "hi": "एंडेंजर्ड स्पीशीज एरिया"
         }
       ],
       "correctAnswer": 1,
       "explanation": {
-        "en": "The Securities and Exchange Board of India (SEBI) has proposed changes to the timing of the Consolidated Account Statement (CAS) and the methodology for calculating derivatives settlement prices to enhance market transparency and investor protection.",
-        "hi": "भारतीय प्रतिभूति और विनिमय बोर्ड (SEBI) ने बाजार में पारदर्शिता और निवेशक सुरक्षा बढ़ाने के लिए कंसोलिडेटेड अकाउंट स्टेटमेंट (CAS) के समय और डेरिवेटिव निपटान कीमतों की गणना की कार्यप्रणाली में बदलाव का प्रस्ताव दिया है।"
+        "en": "ESA stands for Ecologically Sensitive Area. Residents in the high ranges of Kottayam are protesting against the proposed notification, fearing it would restrict agricultural practices and infrastructure development in the region.",
+        "hi": "ESA का अर्थ 'इकोलॉजिकली सेंसिटिव एरिया' (पारिस्थितिक रूप से संवेदनशील क्षेत्र) है। कोट्टायम की ऊँची पर्वतमालाओं के निवासी प्रस्तावित अधिसूचना का विरोध कर रहे हैं, इस डर से कि इससे क्षेत्र में कृषि पद्धतियों और बुनियादी ढांचे के विकास पर प्रतिबंध लग जाएगा।"
       },
-      "category": "Economy & Banking",
+      "category": "Environment & Ecology",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/news/national/kerala/high-ranges-of-kottayam-mobilise-against-proposed-esa-tag/article71463292.ece"
+    },
+    {
+      "id": "ca_20260914_08",
+      "question": {
+        "en": "The India Meteorological Department (IMD) recently issued an 'orange' alert for Mumbai. What does an 'orange' alert signify in IMD's color-coded weather warning system?",
+        "hi": "भारत मौसम विज्ञान विभाग (IMD) ने हाल ही में मुंबई के लिए 'ऑरेंज' अलर्ट जारी किया है। IMD की रंग-कोडित मौसम चेतावनी प्रणाली में 'ऑरेंज' अलर्ट का क्या अर्थ है?"
+      },
+      "options": [
+        {
+          "en": "No severe weather expected",
+          "hi": "कोई गंभीर मौसम अपेक्षित नहीं"
+        },
+        {
+          "en": "Be updated (Watch)",
+          "hi": "अपडेट रहें (निगरानी रखें)"
+        },
+        {
+          "en": "Be prepared (Alert)",
+          "hi": "तैयार रहें (अलर्ट)"
+        },
+        {
+          "en": "Take action (Warning)",
+          "hi": "कार्रवाई करें (चेतावनी)"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "In the IMD's color-coded warning system, 'Orange' means 'Be prepared' for severe weather that could cause disruption. 'Yellow' means 'Be updated', and 'Red' means 'Take action' as extremely severe weather is expected.",
+        "hi": "IMD की रंग-कोडित चेतावनी प्रणाली में, 'ऑरेंज' का अर्थ है 'तैयार रहें' क्योंकि गंभीर मौसम व्यवधान पैदा कर सकता है। 'येलो' का अर्थ है 'अपडेट रहें', और 'रेड' का अर्थ है 'कार्रवाई करें' क्योंकि अत्यधिक गंभीर मौसम की उम्मीद है।"
+      },
+      "category": "Environment & Ecology",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.thehindu.com/news/cities/mumbai/mumbai-on-orange-alert-with-moderate-rain-likely-on-sept-14/article71464389.ece"
+    },
+    {
+      "id": "ca_20260914_09",
+      "question": {
+        "en": "In Jharkhand, the Leader of Opposition has accused the state government of protecting influential people amid a CID probe into irregularities in which examinations?",
+        "hi": "झारखंड में विपक्ष के नेता ने किन परीक्षाओं में अनियमितताओं की सीआईडी (CID) जांच के बीच राज्य सरकार पर प्रभावशाली लोगों को बचाने का आरोप लगाया है?"
+      },
+      "options": [
+        {
+          "en": "University Entrance Exams",
+          "hi": "विश्वविद्यालय प्रवेश परीक्षाएं"
+        },
+        {
+          "en": "State Civil Services Exams",
+          "hi": "राज्य सिविल सेवा परीक्षाएं"
+        },
+        {
+          "en": "Job Exams",
+          "hi": "नौकरी परीक्षाएं (भर्ती परीक्षाएं)"
+        },
+        {
+          "en": "Board Exams",
+          "hi": "बोर्ड परीक्षाएं"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The Jharkhand Leader of Opposition accused the Hemant Soren-led government of shielding influential individuals during an ongoing CID investigation into widespread irregularities in recent state job (recruitment) examinations.",
+        "hi": "झारखंड के नेता प्रतिपक्ष ने हाल ही में राज्य की नौकरी (भर्ती) परीक्षाओं में व्यापक अनियमितताओं की चल रही सीआईडी जांच के दौरान हेमंत सोरेन के नेतृत्व वाली सरकार पर प्रभावशाली व्यक्तियों को बचाने का आरोप लगाया।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/news/national/jharkhand/jharkhand-lop-accuses-soren-led-govt-of-protecting-influential-people-amid-cid-probe-into-job-exam-irregularities/article71463699.ece"
+    },
+    {
+      "id": "ca_20260914_10",
+      "question": {
+        "en": "A recent study found that rising urban demand is reorganising the global trafficking network of which type of animals?",
+        "hi": "हाल ही के एक अध्ययन में पाया गया है कि बढ़ती शहरी मांग किस प्रकार के जानवरों के वैश्विक तस्करी नेटवर्क को पुनर्गठित कर रही है?"
+      },
+      "options": [
+        {
+          "en": "Marine Fish",
+          "hi": "समुद्री मछलियां"
+        },
+        {
+          "en": "Wildlife / Parrots",
+          "hi": "वन्यजीव / तोते"
+        },
+        {
+          "en": "Elephants",
+          "hi": "हाथी"
+        },
+        {
+          "en": "Big Cats (Tigers/Lions)",
+          "hi": "बड़ी बिल्लियाँ (बाघ/शेर)"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "A recent study mapping the trade routes of Mexican parrots highlights that rising urban demand is reorganising the global wildlife trafficking network. Such research is crucial to aid law enforcement worldwide.",
+        "hi": "मैक्सिकन तोतों के व्यापार मार्गों का मानचित्रण करने वाले एक हालिया अध्ययन से पता चलता है कि बढ़ती शहरी मांग वैश्विक वन्यजीव तस्करी नेटवर्क को पुनर्गठित कर रही है। दुनिया भर में कानून प्रवर्तन की सहायता के लिए इस तरह का शोध महत्वपूर्ण है।"
+      },
+      "category": "Science & Technology",
       "difficulty": "hard",
-      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/sebi-for-changes-to-cas-timing-derivatives-settlement-prices/articleshow/134163588.cms"
+      "sourceUrl": "https://www.thehindu.com/sci-tech/science/urban-demand-is-reorganising-the-global-wildlife-trafficking-network/article71451085.ece"
     }
   ]
 }
