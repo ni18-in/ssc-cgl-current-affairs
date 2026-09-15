@@ -1,0 +1,340 @@
+{
+  "date": "2026-09-14",
+  "topic": "SSC CGL Daily Current Affairs",
+  "source": "The Hindu / Times of India",
+  "lastUpdated": "2026-09-14T06:00:00+05:30",
+  "version": 1,
+  "totalQuestions": 10,
+  "quiz": [
+    {
+      "id": "ca_20260914_01",
+      "question": {
+        "en": "At the BRICS Summit 2026, Chinese President Xi Jinping proposed a new action plan. How many points did this action plan contain?",
+        "hi": "ब्रिक्स शिखर सम्मेलन 2026 में, चीनी राष्ट्रपति शी जिनपिंग ने एक नई कार्य योजना का प्रस्ताव रखा। इस कार्य योजना में कितने बिंदु (पॉइंट) शामिल थे?"
+      },
+      "options": [
+        {
+          "en": "3 points",
+          "hi": "3 बिंदु"
+        },
+        {
+          "en": "5 points",
+          "hi": "5 बिंदु"
+        },
+        {
+          "en": "7 points",
+          "hi": "7 बिंदु"
+        },
+        {
+          "en": "10 points",
+          "hi": "10 बिंदु"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "At the BRICS 2026 Summit, Chinese President Xi Jinping proposed a 5-point action plan. This development was met with caution in India due to underlying geopolitical tensions.",
+        "hi": "ब्रिक्स 2026 शिखर सम्मेलन में, चीनी राष्ट्रपति शी जिनपिंग ने 5-सूत्रीय कार्य योजना का प्रस्ताव रखा। अंतर्निहित भू-राजनीतिक तनावों के कारण भारत में इस घटनाक्रम को लेकर सावधानी बरती गई।"
+      },
+      "category": "International Summits",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/xis-5-point-action-plan-for-brics-may-see-red-flags-go-up-in-india/articleshow/134225006.cms"
+    },
+    {
+      "id": "ca_20260914_02",
+      "question": {
+        "en": "Which country recently won their 8th Women's Asia Cup cricket title?",
+        "hi": "हाल ही में किस देश ने अपना 8वां महिला एशिया कप क्रिकेट खिताब जीता?"
+      },
+      "options": [
+        {
+          "en": "Sri Lanka",
+          "hi": "श्रीलंका"
+        },
+        {
+          "en": "India",
+          "hi": "भारत"
+        },
+        {
+          "en": "Pakistan",
+          "hi": "पाकिस्तान"
+        },
+        {
+          "en": "Bangladesh",
+          "hi": "बांग्लादेश"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The Indian women's cricket team won their 8th Asia Cup title by defeating Sri Lanka. During the post-match events, the team reportedly refused to accept the trophy from ACC head Mohsin Naqvi.",
+        "hi": "भारतीय महिला क्रिकेट टीम ने श्रीलंका को हराकर अपना 8वां एशिया कप खिताब जीता। मैच के बाद के कार्यक्रमों के दौरान, कथित तौर पर टीम ने एसीसी प्रमुख मोहसिन नकवी से ट्रॉफी लेने से इनकार कर दिया।"
+      },
+      "category": "Sports",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/india-womens-team-refuses-asia-cup-trophy-from-mohsin-naqvi-after-title-win/articleshow/134220894.cms"
+    },
+    {
+      "id": "ca_20260914_03",
+      "question": {
+        "en": "The proposed IPO is set to unlock significant value in group companies holding a stake in Tata Sons. Tata Sons is the principal investment holding company of the Tata Group, founded in which year?",
+        "hi": "प्रस्तावित आईपीओ टाटा संस में हिस्सेदारी रखने वाली समूह कंपनियों के लिए महत्वपूर्ण मूल्य अनलॉक करने के लिए तैयार है। टाटा संस टाटा समूह की प्रमुख निवेश होल्डिंग कंपनी है, जिसकी स्थापना किस वर्ष हुई थी?"
+      },
+      "options": [
+        {
+          "en": "1868",
+          "hi": "1868"
+        },
+        {
+          "en": "1907",
+          "hi": "1907"
+        },
+        {
+          "en": "1947",
+          "hi": "1947"
+        },
+        {
+          "en": "1991",
+          "hi": "1991"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "Tata Sons, the principal investment holding company and promoter of Tata companies, was established as a trading enterprise in 1868 by Jamsetji Tata. An upcoming IPO is expected to unlock value for group companies holding stakes.",
+        "hi": "टाटा संस, टाटा कंपनियों की प्रमुख निवेश होल्डिंग कंपनी और प्रवर्तक, 1868 में जमशेदजी टाटा द्वारा एक व्यापारिक उद्यम के रूप में स्थापित की गई थी। आगामी आईपीओ से हिस्सेदारी रखने वाली समूह कंपनियों के लिए मूल्य अनलॉक होने की उम्मीद है।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "hard",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/ipo-set-to-unlock-value-in-group-cos-holding-tata-sons-stake/articleshow/134229591.cms"
+    },
+    {
+      "id": "ca_20260914_04",
+      "question": {
+        "en": "Recently, scientists discovered a new species of legless amphibian from which Indian state?",
+        "hi": "हाल ही में, वैज्ञानिकों ने भारत के किस राज्य से पैर रहित उभयचर की एक नई प्रजाति की खोज की है?"
+      },
+      "options": [
+        {
+          "en": "Kerala",
+          "hi": "केरल"
+        },
+        {
+          "en": "Maharashtra",
+          "hi": "महाराष्ट्र"
+        },
+        {
+          "en": "Assam",
+          "hi": "असम"
+        },
+        {
+          "en": "Meghalaya",
+          "hi": "मेघालय"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "A new species of legless amphibian, commonly known as caecilians, has been discovered in Maharashtra. These discoveries highlight the rich biodiversity present in the Western Ghats region.",
+        "hi": "महाराष्ट्र में सीसिलियन के नाम से जाने जाने वाले पैर रहित उभयचर की एक नई प्रजाति की खोज की गई है। ये खोजें पश्चिमी घाट क्षेत्र में मौजूद समृद्ध जैव विविधता को उजागर करती हैं।"
+      },
+      "category": "Science & Technology",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/sci-tech/science/new-species-of-legless-amphibian-discovered-from-maharashrtra/article71459475.ece"
+    },
+    {
+      "id": "ca_20260914_05",
+      "question": {
+        "en": "A recent genetic study shows that the ancient spice route may have shaped the genetic legacy of which indigenous animal breed of Kerala?",
+        "hi": "हाल ही के एक आनुवंशिक अध्ययन से पता चलता है कि प्राचीन मसाला मार्ग ने केरल की किस स्वदेशी पशु नस्ल की आनुवंशिक विरासत को आकार दिया होगा?"
+      },
+      "options": [
+        {
+          "en": "Vechur Cow",
+          "hi": "वेचुर गाय"
+        },
+        {
+          "en": "Malabari Goat",
+          "hi": "मालाबारी बकरी"
+        },
+        {
+          "en": "Kuttanad Duck",
+          "hi": "कुट्टनाड बत्तख"
+        },
+        {
+          "en": "Kasargod Dwarf",
+          "hi": "कासरगोड ड्वार्फ"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "A study suggests that the historical spice route significantly influenced the genetic lineage of Keralam's Malabari goat. The cross-breeding with goats brought by traders has given it a unique genetic legacy.",
+        "hi": "एक अध्ययन से पता चलता है कि ऐतिहासिक मसाला मार्ग ने केरल की मालाबारी बकरी के आनुवंशिक वंश को काफी प्रभावित किया है। व्यापारियों द्वारा लाई गई बकरियों के साथ क्रॉस-ब्रीडिंग ने इसे एक अनूठी आनुवंशिक विरासत दी है।"
+      },
+      "category": "Science & Technology",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/news/national/kerala/ancient-spice-route-may-have-shaped-keralams-malabari-goats-genetic-legacy-study-shows/article71455391.ece"
+    },
+    {
+      "id": "ca_20260914_06",
+      "question": {
+        "en": "A controversy recently arose over a 'Mathathon' event hosted at which prominent technological institute?",
+        "hi": "हाल ही में किस प्रमुख तकनीकी संस्थान में आयोजित 'मैथाथॉन' (Mathathon) कार्यक्रम को लेकर विवाद खड़ा हो गया?"
+      },
+      "options": [
+        {
+          "en": "MIT",
+          "hi": "एमआईटी (MIT)"
+        },
+        {
+          "en": "Stanford University",
+          "hi": "स्टैनफोर्ड विश्वविद्यालय"
+        },
+        {
+          "en": "Caltech",
+          "hi": "कैलटेक (Caltech)"
+        },
+        {
+          "en": "IIT Bombay",
+          "hi": "आईआईटी बॉम्बे (IIT Bombay)"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "A controversy recently sparked regarding a 'Mathathon' held at the California Institute of Technology (Caltech). Debates emerged on academic policies and the management of such competitive events within prominent scientific institutions.",
+        "hi": "कैलिफोर्निया इंस्टीट्यूट ऑफ टेक्नोलॉजी (कैलटेक) में आयोजित एक 'मैथाथॉन' को लेकर हाल ही में एक विवाद छिड़ गया। प्रमुख वैज्ञानिक संस्थानों के भीतर शैक्षणिक नीतियों और ऐसी प्रतिस्पर्धी घटनाओं के प्रबंधन पर बहस हुई।"
+      },
+      "category": "Science & Technology",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/sci-tech/science/controversy-over-mathathon-at-caltech/article71462676.ece"
+    },
+    {
+      "id": "ca_20260914_07",
+      "question": {
+        "en": "The local population in the high ranges of Kottayam, Kerala, is mobilising against the Centre's proposed ESA tag. What does 'ESA' stand for in this environmental context?",
+        "hi": "केरल के कोट्टायम की उच्च पर्वतमालाओं में स्थानीय आबादी केंद्र के प्रस्तावित ईएसए (ESA) टैग के खिलाफ लामबंद हो रही है। इस पर्यावरणीय संदर्भ में 'ESA' का क्या अर्थ है?"
+      },
+      "options": [
+        {
+          "en": "Economic Security Area",
+          "hi": "इकोनॉमिक सिक्योरिटी एरिया"
+        },
+        {
+          "en": "Ecologically Sensitive Area",
+          "hi": "इकोलॉजिकली सेंसिटिव एरिया"
+        },
+        {
+          "en": "Environmental Safe Zone",
+          "hi": "एनवायर्नमेंटल सेफ जोन"
+        },
+        {
+          "en": "Endangered Species Area",
+          "hi": "एंडेंजर्ड स्पीशीज एरिया"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "ESA stands for Ecologically Sensitive Area. Residents in the high ranges of Kottayam are protesting against the proposed notification, fearing it would restrict agricultural practices and infrastructure development in the region.",
+        "hi": "ESA का अर्थ 'इकोलॉजिकली सेंसिटिव एरिया' (पारिस्थितिक रूप से संवेदनशील क्षेत्र) है। कोट्टायम की ऊँची पर्वतमालाओं के निवासी प्रस्तावित अधिसूचना का विरोध कर रहे हैं, इस डर से कि इससे क्षेत्र में कृषि पद्धतियों और बुनियादी ढांचे के विकास पर प्रतिबंध लग जाएगा।"
+      },
+      "category": "Environment & Ecology",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/news/national/kerala/high-ranges-of-kottayam-mobilise-against-proposed-esa-tag/article71463292.ece"
+    },
+    {
+      "id": "ca_20260914_08",
+      "question": {
+        "en": "The India Meteorological Department (IMD) recently issued an 'orange' alert for Mumbai. What does an 'orange' alert signify in IMD's color-coded weather warning system?",
+        "hi": "भारत मौसम विज्ञान विभाग (IMD) ने हाल ही में मुंबई के लिए 'ऑरेंज' अलर्ट जारी किया है। IMD की रंग-कोडित मौसम चेतावनी प्रणाली में 'ऑरेंज' अलर्ट का क्या अर्थ है?"
+      },
+      "options": [
+        {
+          "en": "No severe weather expected",
+          "hi": "कोई गंभीर मौसम अपेक्षित नहीं"
+        },
+        {
+          "en": "Be updated (Watch)",
+          "hi": "अपडेट रहें (निगरानी रखें)"
+        },
+        {
+          "en": "Be prepared (Alert)",
+          "hi": "तैयार रहें (अलर्ट)"
+        },
+        {
+          "en": "Take action (Warning)",
+          "hi": "कार्रवाई करें (चेतावनी)"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "In the IMD's color-coded warning system, 'Orange' means 'Be prepared' for severe weather that could cause disruption. 'Yellow' means 'Be updated', and 'Red' means 'Take action' as extremely severe weather is expected.",
+        "hi": "IMD की रंग-कोडित चेतावनी प्रणाली में, 'ऑरेंज' का अर्थ है 'तैयार रहें' क्योंकि गंभीर मौसम व्यवधान पैदा कर सकता है। 'येलो' का अर्थ है 'अपडेट रहें', और 'रेड' का अर्थ है 'कार्रवाई करें' क्योंकि अत्यधिक गंभीर मौसम की उम्मीद है।"
+      },
+      "category": "Environment & Ecology",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.thehindu.com/news/cities/mumbai/mumbai-on-orange-alert-with-moderate-rain-likely-on-sept-14/article71464389.ece"
+    },
+    {
+      "id": "ca_20260914_09",
+      "question": {
+        "en": "In Jharkhand, the Leader of Opposition has accused the state government of protecting influential people amid a CID probe into irregularities in which examinations?",
+        "hi": "झारखंड में विपक्ष के नेता ने किन परीक्षाओं में अनियमितताओं की सीआईडी (CID) जांच के बीच राज्य सरकार पर प्रभावशाली लोगों को बचाने का आरोप लगाया है?"
+      },
+      "options": [
+        {
+          "en": "University Entrance Exams",
+          "hi": "विश्वविद्यालय प्रवेश परीक्षाएं"
+        },
+        {
+          "en": "State Civil Services Exams",
+          "hi": "राज्य सिविल सेवा परीक्षाएं"
+        },
+        {
+          "en": "Job Exams",
+          "hi": "नौकरी परीक्षाएं (भर्ती परीक्षाएं)"
+        },
+        {
+          "en": "Board Exams",
+          "hi": "बोर्ड परीक्षाएं"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The Jharkhand Leader of Opposition accused the Hemant Soren-led government of shielding influential individuals during an ongoing CID investigation into widespread irregularities in recent state job (recruitment) examinations.",
+        "hi": "झारखंड के नेता प्रतिपक्ष ने हाल ही में राज्य की नौकरी (भर्ती) परीक्षाओं में व्यापक अनियमितताओं की चल रही सीआईडी जांच के दौरान हेमंत सोरेन के नेतृत्व वाली सरकार पर प्रभावशाली व्यक्तियों को बचाने का आरोप लगाया।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/news/national/jharkhand/jharkhand-lop-accuses-soren-led-govt-of-protecting-influential-people-amid-cid-probe-into-job-exam-irregularities/article71463699.ece"
+    },
+    {
+      "id": "ca_20260914_10",
+      "question": {
+        "en": "A recent study found that rising urban demand is reorganising the global trafficking network of which type of animals?",
+        "hi": "हाल ही के एक अध्ययन में पाया गया है कि बढ़ती शहरी मांग किस प्रकार के जानवरों के वैश्विक तस्करी नेटवर्क को पुनर्गठित कर रही है?"
+      },
+      "options": [
+        {
+          "en": "Marine Fish",
+          "hi": "समुद्री मछलियां"
+        },
+        {
+          "en": "Wildlife / Parrots",
+          "hi": "वन्यजीव / तोते"
+        },
+        {
+          "en": "Elephants",
+          "hi": "हाथी"
+        },
+        {
+          "en": "Big Cats (Tigers/Lions)",
+          "hi": "बड़ी बिल्लियाँ (बाघ/शेर)"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "A recent study mapping the trade routes of Mexican parrots highlights that rising urban demand is reorganising the global wildlife trafficking network. Such research is crucial to aid law enforcement worldwide.",
+        "hi": "मैक्सिकन तोतों के व्यापार मार्गों का मानचित्रण करने वाले एक हालिया अध्ययन से पता चलता है कि बढ़ती शहरी मांग वैश्विक वन्यजीव तस्करी नेटवर्क को पुनर्गठित कर रही है। दुनिया भर में कानून प्रवर्तन की सहायता के लिए इस तरह का शोध महत्वपूर्ण है।"
+      },
+      "category": "Science & Technology",
+      "difficulty": "hard",
+      "sourceUrl": "https://www.thehindu.com/sci-tech/science/urban-demand-is-reorganising-the-global-wildlife-trafficking-network/article71451085.ece"
+    }
+  ]
+}
