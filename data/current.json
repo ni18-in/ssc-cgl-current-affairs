@@ -1,59 +1,249 @@
 {
-  "date": "2026-09-15",
+  "date": "2026-09-16",
   "topic": "SSC CGL Daily Current Affairs",
-  "source": "The Hindu / Times of India / PIB",
-  "lastUpdated": "2026-09-15T06:00:00+05:30",
+  "source": "The Hindu / Economic Times / Times of India",
+  "lastUpdated": "2026-09-16T06:00:00+05:30",
   "version": 1,
   "totalQuestions": 10,
   "quiz": [
     {
-      "id": "ca_20260915_01",
+      "id": "ca_20260916_01",
       "question": {
-        "en": "Recently, the government has barred bank charges on payments up to what amount made via UPI and RuPay-powered debit cards?",
-        "hi": "हाल ही में, सरकार ने UPI और RuPay-संचालित डेबिट कार्ड के माध्यम से किए गए भुगतान पर कितनी राशि तक के बैंक शुल्क पर रोक लगा दी है?"
+        "en": "The joint military exercise 'Yudh Abhyas' is conducted between India and which country?",
+        "hi": "संयुक्त सैन्य अभ्यास 'युद्धाभ्यास' भारत और किस देश के बीच आयोजित किया जाता है?"
       },
       "options": [
         {
-          "en": "₹1,000",
-          "hi": "₹1,000"
+          "en": "France",
+          "hi": "फ्रांस"
         },
         {
-          "en": "₹2,000",
-          "hi": "₹2,000"
+          "en": "Russia",
+          "hi": "रूस"
         },
         {
-          "en": "₹5,000",
-          "hi": "₹5,000"
+          "en": "USA",
+          "hi": "यूएसए"
         },
         {
-          "en": "₹10,000",
-          "hi": "₹10,000"
+          "en": "Japan",
+          "hi": "जापान"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The India-US joint military exercise 'Yudh Abhyas' aims to improve interoperability and tackle emerging military challenges. It integrates technology, such as drones and autonomous systems, in mountainous and semi-mountainous areas.",
+        "hi": "भारत-अमेरिका संयुक्त सैन्य अभ्यास 'युद्धाभ्यास' का उद्देश्य अंतर-संचालन में सुधार करना और उभरती सैन्य चुनौतियों से निपटना है। यह पहाड़ी और अर्ध-पहाड़ी क्षेत्रों में ड्रोन और स्वायत्त प्रणालियों जैसी तकनीक को एकीकृत करता है।"
+      },
+      "category": "Defence & Security",
+      "difficulty": "easy",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/defence/rssfeeds/46687796.cms"
+    },
+    {
+      "id": "ca_20260916_02",
+      "question": {
+        "en": "In August, India's goods exports went up by what percentage, easing the trade deficit to a five-month low?",
+        "hi": "अगस्त में, भारत के माल निर्यात में कितने प्रतिशत की वृद्धि हुई, जिससे व्यापार घाटा पांच महीने के निचले स्तर पर आ गया?"
+      },
+      "options": [
+        {
+          "en": "10%",
+          "hi": "10%"
+        },
+        {
+          "en": "18%",
+          "hi": "18%"
+        },
+        {
+          "en": "26%",
+          "hi": "26%"
+        },
+        {
+          "en": "35%",
+          "hi": "35%"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "India’s goods exports surged by 26% in August, driven by robust global demand. This narrowed the merchandise trade deficit to a five-month low as imports declined.",
+        "hi": "मजबूत वैश्विक मांग के कारण अगस्त में भारत के माल निर्यात में 26% की वृद्धि हुई। इससे व्यापार घाटा पांच महीने के निचले स्तर पर आ गया क्योंकि आयात में गिरावट आई।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "medium",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/policy/rssfeeds/1373380680.cms"
+    },
+    {
+      "id": "ca_20260916_03",
+      "question": {
+        "en": "Which weather phenomenon has caused drought hitting 53% of India, affecting Kharif crops and winter sowing?",
+        "hi": "किस मौसम की घटना ने भारत के 53% हिस्से में सूखा पैदा कर दिया है, जिससे खरीफ फसलें और सर्दियों की बुवाई प्रभावित हो रही है?"
+      },
+      "options": [
+        {
+          "en": "La Niña",
+          "hi": "ला नीना"
+        },
+        {
+          "en": "El Niño",
+          "hi": "अल नीनो"
+        },
+        {
+          "en": "Cyclone Amphan",
+          "hi": "चक्रवात अम्फान"
+        },
+        {
+          "en": "Western Disturbances",
+          "hi": "पश्चिमी विक्षोभ"
         }
       ],
       "correctAnswer": 1,
       "explanation": {
-        "en": "The government has notified changes in the Payment And Settlement Act, 2007 to bar bank charges on payments up to ₹2,000 made via UPI and RuPay-powered debit cards, aiming to boost digital transactions.",
-        "hi": "सरकार ने डिजिटल लेनदेन को बढ़ावा देने के उद्देश्य से, UPI और RuPay-संचालित डेबिट कार्ड के माध्यम से किए गए ₹2,000 तक के भुगतान पर बैंक शुल्क को रोकने के लिए भुगतान और निपटान अधिनियम, 2007 (Payment And Settlement Act, 2007) में बदलावों को अधिसूचित किया है।"
+        "en": "The El Niño effect has caused drought hitting more than 50% of India. It has severely stressed Kharif crops and raised concerns for upcoming winter sowing.",
+        "hi": "अल नीनो प्रभाव के कारण भारत के 50% से अधिक हिस्से में सूखा पड़ा है। इसने खरीफ फसलों को गंभीर रूप से तनाव में डाल दिया है और आगामी सर्दियों की बुवाई के लिए चिंताएं बढ़ा दी हैं।"
       },
-      "category": "Economy & Banking",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.thehindu.com/business/govt-bars-bank-charges-on-upi-payments-up-to-2k/article71466438.ece"
+      "category": "Environment & Ecology",
+      "difficulty": "easy",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/policy/rssfeeds/1373380680.cms"
     },
     {
-      "id": "ca_20260915_02",
+      "id": "ca_20260916_04",
       "question": {
-        "en": "India recently approved the expedited export of electricity to which flood-hit neighboring country to help meet its power requirements?",
-        "hi": "भारत ने हाल ही में किस बाढ़ प्रभावित पड़ोसी देश को उसकी बिजली की जरूरतों को पूरा करने में मदद करने के लिए बिजली के शीघ्र निर्यात को मंजूरी दी है?"
+        "en": "The World Trade Organization (WTO) cited the trade deal between India and which entity as an example of a tailored enforcement mechanism?",
+        "hi": "विश्व व्यापार संगठन (WTO) ने भारत और किस संस्था के बीच व्यापार सौदे को एक अनुकूलित प्रवर्तन तंत्र के उदाहरण के रूप में उद्धृत किया?"
       },
       "options": [
         {
-          "en": "Sri Lanka",
-          "hi": "श्रीलंका"
+          "en": "European Union (EU)",
+          "hi": "यूरोपीय संघ (ईयू)"
         },
         {
-          "en": "Bangladesh",
-          "hi": "बांग्लादेश"
+          "en": "EFTA",
+          "hi": "ईएफटीए"
         },
+        {
+          "en": "ASEAN",
+          "hi": "आसियान"
+        },
+        {
+          "en": "African Union",
+          "hi": "अफ्रीकी संघ"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The WTO highlighted the India-EFTA trade deal as an example where unilateral enforcement mechanisms were tailored to achieve market access outcomes, allowing India to unilaterally reimpose tariffs if targets are not met.",
+        "hi": "विश्व व्यापार संगठन ने भारत-ईएफटीए व्यापार समझौते को एक उदाहरण के रूप में उजागर किया, जहां बाजार पहुंच परिणामों को प्राप्त करने के लिए एकतरफा प्रवर्तन तंत्र तैयार किए गए थे, जिससे यदि लक्ष्य पूरे नहीं होते हैं तो भारत को एकतरफा शुल्क फिर से लगाने की अनुमति मिलती है।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "hard",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/policy/rssfeeds/1373380680.cms"
+    },
+    {
+      "id": "ca_20260916_05",
+      "question": {
+        "en": "The Bihar Cabinet has approved ₹3,516 crore for the area development of which temple and river link?",
+        "hi": "बिहार कैबिनेट ने किस मंदिर और नदी लिंक के क्षेत्र विकास के लिए ₹3,516 करोड़ को मंजूरी दी है?"
+      },
+      "options": [
+        {
+          "en": "Kashi Vishwanath and Ganga",
+          "hi": "काशी विश्वनाथ और गंगा"
+        },
+        {
+          "en": "Konark Sun Temple and Mahanadi",
+          "hi": "कोणार्क सूर्य मंदिर और महानदी"
+        },
+        {
+          "en": "Vishnupad Temple and Son-Falgu",
+          "hi": "विष्णुपद मंदिर और सोन-फल्गु"
+        },
+        {
+          "en": "Somnath Temple and Narmada",
+          "hi": "सोमनाथ मंदिर और नर्मदा"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The Bihar Cabinet, chaired by Chief Minister Samrat Choudhary, approved ₹3,516 crore for the Vishnupad Temple area development and the Son-Falgu river link.",
+        "hi": "मुख्यमंत्री सम्राट चौधरी की अध्यक्षता में बिहार कैबिनेट ने विष्णुपद मंदिर क्षेत्र के विकास और सोन-फल्गु नदी लिंक के लिए ₹3,516 करोड़ को मंजूरी दी।"
+      },
+      "category": "Government Schemes",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/news/national/bihar/bihar-cabinet-approves-3516-crore-for-vishnupad-temple-area-development-son-falgu-river-link/article71468849.ece"
+    },
+    {
+      "id": "ca_20260916_06",
+      "question": {
+        "en": "Which major company recently agreed to share child safety information directly with Indian agencies?",
+        "hi": "किस प्रमुख कंपनी ने हाल ही में भारतीय एजेंसियों के साथ सीधे बाल सुरक्षा जानकारी साझा करने पर सहमति व्यक्त की है?"
+      },
+      "options": [
+        {
+          "en": "Alphabet (Google)",
+          "hi": "अल्फाबेट (गूगल)"
+        },
+        {
+          "en": "Meta",
+          "hi": "मेटा"
+        },
+        {
+          "en": "Amazon",
+          "hi": "अमेज़ॅन"
+        },
+        {
+          "en": "Apple",
+          "hi": "एप्पल"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Meta has agreed to share child safety information directly with Indian agencies, changing its earlier process.",
+        "hi": "मेटा ने अपनी पिछली प्रक्रिया को बदलते हुए भारतीय एजेंसियों के साथ सीधे बाल सुरक्षा जानकारी साझा करने पर सहमति व्यक्त की है।"
+      },
+      "category": "Science & Technology",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/news/national/meta-says-will-report-child-safety-cases-directly-to-indian-cybercrime-portal/article71467015.ece"
+    },
+    {
+      "id": "ca_20260916_07",
+      "question": {
+        "en": "Bharat Forge and Pratt & Whitney have joined forces for the high-altitude defense drone 'UAV' program of which Indian organization?",
+        "hi": "भारत फोर्ज और प्रैट एंड व्हिटनी ने किस भारतीय संगठन के उच्च ऊंचाई वाले रक्षा ड्रोन 'UAV' कार्यक्रम के लिए हाथ मिलाया है?"
+      },
+      "options": [
+        {
+          "en": "ISRO",
+          "hi": "इसरो"
+        },
+        {
+          "en": "HAL",
+          "hi": "एचएएल"
+        },
+        {
+          "en": "DRDO",
+          "hi": "डीआरडीओ"
+        },
+        {
+          "en": "BHEL",
+          "hi": "भेल"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Bharat Forge and Pratt & Whitney Canada have joined forces to evaluate advanced turboprop engine integration for DRDO’s high-altitude defense drone 'UAV' program.",
+        "hi": "भारत फोर्ज और प्रैट एंड व्हिटनी कनाडा ने डीआरडीओ के उच्च ऊंचाई वाले रक्षा ड्रोन 'यूएवी' कार्यक्रम के लिए उन्नत टर्बोप्रॉप इंजन एकीकरण का मूल्यांकन करने के लिए हाथ मिलाया है।"
+      },
+      "category": "Defence & Security",
+      "difficulty": "hard",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/defence/rssfeeds/46687796.cms"
+    },
+    {
+      "id": "ca_20260916_08",
+      "question": {
+        "en": "The BNP Government of which country is reviewing 101 pacts signed with India?",
+        "hi": "किस देश की बीएनपी सरकार भारत के साथ हुए 101 समझौतों की समीक्षा कर रही है?"
+      },
+      "options": [
         {
           "en": "Nepal",
           "hi": "नेपाल"
@@ -61,280 +251,90 @@
         {
           "en": "Bhutan",
           "hi": "भूटान"
+        },
+        {
+          "en": "Bangladesh",
+          "hi": "बांग्लादेश"
+        },
+        {
+          "en": "Maldives",
+          "hi": "मालदीव"
         }
       ],
       "correctAnswer": 2,
       "explanation": {
-        "en": "India's Power Ministry approved the expedited export of electricity to flood-hit Nepal to help it meet power requirements, further strengthening bilateral energy cooperation between the two nations.",
-        "hi": "भारत के बिजली मंत्रालय ने बाढ़ प्रभावित नेपाल को बिजली की जरूरतों को पूरा करने में मदद करने के लिए बिजली के शीघ्र निर्यात को मंजूरी दी, जिससे दोनों देशों के बीच द्विपक्षीय ऊर्जा सहयोग और मजबूत हुआ।"
+        "en": "The BNP Government of Bangladesh is reviewing 101 pacts signed with India to scrutinize agreements made by past governments over national interests.",
+        "hi": "बांग्लादेश की बीएनपी सरकार राष्ट्रीय हितों पर पिछली सरकारों द्वारा किए गए समझौतों की जांच करने के लिए भारत के साथ हस्ताक्षरित 101 समझौतों की समीक्षा कर रही है।"
       },
       "category": "International Summits",
+      "difficulty": "medium",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/policy/rssfeeds/1373380680.cms"
+    },
+    {
+      "id": "ca_20260916_09",
+      "question": {
+        "en": "Which court recently directed governments to enforce speed curb device norms on commercial vehicles?",
+        "hi": "हाल ही में किस अदालत ने सरकारों को वाणिज्यिक वाहनों पर गति नियंत्रण उपकरण मानदंडों को लागू करने का निर्देश दिया?"
+      },
+      "options": [
+        {
+          "en": "Delhi High Court",
+          "hi": "दिल्ली उच्च न्यायालय"
+        },
+        {
+          "en": "Supreme Court",
+          "hi": "सर्वोच्च न्यायालय"
+        },
+        {
+          "en": "Bombay High Court",
+          "hi": "बॉम्बे उच्च न्यायालय"
+        },
+        {
+          "en": "Madras High Court",
+          "hi": "मद्रास उच्च न्यायालय"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The Supreme Court (SC) directed state and central governments to rigorously enforce norms regarding the installation of speed governor devices on commercial vehicles.",
+        "hi": "सर्वोच्च न्यायालय (SC) ने राज्य और केंद्र सरकारों को वाणिज्यिक वाहनों पर गति नियंत्रक उपकरणों की स्थापना के संबंध में मानदंडों को सख्ती से लागू करने का निर्देश दिया।"
+      },
+      "category": "Polity & Governance",
       "difficulty": "easy",
-      "sourceUrl": "https://www.thehindu.com/business/Economy/india-approves-expedited-export-of-electricity-to-flood-hit-nepal/article71466141.ece"
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/enforce-speed-curb-device-norms-sc-to-govts/articleshow/134275530.cms"
     },
     {
-      "id": "ca_20260915_03",
+      "id": "ca_20260916_10",
       "question": {
-        "en": "India and which country recently began their next round of talks on a proposed trade pact, aiming to increase bilateral trade to $50 billion by 2030?",
-        "hi": "भारत और किस देश ने हाल ही में प्रस्तावित व्यापार समझौते पर अपने अगले दौर की बातचीत शुरू की है, जिसका लक्ष्य 2030 तक द्विपक्षीय व्यापार को $50 बिलियन तक बढ़ाना है?"
+        "en": "Over Rs 53 lakh crore has been transferred through Direct Benefit Transfer under which scheme that recently completed 12 years?",
+        "hi": "किस योजना के तहत, जिसने हाल ही में 12 साल पूरे किए हैं, प्रत्यक्ष लाभ अंतरण के माध्यम से 53 लाख करोड़ रुपये से अधिक हस्तांतरित किए गए हैं?"
       },
       "options": [
         {
-          "en": "United Kingdom",
-          "hi": "यूनाइटेड किंगडम (UK)"
+          "en": "Pradhan Mantri Jan Dhan Yojana",
+          "hi": "प्रधानमंत्री जन धन योजना"
         },
         {
-          "en": "Australia",
-          "hi": "ऑस्ट्रेलिया"
+          "en": "PM Kisan Samman Nidhi",
+          "hi": "पीएम किसान सम्मान निधि"
         },
         {
-          "en": "Canada",
-          "hi": "कनाडा"
+          "en": "Mahatma Gandhi NREGA",
+          "hi": "महात्मा गांधी नरेगा"
         },
         {
-          "en": "Germany",
-          "hi": "जर्मनी"
+          "en": "PM Awas Yojana",
+          "hi": "पीएम आवास योजना"
         }
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 0,
       "explanation": {
-        "en": "India and Canada have initiated the next round of negotiations on their proposed Comprehensive Economic Partnership Agreement (CEPA), targeting to increase bilateral trade to $50 billion by 2030.",
-        "hi": "भारत और कनाडा ने अपने प्रस्तावित व्यापक आर्थिक भागीदारी समझौते (CEPA) पर बातचीत का अगला दौर शुरू किया है, जिसका लक्ष्य 2030 तक द्विपक्षीय व्यापार को $50 बिलियन तक बढ़ाना है।"
-      },
-      "category": "Economy & Banking",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.thehindu.com/business/Economy/india-canada-begin-next-round-of-talks-on-proposed-trade-pact-official/article71465752.ece"
-    },
-    {
-      "id": "ca_20260915_04",
-      "question": {
-        "en": "According to the latest data, the Wholesale Price Index (WPI) inflation rose to what percentage in August 2026 due to rising prices of food, fuel, and manufactured items?",
-        "hi": "नवीनतम आंकड़ों के अनुसार, खाद्य, ईंधन और विनिर्मित वस्तुओं की बढ़ती कीमतों के कारण अगस्त 2026 में थोक मूल्य सूचकांक (WPI) मुद्रास्फीति बढ़कर कितने प्रतिशत हो गई?"
-      },
-      "options": [
-        {
-          "en": "6.54%",
-          "hi": "6.54%"
-        },
-        {
-          "en": "7.89%",
-          "hi": "7.89%"
-        },
-        {
-          "en": "8.37%",
-          "hi": "8.37%"
-        },
-        {
-          "en": "9.92%",
-          "hi": "9.92%"
-        }
-      ],
-      "correctAnswer": 3,
-      "explanation": {
-        "en": "WPI inflation rose to 9.92% in August 2026, driven by rising prices of food, fuel, and manufactured items. In manufactured items specifically, inflation hit a series high of 8.37%.",
-        "hi": "खाद्य, ईंधन और विनिर्मित वस्तुओं की बढ़ती कीमतों के कारण अगस्त 2026 में WPI मुद्रास्फीति बढ़कर 9.92% हो गई। विशेष रूप से विनिर्मित वस्तुओं में, मुद्रास्फीति 8.37% के रिकॉर्ड उच्च स्तर पर पहुंच गई।"
-      },
-      "category": "Economy & Banking",
-      "difficulty": "hard",
-      "sourceUrl": "https://www.thehindu.com/business/Economy/wpi-inflation-rises-to-992-in-august-on-rising-prices-of-food-fuel-manufactured-items/article71465582.ece"
-    },
-    {
-      "id": "ca_20260915_05",
-      "question": {
-        "en": "In a recent report, oil prices jumped over $3 per barrel due to new strikes in which critical maritime chokepoint?",
-        "hi": "हालिया रिपोर्ट में, किस महत्वपूर्ण समुद्री चोकपॉइंट (बाधा बिंदु) पर नए हमलों के कारण तेल की कीमतों में $3 प्रति बैरल से अधिक की वृद्धि हुई?"
-      },
-      "options": [
-        {
-          "en": "Suez Canal",
-          "hi": "स्वेज नहर"
-        },
-        {
-          "en": "Strait of Hormuz",
-          "hi": "होर्मुज जलडमरूमध्य"
-        },
-        {
-          "en": "Strait of Malacca",
-          "hi": "मलक्का जलडमरूमध्य"
-        },
-        {
-          "en": "Panama Canal",
-          "hi": "पनामा नहर"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "Oil prices jumped more than $3, with Brent crude futures rising to $108.23 per barrel, following new strikes in Saudi Arabia and the Strait of Hormuz, a crucial shipping lane for global oil supplies.",
-        "hi": "सऊदी अरब और वैश्विक तेल आपूर्ति के लिए एक महत्वपूर्ण शिपिंग लेन, होर्मुज जलडमरूमध्य में नए हमलों के बाद, ब्रेंट क्रूड वायदा $108.23 प्रति बैरल तक बढ़ने के साथ तेल की कीमतों में $3 से अधिक की वृद्धि हुई।"
-      },
-      "category": "Defence & Security",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.thehindu.com/business/markets/oil-prices-jump-more-than-3-after-new-strikes-on-saudi-strait-of-hormuz/article71465318.ece"
-    },
-    {
-      "id": "ca_20260915_06",
-      "question": {
-        "en": "The 'Western Dedicated Freight Corridor (DFC)' is considered the backbone of India's logistics push. What is the approximate total length of India's newly fully operational freight backbone?",
-        "hi": "'वेस्टर्न डेडिकेटेड फ्रेट कॉरिडोर (DFC)' को भारत के लॉजिस्टिक्स (रसद) अभियान की रीढ़ माना जाता है। भारत के नव पूर्ण रूप से चालू फ्रेट बैकबोन की अनुमानित कुल लंबाई कितनी है?"
-      },
-      "options": [
-        {
-          "en": "1,500 km",
-          "hi": "1,500 किमी"
-        },
-        {
-          "en": "2,843 km",
-          "hi": "2,843 किमी"
-        },
-        {
-          "en": "3,200 km",
-          "hi": "3,200 किमी"
-        },
-        {
-          "en": "4,500 km",
-          "hi": "4,500 किमी"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "The Western Dedicated Freight Corridor (DFC) is now fully operational, providing India with a 2,843-km long freight backbone. This significant infrastructure project aims to revolutionize the logistics sector in the country.",
-        "hi": "वेस्टर्न डेडिकेटेड फ्रेट कॉरिडोर (DFC) अब पूरी तरह से चालू हो गया है, जो भारत को 2,843 किलोमीटर लंबी माल ढुलाई रीढ़ (फ्रेट बैकबोन) प्रदान करता है। इस महत्वपूर्ण बुनियादी ढांचा परियोजना का उद्देश्य देश में रसद क्षेत्र में क्रांति लाना है।"
+        "en": "The Pradhan Mantri Jan Dhan Yojana (PMJDY) recently completed 12 years. It provides basic banking access, with over Rs 53 lakh crore transferred through Direct Benefit Transfer (DBT) and nearly 33 crore women holding accounts.",
+        "hi": "प्रधानमंत्री जन धन योजना (PMJDY) ने हाल ही में 12 साल पूरे किए हैं। यह बुनियादी बैंकिंग पहुंच प्रदान करता है, प्रत्यक्ष लाभ अंतरण (DBT) के माध्यम से 53 लाख करोड़ रुपये से अधिक हस्तांतरित किए गए हैं और लगभग 33 करोड़ महिलाओं के खाते हैं।"
       },
       "category": "Government Schemes",
-      "difficulty": "hard",
-      "sourceUrl": "https://www.thehindu.com/business/Economy/dfcs-the-backbone-of-indias-logistics-push/article71455054.ece"
-    },
-    {
-      "id": "ca_20260915_07",
-      "question": {
-        "en": "India's foreign exchange (forex) reserves recently jumped by a record amount to reach a new all-time high of how much?",
-        "hi": "भारत का विदेशी मुद्रा (forex) भंडार हाल ही में रिकॉर्ड राशि से बढ़कर कितने के नए सर्वकालिक उच्च स्तर पर पहुंच गया?"
-      },
-      "options": [
-        {
-          "en": "$650.5 billion",
-          "hi": "$650.5 बिलियन"
-        },
-        {
-          "en": "$700.2 billion",
-          "hi": "$700.2 बिलियन"
-        },
-        {
-          "en": "$740.803 billion",
-          "hi": "$740.803 बिलियन"
-        },
-        {
-          "en": "$800.5 billion",
-          "hi": "$800.5 बिलियन"
-        }
-      ],
-      "correctAnswer": 2,
-      "explanation": {
-        "en": "India's foreign exchange reserves witnessed a massive surge, increasing by a record $44.903 billion to hit a new all-time high of $740.803 billion. This robust reserve position strengthens the RBI's ability to manage currency volatility.",
-        "hi": "भारत के विदेशी मुद्रा भंडार में भारी उछाल देखा गया, जो रिकॉर्ड 44.903 बिलियन डॉलर बढ़कर 740.803 बिलियन डॉलर के नए सर्वकालिक उच्च स्तर पर पहुंच गया। यह मजबूत आरक्षित स्थिति मुद्रा अस्थिरता को प्रबंधित करने की RBI की क्षमता को मजबूत करती है।"
-      },
-      "category": "Economy & Banking",
-      "difficulty": "easy",
-      "sourceUrl": "https://www.thehindu.com/business/indias-forex-reserves-jump-by-a-record-44903-billion/article71457685.ece"
-    },
-    {
-      "id": "ca_20260915_08",
-      "question": {
-        "en": "The Centre has informed the Kerala High Court that an underwater survey will be conducted to assess the long-term impact of the sinking of which vessel off the Alappuzha coast?",
-        "hi": "केंद्र ने केरल उच्च न्यायालय को सूचित किया है कि अलाप्पुझा तट पर किस जहाज के डूबने के दीर्घकालिक प्रभाव का आकलन करने के लिए एक पानी के नीचे (अंडरवाटर) सर्वेक्षण किया जाएगा?"
-      },
-      "options": [
-        {
-          "en": "MV X-Press Pearl",
-          "hi": "एमवी एक्स-प्रेस पर्ल (MV X-Press Pearl)"
-        },
-        {
-          "en": "MSC Elsa 3",
-          "hi": "एमएससी एल्सा 3 (MSC Elsa 3)"
-        },
-        {
-          "en": "Ever Given",
-          "hi": "एवर गिवेन (Ever Given)"
-        },
-        {
-          "en": "INS Sindhurakshak",
-          "hi": "आईएनएस सिंधुरक्षक (INS Sindhurakshak)"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "The Centre informed the Kerala High Court about an underwater survey to evaluate the environmental impact of the Liberian-flagged vessel 'MSC Elsa 3', which sank off the Alappuzha coast, potentially causing marine damage.",
-        "hi": "केंद्र ने केरल उच्च न्यायालय को अलाप्पुझा तट पर डूबे लाइबेरिया के झंडे वाले जहाज 'MSC एल्सा 3' के पर्यावरणीय प्रभाव का मूल्यांकन करने के लिए एक अंडरवाटर सर्वेक्षण के बारे में सूचित किया, जिससे समुद्री क्षति होने की संभावना है।"
-      },
-      "category": "Environment & Ecology",
       "difficulty": "medium",
-      "sourceUrl": "https://www.thehindu.com/news/national/kerala/underwater-survey-to-be-done-to-assess-long-term-impact-of-msc-elsa-3-sinking-centre-informs-kerala-hc/article71466179.ece"
-    },
-    {
-      "id": "ca_20260915_09",
-      "question": {
-        "en": "Recent discussions on 'de-dollarisation' took place prominently at which major international bloc's Business Forum?",
-        "hi": "हाल ही में 'डी-डॉलरीकरण' (de-dollarisation) पर चर्चा मुख्य रूप से किस प्रमुख अंतरराष्ट्रीय गुट के बिजनेस फोरम में हुई?"
-      },
-      "options": [
-        {
-          "en": "G7",
-          "hi": "जी7 (G7)"
-        },
-        {
-          "en": "ASEAN",
-          "hi": "आसियान (ASEAN)"
-        },
-        {
-          "en": "BRICS",
-          "hi": "ब्रिक्स (BRICS)"
-        },
-        {
-          "en": "SCO",
-          "hi": "एससीओ (SCO)"
-        }
-      ],
-      "correctAnswer": 2,
-      "explanation": {
-        "en": "The issue of 'de-dollarisation' (reducing reliance on the US Dollar for international trade) remained a central theme at the recent BRICS Business Forum, with leaders discussing alternative payment systems, though not a common currency yet.",
-        "hi": "'डी-डॉलरीकरण' (अंतरराष्ट्रीय व्यापार के लिए अमेरिकी डॉलर पर निर्भरता कम करना) का मुद्दा हालिया ब्रिक्स (BRICS) बिजनेस फोरम में एक केंद्रीय विषय बना रहा, जिसमें नेताओं ने वैकल्पिक भुगतान प्रणालियों पर चर्चा की, हालांकि अभी तक कोई आम मुद्रा नहीं है।"
-      },
-      "category": "International Summits",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.thehindu.com/business/Economy/brics-treads-carefully-on-de-dollarisation-finance-track-talks-payments-not-a-common-currency/article71459353.ece"
-    },
-    {
-      "id": "ca_20260915_10",
-      "question": {
-        "en": "Recently, sequencing the genomes of eight species of which animal revealed longevity genes that overlap with cancer and virus defenses, explaining their unusually long lifespans of up to 50 years?",
-        "hi": "हाल ही में, किस जानवर की आठ प्रजातियों के जीनोम का अनुक्रमण करने से दीर्घायु जीन का पता चला है जो कैंसर और वायरस सुरक्षा के साथ ओवरलैप (समानता) करते हैं, जो उनके 50 वर्षों तक के असामान्य रूप से लंबे जीवनकाल की व्याख्या करते हैं?"
-      },
-      "options": [
-        {
-          "en": "Tortoises",
-          "hi": "कछुए"
-        },
-        {
-          "en": "Elephants",
-          "hi": "हाथी"
-        },
-        {
-          "en": "Myotis Bats",
-          "hi": "मायोटिस चमगादड़ (Myotis Bats)"
-        },
-        {
-          "en": "Whales",
-          "hi": "व्हेल"
-        }
-      ],
-      "correctAnswer": 2,
-      "explanation": {
-        "en": "A new scientific study sequenced the genomes of eight Myotis bat species, discovering that some can live up to 50 years. This longevity is linked to genes that also provide robust defenses against cancer and viral infections.",
-        "hi": "एक नए वैज्ञानिक अध्ययन ने आठ मायोटिस चमगादड़ (Myotis bat) प्रजातियों के जीनोम का अनुक्रमण किया, जिसमें पाया गया कि कुछ 50 वर्ष तक जीवित रह सकते हैं। यह लंबी उम्र उन जीनों से जुड़ी है जो कैंसर और वायरल संक्रमणों के खिलाफ मजबूत बचाव भी प्रदान करते हैं।"
-      },
-      "category": "Science & Technology",
-      "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/science/discovery/some-myotis-bats-can-live-50-years-while-close-relatives-live-just-7-sequencing-eight-species-found-longevity-genes-overlapping-with-cancer-and-virus-defenses/articleshow/134241745.cms"
+      "sourceUrl": "https://economictimes.indiatimes.com/rssfeeds/1286551815.cms"
     }
   ]
 }
