@@ -1,340 +1,340 @@
 {
-  "date": "2026-09-16",
+  "date": "2026-09-17",
   "topic": "SSC CGL Daily Current Affairs",
-  "source": "The Hindu / Economic Times / Times of India",
-  "lastUpdated": "2026-09-16T06:00:00+05:30",
+  "source": "PIB / The Hindu / Economic Times / Indian Express / GKToday",
+  "lastUpdated": "2026-09-17T05:15:10+05:30",
   "version": 1,
   "totalQuestions": 10,
   "quiz": [
     {
-      "id": "ca_20260916_01",
+      "id": "ca_20260917_01",
       "question": {
-        "en": "The joint military exercise 'Yudh Abhyas' is conducted between India and which country?",
-        "hi": "संयुक्त सैन्य अभ्यास 'युद्धाभ्यास' भारत और किस देश के बीच आयोजित किया जाता है?"
+        "en": "Recently, the Central Government has approved the hike in the Employees' Provident Fund Organisation (EPFO) wage ceiling from ₹15,000 to what amount per month?",
+        "hi": "हाल ही में, केंद्र सरकार ने कर्मचारी भविष्य निधि संगठन (EPFO) की वेतन सीमा को ₹15,000 से बढ़ाकर प्रति माह कितनी राशि करने की मंजूरी दी है?"
       },
       "options": [
         {
-          "en": "France",
-          "hi": "फ्रांस"
+          "en": "₹20,000",
+          "hi": "₹20,000"
         },
         {
-          "en": "Russia",
-          "hi": "रूस"
+          "en": "₹25,000",
+          "hi": "₹25,000"
         },
         {
-          "en": "USA",
-          "hi": "यूएसए"
+          "en": "₹30,000",
+          "hi": "₹30,000"
         },
         {
-          "en": "Japan",
-          "hi": "जापान"
+          "en": "₹35,000",
+          "hi": "₹35,000"
         }
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 1,
       "explanation": {
-        "en": "The India-US joint military exercise 'Yudh Abhyas' aims to improve interoperability and tackle emerging military challenges. It integrates technology, such as drones and autonomous systems, in mountainous and semi-mountainous areas.",
-        "hi": "भारत-अमेरिका संयुक्त सैन्य अभ्यास 'युद्धाभ्यास' का उद्देश्य अंतर-संचालन में सुधार करना और उभरती सैन्य चुनौतियों से निपटना है। यह पहाड़ी और अर्ध-पहाड़ी क्षेत्रों में ड्रोन और स्वायत्त प्रणालियों जैसी तकनीक को एकीकृत करता है।"
-      },
-      "category": "Defence & Security",
-      "difficulty": "easy",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/defence/rssfeeds/46687796.cms"
-    },
-    {
-      "id": "ca_20260916_02",
-      "question": {
-        "en": "In August, India's goods exports went up by what percentage, easing the trade deficit to a five-month low?",
-        "hi": "अगस्त में, भारत के माल निर्यात में कितने प्रतिशत की वृद्धि हुई, जिससे व्यापार घाटा पांच महीने के निचले स्तर पर आ गया?"
-      },
-      "options": [
-        {
-          "en": "10%",
-          "hi": "10%"
-        },
-        {
-          "en": "18%",
-          "hi": "18%"
-        },
-        {
-          "en": "26%",
-          "hi": "26%"
-        },
-        {
-          "en": "35%",
-          "hi": "35%"
-        }
-      ],
-      "correctAnswer": 2,
-      "explanation": {
-        "en": "India’s goods exports surged by 26% in August, driven by robust global demand. This narrowed the merchandise trade deficit to a five-month low as imports declined.",
-        "hi": "मजबूत वैश्विक मांग के कारण अगस्त में भारत के माल निर्यात में 26% की वृद्धि हुई। इससे व्यापार घाटा पांच महीने के निचले स्तर पर आ गया क्योंकि आयात में गिरावट आई।"
+        "en": "The Union Cabinet has approved raising the EPFO wage ceiling to ₹25,000 per month from ₹15,000 after 12 years. This move is expected to add 51 lakh to one crore new subscribers to the EPFO. The Employees' Provident Fund Organisation is a statutory body under the Ministry of Labour and Employment, Government of India.",
+        "hi": "केंद्रीय मंत्रिमंडल ने 12 वर्षों के बाद ईपीएफओ वेतन सीमा को ₹15,000 से बढ़ाकर ₹25,000 प्रति माह करने की मंजूरी दे दी है। इस कदम से ईपीएफओ में 51 लाख से एक करोड़ नए सदस्य जुड़ने की उम्मीद है। कर्मचारी भविष्य निधि संगठन, भारत सरकार के श्रम और रोजगार मंत्रालय के तहत एक वैधानिक निकाय है।"
       },
       "category": "Economy & Banking",
       "difficulty": "medium",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/policy/rssfeeds/1373380680.cms"
+      "sourceUrl": "https://www.thehindu.com/business/Economy/union-cabinet-approves-raising-epfo-wage-ceiling-to-25000-per-month-from-15000/article71471942.ece"
     },
     {
-      "id": "ca_20260916_03",
+      "id": "ca_20260917_02",
       "question": {
-        "en": "Which weather phenomenon has caused drought hitting 53% of India, affecting Kharif crops and winter sowing?",
-        "hi": "किस मौसम की घटना ने भारत के 53% हिस्से में सूखा पैदा कर दिया है, जिससे खरीफ फसलें और सर्दियों की बुवाई प्रभावित हो रही है?"
+        "en": "Which state recently achieved its plantation target ahead of schedule under the Aravali Green Development Project with an investment of ₹250 crore?",
+        "hi": "किस राज्य ने हाल ही में अरावली ग्रीन डेवलपमेंट प्रोजेक्ट के तहत ₹250 करोड़ के निवेश के साथ समय से पहले अपना वृक्षारोपण लक्ष्य हासिल कर लिया है?"
       },
       "options": [
         {
-          "en": "La Niña",
-          "hi": "ला नीना"
+          "en": "Gujarat",
+          "hi": "गुजरात"
         },
         {
-          "en": "El Niño",
-          "hi": "अल नीनो"
+          "en": "Haryana",
+          "hi": "हरियाणा"
         },
         {
-          "en": "Cyclone Amphan",
-          "hi": "चक्रवात अम्फान"
+          "en": "Rajasthan",
+          "hi": "राजस्थान"
         },
         {
-          "en": "Western Disturbances",
-          "hi": "पश्चिमी विक्षोभ"
+          "en": "Punjab",
+          "hi": "पंजाब"
         }
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": {
-        "en": "The El Niño effect has caused drought hitting more than 50% of India. It has severely stressed Kharif crops and raised concerns for upcoming winter sowing.",
-        "hi": "अल नीनो प्रभाव के कारण भारत के 50% से अधिक हिस्से में सूखा पड़ा है। इसने खरीफ फसलों को गंभीर रूप से तनाव में डाल दिया है और आगामी सर्दियों की बुवाई के लिए चिंताएं बढ़ा दी हैं।"
+        "en": "Rajasthan has achieved its plantation target ahead of schedule. Under the Aravali Green Development Project, ₹250 crore has been invested in 19 districts for soil development and plantation efforts. The Aravalli Range is a mountain range in Northwestern India, running approximately 670 km in a south-west direction, starting near Delhi, passing through southern Haryana and Rajasthan, and ending in Gujarat.",
+        "hi": "राजस्थान ने समय से पहले अपना वृक्षारोपण लक्ष्य हासिल कर लिया है। अरावली ग्रीन डेवलपमेंट प्रोजेक्ट के तहत, मिट्टी के विकास और वृक्षारोपण प्रयासों के लिए 19 जिलों में ₹250 करोड़ का निवेश किया गया है। अरावली पर्वतमाला उत्तर-पश्चिमी भारत में एक पर्वत श्रृंखला है, जो लगभग 670 किमी दक्षिण-पश्चिम दिशा में चलती है, जो दिल्ली के पास से शुरू होकर दक्षिणी हरियाणा और राजस्थान से होकर गुजरती है, और गुजरात में समाप्त होती है।"
       },
       "category": "Environment & Ecology",
-      "difficulty": "easy",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/policy/rssfeeds/1373380680.cms"
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/news/national/rajasthan/rajasthan-achieves-plantation-target-ahead-of-schedule/article71472889.ece"
     },
     {
-      "id": "ca_20260916_04",
+      "id": "ca_20260917_03",
       "question": {
-        "en": "The World Trade Organization (WTO) cited the trade deal between India and which entity as an example of a tailored enforcement mechanism?",
-        "hi": "विश्व व्यापार संगठन (WTO) ने भारत और किस संस्था के बीच व्यापार सौदे को एक अनुकूलित प्रवर्तन तंत्र के उदाहरण के रूप में उद्धृत किया?"
+        "en": "What is the revised windfall tax on the export of diesel per litre as announced by the Central Government recently?",
+        "hi": "हाल ही में केंद्र सरकार द्वारा घोषित डीजल के निर्यात पर प्रति लीटर संशोधित अप्रत्याशित कर (windfall tax) क्या है?"
       },
       "options": [
         {
-          "en": "European Union (EU)",
-          "hi": "यूरोपीय संघ (ईयू)"
+          "en": "₹15 per litre",
+          "hi": "₹15 प्रति लीटर"
         },
         {
-          "en": "EFTA",
-          "hi": "ईएफटीए"
+          "en": "₹20 per litre",
+          "hi": "₹20 प्रति लीटर"
         },
         {
-          "en": "ASEAN",
-          "hi": "आसियान"
+          "en": "₹25 per litre",
+          "hi": "₹25 प्रति लीटर"
         },
         {
-          "en": "African Union",
-          "hi": "अफ्रीकी संघ"
+          "en": "₹30 per litre",
+          "hi": "₹30 प्रति लीटर"
         }
       ],
       "correctAnswer": 1,
       "explanation": {
-        "en": "The WTO highlighted the India-EFTA trade deal as an example where unilateral enforcement mechanisms were tailored to achieve market access outcomes, allowing India to unilaterally reimpose tariffs if targets are not met.",
-        "hi": "विश्व व्यापार संगठन ने भारत-ईएफटीए व्यापार समझौते को एक उदाहरण के रूप में उजागर किया, जहां बाजार पहुंच परिणामों को प्राप्त करने के लिए एकतरफा प्रवर्तन तंत्र तैयार किए गए थे, जिससे यदि लक्ष्य पूरे नहीं होते हैं तो भारत को एकतरफा शुल्क फिर से लगाने की अनुमति मिलती है।"
+        "en": "The government has lowered export levies on petrol, diesel, and aviation turbine fuel (ATF). The duty on diesel exports has been cut to ₹20 per litre from ₹25 earlier. The levy on export of petrol has been cut to ₹0.5 per litre from ₹1.5 earlier. A windfall tax is a higher tax rate on sudden big profits levied on a particular company or industry.",
+        "hi": "सरकार ने पेट्रोल, डीजल और विमानन टरबाइन ईंधन (ATF) पर निर्यात शुल्क कम कर दिया है। डीजल निर्यात पर शुल्क पहले के ₹25 से घटाकर ₹20 प्रति लीटर कर दिया गया है। पेट्रोल के निर्यात पर लेवी पहले के ₹1.5 से घटाकर ₹0.5 प्रति लीटर कर दी गई है। अप्रत्याशित कर (Windfall tax) किसी विशेष कंपनी या उद्योग पर लगाए गए अचानक बड़े मुनाफे पर एक उच्च कर दर है।"
       },
       "category": "Economy & Banking",
       "difficulty": "hard",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/policy/rssfeeds/1373380680.cms"
+      "sourceUrl": "https://www.thehindu.com/business/govt-cuts-windfall-tax-on-export-of-petrol-diesel-and-atf/article71474189.ece"
     },
     {
-      "id": "ca_20260916_05",
+      "id": "ca_20260917_04",
       "question": {
-        "en": "The Bihar Cabinet has approved ₹3,516 crore for the area development of which temple and river link?",
-        "hi": "बिहार कैबिनेट ने किस मंदिर और नदी लिंक के क्षेत्र विकास के लिए ₹3,516 करोड़ को मंजूरी दी है?"
+        "en": "According to a recent report, by which period could the Himalayas reach a 'tipping point' where river flows stop rising and start declining (Peak water)?",
+        "hi": "हालिया रिपोर्ट के अनुसार, हिमालय किस अवधि तक 'टिपिंग पॉइंट' तक पहुँच सकता है जहाँ नदियों का प्रवाह बढ़ना बंद हो जाएगा और कम होने लगेगा (पीक वाटर)?"
       },
       "options": [
         {
-          "en": "Kashi Vishwanath and Ganga",
-          "hi": "काशी विश्वनाथ और गंगा"
+          "en": "By 2030",
+          "hi": "2030 तक"
         },
         {
-          "en": "Konark Sun Temple and Mahanadi",
-          "hi": "कोणार्क सूर्य मंदिर और महानदी"
+          "en": "By mid-century (2050)",
+          "hi": "मध्य-शताब्दी तक (2050)"
         },
         {
-          "en": "Vishnupad Temple and Son-Falgu",
-          "hi": "विष्णुपद मंदिर और सोन-फल्गु"
+          "en": "By 2075",
+          "hi": "2075 तक"
         },
         {
-          "en": "Somnath Temple and Narmada",
-          "hi": "सोमनाथ मंदिर और नर्मदा"
+          "en": "By end of the century (2100)",
+          "hi": "सदी के अंत तक (2100)"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "A new report warns that the Himalayas are approaching a tipping point. 'Peak water', the point in time when river flows stop rising and start declining, could happen by mid-century. The Himalayas are the source of major river systems like the Indus, the Ganges, and the Brahmaputra, providing water to millions of people.",
+        "hi": "एक नई रिपोर्ट में चेतावनी दी गई है कि हिमालय एक टिपिंग पॉइंट (tipping point) के करीब पहुंच रहा है। 'पीक वाटर', वह समय जब नदियों का प्रवाह बढ़ना बंद हो जाता है और कम होने लगता है, मध्य-शताब्दी तक हो सकता है। हिमालय सिंधु, गंगा और ब्रह्मपुत्र जैसी प्रमुख नदी प्रणालियों का स्रोत है, जो लाखों लोगों को पानी उपलब्ध कराता है।"
+      },
+      "category": "Environment & Ecology",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/sci-tech/energy-and-environment/himalaya-approaching-tipping-point-report-says/article71467426.ece"
+    },
+    {
+      "id": "ca_20260917_05",
+      "question": {
+        "en": "For the first time since 2023, the US Federal Reserve (led by Kevin Warsh) hiked its benchmark interest rate to what range?",
+        "hi": "2023 के बाद पहली बार, अमेरिकी फेडरल रिजर्व (केविन वॉर्श के नेतृत्व में) ने अपनी बेंचमार्क ब्याज दर को किस सीमा तक बढ़ा दिया है?"
+      },
+      "options": [
+        {
+          "en": "2.75 - 3.0%",
+          "hi": "2.75 - 3.0%"
+        },
+        {
+          "en": "3.25 - 3.5%",
+          "hi": "3.25 - 3.5%"
+        },
+        {
+          "en": "3.75 - 4.0%",
+          "hi": "3.75 - 4.0%"
+        },
+        {
+          "en": "4.25 - 4.5%",
+          "hi": "4.25 - 4.5%"
         }
       ],
       "correctAnswer": 2,
       "explanation": {
-        "en": "The Bihar Cabinet, chaired by Chief Minister Samrat Choudhary, approved ₹3,516 crore for the Vishnupad Temple area development and the Son-Falgu river link.",
-        "hi": "मुख्यमंत्री सम्राट चौधरी की अध्यक्षता में बिहार कैबिनेट ने विष्णुपद मंदिर क्षेत्र के विकास और सोन-फल्गु नदी लिंक के लिए ₹3,516 करोड़ को मंजूरी दी।"
+        "en": "The US Federal Open Market Committee (FOMC), currently led by Kevin Warsh, hiked the interest rate to the 3.75-4% range. This is the first interest rate hike by the Fed since 2023, coming on the back of persistent inflation. The Federal Reserve System is the central banking system of the United States of America.",
+        "hi": "केविन वॉर्श के नेतृत्व वाली अमेरिकी फेडरल ओपन मार्केट कमेटी (FOMC) ने ब्याज दर को 3.75-4% की सीमा तक बढ़ा दिया। 2023 के बाद से फेड द्वारा यह पहली ब्याज दर वृद्धि है, जो लगातार मुद्रास्फीति के कारण हुई है। फेडरल रिजर्व सिस्टम संयुक्त राज्य अमेरिका की केंद्रीय बैंकिंग प्रणाली है।"
       },
-      "category": "Government Schemes",
+      "category": "Economy & Banking",
       "difficulty": "medium",
-      "sourceUrl": "https://www.thehindu.com/news/national/bihar/bihar-cabinet-approves-3516-crore-for-vishnupad-temple-area-development-son-falgu-river-link/article71468849.ece"
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/international-business/us-federal-reserve-chair-kevin-warsh-led-fomc-hikes-interest-rate-to-3-75-4-range-first-time-since-2023/articleshow/134292267.cms"
     },
     {
-      "id": "ca_20260916_06",
+      "id": "ca_20260917_06",
       "question": {
-        "en": "Which major company recently agreed to share child safety information directly with Indian agencies?",
-        "hi": "किस प्रमुख कंपनी ने हाल ही में भारतीय एजेंसियों के साथ सीधे बाल सुरक्षा जानकारी साझा करने पर सहमति व्यक्त की है?"
+        "en": "The Supreme Court recently stated that an aggrieved party can seek the deletion of what kind of content from social media platforms?",
+        "hi": "सुप्रीम कोर्ट ने हाल ही में कहा है कि कोई पीड़ित पक्ष सोशल मीडिया प्लेटफॉर्म से किस प्रकार की सामग्री को हटाने की मांग कर सकता है?"
       },
       "options": [
         {
-          "en": "Alphabet (Google)",
-          "hi": "अल्फाबेट (गूगल)"
+          "en": "Fake political news",
+          "hi": "फर्जी राजनीतिक खबरें"
+        },
+        {
+          "en": "Court clips/proceedings",
+          "hi": "अदालत की क्लिप/कार्यवाही"
+        },
+        {
+          "en": "Defamatory movie reviews",
+          "hi": "मानहानिकारक फिल्म समीक्षाएं"
+        },
+        {
+          "en": "Unverified historical claims",
+          "hi": "असत्यापित ऐतिहासिक दावे"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The Supreme Court has ruled that an aggrieved party can seek the deletion of court clips on social media. The Court had earlier banned uploads of court proceedings without approval from the Supreme Court or High Courts. The Supreme Court of India is the supreme judicial body of the government of India and the highest court of India under the constitution (Article 124).",
+        "hi": "सुप्रीम कोर्ट ने फैसला दिया है कि एक पीड़ित पक्ष सोशल मीडिया पर अदालत की क्लिप को हटाने की मांग कर सकता है। न्यायालय ने पहले सुप्रीम कोर्ट या उच्च न्यायालयों की मंजूरी के बिना अदालती कार्यवाही को अपलोड करने पर प्रतिबंध लगा दिया था। भारत का सर्वोच्च न्यायालय भारत सरकार का सर्वोच्च न्यायिक निकाय है और संविधान (अनुच्छेद 124) के तहत भारत का सर्वोच्च न्यायालय है।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/aggrieved-party-can-seek-deletion-of-court-clips-on-socials-sc/articleshow/134296733.cms"
+    },
+    {
+      "id": "ca_20260917_07",
+      "question": {
+        "en": "In the context of the recent controversy over child abuse content, the Indian government questioned the 'safe harbour' status of which tech giant?",
+        "hi": "बाल शोषण सामग्री को लेकर हाल ही के विवाद के संदर्भ में, भारत सरकार ने किस तकनीकी दिग्गज की 'सुरक्षित पनाहगाह' (safe harbour) स्थिति पर सवाल उठाया?"
+      },
+      "options": [
+        {
+          "en": "Google",
+          "hi": "गूगल"
         },
         {
           "en": "Meta",
           "hi": "मेटा"
         },
         {
-          "en": "Amazon",
-          "hi": "अमेज़ॅन"
+          "en": "Microsoft",
+          "hi": "माइक्रोसॉफ्ट"
         },
         {
-          "en": "Apple",
-          "hi": "एप्पल"
+          "en": "X (Twitter)",
+          "hi": "एक्स (ट्विटर)"
         }
       ],
       "correctAnswer": 1,
       "explanation": {
-        "en": "Meta has agreed to share child safety information directly with Indian agencies, changing its earlier process.",
-        "hi": "मेटा ने अपनी पिछली प्रक्रिया को बदलते हुए भारतीय एजेंसियों के साथ सीधे बाल सुरक्षा जानकारी साझा करने पर सहमति व्यक्त की है।"
+        "en": "The Indian government is urging Meta to take more accountability for the online content shared on its platform following acknowledged shortcomings regarding child abuse content. Meta risks the loss of its intermediary 'safe harbour' immunity. Under Section 79 of the Information Technology Act, 2000, intermediaries are exempt from liability for third-party information or data made available or hosted by them.",
+        "hi": "बाल शोषण सामग्री के संबंध में कमियों को स्वीकार करने के बाद, भारत सरकार मेटा (Meta) से अपने मंच पर साझा की गई ऑनलाइन सामग्री के लिए अधिक जवाबदेही लेने का आग्रह कर रही है। मेटा को अपनी मध्यस्थ 'सेफ हार्बर' (safe harbour) प्रतिरक्षा खोने का जोखिम है। सूचना प्रौद्योगिकी अधिनियम, 2000 की धारा 79 के तहत, मध्यस्थों को उनके द्वारा उपलब्ध कराई गई या होस्ट की गई तृतीय-पक्ष जानकारी या डेटा के लिए दायित्व से छूट दी गई है।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/child-abuse-content-row-meta-admits-lapses-govt-questions-its-safe-harbour-status/articleshow/134296619.cms"
+    },
+    {
+      "id": "ca_20260917_08",
+      "question": {
+        "en": "Which important scientist was highlighted recently for her crucial photograph contributing to the discovery of DNA’s structure, but was not awarded the 1962 Nobel Prize?",
+        "hi": "डीएनए (DNA) की संरचना की खोज में योगदान देने वाली अपनी महत्वपूर्ण तस्वीर के लिए हाल ही में किस महत्वपूर्ण वैज्ञानिक को उजागर किया गया था, लेकिन उन्हें 1962 का नोबेल पुरस्कार नहीं दिया गया था?"
+      },
+      "options": [
+        {
+          "en": "Marie Curie",
+          "hi": "मैरी क्यूरी"
+        },
+        {
+          "en": "Rosalind Franklin",
+          "hi": "रोजालिंड फ्रैंकलिन"
+        },
+        {
+          "en": "Barbara McClintock",
+          "hi": "बारबरा मैकक्लिंटॉक"
+        },
+        {
+          "en": "Jane Goodall",
+          "hi": "जेन गुडॉल"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Rosalind Franklin’s photograph was crucial to discovering DNA’s structure. However, when the Nobel Prize for Physiology in 1962 was announced, it was awarded to Watson, Crick, and Wilkins. It was decades before Franklin’s true role in this path-breaking discovery came to be widely known. The Nobel Prize cannot be awarded posthumously.",
+        "hi": "डीएनए (DNA) की संरचना की खोज में रोजालिंड फ्रैंकलिन की तस्वीर महत्वपूर्ण थी। हालाँकि, जब 1962 में फिजियोलॉजी के लिए नोबेल पुरस्कार की घोषणा की गई, तो यह वाटसन, क्रिक और विल्किंस को दिया गया। इस पथ-प्रदर्शक खोज में फ्रैंकलिन की वास्तविक भूमिका को दुनिया भर में जाने जाने में दशकों लग गए। नोबेल पुरस्कार मरणोपरांत नहीं दिया जा सकता है।"
       },
       "category": "Science & Technology",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.thehindu.com/news/national/meta-says-will-report-child-safety-cases-directly-to-indian-cybercrime-portal/article71467015.ece"
+      "difficulty": "easy",
+      "sourceUrl": "https://www.thehindu.com/sci-tech/health/remembering-rosalind-franklin-whose-photograph-was-crucial-to-discovering-dnas-structure/article70743082.ece"
     },
     {
-      "id": "ca_20260916_07",
+      "id": "ca_20260917_09",
       "question": {
-        "en": "Bharat Forge and Pratt & Whitney have joined forces for the high-altitude defense drone 'UAV' program of which Indian organization?",
-        "hi": "भारत फोर्ज और प्रैट एंड व्हिटनी ने किस भारतीय संगठन के उच्च ऊंचाई वाले रक्षा ड्रोन 'UAV' कार्यक्रम के लिए हाथ मिलाया है?"
+        "en": "Recently, the US House passed a sanctions bill that could potentially lead to a 100% tariff threat for India regarding its energy dealings with which country?",
+        "hi": "हाल ही में, अमेरिकी सदन (US House) ने एक प्रतिबंध विधेयक पारित किया है जो किस देश के साथ ऊर्जा लेनदेन के संबंध में भारत के लिए 100% टैरिफ खतरे का कारण बन सकता है?"
       },
       "options": [
         {
-          "en": "ISRO",
-          "hi": "इसरो"
+          "en": "Iran",
+          "hi": "ईरान"
         },
         {
-          "en": "HAL",
-          "hi": "एचएएल"
+          "en": "Venezuela",
+          "hi": "वेनेज़ुएला"
         },
         {
-          "en": "DRDO",
-          "hi": "डीआरडीओ"
+          "en": "Russia",
+          "hi": "रूस"
         },
         {
-          "en": "BHEL",
-          "hi": "भेल"
+          "en": "Saudi Arabia",
+          "hi": "सऊदी अरब"
         }
       ],
       "correctAnswer": 2,
       "explanation": {
-        "en": "Bharat Forge and Pratt & Whitney Canada have joined forces to evaluate advanced turboprop engine integration for DRDO’s high-altitude defense drone 'UAV' program.",
-        "hi": "भारत फोर्ज और प्रैट एंड व्हिटनी कनाडा ने डीआरडीओ के उच्च ऊंचाई वाले रक्षा ड्रोन 'यूएवी' कार्यक्रम के लिए उन्नत टर्बोप्रॉप इंजन एकीकरण का मूल्यांकन करने के लिए हाथ मिलाया है।"
-      },
-      "category": "Defence & Security",
-      "difficulty": "hard",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/defence/rssfeeds/46687796.cms"
-    },
-    {
-      "id": "ca_20260916_08",
-      "question": {
-        "en": "The BNP Government of which country is reviewing 101 pacts signed with India?",
-        "hi": "किस देश की बीएनपी सरकार भारत के साथ हुए 101 समझौतों की समीक्षा कर रही है?"
-      },
-      "options": [
-        {
-          "en": "Nepal",
-          "hi": "नेपाल"
-        },
-        {
-          "en": "Bhutan",
-          "hi": "भूटान"
-        },
-        {
-          "en": "Bangladesh",
-          "hi": "बांग्लादेश"
-        },
-        {
-          "en": "Maldives",
-          "hi": "मालदीव"
-        }
-      ],
-      "correctAnswer": 2,
-      "explanation": {
-        "en": "The BNP Government of Bangladesh is reviewing 101 pacts signed with India to scrutinize agreements made by past governments over national interests.",
-        "hi": "बांग्लादेश की बीएनपी सरकार राष्ट्रीय हितों पर पिछली सरकारों द्वारा किए गए समझौतों की जांच करने के लिए भारत के साथ हस्ताक्षरित 101 समझौतों की समीक्षा कर रही है।"
+        "en": "The US House passed a sanctions bill aimed at Russian officials and the energy sector. This legislation empowers the US President to impose tariffs on significant buyers of Russian oil. India might encounter a staggering 100% tariff on its imports due to its continued energy dealings with Russia.",
+        "hi": "अमेरिकी सदन ने रूसी अधिकारियों और ऊर्जा क्षेत्र के उद्देश्य से एक प्रतिबंध विधेयक पारित किया। यह कानून अमेरिकी राष्ट्रपति को रूसी तेल के महत्वपूर्ण खरीदारों पर टैरिफ लगाने का अधिकार देता है। रूस के साथ अपने निरंतर ऊर्जा सौदों के कारण भारत को अपने आयात पर 100% टैरिफ का सामना करना पड़ सकता है।"
       },
       "category": "International Summits",
       "difficulty": "medium",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/policy/rssfeeds/1373380680.cms"
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/international-business/after-senate-us-house-passes-russia-sanctions-bill-100-tariff-threat-looms-for-india/articleshow/134296683.cms"
     },
     {
-      "id": "ca_20260916_09",
+      "id": "ca_20260917_10",
       "question": {
-        "en": "Which court recently directed governments to enforce speed curb device norms on commercial vehicles?",
-        "hi": "हाल ही में किस अदालत ने सरकारों को वाणिज्यिक वाहनों पर गति नियंत्रण उपकरण मानदंडों को लागू करने का निर्देश दिया?"
+        "en": "Chief Minister Omar Abdullah recently asked a delegation from which region to not trust the Centre unless it's a 'written deal'?",
+        "hi": "मुख्यमंत्री उमर अब्दुल्ला ने हाल ही में किस क्षेत्र के एक प्रतिनिधिमंडल से कहा कि वे केंद्र पर तब तक भरोसा न करें जब तक कि यह 'लिखित सौदा' (written deal) न हो?"
       },
       "options": [
         {
-          "en": "Delhi High Court",
-          "hi": "दिल्ली उच्च न्यायालय"
+          "en": "Kargil",
+          "hi": "कारगिल"
         },
         {
-          "en": "Supreme Court",
-          "hi": "सर्वोच्च न्यायालय"
+          "en": "Ladakh",
+          "hi": "लद्दाख"
         },
         {
-          "en": "Bombay High Court",
-          "hi": "बॉम्बे उच्च न्यायालय"
+          "en": "Gilgit",
+          "hi": "गिलगित"
         },
         {
-          "en": "Madras High Court",
-          "hi": "मद्रास उच्च न्यायालय"
+          "en": "Aksai Chin",
+          "hi": "अक्साई चिन"
         }
       ],
       "correctAnswer": 1,
       "explanation": {
-        "en": "The Supreme Court (SC) directed state and central governments to rigorously enforce norms regarding the installation of speed governor devices on commercial vehicles.",
-        "hi": "सर्वोच्च न्यायालय (SC) ने राज्य और केंद्र सरकारों को वाणिज्यिक वाहनों पर गति नियंत्रक उपकरणों की स्थापना के संबंध में मानदंडों को सख्ती से लागू करने का निर्देश दिया।"
+        "en": "Jammu & Kashmir Chief Minister Omar Abdullah recently advised a Ladakhi delegation to not trust the Central Government unless any agreement or deal is provided in writing. Ladakh was made a separate Union Territory without a legislature on October 31, 2019, following the abrogation of Article 370.",
+        "hi": "जम्मू और कश्मीर के मुख्यमंत्री उमर अब्दुल्ला ने हाल ही में एक लद्दाखी प्रतिनिधिमंडल को सलाह दी कि जब तक कोई समझौता या सौदा लिखित रूप में न दिया जाए, तब तक केंद्र सरकार पर भरोसा न करें। अनुच्छेद 370 को निरस्त करने के बाद 31 अक्टूबर 2019 को लद्दाख को बिना विधायिका के एक अलग केंद्र शासित प्रदेश बनाया गया था।"
       },
       "category": "Polity & Governance",
       "difficulty": "easy",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/enforce-speed-curb-device-norms-sc-to-govts/articleshow/134275530.cms"
-    },
-    {
-      "id": "ca_20260916_10",
-      "question": {
-        "en": "Over Rs 53 lakh crore has been transferred through Direct Benefit Transfer under which scheme that recently completed 12 years?",
-        "hi": "किस योजना के तहत, जिसने हाल ही में 12 साल पूरे किए हैं, प्रत्यक्ष लाभ अंतरण के माध्यम से 53 लाख करोड़ रुपये से अधिक हस्तांतरित किए गए हैं?"
-      },
-      "options": [
-        {
-          "en": "Pradhan Mantri Jan Dhan Yojana",
-          "hi": "प्रधानमंत्री जन धन योजना"
-        },
-        {
-          "en": "PM Kisan Samman Nidhi",
-          "hi": "पीएम किसान सम्मान निधि"
-        },
-        {
-          "en": "Mahatma Gandhi NREGA",
-          "hi": "महात्मा गांधी नरेगा"
-        },
-        {
-          "en": "PM Awas Yojana",
-          "hi": "पीएम आवास योजना"
-        }
-      ],
-      "correctAnswer": 0,
-      "explanation": {
-        "en": "The Pradhan Mantri Jan Dhan Yojana (PMJDY) recently completed 12 years. It provides basic banking access, with over Rs 53 lakh crore transferred through Direct Benefit Transfer (DBT) and nearly 33 crore women holding accounts.",
-        "hi": "प्रधानमंत्री जन धन योजना (PMJDY) ने हाल ही में 12 साल पूरे किए हैं। यह बुनियादी बैंकिंग पहुंच प्रदान करता है, प्रत्यक्ष लाभ अंतरण (DBT) के माध्यम से 53 लाख करोड़ रुपये से अधिक हस्तांतरित किए गए हैं और लगभग 33 करोड़ महिलाओं के खाते हैं।"
-      },
-      "category": "Government Schemes",
-      "difficulty": "medium",
-      "sourceUrl": "https://economictimes.indiatimes.com/rssfeeds/1286551815.cms"
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/dont-trust-centre-unless-its-a-written-deal-omar-tells-ladakhi-delegation/articleshow/134296549.cms"
     }
   ]
 }

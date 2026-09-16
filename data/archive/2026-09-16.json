@@ -1,0 +1,340 @@
+{
+  "date": "2026-09-16",
+  "topic": "SSC CGL Daily Current Affairs",
+  "source": "The Hindu / Economic Times / Times of India",
+  "lastUpdated": "2026-09-16T06:00:00+05:30",
+  "version": 1,
+  "totalQuestions": 10,
+  "quiz": [
+    {
+      "id": "ca_20260916_01",
+      "question": {
+        "en": "The joint military exercise 'Yudh Abhyas' is conducted between India and which country?",
+        "hi": "संयुक्त सैन्य अभ्यास 'युद्धाभ्यास' भारत और किस देश के बीच आयोजित किया जाता है?"
+      },
+      "options": [
+        {
+          "en": "France",
+          "hi": "फ्रांस"
+        },
+        {
+          "en": "Russia",
+          "hi": "रूस"
+        },
+        {
+          "en": "USA",
+          "hi": "यूएसए"
+        },
+        {
+          "en": "Japan",
+          "hi": "जापान"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The India-US joint military exercise 'Yudh Abhyas' aims to improve interoperability and tackle emerging military challenges. It integrates technology, such as drones and autonomous systems, in mountainous and semi-mountainous areas.",
+        "hi": "भारत-अमेरिका संयुक्त सैन्य अभ्यास 'युद्धाभ्यास' का उद्देश्य अंतर-संचालन में सुधार करना और उभरती सैन्य चुनौतियों से निपटना है। यह पहाड़ी और अर्ध-पहाड़ी क्षेत्रों में ड्रोन और स्वायत्त प्रणालियों जैसी तकनीक को एकीकृत करता है।"
+      },
+      "category": "Defence & Security",
+      "difficulty": "easy",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/defence/rssfeeds/46687796.cms"
+    },
+    {
+      "id": "ca_20260916_02",
+      "question": {
+        "en": "In August, India's goods exports went up by what percentage, easing the trade deficit to a five-month low?",
+        "hi": "अगस्त में, भारत के माल निर्यात में कितने प्रतिशत की वृद्धि हुई, जिससे व्यापार घाटा पांच महीने के निचले स्तर पर आ गया?"
+      },
+      "options": [
+        {
+          "en": "10%",
+          "hi": "10%"
+        },
+        {
+          "en": "18%",
+          "hi": "18%"
+        },
+        {
+          "en": "26%",
+          "hi": "26%"
+        },
+        {
+          "en": "35%",
+          "hi": "35%"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "India’s goods exports surged by 26% in August, driven by robust global demand. This narrowed the merchandise trade deficit to a five-month low as imports declined.",
+        "hi": "मजबूत वैश्विक मांग के कारण अगस्त में भारत के माल निर्यात में 26% की वृद्धि हुई। इससे व्यापार घाटा पांच महीने के निचले स्तर पर आ गया क्योंकि आयात में गिरावट आई।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "medium",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/policy/rssfeeds/1373380680.cms"
+    },
+    {
+      "id": "ca_20260916_03",
+      "question": {
+        "en": "Which weather phenomenon has caused drought hitting 53% of India, affecting Kharif crops and winter sowing?",
+        "hi": "किस मौसम की घटना ने भारत के 53% हिस्से में सूखा पैदा कर दिया है, जिससे खरीफ फसलें और सर्दियों की बुवाई प्रभावित हो रही है?"
+      },
+      "options": [
+        {
+          "en": "La Niña",
+          "hi": "ला नीना"
+        },
+        {
+          "en": "El Niño",
+          "hi": "अल नीनो"
+        },
+        {
+          "en": "Cyclone Amphan",
+          "hi": "चक्रवात अम्फान"
+        },
+        {
+          "en": "Western Disturbances",
+          "hi": "पश्चिमी विक्षोभ"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The El Niño effect has caused drought hitting more than 50% of India. It has severely stressed Kharif crops and raised concerns for upcoming winter sowing.",
+        "hi": "अल नीनो प्रभाव के कारण भारत के 50% से अधिक हिस्से में सूखा पड़ा है। इसने खरीफ फसलों को गंभीर रूप से तनाव में डाल दिया है और आगामी सर्दियों की बुवाई के लिए चिंताएं बढ़ा दी हैं।"
+      },
+      "category": "Environment & Ecology",
+      "difficulty": "easy",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/policy/rssfeeds/1373380680.cms"
+    },
+    {
+      "id": "ca_20260916_04",
+      "question": {
+        "en": "The World Trade Organization (WTO) cited the trade deal between India and which entity as an example of a tailored enforcement mechanism?",
+        "hi": "विश्व व्यापार संगठन (WTO) ने भारत और किस संस्था के बीच व्यापार सौदे को एक अनुकूलित प्रवर्तन तंत्र के उदाहरण के रूप में उद्धृत किया?"
+      },
+      "options": [
+        {
+          "en": "European Union (EU)",
+          "hi": "यूरोपीय संघ (ईयू)"
+        },
+        {
+          "en": "EFTA",
+          "hi": "ईएफटीए"
+        },
+        {
+          "en": "ASEAN",
+          "hi": "आसियान"
+        },
+        {
+          "en": "African Union",
+          "hi": "अफ्रीकी संघ"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The WTO highlighted the India-EFTA trade deal as an example where unilateral enforcement mechanisms were tailored to achieve market access outcomes, allowing India to unilaterally reimpose tariffs if targets are not met.",
+        "hi": "विश्व व्यापार संगठन ने भारत-ईएफटीए व्यापार समझौते को एक उदाहरण के रूप में उजागर किया, जहां बाजार पहुंच परिणामों को प्राप्त करने के लिए एकतरफा प्रवर्तन तंत्र तैयार किए गए थे, जिससे यदि लक्ष्य पूरे नहीं होते हैं तो भारत को एकतरफा शुल्क फिर से लगाने की अनुमति मिलती है।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "hard",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/policy/rssfeeds/1373380680.cms"
+    },
+    {
+      "id": "ca_20260916_05",
+      "question": {
+        "en": "The Bihar Cabinet has approved ₹3,516 crore for the area development of which temple and river link?",
+        "hi": "बिहार कैबिनेट ने किस मंदिर और नदी लिंक के क्षेत्र विकास के लिए ₹3,516 करोड़ को मंजूरी दी है?"
+      },
+      "options": [
+        {
+          "en": "Kashi Vishwanath and Ganga",
+          "hi": "काशी विश्वनाथ और गंगा"
+        },
+        {
+          "en": "Konark Sun Temple and Mahanadi",
+          "hi": "कोणार्क सूर्य मंदिर और महानदी"
+        },
+        {
+          "en": "Vishnupad Temple and Son-Falgu",
+          "hi": "विष्णुपद मंदिर और सोन-फल्गु"
+        },
+        {
+          "en": "Somnath Temple and Narmada",
+          "hi": "सोमनाथ मंदिर और नर्मदा"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The Bihar Cabinet, chaired by Chief Minister Samrat Choudhary, approved ₹3,516 crore for the Vishnupad Temple area development and the Son-Falgu river link.",
+        "hi": "मुख्यमंत्री सम्राट चौधरी की अध्यक्षता में बिहार कैबिनेट ने विष्णुपद मंदिर क्षेत्र के विकास और सोन-फल्गु नदी लिंक के लिए ₹3,516 करोड़ को मंजूरी दी।"
+      },
+      "category": "Government Schemes",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/news/national/bihar/bihar-cabinet-approves-3516-crore-for-vishnupad-temple-area-development-son-falgu-river-link/article71468849.ece"
+    },
+    {
+      "id": "ca_20260916_06",
+      "question": {
+        "en": "Which major company recently agreed to share child safety information directly with Indian agencies?",
+        "hi": "किस प्रमुख कंपनी ने हाल ही में भारतीय एजेंसियों के साथ सीधे बाल सुरक्षा जानकारी साझा करने पर सहमति व्यक्त की है?"
+      },
+      "options": [
+        {
+          "en": "Alphabet (Google)",
+          "hi": "अल्फाबेट (गूगल)"
+        },
+        {
+          "en": "Meta",
+          "hi": "मेटा"
+        },
+        {
+          "en": "Amazon",
+          "hi": "अमेज़ॅन"
+        },
+        {
+          "en": "Apple",
+          "hi": "एप्पल"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Meta has agreed to share child safety information directly with Indian agencies, changing its earlier process.",
+        "hi": "मेटा ने अपनी पिछली प्रक्रिया को बदलते हुए भारतीय एजेंसियों के साथ सीधे बाल सुरक्षा जानकारी साझा करने पर सहमति व्यक्त की है।"
+      },
+      "category": "Science & Technology",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/news/national/meta-says-will-report-child-safety-cases-directly-to-indian-cybercrime-portal/article71467015.ece"
+    },
+    {
+      "id": "ca_20260916_07",
+      "question": {
+        "en": "Bharat Forge and Pratt & Whitney have joined forces for the high-altitude defense drone 'UAV' program of which Indian organization?",
+        "hi": "भारत फोर्ज और प्रैट एंड व्हिटनी ने किस भारतीय संगठन के उच्च ऊंचाई वाले रक्षा ड्रोन 'UAV' कार्यक्रम के लिए हाथ मिलाया है?"
+      },
+      "options": [
+        {
+          "en": "ISRO",
+          "hi": "इसरो"
+        },
+        {
+          "en": "HAL",
+          "hi": "एचएएल"
+        },
+        {
+          "en": "DRDO",
+          "hi": "डीआरडीओ"
+        },
+        {
+          "en": "BHEL",
+          "hi": "भेल"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Bharat Forge and Pratt & Whitney Canada have joined forces to evaluate advanced turboprop engine integration for DRDO’s high-altitude defense drone 'UAV' program.",
+        "hi": "भारत फोर्ज और प्रैट एंड व्हिटनी कनाडा ने डीआरडीओ के उच्च ऊंचाई वाले रक्षा ड्रोन 'यूएवी' कार्यक्रम के लिए उन्नत टर्बोप्रॉप इंजन एकीकरण का मूल्यांकन करने के लिए हाथ मिलाया है।"
+      },
+      "category": "Defence & Security",
+      "difficulty": "hard",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/defence/rssfeeds/46687796.cms"
+    },
+    {
+      "id": "ca_20260916_08",
+      "question": {
+        "en": "The BNP Government of which country is reviewing 101 pacts signed with India?",
+        "hi": "किस देश की बीएनपी सरकार भारत के साथ हुए 101 समझौतों की समीक्षा कर रही है?"
+      },
+      "options": [
+        {
+          "en": "Nepal",
+          "hi": "नेपाल"
+        },
+        {
+          "en": "Bhutan",
+          "hi": "भूटान"
+        },
+        {
+          "en": "Bangladesh",
+          "hi": "बांग्लादेश"
+        },
+        {
+          "en": "Maldives",
+          "hi": "मालदीव"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The BNP Government of Bangladesh is reviewing 101 pacts signed with India to scrutinize agreements made by past governments over national interests.",
+        "hi": "बांग्लादेश की बीएनपी सरकार राष्ट्रीय हितों पर पिछली सरकारों द्वारा किए गए समझौतों की जांच करने के लिए भारत के साथ हस्ताक्षरित 101 समझौतों की समीक्षा कर रही है।"
+      },
+      "category": "International Summits",
+      "difficulty": "medium",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/policy/rssfeeds/1373380680.cms"
+    },
+    {
+      "id": "ca_20260916_09",
+      "question": {
+        "en": "Which court recently directed governments to enforce speed curb device norms on commercial vehicles?",
+        "hi": "हाल ही में किस अदालत ने सरकारों को वाणिज्यिक वाहनों पर गति नियंत्रण उपकरण मानदंडों को लागू करने का निर्देश दिया?"
+      },
+      "options": [
+        {
+          "en": "Delhi High Court",
+          "hi": "दिल्ली उच्च न्यायालय"
+        },
+        {
+          "en": "Supreme Court",
+          "hi": "सर्वोच्च न्यायालय"
+        },
+        {
+          "en": "Bombay High Court",
+          "hi": "बॉम्बे उच्च न्यायालय"
+        },
+        {
+          "en": "Madras High Court",
+          "hi": "मद्रास उच्च न्यायालय"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The Supreme Court (SC) directed state and central governments to rigorously enforce norms regarding the installation of speed governor devices on commercial vehicles.",
+        "hi": "सर्वोच्च न्यायालय (SC) ने राज्य और केंद्र सरकारों को वाणिज्यिक वाहनों पर गति नियंत्रक उपकरणों की स्थापना के संबंध में मानदंडों को सख्ती से लागू करने का निर्देश दिया।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/enforce-speed-curb-device-norms-sc-to-govts/articleshow/134275530.cms"
+    },
+    {
+      "id": "ca_20260916_10",
+      "question": {
+        "en": "Over Rs 53 lakh crore has been transferred through Direct Benefit Transfer under which scheme that recently completed 12 years?",
+        "hi": "किस योजना के तहत, जिसने हाल ही में 12 साल पूरे किए हैं, प्रत्यक्ष लाभ अंतरण के माध्यम से 53 लाख करोड़ रुपये से अधिक हस्तांतरित किए गए हैं?"
+      },
+      "options": [
+        {
+          "en": "Pradhan Mantri Jan Dhan Yojana",
+          "hi": "प्रधानमंत्री जन धन योजना"
+        },
+        {
+          "en": "PM Kisan Samman Nidhi",
+          "hi": "पीएम किसान सम्मान निधि"
+        },
+        {
+          "en": "Mahatma Gandhi NREGA",
+          "hi": "महात्मा गांधी नरेगा"
+        },
+        {
+          "en": "PM Awas Yojana",
+          "hi": "पीएम आवास योजना"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "The Pradhan Mantri Jan Dhan Yojana (PMJDY) recently completed 12 years. It provides basic banking access, with over Rs 53 lakh crore transferred through Direct Benefit Transfer (DBT) and nearly 33 crore women holding accounts.",
+        "hi": "प्रधानमंत्री जन धन योजना (PMJDY) ने हाल ही में 12 साल पूरे किए हैं। यह बुनियादी बैंकिंग पहुंच प्रदान करता है, प्रत्यक्ष लाभ अंतरण (DBT) के माध्यम से 53 लाख करोड़ रुपये से अधिक हस्तांतरित किए गए हैं और लगभग 33 करोड़ महिलाओं के खाते हैं।"
+      },
+      "category": "Government Schemes",
+      "difficulty": "medium",
+      "sourceUrl": "https://economictimes.indiatimes.com/rssfeeds/1286551815.cms"
+    }
+  ]
+}
