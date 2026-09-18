@@ -1,0 +1,340 @@
+{
+  "date": "2026-09-18",
+  "topic": "SSC CGL Daily Current Affairs",
+  "source": "PIB / The Hindu / Economic Times / Indian Express / GKToday",
+  "lastUpdated": "2026-09-18T05:30:00+05:30",
+  "version": 1,
+  "totalQuestions": 10,
+  "quiz": [
+    {
+      "id": "ca_20260918_01",
+      "question": {
+        "en": "In the 16th round of commercial auctions, how many coal blocks did the government recently put on sale?",
+        "hi": "वाणिज्यिक नीलामी के 16वें दौर में, सरकार ने हाल ही में कितने कोयला ब्लॉकों को बिक्री के लिए रखा है?"
+      },
+      "options": [
+        {
+          "en": "15",
+          "hi": "15"
+        },
+        {
+          "en": "20",
+          "hi": "20"
+        },
+        {
+          "en": "25",
+          "hi": "25"
+        },
+        {
+          "en": "30",
+          "hi": "30"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The government has put 25 coal blocks on sale in the 16th round of commercial auctions across nine states including Arunachal Pradesh, Bihar, Chhattisgarh, and Jharkhand.",
+        "hi": "सरकार ने अरुणाचल प्रदेश, बिहार, छत्तीसगढ़ और झारखंड सहित नौ राज्यों में वाणिज्यिक नीलामी के 16वें दौर में 25 कोयला ब्लॉकों को बिक्री के लिए रखा है।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.thehindu.com/"
+    },
+    {
+      "id": "ca_20260918_02",
+      "question": {
+        "en": "Which country recently cracked down on student and backpacker visas to curb migration, barring foreign students from bringing partners and children?",
+        "hi": "हाल ही में किस देश ने प्रवासन को रोकने के लिए छात्र और बैकपैकर वीजा पर नकेल कसी है, जिससे विदेशी छात्रों को अपने साथी और बच्चों को लाने से रोक दिया गया है?"
+      },
+      "options": [
+        {
+          "en": "Canada",
+          "hi": "कनाडा"
+        },
+        {
+          "en": "United Kingdom",
+          "hi": "यूनाइटेड किंगडम"
+        },
+        {
+          "en": "Australia",
+          "hi": "ऑस्ट्रेलिया"
+        },
+        {
+          "en": "New Zealand",
+          "hi": "न्यूज़ीलैंड"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Australia has cracked down on student and backpacker visas to curb migration, introducing measures like barring foreign students from bringing their partners and children.",
+        "hi": "ऑस्ट्रेलिया ने प्रवासन को रोकने के लिए छात्र और बैकपैकर वीजा पर नकेल कसी है, जिसमें विदेशी छात्रों को अपने साथी और बच्चों को लाने से रोकने जैसे उपाय शामिल हैं।"
+      },
+      "category": "International Summits",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/"
+    },
+    {
+      "id": "ca_20260918_03",
+      "question": {
+        "en": "Who recently broke Rohit Sharma's record by hitting a 30-ball century against Afghanistan in a T20I match?",
+        "hi": "हाल ही में अफगानिस्तान के खिलाफ T20I मैच में 30 गेंदों में शतक जड़कर रोहित शर्मा का रिकॉर्ड किसने तोड़ा?"
+      },
+      "options": [
+        {
+          "en": "Shubman Gill",
+          "hi": "शुभमन गिल"
+        },
+        {
+          "en": "Abhishek Sharma",
+          "hi": "अभिषेक शर्मा"
+        },
+        {
+          "en": "Yashasvi Jaiswal",
+          "hi": "यशस्वी जायसवाल"
+        },
+        {
+          "en": "Ruturaj Gaikwad",
+          "hi": "रुतुराज गायकवाड़"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Abhishek Sharma smashed a century in just 30 balls against Afghanistan, breaking Rohit Sharma's previous Indian record of a 35-ball T20I century.",
+        "hi": "अभिषेक शर्मा ने अफगानिस्तान के खिलाफ मात्र 30 गेंदों में शतक जड़कर रोहित शर्मा के 35 गेंदों में T20I शतक लगाने के पिछले भारतीय रिकॉर्ड को तोड़ दिया।"
+      },
+      "category": "Sports",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/"
+    },
+    {
+      "id": "ca_20260918_04",
+      "question": {
+        "en": "Which country recently kicked off voting for its first parliamentary election since the beginning of the Ukraine war?",
+        "hi": "यूक्रेन युद्ध की शुरुआत के बाद से किस देश ने हाल ही में अपने पहले संसदीय चुनाव के लिए मतदान शुरू किया है?"
+      },
+      "options": [
+        {
+          "en": "Belarus",
+          "hi": "बेलारूस"
+        },
+        {
+          "en": "Russia",
+          "hi": "रूस"
+        },
+        {
+          "en": "Poland",
+          "hi": "पोलैंड"
+        },
+        {
+          "en": "Ukraine",
+          "hi": "यूक्रेन"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Russia has kicked off voting in its first parliamentary election since the war in Ukraine began.",
+        "hi": "यूक्रेन में युद्ध शुरू होने के बाद से रूस ने अपने पहले संसदीय चुनाव में मतदान शुरू कर दिया है।"
+      },
+      "category": "International Summits",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/"
+    },
+    {
+      "id": "ca_20260918_05",
+      "question": {
+        "en": "Which European mountain massif has witnessed more frequent rock collapses recently due to shrinking alpine glaciers and thawing permafrost?",
+        "hi": "सिकुड़ते अल्पाइन ग्लेशियरों और पिघलते पर्माफ्रॉस्ट के कारण हाल ही में किस यूरोपीय पर्वत श्रृंखला में चट्टानों के गिरने की घटनाएँ अधिक देखी गई हैं?"
+      },
+      "options": [
+        {
+          "en": "Matterhorn",
+          "hi": "मैटरहॉर्न"
+        },
+        {
+          "en": "Mount Elbrus",
+          "hi": "माउंट एल्ब्रस"
+        },
+        {
+          "en": "Mont Blanc",
+          "hi": "मोंट ब्लांक"
+        },
+        {
+          "en": "Dolomites",
+          "hi": "डोलोमाइट्स"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The Mont Blanc massif has seen more frequent rock collapses as escalating temperatures cause alpine glaciers to shrink and permafrost to thaw, leading to unstable cliffs.",
+        "hi": "मोंट ब्लांक पर्वत श्रृंखला में चट्टानों के गिरने की घटनाएं अधिक देखी गई हैं क्योंकि बढ़ते तापमान के कारण अल्पाइन ग्लेशियर सिकुड़ रहे हैं और पर्माफ्रॉस्ट पिघल रहा है, जिससे चट्टानें अस्थिर हो रही हैं।"
+      },
+      "category": "Environment & Ecology",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/"
+    },
+    {
+      "id": "ca_20260918_06",
+      "question": {
+        "en": "Recent research reveals that warming temperatures can cause which carbon-storing ecosystems to shift rapidly from being carbon sinks to carbon emitters?",
+        "hi": "हाल के शोध से पता चलता है कि गर्म तापमान के कारण कौन सा कार्बन-भंडारण पारिस्थितिकी तंत्र कार्बन सिंक से कार्बन उत्सर्जक के रूप में तेजी से बदल सकता है?"
+      },
+      "options": [
+        {
+          "en": "Coral Reefs",
+          "hi": "प्रवाल भित्तियाँ"
+        },
+        {
+          "en": "Peatlands",
+          "hi": "पीटलैंड्स (दलदली भूमि)"
+        },
+        {
+          "en": "Mangroves",
+          "hi": "मैंग्रोव"
+        },
+        {
+          "en": "Kelp Forests",
+          "hi": "केल्प वन"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Researchers have observed that peatlands, which store significant global soil carbon, are shifting from carbon accumulators to carbon emitters due to warming temperatures.",
+        "hi": "शोधकर्ताओं ने पाया है कि पीटलैंड्स, जो महत्वपूर्ण वैश्विक मिट्टी कार्बन जमा करते हैं, गर्म तापमान के कारण कार्बन संचयक से कार्बन उत्सर्जक में बदल रहे हैं।"
+      },
+      "category": "Environment & Ecology",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/"
+    },
+    {
+      "id": "ca_20260918_07",
+      "question": {
+        "en": "Which Indian athlete, a bronze medallist at the Asian Championships in China, recently highlighted the logistical issues and accommodation mess at the Asian Games in Nagoya, Japan?",
+        "hi": "चीन में एशियाई चैंपियनशिप के कांस्य पदक विजेता किस भारतीय एथलीट ने हाल ही में जापान के नागोया में एशियाई खेलों में रसद के मुद्दों और आवास की अव्यवस्था को उजागर किया है?"
+      },
+      "options": [
+        {
+          "en": "Neeraj Chopra",
+          "hi": "नीरज चोपड़ा"
+        },
+        {
+          "en": "Sanyal",
+          "hi": "सान्याल"
+        },
+        {
+          "en": "Avinash Sable",
+          "hi": "अविनाश साबले"
+        },
+        {
+          "en": "Tajinderpal Singh Toor",
+          "hi": "तजिंदरपाल सिंह तूर"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Indian athlete Sanyal, a bronze medallist at the Asian Championships, detailed his struggles with accommodation at the Asian Games in Japan, describing himself as a 'ghost in their system'.",
+        "hi": "एशियाई चैंपियनशिप में कांस्य पदक विजेता भारतीय एथलीट सान्याल ने जापान में एशियाई खेलों में आवास के साथ अपने संघर्ष का विवरण दिया और खुद को 'उनके सिस्टम में एक भूत' बताया।"
+      },
+      "category": "Sports",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/"
+    },
+    {
+      "id": "ca_20260918_08",
+      "question": {
+        "en": "According to a new research study on climate change impacts, what percentage of children in India are exposed to one more month of heat stress annually?",
+        "hi": "जलवायु परिवर्तन के प्रभावों पर एक नए शोध अध्ययन के अनुसार, भारत में कितने प्रतिशत बच्चे सालाना एक अतिरिक्त महीने के गर्मी के तनाव के संपर्क में आते हैं?"
+      },
+      "options": [
+        {
+          "en": "41%",
+          "hi": "41%"
+        },
+        {
+          "en": "51%",
+          "hi": "51%"
+        },
+        {
+          "en": "61%",
+          "hi": "61%"
+        },
+        {
+          "en": "71%",
+          "hi": "71%"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "New research reveals that 61 percent of Indian children face extra heat stress annually, as climate change has doubled young children's exposure to dangerous heat levels.",
+        "hi": "नए शोध से पता चलता है कि 61 प्रतिशत भारतीय बच्चे सालाना अतिरिक्त गर्मी के तनाव का सामना करते हैं, क्योंकि जलवायु परिवर्तन ने खतरनाक गर्मी के स्तर के प्रति छोटे बच्चों के संपर्क को दोगुना कर दिया है।"
+      },
+      "category": "Environment & Ecology",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/"
+    },
+    {
+      "id": "ca_20260918_09",
+      "question": {
+        "en": "Which Parliamentary committee recently pulled up the Railways for having deficient bio-toilets in around 96% of surveyed stations, ignoring observations made since 2007?",
+        "hi": "किस संसदीय समिति ने हाल ही में 2007 से की गई टिप्पणियों की अनदेखी करते हुए सर्वेक्षण किए गए लगभग 96% स्टेशनों में दोषपूर्ण बायो-टॉयलेट होने के लिए रेलवे को फटकार लगाई है?"
+      },
+      "options": [
+        {
+          "en": "Estimates Committee",
+          "hi": "प्राक्कलन समिति"
+        },
+        {
+          "en": "Committee on Public Undertakings",
+          "hi": "सार्वजनिक उपक्रम समिति"
+        },
+        {
+          "en": "Public Accounts Committee (PAC)",
+          "hi": "लोक लेखा समिति (PAC)"
+        },
+        {
+          "en": "Standing Committee on Railways",
+          "hi": "रेलवे पर स्थायी समिति"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The Public Accounts Committee (PAC) pulled up the Railways over gaps in passenger amenities, citing a CAG report that found 96% of surveyed stations had deficient bio-toilets.",
+        "hi": "लोक लेखा समिति (PAC) ने यात्री सुविधाओं में कमियों को लेकर रेलवे को फटकार लगाई, कैग (CAG) की एक रिपोर्ट का हवाला देते हुए जिसमें पाया गया कि सर्वेक्षण किए गए 96% स्टेशनों में दोषपूर्ण बायो-टॉयलेट थे।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "hard",
+      "sourceUrl": "https://www.thehindu.com/"
+    },
+    {
+      "id": "ca_20260918_10",
+      "question": {
+        "en": "Tropical Storm Karina, which recently strengthened into a Category 1 hurricane with winds of 80 mph, developed in which ocean?",
+        "hi": "उष्णकटिबंधीय तूफान करीना, जो हाल ही में 80 मील प्रति घंटे की हवाओं के साथ श्रेणी 1 के तूफान में बदल गया, किस महासागर में विकसित हुआ?"
+      },
+      "options": [
+        {
+          "en": "Atlantic Ocean",
+          "hi": "अटलांटिक महासागर"
+        },
+        {
+          "en": "Indian Ocean",
+          "hi": "हिंद महासागर"
+        },
+        {
+          "en": "Pacific Ocean",
+          "hi": "प्रशांत महासागर"
+        },
+        {
+          "en": "Southern Ocean",
+          "hi": "दक्षिणी महासागर"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Tropical Storm Karina strengthened into a Category 1 hurricane in the Pacific Ocean, with its swells likely to cause dangerous surf conditions along parts of southwest Mexico.",
+        "hi": "उष्णकटिबंधीय तूफान करीना प्रशांत महासागर में श्रेणी 1 के तूफान में बदल गया, जिससे दक्षिण-पश्चिम मैक्सिको के कुछ हिस्सों में खतरनाक सर्फ की स्थिति पैदा होने की संभावना है।"
+      },
+      "category": "Environment & Ecology",
+      "difficulty": "hard",
+      "sourceUrl": "https://timesofindia.indiatimes.com/"
+    }
+  ]
+}
