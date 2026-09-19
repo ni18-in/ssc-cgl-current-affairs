@@ -1,0 +1,340 @@
+{
+  "date": "2026-09-19",
+  "topic": "SSC CGL Daily Current Affairs",
+  "source": "PIB / The Hindu / Economic Times / Indian Express / GKToday",
+  "lastUpdated": "2026-09-19T06:00:00+05:30",
+  "version": 1,
+  "totalQuestions": 10,
+  "quiz": [
+    {
+      "category": "Environment & Ecology",
+      "question": {
+        "en": "According to a recent study, which part of India is drying the fastest, with most persistent drought hotspots along the eastern coast?",
+        "hi": "हाल ही के एक अध्ययन के अनुसार, भारत का कौन सा हिस्सा सबसे तेजी से सूख रहा है, जिसमें पूर्वी तट के साथ सबसे लगातार सूखे के हॉटस्पॉट हैं?"
+      },
+      "options": [
+        {
+          "en": "Northern India",
+          "hi": "उत्तरी भारत"
+        },
+        {
+          "en": "Western India",
+          "hi": "पश्चिमी भारत"
+        },
+        {
+          "en": "Southern India",
+          "hi": "दक्षिणी भारत"
+        },
+        {
+          "en": "North-Eastern India",
+          "hi": "उत्तर-पूर्वी भारत"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "A recent study reveals southern India is drying fastest, with persistent drought hotspots along its eastern coast, while the northwest has become the country's heat epicentre.",
+        "hi": "हाल के एक अध्ययन से पता चलता है कि दक्षिणी भारत सबसे तेजी से सूख रहा है, इसके पूर्वी तट पर लगातार सूखे के हॉटस्पॉट हैं, जबकि उत्तर-पश्चिम देश का गर्मी का केंद्र बन गया है।"
+      },
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/home/environment/southern-india-drying-fastest-most-persistent-drought-hotspots-along-eastern-coast-study/articleshow/134341650.cms",
+      "id": "ca_20260919_01"
+    },
+    {
+      "category": "Science & Technology",
+      "question": {
+        "en": "Scientists recently identified a new small, slender wild cat species named 'Tilcayo' in the cloud forests of which country?",
+        "hi": "वैज्ञानिकों ने हाल ही में किस देश के क्लाउड वनों में 'टिलकायो' नामक एक नई छोटी, पतली जंगली बिल्ली प्रजाति की पहचान की है?"
+      },
+      "options": [
+        {
+          "en": "Brazil",
+          "hi": "ब्राज़ील"
+        },
+        {
+          "en": "Bolivia",
+          "hi": "बोलीविया"
+        },
+        {
+          "en": "Peru",
+          "hi": "पेरू"
+        },
+        {
+          "en": "Colombia",
+          "hi": "कोलंबिया"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Scientists have identified a new wild cat species in Bolivia's cloud forests. This small, slender cat, known locally as Tilcayo, is genetically distinct from other known tiger cat species.",
+        "hi": "वैज्ञानिकों ने बोलीविया के क्लाउड वनों में एक नई जंगली बिल्ली प्रजाति की पहचान की है। यह छोटी, पतली बिल्ली, जिसे स्थानीय रूप से टिलकायो के रूप में जाना जाता है, आनुवंशिक रूप से अन्य ज्ञात बाघ बिल्ली प्रजातियों से अलग है।"
+      },
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/science/meet-tilcayo-the-tiny-wild-cat-discovered-in-bolivias-cloud-forests-after-more-than-a-century/articleshow/134316459.cms",
+      "id": "ca_20260919_02"
+    },
+    {
+      "category": "Appointments & Commissions",
+      "question": {
+        "en": "Who is currently considered the frontrunner to become the next chief selector for the Indian men's senior cricket team if Ajit Agarkar's tenure is not extended?",
+        "hi": "यदि अजीत अगरकर का कार्यकाल नहीं बढ़ाया जाता है, तो वर्तमान में भारतीय पुरुष वरिष्ठ क्रिकेट टीम के अगले मुख्य चयनकर्ता बनने के लिए किसे सबसे आगे माना जा रहा है?"
+      },
+      "options": [
+        {
+          "en": "Zaheer Khan",
+          "hi": "ज़हीर खान"
+        },
+        {
+          "en": "Parthiv Patel",
+          "hi": "पार्थिव पटेल"
+        },
+        {
+          "en": "Ashish Nehra",
+          "hi": "आशीष नेहरा"
+        },
+        {
+          "en": "VVS Laxman",
+          "hi": "वीवीएस लक्ष्मण"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Parthiv Patel is considered a strong candidate to lead the men's senior selection committee if the BCCI does not extend Ajit Agarkar's tenure, which is scheduled to end next month.",
+        "hi": "यदि बीसीसीआई अजीत अगरकर के कार्यकाल को नहीं बढ़ाता है, जो अगले महीने समाप्त होने वाला है, तो पार्थिव पटेल को पुरुष वरिष्ठ चयन समिति का नेतृत्व करने के लिए एक मजबूत उम्मीदवार माना जाता है।"
+      },
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/parthiv-patel-frontrunner-for-chief-selector-if-ajit-agarkar-bcci-fail-to-agree-extension/articleshow/134330891.cms",
+      "id": "ca_20260919_03"
+    },
+    {
+      "category": "Sports",
+      "question": {
+        "en": "Which sport is making its debut at the Asian Games 2026, in which India's Quimcy Dsouza recently reached the semifinals?",
+        "hi": "एशियाई खेल 2026 में कौन सा खेल अपनी शुरुआत कर रहा है, जिसमें भारत की क्विम्सी डिसूजा हाल ही में सेमीफाइनल में पहुंची हैं?"
+      },
+      "options": [
+        {
+          "en": "Pickleball",
+          "hi": "पिकलबॉल"
+        },
+        {
+          "en": "Padel",
+          "hi": "पैडल"
+        },
+        {
+          "en": "Teqball",
+          "hi": "टेकबॉल"
+        },
+        {
+          "en": "Breakdancing",
+          "hi": "ब्रेकडांसिंग"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Teqball is one of the six sports making its Asian Games debut in 2026. India's Quimcy Dsouza reached the semifinals, securing a chance for a historic medal.",
+        "hi": "टेकबॉल 2026 में एशियाई खेलों में पदार्पण करने वाले छह खेलों में से एक है। भारत की क्विम्सी डिसूजा ऐतिहासिक पदक का मौका सुरक्षित करते हुए सेमीफाइनल में पहुंचीं।"
+      },
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-indias-quimcy-dsouza-reaches-teqball-semis-one-win-away-from-historic-medal-mixed-doubles-pair-eyes-bronze/articleshow/134334516.cms",
+      "id": "ca_20260919_04"
+    },
+    {
+      "category": "Sports",
+      "question": {
+        "en": "Which Indian 400m hurdler is returning to the Asian Games in Aichi-Nagoya in 2026 after winning a 'paper bronze' in the 2018 edition?",
+        "hi": "कौन सी भारतीय 400 मीटर बाधा दौड़ धाविका 2018 संस्करण में 'पेपर कांस्य' जीतने के बाद 2026 में आइची-नागोया में एशियाई खेलों में वापसी कर रही हैं?"
+      },
+      "options": [
+        {
+          "en": "Hima Das",
+          "hi": "हिमा दास"
+        },
+        {
+          "en": "Anu Raghavan",
+          "hi": "अनु राघवन"
+        },
+        {
+          "en": "Dutee Chand",
+          "hi": "दुती चंद"
+        },
+        {
+          "en": "Vithya Ramraj",
+          "hi": "विथ्या रामराज"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Anu Raghavan, an Indian 400m hurdler who had a heartbreak in Rio and won a controversial 'paper bronze' in 2018, is returning to the 2026 Asian Games chasing a podium finish.",
+        "hi": "अनु राघवन, एक भारतीय 400 मीटर हर्डलर, जिन्हें रियो में दिल टूटने का सामना करना पड़ा और 2018 में एक विवादास्पद 'पेपर कांस्य' जीता था, 2026 के एशियाई खेलों में पोडियम फिनिश का पीछा करते हुए वापसी कर रही हैं।"
+      },
+      "difficulty": "hard",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games-2026/anu-raghavan-and-the-pursuit-of-asian-games-podium-she-never-got-despite-a-medal/articleshow/134330112.cms",
+      "id": "ca_20260919_05"
+    },
+    {
+      "category": "Polity & Governance",
+      "question": {
+        "en": "The Supreme Court of India recently noted that the 'presumption of guilt' does not make the prosecution case the 'gospel truth'. This aligns with the fundamental principle of criminal jurisprudence protected under which article of the Indian Constitution?",
+        "hi": "भारत के सर्वोच्च न्यायालय ने हाल ही में कहा कि 'अपराध की धारणा' अभियोजन पक्ष के मामले को 'ईश्वरीय सत्य' नहीं बनाती है। यह भारतीय संविधान के किस अनुच्छेद के तहत संरक्षित आपराधिक न्यायशास्त्र के मूल सिद्धांत के अनुरूप है?"
+      },
+      "options": [
+        {
+          "en": "Article 14",
+          "hi": "अनुच्छेद 14"
+        },
+        {
+          "en": "Article 19",
+          "hi": "अनुच्छेद 19"
+        },
+        {
+          "en": "Article 21",
+          "hi": "अनुच्छेद 21"
+        },
+        {
+          "en": "Article 32",
+          "hi": "अनुच्छेद 32"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The Supreme Court observed that a presumption of guilt in special statutes doesn't relieve the prosecution of proving its case beyond reasonable doubt, safeguarding the right to life and personal liberty under Article 21.",
+        "hi": "सुप्रीम कोर्ट ने कहा कि विशेष कानूनों में अपराध की धारणा अभियोजन पक्ष को उचित संदेह से परे अपना मामला साबित करने से मुक्त नहीं करती है, जो अनुच्छेद 21 के तहत जीवन और व्यक्तिगत स्वतंत्रता के अधिकार की रक्षा करती है।"
+      },
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/presumption-of-guilt-doesnt-make-prosecution-case-gospel-truth-sc/articleshow/134345571.cms",
+      "id": "ca_20260919_06"
+    },
+    {
+      "category": "International Summits",
+      "question": {
+        "en": "The United States is reportedly reaching a deal with which country for 'permanent security control' over Greenland?",
+        "hi": "कथित तौर पर संयुक्त राज्य अमेरिका ग्रीनलैंड पर 'स्थायी सुरक्षा नियंत्रण' के लिए किस देश के साथ एक समझौते पर पहुँच रहा है?"
+      },
+      "options": [
+        {
+          "en": "Canada",
+          "hi": "कनाडा"
+        },
+        {
+          "en": "Norway",
+          "hi": "नॉर्वे"
+        },
+        {
+          "en": "Iceland",
+          "hi": "आइसलैंड"
+        },
+        {
+          "en": "Denmark",
+          "hi": "डेनमार्क"
+        }
+      ],
+      "correctAnswer": 3,
+      "explanation": {
+        "en": "The US and Denmark are in final discussions to enhance US military operations in Greenland, aiming to establish permanent security control without infringing on Greenland's autonomy as a Danish territory.",
+        "hi": "अमेरिका और डेनमार्क ग्रीनलैंड में अमेरिकी सैन्य अभियानों को बढ़ाने के लिए अंतिम चर्चा में हैं, जिसका उद्देश्य डेनिश क्षेत्र के रूप में ग्रीनलैंड की स्वायत्तता का उल्लंघन किए बिना स्थायी सुरक्षा नियंत्रण स्थापित करना है।"
+      },
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/us-reaches-deal-with-denmark-for-permanent-security-control-over-greenland-says-donald-trump/articleshow/134343806.cms",
+      "id": "ca_20260919_07"
+    },
+    {
+      "category": "Environment & Ecology",
+      "question": {
+        "en": "The Trump administration has recently moved to scrap carbon limits on coal and gas power plants, a policy originally introduced during whose presidency?",
+        "hi": "ट्रम्प प्रशासन ने हाल ही में कोयला और गैस बिजली संयंत्रों पर कार्बन सीमा को खत्म करने का कदम उठाया है, यह नीति मूल रूप से किसके राष्ट्रपति काल में पेश की गई थी?"
+      },
+      "options": [
+        {
+          "en": "George W. Bush",
+          "hi": "जॉर्ज डब्ल्यू बुश"
+        },
+        {
+          "en": "Barack Obama",
+          "hi": "बराक ओबामा"
+        },
+        {
+          "en": "Joe Biden",
+          "hi": "जो बाइडेन"
+        },
+        {
+          "en": "Bill Clinton",
+          "hi": "बिल क्लिंटन"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The Trump administration plans to repeal the Biden-era emission limits for power plants, removing restrictions on a major source of greenhouse gas pollution in the US.",
+        "hi": "ट्रम्प प्रशासन बिजली संयंत्रों के लिए बिडेन-युग की उत्सर्जन सीमा को निरस्त करने की योजना बना रहा है, जिससे अमेरिका में ग्रीनहाउस गैस प्रदूषण के एक प्रमुख स्रोत पर से प्रतिबंध हट जाएगा।"
+      },
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/unleash-american-energy-trump-moves-to-scrap-biden-era-carbon-limits-on-us-coal-gas-power-plants/articleshow/134244398.cms",
+      "id": "ca_20260919_08"
+    },
+    {
+      "category": "Science & Technology",
+      "question": {
+        "en": "A vaccine for which mosquito-borne viral infection is expected to hit the Indian market by the first half of 2027?",
+        "hi": "मच्छर जनित किस वायरल संक्रमण का टीका 2027 की पहली छमाही तक भारतीय बाजार में आने की उम्मीद है?"
+      },
+      "options": [
+        {
+          "en": "Malaria",
+          "hi": "मलेरिया"
+        },
+        {
+          "en": "Dengue",
+          "hi": "डेंगू"
+        },
+        {
+          "en": "Zika",
+          "hi": "जीका"
+        },
+        {
+          "en": "Chikungunya",
+          "hi": "चिकनगुनिया"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "According to recent reports, a vaccine for Dengue fever is undergoing trials and is expected to hit the Indian market by the first half of 2027 to combat the rising cases of the disease.",
+        "hi": "हालिया रिपोर्टों के अनुसार, डेंगू बुखार के लिए एक टीके का परीक्षण चल रहा है और बीमारी के बढ़ते मामलों से निपटने के लिए 2027 की पहली छमाही तक इसके भारतीय बाजार में आने की उम्मीद है।"
+      },
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/dengue-vaccine-to-hit-market-by-first-half-of-2027/articleshow/134343715.cms",
+      "id": "ca_20260919_09"
+    },
+    {
+      "category": "Economy & Banking",
+      "question": {
+        "en": "The Uri centre in Jammu & Kashmir, which was previously meant for cross-LoC trade, is being transformed into what type of facility?",
+        "hi": "जम्मू और कश्मीर में उरी केंद्र, जो पहले एलओसी के पार व्यापार के लिए था, को किस प्रकार की सुविधा में बदला जा रहा है?"
+      },
+      "options": [
+        {
+          "en": "Military Base",
+          "hi": "सैन्य अड्डा"
+        },
+        {
+          "en": "Special Economic Zone (SEZ)",
+          "hi": "विशेष आर्थिक क्षेत्र (SEZ)"
+        },
+        {
+          "en": "Border Tourism Hub",
+          "hi": "सीमा पर्यटन केंद्र"
+        },
+        {
+          "en": "IT Park",
+          "hi": "आईटी पार्क"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The Uri trading centre, originally established for cross-Line of Control (LoC) trade, is now being developed into a border tourism hub to boost local economy and attract visitors.",
+        "hi": "उरी व्यापार केंद्र, जो मूल रूप से नियंत्रण रेखा (LoC) के पार व्यापार के लिए स्थापित किया गया था, अब स्थानीय अर्थव्यवस्था को बढ़ावा देने और आगंतुकों को आकर्षित करने के लिए एक सीमा पर्यटन केंद्र के रूप में विकसित किया जा रहा है।"
+      },
+      "difficulty": "hard",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/uri-centre-meant-for-cross-loc-trade-will-be-border-tourism-hub/articleshow/134342466.cms",
+      "id": "ca_20260919_10"
+    }
+  ]
+}
