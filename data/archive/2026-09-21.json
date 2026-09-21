@@ -1,0 +1,340 @@
+{
+  "date": "2026-09-21",
+  "topic": "SSC CGL Daily Current Affairs",
+  "source": "PIB / The Hindu / Economic Times / Indian Express / GKToday",
+  "lastUpdated": "2026-09-21T06:00:00+05:30",
+  "version": 1,
+  "totalQuestions": 10,
+  "quiz": [
+    {
+      "id": "ca_20260921_01",
+      "question": {
+        "en": "Which Indian company signed an agreement with an American drone firm to exclusively manufacture Guardian interceptor anti-drone systems in India?",
+        "hi": "भारत में विशेष रूप से गार्जियन इंटरसेप्टर एंटी-ड्रोन सिस्टम के निर्माण के लिए किस भारतीय कंपनी ने एक अमेरिकी ड्रोन फर्म के साथ समझौते पर हस्ताक्षर किए?"
+      },
+      "options": [
+        {
+          "en": "Bharat Electronics Limited",
+          "hi": "भारत इलेक्ट्रॉनिक्स लिमिटेड"
+        },
+        {
+          "en": "Paras Defence",
+          "hi": "पारस डिफेंस"
+        },
+        {
+          "en": "Hindustan Aeronautics Limited",
+          "hi": "हिंदुस्तान एयरोनॉटिक्स लिमिटेड"
+        },
+        {
+          "en": "Larsen & Toubro",
+          "hi": "लार्सन एंड टुब्रो"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Paras Defence signed a deal to exclusively manufacture and commercialize Guardian interceptor anti-drone systems in India, in partnership with a US drone firm.",
+        "hi": "पारस डिफेंस ने एक अमेरिकी ड्रोन फर्म की साझेदारी में भारत में गार्जियन इंटरसेप्टर एंटी-ड्रोन सिस्टम को विशेष रूप से निर्मित और व्यावसायिक बनाने के लिए एक समझौते पर हस्ताक्षर किए।"
+      },
+      "category": "Defence & Security",
+      "difficulty": "medium",
+      "sourceUrl": "https://economictimes.indiatimes.com"
+    },
+    {
+      "id": "ca_20260921_02",
+      "question": {
+        "en": "Navies of India and which other country are currently engaged in the thirteenth edition of their bilateral maritime exercise, SLINEX-26, in Visakhapatnam?",
+        "hi": "भारत और किस अन्य देश की नौसेनाएं वर्तमान में विशाखापत्तनम में अपने द्विपक्षीय समुद्री अभ्यास, SLINEX-26 के तेरहवें संस्करण में भाग ले रही हैं?"
+      },
+      "options": [
+        {
+          "en": "Singapore",
+          "hi": "सिंगापुर"
+        },
+        {
+          "en": "Sri Lanka",
+          "hi": "श्रीलंका"
+        },
+        {
+          "en": "Japan",
+          "hi": "जापान"
+        },
+        {
+          "en": "Australia",
+          "hi": "ऑस्ट्रेलिया"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The Navies of India and Sri Lanka are participating in the thirteenth edition of their bilateral maritime exercise, SLINEX-26, in Visakhapatnam to strengthen maritime cooperation.",
+        "hi": "भारत और श्रीलंका की नौसेनाएं समुद्री सहयोग को मजबूत करने के लिए विशाखापत्तनम में अपने द्विपक्षीय समुद्री अभ्यास, SLINEX-26 के तेरहवें संस्करण में भाग ले रही हैं।"
+      },
+      "category": "Defence & Security",
+      "difficulty": "easy",
+      "sourceUrl": "https://economictimes.indiatimes.com"
+    },
+    {
+      "id": "ca_20260921_03",
+      "question": {
+        "en": "Pakistani Interior Minister Mohsin Naqvi recently scheduled a visit to which country to address bilateral agreements and rising West Asian tensions?",
+        "hi": "पाकिस्तानी गृह मंत्री मोहसिन नकवी ने हाल ही में द्विपक्षीय समझौतों और बढ़ते पश्चिम एशियाई तनाव को दूर करने के लिए किस देश की यात्रा निर्धारित की?"
+      },
+      "options": [
+        {
+          "en": "Saudi Arabia",
+          "hi": "सऊदी अरब"
+        },
+        {
+          "en": "Iran",
+          "hi": "ईरान"
+        },
+        {
+          "en": "United Arab Emirates",
+          "hi": "संयुक्त अरब अमीरात"
+        },
+        {
+          "en": "Turkey",
+          "hi": "तुर्की"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Pakistan's Interior Minister Mohsin Naqvi was set to visit Tehran, Iran, to discuss bilateral ties and the escalating situation in West Asia.",
+        "hi": "पाकिस्तान के गृह मंत्री मोहसिन नकवी द्विपक्षीय संबंधों और पश्चिम एशिया में बढ़ती स्थिति पर चर्चा करने के लिए तेहरान, ईरान की यात्रा करने वाले थे।"
+      },
+      "category": "International Summits",
+      "difficulty": "easy",
+      "sourceUrl": "https://economictimes.indiatimes.com"
+    },
+    {
+      "id": "ca_20260921_04",
+      "question": {
+        "en": "Which European country's Prime Minister, Giorgia Meloni, recently unveiled new regulations limiting foreign students per class and banning face coverings like burqas in schools?",
+        "hi": "हाल ही में किस यूरोपीय देश की प्रधान मंत्री जियोर्जिया मेलोनी ने प्रति कक्षा विदेशी छात्रों को सीमित करने और स्कूलों में बुर्का जैसे चेहरे को ढंकने पर प्रतिबंध लगाने के नए नियमों का अनावरण किया?"
+      },
+      "options": [
+        {
+          "en": "France",
+          "hi": "फ्रांस"
+        },
+        {
+          "en": "Italy",
+          "hi": "इटली"
+        },
+        {
+          "en": "Germany",
+          "hi": "जर्मनी"
+        },
+        {
+          "en": "United Kingdom",
+          "hi": "यूनाइटेड किंगडम"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Italy's Prime Minister Giorgia Meloni introduced regulations to limit foreign students in classes and prohibit face coverings such as burqas and niqabs in schools.",
+        "hi": "इटली की प्रधान मंत्री जियोर्जिया मेलोनी ने कक्षाओं में विदेशी छात्रों को सीमित करने और स्कूलों में बुर्का और नकाब जैसे चेहरे को ढंकने पर रोक लगाने के लिए नियम पेश किए।"
+      },
+      "category": "International Summits",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com"
+    },
+    {
+      "id": "ca_20260921_05",
+      "question": {
+        "en": "An eighth-grader from Pennsylvania, Sai Sri Valli Mogilineedi, became a national finalist for a STEM award for developing an innovative drug delivery system for which condition?",
+        "hi": "पेंसिल्वेनिया की आठवीं कक्षा की छात्रा, साई श्री वल्ली मोगिलिनीदी, किस स्थिति के लिए एक अभिनव दवा वितरण प्रणाली विकसित करने के लिए STEM पुरस्कार के लिए राष्ट्रीय फाइनलिस्ट बनीं?"
+      },
+      "options": [
+        {
+          "en": "Diabetes",
+          "hi": "मधुमेह"
+        },
+        {
+          "en": "Asthma",
+          "hi": "अस्थमा"
+        },
+        {
+          "en": "GERD",
+          "hi": "GERD"
+        },
+        {
+          "en": "Hypertension",
+          "hi": "उच्च रक्तचाप"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Sai Sri Valli Mogilineedi became a national finalist for her groundbreaking GERD drug delivery system.",
+        "hi": "साई श्री वल्ली मोगिलिनीदी अपने अभूतपूर्व जीईआरडी दवा वितरण प्रणाली के लिए एक राष्ट्रीय फाइनलिस्ट बनीं।"
+      },
+      "category": "Science & Technology",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com"
+    },
+    {
+      "id": "ca_20260921_06",
+      "question": {
+        "en": "Which US state is sinking repurposed old concrete pipes to create artificial reefs in the Gulf of Mexico off Destin-Fort Walton Beach?",
+        "hi": "कौन सा अमेरिकी राज्य डेस्टिन-फोर्ट वाल्टन बीच के पास मैक्सिको की खाड़ी में कृत्रिम भित्तियाँ बनाने के लिए पुन: उपयोग किए गए पुराने कंक्रीट पाइपों को डुबो रहा है?"
+      },
+      "options": [
+        {
+          "en": "Texas",
+          "hi": "टेक्सास"
+        },
+        {
+          "en": "Louisiana",
+          "hi": "लुइसियाना"
+        },
+        {
+          "en": "Florida",
+          "hi": "फ्लोरिडा"
+        },
+        {
+          "en": "Alabama",
+          "hi": "अलबामा"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Florida is repurposing old concrete pipes to form artificial reefs in the Gulf of Mexico, providing vital shelter for marine species.",
+        "hi": "फ्लोरिडा मैक्सिको की खाड़ी में कृत्रिम भित्तियाँ बनाने के लिए पुराने कंक्रीट पाइपों का पुन: उपयोग कर रहा है, जो समुद्री प्रजातियों के लिए महत्वपूर्ण आश्रय प्रदान करते हैं।"
+      },
+      "category": "Environment & Ecology",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com"
+    },
+    {
+      "id": "ca_20260921_07",
+      "question": {
+        "en": "Which former UK Prime Minister recently slammed the practice of defining Britishness by skin colour by asking, 'What are you other than English?'",
+        "hi": "हाल ही में ब्रिटेन के किस पूर्व प्रधान मंत्री ने यह पूछकर त्वचा के रंग से ब्रिटिश होने को परिभाषित करने की प्रथा की कड़ी आलोचना की, 'आप अंग्रेजी के अलावा और क्या हैं?'"
+      },
+      "options": [
+        {
+          "en": "Boris Johnson",
+          "hi": "बोरिस जॉनसन"
+        },
+        {
+          "en": "Theresa May",
+          "hi": "थेरेसा मे"
+        },
+        {
+          "en": "Liz Truss",
+          "hi": "लिज़ ट्रस"
+        },
+        {
+          "en": "Rishi Sunak",
+          "hi": "ऋषि सुनक"
+        }
+      ],
+      "correctAnswer": 3,
+      "explanation": {
+        "en": "Former UK PM Rishi Sunak slammed defining Britishness by skin colour, emphasizing that nationality should not be tied to racial identity.",
+        "hi": "ब्रिटेन के पूर्व प्रधान मंत्री ऋषि सुनक ने त्वचा के रंग से ब्रिटिश होने को परिभाषित करने की आलोचना करते हुए इस बात पर जोर दिया कि राष्ट्रीयता को नस्लीय पहचान से नहीं जोड़ा जाना चाहिए।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "hard",
+      "sourceUrl": "https://timesofindia.indiatimes.com"
+    },
+    {
+      "id": "ca_20260921_08",
+      "question": {
+        "en": "The President of which country recently pardoned a soldier who shot a wounded Palestinian attacker dead in the West Bank?",
+        "hi": "हाल ही में किस देश के राष्ट्रपति ने वेस्ट बैंक में एक घायल फिलिस्तीनी हमलावर की गोली मारकर हत्या करने वाले एक सैनिक को माफ कर दिया?"
+      },
+      "options": [
+        {
+          "en": "United States",
+          "hi": "संयुक्त राज्य अमेरिका"
+        },
+        {
+          "en": "Egypt",
+          "hi": "मिस्र"
+        },
+        {
+          "en": "Israel",
+          "hi": "इजराइल"
+        },
+        {
+          "en": "Jordan",
+          "hi": "जॉर्डन"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The President of Israel pardoned a soldier who had fatally shot a wounded Palestinian attacker in the West Bank.",
+        "hi": "इजराइल के राष्ट्रपति ने एक सैनिक को माफ कर दिया जिसने वेस्ट बैंक में एक घायल फिलिस्तीनी हमलावर की गोली मारकर हत्या कर दी थी।"
+      },
+      "category": "International Summits",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com"
+    },
+    {
+      "id": "ca_20260921_09",
+      "question": {
+        "en": "In which Indian state could the State Information Commission (SIR) tribunals take up to 12 years to decide on appeals due to a massive caseload of 37 lakh?",
+        "hi": "किस भारतीय राज्य में राज्य सूचना आयोग (SIR) न्यायाधिकरण 37 लाख के भारी मामलों के कारण अपीलों पर निर्णय लेने में 12 साल तक का समय ले सकते हैं?"
+      },
+      "options": [
+        {
+          "en": "Maharashtra",
+          "hi": "महाराष्ट्र"
+        },
+        {
+          "en": "Uttar Pradesh",
+          "hi": "उत्तर प्रदेश"
+        },
+        {
+          "en": "West Bengal",
+          "hi": "पश्चिम बंगाल"
+        },
+        {
+          "en": "Bihar",
+          "hi": "बिहार"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Bengal SIR tribunals face a massive backlog, with verdicts in 1.2 lakh cases in 5 months but a total caseload of 37 lakh, meaning it may take up to 12 years to decide on appeals.",
+        "hi": "बंगाल SIR न्यायाधिकरणों को भारी बैकलॉग का सामना करना पड़ रहा है, जिसमें 5 महीनों में 1.2 लाख मामलों में फैसला आया है, लेकिन कुल 37 लाख मामले हैं, जिसका अर्थ है कि अपीलों पर निर्णय लेने में 12 साल तक लग सकते हैं।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "hard",
+      "sourceUrl": "https://timesofindia.indiatimes.com"
+    },
+    {
+      "id": "ca_20260921_10",
+      "question": {
+        "en": "Which Indian-origin climber, along with his Nepalese guide, recently died in an avalanche on Mount Manaslu after attempting the summit amid adverse weather?",
+        "hi": "प्रतिकूल मौसम के बीच शिखर पर चढ़ने का प्रयास करने के बाद, माउंट मनासलु पर हिमस्खलन में अपने नेपाली गाइड के साथ हाल ही में किस भारतीय मूल के पर्वतारोही की मृत्यु हो गई?"
+      },
+      "options": [
+        {
+          "en": "Arjun Vajpai",
+          "hi": "अर्जुन वाजपेयी"
+        },
+        {
+          "en": "Satyarup Siddhanta",
+          "hi": "सत्यरूप सिद्धांत"
+        },
+        {
+          "en": "Dhrubajyoti Guha",
+          "hi": "ध्रुबज्योति गुहा"
+        },
+        {
+          "en": "Malli Mastan Babu",
+          "hi": "मल्ली मस्तान बाबू"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Indian-origin climber Dhrubajyoti Guha and his Nepalese guide were killed in an avalanche on Mount Manaslu after attempting the summit despite adverse weather conditions.",
+        "hi": "भारतीय मूल के पर्वतारोही ध्रुबज्योति गुहा और उनके नेपाली गाइड की प्रतिकूल मौसम की स्थिति के बावजूद शिखर पर चढ़ने के प्रयास के बाद माउंट मनासलु पर हिमस्खलन में मृत्यु हो गई।"
+      },
+      "category": "Sports",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com"
+    }
+  ]
+}
