@@ -1,0 +1,340 @@
+{
+  "date": "2026-09-20",
+  "topic": "SSC CGL Daily Current Affairs",
+  "source": "The Hindu / Times of India / Economic Times",
+  "lastUpdated": "2026-09-20T05:18:08+05:30",
+  "version": 1,
+  "totalQuestions": 10,
+  "quiz": [
+    {
+      "id": "ca_20260920_01",
+      "question": {
+        "en": "From October 1, which government document has been made mandatory for authenticating LPG refills in India?",
+        "hi": "1 अक्टूबर से, भारत में एलपीजी रिफिल को प्रमाणित करने के लिए कौन सा सरकारी दस्तावेज अनिवार्य कर दिया गया है?"
+      },
+      "options": [
+        {
+          "en": "PAN Card",
+          "hi": "पैन कार्ड"
+        },
+        {
+          "en": "Aadhaar Card",
+          "hi": "आधार कार्ड"
+        },
+        {
+          "en": "Voter ID",
+          "hi": "वोटर आईडी"
+        },
+        {
+          "en": "Ration Card",
+          "hi": "राशन कार्ड"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The government has made Aadhaar authentication mandatory for LPG cylinder refills starting October 1, to ensure targeted delivery of subsidies and prevent leakage.",
+        "hi": "सरकार ने 1 अक्टूबर से एलपीजी सिलेंडर रिफिल के लिए आधार प्रमाणीकरण अनिवार्य कर दिया है, ताकि सब्सिडी का लक्षित वितरण सुनिश्चित किया जा सके और लीकेज को रोका जा सके।"
+      },
+      "category": "Government Schemes",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/rssfeeds/1898055.cms"
+    },
+    {
+      "id": "ca_20260920_02",
+      "question": {
+        "en": "India aims to manufacture high-speed bullet trains matching Japan's E10 technology, capable of running at a speed of 350 kmph, by which year?",
+        "hi": "भारत का लक्ष्य किस वर्ष तक 350 किमी प्रति घंटे की गति से चलने में सक्षम, जापान की E10 तकनीक की बराबरी करने वाली हाई-स्पीड बुलेट ट्रेन बनाने का है?"
+      },
+      "options": [
+        {
+          "en": "2028",
+          "hi": "2028"
+        },
+        {
+          "en": "2030",
+          "hi": "2030"
+        },
+        {
+          "en": "2032",
+          "hi": "2032"
+        },
+        {
+          "en": "2035",
+          "hi": "2035"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Indian Railways plans to manufacture high-speed bullet trains capable of 350 kmph speeds by 2030, matching the standards of Japan's advanced E10 trains.",
+        "hi": "भारतीय रेलवे 2030 तक 350 किमी प्रति घंटे की गति में सक्षम हाई-स्पीड बुलेट ट्रेन बनाने की योजना बना रहा है, जो जापान की उन्नत E10 ट्रेनों के मानकों से मेल खाती है।"
+      },
+      "category": "Science & Technology",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms"
+    },
+    {
+      "id": "ca_20260920_03",
+      "question": {
+        "en": "Prime Minister Narendra Modi recently stated that trade agreements are unlocking new opportunities for the youth. Which ministry in India is responsible for negotiating Free Trade Agreements (FTAs)?",
+        "hi": "प्रधानमंत्री नरेंद्र मोदी ने हाल ही में कहा कि व्यापार समझौते युवाओं के लिए नए अवसर खोल रहे हैं। भारत में मुक्त व्यापार समझौते (FTA) पर बातचीत करने के लिए कौन सा मंत्रालय जिम्मेदार है?"
+      },
+      "options": [
+        {
+          "en": "Ministry of External Affairs",
+          "hi": "विदेश मंत्रालय"
+        },
+        {
+          "en": "Ministry of Finance",
+          "hi": "वित्त मंत्रालय"
+        },
+        {
+          "en": "Ministry of Commerce and Industry",
+          "hi": "वाणिज्य और उद्योग मंत्रालय"
+        },
+        {
+          "en": "Ministry of Skill Development and Entrepreneurship",
+          "hi": "कौशल विकास और उद्यमिता मंत्रालय"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The Ministry of Commerce and Industry is responsible for formulating and implementing foreign trade policy, including negotiating Free Trade Agreements (FTAs) that create new opportunities.",
+        "hi": "वाणिज्य और उद्योग मंत्रालय विदेशी व्यापार नीति तैयार करने और लागू करने के लिए जिम्मेदार है, जिसमें मुक्त व्यापार समझौते (FTA) पर बातचीत करना शामिल है जो नए अवसर पैदा करते हैं।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms"
+    },
+    {
+      "id": "ca_20260920_04",
+      "question": {
+        "en": "Chief Justice of India, Surya Kant, referred to the Supreme Court as the 'banyan tree' of environmental justice. Under which Article of the Constitution is the right to a clean environment recognized as part of the Right to Life?",
+        "hi": "भारत के मुख्य न्यायाधीश सूर्य कांत ने सर्वोच्च न्यायालय को पर्यावरणीय न्याय का 'बरगद का पेड़' कहा। संविधान के किस अनुच्छेद के तहत स्वच्छ पर्यावरण के अधिकार को जीवन के अधिकार के हिस्से के रूप में मान्यता प्राप्त है?"
+      },
+      "options": [
+        {
+          "en": "Article 14",
+          "hi": "अनुच्छेद 14"
+        },
+        {
+          "en": "Article 19",
+          "hi": "अनुच्छेद 19"
+        },
+        {
+          "en": "Article 21",
+          "hi": "अनुच्छेद 21"
+        },
+        {
+          "en": "Article 32",
+          "hi": "अनुच्छेद 32"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The Supreme Court has consistently interpreted Article 21 (Protection of Life and Personal Liberty) to include the right to a clean and healthy environment.",
+        "hi": "सुप्रीम कोर्ट ने लगातार अनुच्छेद 21 (जीवन और व्यक्तिगत स्वतंत्रता का संरक्षण) की व्याख्या स्वच्छ और स्वस्थ वातावरण के अधिकार को शामिल करने के लिए की है।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms"
+    },
+    {
+      "id": "ca_20260920_05",
+      "question": {
+        "en": "Which country recently swept Sri Lanka 3-0 in a T20I series to replace India at the top of the ICC Men's T20I Team Rankings?",
+        "hi": "हाल ही में किस देश ने टी20 अंतरराष्ट्रीय श्रृंखला में श्रीलंका को 3-0 से हराकर आईसीसी पुरुष टी20 अंतरराष्ट्रीय टीम रैंकिंग में भारत को शीर्ष स्थान से हटा दिया है?"
+      },
+      "options": [
+        {
+          "en": "Australia",
+          "hi": "ऑस्ट्रेलिया"
+        },
+        {
+          "en": "England",
+          "hi": "इंग्लैंड"
+        },
+        {
+          "en": "South Africa",
+          "hi": "दक्षिण अफ्रीका"
+        },
+        {
+          "en": "New Zealand",
+          "hi": "न्यूजीलैंड"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "England swept the T20I series against Sri Lanka 3-0, accumulating enough rating points to surpass India and become the number one ranked team in the ICC Men's T20I rankings.",
+        "hi": "इंग्लैंड ने श्रीलंका के खिलाफ टी20 अंतरराष्ट्रीय श्रृंखला में 3-0 से जीत हासिल की, जिससे उसने भारत को पछाड़कर आईसीसी पुरुष टी20 अंतरराष्ट्रीय रैंकिंग में नंबर एक टीम बनने के लिए पर्याप्त रेटिंग अंक अर्जित किए।"
+      },
+      "category": "Sports",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/rssfeeds/4719148.cms"
+    },
+    {
+      "id": "ca_20260920_06",
+      "question": {
+        "en": "The Asian Games 2026 officially kicked off with a spectacular opening ceremony in which host city?",
+        "hi": "एशियाई खेल 2026 आधिकारिक तौर पर किस मेजबान शहर में एक शानदार उद्घाटन समारोह के साथ शुरू हुए?"
+      },
+      "options": [
+        {
+          "en": "Tokyo, Japan",
+          "hi": "टोक्यो, जापान"
+        },
+        {
+          "en": "Aichi-Nagoya, Japan",
+          "hi": "आइची-नागोया, जापान"
+        },
+        {
+          "en": "Seoul, South Korea",
+          "hi": "सियोल, दक्षिण कोरिया"
+        },
+        {
+          "en": "Doha, Qatar",
+          "hi": "दोहा, कतर"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The 2026 Asian Games were officially declared open by Emperor Naruhito in Nagoya, which, along with Aichi prefecture, is co-hosting the massive multi-sport event.",
+        "hi": "2026 के एशियाई खेलों को आधिकारिक तौर पर सम्राट नारुहितो ने नागोया में खुला घोषित किया, जो आइची प्रान्त के साथ इस विशाल बहु-खेल आयोजन की सह-मेजबानी कर रहा है।"
+      },
+      "category": "Sports",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/rssfeeds/4719148.cms"
+    },
+    {
+      "id": "ca_20260920_07",
+      "question": {
+        "en": "Which of the following bodies recently signed a sanctions bill against Russia, prompting discussions on potential 100% tariffs affecting trade relations?",
+        "hi": "निम्नलिखित में से किस निकाय ने हाल ही में रूस के खिलाफ एक प्रतिबंध विधेयक पर हस्ताक्षर किए हैं, जिससे व्यापार संबंधों को प्रभावित करने वाले संभावित 100% टैरिफ पर चर्चा शुरू हो गई है?"
+      },
+      "options": [
+        {
+          "en": "The United Nations Security Council",
+          "hi": "संयुक्त राष्ट्र सुरक्षा परिषद"
+        },
+        {
+          "en": "The European Union Parliament",
+          "hi": "यूरोपीय संघ की संसद"
+        },
+        {
+          "en": "The President of the United States",
+          "hi": "संयुक्त राज्य अमेरिका के राष्ट्रपति"
+        },
+        {
+          "en": "The World Trade Organization",
+          "hi": "विश्व व्यापार संगठन"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "US President Donald Trump signed a new Russia sanctions bill, which has raised concerns about broader trade implications, including potential tariffs that might affect countries like India.",
+        "hi": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्प ने एक नए रूस प्रतिबंध विधेयक पर हस्ताक्षर किए हैं, जिसने व्यापक व्यापार प्रभावों के बारे में चिंताएं बढ़ा दी हैं, जिसमें संभावित टैरिफ शामिल हैं जो भारत जैसे देशों को प्रभावित कर सकते हैं।"
+      },
+      "category": "International Summits",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/rssfeeds/1898055.cms"
+    },
+    {
+      "id": "ca_20260920_08",
+      "question": {
+        "en": "Scientists from which university recently developed a $6,500 low-cost infrared headset capable of screening athletes for potential concussions in just 60 seconds?",
+        "hi": "किस विश्वविद्यालय के वैज्ञानिकों ने हाल ही में $6,500 का कम लागत वाला इन्फ्रारेड हेडसेट विकसित किया है जो केवल 60 सेकंड में एथलीटों में संभावित कंकशन (मस्तिष्क की चोट) की जांच करने में सक्षम है?"
+      },
+      "options": [
+        {
+          "en": "Stanford University",
+          "hi": "स्टैनफोर्ड विश्वविद्यालय"
+        },
+        {
+          "en": "Massachusetts Institute of Technology (MIT)",
+          "hi": "मैसाचुसेट्स इंस्टीट्यूट ऑफ टेक्नोलॉजी (MIT)"
+        },
+        {
+          "en": "Harvard University",
+          "hi": "हार्वर्ड विश्वविद्यालय"
+        },
+        {
+          "en": "Oxford University",
+          "hi": "ऑक्सफोर्ड विश्वविद्यालय"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Students from Harvard University won the James Dyson Award for building a low-cost, $6,500 infrared headset designed to screen athletes for concussions rapidly.",
+        "hi": "हार्वर्ड विश्वविद्यालय के छात्रों ने कम लागत वाला, $6,500 का इन्फ्रारेड हेडसेट बनाने के लिए जेम्स डायसन पुरस्कार जीता है, जिसे एथलीटों में कंकशन की तेजी से जांच करने के लिए डिज़ाइन किया गया है।"
+      },
+      "category": "Science & Technology",
+      "difficulty": "hard",
+      "sourceUrl": "https://timesofindia.indiatimes.com/rssfeeds/-2128672765.cms"
+    },
+    {
+      "id": "ca_20260920_09",
+      "question": {
+        "en": "NASA's James Webb and Hubble telescopes recently revealed a dusty star-forming band tracing an ancient cosmic merger in M64, which is commonly known as what?",
+        "hi": "नासा के जेम्स वेब और हबल टेलीस्कोप ने हाल ही में M64 में एक प्राचीन ब्रह्मांडीय विलय का पता लगाने वाले धूल भरे स्टार-फॉर्मिंग बैंड का खुलासा किया है, जिसे आम तौर पर क्या कहा जाता है?"
+      },
+      "options": [
+        {
+          "en": "Andromeda Galaxy",
+          "hi": "एंड्रोमेडा आकाशगंगा"
+        },
+        {
+          "en": "Whirlpool Galaxy",
+          "hi": "व्हर्लपूल आकाशगंगा"
+        },
+        {
+          "en": "Black Eye Galaxy",
+          "hi": "ब्लैक आई आकाशगंगा"
+        },
+        {
+          "en": "Sombrero Galaxy",
+          "hi": "सोम्ब्रेरो आकाशगंगा"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "M64 is famously known as the Black Eye Galaxy. Recent images from Webb and Hubble telescopes show its opposing gas streams, revealing a violent cosmic past and an ancient merger.",
+        "hi": "M64 को प्रसिद्ध रूप से ब्लैक आई आकाशगंगा के रूप में जाना जाता है। वेब और हबल टेलीस्कोप से हाल की छवियां इसके विपरीत गैस प्रवाह को दिखाती हैं, जो एक हिंसक ब्रह्मांडीय अतीत और एक प्राचीन विलय को प्रकट करती हैं।"
+      },
+      "category": "Science & Technology",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/rssfeeds/-2128672765.cms"
+    },
+    {
+      "id": "ca_20260920_10",
+      "question": {
+        "en": "In a major conservation milestone after 70 years, Chinook salmon have returned to newly accessible upstream habitat following the burial of a gas pipeline in which US state?",
+        "hi": "70 वर्षों के बाद एक प्रमुख संरक्षण मील के पत्थर में, चिनूक सैल्मन किस अमेरिकी राज्य में गैस पाइपलाइन के दफन होने के बाद नए सुलभ अपस्ट्रीम निवास स्थान पर लौट आए हैं?"
+      },
+      "options": [
+        {
+          "en": "Alaska",
+          "hi": "अलास्का"
+        },
+        {
+          "en": "California",
+          "hi": "कैलिफ़ोर्निया"
+        },
+        {
+          "en": "Washington",
+          "hi": "वाशिंगटन"
+        },
+        {
+          "en": "Oregon",
+          "hi": "ओरेगन"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "In California, the removal of a barrier and the burial of a gas pipeline below Alameda Creek allowed Chinook salmon to access that part of the watershed for the first time since the 1950s.",
+        "hi": "कैलिफ़ोर्निया में, अलमेडा क्रीक के नीचे एक बाधा को हटाने और गैस पाइपलाइन के दफन होने से चिनूक सैल्मन को 1950 के दशक के बाद पहली बार वाटरशेड के उस हिस्से तक पहुंचने की अनुमति मिली।"
+      },
+      "category": "Environment & Ecology",
+      "difficulty": "hard",
+      "sourceUrl": "https://timesofindia.indiatimes.com/rssfeeds/-2128672765.cms"
+    }
+  ]
+}
