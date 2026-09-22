@@ -1,340 +1,340 @@
 {
-  "date": "2026-09-22",
+  "date": "2026-09-23",
   "topic": "SSC CGL Daily Current Affairs",
   "source": "PIB / The Hindu / Economic Times / Indian Express / GKToday",
-  "lastUpdated": "2026-09-22T06:00:00+05:30",
+  "lastUpdated": "2026-09-23T06:00:00+05:30",
   "version": 1,
   "totalQuestions": 10,
   "quiz": [
     {
-      "id": "ca_20260922_01",
+      "id": "ca_20260923_01",
       "question": {
-        "en": "According to a recent Supreme Court ruling, what is a mandatory requirement during arrests even under the Unlawful Activities (Prevention) Act (UAPA)?",
-        "hi": "हाल ही के सर्वोच्च न्यायालय के फैसले के अनुसार, गैरकानूनी गतिविधियां (रोकथाम) अधिनियम (UAPA) के तहत भी गिरफ्तारी के दौरान अनिवार्य आवश्यकता क्या है?"
+        "en": "Recently, the Centre approved the Cotton Productivity Mission. What is the financial outlay for this mission?",
+        "hi": "हाल ही में, केंद्र सरकार ने कपास उत्पादकता मिशन को मंजूरी दी है। इस मिशन के लिए वित्तीय परिव्यय कितना है?"
       },
       "options": [
         {
-          "en": "Providing grounds in writing",
-          "hi": "लिखित रूप में कारण प्रदान करना"
+          "en": "₹3,500 Crore",
+          "hi": "₹3,500 करोड़"
         },
         {
-          "en": "Publishing it in a newspaper",
-          "hi": "इसे अखबार में प्रकाशित करना"
+          "en": "₹4,200 Crore",
+          "hi": "₹4,200 करोड़"
         },
         {
-          "en": "Informing the Chief Minister",
-          "hi": "मुख्यमंत्री को सूचित करना"
+          "en": "₹5,600 Crore",
+          "hi": "₹5,600 करोड़"
         },
         {
-          "en": "Obtaining PMO clearance",
-          "hi": "पीएमओ (PMO) से मंजूरी प्राप्त करना"
+          "en": "₹7,000 Crore",
+          "hi": "₹7,000 करोड़"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The Union Cabinet has approved the Cotton Productivity Mission with an outlay of ₹5,600 crore to enhance the productivity and quality of cotton in India. The Ministry of Textiles serves as the nodal ministry for cotton-related schemes.",
+        "hi": "केंद्रीय मंत्रिमंडल ने भारत में कपास की उत्पादकता और गुणवत्ता बढ़ाने के लिए ₹5,600 करोड़ के परिव्यय के साथ कपास उत्पादकता मिशन को मंजूरी दी है। कपड़ा मंत्रालय कपास से संबंधित योजनाओं के लिए नोडल मंत्रालय के रूप में कार्य करता है।"
+      },
+      "category": "Government Schemes",
+      "difficulty": "medium",
+      "sourceUrl": "https://newsonair.gov.in"
+    },
+    {
+      "id": "ca_20260923_02",
+      "question": {
+        "en": "Where were the 72nd National Film Awards conferred by President Droupadi Murmu?",
+        "hi": "राष्ट्रपति द्रौपदी मुर्मू द्वारा 72वें राष्ट्रीय फिल्म पुरस्कार कहाँ प्रदान किए गए?"
+      },
+      "options": [
+        {
+          "en": "New Delhi",
+          "hi": "नई दिल्ली"
+        },
+        {
+          "en": "Mumbai, Maharashtra",
+          "hi": "मुंबई, महाराष्ट्र"
+        },
+        {
+          "en": "Ekta Nagar, Gujarat",
+          "hi": "एकता नगर, गुजरात"
+        },
+        {
+          "en": "Panaji, Goa",
+          "hi": "पणजी, गोवा"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "President Smt. Droupadi Murmu conferred the 72nd National Film Awards at a ceremony in Ekta Nagar, Gujarat. Established in 1954, the National Film Awards are administered by the Directorate of Film Festivals, Ministry of Information and Broadcasting.",
+        "hi": "राष्ट्रपति श्रीमती द्रौपदी मुर्मू ने गुजरात के एकता नगर में एक समारोह में 72वें राष्ट्रीय फिल्म पुरस्कार प्रदान किए। 1954 में स्थापित, राष्ट्रीय फिल्म पुरस्कार सूचना और प्रसारण मंत्रालय के फिल्म समारोह निदेशालय द्वारा प्रशासित किए जाते हैं।"
+      },
+      "category": "Awards & Honours",
+      "difficulty": "medium",
+      "sourceUrl": "https://pib.gov.in"
+    },
+    {
+      "id": "ca_20260923_03",
+      "question": {
+        "en": "What is the real GDP growth projection for the current fiscal year (FY) as per the latest RBI announcement where the repo rate was kept unchanged?",
+        "hi": "नवीनतम आरबीआई की घोषणा के अनुसार, जहां रेपो दर को अपरिवर्तित रखा गया था, चालू वित्त वर्ष (FY) के लिए वास्तविक जीडीपी वृद्धि का अनुमान क्या है?"
+      },
+      "options": [
+        {
+          "en": "6.5%",
+          "hi": "6.5%"
+        },
+        {
+          "en": "6.9%",
+          "hi": "6.9%"
+        },
+        {
+          "en": "7.2%",
+          "hi": "7.2%"
+        },
+        {
+          "en": "7.5%",
+          "hi": "7.5%"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The Reserve Bank of India (RBI) kept the repo rate unchanged and projected India's real GDP growth for the current fiscal year at 6.9%. The RBI, established in 1935 under the RBI Act 1934, is the central bank of India.",
+        "hi": "भारतीय रिजर्व बैंक (RBI) ने रेपो दर को अपरिवर्तित रखा और चालू वित्त वर्ष के लिए भारत की वास्तविक जीडीपी वृद्धि 6.9% रहने का अनुमान लगाया। आरबीआई अधिनियम 1934 के तहत 1935 में स्थापित आरबीआई, भारत का केंद्रीय बैंक है।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "medium",
+      "sourceUrl": "https://newsonair.gov.in"
+    },
+    {
+      "id": "ca_20260923_04",
+      "question": {
+        "en": "Who has been picked by Bangladesh as their next envoy (High Commissioner) to India?",
+        "hi": "बांग्लादेश ने भारत में अपना अगला दूत (उच्चायुक्त) किसे चुना है?"
+      },
+      "options": [
+        {
+          "en": "Muhammad Imran",
+          "hi": "मुहम्मद इमरान"
+        },
+        {
+          "en": "Syed Muazzem Ali",
+          "hi": "सैयद मुअज्जम अली"
+        },
+        {
+          "en": "Asad Alam Siam",
+          "hi": "असद आलम सियाम"
+        },
+        {
+          "en": "Mustafizur Rahman",
+          "hi": "मुस्तफिजुर रहमान"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Bangladesh has appointed Foreign Secretary Asad Alam Siam as the next envoy to India. Appointments of High Commissioners are vital for bilateral diplomatic relations. India and Bangladesh share a 4,096 km long international border.",
+        "hi": "बांग्लादेश ने विदेश सचिव असद आलम सियाम को भारत में अगला दूत नियुक्त किया है। द्विपक्षीय राजनयिक संबंधों के लिए उच्चायुक्तों की नियुक्ति महत्वपूर्ण है। भारत और बांग्लादेश 4,096 किमी लंबी अंतरराष्ट्रीय सीमा साझा करते हैं।"
+      },
+      "category": "Appointments & Commissions",
+      "difficulty": "hard",
+      "sourceUrl": "https://www.livemint.com"
+    },
+    {
+      "id": "ca_20260923_05",
+      "question": {
+        "en": "India recently discussed deep defence technology cooperation, joint exercises, and Indo-Pacific security with which country?",
+        "hi": "भारत ने हाल ही में किस देश के साथ रक्षा प्रौद्योगिकी सहयोग, संयुक्त अभ्यास और इंडो-पैसिफिक सुरक्षा पर चर्चा की?"
+      },
+      "options": [
+        {
+          "en": "United States",
+          "hi": "संयुक्त राज्य अमेरिका"
+        },
+        {
+          "en": "Japan",
+          "hi": "जापान"
+        },
+        {
+          "en": "Australia",
+          "hi": "ऑस्ट्रेलिया"
+        },
+        {
+          "en": "France",
+          "hi": "फ्रांस"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "India and Japan engaged in discussions to deepen defence technology cooperation and strengthen Indo-Pacific security. Joint military exercises between the two nations include Dharma Guardian (Army) and JIMEX (Navy).",
+        "hi": "भारत और जापान ने रक्षा प्रौद्योगिकी सहयोग को गहरा करने और इंडो-पैसिफिक सुरक्षा को मजबूत करने के लिए चर्चा की। दोनों देशों के बीच संयुक्त सैन्य अभ्यासों में धर्म गार्जियन (सेना) और जिमेक्स (नौसेना) शामिल हैं।"
+      },
+      "category": "Defence & Security",
+      "difficulty": "easy",
+      "sourceUrl": "https://newsonair.gov.in"
+    },
+    {
+      "id": "ca_20260923_06",
+      "question": {
+        "en": "Which foundation day was celebrated by the Indian Council of Agricultural Research (ICAR) recently?",
+        "hi": "हाल ही में भारतीय कृषि अनुसंधान परिषद (ICAR) द्वारा कौन सा स्थापना दिवस मनाया गया?"
+      },
+      "options": [
+        {
+          "en": "75th",
+          "hi": "75वां"
+        },
+        {
+          "en": "85th",
+          "hi": "85वां"
+        },
+        {
+          "en": "90th",
+          "hi": "90वां"
+        },
+        {
+          "en": "98th",
+          "hi": "98वां"
+        }
+      ],
+      "correctAnswer": 3,
+      "explanation": {
+        "en": "The Indian Council of Agricultural Research (ICAR) recently celebrated its 98th Foundation Day. ICAR is an autonomous organisation under the Department of Agricultural Research and Education (DARE), Ministry of Agriculture and Farmers Welfare.",
+        "hi": "भारतीय कृषि अनुसंधान परिषद (ICAR) ने हाल ही में अपना 98वां स्थापना दिवस मनाया। ICAR कृषि और किसान कल्याण मंत्रालय के कृषि अनुसंधान और शिक्षा विभाग (DARE) के तहत एक स्वायत्त संगठन है।"
+      },
+      "category": "Science & Technology",
+      "difficulty": "medium",
+      "sourceUrl": "https://icar.org.in"
+    },
+    {
+      "id": "ca_20260923_07",
+      "question": {
+        "en": "World Rhino Day, observed recently with a focus on India-Bhutan joint conservation, is celebrated annually on which date?",
+        "hi": "विश्व गैंडा दिवस, जिसे हाल ही में भारत-भूटान संयुक्त संरक्षण पर ध्यान देने के साथ मनाया गया, प्रतिवर्ष किस तिथि को मनाया जाता है?"
+      },
+      "options": [
+        {
+          "en": "September 20",
+          "hi": "20 सितंबर"
+        },
+        {
+          "en": "September 21",
+          "hi": "21 सितंबर"
+        },
+        {
+          "en": "September 22",
+          "hi": "22 सितंबर"
+        },
+        {
+          "en": "September 24",
+          "hi": "24 सितंबर"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "World Rhino Day is observed annually on September 22. This year, the focus was on the joint conservation efforts between India and Bhutan. The Greater One-Horned Rhino is primarily found in India's Kaziranga National Park in Assam.",
+        "hi": "विश्व गैंडा दिवस प्रतिवर्ष 22 सितंबर को मनाया जाता है। इस वर्ष, भारत और भूटान के बीच संयुक्त संरक्षण प्रयासों पर ध्यान केंद्रित किया गया था। एक सींग वाला गैंडा मुख्य रूप से भारत के असम में काजीरंगा राष्ट्रीय उद्यान में पाया जाता है।"
+      },
+      "category": "Important Days & Themes",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.thehindu.com"
+    },
+    {
+      "id": "ca_20260923_08",
+      "question": {
+        "en": "The Indian women's cricket team won their first-ever Asian Games gold medal by defeating which country in the final of the 2026 Asian Games?",
+        "hi": "भारतीय महिला क्रिकेट टीम ने 2026 एशियाई खेलों के फाइनल में किस देश को हराकर अपना पहला एशियाई खेलों का स्वर्ण पदक जीता?"
+      },
+      "options": [
+        {
+          "en": "Pakistan",
+          "hi": "पाकिस्तान"
+        },
+        {
+          "en": "Sri Lanka",
+          "hi": "श्रीलंका"
+        },
+        {
+          "en": "Bangladesh",
+          "hi": "बांग्लादेश"
+        },
+        {
+          "en": "Japan",
+          "hi": "जापान"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The Indian women's cricket team secured a historic gold medal at the 2026 Asian Games in Aichi-Nagoya by defeating Sri Lanka in the final. The Asian Games are a continental multi-sport event held every four years.",
+        "hi": "भारतीय महिला क्रिकेट टीम ने ऐची-नागोया में 2026 के एशियाई खेलों में फाइनल में श्रीलंका को हराकर ऐतिहासिक स्वर्ण पदक हासिल किया। एशियाई खेल हर चार साल में होने वाला एक महाद्वीपीय बहु-खेल आयोजन है।"
+      },
+      "category": "Sports",
+      "difficulty": "easy",
+      "sourceUrl": "https://olympics.com"
+    },
+    {
+      "id": "ca_20260923_09",
+      "question": {
+        "en": "According to PM Modi's recent statement, India’s per capita carbon emissions are roughly what fraction of the global average?",
+        "hi": "पीएम मोदी के हालिया बयान के अनुसार, भारत का प्रति व्यक्ति कार्बन उत्सर्जन वैश्विक औसत का लगभग कितना अंश है?"
+      },
+      "options": [
+        {
+          "en": "More than half",
+          "hi": "आधे से अधिक"
+        },
+        {
+          "en": "Less than half",
+          "hi": "आधे से कम"
+        },
+        {
+          "en": "Equal to global average",
+          "hi": "वैश्विक औसत के बराबर"
+        },
+        {
+          "en": "Less than one-fourth",
+          "hi": "एक-चौथाई से कम"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "PM Modi recently highlighted that India’s per capita carbon emissions are less than half of the global average. India has pledged to achieve net-zero carbon emissions by 2070, a commitment made during the COP26 summit.",
+        "hi": "पीएम मोदी ने हाल ही में इस बात पर प्रकाश डाला कि भारत का प्रति व्यक्ति कार्बन उत्सर्जन वैश्विक औसत के आधे से भी कम है। भारत ने 2070 तक शुद्ध-शून्य कार्बन उत्सर्जन प्राप्त करने का संकल्प लिया है, जो COP26 शिखर सम्मेलन के दौरान की गई एक प्रतिबद्धता है।"
+      },
+      "category": "Environment & Ecology",
+      "difficulty": "medium",
+      "sourceUrl": "https://newsonair.gov.in"
+    },
+    {
+      "id": "ca_20260923_10",
+      "question": {
+        "en": "According to reports, PM Modi is expected to visit Canada in December 2026 to sign a trade deal. Which type of trade agreement is generally negotiated in such bilateral visits to reduce tariffs and promote investment?",
+        "hi": "रिपोर्टों के अनुसार, व्यापार समझौते पर हस्ताक्षर करने के लिए पीएम मोदी के दिसंबर 2026 में कनाडा का दौरा करने की उम्मीद है। आमतौर पर टैरिफ कम करने और निवेश को बढ़ावा देने के लिए ऐसी द्विपक्षीय यात्राओं में किस प्रकार के व्यापार समझौते पर बातचीत की जाती है?"
+      },
+      "options": [
+        {
+          "en": "Free Trade Agreement (FTA)",
+          "hi": "मुक्त व्यापार समझौता (FTA)"
+        },
+        {
+          "en": "Non-Proliferation Treaty (NPT)",
+          "hi": "परमाणु अप्रसार संधि (NPT)"
+        },
+        {
+          "en": "Mutual Defense Pact",
+          "hi": "पारस्परिक रक्षा समझौता"
+        },
+        {
+          "en": "Extradition Treaty",
+          "hi": "प्रत्यर्पण संधि"
         }
       ],
       "correctAnswer": 0,
       "explanation": {
-        "en": "The Supreme Court has ruled that providing grounds of arrest in writing is a must, even in cases involving the Unlawful Activities (Prevention) Act (UAPA).",
-        "hi": "सर्वोच्च न्यायालय ने फैसला सुनाया है कि गैरकानूनी गतिविधियां (रोकथाम) अधिनियम (UAPA) से जुड़े मामलों में भी गिरफ्तारी के कारणों को लिखित रूप में प्रदान करना अनिवार्य है।"
+        "en": "PM Modi is expected to visit Canada in December 2026 to sign a trade deal, likely a Free Trade Agreement (FTA) or a Comprehensive Economic Partnership Agreement (CEPA). FTAs aim to reduce or eliminate barriers to trade and investment between partner nations.",
+        "hi": "व्यापार समझौते पर हस्ताक्षर करने के लिए पीएम मोदी के दिसंबर 2026 में कनाडा जाने की उम्मीद है, जो संभवतः मुक्त व्यापार समझौता (FTA) या व्यापक आर्थिक भागीदारी समझौता (CEPA) होगा। FTA का उद्देश्य भागीदार देशों के बीच व्यापार और निवेश की बाधाओं को कम करना या समाप्त करना है।"
       },
       "category": "Polity & Governance",
-      "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms"
-    },
-    {
-      "id": "ca_20260922_02",
-      "question": {
-        "en": "Which organization took suo motu cognizance of the recent incident involving the alleged public molestation and assault of a teenage girl in Jamui district, Bihar?",
-        "hi": "बिहार के जमुई जिले में एक किशोर लड़की के साथ कथित सार्वजनिक छेड़छाड़ और मारपीट की हालिया घटना का किस संगठन ने स्वतः संज्ञान लिया?"
-      },
-      "options": [
-        {
-          "en": "National Human Rights Commission (NHRC)",
-          "hi": "राष्ट्रीय मानवाधिकार आयोग (NHRC)"
-        },
-        {
-          "en": "National Commission for Women (NCW)",
-          "hi": "राष्ट्रीय महिला आयोग (NCW)"
-        },
-        {
-          "en": "National Commission for Protection of Child Rights (NCPCR)",
-          "hi": "राष्ट्रीय बाल अधिकार संरक्षण आयोग (NCPCR)"
-        },
-        {
-          "en": "Amnesty International India",
-          "hi": "एमनेस्टी इंटरनेशनल इंडिया"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "The National Commission for Women (NCW) took suo motu cognisance of an incident in Jamui district of Bihar involving alleged public molestation and assault of a teenage girl and her male companion.",
-        "hi": "राष्ट्रीय महिला आयोग (NCW) ने बिहार के जमुई जिले में एक किशोर लड़की और उसके पुरुष साथी के साथ कथित सार्वजनिक छेड़छाड़ और मारपीट की घटना का स्वतः संज्ञान लिया।"
-      },
-      "category": "Polity & Governance",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.thehindu.com/news/national/feeder/default.rss"
-    },
-    {
-      "id": "ca_20260922_03",
-      "question": {
-        "en": "In the recent mayoral polls in Rajasthan, which party won six out of seven seats?",
-        "hi": "राजस्थान में हाल ही में हुए महापौर चुनावों में किस पार्टी ने सात में से छह सीटें जीतीं?"
-      },
-      "options": [
-        {
-          "en": "Indian National Congress",
-          "hi": "भारतीय राष्ट्रीय कांग्रेस"
-        },
-        {
-          "en": "Bharatiya Janata Party",
-          "hi": "भारतीय जनता पार्टी"
-        },
-        {
-          "en": "Aam Aadmi Party",
-          "hi": "आम आदमी पार्टी"
-        },
-        {
-          "en": "Bahujan Samaj Party",
-          "hi": "बहुजन समाज पार्टी"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "The BJP won six of the seven mayoral polls in Rajasthan, defeating Congress in Alwar, Udaipur, Pali, and Ajmer, and winning unopposed in Bharatpur and Bhilwara. The only consolation for Congress came in Bikaner.",
-        "hi": "भाजपा ने राजस्थान में सात में से छह महापौर चुनाव जीते, अलवर, उदयपुर, पाली और अजमेर में कांग्रेस को हराया, और भरतपुर और भीलवाड़ा में निर्विरोध जीत हासिल की। कांग्रेस के लिए एकमात्र सांत्वना बीकानेर में आई।"
-      },
-      "category": "Polity & Governance",
-      "difficulty": "easy",
-      "sourceUrl": "https://www.thehindu.com/news/national/feeder/default.rss"
-    },
-    {
-      "id": "ca_20260922_04",
-      "question": {
-        "en": "According to a new checklist by a Keralam research team, 3,261 flowering plant species were recorded in which Biosphere Reserve?",
-        "hi": "एक केरलम शोध टीम की नई चेकलिस्ट के अनुसार, 3,261 फूल वाले पौधों की प्रजातियों को किस बायोस्फीयर रिजर्व में दर्ज किया गया है?"
-      },
-      "options": [
-        {
-          "en": "Nilgiri Biosphere Reserve",
-          "hi": "नीलगिरि बायोस्फीयर रिजर्व"
-        },
-        {
-          "en": "Gulf of Mannar Biosphere Reserve",
-          "hi": "मन्नार की खाड़ी बायोस्फीयर रिजर्व"
-        },
-        {
-          "en": "Agasthyamalai Biosphere Reserve",
-          "hi": "अगस्त्यमलाई बायोस्फीयर रिजर्व"
-        },
-        {
-          "en": "Nanda Devi Biosphere Reserve",
-          "hi": "नंदा देवी बायोस्फीयर रिजर्व"
-        }
-      ],
-      "correctAnswer": 2,
-      "explanation": {
-        "en": "A new checklist by a Keralam research team recorded 3,261 flowering plant species in the Agasthyamalai Biosphere Reserve. Compilation by team from Jawaharlal Nehru Tropical Botanic Garden and Research Institute seeks to reaffirm global significance of Western Ghats as a biodiversity hotspot.",
-        "hi": "एक केरलम शोध टीम की एक नई चेकलिस्ट ने अगस्त्यमलाई बायोस्फीयर रिजर्व में 3,261 फूल वाले पौधों की प्रजातियों को दर्ज किया। जवाहरलाल नेहरू ट्रॉपिकल बोटेनिक गार्डन एंड रिसर्च इंस्टीट्यूट की टीम द्वारा संकलन का उद्देश्य जैव विविधता हॉटस्पॉट के रूप में पश्चिमी घाट के वैश्विक महत्व की पुष्टि करना है।"
-      },
-      "category": "Environment & Ecology",
       "difficulty": "hard",
-      "sourceUrl": "https://www.thehindu.com/sci-tech/science/feeder/default.rss"
-    },
-    {
-      "id": "ca_20260922_05",
-      "question": {
-        "en": "When is the India-New Zealand Free Trade Agreement (FTA) set to come into effect, as recently ratified?",
-        "hi": "हाल ही में अनुसमर्थित भारत-न्यूजीलैंड मुक्त व्यापार समझौता (FTA) कब लागू होने वाला है?"
-      },
-      "options": [
-        {
-          "en": "October 1",
-          "hi": "1 अक्टूबर"
-        },
-        {
-          "en": "October 20",
-          "hi": "20 अक्टूबर"
-        },
-        {
-          "en": "November 1",
-          "hi": "1 नवंबर"
-        },
-        {
-          "en": "December 31",
-          "hi": "31 दिसंबर"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "The ratified India-New Zealand FTA will come into effect on October 20. The deal aims to double bilateral trade, with NZ removing all tariffs on goods imported from India.",
-        "hi": "अनुसमर्थित भारत-न्यूजीलैंड मुक्त व्यापार समझौता 20 अक्टूबर को लागू होगा। इस समझौते का उद्देश्य द्विपक्षीय व्यापार को दोगुना करना है, जिसमें न्यूजीलैंड भारत से आयातित वस्तुओं पर सभी टैरिफ हटा देगा।"
-      },
-      "category": "Economy & Banking",
-      "difficulty": "easy",
-      "sourceUrl": "https://www.thehindu.com/business/Economy/feeder/default.rss"
-    },
-    {
-      "id": "ca_20260922_06",
-      "question": {
-        "en": "In which Indian institute is a new campus observatory with a 14-inch telescope being opened in collaboration with the Indian Institute of Astrophysics?",
-        "hi": "भारतीय खगोल भौतिकी संस्थान के सहयोग से किस भारतीय संस्थान में 14-इंच दूरबीन वाली एक नई वेधशाला खोली जा रही है?"
-      },
-      "options": [
-        {
-          "en": "IIT Delhi",
-          "hi": "आईआईटी दिल्ली"
-        },
-        {
-          "en": "NIT Srinagar",
-          "hi": "एनआईटी श्रीनगर"
-        },
-        {
-          "en": "IISc Bangalore",
-          "hi": "आईआईएससी बैंगलोर"
-        },
-        {
-          "en": "IIT Bombay",
-          "hi": "आईआईटी बॉम्बे"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "NIT Srinagar is opening a new campus observatory equipped with a 14-inch telescope. Developed with the Indian Institute of Astrophysics, it will give students hands-on access to astronomical observation and imaging.",
-        "hi": "एनआईटी (NIT) श्रीनगर 14 इंच के टेलिस्कोप से लैस एक नई कैंपस वेधशाला खोल रहा है। भारतीय खगोल भौतिकी संस्थान के सहयोग से विकसित, यह छात्रों को खगोलीय अवलोकन और इमेजिंग के लिए व्यावहारिक पहुंच प्रदान करेगा।"
-      },
-      "category": "Science & Technology",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.thehindu.com/sci-tech/science/feeder/default.rss"
-    },
-    {
-      "id": "ca_20260922_07",
-      "question": {
-        "en": "Who has been appointed as the vice-captain of the Tamil Nadu team for the upcoming Ranji Trophy?",
-        "hi": "आगामी रणजी ट्रॉफी के लिए तमिलनाडु टीम का उप-कप्तान किसे नियुक्त किया गया है?"
-      },
-      "options": [
-        {
-          "en": "Dinesh Karthik",
-          "hi": "दिनेश कार्तिक"
-        },
-        {
-          "en": "Washington Sundar",
-          "hi": "वाशिंगटन सुंदर"
-        },
-        {
-          "en": "Andre Siddarth",
-          "hi": "आंद्रे सिद्धार्थ"
-        },
-        {
-          "en": "Vijay Shankar",
-          "hi": "विजय शंकर"
-        }
-      ],
-      "correctAnswer": 2,
-      "explanation": {
-        "en": "Andre Siddarth has been appointed as the vice-captain of the Tamil Nadu team for the Ranji Trophy.",
-        "hi": "रणजी ट्रॉफी के लिए तमिलनाडु टीम के उप-कप्तान के रूप में आंद्रे सिद्धार्थ को नियुक्त किया गया है।"
-      },
-      "category": "Sports",
-      "difficulty": "hard",
-      "sourceUrl": "https://www.thehindu.com/sport/feeder/default.rss"
-    },
-    {
-      "id": "ca_20260922_08",
-      "question": {
-        "en": "Who has been appointed as the new head coach of Chennai Super Kings (CSK) for IPL 2027, replacing Stephen Fleming?",
-        "hi": "स्टीफन फ्लेमिंग की जगह, आईपीएल 2027 के लिए चेन्नई सुपर किंग्स (CSK) के नए मुख्य कोच के रूप में किसे नियुक्त किया गया है?"
-      },
-      "options": [
-        {
-          "en": "MS Dhoni",
-          "hi": "एमएस धोनी"
-        },
-        {
-          "en": "Zaheer Khan",
-          "hi": "जहीर खान"
-        },
-        {
-          "en": "Rahul Dravid",
-          "hi": "राहुल द्रविड़"
-        },
-        {
-          "en": "Michael Hussey",
-          "hi": "माइकल हसी"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "CSK has named former Indian pacer Zaheer Khan as the head coach for IPL 2027. He replaces Kiwi Stephen Fleming, who guided the Men in Yellow from 2009 to 2026.",
-        "hi": "सीएसके ने भारत के पूर्व तेज गेंदबाज जहीर खान को आईपीएल 2027 के लिए मुख्य कोच नियुक्त किया है। वह कीवी स्टीफन फ्लेमिंग की जगह लेंगे, जिन्होंने 2009 से 2026 तक टीम का मार्गदर्शन किया था।"
-      },
-      "category": "Sports",
-      "difficulty": "easy",
-      "sourceUrl": "https://www.thehindu.com/sport/feeder/default.rss"
-    },
-    {
-      "id": "ca_20260922_09",
-      "question": {
-        "en": "In the Chess Olympiad, which country handed the Indian men's team their first loss?",
-        "hi": "शतरंज ओलंपियाड में, किस देश ने भारतीय पुरुष टीम को पहली हार थमाई?"
-      },
-      "options": [
-        {
-          "en": "USA",
-          "hi": "संयुक्त राज्य अमेरिका"
-        },
-        {
-          "en": "China",
-          "hi": "चीन"
-        },
-        {
-          "en": "Uzbekistan",
-          "hi": "उज्बेकिस्तान"
-        },
-        {
-          "en": "Norway",
-          "hi": "नॉर्वे"
-        }
-      ],
-      "correctAnswer": 2,
-      "explanation": {
-        "en": "Uzbekistan handed the Indian men's team their first loss at the Chess Olympiad, while the Indian women's team beat the USA.",
-        "hi": "शतरंज ओलंपियाड में उज्बेकिस्तान ने भारतीय पुरुष टीम को पहली हार दी, जबकि भारतीय महिला टीम ने संयुक्त राज्य अमेरिका को हराया।"
-      },
-      "category": "Sports",
-      "difficulty": "easy",
-      "sourceUrl": "https://www.thehindu.com/sport/feeder/default.rss"
-    },
-    {
-      "id": "ca_20260922_10",
-      "question": {
-        "en": "Who has been appointed to head the ad-hoc committee to administer the Table Tennis Federation of India (TTFI)?",
-        "hi": "भारतीय टेबल टेनिस महासंघ (TTFI) के प्रशासन के लिए तदर्थ समिति का प्रमुख किसे नियुक्त किया गया है?"
-      },
-      "options": [
-        {
-          "en": "PT Usha",
-          "hi": "पीटी उषा"
-        },
-        {
-          "en": "Indu Puri",
-          "hi": "इंदु पुरी"
-        },
-        {
-          "en": "Achanta Sharath Kamal",
-          "hi": "अचंता शरत कमल"
-        },
-        {
-          "en": "Manika Batra",
-          "hi": "मनिका बत्रा"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "Indu Puri has been appointed to head the ad-hoc committee to administer the Table Tennis Federation of India (TTFI).",
-        "hi": "इंदु पुरी को भारतीय टेबल टेनिस महासंघ (TTFI) के प्रशासन के लिए तदर्थ समिति का प्रमुख नियुक्त किया गया है।"
-      },
-      "category": "Appointments & Commissions",
-      "difficulty": "hard",
-      "sourceUrl": "https://www.thehindu.com/sport/feeder/default.rss"
+      "sourceUrl": "https://www.reuters.com"
     }
   ]
 }
