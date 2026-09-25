@@ -1,0 +1,340 @@
+{
+  "date": "2026-09-25",
+  "topic": "SSC CGL Daily Current Affairs",
+  "source": "PIB / The Hindu / Economic Times / Indian Express / GKToday",
+  "lastUpdated": "2026-09-25T05:14:54+05:30",
+  "version": 1,
+  "totalQuestions": 10,
+  "quiz": [
+    {
+      "id": "ca_20260925_01",
+      "question": {
+        "en": "What is the general cut-off score for the recently announced NEET-PG 2026 results?",
+        "hi": "हाल ही में घोषित NEET-PG 2026 के परिणामों के लिए सामान्य कट-ऑफ स्कोर क्या है?"
+      },
+      "options": [
+        {
+          "en": "242",
+          "hi": "242"
+        },
+        {
+          "en": "262",
+          "hi": "262"
+        },
+        {
+          "en": "282",
+          "hi": "282"
+        },
+        {
+          "en": "302",
+          "hi": "302"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The NEET-PG 2026 results were declared recently, and the cut-off for the General category candidates was set at 262. Over 2.65 lakh candidates appeared for the exam.",
+        "hi": "हाल ही में NEET-PG 2026 के परिणाम घोषित किए गए, और सामान्य वर्ग के उम्मीदवारों के लिए कट-ऑफ 262 निर्धारित की गई। 2.65 लाख से अधिक उम्मीदवार परीक्षा में शामिल हुए।"
+      },
+      "category": "Important Days & Themes",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/neet-pg-2026-result-out-2-65-lakh-candidates-appeared-general-cut-off-at-262/articleshow/134472224.cms"
+    },
+    {
+      "id": "ca_20260925_02",
+      "question": {
+        "en": "Which major government health insurance scheme recently completed 8 years, benefiting 60 crore people with Rs 2 lakh crore in treatment?",
+        "hi": "किस प्रमुख सरकारी स्वास्थ्य बीमा योजना ने हाल ही में 8 साल पूरे किए हैं, जिससे 60 करोड़ लोगों को 2 लाख करोड़ रुपये के उपचार का लाभ मिला है?"
+      },
+      "options": [
+        {
+          "en": "CGHS (Central Government Health Scheme)",
+          "hi": "CGHS (केंद्र सरकार स्वास्थ्य योजना)"
+        },
+        {
+          "en": "Ayushman Bharat - PMJAY",
+          "hi": "आयुष्मान भारत - PMJAY"
+        },
+        {
+          "en": "Rashtriya Swasthya Bima Yojana",
+          "hi": "राष्ट्रीय स्वास्थ्य बीमा योजना"
+        },
+        {
+          "en": "Pradhan Mantri Suraksha Bima Yojana",
+          "hi": "प्रधानमंत्री सुरक्षा बीमा योजना"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Ayushman Bharat - Pradhan Mantri Jan Arogya Yojana (PMJAY) recently completed 8 years, benefiting around 60 crore individuals and providing treatments worth Rs 2 lakh crore. It was launched in 2018.",
+        "hi": "आयुष्मान भारत - प्रधानमंत्री जन आरोग्य योजना (PMJAY) ने हाल ही में 8 साल पूरे किए, जिससे लगभग 60 करोड़ लोगों को लाभ हुआ और 2 लाख करोड़ रुपये के उपचार प्रदान किए गए। इसे 2018 में लॉन्च किया गया था।"
+      },
+      "category": "Government Schemes",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/8-years-of-ayushman-bharat-60-crore-beneficiaries-rs-2-lakh-crore-in-treatment/articleshow/134472206.cms"
+    },
+    {
+      "id": "ca_20260925_03",
+      "question": {
+        "en": "In the context of the recent Asian Games, which Indian athlete won a bronze medal in the 10,000m running event?",
+        "hi": "हाल ही में हुए एशियाई खेलों के संदर्भ में, किस भारतीय एथलीट ने 10,000 मीटर दौड़ स्पर्धा में कांस्य पदक जीता है?"
+      },
+      "options": [
+        {
+          "en": "Parul Chaudhary",
+          "hi": "पारुल चौधरी"
+        },
+        {
+          "en": "Priyanka Goswami",
+          "hi": "प्रियंका गोस्वामी"
+        },
+        {
+          "en": "Seema Kumari",
+          "hi": "सीमा कुमारी"
+        },
+        {
+          "en": "Sanjivani Jadhav",
+          "hi": "संजीवनी जाधव"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Seema Kumari secured a bronze medal in the 10,000m running event at the Asian Games, marking a significant milestone in Indian athletics.",
+        "hi": "सीमा कुमारी ने एशियाई खेलों में 10,000 मीटर दौड़ स्पर्धा में कांस्य पदक हासिल किया, जो भारतीय एथलेटिक्स में एक महत्वपूर्ण उपलब्धि है।"
+      },
+      "category": "Sports",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games-2026/seema-kumari-runs-into-history-with-asian-games-10000m-bronze/articleshow/134463134.cms"
+    },
+    {
+      "id": "ca_20260925_04",
+      "question": {
+        "en": "Who has been appointed as the new head coach of the Mumbai Indians women's team (WPL) ahead of the 2027 season?",
+        "hi": "2027 सीज़न से पहले मुंबई इंडियंस महिला टीम (WPL) के नए मुख्य कोच के रूप में किसे नियुक्त किया गया है?"
+      },
+      "options": [
+        {
+          "en": "Luke Williams",
+          "hi": "ल्यूक विलियम्स"
+        },
+        {
+          "en": "Charlotte Edwards",
+          "hi": "शार्लोट एडवर्ड्स"
+        },
+        {
+          "en": "Jhulan Goswami",
+          "hi": "झूलन गोस्वामी"
+        },
+        {
+          "en": "Mithali Raj",
+          "hi": "मिताली राज"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "Luke Williams, the coach who led Royal Challengers Bangalore (RCB) to their first WPL title, has been appointed as the head coach of the Mumbai Indians for the 2027 season.",
+        "hi": "ल्यूक विलियम्स, वह कोच जिन्होंने रॉयल चैलेंजर्स बैंगलोर (RCB) को उनके पहले WPL खिताब तक पहुंचाया, 2027 सीज़न के लिए मुंबई इंडियंस के मुख्य कोच नियुक्त किए गए हैं।"
+      },
+      "category": "Appointments & Commissions",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/wpl/coach-who-delivered-rcbs-first-title-now-appointed-mumbai-indians-head-coach-ahead-of-2027-season/articleshow/134462402.cms"
+    },
+    {
+      "id": "ca_20260925_05",
+      "question": {
+        "en": "According to FSSAI's proposed draft amendment, which product must strictly be derived only from milk to use its specific name?",
+        "hi": "FSSAI के प्रस्तावित मसौदा संशोधन के अनुसार, किस उत्पाद का नाम उपयोग करने के लिए उसे केवल दूध से प्राप्त किया जाना अनिवार्य है?"
+      },
+      "options": [
+        {
+          "en": "Ghee",
+          "hi": "घी"
+        },
+        {
+          "en": "Paneer",
+          "hi": "पनीर"
+        },
+        {
+          "en": "Butter",
+          "hi": "मक्खन"
+        },
+        {
+          "en": "Curd",
+          "hi": "दही"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The Food Safety and Standards Authority of India (FSSAI) has proposed a draft amendment to ensure that only products derived solely from milk can be labelled and sold as 'Paneer'.",
+        "hi": "भारतीय खाद्य सुरक्षा और मानक प्राधिकरण (FSSAI) ने यह सुनिश्चित करने के लिए एक मसौदा संशोधन प्रस्तावित किया है कि केवल दूध से प्राप्त उत्पादों को ही 'पनीर' के रूप में बेचा जा सकता है।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/sci-tech/health/fssai-proposes-draft-amendment-to-ensure-only-milk-derived-products-are-represented-as-paneer/article71504727.ece"
+    },
+    {
+      "id": "ca_20260925_06",
+      "question": {
+        "en": "A new species of which plant genus was recently discovered and described from Arunachal Pradesh?",
+        "hi": "हाल ही में अरुणाचल प्रदेश से किस पौधे की प्रजाति (जीनस) की खोज की गई और उसका वर्णन किया गया है?"
+      },
+      "options": [
+        {
+          "en": "Rhododendron",
+          "hi": "रोडोडेंड्रोन"
+        },
+        {
+          "en": "Begonia",
+          "hi": "बेगोनिया"
+        },
+        {
+          "en": "Orchid",
+          "hi": "ऑर्किड"
+        },
+        {
+          "en": "Impatiens",
+          "hi": "इम्पेटेंस"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Researchers have recently discovered and described a new species of Begonia from the biodiversity hotspot of Arunachal Pradesh.",
+        "hi": "शोधकर्ताओं ने हाल ही में अरुणाचल प्रदेश के जैव विविधता हॉटस्पॉट से बेगोनिया की एक नई प्रजाति की खोज और वर्णन किया है।"
+      },
+      "category": "Environment & Ecology",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/sci-tech/energy-and-environment/new-begonia-species-described-from-arunachal-pradesh/article71503853.ece"
+    },
+    {
+      "id": "ca_20260925_07",
+      "question": {
+        "en": "Which country recently warned about the 'Thucydides Trap' during a high-level summit at the White House?",
+        "hi": "व्हाइट हाउस में एक उच्च स्तरीय शिखर सम्मेलन के दौरान हाल ही में किस देश ने 'थ्यूसिडाइड्स ट्रैप' (Thucydides Trap) के बारे में चेतावनी दी है?"
+      },
+      "options": [
+        {
+          "en": "Russia",
+          "hi": "रूस"
+        },
+        {
+          "en": "North Korea",
+          "hi": "उत्तर कोरिया"
+        },
+        {
+          "en": "China",
+          "hi": "चीन"
+        },
+        {
+          "en": "Iran",
+          "hi": "ईरान"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "During the Trump-Xi summit at the White House, Chinese President Xi Jinping warned against the 'Thucydides Trap', a concept where a rising power threatens to displace an established one, often leading to war.",
+        "hi": "व्हाइट हाउस में ट्रम्प-शी शिखर सम्मेलन के दौरान, चीनी राष्ट्रपति शी जिनपिंग ने 'थ्यूसिडाइड्स ट्रैप' के प्रति चेतावनी दी, जो एक ऐसी अवधारणा है जहां एक उभरती शक्ति स्थापित शक्ति को विस्थापित करने की धमकी देती है, जिससे अक्सर युद्ध होता है।"
+      },
+      "category": "International Summits",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.livemint.com/news/us-news/trumpxi-summit-xis-thucydides-trap-warning-push-for-taiwan-stance-6-key-takeaways-from-white-house-talks-11790284152049.html"
+    },
+    {
+      "id": "ca_20260925_08",
+      "question": {
+        "en": "Who has authored the newly released book titled 'Where Have the Birds Gone?'",
+        "hi": "हाल ही में विमोचित पुस्तक 'व्हेयर हैव द बर्ड्स गॉन?' (Where Have the Birds Gone?) के लेखक कौन हैं?"
+      },
+      "options": [
+        {
+          "en": "Salim Ali",
+          "hi": "सलीम अली"
+        },
+        {
+          "en": "Asad Rahmani",
+          "hi": "असद रहमानी"
+        },
+        {
+          "en": "Valmik Thapar",
+          "hi": "वाल्मीकि थापर"
+        },
+        {
+          "en": "Prerna Bindra",
+          "hi": "प्रेरणा बिंद्रा"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The book 'Where Have the Birds Gone?' is authored by noted ornithologist Asad Rahmani. It addresses the conservation status and decline of various bird species in India.",
+        "hi": "पुस्तक 'व्हेयर हैव द बर्ड्स गॉन?' प्रसिद्ध पक्षी विज्ञानी असद रहमानी द्वारा लिखी गई है। यह भारत में विभिन्न पक्षी प्रजातियों की संरक्षण स्थिति और उनकी घटती संख्या को संबोधित करती है।"
+      },
+      "category": "Books & Authors",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.thehindu.com/books/asad-rahmani-interview/article71481626.ece"
+    },
+    {
+      "id": "ca_20260925_09",
+      "question": {
+        "en": "According to recent reports regarding UPI MDR (Merchant Discount Rate), how is the revenue intended to be distributed?",
+        "hi": "यूपीआई एमडीआर (व्यापारी छूट दर) के संबंध में हालिया रिपोर्टों के अनुसार, राजस्व को कैसे वितरित करने का इरादा है?"
+      },
+      "options": [
+        {
+          "en": "It will all go to the Central Government",
+          "hi": "यह सब केंद्र सरकार को जाएगा"
+        },
+        {
+          "en": "It will be shared entirely with the RBI",
+          "hi": "इसे पूरी तरह से आरबीआई के साथ साझा किया जाएगा"
+        },
+        {
+          "en": "It will go to NPCI only",
+          "hi": "यह केवल एनपीसीआई (NPCI) को जाएगा"
+        },
+        {
+          "en": "It will be shared among banks and other entities, with no share for the government",
+          "hi": "इसे बैंकों और अन्य संस्थाओं के बीच साझा किया जाएगा, जिसमें सरकार का कोई हिस्सा नहीं होगा"
+        }
+      ],
+      "correctAnswer": 3,
+      "explanation": {
+        "en": "Recent updates on the UPI MDR suggest that 'not a single penny' will go to the government. Instead, the earnings will be shared among banks and other participating entities.",
+        "hi": "यूपीआई एमडीआर पर हालिया अपडेट बताते हैं कि सरकार को 'एक भी पैसा' नहीं जाएगा। इसके बजाय, आय बैंकों और अन्य भाग लेने वाली संस्थाओं के बीच साझा की जाएगी।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "hard",
+      "sourceUrl": "https://www.livemint.com/news/india/upi-mdr-not-a-single-penny-will-go-to-govt-earnings-to-be-shared-among-banks-and-other-entities-says-report-11790269413021.html"
+    },
+    {
+      "id": "ca_20260925_10",
+      "question": {
+        "en": "The G4 nations recently raised concerns about the UNSC losing its credibility and being unable to maintain global peace. Which of the following countries is NOT a member of the G4?",
+        "hi": "G4 देशों ने हाल ही में यूएनएससी (UNSC) की विश्वसनीयता खोने और वैश्विक शांति बनाए रखने में असमर्थ होने पर चिंता जताई है। निम्नलिखित में से कौन सा देश G4 का सदस्य नहीं है?"
+      },
+      "options": [
+        {
+          "en": "India",
+          "hi": "भारत"
+        },
+        {
+          "en": "Germany",
+          "hi": "जर्मनी"
+        },
+        {
+          "en": "South Africa",
+          "hi": "दक्षिण अफ्रीका"
+        },
+        {
+          "en": "Brazil",
+          "hi": "ब्राज़ील"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The G4 nations comprise Brazil, Germany, India, and Japan, which support each other's bids for permanent seats on the United Nations Security Council (UNSC). South Africa is not a member of the G4.",
+        "hi": "G4 देशों में ब्राजील, जर्मनी, भारत और जापान शामिल हैं, जो संयुक्त राष्ट्र सुरक्षा परिषद (UNSC) में स्थायी सीटों के लिए एक-दूसरे की दावेदारी का समर्थन करते हैं। दक्षिण अफ्रीका G4 का सदस्य नहीं है।"
+      },
+      "category": "International Summits",
+      "difficulty": "hard",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/g4-unsc-losing-its-credibility-unable-to-maintain-global-peace/articleshow/134470070.cms"
+    }
+  ]
+}
