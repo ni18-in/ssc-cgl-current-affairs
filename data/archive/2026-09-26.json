@@ -1,0 +1,340 @@
+{
+  "date": "2026-09-26",
+  "topic": "SSC CGL Daily Current Affairs",
+  "source": "PIB / The Hindu / Economic Times / Indian Express / GKToday",
+  "lastUpdated": "2026-09-26T06:00:00+05:30",
+  "version": 1,
+  "totalQuestions": 10,
+  "quiz": [
+    {
+      "id": "ca_20260926_01",
+      "question": {
+        "en": "Which major free trade agreement was recently ratified by India and is set to come into effect on October 20, 2026?",
+        "hi": "भारत द्वारा हाल ही में किस प्रमुख मुक्त व्यापार समझौते (FTA) को मंजूरी दी गई है, जो 20 अक्टूबर, 2026 से लागू होने वाला है?"
+      },
+      "options": [
+        {
+          "en": "India-UK FTA",
+          "hi": "भारत-यूके एफटीए (FTA)"
+        },
+        {
+          "en": "India-New Zealand FTA",
+          "hi": "भारत-न्यूजीलैंड एफटीए (FTA)"
+        },
+        {
+          "en": "India-EU FTA",
+          "hi": "भारत-ईयू एफटीए (FTA)"
+        },
+        {
+          "en": "India-Australia CECA",
+          "hi": "भारत-ऑस्ट्रेलिया सीईसीए (CECA)"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The India-New Zealand Free Trade Agreement (FTA) was recently ratified and is slated to come into effect on October 20, 2026, marking a significant milestone in bilateral trade relations.",
+        "hi": "भारत-न्यूजीलैंड मुक्त व्यापार समझौते (FTA) को हाल ही में मंजूरी दी गई है और यह 20 अक्टूबर, 2026 से लागू होने वाला है, जो द्विपक्षीय व्यापार संबंधों में एक महत्वपूर्ण मील का पत्थर है।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/opinion/editorial/trading-smart-on-the-india-new-zealand-fta/article71499956.ece"
+    },
+    {
+      "id": "ca_20260926_02",
+      "question": {
+        "en": "According to the latest OECD forecast, what is the upgraded growth rate expansion projected for the Indian economy in 2026-27?",
+        "hi": "नवीनतम ओईसीडी (OECD) पूर्वानुमान के अनुसार, 2026-27 में भारतीय अर्थव्यवस्था के लिए अनुमानित उन्नत विकास दर क्या है?"
+      },
+      "options": [
+        {
+          "en": "6.8%",
+          "hi": "6.8%"
+        },
+        {
+          "en": "7.1%",
+          "hi": "7.1%"
+        },
+        {
+          "en": "7.5%",
+          "hi": "7.5%"
+        },
+        {
+          "en": "8.0%",
+          "hi": "8.0%"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The Organisation for Economic Co-operation and Development (OECD) has become the latest global agency to upgrade India's growth projection, raising the 2026-27 economic expansion forecast to 7.1%.",
+        "hi": "आर्थिक सहयोग और विकास संगठन (OECD) ने भारत के विकास अनुमान को बढ़ाते हुए 2026-27 के लिए आर्थिक विस्तार का पूर्वानुमान 7.1% कर दिया है।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/business/Economy/oecd-becomes-latest-global-agency-to-upgrade-indias-growth-ups-2026-27-expansion-to-71/article71507443.ece"
+    },
+    {
+      "id": "ca_20260926_03",
+      "question": {
+        "en": "In the ongoing Asian Games 2026, Baranica Elangovan made history by winning India's first-ever medal in which sporting event?",
+        "hi": "चल रहे एशियाई खेल 2026 में, बरनिका एलनगोवन ने किस खेल प्रतियोगिता में भारत का पहला पदक जीतकर इतिहास रच दिया?"
+      },
+      "options": [
+        {
+          "en": "Heptathlon",
+          "hi": "हेप्टाथलॉन"
+        },
+        {
+          "en": "Pole Vault",
+          "hi": "पोल वॉल्ट"
+        },
+        {
+          "en": "Shot Put",
+          "hi": "शॉट पुट"
+        },
+        {
+          "en": "High Jump",
+          "hi": "हाई जंप"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Baranica Elangovan achieved a historic milestone for India by winning the country's first-ever pole vault medal at the Asian Games 2026.",
+        "hi": "बरनिका एलनगोवन ने एशियाई खेल 2026 में भारत का पहला पोल वॉल्ट पदक जीतकर एक ऐतिहासिक उपलब्धि हासिल की।"
+      },
+      "category": "Sports",
+      "difficulty": "hard",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games/baranica-elangovan-wins-indias-first-ever-pole-vault-medal-at-asian-games/articleshow/134492279.cms"
+    },
+    {
+      "id": "ca_20260926_04",
+      "question": {
+        "en": "The Armed Forces (Special Powers) Act (AFSPA) was recently extended in which three Northeast Indian states?",
+        "hi": "सशस्त्र बल (विशेषाधिकार) अधिनियम (AFSPA) को हाल ही में किन तीन पूर्वोत्तर भारतीय राज्यों में बढ़ाया गया है?"
+      },
+      "options": [
+        {
+          "en": "Assam, Meghalaya, and Tripura",
+          "hi": "असम, मेघालय और त्रिपुरा"
+        },
+        {
+          "en": "Nagaland, Manipur, and Arunachal Pradesh",
+          "hi": "नागालैंड, मणिपुर और अरुणाचल प्रदेश"
+        },
+        {
+          "en": "Mizoram, Sikkim, and Nagaland",
+          "hi": "मिजोरम, सिक्किम और नागालैंड"
+        },
+        {
+          "en": "Manipur, Assam, and Meghalaya",
+          "hi": "मणिपुर, असम और मेघालय"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The Central Government has extended the Armed Forces (Special Powers) Act (AFSPA) in the three northeastern states of Nagaland, Manipur, and Arunachal Pradesh to maintain public order.",
+        "hi": "केंद्र सरकार ने सार्वजनिक व्यवस्था बनाए रखने के लिए नागालैंड, मणिपुर और अरुणाचल प्रदेश के तीन पूर्वोत्तर राज्यों में सशस्त्र बल (विशेषाधिकार) अधिनियम (AFSPA) का विस्तार किया है।"
+      },
+      "category": "Defence & Security",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/afspa-extended-in-3-ne-states-kuki-group-chief-held-in-aizawl/articleshow/134495079.cms"
+    },
+    {
+      "id": "ca_20260926_05",
+      "question": {
+        "en": "Which tech giant recently unveiled five new sustainability initiatives in India, aiming to boost environmental conservation?",
+        "hi": "किस तकनीकी दिग्गज कंपनी ने हाल ही में पर्यावरण संरक्षण को बढ़ावा देने के उद्देश्य से भारत में पांच नई स्थिरता पहलों का अनावरण किया है?"
+      },
+      "options": [
+        {
+          "en": "Microsoft",
+          "hi": "माइक्रोसॉफ्ट"
+        },
+        {
+          "en": "Amazon",
+          "hi": "अमेज़ॅन"
+        },
+        {
+          "en": "Google",
+          "hi": "गूगल"
+        },
+        {
+          "en": "Meta",
+          "hi": "मेटा"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Google has announced five new sustainability initiatives in India, reflecting its commitment to leveraging technology for climate action and environmental protection.",
+        "hi": "गूगल ने भारत में पांच नई स्थिरता पहलों की घोषणा की है, जो जलवायु कार्रवाई और पर्यावरण संरक्षण के लिए प्रौद्योगिकी का लाभ उठाने की अपनी प्रतिबद्धता को दर्शाता है।"
+      },
+      "category": "Environment & Ecology",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/environment/google-unveils-five-new-sustainability-initiatives-in-india/articleshow/134492263.cms"
+    },
+    {
+      "id": "ca_20260926_06",
+      "question": {
+        "en": "Which financial instrument is emerging as India's 'new ocean of finance' to support marine and ocean-based sustainable projects?",
+        "hi": "समुद्री और महासागर-आधारित टिकाऊ परियोजनाओं का समर्थन करने के लिए भारत के 'वित्त के नए महासागर' के रूप में कौन सा वित्तीय साधन उभर रहा है?"
+      },
+      "options": [
+        {
+          "en": "Green Bonds",
+          "hi": "ग्रीन बांड"
+        },
+        {
+          "en": "Blue Bonds",
+          "hi": "ब्लू बांड"
+        },
+        {
+          "en": "Sovereign Gold Bonds",
+          "hi": "सॉवरेन गोल्ड बांड"
+        },
+        {
+          "en": "Masala Bonds",
+          "hi": "मसाला बांड"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Blue Bonds are gaining traction in India as a specialised financial instrument designed to raise capital for projects dedicated to ocean conservation and the sustainable 'blue economy'.",
+        "hi": "ब्लू बांड भारत में समुद्र संरक्षण और टिकाऊ 'नीली अर्थव्यवस्था' को समर्पित परियोजनाओं के लिए पूंजी जुटाने के लिए डिज़ाइन किए गए एक विशेष वित्तीय साधन के रूप में जोर पकड़ रहे हैं।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.thehindu.com/business/Economy/blue-bonds-indias-new-ocean-of-finance/article71502859.ece"
+    },
+    {
+      "id": "ca_20260926_07",
+      "question": {
+        "en": "According to the Supreme Court's latest directives, which Constitutional body has faced widespread protests by the opposition regarding the 'SIR' (Special Identification Register) issue?",
+        "hi": "सुप्रीम कोर्ट के नवीनतम निर्देशों के अनुसार, 'एसआईआर' (SIR) (विशेष पहचान रजिस्टर) मुद्दे के संबंध में विपक्ष द्वारा किस संवैधानिक निकाय को व्यापक विरोध का सामना करना पड़ा है?"
+      },
+      "options": [
+        {
+          "en": "Election Commission of India (ECI)",
+          "hi": "भारत निर्वाचन आयोग (ECI)"
+        },
+        {
+          "en": "Union Public Service Commission (UPSC)",
+          "hi": "संघ लोक सेवा आयोग (UPSC)"
+        },
+        {
+          "en": "Comptroller and Auditor General (CAG)",
+          "hi": "नियंत्रक एवं महालेखा परीक्षक (CAG)"
+        },
+        {
+          "en": "Finance Commission",
+          "hi": "वित्त आयोग"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "The Election Commission of India (ECI) has been at the center of political controversy over the Special Identification Register (SIR) issue, leading to nationwide protests and legal scrutiny.",
+        "hi": "भारत का चुनाव आयोग (ECI) विशेष पहचान रजिस्टर (SIR) मुद्दे को लेकर राजनीतिक विवाद के केंद्र में रहा है, जिससे देशव्यापी विरोध और कानूनी जांच हुई है।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/congress-ups-ante-against-cec-stages-protests-across-india/articleshow/134495076.cms"
+    },
+    {
+      "id": "ca_20260926_08",
+      "question": {
+        "en": "Where was the new global architecture for drought resilience launched during the UNCCD meet?",
+        "hi": "UNCCD बैठक के दौरान सूखा सहनशीलता के लिए नई वैश्विक वास्तुकला कहाँ लॉन्च की गई?"
+      },
+      "options": [
+        {
+          "en": "COP15",
+          "hi": "कॉप15 (COP15)"
+        },
+        {
+          "en": "COP17",
+          "hi": "कॉप17 (COP17)"
+        },
+        {
+          "en": "COP26",
+          "hi": "कॉप26 (COP26)"
+        },
+        {
+          "en": "COP28",
+          "hi": "कॉप28 (COP28)"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "At the COP17 meeting of the United Nations Convention to Combat Desertification (UNCCD), a new global architecture was launched to enhance worldwide drought resilience and land restoration.",
+        "hi": "मरुस्थलीकरण से निपटने के लिए संयुक्त राष्ट्र कन्वेंशन (UNCCD) की COP17 बैठक में, दुनिया भर में सूखे के प्रति लचीलापन और भूमि बहाली को बढ़ाने के लिए एक नई वैश्विक वास्तुकला शुरू की गई।"
+      },
+      "category": "International Summits",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/environment/cop17-new-global-architecture-for-drought-resilience-launched-at-unccd-meet/articleshow/134492260.cms"
+    },
+    {
+      "id": "ca_20260926_09",
+      "question": {
+        "en": "Which significant initiative evaluating 12 metrics was recently reviewed, revealing a 'patchy impact on growth, employment, and global share' over its 12-year run?",
+        "hi": "हाल ही में किस महत्वपूर्ण पहल की 12 मेट्रिक्स का मूल्यांकन करते हुए समीक्षा की गई, जिससे इसके 12 साल के कार्यकाल में 'विकास, रोजगार और वैश्विक हिस्सेदारी पर आंशिक प्रभाव' का पता चला?"
+      },
+      "options": [
+        {
+          "en": "Digital India",
+          "hi": "डिजिटल इंडिया"
+        },
+        {
+          "en": "Skill India",
+          "hi": "स्किल इंडिया"
+        },
+        {
+          "en": "Make in India",
+          "hi": "मेक इन इंडिया"
+        },
+        {
+          "en": "Start-up India",
+          "hi": "स्टार्ट-अप इंडिया"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The 'Make in India' initiative, launched 12 years ago to boost domestic manufacturing, was critically assessed across 12 metrics, indicating suboptimal outcomes in significantly raising employment and the manufacturing sector's GDP share.",
+        "hi": "घरेलू विनिर्माण को बढ़ावा देने के लिए 12 साल पहले शुरू की गई 'मेक इन इंडिया' पहल का 12 मेट्रिक्स में गंभीर रूप से मूल्यांकन किया गया था, जो रोजगार और विनिर्माण क्षेत्र के सकल घरेलू उत्पाद के हिस्से को महत्वपूर्ण रूप से बढ़ाने में उप-इष्टतम परिणामों का संकेत देता है।"
+      },
+      "category": "Government Schemes",
+      "difficulty": "hard",
+      "sourceUrl": "https://www.thehindu.com/business/Economy/12-years-of-make-in-india-in-12-metrics-low-and-patchy-impact-on-growth-employment-global-share/article71505448.ece"
+    },
+    {
+      "id": "ca_20260926_10",
+      "question": {
+        "en": "Which major global firm's CEO announced a plan to test an AI chip in space, pushing the boundaries of edge computing?",
+        "hi": "किस प्रमुख वैश्विक फर्म के सीईओ ने एज कंप्यूटिंग की सीमाओं को आगे बढ़ाते हुए अंतरिक्ष में एआई (AI) चिप का परीक्षण करने की योजना की घोषणा की?"
+      },
+      "options": [
+        {
+          "en": "SpaceX",
+          "hi": "स्पेसएक्स (SpaceX)"
+        },
+        {
+          "en": "Microsoft",
+          "hi": "माइक्रोसॉफ्ट (Microsoft)"
+        },
+        {
+          "en": "Google",
+          "hi": "गूगल (Google)"
+        },
+        {
+          "en": "Nvidia",
+          "hi": "एनवीडिया (Nvidia)"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Google has announced plans to test a new Artificial Intelligence (AI) chip in space, aiming to enhance data processing capabilities directly aboard satellites.",
+        "hi": "गूगल ने अंतरिक्ष में एक नई आर्टिफिशियल इंटेलिजेंस (AI) चिप का परीक्षण करने की योजना की घोषणा की है, जिसका उद्देश्य सीधे उपग्रहों पर डेटा प्रोसेसिंग क्षमताओं को बढ़ाना है।"
+      },
+      "category": "Science & Technology",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.thehindu.com/sci-tech/technology/google-to-test-ai-chip-in-space/article71507882.ece"
+    }
+  ]
+}
