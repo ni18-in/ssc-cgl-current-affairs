@@ -1,0 +1,340 @@
+{
+  "date": "2026-09-27",
+  "topic": "SSC CGL Daily Current Affairs",
+  "source": "PIB / The Hindu / Economic Times / Indian Express / GKToday",
+  "lastUpdated": "2026-09-27T06:00:00+05:30",
+  "version": 1,
+  "totalQuestions": 10,
+  "quiz": [
+    {
+      "id": "ca_20260927_01",
+      "question": {
+        "en": "Who stated that 'Justice must find its way to the citizen' recently?",
+        "hi": "हाल ही में किसने कहा कि 'न्याय को नागरिक तक अपना रास्ता खोजना चाहिए'?"
+      },
+      "options": [
+        {
+          "en": "CJI D.Y. Chandrachud",
+          "hi": "सीजेआई डी.वाई. चंद्रचूड़"
+        },
+        {
+          "en": "CJI Surya Kant",
+          "hi": "सीजेआई सूर्य कांत"
+        },
+        {
+          "en": "Justice Sanjiv Khanna",
+          "hi": "जस्टिस संजीव खन्ना"
+        },
+        {
+          "en": "Justice B.R. Gavai",
+          "hi": "जस्टिस बी.आर. गवई"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Chief Justice of India (CJI) designate Surya Kant emphasized that 'Justice must find its way to the citizen'. This highlights the proactive role of the judiciary in ensuring access to justice, as mandated by the Constitution of India.",
+        "hi": "भारत के मुख्य न्यायाधीश (CJI) नामित सूर्य कांत ने इस बात पर जोर दिया कि 'न्याय को नागरिक तक अपना रास्ता खोजना चाहिए'। यह भारत के संविधान द्वारा अनिवार्य रूप से न्याय तक पहुंच सुनिश्चित करने में न्यायपालिका की सक्रिय भूमिका पर प्रकाश डालता है।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/news/national/justice-must-find-its-way-to-the-citizen-cji-surya-kant/article71513548.ece"
+    },
+    {
+      "id": "ca_20260927_02",
+      "question": {
+        "en": "According to a recent statement by Finance Minister Nirmala Sitharaman, what economic growth rate can India achieve?",
+        "hi": "वित्त मंत्री निर्मला सीतारमण के हालिया बयान के अनुसार, भारत कितनी आर्थिक विकास दर हासिल कर सकता है?"
+      },
+      "options": [
+        {
+          "en": "Over 6%",
+          "hi": "6% से अधिक"
+        },
+        {
+          "en": "Over 7%",
+          "hi": "7% से अधिक"
+        },
+        {
+          "en": "Over 8%",
+          "hi": "8% से अधिक"
+        },
+        {
+          "en": "Over 10%",
+          "hi": "10% से अधिक"
+        }
+      ],
+      "correctAnswer": 3,
+      "explanation": {
+        "en": "Union Finance Minister Nirmala Sitharaman stated that India can achieve an economic growth rate of over 10%. She emphasized structural reforms and investments to boost the GDP. India's GDP growth is a critical factor evaluated by the IMF and World Bank.",
+        "hi": "केंद्रीय वित्त मंत्री निर्मला सीतारमण ने कहा कि भारत 10% से अधिक की आर्थिक विकास दर हासिल कर सकता है। उन्होंने सकल घरेलू उत्पाद (GDP) को बढ़ावा देने के लिए संरचनात्मक सुधारों और निवेश पर जोर दिया। भारत की जीडीपी वृद्धि आईएमएफ और विश्व बैंक द्वारा मूल्यांकन किया जाने वाला एक महत्वपूर्ण कारक है।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "easy",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/indicators/india-can-achieve-over-10-economic-growth-says-sitharaman/articleshow/134502947.cms"
+    },
+    {
+      "id": "ca_20260927_03",
+      "question": {
+        "en": "India is discussing the deployment of EPR nuclear technology and pumped hydro projects with which country's company EDF?",
+        "hi": "भारत किस देश की कंपनी ईडीएफ (EDF) के साथ ईपीआर (EPR) परमाणु तकनीक और पंपेड हाइड्रो परियोजनाओं की तैनाती पर चर्चा कर रहा है?"
+      },
+      "options": [
+        {
+          "en": "Russia",
+          "hi": "रूस"
+        },
+        {
+          "en": "France",
+          "hi": "फ्रांस"
+        },
+        {
+          "en": "USA",
+          "hi": "यूएसए (USA)"
+        },
+        {
+          "en": "Japan",
+          "hi": "जापान"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "India and the French state-owned utility company EDF are discussing the deployment of French EPR (Evolutionary Power Reactor) nuclear technology and pumped hydro projects. This move is aimed at boosting India's clean energy goals and reducing carbon emissions.",
+        "hi": "भारत और फ्रांसीसी सरकार के स्वामित्व वाली उपयोगिता कंपनी ईडीएफ फ्रांसीसी ईपीआर (विकासवादी शक्ति रिएक्टर) परमाणु तकनीक और पंपेड हाइड्रो परियोजनाओं की तैनाती पर चर्चा कर रहे हैं। इस कदम का उद्देश्य भारत के स्वच्छ ऊर्जा लक्ष्यों को बढ़ावा देना और कार्बन उत्सर्जन को कम करना है।"
+      },
+      "category": "Science & Technology",
+      "difficulty": "medium",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-edf-discuss-deployment-of-french-epr-nuclear-technology-pumped-hydro-projects/articleshow/134496431.cms"
+    },
+    {
+      "id": "ca_20260927_04",
+      "question": {
+        "en": "India is planning to keep which of the following out of its bilateral investment treaty framework according to a recent Cabinet note?",
+        "hi": "हालिया कैबिनेट नोट के अनुसार भारत निम्नलिखित में से किसे अपने द्विपक्षीय निवेश संधि ढांचे से बाहर रखने की योजना बना रहा है?"
+      },
+      "options": [
+        {
+          "en": "Technology Transfer",
+          "hi": "प्रौद्योगिकी हस्तांतरण"
+        },
+        {
+          "en": "Intellectual Property Rights",
+          "hi": "बौद्धिक संपदा अधिकार"
+        },
+        {
+          "en": "Taxation",
+          "hi": "कराधान (Taxation)"
+        },
+        {
+          "en": "Labor Laws",
+          "hi": "श्रम कानून"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "India is set to keep taxation issues out of its bilateral investment treaty (BIT) framework to safeguard its sovereign right to tax. A Cabinet note regarding this is ready, reflecting India's cautious approach towards international arbitration in tax matters.",
+        "hi": "भारत अपने कर लगाने के संप्रभु अधिकार को सुरक्षित रखने के लिए कराधान के मुद्दों को अपनी द्विपक्षीय निवेश संधि (BIT) ढांचे से बाहर रखने के लिए तैयार है। कर मामलों में अंतरराष्ट्रीय मध्यस्थता के प्रति भारत के सतर्क दृष्टिकोण को दर्शाते हुए इसके संबंध में एक कैबिनेट नोट तैयार है।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "hard",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/policy/india-to-keep-taxation-out-of-bilateral-investment-treaty-framework-cabinet-note-ready/articleshow/134496351.cms"
+    },
+    {
+      "id": "ca_20260927_05",
+      "question": {
+        "en": "According to Commerce Minister Piyush Goyal, India is working on a comprehensive economic pact and bilateral investment treaty with which country?",
+        "hi": "वाणिज्य मंत्री पीयूष गोयल के अनुसार, भारत किस देश के साथ एक व्यापक आर्थिक समझौते और द्विपक्षीय निवेश संधि पर काम कर रहा है?"
+      },
+      "options": [
+        {
+          "en": "United Kingdom",
+          "hi": "यूनाइटेड किंगडम"
+        },
+        {
+          "en": "Australia",
+          "hi": "ऑस्ट्रेलिया"
+        },
+        {
+          "en": "Canada",
+          "hi": "कनाडा"
+        },
+        {
+          "en": "European Union",
+          "hi": "यूरोपीय संघ"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "India and Australia are actively working on concluding a Comprehensive Economic Cooperation Agreement (CECA) and a Bilateral Investment Treaty (BIT). This will deepen economic ties and facilitate greater trade and investment flows between the two nations.",
+        "hi": "भारत और ऑस्ट्रेलिया एक व्यापक आर्थिक सहयोग समझौते (CECA) और द्विपक्षीय निवेश संधि (BIT) को संपन्न करने पर सक्रिय रूप से काम कर रहे हैं। इससे आर्थिक संबंध गहरे होंगे और दोनों देशों के बीच अधिक व्यापार और निवेश प्रवाह की सुविधा मिलेगी।"
+      },
+      "category": "International Summits",
+      "difficulty": "medium",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-australia-working-on-comprehensive-economic-pact-bilateral-investment-treaty-piyush-goyal/articleshow/134496160.cms"
+    },
+    {
+      "id": "ca_20260927_06",
+      "question": {
+        "en": "Which country recently signed an MoU with the US on strategic civil nuclear cooperation?",
+        "hi": "हाल ही में किस देश ने सामरिक असैन्य परमाणु सहयोग पर अमेरिका के साथ एक समझौता ज्ञापन (MoU) पर हस्ताक्षर किए हैं?"
+      },
+      "options": [
+        {
+          "en": "Sri Lanka",
+          "hi": "श्रीलंका"
+        },
+        {
+          "en": "Bangladesh",
+          "hi": "बांग्लादेश"
+        },
+        {
+          "en": "Nepal",
+          "hi": "नेपाल"
+        },
+        {
+          "en": "Maldives",
+          "hi": "मालदीव"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Bangladesh and the United States have signed a Memorandum of Understanding (MoU) on strategic civil nuclear cooperation. This agreement aims to enhance energy ties and technological collaboration for peaceful uses of nuclear energy.",
+        "hi": "बांग्लादेश और संयुक्त राज्य अमेरिका ने सामरिक नागरिक परमाणु सहयोग पर एक समझौता ज्ञापन (MoU) पर हस्ताक्षर किए हैं। इस समझौते का उद्देश्य परमाणु ऊर्जा के शांतिपूर्ण उपयोग के लिए ऊर्जा संबंधों और तकनीकी सहयोग को बढ़ाना है।"
+      },
+      "category": "International Summits",
+      "difficulty": "medium",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/defence/bangladesh-us-sign-mou-on-strategic-civil-nuclear-cooperation/articleshow/134500887.cms"
+    },
+    {
+      "id": "ca_20260927_07",
+      "question": {
+        "en": "The multinational air exercise 'Tarang Shakti' recently saw participation from over 40 countries and aircraft like F-35s and Rafales. In which Indian city is it being held?",
+        "hi": "बहुराष्ट्रीय वायु अभ्यास 'तरंग शक्ति' में हाल ही में 40 से अधिक देशों और F-35 और राफेल जैसे विमानों की भागीदारी देखी गई। यह किस भारतीय शहर में आयोजित किया जा रहा है?"
+      },
+      "options": [
+        {
+          "en": "Gwalior",
+          "hi": "ग्वालियर"
+        },
+        {
+          "en": "Ambala",
+          "hi": "अम्बाला"
+        },
+        {
+          "en": "Jodhpur",
+          "hi": "जोधपुर"
+        },
+        {
+          "en": "Pune",
+          "hi": "पुणे"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The Indian Air Force's massive multilateral exercise 'Tarang Shakti' is being hosted in Jodhpur, Rajasthan. It is India's largest international air exercise, showcasing interoperability among global air forces.",
+        "hi": "भारतीय वायु सेना के विशाल बहुपक्षीय अभ्यास 'तरंग शक्ति' की मेजबानी जोधपुर, राजस्थान में की जा रही है। यह भारत का सबसे बड़ा अंतरराष्ट्रीय हवाई अभ्यास है, जो वैश्विक वायु सेनाओं के बीच अंतर-संचालन क्षमता को प्रदर्शित करता है।"
+      },
+      "category": "Defence & Security",
+      "difficulty": "easy",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/defence/f-35s-rafales-and-f-16s-descend-on-jodhpur-as-40-countries-join-indias-tarang-shakti/articleshow/134500874.cms"
+    },
+    {
+      "id": "ca_20260927_08",
+      "question": {
+        "en": "According to Russian Deputy Foreign Minister Andrey Rudenko, imports of which commodity cushioned India from a global price shock?",
+        "hi": "रूसी उप विदेश मंत्री एंड्री रुडेंको के अनुसार, किस वस्तु के आयात ने भारत को वैश्विक मूल्य झटके से बचाया?"
+      },
+      "options": [
+        {
+          "en": "Natural Gas",
+          "hi": "प्राकृतिक गैस"
+        },
+        {
+          "en": "Uranium",
+          "hi": "यूरेनियम"
+        },
+        {
+          "en": "Russian Crude Oil",
+          "hi": "रूसी कच्चा तेल"
+        },
+        {
+          "en": "Coal",
+          "hi": "कोयला"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Russian official Andrey Rudenko stated that India's decision to import Russian crude oil at discounted rates cushioned its economy from a potential global oil price shock. This strategic move helped India manage its inflation and energy security.",
+        "hi": "रूसी अधिकारी एंड्री रुडेंको ने कहा कि रियायती दरों पर रूसी कच्चा तेल आयात करने के भारत के फैसले ने इसकी अर्थव्यवस्था को संभावित वैश्विक तेल मूल्य झटके से बचाया। इस रणनीतिक कदम ने भारत को अपनी मुद्रास्फीति और ऊर्जा सुरक्षा का प्रबंधन करने में मदद की।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "medium",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/foreign-trade/russian-crude-cushioned-india-from-oil-shock-says-andrey-rudenko/articleshow/134510287.cms"
+    },
+    {
+      "id": "ca_20260927_09",
+      "question": {
+        "en": "Who recently rejected Iran's proposal to reopen the strategic Strait of Hormuz?",
+        "hi": "हाल ही में सामरिक होर्मुज जलडमरूमध्य को फिर से खोलने के ईरान के प्रस्ताव को किसने खारिज कर दिया?"
+      },
+      "options": [
+        {
+          "en": "Joe Biden",
+          "hi": "जो बाइडेन"
+        },
+        {
+          "en": "Donald Trump",
+          "hi": "डोनाल्ड ट्रंप"
+        },
+        {
+          "en": "Rishi Sunak",
+          "hi": "ऋषि सुनक"
+        },
+        {
+          "en": "Emmanuel Macron",
+          "hi": "इमैनुएल मैक्रॉन"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Former US President Donald Trump rejected a proposal by Iran aimed at reopening the strategic Strait of Hormuz. The Strait of Hormuz is a crucial global chokepoint for oil trade, and its closure significantly impacts global energy markets.",
+        "hi": "अमेरिका के पूर्व राष्ट्रपति डोनाल्ड ट्रंप ने सामरिक होर्मुज जलडमरूमध्य को फिर से खोलने के ईरान के एक प्रस्ताव को खारिज कर दिया। होर्मुज जलडमरूमध्य तेल व्यापार के लिए एक महत्वपूर्ण वैश्विक चोकपॉइंट है, और इसके बंद होने से वैश्विक ऊर्जा बाजार काफी प्रभावित होते हैं।"
+      },
+      "category": "Defence & Security",
+      "difficulty": "hard",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/defence/trump-rejects-irans-proposal-to-reopen-strait-of-hormuz/articleshow/134506859.cms"
+    },
+    {
+      "id": "ca_20260927_10",
+      "question": {
+        "en": "The recent joint protest planned against the Election Commission of India (ECI) on October 4 is being organized by MNS and which other political party?",
+        "hi": "4 अक्टूबर को भारत के चुनाव आयोग (ECI) के खिलाफ योजनाबद्ध हालिया संयुक्त विरोध प्रदर्शन मनसे (MNS) और किस अन्य राजनीतिक दल द्वारा आयोजित किया जा रहा है?"
+      },
+      "options": [
+        {
+          "en": "NCP",
+          "hi": "एनसीपी (NCP)"
+        },
+        {
+          "en": "Shiv Sena (UBT)",
+          "hi": "शिवसेना (यूबीटी)"
+        },
+        {
+          "en": "Congress",
+          "hi": "कांग्रेस"
+        },
+        {
+          "en": "BJP",
+          "hi": "बीजेपी (BJP)"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The Maharashtra Navnirman Sena (MNS) and Shiv Sena (UBT) have decided to hold a joint protest on October 4 against the Election Commission of India (ECI). The Election Commission of India is an autonomous constitutional authority responsible for administering election processes in India at national, state and district level.",
+        "hi": "महाराष्ट्र नवनिर्माण सेना (MNS) और शिव सेना (UBT) ने 4 अक्टूबर को भारत के चुनाव आयोग (ECI) के खिलाफ संयुक्त विरोध प्रदर्शन करने का फैसला किया है। भारत का चुनाव आयोग राष्ट्रीय, राज्य और जिला स्तर पर भारत में चुनाव प्रक्रियाओं के प्रशासन के लिए जिम्मेदार एक स्वायत्त संवैधानिक प्राधिकरण है।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.thehindu.com/news/national/maharashtra/mns-and-shiv-sena-ubt-to-hold-join-protest-on-october-4-against-eci/article71514206.ece"
+    }
+  ]
+}
