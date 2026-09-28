@@ -1,340 +1,340 @@
 {
-  "date": "2026-09-28",
+  "date": "2026-09-29",
   "topic": "SSC CGL Daily Current Affairs",
-  "source": "The Hindu / Economic Times / Times of India",
-  "lastUpdated": "2026-09-28T06:00:00+05:30",
+  "source": "The Hindu / Economic Times / Times of India / PIB",
+  "lastUpdated": "2026-09-29T06:00:00+05:30",
   "version": 1,
   "totalQuestions": 10,
   "quiz": [
     {
-      "id": "ca_20260928_01",
+      "id": "ca_20260929_01",
       "question": {
-        "en": "With which country did India and its state-owned utility company EDF discuss the deployment of EPR nuclear technology and pumped hydro projects?",
-        "hi": "भारत और उसके राज्य के स्वामित्व वाली उपयोगिता कंपनी EDF ने किस देश के साथ EPR परमाणु प्रौद्योगिकी और पंप किए गए हाइड्रो प्रोजेक्ट्स की तैनाती पर चर्चा की?"
+        "en": "With which country is the Indian Army conducting a joint military exercise to boost counter-terrorism capabilities from September 28 to October 11, 2026?",
+        "hi": "भारतीय सेना किस देश के साथ 28 सितंबर से 11 अक्टूबर 2026 तक आतंकवाद विरोधी क्षमताओं को बढ़ावा देने के लिए संयुक्त सैन्य अभ्यास कर रही है?"
       },
       "options": [
         {
-          "en": "USA",
-          "hi": "यूएसए"
+          "en": "Uzbekistan",
+          "hi": "उज़्बेकिस्तान"
         },
         {
-          "en": "France",
-          "hi": "फ्रांस"
+          "en": "Kazakhstan",
+          "hi": "कजाखस्तान"
+        },
+        {
+          "en": "Tajikistan",
+          "hi": "तजाकिस्तान"
+        },
+        {
+          "en": "Kyrgyzstan",
+          "hi": "किर्गिस्तान"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "India and Kazakhstan are conducting a joint military exercise to boost counter-terrorism capabilities from September 28 to October 11. Indian troops, primarily from the Garhwal Rifles, will participate. The capital of Kazakhstan is Astana, and its currency is the Tenge.",
+        "hi": "भारत और कजाखस्तान 28 सितंबर से 11 अक्टूबर तक आतंकवाद विरोधी क्षमताओं को बढ़ाने के लिए एक संयुक्त सैन्य अभ्यास कर रहे हैं। मुख्य रूप से गढ़वाल राइफल्स के भारतीय सैनिक भाग लेंगे। कजाखस्तान की राजधानी अस्ताना है, और इसकी मुद्रा तेंगे है।"
+      },
+      "category": "Defence & Security",
+      "difficulty": "medium",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/defence/india-kazakhstan-military-exercise-to-boost-capabilities-to-undertake-joint-counter-terror-operations/articleshow/134543416.cms"
+    },
+    {
+      "id": "ca_20260929_02",
+      "question": {
+        "en": "According to Defence Secretary Rajesh Kumar Singh, by when is India's LCA Mk2 medium-weight fighter prototype expected to make its first flight?",
+        "hi": "रक्षा सचिव राजेश कुमार सिंह के अनुसार, भारत के एलसीए एमके2 (LCA Mk2) मध्यम-वजन वाले लड़ाकू प्रोटोटाइप की पहली उड़ान कब तक होने की उम्मीद है?"
+      },
+      "options": [
+        {
+          "en": "September 2027",
+          "hi": "सितंबर 2027"
+        },
+        {
+          "en": "September 2028",
+          "hi": "सितंबर 2028"
+        },
+        {
+          "en": "June 2026",
+          "hi": "जून 2026"
+        },
+        {
+          "en": "December 2029",
+          "hi": "दिसंबर 2029"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "India's LCA Mk2 medium-weight fighter prototype is expected to fly by September 2027, as confirmed by Defence Secretary Rajesh Kumar Singh. The Advanced Medium Combat Aircraft (AMCA) is targeted for its first flight in September 2028.",
+        "hi": "रक्षा सचिव राजेश कुमार सिंह द्वारा पुष्टि की गई है कि भारत के एलसीए एमके2 मध्यम-वजन वाले लड़ाकू विमान का प्रोटोटाइप सितंबर 2027 तक उड़ान भरने की उम्मीद है। उन्नत मध्यम लड़ाकू विमान (AMCA) की पहली उड़ान का लक्ष्य सितंबर 2028 है।"
+      },
+      "category": "Defence & Security",
+      "difficulty": "hard",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/defence/lca-mk2-amca-first-flight-dates-confirmed-defence-secretary-reveals-timeline-for-indias-next-gen-fighter-jets/articleshow/134539558.cms"
+    },
+    {
+      "id": "ca_20260929_03",
+      "question": {
+        "en": "Which organisation has collaborated with CSIR-Central Glass and Ceramic Research Institute (CGCRI) to develop lightweight bulletproof glass for armored vehicles?",
+        "hi": "बख्तरबंद वाहनों के लिए हल्के बुलेटप्रूफ ग्लास विकसित करने के लिए किस संगठन ने सीएसआईआर-सेंट्रल ग्लास एंड सिरेमिक रिसर्च इंस्टीट्यूट (CGCRI) के साथ सहयोग किया है?"
+      },
+      "options": [
+        {
+          "en": "ISRO",
+          "hi": "इसरो"
+        },
+        {
+          "en": "HAL",
+          "hi": "एचएएल (HAL)"
+        },
+        {
+          "en": "DRDO",
+          "hi": "डीआरडीओ (DRDO)"
+        },
+        {
+          "en": "BHEL",
+          "hi": "भेल (BHEL)"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The Defence Research and Development Organisation (DRDO) and CSIR-CGCRI are collaborating on a Rs 50-crore project to develop indigenous lightweight bulletproof glass technology for armored vehicles. DRDO was established in 1958 and its headquarters are in New Delhi.",
+        "hi": "रक्षा अनुसंधान एवं विकास संगठन (DRDO) और CSIR-CGCRI बख्तरबंद वाहनों के लिए स्वदेशी हल्के बुलेटप्रूफ ग्लास तकनीक विकसित करने के लिए 50 करोड़ रुपये की परियोजना पर सहयोग कर रहे हैं। डीआरडीओ की स्थापना 1958 में हुई थी और इसका मुख्यालय नई दिल्ली में है।"
+      },
+      "category": "Science & Technology",
+      "difficulty": "medium",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/defence/drdo-csir-cgcri-join-hands-on-rs-50-crore-project-to-develop-lighter-bulletproof-glass/articleshow/134533136.cms"
+    },
+    {
+      "id": "ca_20260929_04",
+      "question": {
+        "en": "What is the name of the vision introduced by Indian Army Chief General Dhiraj Seth to boost the operational capabilities of the Indian Army?",
+        "hi": "भारतीय सेना की परिचालन क्षमताओं को बढ़ावा देने के लिए भारतीय सेना प्रमुख जनरल धीरज सेठ द्वारा पेश किए गए विज़न का नाम क्या है?"
+      },
+      "options": [
+        {
+          "en": "SAKSHAM",
+          "hi": "सक्षम (SAKSHAM)"
+        },
+        {
+          "en": "SAMARTH",
+          "hi": "समर्थ (SAMARTH)"
+        },
+        {
+          "en": "PRATAP",
+          "hi": "प्रताप (PRATAP)"
+        },
+        {
+          "en": "VIRAT",
+          "hi": "विराट (VIRAT)"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Indian Army Chief General Dhiraj Seth introduced the vision 'SAMARTH', focusing on sustainability, adaptation, modernization, acceleration, resilience, technology, and human-machine collaboration to prepare against emerging threats.",
+        "hi": "भारतीय सेना प्रमुख जनरल धीरज सेठ ने 'समर्थ (SAMARTH)' विज़न पेश किया, जो उभरते खतरों से निपटने के लिए स्थिरता, अनुकूलन, आधुनिकीकरण, त्वरण, लचीलापन, प्रौद्योगिकी और मानव-मशीन सहयोग पर केंद्रित है।"
+      },
+      "category": "Defence & Security",
+      "difficulty": "easy",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/defence/general-dhiraj-seth-spells-out-samarth-vision-for-boosting-indian-armys-operational-capabilities/articleshow/134521891.cms"
+    },
+    {
+      "id": "ca_20260929_05",
+      "question": {
+        "en": "With which country's space agency is India's ISRO fast-tracking the 'Trishna' satellite mission to map the Earth's water sources?",
+        "hi": "भारत का इसरो पृथ्वी के जल स्रोतों का मानचित्रण करने के लिए 'तृष्णा (Trishna)' उपग्रह मिशन को किस देश की अंतरिक्ष एजेंसी के साथ तेजी से आगे बढ़ा रहा है?"
+      },
+      "options": [
+        {
+          "en": "USA (NASA)",
+          "hi": "यूएसए (NASA)"
+        },
+        {
+          "en": "France (CNES)",
+          "hi": "फ्रांस (CNES)"
+        },
+        {
+          "en": "Russia (Roscosmos)",
+          "hi": "रूस (Roscosmos)"
+        },
+        {
+          "en": "Japan (JAXA)",
+          "hi": "जापान (JAXA)"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The Indo-French satellite mission 'Trishna' (Thermal infraRed Imaging Satellite for High-resolution Natural resource Assessment) is being fast-tracked by ISRO and CNES (France) to map Earth's surface temperature and water sources. Space Minister Jitendra Singh highlighted the project's significance.",
+        "hi": "इंडो-फ्रेंच उपग्रह मिशन 'तृष्णा' को इसरो और CNES (फ्रांस) द्वारा पृथ्वी की सतह के तापमान और जल स्रोतों का मानचित्रण करने के लिए तेजी से आगे बढ़ाया जा रहा है। अंतरिक्ष मंत्री जितेंद्र सिंह ने इस परियोजना के महत्व पर प्रकाश डाला।"
+      },
+      "category": "Science & Technology",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/indo-french-sat-mission-trishna-to-map-earths-water-sources-on-fast-track-space-minister-jitendra-singh/articleshow/134547692.cms"
+    },
+    {
+      "id": "ca_20260929_06",
+      "question": {
+        "en": "To recover Rs 20,000 crore in pending e-traffic challans, the Supreme Court has suggested linking the unpaid fines to which of the following bills?",
+        "hi": "लंबित ई-ट्रैफिक चालान में 20,000 करोड़ रुपये की वसूली के लिए, सर्वोच्च न्यायालय ने अवैतनिक जुर्माने को निम्नलिखित में से किस बिल से जोड़ने का सुझाव दिया है?"
+      },
+      "options": [
+        {
+          "en": "Water Bills",
+          "hi": "पानी का बिल"
+        },
+        {
+          "en": "Property Tax Bills",
+          "hi": "संपत्ति कर बिल"
+        },
+        {
+          "en": "Electricity Bills",
+          "hi": "बिजली का बिल"
+        },
+        {
+          "en": "Income Tax Returns",
+          "hi": "आयकर रिटर्न"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "To address the significant outstanding balance of Rs 20,000 crore in unpaid traffic e-challans, the Supreme Court suggested linking unpaid fines to electricity bills to encourage payment across states and union territories.",
+        "hi": "अवैतनिक ट्रैफिक ई-चालान में 20,000 करोड़ रुपये की महत्वपूर्ण बकाया राशि का समाधान करने के लिए, सर्वोच्च न्यायालय ने राज्यों और केंद्र शासित प्रदेशों में भुगतान को प्रोत्साहित करने के लिए अवैतनिक जुर्माने को बिजली बिलों से जोड़ने का सुझाव दिया।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/rs-20k-cr-dues-pending-sc-suggests-recovering-e-traffic-challans-by-linking-them-to-electricity-bills/articleshow/134546499.cms"
+    },
+    {
+      "id": "ca_20260929_07",
+      "question": {
+        "en": "Recently, Indian refiners are looking at alternative oil sources like UAE Murban and Iraqi Basrah crude due to declining imports from which country?",
+        "hi": "हाल ही में, किस देश से आयात में गिरावट के कारण भारतीय रिफाइनर यूएई मूरबन और इराकी बसरा क्रूड जैसे वैकल्पिक तेल स्रोतों की तलाश कर रहे हैं?"
+      },
+      "options": [
+        {
+          "en": "Iran",
+          "hi": "ईरान"
+        },
+        {
+          "en": "Venezuela",
+          "hi": "वेनेज़ुएला"
         },
         {
           "en": "Russia",
           "hi": "रूस"
         },
         {
-          "en": "Japan",
-          "hi": "जापान"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "India and France’s state-owned utility company EDF are discussing the deployment of French EPR (Evolutionary Power Reactor) nuclear technology and pumped hydro projects to boost clean energy.",
-        "hi": "भारत और फ्रांस की राज्य के स्वामित्व वाली उपयोगिता कंपनी EDF फ्रांसीसी EPR (इवोल्यूशनरी पावर रिएक्टर) परमाणु प्रौद्योगिकी और स्वच्छ ऊर्जा को बढ़ावा देने के लिए पंप किए गए हाइड्रो प्रोजेक्ट्स की तैनाती पर चर्चा कर रहे हैं।"
-      },
-      "category": "Science & Technology",
-      "difficulty": "medium",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-edf-discuss-deployment-of-french-epr-nuclear-technology-pumped-hydro-projects/articleshow/134496431.cms"
-    },
-    {
-      "id": "ca_20260928_02",
-      "question": {
-        "en": "Where did six American F-35 fighter jets and over 200 US airmen arrive to participate in Exercise Tarang Shakti?",
-        "hi": "तरंग शक्ति अभ्यास में भाग लेने के लिए छह अमेरिकी F-35 लड़ाकू जेट और 200 से अधिक अमेरिकी वायुसैनिक कहाँ पहुँचे?"
-      },
-      "options": [
-        {
-          "en": "Gwalior",
-          "hi": "ग्वालियर"
-        },
-        {
-          "en": "Jodhpur",
-          "hi": "जोधपुर"
-        },
-        {
-          "en": "Ambala",
-          "hi": "अम्बाला"
-        },
-        {
-          "en": "Pune",
-          "hi": "पुणे"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "Six American F-35 fighter jets and over 200 US airmen arrived in Jodhpur to participate in Exercise Tarang Shakti. The exercise features participation from more than 40 countries to strengthen international cooperation.",
-        "hi": "छह अमेरिकी F-35 लड़ाकू जेट और 200 से अधिक अमेरिकी वायुसैनिक जोधपुर में तरंग शक्ति अभ्यास में भाग लेने के लिए पहुँचे। इस अभ्यास में अंतर्राष्ट्रीय सहयोग को मजबूत करने के लिए 40 से अधिक देशों की भागीदारी है।"
-      },
-      "category": "Defence & Security",
-      "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/f-35-fighter-jets-200-airmen-arrive-as-us-participates-in-indias-tarang-shakti-air-exercise/articleshow/134523566.cms"
-    },
-    {
-      "id": "ca_20260928_03",
-      "question": {
-        "en": "According to the recent announcement, which country's ambassador observed a joint demonstration by Indian and US Army personnel during the Tarang Shakti exercise?",
-        "hi": "हालिया घोषणा के अनुसार, किस देश के राजदूत ने तरंग शक्ति अभ्यास के दौरान भारतीय और अमेरिकी सेना के जवानों द्वारा संयुक्त प्रदर्शन देखा?"
-      },
-      "options": [
-        {
-          "en": "UK",
-          "hi": "यूके"
-        },
-        {
-          "en": "France",
-          "hi": "फ्रांस"
-        },
-        {
-          "en": "USA",
-          "hi": "यूएसए"
-        },
-        {
-          "en": "Australia",
-          "hi": "ऑस्ट्रेलिया"
+          "en": "Saudi Arabia",
+          "hi": "सऊदी अरब"
         }
       ],
       "correctAnswer": 2,
       "explanation": {
-        "en": "US Ambassador Sergio Gor and Indian officials observed a joint demonstration by Indian and US Army personnel during Exercise Tarang Shakti in Jodhpur, deepening bilateral training and trust.",
-        "hi": "अमेरिकी राजदूत सर्जियो गोर और भारतीय अधिकारियों ने जोधपुर में अभ्यास तरंग शक्ति के दौरान भारतीय और अमेरिकी सेना के जवानों द्वारा एक संयुक्त प्रदर्शन देखा, जिससे द्विपक्षीय प्रशिक्षण और विश्वास गहरा हुआ।"
-      },
-      "category": "Defence & Security",
-      "difficulty": "easy",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/f-35-fighter-jets-200-airmen-arrive-as-us-participates-in-indias-tarang-shakti-air-exercise/articleshow/134523566.cms"
-    },
-    {
-      "id": "ca_20260928_04",
-      "question": {
-        "en": "The Reserve Bank of India (RBI) recently reversed its decision regarding the repatriation of export earnings. What is the new deadline set for bringing back export proceeds?",
-        "hi": "भारतीय रिजर्व बैंक (RBI) ने हाल ही में निर्यात आय के प्रत्यावर्तन के संबंध में अपने निर्णय को उलट दिया। निर्यात आय वापस लाने के लिए नई समय सीमा क्या तय की गई है?"
-      },
-      "options": [
-        {
-          "en": "6 months",
-          "hi": "6 महीने"
-        },
-        {
-          "en": "9 months",
-          "hi": "9 महीने"
-        },
-        {
-          "en": "12 months",
-          "hi": "12 महीने"
-        },
-        {
-          "en": "15 months",
-          "hi": "15 महीने"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "The RBI reversed a previous decision that allowed 15 months, setting a new deadline of 9 months to repatriate export earnings. This aims to increase dollar liquidity and support the Indian rupee.",
-        "hi": "RBI ने 15 महीने की अनुमति देने वाले पिछले निर्णय को उलट दिया, और निर्यात आय को वापस लाने के लिए 9 महीने की नई समय सीमा तय की। इसका उद्देश्य डॉलर की तरलता बढ़ाना और भारतीय रुपये का समर्थन करना है।"
-      },
-      "category": "Economy & Banking",
-      "difficulty": "hard",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/foreign-trade/rbi-withdraws-relaxation-on-export-earnings-repatriation/articleshow/134491742.cms"
-    },
-    {
-      "id": "ca_20260928_05",
-      "question": {
-        "en": "India is currently revisiting a proposed law and planning to consult industry and startups. What is the primary subject of this proposed law?",
-        "hi": "भारत वर्तमान में एक प्रस्तावित कानून पर फिर से विचार कर रहा है और उद्योग और स्टार्टअप से परामर्श करने की योजना बना रहा है। इस प्रस्तावित कानून का प्राथमिक विषय क्या है?"
-      },
-      "options": [
-        {
-          "en": "Foreign Direct Investment",
-          "hi": "प्रत्यक्ष विदेशी निवेश"
-        },
-        {
-          "en": "Trade secrets",
-          "hi": "व्यापार रहस्य"
-        },
-        {
-          "en": "Corporate taxation",
-          "hi": "कॉर्पोरेट कराधान"
-        },
-        {
-          "en": "Labor code",
-          "hi": "श्रम संहिता"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "India is revisiting a proposed trade secrets law and will consult industry and startups on whistleblower safeguards and contract enforcement. DPIIT is considering whether a dedicated law is needed or if amendments to the Indian Contract Act are sufficient.",
-        "hi": "भारत एक प्रस्तावित व्यापार रहस्य कानून पर फिर से विचार कर रहा है और व्हिसलब्लोअर सुरक्षा उपायों और अनुबंध प्रवर्तन पर उद्योग और स्टार्टअप से परामर्श करेगा। DPIIT विचार कर रहा है कि क्या एक समर्पित कानून की आवश्यकता है या भारतीय अनुबंध अधिनियम में संशोधन पर्याप्त हैं।"
+        "en": "Indian imports of Russian crude oil are expected to decline further amid lower exports and Chinese competition, prompting Indian refiners to consider costlier alternatives like UAE Murban and Iraqi Basrah crude. Russia is currently one of India's largest oil suppliers.",
+        "hi": "कम निर्यात और चीनी प्रतिस्पर्धा के बीच रूसी कच्चे तेल के भारतीय आयात में और गिरावट आने की उम्मीद है, जिससे भारतीय रिफाइनर यूएई मूरबन और इराकी बसरा क्रूड जैसे महंगे विकल्पों पर विचार कर रहे हैं। रूस वर्तमान में भारत के सबसे बड़े तेल आपूर्तिकर्ताओं में से एक है।"
       },
       "category": "Economy & Banking",
       "difficulty": "medium",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-to-consult-industry-on-trade-secrets-law-whistleblower-safeguards-and-contract-enforcement/articleshow/134496156.cms"
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/indian-imports-of-russian-crude-oil-to-decline-further-amid-lower-exports-chinese-competition/articleshow/134548119.cms"
     },
     {
-      "id": "ca_20260928_06",
+      "id": "ca_20260929_08",
       "question": {
-        "en": "India recently secured a memorable double podium at the Chess Olympiad in Samarkand. Who secured a critical victory on tiebreak for the Indian Open team?",
-        "hi": "भारत ने हाल ही में समरकंद में शतरंज ओलंपियाड में एक यादगार डबल पोडियम हासिल किया। भारतीय ओपन टीम के लिए टाईब्रेक पर महत्वपूर्ण जीत किसने हासिल की?"
+        "en": "The first phase of the Char Dham Yatra was recently declared a resounding success with over 53 lakh pilgrims. Which state hosts the Char Dham Yatra?",
+        "hi": "चार धाम यात्रा का पहला चरण हाल ही में 53 लाख से अधिक तीर्थयात्रियों के साथ एक शानदार सफलता घोषित किया गया था। कौन सा राज्य चार धाम यात्रा की मेजबानी करता है?"
       },
       "options": [
         {
-          "en": "Rameshbabu Praggnanandhaa",
-          "hi": "रमेशबाबू प्रज्ञानानंद"
+          "en": "Himachal Pradesh",
+          "hi": "हिमाचल प्रदेश"
         },
         {
-          "en": "Viswanathan Anand",
-          "hi": "विश्वनाथन आनंद"
+          "en": "Uttarakhand",
+          "hi": "उत्तराखंड"
         },
         {
-          "en": "Arjun Erigaisi",
-          "hi": "अर्जुन एरिगैसी"
+          "en": "Uttar Pradesh",
+          "hi": "उत्तर प्रदेश"
         },
         {
-          "en": "Gukesh D",
-          "hi": "गुकेश डी"
-        }
-      ],
-      "correctAnswer": 2,
-      "explanation": {
-        "en": "Arjun Erigaisi’s dramatic late victory helped the Indian Open team win silver on tiebreak at the Chess Olympiad in Samarkand. India also claimed the Gaprindashvili Cup.",
-        "hi": "अर्जुन एरिगैसी की नाटकीय जीत ने भारतीय ओपन टीम को समरकंद में शतरंज ओलंपियाड में टाईब्रेक पर रजत जीतने में मदद की। भारत ने गप्रिंडाशविली कप भी जीता।"
-      },
-      "category": "Sports",
-      "difficulty": "hard",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-savitha-shri-heroics-bring-medal-arjun-erigaisi-turns-hero-as-india-bag-silver-in-open-section/articleshow/134520444.cms"
-    },
-    {
-      "id": "ca_20260928_07",
-      "question": {
-        "en": "Under which state's government scheme 'Vetri Magalir Thozhilmunaivor Membattu Thittam' can women entrepreneurs avail loans ranging from ₹10 lakh to ₹5 crore?",
-        "hi": "किस राज्य सरकार की योजना 'वेत्री मगलिर थोझिलमुनैवोर मेम्बट्टू थिट्टम' के तहत महिला उद्यमी ₹10 लाख से ₹5 करोड़ तक का ऋण प्राप्त कर सकती हैं?"
-      },
-      "options": [
-        {
-          "en": "Kerala",
-          "hi": "केरल"
-        },
-        {
-          "en": "Karnataka",
-          "hi": "कर्नाटक"
-        },
-        {
-          "en": "Tamil Nadu",
-          "hi": "तमिलनाडु"
-        },
-        {
-          "en": "Andhra Pradesh",
-          "hi": "आंध्र प्रदेश"
-        }
-      ],
-      "correctAnswer": 2,
-      "explanation": {
-        "en": "The Tamil Nadu government steps up support for enterprises headed by women under the 'Vetri Magalir Thozhilmunaivor Membattu Thittam', where eligible women entrepreneurs can avail loans through the Tamil Nadu Industrial Investment Corporation.",
-        "hi": "तमिलनाडु सरकार ने 'वेत्री मगलिर थोझिलमुनैवोर मेम्बट्टू थिट्टम' के तहत महिलाओं के नेतृत्व वाले उद्यमों के लिए समर्थन बढ़ाया है, जहाँ योग्य महिला उद्यमी तमिलनाडु औद्योगिक निवेश निगम के माध्यम से ऋण प्राप्त कर सकती हैं।"
-      },
-      "category": "Government Schemes",
-      "difficulty": "easy",
-      "sourceUrl": "https://www.thehindu.com/news/national/tamil-nadu/tn-government-steps-up-support-for-enterprises-headed-by-women/article71516736.ece"
-    },
-    {
-      "id": "ca_20260928_08",
-      "question": {
-        "en": "The Centre has revised its FY27 gross market borrowing target down to what amount?",
-        "hi": "केंद्र ने अपने FY27 सकल बाजार उधार लक्ष्य को घटाकर कितनी राशि कर दिया है?"
-      },
-      "options": [
-        {
-          "en": "Rs 14.50 lakh crore",
-          "hi": "14.50 लाख करोड़ रुपये"
-        },
-        {
-          "en": "Rs 15.99 lakh crore",
-          "hi": "15.99 लाख करोड़ रुपये"
-        },
-        {
-          "en": "Rs 17.20 lakh crore",
-          "hi": "17.20 लाख करोड़ रुपये"
-        },
-        {
-          "en": "Rs 12.80 lakh crore",
-          "hi": "12.80 लाख करोड़ रुपये"
+          "en": "Jammu & Kashmir",
+          "hi": "जम्मू और कश्मीर"
         }
       ],
       "correctAnswer": 1,
       "explanation": {
-        "en": "The Centre has cut its FY27 gross market borrowing to Rs 15.99 lakh crore from the previously budgeted Rs 17.2 lakh crore, aiming to limit pressure on bond yields.",
-        "hi": "केंद्र ने बॉन्ड यील्ड पर दबाव कम करने के उद्देश्य से अपने FY27 सकल बाजार उधार को पहले के 17.2 लाख करोड़ रुपये के बजट से घटाकर 15.99 लाख करोड़ रुपये कर दिया है।"
-      },
-      "category": "Economy & Banking",
-      "difficulty": "medium",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/finance/centre-cuts-fy27-market-borrowing-to-rs-15-99-lakh-crore-targets-longer-debt-maturity/articleshow/134495360.cms"
-    },
-    {
-      "id": "ca_20260928_09",
-      "question": {
-        "en": "Who won a bronze medal in the women's 3000m steeplechase, setting a personal best at the Asian Games?",
-        "hi": "एशियाई खेलों में व्यक्तिगत सर्वश्रेष्ठ प्रदर्शन करते हुए महिलाओं की 3000 मीटर स्टीपलचेज में कांस्य पदक किसने जीता?"
-      },
-      "options": [
-        {
-          "en": "Ancy Sojan",
-          "hi": "एंसी सोजन"
-        },
-        {
-          "en": "Shaili Singh",
-          "hi": "शैली सिंह"
-        },
-        {
-          "en": "Parul Chaudhary",
-          "hi": "पारुल चौधरी"
-        },
-        {
-          "en": "Ankita",
-          "hi": "अंकिता"
-        }
-      ],
-      "correctAnswer": 2,
-      "explanation": {
-        "en": "Parul Chaudhary secured a bronze medal in the women's 3000m steeplechase at the Asian Games with a personal best time, breaking her previous records.",
-        "hi": "पारुल चौधरी ने एशियाई खेलों में महिलाओं की 3000 मीटर स्टीपलचेज में व्यक्तिगत सर्वश्रेष्ठ समय के साथ कांस्य पदक हासिल किया और अपने पिछले रिकॉर्ड तोड़ दिए।"
-      },
-      "category": "Sports",
-      "difficulty": "easy",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-parul-chaudhary-breaks-personal-best-to-win-second-asiad-steeplechase-medal/articleshow/134520941.cms"
-    },
-    {
-      "id": "ca_20260928_10",
-      "question": {
-        "en": "Which US state used solar-powered robot rabbits to hunt invasive Burmese pythons?",
-        "hi": "किस अमेरिकी राज्य ने आक्रामक बर्मी अजगरों के शिकार के लिए सौर ऊर्जा संचालित रोबोट खरगोशों का उपयोग किया?"
-      },
-      "options": [
-        {
-          "en": "Texas",
-          "hi": "टेक्सास"
-        },
-        {
-          "en": "California",
-          "hi": "कैलिफोर्निया"
-        },
-        {
-          "en": "Florida",
-          "hi": "फ्लोरिडा"
-        },
-        {
-          "en": "Louisiana",
-          "hi": "लुइसियाना"
-        }
-      ],
-      "correctAnswer": 2,
-      "explanation": {
-        "en": "Florida tested solar-powered robot rabbits developed by the South Florida Water Management District and University of Florida to locate invasive Burmese pythons in the Everglades using heat, scent, and AI cameras.",
-        "hi": "फ्लोरिडा ने एवरग्लेड्स में गर्मी, गंध और एआई कैमरों का उपयोग करके आक्रामक बर्मी अजगरों का पता लगाने के लिए दक्षिण फ्लोरिडा जल प्रबंधन जिला और फ्लोरिडा विश्वविद्यालय द्वारा विकसित सौर-संचालित रोबोट खरगोशों का परीक्षण किया।"
+        "en": "Uttarakhand Chief Minister Pushkar Singh Dhami declared the first phase of the Char Dham Yatra highly successful, with visitor counts crossing 53 lakh. The Char Dham circuit in Uttarakhand consists of Yamunotri, Gangotri, Kedarnath, and Badrinath.",
+        "hi": "उत्तराखंड के मुख्यमंत्री पुष्कर सिंह धामी ने चार धाम यात्रा के पहले चरण को अत्यधिक सफल घोषित किया, जिसमें आगंतुकों की संख्या 53 लाख को पार कर गई। उत्तराखंड में चार धाम सर्किट में यमुनोत्री, गंगोत्री, केदारनाथ और बद्रीनाथ शामिल हैं।"
       },
       "category": "Environment & Ecology",
       "difficulty": "easy",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/when-a-district-in-florida-used-robot-rabbits-to-eliminate-growing-population-of-burmese-pythons-and-protect-everglades/articleshow/134385404.cms"
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/first-phase-of-char-dham-yatra-highly-successful-uttarakhand-cm-dhami/articleshow/134547709.cms"
+    },
+    {
+      "id": "ca_20260929_09",
+      "question": {
+        "en": "How many Chief Justices of High Courts were recently recommended for elevation to the Supreme Court of India?",
+        "hi": "हाल ही में कितने उच्च न्यायालयों के मुख्य न्यायाधीशों को भारत के सर्वोच्च न्यायालय में पदोन्नत करने की सिफारिश की गई थी?"
+      },
+      "options": [
+        {
+          "en": "Two",
+          "hi": "दो"
+        },
+        {
+          "en": "Three",
+          "hi": "तीन"
+        },
+        {
+          "en": "Four",
+          "hi": "चार"
+        },
+        {
+          "en": "Five",
+          "hi": "पांच"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Three High Court Chief Justices were recently recommended for elevation to the Supreme Court. The Supreme Court of India (Article 124) currently has a sanctioned strength of 34 judges including the Chief Justice of India.",
+        "hi": "हाल ही में उच्च न्यायालय के तीन मुख्य न्यायाधीशों को सर्वोच्च न्यायालय में पदोन्नत करने की सिफारिश की गई थी। भारत के सर्वोच्च न्यायालय (अनुच्छेद 124) में वर्तमान में भारत के मुख्य न्यायाधीश सहित 34 न्यायाधीशों की स्वीकृत संख्या है।"
+      },
+      "category": "Appointments & Commissions",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/3-high-court-chief-justices-recommended-for-elevation-to-supreme-court/articleshow/134545684.cms"
+    },
+    {
+      "id": "ca_20260929_10",
+      "question": {
+        "en": "To protect which category of crops in the country has the Centre recently discussed drought measures?",
+        "hi": "देश में किस श्रेणी की फसलों की सुरक्षा के लिए केंद्र ने हाल ही में सूखा उपायों पर चर्चा की है?"
+      },
+      "options": [
+        {
+          "en": "Kharif Crops",
+          "hi": "खरीफ फसलें"
+        },
+        {
+          "en": "Zaid Crops",
+          "hi": "ज़ैद फसलें"
+        },
+        {
+          "en": "Rabi Crops",
+          "hi": "रबी फसलें"
+        },
+        {
+          "en": "Cash Crops",
+          "hi": "नकदी फसलें"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The Centre recently discussed drought measures to protect Rabi crops across the country. Rabi crops are sown in winter (October to December) and harvested in spring (April to June), including wheat, barley, peas, and gram.",
+        "hi": "केंद्र ने हाल ही में देश भर में रबी फसलों की सुरक्षा के लिए सूखा उपायों पर चर्चा की है। रबी फसलें सर्दियों (अक्टूबर से दिसंबर) में बोई जाती हैं और वसंत (अप्रैल से जून) में काटी जाती हैं, जिनमें गेहूं, जौ, मटर और चना शामिल हैं।"
+      },
+      "category": "Government Schemes",
+      "difficulty": "hard",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/centre-discusses-drought-measures-to-protect-rabi-crops-in-the-country/articleshow/134545549.cms"
     }
   ]
 }
