@@ -1,0 +1,340 @@
+{
+  "date": "2026-09-29",
+  "topic": "SSC CGL Daily Current Affairs",
+  "source": "The Hindu / Economic Times / Times of India / PIB",
+  "lastUpdated": "2026-09-29T06:00:00+05:30",
+  "version": 1,
+  "totalQuestions": 10,
+  "quiz": [
+    {
+      "id": "ca_20260929_01",
+      "question": {
+        "en": "With which country is the Indian Army conducting a joint military exercise to boost counter-terrorism capabilities from September 28 to October 11, 2026?",
+        "hi": "भारतीय सेना किस देश के साथ 28 सितंबर से 11 अक्टूबर 2026 तक आतंकवाद विरोधी क्षमताओं को बढ़ावा देने के लिए संयुक्त सैन्य अभ्यास कर रही है?"
+      },
+      "options": [
+        {
+          "en": "Uzbekistan",
+          "hi": "उज़्बेकिस्तान"
+        },
+        {
+          "en": "Kazakhstan",
+          "hi": "कजाखस्तान"
+        },
+        {
+          "en": "Tajikistan",
+          "hi": "तजाकिस्तान"
+        },
+        {
+          "en": "Kyrgyzstan",
+          "hi": "किर्गिस्तान"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "India and Kazakhstan are conducting a joint military exercise to boost counter-terrorism capabilities from September 28 to October 11. Indian troops, primarily from the Garhwal Rifles, will participate. The capital of Kazakhstan is Astana, and its currency is the Tenge.",
+        "hi": "भारत और कजाखस्तान 28 सितंबर से 11 अक्टूबर तक आतंकवाद विरोधी क्षमताओं को बढ़ाने के लिए एक संयुक्त सैन्य अभ्यास कर रहे हैं। मुख्य रूप से गढ़वाल राइफल्स के भारतीय सैनिक भाग लेंगे। कजाखस्तान की राजधानी अस्ताना है, और इसकी मुद्रा तेंगे है।"
+      },
+      "category": "Defence & Security",
+      "difficulty": "medium",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/defence/india-kazakhstan-military-exercise-to-boost-capabilities-to-undertake-joint-counter-terror-operations/articleshow/134543416.cms"
+    },
+    {
+      "id": "ca_20260929_02",
+      "question": {
+        "en": "According to Defence Secretary Rajesh Kumar Singh, by when is India's LCA Mk2 medium-weight fighter prototype expected to make its first flight?",
+        "hi": "रक्षा सचिव राजेश कुमार सिंह के अनुसार, भारत के एलसीए एमके2 (LCA Mk2) मध्यम-वजन वाले लड़ाकू प्रोटोटाइप की पहली उड़ान कब तक होने की उम्मीद है?"
+      },
+      "options": [
+        {
+          "en": "September 2027",
+          "hi": "सितंबर 2027"
+        },
+        {
+          "en": "September 2028",
+          "hi": "सितंबर 2028"
+        },
+        {
+          "en": "June 2026",
+          "hi": "जून 2026"
+        },
+        {
+          "en": "December 2029",
+          "hi": "दिसंबर 2029"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "India's LCA Mk2 medium-weight fighter prototype is expected to fly by September 2027, as confirmed by Defence Secretary Rajesh Kumar Singh. The Advanced Medium Combat Aircraft (AMCA) is targeted for its first flight in September 2028.",
+        "hi": "रक्षा सचिव राजेश कुमार सिंह द्वारा पुष्टि की गई है कि भारत के एलसीए एमके2 मध्यम-वजन वाले लड़ाकू विमान का प्रोटोटाइप सितंबर 2027 तक उड़ान भरने की उम्मीद है। उन्नत मध्यम लड़ाकू विमान (AMCA) की पहली उड़ान का लक्ष्य सितंबर 2028 है।"
+      },
+      "category": "Defence & Security",
+      "difficulty": "hard",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/defence/lca-mk2-amca-first-flight-dates-confirmed-defence-secretary-reveals-timeline-for-indias-next-gen-fighter-jets/articleshow/134539558.cms"
+    },
+    {
+      "id": "ca_20260929_03",
+      "question": {
+        "en": "Which organisation has collaborated with CSIR-Central Glass and Ceramic Research Institute (CGCRI) to develop lightweight bulletproof glass for armored vehicles?",
+        "hi": "बख्तरबंद वाहनों के लिए हल्के बुलेटप्रूफ ग्लास विकसित करने के लिए किस संगठन ने सीएसआईआर-सेंट्रल ग्लास एंड सिरेमिक रिसर्च इंस्टीट्यूट (CGCRI) के साथ सहयोग किया है?"
+      },
+      "options": [
+        {
+          "en": "ISRO",
+          "hi": "इसरो"
+        },
+        {
+          "en": "HAL",
+          "hi": "एचएएल (HAL)"
+        },
+        {
+          "en": "DRDO",
+          "hi": "डीआरडीओ (DRDO)"
+        },
+        {
+          "en": "BHEL",
+          "hi": "भेल (BHEL)"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The Defence Research and Development Organisation (DRDO) and CSIR-CGCRI are collaborating on a Rs 50-crore project to develop indigenous lightweight bulletproof glass technology for armored vehicles. DRDO was established in 1958 and its headquarters are in New Delhi.",
+        "hi": "रक्षा अनुसंधान एवं विकास संगठन (DRDO) और CSIR-CGCRI बख्तरबंद वाहनों के लिए स्वदेशी हल्के बुलेटप्रूफ ग्लास तकनीक विकसित करने के लिए 50 करोड़ रुपये की परियोजना पर सहयोग कर रहे हैं। डीआरडीओ की स्थापना 1958 में हुई थी और इसका मुख्यालय नई दिल्ली में है।"
+      },
+      "category": "Science & Technology",
+      "difficulty": "medium",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/defence/drdo-csir-cgcri-join-hands-on-rs-50-crore-project-to-develop-lighter-bulletproof-glass/articleshow/134533136.cms"
+    },
+    {
+      "id": "ca_20260929_04",
+      "question": {
+        "en": "What is the name of the vision introduced by Indian Army Chief General Dhiraj Seth to boost the operational capabilities of the Indian Army?",
+        "hi": "भारतीय सेना की परिचालन क्षमताओं को बढ़ावा देने के लिए भारतीय सेना प्रमुख जनरल धीरज सेठ द्वारा पेश किए गए विज़न का नाम क्या है?"
+      },
+      "options": [
+        {
+          "en": "SAKSHAM",
+          "hi": "सक्षम (SAKSHAM)"
+        },
+        {
+          "en": "SAMARTH",
+          "hi": "समर्थ (SAMARTH)"
+        },
+        {
+          "en": "PRATAP",
+          "hi": "प्रताप (PRATAP)"
+        },
+        {
+          "en": "VIRAT",
+          "hi": "विराट (VIRAT)"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Indian Army Chief General Dhiraj Seth introduced the vision 'SAMARTH', focusing on sustainability, adaptation, modernization, acceleration, resilience, technology, and human-machine collaboration to prepare against emerging threats.",
+        "hi": "भारतीय सेना प्रमुख जनरल धीरज सेठ ने 'समर्थ (SAMARTH)' विज़न पेश किया, जो उभरते खतरों से निपटने के लिए स्थिरता, अनुकूलन, आधुनिकीकरण, त्वरण, लचीलापन, प्रौद्योगिकी और मानव-मशीन सहयोग पर केंद्रित है।"
+      },
+      "category": "Defence & Security",
+      "difficulty": "easy",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/defence/general-dhiraj-seth-spells-out-samarth-vision-for-boosting-indian-armys-operational-capabilities/articleshow/134521891.cms"
+    },
+    {
+      "id": "ca_20260929_05",
+      "question": {
+        "en": "With which country's space agency is India's ISRO fast-tracking the 'Trishna' satellite mission to map the Earth's water sources?",
+        "hi": "भारत का इसरो पृथ्वी के जल स्रोतों का मानचित्रण करने के लिए 'तृष्णा (Trishna)' उपग्रह मिशन को किस देश की अंतरिक्ष एजेंसी के साथ तेजी से आगे बढ़ा रहा है?"
+      },
+      "options": [
+        {
+          "en": "USA (NASA)",
+          "hi": "यूएसए (NASA)"
+        },
+        {
+          "en": "France (CNES)",
+          "hi": "फ्रांस (CNES)"
+        },
+        {
+          "en": "Russia (Roscosmos)",
+          "hi": "रूस (Roscosmos)"
+        },
+        {
+          "en": "Japan (JAXA)",
+          "hi": "जापान (JAXA)"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The Indo-French satellite mission 'Trishna' (Thermal infraRed Imaging Satellite for High-resolution Natural resource Assessment) is being fast-tracked by ISRO and CNES (France) to map Earth's surface temperature and water sources. Space Minister Jitendra Singh highlighted the project's significance.",
+        "hi": "इंडो-फ्रेंच उपग्रह मिशन 'तृष्णा' को इसरो और CNES (फ्रांस) द्वारा पृथ्वी की सतह के तापमान और जल स्रोतों का मानचित्रण करने के लिए तेजी से आगे बढ़ाया जा रहा है। अंतरिक्ष मंत्री जितेंद्र सिंह ने इस परियोजना के महत्व पर प्रकाश डाला।"
+      },
+      "category": "Science & Technology",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/indo-french-sat-mission-trishna-to-map-earths-water-sources-on-fast-track-space-minister-jitendra-singh/articleshow/134547692.cms"
+    },
+    {
+      "id": "ca_20260929_06",
+      "question": {
+        "en": "To recover Rs 20,000 crore in pending e-traffic challans, the Supreme Court has suggested linking the unpaid fines to which of the following bills?",
+        "hi": "लंबित ई-ट्रैफिक चालान में 20,000 करोड़ रुपये की वसूली के लिए, सर्वोच्च न्यायालय ने अवैतनिक जुर्माने को निम्नलिखित में से किस बिल से जोड़ने का सुझाव दिया है?"
+      },
+      "options": [
+        {
+          "en": "Water Bills",
+          "hi": "पानी का बिल"
+        },
+        {
+          "en": "Property Tax Bills",
+          "hi": "संपत्ति कर बिल"
+        },
+        {
+          "en": "Electricity Bills",
+          "hi": "बिजली का बिल"
+        },
+        {
+          "en": "Income Tax Returns",
+          "hi": "आयकर रिटर्न"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "To address the significant outstanding balance of Rs 20,000 crore in unpaid traffic e-challans, the Supreme Court suggested linking unpaid fines to electricity bills to encourage payment across states and union territories.",
+        "hi": "अवैतनिक ट्रैफिक ई-चालान में 20,000 करोड़ रुपये की महत्वपूर्ण बकाया राशि का समाधान करने के लिए, सर्वोच्च न्यायालय ने राज्यों और केंद्र शासित प्रदेशों में भुगतान को प्रोत्साहित करने के लिए अवैतनिक जुर्माने को बिजली बिलों से जोड़ने का सुझाव दिया।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/rs-20k-cr-dues-pending-sc-suggests-recovering-e-traffic-challans-by-linking-them-to-electricity-bills/articleshow/134546499.cms"
+    },
+    {
+      "id": "ca_20260929_07",
+      "question": {
+        "en": "Recently, Indian refiners are looking at alternative oil sources like UAE Murban and Iraqi Basrah crude due to declining imports from which country?",
+        "hi": "हाल ही में, किस देश से आयात में गिरावट के कारण भारतीय रिफाइनर यूएई मूरबन और इराकी बसरा क्रूड जैसे वैकल्पिक तेल स्रोतों की तलाश कर रहे हैं?"
+      },
+      "options": [
+        {
+          "en": "Iran",
+          "hi": "ईरान"
+        },
+        {
+          "en": "Venezuela",
+          "hi": "वेनेज़ुएला"
+        },
+        {
+          "en": "Russia",
+          "hi": "रूस"
+        },
+        {
+          "en": "Saudi Arabia",
+          "hi": "सऊदी अरब"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Indian imports of Russian crude oil are expected to decline further amid lower exports and Chinese competition, prompting Indian refiners to consider costlier alternatives like UAE Murban and Iraqi Basrah crude. Russia is currently one of India's largest oil suppliers.",
+        "hi": "कम निर्यात और चीनी प्रतिस्पर्धा के बीच रूसी कच्चे तेल के भारतीय आयात में और गिरावट आने की उम्मीद है, जिससे भारतीय रिफाइनर यूएई मूरबन और इराकी बसरा क्रूड जैसे महंगे विकल्पों पर विचार कर रहे हैं। रूस वर्तमान में भारत के सबसे बड़े तेल आपूर्तिकर्ताओं में से एक है।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/indian-imports-of-russian-crude-oil-to-decline-further-amid-lower-exports-chinese-competition/articleshow/134548119.cms"
+    },
+    {
+      "id": "ca_20260929_08",
+      "question": {
+        "en": "The first phase of the Char Dham Yatra was recently declared a resounding success with over 53 lakh pilgrims. Which state hosts the Char Dham Yatra?",
+        "hi": "चार धाम यात्रा का पहला चरण हाल ही में 53 लाख से अधिक तीर्थयात्रियों के साथ एक शानदार सफलता घोषित किया गया था। कौन सा राज्य चार धाम यात्रा की मेजबानी करता है?"
+      },
+      "options": [
+        {
+          "en": "Himachal Pradesh",
+          "hi": "हिमाचल प्रदेश"
+        },
+        {
+          "en": "Uttarakhand",
+          "hi": "उत्तराखंड"
+        },
+        {
+          "en": "Uttar Pradesh",
+          "hi": "उत्तर प्रदेश"
+        },
+        {
+          "en": "Jammu & Kashmir",
+          "hi": "जम्मू और कश्मीर"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Uttarakhand Chief Minister Pushkar Singh Dhami declared the first phase of the Char Dham Yatra highly successful, with visitor counts crossing 53 lakh. The Char Dham circuit in Uttarakhand consists of Yamunotri, Gangotri, Kedarnath, and Badrinath.",
+        "hi": "उत्तराखंड के मुख्यमंत्री पुष्कर सिंह धामी ने चार धाम यात्रा के पहले चरण को अत्यधिक सफल घोषित किया, जिसमें आगंतुकों की संख्या 53 लाख को पार कर गई। उत्तराखंड में चार धाम सर्किट में यमुनोत्री, गंगोत्री, केदारनाथ और बद्रीनाथ शामिल हैं।"
+      },
+      "category": "Environment & Ecology",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/first-phase-of-char-dham-yatra-highly-successful-uttarakhand-cm-dhami/articleshow/134547709.cms"
+    },
+    {
+      "id": "ca_20260929_09",
+      "question": {
+        "en": "How many Chief Justices of High Courts were recently recommended for elevation to the Supreme Court of India?",
+        "hi": "हाल ही में कितने उच्च न्यायालयों के मुख्य न्यायाधीशों को भारत के सर्वोच्च न्यायालय में पदोन्नत करने की सिफारिश की गई थी?"
+      },
+      "options": [
+        {
+          "en": "Two",
+          "hi": "दो"
+        },
+        {
+          "en": "Three",
+          "hi": "तीन"
+        },
+        {
+          "en": "Four",
+          "hi": "चार"
+        },
+        {
+          "en": "Five",
+          "hi": "पांच"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Three High Court Chief Justices were recently recommended for elevation to the Supreme Court. The Supreme Court of India (Article 124) currently has a sanctioned strength of 34 judges including the Chief Justice of India.",
+        "hi": "हाल ही में उच्च न्यायालय के तीन मुख्य न्यायाधीशों को सर्वोच्च न्यायालय में पदोन्नत करने की सिफारिश की गई थी। भारत के सर्वोच्च न्यायालय (अनुच्छेद 124) में वर्तमान में भारत के मुख्य न्यायाधीश सहित 34 न्यायाधीशों की स्वीकृत संख्या है।"
+      },
+      "category": "Appointments & Commissions",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/3-high-court-chief-justices-recommended-for-elevation-to-supreme-court/articleshow/134545684.cms"
+    },
+    {
+      "id": "ca_20260929_10",
+      "question": {
+        "en": "To protect which category of crops in the country has the Centre recently discussed drought measures?",
+        "hi": "देश में किस श्रेणी की फसलों की सुरक्षा के लिए केंद्र ने हाल ही में सूखा उपायों पर चर्चा की है?"
+      },
+      "options": [
+        {
+          "en": "Kharif Crops",
+          "hi": "खरीफ फसलें"
+        },
+        {
+          "en": "Zaid Crops",
+          "hi": "ज़ैद फसलें"
+        },
+        {
+          "en": "Rabi Crops",
+          "hi": "रबी फसलें"
+        },
+        {
+          "en": "Cash Crops",
+          "hi": "नकदी फसलें"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The Centre recently discussed drought measures to protect Rabi crops across the country. Rabi crops are sown in winter (October to December) and harvested in spring (April to June), including wheat, barley, peas, and gram.",
+        "hi": "केंद्र ने हाल ही में देश भर में रबी फसलों की सुरक्षा के लिए सूखा उपायों पर चर्चा की है। रबी फसलें सर्दियों (अक्टूबर से दिसंबर) में बोई जाती हैं और वसंत (अप्रैल से जून) में काटी जाती हैं, जिनमें गेहूं, जौ, मटर और चना शामिल हैं।"
+      },
+      "category": "Government Schemes",
+      "difficulty": "hard",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/centre-discusses-drought-measures-to-protect-rabi-crops-in-the-country/articleshow/134545549.cms"
+    }
+  ]
+}
