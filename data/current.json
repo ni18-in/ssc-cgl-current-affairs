@@ -1,340 +1,340 @@
 {
-  "date": "2026-09-29",
+  "date": "2026-09-30",
   "topic": "SSC CGL Daily Current Affairs",
-  "source": "The Hindu / Economic Times / Times of India / PIB",
-  "lastUpdated": "2026-09-29T06:00:00+05:30",
+  "source": "PIB / The Hindu / Economic Times / Indian Express / GKToday",
+  "lastUpdated": "2026-09-30T06:00:00+05:30",
   "version": 1,
   "totalQuestions": 10,
   "quiz": [
     {
-      "id": "ca_20260929_01",
+      "id": "ca_20260930_01",
       "question": {
-        "en": "With which country is the Indian Army conducting a joint military exercise to boost counter-terrorism capabilities from September 28 to October 11, 2026?",
-        "hi": "भारतीय सेना किस देश के साथ 28 सितंबर से 11 अक्टूबर 2026 तक आतंकवाद विरोधी क्षमताओं को बढ़ावा देने के लिए संयुक्त सैन्य अभ्यास कर रही है?"
+        "en": "Recently, India’s ISRO completed key systems and infrastructure for which of the following space missions?",
+        "hi": "हाल ही में, भारत के इसरो ने निम्नलिखित में से किस अंतरिक्ष मिशन के लिए प्रमुख प्रणालियों और बुनियादी ढांचे को पूरा किया है?"
       },
       "options": [
         {
-          "en": "Uzbekistan",
-          "hi": "उज़्बेकिस्तान"
+          "en": "Mangalyaan-2",
+          "hi": "मंगलयान-2"
         },
         {
-          "en": "Kazakhstan",
-          "hi": "कजाखस्तान"
+          "en": "Gaganyaan",
+          "hi": "गगनयान"
         },
         {
-          "en": "Tajikistan",
-          "hi": "तजाकिस्तान"
+          "en": "Aditya-L1",
+          "hi": "आदित्य-L1"
         },
         {
-          "en": "Kyrgyzstan",
-          "hi": "किर्गिस्तान"
+          "en": "Shukrayaan",
+          "hi": "शुक्रयान"
         }
       ],
       "correctAnswer": 1,
       "explanation": {
-        "en": "India and Kazakhstan are conducting a joint military exercise to boost counter-terrorism capabilities from September 28 to October 11. Indian troops, primarily from the Garhwal Rifles, will participate. The capital of Kazakhstan is Astana, and its currency is the Tenge.",
-        "hi": "भारत और कजाखस्तान 28 सितंबर से 11 अक्टूबर तक आतंकवाद विरोधी क्षमताओं को बढ़ाने के लिए एक संयुक्त सैन्य अभ्यास कर रहे हैं। मुख्य रूप से गढ़वाल राइफल्स के भारतीय सैनिक भाग लेंगे। कजाखस्तान की राजधानी अस्ताना है, और इसकी मुद्रा तेंगे है।"
+        "en": "India’s Gaganyaan mission, aiming to send astronauts into space, has reached an advanced stage with ISRO completing its key systems and infrastructure. ISRO is headquartered in Bengaluru, Karnataka.",
+        "hi": "अंतरिक्ष यात्रियों को अंतरिक्ष में भेजने के उद्देश्य से भारत का गगनयान मिशन एक उन्नत चरण में पहुंच गया है, इसरो ने इसके प्रमुख प्रणालियों और बुनियादी ढांचे को पूरा कर लिया है। इसरो का मुख्यालय बेंगलुरु, कर्नाटक में है।"
       },
-      "category": "Defence & Security",
+      "category": "Science & Technology",
       "difficulty": "medium",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/defence/india-kazakhstan-military-exercise-to-boost-capabilities-to-undertake-joint-counter-terror-operations/articleshow/134543416.cms"
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcDhoRDg5aWRJRWxTWlpOa1dDMkx2RVF3MEdnem85YzcyT1RGcFRNNnR2NG1qOVIzUVV3QVZxLWphVUlvRmVuZXlaWnQ1dVlIUHh6RFdfSV90RTB3VXV4MW9EY2piQVNSWDVCSnJXelpybXlIRzRzcUhNVGc4dVhDNTZKYm8ta1Bwa1dmQWtpd0RGaVpUTGhpTTNScU1BaHZSN1ZjMmlQRU1pSC1zbVduYw?oc=5"
     },
     {
-      "id": "ca_20260929_02",
+      "id": "ca_20260930_02",
       "question": {
-        "en": "According to Defence Secretary Rajesh Kumar Singh, by when is India's LCA Mk2 medium-weight fighter prototype expected to make its first flight?",
-        "hi": "रक्षा सचिव राजेश कुमार सिंह के अनुसार, भारत के एलसीए एमके2 (LCA Mk2) मध्यम-वजन वाले लड़ाकू प्रोटोटाइप की पहली उड़ान कब तक होने की उम्मीद है?"
+        "en": "In a recent case concerning the appointment of the Director General of Police (DGP) for which state did the Supreme Court reserve its verdict?",
+        "hi": "हाल ही में किस राज्य के पुलिस महानिदेशक (DGP) की नियुक्ति से संबंधित मामले में सर्वोच्च न्यायालय ने अपना फैसला सुरक्षित रखा है?"
       },
       "options": [
         {
-          "en": "September 2027",
-          "hi": "सितंबर 2027"
+          "en": "West Bengal",
+          "hi": "पश्चिम बंगाल"
         },
         {
-          "en": "September 2028",
-          "hi": "सितंबर 2028"
+          "en": "Maharashtra",
+          "hi": "महाराष्ट्र"
         },
         {
-          "en": "June 2026",
-          "hi": "जून 2026"
+          "en": "Odisha",
+          "hi": "ओडिशा"
         },
         {
-          "en": "December 2029",
-          "hi": "दिसंबर 2029"
+          "en": "Tamil Nadu",
+          "hi": "तमिलनाडु"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The Supreme Court recently reserved its verdict in the case concerning the appointment of the Director General of Police (DGP) in Odisha. The Supreme Court operates under Article 124 of the Constitution.",
+        "hi": "सर्वोच्च न्यायालय ने हाल ही में ओडिशा में पुलिस महानिदेशक (DGP) की नियुक्ति के मामले में अपना फैसला सुरक्षित रखा। सर्वोच्च न्यायालय संविधान के अनुच्छेद 124 के तहत काम करता है।"
+      },
+      "category": "Appointments & Commissions",
+      "difficulty": "medium",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVkk2NEJuTENJUUJjRXNwMUlZSDR5Rlk0YXZpVDdVOGtoZ3d1YldWQy1zcFRLN2tJS09wTHlQOERvMllWZGdISnYzdkY2ckxyRE5EMm1UVlpwNUVOakY3Y2ZCUUxwMnZWZ3cwWUVCcTFRbi0wc2JoZ2tWaGp1Z2JCWU5rMnN3aWhFcEx1dFpLOXlweE9jLVFZTXRRXzlKNDR3U2NsOHprZEFTTFVoQVI3MUY5ZDk4c0VmbnVQMNIBygFBVV95cUxQbFZHZXk2VmdEZHNLTFBWcnNfYkVfRXhQY1I0aFdMay1KZ1FROG5mSHNaMXB0TFNySHRjSnJYWTgyWDdBRFhIcXg2QmhSbkxmS21NX0FtbGFERTVPT3BZbEpPREpqbDhLWkRBdnRlQW1sYlV4ekRVMTgxRzFQaHJ4STFDclZQZzhrc0x0am9RSEJWSUtQZ1R6UW13S0dwakNnSDZOQVctVEpZOXJncDZTeHVCaVc5RlhBaUNPTFBlak5ZeXdDRmxZaldR?oc=5"
+    },
+    {
+      "id": "ca_20260930_03",
+      "question": {
+        "en": "Which major sports event's return to India is currently under preparation according to Sports Minister Mandaviya?",
+        "hi": "खेल मंत्री मंडाविया के अनुसार वर्तमान में किस प्रमुख खेल आयोजन की भारत में वापसी की तैयारी चल रही है?"
+      },
+      "options": [
+        {
+          "en": "Olympics",
+          "hi": "ओलंपिक"
+        },
+        {
+          "en": "Formula 1 (F1)",
+          "hi": "फॉर्मूला 1 (F1)"
+        },
+        {
+          "en": "FIFA World Cup",
+          "hi": "फीफा विश्व कप"
+        },
+        {
+          "en": "Commonwealth Games",
+          "hi": "राष्ट्रमंडल खेल"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Sports Minister Mansukh Mandaviya announced that preparations are underway for the return of the Formula 1 (F1) racing event to India. The Indian Grand Prix was previously held at the Buddh International Circuit.",
+        "hi": "खेल मंत्री मनसुख मंडाविया ने घोषणा की कि भारत में फॉर्मूला 1 (F1) रेसिंग इवेंट की वापसी की तैयारी चल रही है। इंडियन ग्रांड प्रिक्स पहले बुद्ध इंटरनेशनल सर्किट में आयोजित किया जाता था।"
+      },
+      "category": "Sports",
+      "difficulty": "easy",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQkM4eFhodWxMbTdnV0VBWl9VOE9iNUtmd1VyYld0WkVWRXZ3MlNac0VFYlYzS3B1QkFqSW0tZ2RKQ2xxWVd3T3B1clRuaEZQTWJSOUZGZ0Y2R2RBLUNweVU4UUNQYkY5dExPeE12ZEp6cW4xNkNLa09EOVRaSVBScUVkZjFobnlsaWU0YWU1V1hEUEFPTHpLdWVIcHdob3BD?oc=5"
+    },
+    {
+      "id": "ca_20260930_04",
+      "question": {
+        "en": "Environment Minister Bhupender Yadav recently handed over India's first 'PRAMAAN' certificates. What is the focus of these certificates?",
+        "hi": "पर्यावरण मंत्री भूपेंद्र यादव ने हाल ही में भारत का पहला 'PRAMAAN' प्रमाण पत्र सौंपा है। इन प्रमाण पत्रों का मुख्य विषय क्या है?"
+      },
+      "options": [
+        {
+          "en": "Solar Energy",
+          "hi": "सौर ऊर्जा"
+        },
+        {
+          "en": "Forest Plantation and Bamboo Farming",
+          "hi": "वन रोपण और बांस की खेती"
+        },
+        {
+          "en": "Electric Vehicles",
+          "hi": "इलेक्ट्रिक वाहन"
+        },
+        {
+          "en": "Water Conservation",
+          "hi": "जल संरक्षण"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Union Environment Minister Bhupender Yadav handed over India's first PRAMAAN certificates, which focus on forest plantation and bamboo farming. This initiative promotes sustainable forestry practices in India.",
+        "hi": "केंद्रीय पर्यावरण मंत्री भूपेंद्र यादव ने भारत का पहला PRAMAAN प्रमाण पत्र सौंपा, जो वन रोपण और बांस की खेती पर केंद्रित है। यह पहल भारत में टिकाऊ वानिकी प्रथाओं को बढ़ावा देती है।"
+      },
+      "category": "Environment & Ecology",
+      "difficulty": "medium",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOaWtnUDI0UkRkZkJoRTNLUi1TNDBqdW9OVW5tWTFDRDZIUVdKSkxGODRTNi1sVW5mVWpYd0dYT041Y0R4THlqRVpMdFF2Ul91UGVieEhfOFlhY0FDYk5TNmF0VkRxX2ticTVWME5iT3o1UlBMNUxxR0l1dXdab04wNDU1T0F2OE9leGhmcFJvZWNaaWhRQzR6OTV6VDQydzNPdEtMYXFGWFNkeWtMMlBfc3ZqZmt5UWQyUHI0LTVxVWhQZUZ2WGtpNGk1NzU3aGdlbnJIYnVYVFRFNEhWZkVVaUtISTB1eEJE?oc=5"
+    },
+    {
+      "id": "ca_20260930_05",
+      "question": {
+        "en": "A woman farmer from which Indian state is set to receive an award from the Food and Agriculture Organization (FAO)?",
+        "hi": "किस भारतीय राज्य की महिला किसान को खाद्य और कृषि संगठन (FAO) से पुरस्कार मिलने वाला है?"
+      },
+      "options": [
+        {
+          "en": "Mizoram",
+          "hi": "मिजोरम"
+        },
+        {
+          "en": "Punjab",
+          "hi": "पंजाब"
+        },
+        {
+          "en": "Haryana",
+          "hi": "हरियाणा"
+        },
+        {
+          "en": "Kerala",
+          "hi": "केरल"
         }
       ],
       "correctAnswer": 0,
       "explanation": {
-        "en": "India's LCA Mk2 medium-weight fighter prototype is expected to fly by September 2027, as confirmed by Defence Secretary Rajesh Kumar Singh. The Advanced Medium Combat Aircraft (AMCA) is targeted for its first flight in September 2028.",
-        "hi": "रक्षा सचिव राजेश कुमार सिंह द्वारा पुष्टि की गई है कि भारत के एलसीए एमके2 मध्यम-वजन वाले लड़ाकू विमान का प्रोटोटाइप सितंबर 2027 तक उड़ान भरने की उम्मीद है। उन्नत मध्यम लड़ाकू विमान (AMCA) की पहली उड़ान का लक्ष्य सितंबर 2028 है।"
+        "en": "A woman farmer from Mizoram has been selected to receive a prestigious award from the Food and Agriculture Organization (FAO) for her contributions. The FAO is a specialized agency of the UN with its headquarters in Rome, Italy.",
+        "hi": "मिजोरम की एक महिला किसान को उनके योगदान के लिए खाद्य एवं कृषि संगठन (FAO) से एक प्रतिष्ठित पुरस्कार प्राप्त करने के लिए चुना गया है। FAO रोम, इटली में मुख्यालय के साथ संयुक्त राष्ट्र की एक विशेष एजेंसी है।"
       },
-      "category": "Defence & Security",
-      "difficulty": "hard",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/defence/lca-mk2-amca-first-flight-dates-confirmed-defence-secretary-reveals-timeline-for-indias-next-gen-fighter-jets/articleshow/134539558.cms"
-    },
-    {
-      "id": "ca_20260929_03",
-      "question": {
-        "en": "Which organisation has collaborated with CSIR-Central Glass and Ceramic Research Institute (CGCRI) to develop lightweight bulletproof glass for armored vehicles?",
-        "hi": "बख्तरबंद वाहनों के लिए हल्के बुलेटप्रूफ ग्लास विकसित करने के लिए किस संगठन ने सीएसआईआर-सेंट्रल ग्लास एंड सिरेमिक रिसर्च इंस्टीट्यूट (CGCRI) के साथ सहयोग किया है?"
-      },
-      "options": [
-        {
-          "en": "ISRO",
-          "hi": "इसरो"
-        },
-        {
-          "en": "HAL",
-          "hi": "एचएएल (HAL)"
-        },
-        {
-          "en": "DRDO",
-          "hi": "डीआरडीओ (DRDO)"
-        },
-        {
-          "en": "BHEL",
-          "hi": "भेल (BHEL)"
-        }
-      ],
-      "correctAnswer": 2,
-      "explanation": {
-        "en": "The Defence Research and Development Organisation (DRDO) and CSIR-CGCRI are collaborating on a Rs 50-crore project to develop indigenous lightweight bulletproof glass technology for armored vehicles. DRDO was established in 1958 and its headquarters are in New Delhi.",
-        "hi": "रक्षा अनुसंधान एवं विकास संगठन (DRDO) और CSIR-CGCRI बख्तरबंद वाहनों के लिए स्वदेशी हल्के बुलेटप्रूफ ग्लास तकनीक विकसित करने के लिए 50 करोड़ रुपये की परियोजना पर सहयोग कर रहे हैं। डीआरडीओ की स्थापना 1958 में हुई थी और इसका मुख्यालय नई दिल्ली में है।"
-      },
-      "category": "Science & Technology",
+      "category": "Awards & Honours",
       "difficulty": "medium",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/defence/drdo-csir-cgcri-join-hands-on-rs-50-crore-project-to-develop-lighter-bulletproof-glass/articleshow/134533136.cms"
+      "sourceUrl": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5mdzB0ZWFubDRPem9YRUJJM1RqTnA1U0c2X182dldQdnZiOF9QQU5ia0xXWUs5c0hYRTkyX25oaERiRUpQTUhhYjhtVWFhUHk4SFREY2hLaTNxdGJ0c3RTY2wyTmJiNDZQS2ZWMEdlUVQ3djUzTDNJWS15eDc?oc=5"
     },
     {
-      "id": "ca_20260929_04",
+      "id": "ca_20260930_06",
       "question": {
-        "en": "What is the name of the vision introduced by Indian Army Chief General Dhiraj Seth to boost the operational capabilities of the Indian Army?",
-        "hi": "भारतीय सेना की परिचालन क्षमताओं को बढ़ावा देने के लिए भारतीय सेना प्रमुख जनरल धीरज सेठ द्वारा पेश किए गए विज़न का नाम क्या है?"
+        "en": "How many cities were recently selected by the Central Government for the PRAGATI-50 clean-city initiative?",
+        "hi": "हाल ही में केंद्र सरकार द्वारा प्रगति-50 (PRAGATI-50) स्वच्छ-शहर पहल के लिए कितने शहरों का चयन किया गया?"
       },
       "options": [
         {
-          "en": "SAKSHAM",
-          "hi": "सक्षम (SAKSHAM)"
+          "en": "20",
+          "hi": "20"
         },
         {
-          "en": "SAMARTH",
-          "hi": "समर्थ (SAMARTH)"
+          "en": "30",
+          "hi": "30"
         },
         {
-          "en": "PRATAP",
-          "hi": "प्रताप (PRATAP)"
+          "en": "40",
+          "hi": "40"
         },
         {
-          "en": "VIRAT",
-          "hi": "विराट (VIRAT)"
+          "en": "50",
+          "hi": "50"
         }
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 3,
       "explanation": {
-        "en": "Indian Army Chief General Dhiraj Seth introduced the vision 'SAMARTH', focusing on sustainability, adaptation, modernization, acceleration, resilience, technology, and human-machine collaboration to prepare against emerging threats.",
-        "hi": "भारतीय सेना प्रमुख जनरल धीरज सेठ ने 'समर्थ (SAMARTH)' विज़न पेश किया, जो उभरते खतरों से निपटने के लिए स्थिरता, अनुकूलन, आधुनिकीकरण, त्वरण, लचीलापन, प्रौद्योगिकी और मानव-मशीन सहयोग पर केंद्रित है।"
+        "en": "The Centre has selected 50 cities under the PRAGATI-50 initiative to promote cleanliness and better urban infrastructure across India. The initiative is a significant part of the ongoing Swachh Bharat Mission (Urban).",
+        "hi": "केंद्र ने पूरे भारत में स्वच्छता और बेहतर शहरी बुनियादी ढांचे को बढ़ावा देने के लिए प्रगति-50 पहल के तहत 50 शहरों का चयन किया है। यह पहल चल रहे स्वच्छ भारत मिशन (शहरी) का एक महत्वपूर्ण हिस्सा है।"
       },
-      "category": "Defence & Security",
+      "category": "Government Schemes",
       "difficulty": "easy",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/defence/general-dhiraj-seth-spells-out-samarth-vision-for-boosting-indian-armys-operational-capabilities/articleshow/134521891.cms"
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/centre-picks-50-cities-for-pragati-50-clean-city-initiative/articleshow/134571763.cms"
     },
     {
-      "id": "ca_20260929_05",
+      "id": "ca_20260930_07",
       "question": {
-        "en": "With which country's space agency is India's ISRO fast-tracking the 'Trishna' satellite mission to map the Earth's water sources?",
-        "hi": "भारत का इसरो पृथ्वी के जल स्रोतों का मानचित्रण करने के लिए 'तृष्णा (Trishna)' उपग्रह मिशन को किस देश की अंतरिक्ष एजेंसी के साथ तेजी से आगे बढ़ा रहा है?"
+        "en": "Neeru Dhanda, who recently secured a gold medal in the Asian Games, is associated with which sport?",
+        "hi": "हाल ही में एशियाई खेलों में स्वर्ण पदक हासिल करने वाली नीरू ढांडा किस खेल से जुड़ी हैं?"
       },
       "options": [
         {
-          "en": "USA (NASA)",
-          "hi": "यूएसए (NASA)"
+          "en": "Wrestling",
+          "hi": "कुश्ती"
         },
         {
-          "en": "France (CNES)",
-          "hi": "फ्रांस (CNES)"
+          "en": "Athletics",
+          "hi": "एथलेटिक्स"
         },
         {
-          "en": "Russia (Roscosmos)",
-          "hi": "रूस (Roscosmos)"
+          "en": "Boxing",
+          "hi": "मुक्केबाजी"
         },
         {
-          "en": "Japan (JAXA)",
-          "hi": "जापान (JAXA)"
+          "en": "Shooting",
+          "hi": "निशानेबाजी"
         }
       ],
       "correctAnswer": 1,
       "explanation": {
-        "en": "The Indo-French satellite mission 'Trishna' (Thermal infraRed Imaging Satellite for High-resolution Natural resource Assessment) is being fast-tracked by ISRO and CNES (France) to map Earth's surface temperature and water sources. Space Minister Jitendra Singh highlighted the project's significance.",
-        "hi": "इंडो-फ्रेंच उपग्रह मिशन 'तृष्णा' को इसरो और CNES (फ्रांस) द्वारा पृथ्वी की सतह के तापमान और जल स्रोतों का मानचित्रण करने के लिए तेजी से आगे बढ़ाया जा रहा है। अंतरिक्ष मंत्री जितेंद्र सिंह ने इस परियोजना के महत्व पर प्रकाश डाला।"
+        "en": "Indian athlete Neeru Dhanda made history by clinching a gold medal at the Asian Games 2026. India also secured a gold in the women's 4x400m relay, boosting its total medal count.",
+        "hi": "भारतीय एथलीट नीरू ढांडा ने एशियाई खेल 2026 में स्वर्ण पदक जीतकर इतिहास रच दिया। भारत ने महिलाओं की 4x400 मीटर रिले में भी स्वर्ण पदक हासिल किया, जिससे उसके कुल पदकों की संख्या बढ़ गई।"
       },
-      "category": "Science & Technology",
-      "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/indo-french-sat-mission-trishna-to-map-earths-water-sources-on-fast-track-space-minister-jitendra-singh/articleshow/134547692.cms"
+      "category": "Sports",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-2026-day-10-two-golds-from-neeru-dhanda-womens-4x400m-relay-take-india-past-50-medals/articleshow/134568551.cms"
     },
     {
-      "id": "ca_20260929_06",
+      "id": "ca_20260930_08",
       "question": {
-        "en": "To recover Rs 20,000 crore in pending e-traffic challans, the Supreme Court has suggested linking the unpaid fines to which of the following bills?",
-        "hi": "लंबित ई-ट्रैफिक चालान में 20,000 करोड़ रुपये की वसूली के लिए, सर्वोच्च न्यायालय ने अवैतनिक जुर्माने को निम्नलिखित में से किस बिल से जोड़ने का सुझाव दिया है?"
+        "en": "A curative plea was recently filed in the Supreme Court challenging the law regulating the appointments to which constitutional body?",
+        "hi": "हाल ही में किस संवैधानिक निकाय में नियुक्तियों को विनियमित करने वाले कानून को चुनौती देते हुए सर्वोच्च न्यायालय में एक उपचारात्मक याचिका दायर की गई थी?"
       },
       "options": [
         {
-          "en": "Water Bills",
-          "hi": "पानी का बिल"
+          "en": "UPSC",
+          "hi": "UPSC"
         },
         {
-          "en": "Property Tax Bills",
-          "hi": "संपत्ति कर बिल"
+          "en": "Election Commission of India (ECI)",
+          "hi": "भारत निर्वाचन आयोग (ECI)"
         },
         {
-          "en": "Electricity Bills",
-          "hi": "बिजली का बिल"
+          "en": "CAG",
+          "hi": "CAG"
         },
         {
-          "en": "Income Tax Returns",
-          "hi": "आयकर रिटर्न"
+          "en": "Finance Commission",
+          "hi": "वित्त आयोग"
         }
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 1,
       "explanation": {
-        "en": "To address the significant outstanding balance of Rs 20,000 crore in unpaid traffic e-challans, the Supreme Court suggested linking unpaid fines to electricity bills to encourage payment across states and union territories.",
-        "hi": "अवैतनिक ट्रैफिक ई-चालान में 20,000 करोड़ रुपये की महत्वपूर्ण बकाया राशि का समाधान करने के लिए, सर्वोच्च न्यायालय ने राज्यों और केंद्र शासित प्रदेशों में भुगतान को प्रोत्साहित करने के लिए अवैतनिक जुर्माने को बिजली बिलों से जोड़ने का सुझाव दिया।"
+        "en": "A petitioner recently moved a curative plea in the Supreme Court challenging the new law governing the appointments of the Chief Election Commissioner (CEC) and Election Commissioners (ECs). The Election Commission operates under Article 324.",
+        "hi": "एक याचिकाकर्ता ने हाल ही में मुख्य चुनाव आयुक्त (CEC) और चुनाव आयुक्तों (EC) की नियुक्तियों को नियंत्रित करने वाले नए कानून को चुनौती देते हुए सर्वोच्च न्यायालय में एक उपचारात्मक याचिका दायर की। चुनाव आयोग अनुच्छेद 324 के तहत काम करता है।"
       },
       "category": "Polity & Governance",
-      "difficulty": "easy",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/rs-20k-cr-dues-pending-sc-suggests-recovering-e-traffic-challans-by-linking-them-to-electricity-bills/articleshow/134546499.cms"
+      "difficulty": "hard",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQdGZUZ1pNX0hnbnVpVVByT1VQLWdVTkNseHFUWXIyakpiejBNa3pWSnIzYUVSVkRnMDVVSFM4S0diNFg0dUJOYzJqc0VINGgxSE5OX1RsWm1IVEhlUVBmbTZadXZ0Tm9LVkZKLUZTWUhzVGFkRzNlVWQzQWswZ3NpaHdpenlwU3RpcFFNSVNOejMydTduNVFoZDJVbnFQZkt4SE1md1V2cTZaYzZoWXpvU3FGQnVweDIzTEw3cWlrYktFa1ZzMUMzV0QxVWVQSE83UWF5NVR0eVc0SDhRNkFyaDhR0gHiAUFVX3lxTFB0ZlRnWk1fSGdudWlVUHJPVVAtZ1VOQ2x4cVRZcjJqSmJ6ME1relZKcjNhRVJWRGcwNVVIUzhLR2I0WDR1Qk5jMmpzRUg0aDFITk5fVGxabUhUSGVRUGZtNlp1dnROb0tWRkotRlNZSHNUYWRHM2VVZDNBazBnc2lod2l6eXBTdGlwUU1JU056MzJ1N241UWhkMlVucVBmS3hITWZ3VXZxNlpjNmhZem9TcUZCdXB4MjNMTDdxaWtiS0VrVnMxQzNXRDFVZVBITzdRYXk1VHR5VzRIOFE2QXJoOFE?oc=5"
     },
     {
-      "id": "ca_20260929_07",
+      "id": "ca_20260930_09",
       "question": {
-        "en": "Recently, Indian refiners are looking at alternative oil sources like UAE Murban and Iraqi Basrah crude due to declining imports from which country?",
-        "hi": "हाल ही में, किस देश से आयात में गिरावट के कारण भारतीय रिफाइनर यूएई मूरबन और इराकी बसरा क्रूड जैसे वैकल्पिक तेल स्रोतों की तलाश कर रहे हैं?"
+        "en": "Which public sector bank recently dropped its plan to levy charges on passbook updation after public feedback?",
+        "hi": "हाल ही में किस सार्वजनिक क्षेत्र के बैंक ने सार्वजनिक प्रतिक्रिया के बाद पासबुक अपडेट करने पर शुल्क लगाने की अपनी योजना को वापस ले लिया है?"
       },
       "options": [
         {
-          "en": "Iran",
-          "hi": "ईरान"
+          "en": "State Bank of India",
+          "hi": "भारतीय स्टेट बैंक"
         },
         {
-          "en": "Venezuela",
-          "hi": "वेनेज़ुएला"
+          "en": "Punjab National Bank",
+          "hi": "पंजाब नेशनल बैंक"
         },
         {
-          "en": "Russia",
-          "hi": "रूस"
+          "en": "Bank of India",
+          "hi": "बैंक ऑफ इंडिया"
         },
         {
-          "en": "Saudi Arabia",
-          "hi": "सऊदी अरब"
+          "en": "Canara Bank",
+          "hi": "केनरा बैंक"
         }
       ],
       "correctAnswer": 2,
       "explanation": {
-        "en": "Indian imports of Russian crude oil are expected to decline further amid lower exports and Chinese competition, prompting Indian refiners to consider costlier alternatives like UAE Murban and Iraqi Basrah crude. Russia is currently one of India's largest oil suppliers.",
-        "hi": "कम निर्यात और चीनी प्रतिस्पर्धा के बीच रूसी कच्चे तेल के भारतीय आयात में और गिरावट आने की उम्मीद है, जिससे भारतीय रिफाइनर यूएई मूरबन और इराकी बसरा क्रूड जैसे महंगे विकल्पों पर विचार कर रहे हैं। रूस वर्तमान में भारत के सबसे बड़े तेल आपूर्तिकर्ताओं में से एक है।"
+        "en": "Bank of India (BoI) decided to drop its plan to levy charges for updating physical passbooks at non-home branches after receiving negative feedback from customers. BoI was founded in 1906 and is headquartered in Mumbai.",
+        "hi": "बैंक ऑफ इंडिया (BoI) ने ग्राहकों से नकारात्मक प्रतिक्रिया मिलने के बाद गैर-होम शाखाओं में भौतिक पासबुक को अपडेट करने के लिए शुल्क लगाने की अपनी योजना को वापस लेने का निर्णय लिया। बीओआई की स्थापना 1906 में हुई थी और इसका मुख्यालय मुंबई में है।"
       },
       "category": "Economy & Banking",
       "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/indian-imports-of-russian-crude-oil-to-decline-further-amid-lower-exports-chinese-competition/articleshow/134548119.cms"
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaTZXMXBxTVJvTlN4Tk83QmJSc3dRLXNJRzZGY1BkYWs1NUhoQkdVbHlfSlBCYXNNejE5dmFIcjJBR2JQVVl0SUR6MUVfbW1XQTF1UUlYV1FZU0xCWk5nUVYtNXZOeDA2ZFZ4U3AzMVFQMEoybGxlRUd4WEFscTR0bjNGRkJKTnJHbzJobGszMGJ6UHJaSEE?oc=5"
     },
     {
-      "id": "ca_20260929_08",
+      "id": "ca_20260930_10",
       "question": {
-        "en": "The first phase of the Char Dham Yatra was recently declared a resounding success with over 53 lakh pilgrims. Which state hosts the Char Dham Yatra?",
-        "hi": "चार धाम यात्रा का पहला चरण हाल ही में 53 लाख से अधिक तीर्थयात्रियों के साथ एक शानदार सफलता घोषित किया गया था। कौन सा राज्य चार धाम यात्रा की मेजबानी करता है?"
+        "en": "India recently announced it will engage with 115 airlines at a summit in Delhi in March 2027 to boost air links. Which ministry oversees this sector?",
+        "hi": "भारत ने हाल ही में घोषणा की है कि वह हवाई संपर्क को बढ़ावा देने के लिए मार्च 2027 में दिल्ली में एक शिखर सम्मेलन में 115 एयरलाइनों के साथ जुड़ेगा। इस क्षेत्र की देखरेख कौन सा मंत्रालय करता है?"
       },
       "options": [
         {
-          "en": "Himachal Pradesh",
-          "hi": "हिमाचल प्रदेश"
+          "en": "Ministry of Tourism",
+          "hi": "पर्यटन मंत्रालय"
         },
         {
-          "en": "Uttarakhand",
-          "hi": "उत्तराखंड"
+          "en": "Ministry of Civil Aviation",
+          "hi": "नागरिक उड्डयन मंत्रालय"
         },
         {
-          "en": "Uttar Pradesh",
-          "hi": "उत्तर प्रदेश"
+          "en": "Ministry of External Affairs",
+          "hi": "विदेश मंत्रालय"
         },
         {
-          "en": "Jammu & Kashmir",
-          "hi": "जम्मू और कश्मीर"
+          "en": "Ministry of Commerce and Industry",
+          "hi": "वाणिज्य और उद्योग मंत्रालय"
         }
       ],
       "correctAnswer": 1,
       "explanation": {
-        "en": "Uttarakhand Chief Minister Pushkar Singh Dhami declared the first phase of the Char Dham Yatra highly successful, with visitor counts crossing 53 lakh. The Char Dham circuit in Uttarakhand consists of Yamunotri, Gangotri, Kedarnath, and Badrinath.",
-        "hi": "उत्तराखंड के मुख्यमंत्री पुष्कर सिंह धामी ने चार धाम यात्रा के पहले चरण को अत्यधिक सफल घोषित किया, जिसमें आगंतुकों की संख्या 53 लाख को पार कर गई। उत्तराखंड में चार धाम सर्किट में यमुनोत्री, गंगोत्री, केदारनाथ और बद्रीनाथ शामिल हैं।"
+        "en": "To boost air links, India will engage 115 airlines and 55 countries at an aviation summit in Delhi in March 2027. The Ministry of Civil Aviation, currently headed by Kinjarapu Rammohan Naidu, oversees this sector.",
+        "hi": "हवाई संपर्कों को बढ़ावा देने के लिए, भारत मार्च 2027 में दिल्ली में एक विमानन शिखर सम्मेलन में 115 एयरलाइनों और 55 देशों को शामिल करेगा। नागरिक उड्डयन मंत्रालय, जिसके प्रमुख वर्तमान में किंजरापु राममोहन नायडू हैं, इस क्षेत्र की देखरेख करता है।"
       },
-      "category": "Environment & Ecology",
-      "difficulty": "easy",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/first-phase-of-char-dham-yatra-highly-successful-uttarakhand-cm-dhami/articleshow/134547709.cms"
-    },
-    {
-      "id": "ca_20260929_09",
-      "question": {
-        "en": "How many Chief Justices of High Courts were recently recommended for elevation to the Supreme Court of India?",
-        "hi": "हाल ही में कितने उच्च न्यायालयों के मुख्य न्यायाधीशों को भारत के सर्वोच्च न्यायालय में पदोन्नत करने की सिफारिश की गई थी?"
-      },
-      "options": [
-        {
-          "en": "Two",
-          "hi": "दो"
-        },
-        {
-          "en": "Three",
-          "hi": "तीन"
-        },
-        {
-          "en": "Four",
-          "hi": "चार"
-        },
-        {
-          "en": "Five",
-          "hi": "पांच"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "Three High Court Chief Justices were recently recommended for elevation to the Supreme Court. The Supreme Court of India (Article 124) currently has a sanctioned strength of 34 judges including the Chief Justice of India.",
-        "hi": "हाल ही में उच्च न्यायालय के तीन मुख्य न्यायाधीशों को सर्वोच्च न्यायालय में पदोन्नत करने की सिफारिश की गई थी। भारत के सर्वोच्च न्यायालय (अनुच्छेद 124) में वर्तमान में भारत के मुख्य न्यायाधीश सहित 34 न्यायाधीशों की स्वीकृत संख्या है।"
-      },
-      "category": "Appointments & Commissions",
-      "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/3-high-court-chief-justices-recommended-for-elevation-to-supreme-court/articleshow/134545684.cms"
-    },
-    {
-      "id": "ca_20260929_10",
-      "question": {
-        "en": "To protect which category of crops in the country has the Centre recently discussed drought measures?",
-        "hi": "देश में किस श्रेणी की फसलों की सुरक्षा के लिए केंद्र ने हाल ही में सूखा उपायों पर चर्चा की है?"
-      },
-      "options": [
-        {
-          "en": "Kharif Crops",
-          "hi": "खरीफ फसलें"
-        },
-        {
-          "en": "Zaid Crops",
-          "hi": "ज़ैद फसलें"
-        },
-        {
-          "en": "Rabi Crops",
-          "hi": "रबी फसलें"
-        },
-        {
-          "en": "Cash Crops",
-          "hi": "नकदी फसलें"
-        }
-      ],
-      "correctAnswer": 2,
-      "explanation": {
-        "en": "The Centre recently discussed drought measures to protect Rabi crops across the country. Rabi crops are sown in winter (October to December) and harvested in spring (April to June), including wheat, barley, peas, and gram.",
-        "hi": "केंद्र ने हाल ही में देश भर में रबी फसलों की सुरक्षा के लिए सूखा उपायों पर चर्चा की है। रबी फसलें सर्दियों (अक्टूबर से दिसंबर) में बोई जाती हैं और वसंत (अप्रैल से जून) में काटी जाती हैं, जिनमें गेहूं, जौ, मटर और चना शामिल हैं।"
-      },
-      "category": "Government Schemes",
+      "category": "International Summits",
       "difficulty": "hard",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/centre-discusses-drought-measures-to-protect-rabi-crops-in-the-country/articleshow/134545549.cms"
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVXpVWEJZNEVmM1oxSVpwcG9NV05pS1B3Q0dEbTQ1TWk4UlpNWjF1QVF1T3NBdXBxOXk2cVpaSzBTYWhSbXpEWWxJMHFaZGlEY0ZiVHlSc3pkT0kxbGpFOUc5VXNxTWZyQXRwVjFneUlMc1kxY1liNkVkcElZUXhIajZESDBLbXhUR2VlM29vSEpkdl9CYkpVS3JRbDdKSERNRkZzc1NSZlU5NDNTZXpuWEpoc1ZCRmVielRkbnpvYm0zMVUxd191Rk8yM0NCekdZT2fSAdIBQVVfeXFMT1V6VVhCWTRFZjNaMUlacHBvTVdOaUtQd0NHRG00NU1pOFJaTVoxdUFRdU9zQXVwcTl5NnFaWkswU2FoUm16RFlsSTBxWmRpRGNGYlR5UnN6ZE9JMWxqRTlHOVVzcU1mckF0cFYxZ3lJTHNZMWNZYjZFZHBJWVF4SGo2REgwS214VEdlZTNvb0hKZHZfQmJKVUtyUWw3SkhETUZGc3NTUmZVOTQzU2V6blhKaHNWQkZlYnpUZG56b2JtMzFVMXdfdUZPMjNDQnpHWU9n?oc=5"
     }
   ]
 }
