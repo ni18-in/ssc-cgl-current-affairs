@@ -1,216 +1,191 @@
 {
-  "date": "2026-09-30",
+  "date": "2026-10-01",
   "topic": "SSC CGL Daily Current Affairs",
-  "source": "PIB / The Hindu / Economic Times / Indian Express / GKToday",
-  "lastUpdated": "2026-09-30T06:00:00+05:30",
+  "source": "Business Standard / LiveMint / Times of India / India Today",
+  "lastUpdated": "2026-10-01T05:05:19+05:30",
   "version": 1,
   "totalQuestions": 10,
   "quiz": [
     {
-      "id": "ca_20260930_01",
+      "id": "ca_20261001_01",
       "question": {
-        "en": "Recently, India’s ISRO completed key systems and infrastructure for which of the following space missions?",
-        "hi": "हाल ही में, भारत के इसरो ने निम्नलिखित में से किस अंतरिक्ष मिशन के लिए प्रमुख प्रणालियों और बुनियादी ढांचे को पूरा किया है?"
+        "en": "Till when has the Government of India extended the RoDTEP (Remission of Duties and Taxes on Exported Products) scheme?",
+        "hi": "भारत सरकार ने RoDTEP (निर्यातित उत्पादों पर शुल्क और करों की छूट) योजना को कब तक के लिए बढ़ा दिया है?"
       },
       "options": [
         {
-          "en": "Mangalyaan-2",
-          "hi": "मंगलयान-2"
+          "en": "December 31, 2026",
+          "hi": "31 दिसंबर 2026"
         },
         {
-          "en": "Gaganyaan",
-          "hi": "गगनयान"
+          "en": "March 31, 2027",
+          "hi": "31 मार्च 2027"
         },
         {
-          "en": "Aditya-L1",
-          "hi": "आदित्य-L1"
+          "en": "June 30, 2027",
+          "hi": "30 जून 2027"
         },
         {
-          "en": "Shukrayaan",
-          "hi": "शुक्रयान"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "India’s Gaganyaan mission, aiming to send astronauts into space, has reached an advanced stage with ISRO completing its key systems and infrastructure. ISRO is headquartered in Bengaluru, Karnataka.",
-        "hi": "अंतरिक्ष यात्रियों को अंतरिक्ष में भेजने के उद्देश्य से भारत का गगनयान मिशन एक उन्नत चरण में पहुंच गया है, इसरो ने इसके प्रमुख प्रणालियों और बुनियादी ढांचे को पूरा कर लिया है। इसरो का मुख्यालय बेंगलुरु, कर्नाटक में है।"
-      },
-      "category": "Science & Technology",
-      "difficulty": "medium",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcDhoRDg5aWRJRWxTWlpOa1dDMkx2RVF3MEdnem85YzcyT1RGcFRNNnR2NG1qOVIzUVV3QVZxLWphVUlvRmVuZXlaWnQ1dVlIUHh6RFdfSV90RTB3VXV4MW9EY2piQVNSWDVCSnJXelpybXlIRzRzcUhNVGc4dVhDNTZKYm8ta1Bwa1dmQWtpd0RGaVpUTGhpTTNScU1BaHZSN1ZjMmlQRU1pSC1zbVduYw?oc=5"
-    },
-    {
-      "id": "ca_20260930_02",
-      "question": {
-        "en": "In a recent case concerning the appointment of the Director General of Police (DGP) for which state did the Supreme Court reserve its verdict?",
-        "hi": "हाल ही में किस राज्य के पुलिस महानिदेशक (DGP) की नियुक्ति से संबंधित मामले में सर्वोच्च न्यायालय ने अपना फैसला सुरक्षित रखा है?"
-      },
-      "options": [
-        {
-          "en": "West Bengal",
-          "hi": "पश्चिम बंगाल"
-        },
-        {
-          "en": "Maharashtra",
-          "hi": "महाराष्ट्र"
-        },
-        {
-          "en": "Odisha",
-          "hi": "ओडिशा"
-        },
-        {
-          "en": "Tamil Nadu",
-          "hi": "तमिलनाडु"
-        }
-      ],
-      "correctAnswer": 2,
-      "explanation": {
-        "en": "The Supreme Court recently reserved its verdict in the case concerning the appointment of the Director General of Police (DGP) in Odisha. The Supreme Court operates under Article 124 of the Constitution.",
-        "hi": "सर्वोच्च न्यायालय ने हाल ही में ओडिशा में पुलिस महानिदेशक (DGP) की नियुक्ति के मामले में अपना फैसला सुरक्षित रखा। सर्वोच्च न्यायालय संविधान के अनुच्छेद 124 के तहत काम करता है।"
-      },
-      "category": "Appointments & Commissions",
-      "difficulty": "medium",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVkk2NEJuTENJUUJjRXNwMUlZSDR5Rlk0YXZpVDdVOGtoZ3d1YldWQy1zcFRLN2tJS09wTHlQOERvMllWZGdISnYzdkY2ckxyRE5EMm1UVlpwNUVOakY3Y2ZCUUxwMnZWZ3cwWUVCcTFRbi0wc2JoZ2tWaGp1Z2JCWU5rMnN3aWhFcEx1dFpLOXlweE9jLVFZTXRRXzlKNDR3U2NsOHprZEFTTFVoQVI3MUY5ZDk4c0VmbnVQMNIBygFBVV95cUxQbFZHZXk2VmdEZHNLTFBWcnNfYkVfRXhQY1I0aFdMay1KZ1FROG5mSHNaMXB0TFNySHRjSnJYWTgyWDdBRFhIcXg2QmhSbkxmS21NX0FtbGFERTVPT3BZbEpPREpqbDhLWkRBdnRlQW1sYlV4ekRVMTgxRzFQaHJ4STFDclZQZzhrc0x0am9RSEJWSUtQZ1R6UW13S0dwakNnSDZOQVctVEpZOXJncDZTeHVCaVc5RlhBaUNPTFBlak5ZeXdDRmxZaldR?oc=5"
-    },
-    {
-      "id": "ca_20260930_03",
-      "question": {
-        "en": "Which major sports event's return to India is currently under preparation according to Sports Minister Mandaviya?",
-        "hi": "खेल मंत्री मंडाविया के अनुसार वर्तमान में किस प्रमुख खेल आयोजन की भारत में वापसी की तैयारी चल रही है?"
-      },
-      "options": [
-        {
-          "en": "Olympics",
-          "hi": "ओलंपिक"
-        },
-        {
-          "en": "Formula 1 (F1)",
-          "hi": "फॉर्मूला 1 (F1)"
-        },
-        {
-          "en": "FIFA World Cup",
-          "hi": "फीफा विश्व कप"
-        },
-        {
-          "en": "Commonwealth Games",
-          "hi": "राष्ट्रमंडल खेल"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "Sports Minister Mansukh Mandaviya announced that preparations are underway for the return of the Formula 1 (F1) racing event to India. The Indian Grand Prix was previously held at the Buddh International Circuit.",
-        "hi": "खेल मंत्री मनसुख मंडाविया ने घोषणा की कि भारत में फॉर्मूला 1 (F1) रेसिंग इवेंट की वापसी की तैयारी चल रही है। इंडियन ग्रांड प्रिक्स पहले बुद्ध इंटरनेशनल सर्किट में आयोजित किया जाता था।"
-      },
-      "category": "Sports",
-      "difficulty": "easy",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQkM4eFhodWxMbTdnV0VBWl9VOE9iNUtmd1VyYld0WkVWRXZ3MlNac0VFYlYzS3B1QkFqSW0tZ2RKQ2xxWVd3T3B1clRuaEZQTWJSOUZGZ0Y2R2RBLUNweVU4UUNQYkY5dExPeE12ZEp6cW4xNkNLa09EOVRaSVBScUVkZjFobnlsaWU0YWU1V1hEUEFPTHpLdWVIcHdob3BD?oc=5"
-    },
-    {
-      "id": "ca_20260930_04",
-      "question": {
-        "en": "Environment Minister Bhupender Yadav recently handed over India's first 'PRAMAAN' certificates. What is the focus of these certificates?",
-        "hi": "पर्यावरण मंत्री भूपेंद्र यादव ने हाल ही में भारत का पहला 'PRAMAAN' प्रमाण पत्र सौंपा है। इन प्रमाण पत्रों का मुख्य विषय क्या है?"
-      },
-      "options": [
-        {
-          "en": "Solar Energy",
-          "hi": "सौर ऊर्जा"
-        },
-        {
-          "en": "Forest Plantation and Bamboo Farming",
-          "hi": "वन रोपण और बांस की खेती"
-        },
-        {
-          "en": "Electric Vehicles",
-          "hi": "इलेक्ट्रिक वाहन"
-        },
-        {
-          "en": "Water Conservation",
-          "hi": "जल संरक्षण"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "Union Environment Minister Bhupender Yadav handed over India's first PRAMAAN certificates, which focus on forest plantation and bamboo farming. This initiative promotes sustainable forestry practices in India.",
-        "hi": "केंद्रीय पर्यावरण मंत्री भूपेंद्र यादव ने भारत का पहला PRAMAAN प्रमाण पत्र सौंपा, जो वन रोपण और बांस की खेती पर केंद्रित है। यह पहल भारत में टिकाऊ वानिकी प्रथाओं को बढ़ावा देती है।"
-      },
-      "category": "Environment & Ecology",
-      "difficulty": "medium",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOaWtnUDI0UkRkZkJoRTNLUi1TNDBqdW9OVW5tWTFDRDZIUVdKSkxGODRTNi1sVW5mVWpYd0dYT041Y0R4THlqRVpMdFF2Ul91UGVieEhfOFlhY0FDYk5TNmF0VkRxX2ticTVWME5iT3o1UlBMNUxxR0l1dXdab04wNDU1T0F2OE9leGhmcFJvZWNaaWhRQzR6OTV6VDQydzNPdEtMYXFGWFNkeWtMMlBfc3ZqZmt5UWQyUHI0LTVxVWhQZUZ2WGtpNGk1NzU3aGdlbnJIYnVYVFRFNEhWZkVVaUtISTB1eEJE?oc=5"
-    },
-    {
-      "id": "ca_20260930_05",
-      "question": {
-        "en": "A woman farmer from which Indian state is set to receive an award from the Food and Agriculture Organization (FAO)?",
-        "hi": "किस भारतीय राज्य की महिला किसान को खाद्य और कृषि संगठन (FAO) से पुरस्कार मिलने वाला है?"
-      },
-      "options": [
-        {
-          "en": "Mizoram",
-          "hi": "मिजोरम"
-        },
-        {
-          "en": "Punjab",
-          "hi": "पंजाब"
-        },
-        {
-          "en": "Haryana",
-          "hi": "हरियाणा"
-        },
-        {
-          "en": "Kerala",
-          "hi": "केरल"
+          "en": "September 30, 2026",
+          "hi": "30 सितंबर 2026"
         }
       ],
       "correctAnswer": 0,
       "explanation": {
-        "en": "A woman farmer from Mizoram has been selected to receive a prestigious award from the Food and Agriculture Organization (FAO) for her contributions. The FAO is a specialized agency of the UN with its headquarters in Rome, Italy.",
-        "hi": "मिजोरम की एक महिला किसान को उनके योगदान के लिए खाद्य एवं कृषि संगठन (FAO) से एक प्रतिष्ठित पुरस्कार प्राप्त करने के लिए चुना गया है। FAO रोम, इटली में मुख्यालय के साथ संयुक्त राष्ट्र की एक विशेष एजेंसी है।"
+        "en": "The Government has extended the RoDTEP and RoSCTL export tax remission schemes until December 31, 2026. These schemes reimburse exporters for embedded non-creditable levies.",
+        "hi": "सरकार ने RoDTEP और RoSCTL निर्यात कर छूट योजनाओं को 31 दिसंबर 2026 तक बढ़ा दिया है। ये योजनाएं निर्यातकों को गैर-क्रेडिट योग्य लेवी की प्रतिपूर्ति करती हैं।"
       },
-      "category": "Awards & Honours",
+      "category": "Economy & Banking",
       "difficulty": "medium",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5mdzB0ZWFubDRPem9YRUJJM1RqTnA1U0c2X182dldQdnZiOF9QQU5ia0xXWUs5c0hYRTkyX25oaERiRUpQTUhhYjhtVWFhUHk4SFREY2hLaTNxdGJ0c3RTY2wyTmJiNDZQS2ZWMEdlUVQ3djUzTDNJWS15eDc?oc=5"
+      "sourceUrl": "https://www.business-standard.com/industry/news/govt-extends-rodtep-rosctl-export-tax-remission-schemes-till-december-31-126093001565_1.html"
     },
     {
-      "id": "ca_20260930_06",
+      "id": "ca_20261001_02",
       "question": {
-        "en": "How many cities were recently selected by the Central Government for the PRAGATI-50 clean-city initiative?",
-        "hi": "हाल ही में केंद्र सरकार द्वारा प्रगति-50 (PRAGATI-50) स्वच्छ-शहर पहल के लिए कितने शहरों का चयन किया गया?"
+        "en": "What is the revised windfall tax (SAED) on diesel exports recently announced by the government amid West Asia tensions?",
+        "hi": "पश्चिम एशिया के तनाव के बीच सरकार द्वारा हाल ही में डीजल निर्यात पर घोषित संशोधित अप्रत्याशित कर (SAED) क्या है?"
       },
       "options": [
         {
-          "en": "20",
-          "hi": "20"
+          "en": "₹12 per litre",
+          "hi": "₹12 प्रति लीटर"
         },
         {
-          "en": "30",
-          "hi": "30"
+          "en": "₹16 per litre",
+          "hi": "₹16 प्रति लीटर"
         },
         {
-          "en": "40",
-          "hi": "40"
+          "en": "₹20 per litre",
+          "hi": "₹20 प्रति लीटर"
         },
         {
-          "en": "50",
-          "hi": "50"
+          "en": "₹25 per litre",
+          "hi": "₹25 प्रति लीटर"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The government lowered the Special Additional Excise Duty (SAED) along with road and infrastructure cess on the export of diesel to ₹16 per litre.",
+        "hi": "सरकार ने डीजल के निर्यात पर सड़क और बुनियादी ढांचा उपकर के साथ विशेष अतिरिक्त उत्पाद शुल्क (SAED) को घटाकर ₹16 प्रति लीटर कर दिया है।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.livemint.com/news/india/govt-lowers-windfall-tax-on-diesel-atf-exports-amid-west-asia-tensions-11790792346575.html"
+    },
+    {
+      "id": "ca_20261001_03",
+      "question": {
+        "en": "Under the draft Petroleum (Amendment) Bill, 2026, what is the maximum civil penalty proposed for repeat violations of licence breaches?",
+        "hi": "पेट्रोलियम (संशोधन) विधेयक, 2026 के मसौदे के तहत, लाइसेंस उल्लंघन के बार-बार होने वाले मामलों के लिए प्रस्तावित अधिकतम नागरिक जुर्माना कितना है?"
+      },
+      "options": [
+        {
+          "en": "₹1 crore",
+          "hi": "₹1 करोड़"
+        },
+        {
+          "en": "₹2.5 crore",
+          "hi": "₹2.5 करोड़"
+        },
+        {
+          "en": "₹5 crore",
+          "hi": "₹5 करोड़"
+        },
+        {
+          "en": "₹10 crore",
+          "hi": "₹10 करोड़"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The draft Bill proposes decriminalising licence breaches, substituting them with civil penalties of up to ₹2.5 crore for a first violation and ₹5 crore for repeat breaches.",
+        "hi": "मसौदा विधेयक में लाइसेंस उल्लंघनों को अपराध की श्रेणी से बाहर करने का प्रस्ताव है, इसके स्थान पर पहली बार उल्लंघन के लिए ₹2.5 करोड़ और बार-बार उल्लंघन के लिए ₹5 करोड़ तक के नागरिक जुर्माने का प्रावधान है।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "hard",
+      "sourceUrl": "https://www.livemint.com/news/india/petroleum-act-draft-licence-breaches-may-no-longer-be-criminal-but-repeat-violations-could-cost-rs-5-crore-11790792918451.html"
+    },
+    {
+      "id": "ca_20261001_04",
+      "question": {
+        "en": "Which major corporation recently raised ₹13,000 crore through 10-year bonds at an interest rate of 7.90%?",
+        "hi": "हाल ही में किस प्रमुख कॉर्पोरेशन ने 7.90% की ब्याज दर पर 10-वर्षीय बॉन्ड के माध्यम से ₹13,000 करोड़ जुटाए हैं?"
+      },
+      "options": [
+        {
+          "en": "Tata Consultancy Services",
+          "hi": "टाटा कंसल्टेंसी सर्विसेज"
+        },
+        {
+          "en": "Reliance Industries",
+          "hi": "रिलायंस इंडस्ट्रीज"
+        },
+        {
+          "en": "HDFC Bank",
+          "hi": "एचडीएफसी बैंक"
+        },
+        {
+          "en": "Adani Green Energy",
+          "hi": "अदानी ग्रीन एनर्जी"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Reliance Industries raised ₹13,000 crore through 10-year bonds at 7.90% as borrowing costs face upward pressure amid rate hike expectations.",
+        "hi": "रिलायंस इंडस्ट्रीज ने 7.90% पर 10-वर्षीय बॉन्ड के माध्यम से ₹13,000 करोड़ जुटाए, क्योंकि दर वृद्धि की उम्मीदों के बीच उधारी लागत पर ऊपर की ओर दबाव है।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.business-standard.com/markets/news/reliance-industries-raises-13-000-crore-through-10-year-bonds-at-7-90-126093001239_1.html"
+    },
+    {
+      "id": "ca_20261001_05",
+      "question": {
+        "en": "After how many years since the fall of Saddam Hussein did US troops officially announce their withdrawal from Iraq?",
+        "hi": "सद्दाम हुसैन के पतन के कितने वर्षों बाद अमेरिकी सैनिकों ने आधिकारिक तौर पर इराक से अपनी वापसी की घोषणा की?"
+      },
+      "options": [
+        {
+          "en": "10 years",
+          "hi": "10 वर्ष"
+        },
+        {
+          "en": "15 years",
+          "hi": "15 वर्ष"
+        },
+        {
+          "en": "20 years",
+          "hi": "20 वर्ष"
+        },
+        {
+          "en": "23 years",
+          "hi": "23 वर्ष"
         }
       ],
       "correctAnswer": 3,
       "explanation": {
-        "en": "The Centre has selected 50 cities under the PRAGATI-50 initiative to promote cleanliness and better urban infrastructure across India. The initiative is a significant part of the ongoing Swachh Bharat Mission (Urban).",
-        "hi": "केंद्र ने पूरे भारत में स्वच्छता और बेहतर शहरी बुनियादी ढांचे को बढ़ावा देने के लिए प्रगति-50 पहल के तहत 50 शहरों का चयन किया है। यह पहल चल रहे स्वच्छ भारत मिशन (शहरी) का एक महत्वपूर्ण हिस्सा है।"
+        "en": "US troops have finally left Iraq, closing a long chapter of American military presence 23 years after the fall of Saddam Hussein.",
+        "hi": "सद्दाम हुसैन के पतन के 23 साल बाद अमेरिकी सैन्य उपस्थिति का एक लंबा अध्याय बंद करते हुए अमेरिकी सेना अंततः इराक से वापस लौट आई है।"
       },
-      "category": "Government Schemes",
+      "category": "International Summits",
       "difficulty": "easy",
-      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/centre-picks-50-cities-for-pragati-50-clean-city-initiative/articleshow/134571763.cms"
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/us-troops-finally-leave-iraq-23-years-after-saddams-fall-america-closes-a-long-chapter/articleshow/134598216.cms"
     },
     {
-      "id": "ca_20260930_07",
+      "id": "ca_20261001_06",
       "question": {
-        "en": "Neeru Dhanda, who recently secured a gold medal in the Asian Games, is associated with which sport?",
-        "hi": "हाल ही में एशियाई खेलों में स्वर्ण पदक हासिल करने वाली नीरू ढांडा किस खेल से जुड़ी हैं?"
+        "en": "In which sport did Chikitha Taniparthi win a gold medal at the Asian Games?",
+        "hi": "चिकिथा तनिपार्थी ने एशियाई खेलों में किस खेल में स्वर्ण पदक जीता?"
       },
       "options": [
+        {
+          "en": "Shooting",
+          "hi": "निशानेबाजी"
+        },
+        {
+          "en": "Archery",
+          "hi": "तीरंदाजी"
+        },
         {
           "en": "Wrestling",
           "hi": "कुश्ती"
@@ -218,123 +193,148 @@
         {
           "en": "Athletics",
           "hi": "एथलेटिक्स"
-        },
-        {
-          "en": "Boxing",
-          "hi": "मुक्केबाजी"
-        },
-        {
-          "en": "Shooting",
-          "hi": "निशानेबाजी"
         }
       ],
       "correctAnswer": 1,
       "explanation": {
-        "en": "Indian athlete Neeru Dhanda made history by clinching a gold medal at the Asian Games 2026. India also secured a gold in the women's 4x400m relay, boosting its total medal count.",
-        "hi": "भारतीय एथलीट नीरू ढांडा ने एशियाई खेल 2026 में स्वर्ण पदक जीतकर इतिहास रच दिया। भारत ने महिलाओं की 4x400 मीटर रिले में भी स्वर्ण पदक हासिल किया, जिससे उसके कुल पदकों की संख्या बढ़ गई।"
+        "en": "Chikitha Taniparthi, for whose dream her father gave up his family rice harvester, won a gold medal in archery at the Asian Games.",
+        "hi": "चिकिथा तनिपार्थी, जिनके सपने के लिए उनके पिता ने अपनी राइस हार्वेस्टर बेच दी थी, ने एशियाई खेलों में तीरंदाजी में स्वर्ण पदक जीता।"
       },
       "category": "Sports",
-      "difficulty": "easy",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-2026-day-10-two-golds-from-neeru-dhanda-womens-4x400m-relay-take-india-past-50-medals/articleshow/134568551.cms"
+      "difficulty": "medium",
+      "sourceUrl": "https://www.indiatoday.in/sports/asian-games/story/chikitha-taniparthi-father-sold-rice-harvester-archery-asian-games-gold-3006783-2026-09-30"
     },
     {
-      "id": "ca_20260930_08",
+      "id": "ca_20261001_07",
       "question": {
-        "en": "A curative plea was recently filed in the Supreme Court challenging the law regulating the appointments to which constitutional body?",
-        "hi": "हाल ही में किस संवैधानिक निकाय में नियुक्तियों को विनियमित करने वाले कानून को चुनौती देते हुए सर्वोच्च न्यायालय में एक उपचारात्मक याचिका दायर की गई थी?"
+        "en": "Which constitutional article deals with the readjustment of allocation of seats in the Lok Sabha upon the completion of each census (Delimitation)?",
+        "hi": "संविधान का कौन सा अनुच्छेद प्रत्येक जनगणना पूरी होने पर लोकसभा में सीटों के आवंटन के पुनर्समायोजन (परिसीमन) से संबंधित है?"
       },
       "options": [
         {
-          "en": "UPSC",
-          "hi": "UPSC"
+          "en": "Article 82",
+          "hi": "अनुच्छेद 82"
         },
         {
-          "en": "Election Commission of India (ECI)",
-          "hi": "भारत निर्वाचन आयोग (ECI)"
+          "en": "Article 112",
+          "hi": "अनुच्छेद 112"
         },
         {
-          "en": "CAG",
-          "hi": "CAG"
+          "en": "Article 324",
+          "hi": "अनुच्छेद 324"
         },
         {
-          "en": "Finance Commission",
-          "hi": "वित्त आयोग"
+          "en": "Article 368",
+          "hi": "अनुच्छेद 368"
         }
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 0,
       "explanation": {
-        "en": "A petitioner recently moved a curative plea in the Supreme Court challenging the new law governing the appointments of the Chief Election Commissioner (CEC) and Election Commissioners (ECs). The Election Commission operates under Article 324.",
-        "hi": "एक याचिकाकर्ता ने हाल ही में मुख्य चुनाव आयुक्त (CEC) और चुनाव आयुक्तों (EC) की नियुक्तियों को नियंत्रित करने वाले नए कानून को चुनौती देते हुए सर्वोच्च न्यायालय में एक उपचारात्मक याचिका दायर की। चुनाव आयोग अनुच्छेद 324 के तहत काम करता है।"
+        "en": "Article 82 of the Indian Constitution provides for the enactment of a Delimitation Act after every census. Concerns are currently rising in South India over potential political representation losses.",
+        "hi": "भारतीय संविधान का अनुच्छेद 82 प्रत्येक जनगणना के बाद परिसीमन अधिनियम को लागू करने का प्रावधान करता है। संभावित राजनीतिक प्रतिनिधित्व के नुकसान को लेकर वर्तमान में दक्षिण भारत में चिंताएँ बढ़ रही हैं।"
       },
       "category": "Polity & Governance",
-      "difficulty": "hard",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQdGZUZ1pNX0hnbnVpVVByT1VQLWdVTkNseHFUWXIyakpiejBNa3pWSnIzYUVSVkRnMDVVSFM4S0diNFg0dUJOYzJqc0VINGgxSE5OX1RsWm1IVEhlUVBmbTZadXZ0Tm9LVkZKLUZTWUhzVGFkRzNlVWQzQWswZ3NpaHdpenlwU3RpcFFNSVNOejMydTduNVFoZDJVbnFQZkt4SE1md1V2cTZaYzZoWXpvU3FGQnVweDIzTEw3cWlrYktFa1ZzMUMzV0QxVWVQSE83UWF5NVR0eVc0SDhRNkFyaDhR0gHiAUFVX3lxTFB0ZlRnWk1fSGdudWlVUHJPVVAtZ1VOQ2x4cVRZcjJqSmJ6ME1relZKcjNhRVJWRGcwNVVIUzhLR2I0WDR1Qk5jMmpzRUg0aDFITk5fVGxabUhUSGVRUGZtNlp1dnROb0tWRkotRlNZSHNUYWRHM2VVZDNBazBnc2lod2l6eXBTdGlwUU1JU056MzJ1N241UWhkMlVucVBmS3hITWZ3VXZxNlpjNmhZem9TcUZCdXB4MjNMTDdxaWtiS0VrVnMxQzNXRDFVZVBITzdRYXk1VHR5VzRIOFE2QXJoOFE?oc=5"
-    },
-    {
-      "id": "ca_20260930_09",
-      "question": {
-        "en": "Which public sector bank recently dropped its plan to levy charges on passbook updation after public feedback?",
-        "hi": "हाल ही में किस सार्वजनिक क्षेत्र के बैंक ने सार्वजनिक प्रतिक्रिया के बाद पासबुक अपडेट करने पर शुल्क लगाने की अपनी योजना को वापस ले लिया है?"
-      },
-      "options": [
-        {
-          "en": "State Bank of India",
-          "hi": "भारतीय स्टेट बैंक"
-        },
-        {
-          "en": "Punjab National Bank",
-          "hi": "पंजाब नेशनल बैंक"
-        },
-        {
-          "en": "Bank of India",
-          "hi": "बैंक ऑफ इंडिया"
-        },
-        {
-          "en": "Canara Bank",
-          "hi": "केनरा बैंक"
-        }
-      ],
-      "correctAnswer": 2,
-      "explanation": {
-        "en": "Bank of India (BoI) decided to drop its plan to levy charges for updating physical passbooks at non-home branches after receiving negative feedback from customers. BoI was founded in 1906 and is headquartered in Mumbai.",
-        "hi": "बैंक ऑफ इंडिया (BoI) ने ग्राहकों से नकारात्मक प्रतिक्रिया मिलने के बाद गैर-होम शाखाओं में भौतिक पासबुक को अपडेट करने के लिए शुल्क लगाने की अपनी योजना को वापस लेने का निर्णय लिया। बीओआई की स्थापना 1906 में हुई थी और इसका मुख्यालय मुंबई में है।"
-      },
-      "category": "Economy & Banking",
       "difficulty": "medium",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaTZXMXBxTVJvTlN4Tk83QmJSc3dRLXNJRzZGY1BkYWs1NUhoQkdVbHlfSlBCYXNNejE5dmFIcjJBR2JQVVl0SUR6MUVfbW1XQTF1UUlYV1FZU0xCWk5nUVYtNXZOeDA2ZFZ4U3AzMVFQMEoybGxlRUd4WEFscTR0bjNGRkJKTnJHbzJobGszMGJ6UHJaSEE?oc=5"
+      "sourceUrl": "https://www.indiatoday.in/india-today-insight/story/delimitation-discontent-why-punish-south-india-for-its-progress-3006819-2026-09-30"
     },
     {
-      "id": "ca_20260930_10",
+      "id": "ca_20261001_08",
       "question": {
-        "en": "India recently announced it will engage with 115 airlines at a summit in Delhi in March 2027 to boost air links. Which ministry oversees this sector?",
-        "hi": "भारत ने हाल ही में घोषणा की है कि वह हवाई संपर्क को बढ़ावा देने के लिए मार्च 2027 में दिल्ली में एक शिखर सम्मेलन में 115 एयरलाइनों के साथ जुड़ेगा। इस क्षेत्र की देखरेख कौन सा मंत्रालय करता है?"
+        "en": "Who won the gold medal in the trap event at the Asian Games?",
+        "hi": "एशियाई खेलों में ट्रैप स्पर्धा में स्वर्ण पदक किसने जीता?"
       },
       "options": [
         {
-          "en": "Ministry of Tourism",
-          "hi": "पर्यटन मंत्रालय"
+          "en": "Manu Bhaker",
+          "hi": "मनु भाकर"
         },
         {
-          "en": "Ministry of Civil Aviation",
-          "hi": "नागरिक उड्डयन मंत्रालय"
+          "en": "Neeru",
+          "hi": "नीरू"
         },
         {
-          "en": "Ministry of External Affairs",
-          "hi": "विदेश मंत्रालय"
+          "en": "Apurvi Chandela",
+          "hi": "अपूर्वी चंदेला"
         },
         {
-          "en": "Ministry of Commerce and Industry",
-          "hi": "वाणिज्य और उद्योग मंत्रालय"
+          "en": "Mehuli Ghosh",
+          "hi": "मेहुली घोष"
         }
       ],
       "correctAnswer": 1,
       "explanation": {
-        "en": "To boost air links, India will engage 115 airlines and 55 countries at an aviation summit in Delhi in March 2027. The Ministry of Civil Aviation, currently headed by Kinjarapu Rammohan Naidu, oversees this sector.",
-        "hi": "हवाई संपर्कों को बढ़ावा देने के लिए, भारत मार्च 2027 में दिल्ली में एक विमानन शिखर सम्मेलन में 115 एयरलाइनों और 55 देशों को शामिल करेगा। नागरिक उड्डयन मंत्रालय, जिसके प्रमुख वर्तमान में किंजरापु राममोहन नायडू हैं, इस क्षेत्र की देखरेख करता है।"
+        "en": "Indian shooter Neeru won the gold medal in the trap event at the Asian Games.",
+        "hi": "भारतीय निशानेबाज नीरू ने एशियाई खेलों में ट्रैप स्पर्धा में स्वर्ण पदक जीता।"
       },
-      "category": "International Summits",
+      "category": "Sports",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.indiatoday.in/sports/asian-games/story/asian-games-trap-gold-neeru-promise-mother-pm-modi-3006632-2026-09-30"
+    },
+    {
+      "id": "ca_20261001_09",
+      "question": {
+        "en": "The Indian Coast Guard (ICG) is relying on which new doctrine to enhance India's maritime security?",
+        "hi": "भारतीय तटरक्षक बल (ICG) भारत की समुद्री सुरक्षा को बढ़ाने के लिए किस नए सिद्धांत पर भरोसा कर रहा है?"
+      },
+      "options": [
+        {
+          "en": "Aero-Naval integration",
+          "hi": "एरो-नेवल एकीकरण"
+        },
+        {
+          "en": "Human-Tech doctrine",
+          "hi": "ह्यूमन-टेक सिद्धांत"
+        },
+        {
+          "en": "Cyber-Maritime ops",
+          "hi": "साइबर-समुद्री संचालन"
+        },
+        {
+          "en": "Silent-Sea strategy",
+          "hi": "साइलेंट-सी रणनीति"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The Indian Coast Guard is banking on a 'human-tech' doctrine that integrates human expertise with advanced technology for safeguarding India's maritime zones.",
+        "hi": "भारतीय तटरक्षक बल एक 'ह्यूमन-टेक' सिद्धांत पर भरोसा कर रहा है जो भारत के समुद्री क्षेत्रों की सुरक्षा के लिए उन्नत तकनीक के साथ मानवीय विशेषज्ञता को एकीकृत करता है।"
+      },
+      "category": "Defence & Security",
       "difficulty": "hard",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVXpVWEJZNEVmM1oxSVpwcG9NV05pS1B3Q0dEbTQ1TWk4UlpNWjF1QVF1T3NBdXBxOXk2cVpaSzBTYWhSbXpEWWxJMHFaZGlEY0ZiVHlSc3pkT0kxbGpFOUc5VXNxTWZyQXRwVjFneUlMc1kxY1liNkVkcElZUXhIajZESDBLbXhUR2VlM29vSEpkdl9CYkpVS3JRbDdKSERNRkZzc1NSZlU5NDNTZXpuWEpoc1ZCRmVielRkbnpvYm0zMVUxd191Rk8yM0NCekdZT2fSAdIBQVVfeXFMT1V6VVhCWTRFZjNaMUlacHBvTVdOaUtQd0NHRG00NU1pOFJaTVoxdUFRdU9zQXVwcTl5NnFaWkswU2FoUm16RFlsSTBxWmRpRGNGYlR5UnN6ZE9JMWxqRTlHOVVzcU1mckF0cFYxZ3lJTHNZMWNZYjZFZHBJWVF4SGo2REgwS214VEdlZTNvb0hKZHZfQmJKVUtyUWw3SkhETUZGc3NTUmZVOTQzU2V6blhKaHNWQkZlYnpUZG56b2JtMzFVMXdfdUZPMjNDQnpHWU9n?oc=5"
+      "sourceUrl": "https://www.indiatoday.in/india-today-insight/story/why-coast-guard-banks-on-human-tech-doctrine-for-indias-maritime-security-3006637-2026-09-30"
+    },
+    {
+      "id": "ca_20261001_10",
+      "question": {
+        "en": "From October 2026, the State Bank of India (SBI) has reduced its free ATM transaction limit to how many per month?",
+        "hi": "अक्टूबर 2026 से, भारतीय स्टेट बैंक (SBI) ने अपनी मुफ्त एटीएम लेनदेन सीमा को घटाकर प्रति माह कितना कर दिया है?"
+      },
+      "options": [
+        {
+          "en": "3",
+          "hi": "3"
+        },
+        {
+          "en": "5",
+          "hi": "5"
+        },
+        {
+          "en": "7",
+          "hi": "7"
+        },
+        {
+          "en": "10",
+          "hi": "10"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "As part of the money rule changes from October 2026, SBI has lowered its free ATM transaction limit to 5 per month.",
+        "hi": "अक्टूबर 2026 से मनी रूल में बदलाव के तहत, SBI ने अपनी मुफ्त एटीएम लेनदेन सीमा को घटाकर 5 प्रति माह कर दिया है।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/5-money-rule-changes-from-october-2026-bulk-fd-rates-upi-mdr-starts-above-rs-2000-sbi-atm-free-limit-falls-to-5-lpg-aadhaar-kyc-new-nps-charges/articleshow/134587809.cms"
     }
   ]
 }
