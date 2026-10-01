@@ -1,0 +1,340 @@
+{
+  "date": "2026-10-01",
+  "topic": "SSC CGL Daily Current Affairs",
+  "source": "Business Standard / LiveMint / Times of India / India Today",
+  "lastUpdated": "2026-10-01T05:05:19+05:30",
+  "version": 1,
+  "totalQuestions": 10,
+  "quiz": [
+    {
+      "id": "ca_20261001_01",
+      "question": {
+        "en": "Till when has the Government of India extended the RoDTEP (Remission of Duties and Taxes on Exported Products) scheme?",
+        "hi": "भारत सरकार ने RoDTEP (निर्यातित उत्पादों पर शुल्क और करों की छूट) योजना को कब तक के लिए बढ़ा दिया है?"
+      },
+      "options": [
+        {
+          "en": "December 31, 2026",
+          "hi": "31 दिसंबर 2026"
+        },
+        {
+          "en": "March 31, 2027",
+          "hi": "31 मार्च 2027"
+        },
+        {
+          "en": "June 30, 2027",
+          "hi": "30 जून 2027"
+        },
+        {
+          "en": "September 30, 2026",
+          "hi": "30 सितंबर 2026"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "The Government has extended the RoDTEP and RoSCTL export tax remission schemes until December 31, 2026. These schemes reimburse exporters for embedded non-creditable levies.",
+        "hi": "सरकार ने RoDTEP और RoSCTL निर्यात कर छूट योजनाओं को 31 दिसंबर 2026 तक बढ़ा दिया है। ये योजनाएं निर्यातकों को गैर-क्रेडिट योग्य लेवी की प्रतिपूर्ति करती हैं।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.business-standard.com/industry/news/govt-extends-rodtep-rosctl-export-tax-remission-schemes-till-december-31-126093001565_1.html"
+    },
+    {
+      "id": "ca_20261001_02",
+      "question": {
+        "en": "What is the revised windfall tax (SAED) on diesel exports recently announced by the government amid West Asia tensions?",
+        "hi": "पश्चिम एशिया के तनाव के बीच सरकार द्वारा हाल ही में डीजल निर्यात पर घोषित संशोधित अप्रत्याशित कर (SAED) क्या है?"
+      },
+      "options": [
+        {
+          "en": "₹12 per litre",
+          "hi": "₹12 प्रति लीटर"
+        },
+        {
+          "en": "₹16 per litre",
+          "hi": "₹16 प्रति लीटर"
+        },
+        {
+          "en": "₹20 per litre",
+          "hi": "₹20 प्रति लीटर"
+        },
+        {
+          "en": "₹25 per litre",
+          "hi": "₹25 प्रति लीटर"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The government lowered the Special Additional Excise Duty (SAED) along with road and infrastructure cess on the export of diesel to ₹16 per litre.",
+        "hi": "सरकार ने डीजल के निर्यात पर सड़क और बुनियादी ढांचा उपकर के साथ विशेष अतिरिक्त उत्पाद शुल्क (SAED) को घटाकर ₹16 प्रति लीटर कर दिया है।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.livemint.com/news/india/govt-lowers-windfall-tax-on-diesel-atf-exports-amid-west-asia-tensions-11790792346575.html"
+    },
+    {
+      "id": "ca_20261001_03",
+      "question": {
+        "en": "Under the draft Petroleum (Amendment) Bill, 2026, what is the maximum civil penalty proposed for repeat violations of licence breaches?",
+        "hi": "पेट्रोलियम (संशोधन) विधेयक, 2026 के मसौदे के तहत, लाइसेंस उल्लंघन के बार-बार होने वाले मामलों के लिए प्रस्तावित अधिकतम नागरिक जुर्माना कितना है?"
+      },
+      "options": [
+        {
+          "en": "₹1 crore",
+          "hi": "₹1 करोड़"
+        },
+        {
+          "en": "₹2.5 crore",
+          "hi": "₹2.5 करोड़"
+        },
+        {
+          "en": "₹5 crore",
+          "hi": "₹5 करोड़"
+        },
+        {
+          "en": "₹10 crore",
+          "hi": "₹10 करोड़"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The draft Bill proposes decriminalising licence breaches, substituting them with civil penalties of up to ₹2.5 crore for a first violation and ₹5 crore for repeat breaches.",
+        "hi": "मसौदा विधेयक में लाइसेंस उल्लंघनों को अपराध की श्रेणी से बाहर करने का प्रस्ताव है, इसके स्थान पर पहली बार उल्लंघन के लिए ₹2.5 करोड़ और बार-बार उल्लंघन के लिए ₹5 करोड़ तक के नागरिक जुर्माने का प्रावधान है।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "hard",
+      "sourceUrl": "https://www.livemint.com/news/india/petroleum-act-draft-licence-breaches-may-no-longer-be-criminal-but-repeat-violations-could-cost-rs-5-crore-11790792918451.html"
+    },
+    {
+      "id": "ca_20261001_04",
+      "question": {
+        "en": "Which major corporation recently raised ₹13,000 crore through 10-year bonds at an interest rate of 7.90%?",
+        "hi": "हाल ही में किस प्रमुख कॉर्पोरेशन ने 7.90% की ब्याज दर पर 10-वर्षीय बॉन्ड के माध्यम से ₹13,000 करोड़ जुटाए हैं?"
+      },
+      "options": [
+        {
+          "en": "Tata Consultancy Services",
+          "hi": "टाटा कंसल्टेंसी सर्विसेज"
+        },
+        {
+          "en": "Reliance Industries",
+          "hi": "रिलायंस इंडस्ट्रीज"
+        },
+        {
+          "en": "HDFC Bank",
+          "hi": "एचडीएफसी बैंक"
+        },
+        {
+          "en": "Adani Green Energy",
+          "hi": "अदानी ग्रीन एनर्जी"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Reliance Industries raised ₹13,000 crore through 10-year bonds at 7.90% as borrowing costs face upward pressure amid rate hike expectations.",
+        "hi": "रिलायंस इंडस्ट्रीज ने 7.90% पर 10-वर्षीय बॉन्ड के माध्यम से ₹13,000 करोड़ जुटाए, क्योंकि दर वृद्धि की उम्मीदों के बीच उधारी लागत पर ऊपर की ओर दबाव है।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.business-standard.com/markets/news/reliance-industries-raises-13-000-crore-through-10-year-bonds-at-7-90-126093001239_1.html"
+    },
+    {
+      "id": "ca_20261001_05",
+      "question": {
+        "en": "After how many years since the fall of Saddam Hussein did US troops officially announce their withdrawal from Iraq?",
+        "hi": "सद्दाम हुसैन के पतन के कितने वर्षों बाद अमेरिकी सैनिकों ने आधिकारिक तौर पर इराक से अपनी वापसी की घोषणा की?"
+      },
+      "options": [
+        {
+          "en": "10 years",
+          "hi": "10 वर्ष"
+        },
+        {
+          "en": "15 years",
+          "hi": "15 वर्ष"
+        },
+        {
+          "en": "20 years",
+          "hi": "20 वर्ष"
+        },
+        {
+          "en": "23 years",
+          "hi": "23 वर्ष"
+        }
+      ],
+      "correctAnswer": 3,
+      "explanation": {
+        "en": "US troops have finally left Iraq, closing a long chapter of American military presence 23 years after the fall of Saddam Hussein.",
+        "hi": "सद्दाम हुसैन के पतन के 23 साल बाद अमेरिकी सैन्य उपस्थिति का एक लंबा अध्याय बंद करते हुए अमेरिकी सेना अंततः इराक से वापस लौट आई है।"
+      },
+      "category": "International Summits",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/us-troops-finally-leave-iraq-23-years-after-saddams-fall-america-closes-a-long-chapter/articleshow/134598216.cms"
+    },
+    {
+      "id": "ca_20261001_06",
+      "question": {
+        "en": "In which sport did Chikitha Taniparthi win a gold medal at the Asian Games?",
+        "hi": "चिकिथा तनिपार्थी ने एशियाई खेलों में किस खेल में स्वर्ण पदक जीता?"
+      },
+      "options": [
+        {
+          "en": "Shooting",
+          "hi": "निशानेबाजी"
+        },
+        {
+          "en": "Archery",
+          "hi": "तीरंदाजी"
+        },
+        {
+          "en": "Wrestling",
+          "hi": "कुश्ती"
+        },
+        {
+          "en": "Athletics",
+          "hi": "एथलेटिक्स"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Chikitha Taniparthi, for whose dream her father gave up his family rice harvester, won a gold medal in archery at the Asian Games.",
+        "hi": "चिकिथा तनिपार्थी, जिनके सपने के लिए उनके पिता ने अपनी राइस हार्वेस्टर बेच दी थी, ने एशियाई खेलों में तीरंदाजी में स्वर्ण पदक जीता।"
+      },
+      "category": "Sports",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.indiatoday.in/sports/asian-games/story/chikitha-taniparthi-father-sold-rice-harvester-archery-asian-games-gold-3006783-2026-09-30"
+    },
+    {
+      "id": "ca_20261001_07",
+      "question": {
+        "en": "Which constitutional article deals with the readjustment of allocation of seats in the Lok Sabha upon the completion of each census (Delimitation)?",
+        "hi": "संविधान का कौन सा अनुच्छेद प्रत्येक जनगणना पूरी होने पर लोकसभा में सीटों के आवंटन के पुनर्समायोजन (परिसीमन) से संबंधित है?"
+      },
+      "options": [
+        {
+          "en": "Article 82",
+          "hi": "अनुच्छेद 82"
+        },
+        {
+          "en": "Article 112",
+          "hi": "अनुच्छेद 112"
+        },
+        {
+          "en": "Article 324",
+          "hi": "अनुच्छेद 324"
+        },
+        {
+          "en": "Article 368",
+          "hi": "अनुच्छेद 368"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "Article 82 of the Indian Constitution provides for the enactment of a Delimitation Act after every census. Concerns are currently rising in South India over potential political representation losses.",
+        "hi": "भारतीय संविधान का अनुच्छेद 82 प्रत्येक जनगणना के बाद परिसीमन अधिनियम को लागू करने का प्रावधान करता है। संभावित राजनीतिक प्रतिनिधित्व के नुकसान को लेकर वर्तमान में दक्षिण भारत में चिंताएँ बढ़ रही हैं।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.indiatoday.in/india-today-insight/story/delimitation-discontent-why-punish-south-india-for-its-progress-3006819-2026-09-30"
+    },
+    {
+      "id": "ca_20261001_08",
+      "question": {
+        "en": "Who won the gold medal in the trap event at the Asian Games?",
+        "hi": "एशियाई खेलों में ट्रैप स्पर्धा में स्वर्ण पदक किसने जीता?"
+      },
+      "options": [
+        {
+          "en": "Manu Bhaker",
+          "hi": "मनु भाकर"
+        },
+        {
+          "en": "Neeru",
+          "hi": "नीरू"
+        },
+        {
+          "en": "Apurvi Chandela",
+          "hi": "अपूर्वी चंदेला"
+        },
+        {
+          "en": "Mehuli Ghosh",
+          "hi": "मेहुली घोष"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Indian shooter Neeru won the gold medal in the trap event at the Asian Games.",
+        "hi": "भारतीय निशानेबाज नीरू ने एशियाई खेलों में ट्रैप स्पर्धा में स्वर्ण पदक जीता।"
+      },
+      "category": "Sports",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.indiatoday.in/sports/asian-games/story/asian-games-trap-gold-neeru-promise-mother-pm-modi-3006632-2026-09-30"
+    },
+    {
+      "id": "ca_20261001_09",
+      "question": {
+        "en": "The Indian Coast Guard (ICG) is relying on which new doctrine to enhance India's maritime security?",
+        "hi": "भारतीय तटरक्षक बल (ICG) भारत की समुद्री सुरक्षा को बढ़ाने के लिए किस नए सिद्धांत पर भरोसा कर रहा है?"
+      },
+      "options": [
+        {
+          "en": "Aero-Naval integration",
+          "hi": "एरो-नेवल एकीकरण"
+        },
+        {
+          "en": "Human-Tech doctrine",
+          "hi": "ह्यूमन-टेक सिद्धांत"
+        },
+        {
+          "en": "Cyber-Maritime ops",
+          "hi": "साइबर-समुद्री संचालन"
+        },
+        {
+          "en": "Silent-Sea strategy",
+          "hi": "साइलेंट-सी रणनीति"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The Indian Coast Guard is banking on a 'human-tech' doctrine that integrates human expertise with advanced technology for safeguarding India's maritime zones.",
+        "hi": "भारतीय तटरक्षक बल एक 'ह्यूमन-टेक' सिद्धांत पर भरोसा कर रहा है जो भारत के समुद्री क्षेत्रों की सुरक्षा के लिए उन्नत तकनीक के साथ मानवीय विशेषज्ञता को एकीकृत करता है।"
+      },
+      "category": "Defence & Security",
+      "difficulty": "hard",
+      "sourceUrl": "https://www.indiatoday.in/india-today-insight/story/why-coast-guard-banks-on-human-tech-doctrine-for-indias-maritime-security-3006637-2026-09-30"
+    },
+    {
+      "id": "ca_20261001_10",
+      "question": {
+        "en": "From October 2026, the State Bank of India (SBI) has reduced its free ATM transaction limit to how many per month?",
+        "hi": "अक्टूबर 2026 से, भारतीय स्टेट बैंक (SBI) ने अपनी मुफ्त एटीएम लेनदेन सीमा को घटाकर प्रति माह कितना कर दिया है?"
+      },
+      "options": [
+        {
+          "en": "3",
+          "hi": "3"
+        },
+        {
+          "en": "5",
+          "hi": "5"
+        },
+        {
+          "en": "7",
+          "hi": "7"
+        },
+        {
+          "en": "10",
+          "hi": "10"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "As part of the money rule changes from October 2026, SBI has lowered its free ATM transaction limit to 5 per month.",
+        "hi": "अक्टूबर 2026 से मनी रूल में बदलाव के तहत, SBI ने अपनी मुफ्त एटीएम लेनदेन सीमा को घटाकर 5 प्रति माह कर दिया है।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/5-money-rule-changes-from-october-2026-bulk-fd-rates-upi-mdr-starts-above-rs-2000-sbi-atm-free-limit-falls-to-5-lpg-aadhaar-kyc-new-nps-charges/articleshow/134587809.cms"
+    }
+  ]
+}
