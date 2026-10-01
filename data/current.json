@@ -1,340 +1,340 @@
 {
-  "date": "2026-10-01",
+  "date": "2026-10-02",
   "topic": "SSC CGL Daily Current Affairs",
-  "source": "Business Standard / LiveMint / Times of India / India Today",
-  "lastUpdated": "2026-10-01T05:05:19+05:30",
+  "source": "The Hindu / Livemint / PIB",
+  "lastUpdated": "2026-10-02T06:00:00+05:30",
   "version": 1,
   "totalQuestions": 10,
   "quiz": [
     {
-      "id": "ca_20261001_01",
+      "id": "ca_20261002_01",
       "question": {
-        "en": "Till when has the Government of India extended the RoDTEP (Remission of Duties and Taxes on Exported Products) scheme?",
-        "hi": "भारत सरकार ने RoDTEP (निर्यातित उत्पादों पर शुल्क और करों की छूट) योजना को कब तक के लिए बढ़ा दिया है?"
+        "en": "Recently, the Government of India capped the sugar stock limit for dealers at how many quintals ahead of the festive season to prevent hoarding?",
+        "hi": "हाल ही में, भारत सरकार ने त्योहारी सीजन से पहले जमाखोरी को रोकने के लिए डीलरों के लिए चीनी स्टॉक की सीमा कितने क्विंटल तय की है?"
       },
       "options": [
         {
-          "en": "December 31, 2026",
-          "hi": "31 दिसंबर 2026"
+          "en": "500 quintals",
+          "hi": "500 क्विंटल"
         },
         {
-          "en": "March 31, 2027",
-          "hi": "31 मार्च 2027"
+          "en": "1,000 quintals",
+          "hi": "1,000 क्विंटल"
         },
         {
-          "en": "June 30, 2027",
-          "hi": "30 जून 2027"
+          "en": "2,000 quintals",
+          "hi": "2,000 क्विंटल"
         },
         {
-          "en": "September 30, 2026",
-          "hi": "30 सितंबर 2026"
-        }
-      ],
-      "correctAnswer": 0,
-      "explanation": {
-        "en": "The Government has extended the RoDTEP and RoSCTL export tax remission schemes until December 31, 2026. These schemes reimburse exporters for embedded non-creditable levies.",
-        "hi": "सरकार ने RoDTEP और RoSCTL निर्यात कर छूट योजनाओं को 31 दिसंबर 2026 तक बढ़ा दिया है। ये योजनाएं निर्यातकों को गैर-क्रेडिट योग्य लेवी की प्रतिपूर्ति करती हैं।"
-      },
-      "category": "Economy & Banking",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.business-standard.com/industry/news/govt-extends-rodtep-rosctl-export-tax-remission-schemes-till-december-31-126093001565_1.html"
-    },
-    {
-      "id": "ca_20261001_02",
-      "question": {
-        "en": "What is the revised windfall tax (SAED) on diesel exports recently announced by the government amid West Asia tensions?",
-        "hi": "पश्चिम एशिया के तनाव के बीच सरकार द्वारा हाल ही में डीजल निर्यात पर घोषित संशोधित अप्रत्याशित कर (SAED) क्या है?"
-      },
-      "options": [
-        {
-          "en": "₹12 per litre",
-          "hi": "₹12 प्रति लीटर"
-        },
-        {
-          "en": "₹16 per litre",
-          "hi": "₹16 प्रति लीटर"
-        },
-        {
-          "en": "₹20 per litre",
-          "hi": "₹20 प्रति लीटर"
-        },
-        {
-          "en": "₹25 per litre",
-          "hi": "₹25 प्रति लीटर"
+          "en": "5,000 quintals",
+          "hi": "5,000 क्विंटल"
         }
       ],
       "correctAnswer": 1,
       "explanation": {
-        "en": "The government lowered the Special Additional Excise Duty (SAED) along with road and infrastructure cess on the export of diesel to ₹16 per litre.",
-        "hi": "सरकार ने डीजल के निर्यात पर सड़क और बुनियादी ढांचा उपकर के साथ विशेष अतिरिक्त उत्पाद शुल्क (SAED) को घटाकर ₹16 प्रति लीटर कर दिया है।"
+        "en": "The Food Ministry capped the sugar stock limit for dealers to 1,000 quintals to ensure no unnecessary accumulation in the distribution chain and to keep retail prices stable.",
+        "hi": "खाद्य मंत्रालय ने डीलरों के लिए चीनी स्टॉक सीमा को 1,000 क्विंटल तक सीमित कर दिया है ताकि वितरण श्रृंखला में अनावश्यक जमाखोरी न हो और खुदरा कीमतें स्थिर रहें।"
       },
       "category": "Economy & Banking",
       "difficulty": "medium",
-      "sourceUrl": "https://www.livemint.com/news/india/govt-lowers-windfall-tax-on-diesel-atf-exports-amid-west-asia-tensions-11790792346575.html"
+      "sourceUrl": "https://www.thehindu.com/business/Industry/govt-caps-sugar-stock-limit-for-dealers-to-1000-quintals-ahead-of-festive-season/article71534608.ece"
     },
     {
-      "id": "ca_20261001_03",
+      "id": "ca_20261002_02",
       "question": {
-        "en": "Under the draft Petroleum (Amendment) Bill, 2026, what is the maximum civil penalty proposed for repeat violations of licence breaches?",
-        "hi": "पेट्रोलियम (संशोधन) विधेयक, 2026 के मसौदे के तहत, लाइसेंस उल्लंघन के बार-बार होने वाले मामलों के लिए प्रस्तावित अधिकतम नागरिक जुर्माना कितना है?"
+        "en": "At a recent G20 trade ministers' meeting, India opposed the 'weaponization' of which essential commodity through coercive trade actions?",
+        "hi": "हाल ही में G20 व्यापार मंत्रियों की बैठक में, भारत ने दंडात्मक व्यापार कार्रवाइयों के माध्यम से किस आवश्यक वस्तु के 'हथियारीकरण' (weaponization) का विरोध किया?"
       },
       "options": [
         {
-          "en": "₹1 crore",
-          "hi": "₹1 करोड़"
+          "en": "Crude Oil",
+          "hi": "कच्चा तेल"
         },
         {
-          "en": "₹2.5 crore",
-          "hi": "₹2.5 करोड़"
+          "en": "Semiconductors",
+          "hi": "सेमीकंडक्टर्स"
         },
         {
-          "en": "₹5 crore",
-          "hi": "₹5 करोड़"
+          "en": "Food",
+          "hi": "खाद्य पदार्थ"
         },
         {
-          "en": "₹10 crore",
-          "hi": "₹10 करोड़"
+          "en": "Medical Supplies",
+          "hi": "चिकित्सा आपूर्ति"
         }
       ],
       "correctAnswer": 2,
       "explanation": {
-        "en": "The draft Bill proposes decriminalising licence breaches, substituting them with civil penalties of up to ₹2.5 crore for a first violation and ₹5 crore for repeat breaches.",
-        "hi": "मसौदा विधेयक में लाइसेंस उल्लंघनों को अपराध की श्रेणी से बाहर करने का प्रस्ताव है, इसके स्थान पर पहली बार उल्लंघन के लिए ₹2.5 करोड़ और बार-बार उल्लंघन के लिए ₹5 करोड़ तक के नागरिक जुर्माने का प्रावधान है।"
-      },
-      "category": "Polity & Governance",
-      "difficulty": "hard",
-      "sourceUrl": "https://www.livemint.com/news/india/petroleum-act-draft-licence-breaches-may-no-longer-be-criminal-but-repeat-violations-could-cost-rs-5-crore-11790792918451.html"
-    },
-    {
-      "id": "ca_20261001_04",
-      "question": {
-        "en": "Which major corporation recently raised ₹13,000 crore through 10-year bonds at an interest rate of 7.90%?",
-        "hi": "हाल ही में किस प्रमुख कॉर्पोरेशन ने 7.90% की ब्याज दर पर 10-वर्षीय बॉन्ड के माध्यम से ₹13,000 करोड़ जुटाए हैं?"
-      },
-      "options": [
-        {
-          "en": "Tata Consultancy Services",
-          "hi": "टाटा कंसल्टेंसी सर्विसेज"
-        },
-        {
-          "en": "Reliance Industries",
-          "hi": "रिलायंस इंडस्ट्रीज"
-        },
-        {
-          "en": "HDFC Bank",
-          "hi": "एचडीएफसी बैंक"
-        },
-        {
-          "en": "Adani Green Energy",
-          "hi": "अदानी ग्रीन एनर्जी"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "Reliance Industries raised ₹13,000 crore through 10-year bonds at 7.90% as borrowing costs face upward pressure amid rate hike expectations.",
-        "hi": "रिलायंस इंडस्ट्रीज ने 7.90% पर 10-वर्षीय बॉन्ड के माध्यम से ₹13,000 करोड़ जुटाए, क्योंकि दर वृद्धि की उम्मीदों के बीच उधारी लागत पर ऊपर की ओर दबाव है।"
-      },
-      "category": "Economy & Banking",
-      "difficulty": "easy",
-      "sourceUrl": "https://www.business-standard.com/markets/news/reliance-industries-raises-13-000-crore-through-10-year-bonds-at-7-90-126093001239_1.html"
-    },
-    {
-      "id": "ca_20261001_05",
-      "question": {
-        "en": "After how many years since the fall of Saddam Hussein did US troops officially announce their withdrawal from Iraq?",
-        "hi": "सद्दाम हुसैन के पतन के कितने वर्षों बाद अमेरिकी सैनिकों ने आधिकारिक तौर पर इराक से अपनी वापसी की घोषणा की?"
-      },
-      "options": [
-        {
-          "en": "10 years",
-          "hi": "10 वर्ष"
-        },
-        {
-          "en": "15 years",
-          "hi": "15 वर्ष"
-        },
-        {
-          "en": "20 years",
-          "hi": "20 वर्ष"
-        },
-        {
-          "en": "23 years",
-          "hi": "23 वर्ष"
-        }
-      ],
-      "correctAnswer": 3,
-      "explanation": {
-        "en": "US troops have finally left Iraq, closing a long chapter of American military presence 23 years after the fall of Saddam Hussein.",
-        "hi": "सद्दाम हुसैन के पतन के 23 साल बाद अमेरिकी सैन्य उपस्थिति का एक लंबा अध्याय बंद करते हुए अमेरिकी सेना अंततः इराक से वापस लौट आई है।"
+        "en": "G20 trade ministers reached a consensus on food weaponization, with India (represented by Piyush Goyal) flagging food security concerns and pushing for a distinction between coercive restrictions and legitimate food-security measures.",
+        "hi": "G20 व्यापार मंत्रियों ने खाद्य हथियारीकरण पर सहमति व्यक्त की, जिसमें भारत (पीयूष गोयल द्वारा प्रतिनिधित्व) ने खाद्य सुरक्षा संबंधी चिंताओं को उठाया और दंडात्मक प्रतिबंधों और वैध खाद्य-सुरक्षा उपायों के बीच अंतर करने पर जोर दिया।"
       },
       "category": "International Summits",
-      "difficulty": "easy",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/us-troops-finally-leave-iraq-23-years-after-saddams-fall-america-closes-a-long-chapter/articleshow/134598216.cms"
+      "difficulty": "medium",
+      "sourceUrl": "https://www.livemint.com/news/india/g20-trade-ministers-reach-consensus-on-food-weaponization-as-goyal-flags-food-security-concerns-11790870996450.html"
     },
     {
-      "id": "ca_20261001_06",
+      "id": "ca_20261002_03",
       "question": {
-        "en": "In which sport did Chikitha Taniparthi win a gold medal at the Asian Games?",
-        "hi": "चिकिथा तनिपार्थी ने एशियाई खेलों में किस खेल में स्वर्ण पदक जीता?"
+        "en": "In a recent initiative to enhance accessibility, the Government of India revised the guidelines for exempting which of the following from FASTag requirements?",
+        "hi": "पहुंच बढ़ाने की एक हालिया पहल में, भारत सरकार ने निम्नलिखित में से किसे फास्टैग (FASTag) आवश्यकताओं से छूट देने के दिशानिर्देशों में संशोधन किया है?"
       },
       "options": [
         {
-          "en": "Shooting",
-          "hi": "निशानेबाजी"
+          "en": "Electric Vehicles (EVs)",
+          "hi": "इलेक्ट्रिक वाहन (EVs)"
         },
         {
-          "en": "Archery",
-          "hi": "तीरंदाजी"
+          "en": "Senior Citizens",
+          "hi": "वरिष्ठ नागरिक"
         },
         {
-          "en": "Wrestling",
-          "hi": "कुश्ती"
+          "en": "Divyangjan (Persons with Disabilities)",
+          "hi": "दिव्यांगजन (विकलांग व्यक्ति)"
         },
         {
-          "en": "Athletics",
-          "hi": "एथलेटिक्स"
+          "en": "Defense Personnel",
+          "hi": "रक्षा कर्मी"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The Government revised the FASTag guidelines for the Divyangjan (Persons with Disabilities) category to provide them barrier-free movement across national highway toll plazas.",
+        "hi": "सरकार ने दिव्यांगजन (विकलांग व्यक्ति) श्रेणी के लिए फास्टैग दिशानिर्देशों में संशोधन किया है ताकि उन्हें राष्ट्रीय राजमार्ग टोल प्लाजा पर बाधा रहित आवाजाही प्रदान की जा सके।"
+      },
+      "category": "Government Schemes",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.thehindu.com/news/national/government-revises-fastag-guidelines-for-divyangjan-category/article71534602.ece"
+    },
+    {
+      "id": "ca_20261002_04",
+      "question": {
+        "en": "According to the recent scientific data reported, Carbon Impacts Tracer aims to attribute legal responsibility for climate harms primarily to:",
+        "hi": "हाल ही में बताए गए वैज्ञानिक आंकड़ों के अनुसार, कार्बन इम्पैक्ट्स ट्रेसर (Carbon Impacts Tracer) का उद्देश्य जलवायु नुकसान के लिए कानूनी जिम्मेदारी मुख्य रूप से किसे ठहराना है?"
+      },
+      "options": [
+        {
+          "en": "Aviation Industry",
+          "hi": "विमानन उद्योग"
+        },
+        {
+          "en": "Fossil fuel companies and governments",
+          "hi": "जीवाश्म ईंधन कंपनियां और सरकारें"
+        },
+        {
+          "en": "Automobile manufacturers",
+          "hi": "ऑटोमोबाइल निर्माता"
+        },
+        {
+          "en": "Agricultural sectors",
+          "hi": "कृषि क्षेत्र"
         }
       ],
       "correctAnswer": 1,
       "explanation": {
-        "en": "Chikitha Taniparthi, for whose dream her father gave up his family rice harvester, won a gold medal in archery at the Asian Games.",
-        "hi": "चिकिथा तनिपार्थी, जिनके सपने के लिए उनके पिता ने अपनी राइस हार्वेस्टर बेच दी थी, ने एशियाई खेलों में तीरंदाजी में स्वर्ण पदक जीता।"
+        "en": "The newly developed Carbon Impacts Tracer measures the damage each new coal mine can do, helping communities attribute legal responsibility to governments and fossil fuel companies.",
+        "hi": "नया विकसित कार्बन इम्पैक्ट्स ट्रेसर प्रत्येक नई कोयला खदान से होने वाले नुकसान को मापता है, जिससे समुदायों को सरकारों और जीवाश्म ईंधन कंपनियों पर कानूनी जिम्मेदारी तय करने में मदद मिलती है।"
       },
-      "category": "Sports",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.indiatoday.in/sports/asian-games/story/chikitha-taniparthi-father-sold-rice-harvester-archery-asian-games-gold-3006783-2026-09-30"
+      "category": "Environment & Ecology",
+      "difficulty": "hard",
+      "sourceUrl": "https://www.thehindu.com/sci-tech/science/scientists-can-now-measure-the-damage-each-new-coal-mine-can-do-to-people-nature/article71533182.ece"
     },
     {
-      "id": "ca_20261001_07",
+      "id": "ca_20261002_05",
       "question": {
-        "en": "Which constitutional article deals with the readjustment of allocation of seats in the Lok Sabha upon the completion of each census (Delimitation)?",
-        "hi": "संविधान का कौन सा अनुच्छेद प्रत्येक जनगणना पूरी होने पर लोकसभा में सीटों के आवंटन के पुनर्समायोजन (परिसीमन) से संबंधित है?"
+        "en": "Which constitutional authority is responsible for maintaining and updating the FASTag systems at National Highway toll plazas?",
+        "hi": "राष्ट्रीय राजमार्ग टोल प्लाजा पर फास्टैग सिस्टम को बनाए रखने और अद्यतन करने के लिए कौन सा संवैधानिक/सांविधिक प्राधिकरण जिम्मेदार है?"
       },
       "options": [
         {
-          "en": "Article 82",
-          "hi": "अनुच्छेद 82"
+          "en": "Border Roads Organisation (BRO)",
+          "hi": "सीमा सड़क संगठन (BRO)"
         },
         {
-          "en": "Article 112",
-          "hi": "अनुच्छेद 112"
+          "en": "National Highways Authority of India (NHAI)",
+          "hi": "भारतीय राष्ट्रीय राजमार्ग प्राधिकरण (NHAI)"
         },
         {
-          "en": "Article 324",
-          "hi": "अनुच्छेद 324"
+          "en": "NITI Aayog",
+          "hi": "नीति आयोग"
         },
         {
-          "en": "Article 368",
-          "hi": "अनुच्छेद 368"
+          "en": "Central Public Works Department (CPWD)",
+          "hi": "केंद्रीय लोक निर्माण विभाग (CPWD)"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "NHAI (National Highways Authority of India), a statutory body under the Ministry of Road Transport and Highways, manages the FASTag electronic toll collection system.",
+        "hi": "सड़क परिवहन और राजमार्ग मंत्रालय के तहत एक वैधानिक निकाय, NHAI (भारतीय राष्ट्रीय राजमार्ग प्राधिकरण), फास्टैग इलेक्ट्रॉनिक टोल संग्रह प्रणाली का प्रबंधन करता है।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.thehindu.com/news/national/government-revises-fastag-guidelines-for-divyangjan-category/article71534602.ece"
+    },
+    {
+      "id": "ca_20261002_06",
+      "question": {
+        "en": "Recently, scientists observed self-medicating behavior in which of the following animals, similar to great apes?",
+        "hi": "हाल ही में, वैज्ञानिकों ने महान वानरों (great apes) के समान निम्नलिखित में से किस जानवर में स्व-चिकित्सा (self-medicating) व्यवहार देखा है?"
+      },
+      "options": [
+        {
+          "en": "Asian Tigers",
+          "hi": "एशियाई बाघ"
+        },
+        {
+          "en": "African Elephants",
+          "hi": "अफ़्रीकी हाथी"
+        },
+        {
+          "en": "Indian Rhinoceros",
+          "hi": "भारतीय गैंडा"
+        },
+        {
+          "en": "Giant Pandas",
+          "hi": "विशाल पांडा"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Scientists recently found that African elephants self-medicate by consuming certain plants, which are also used in indigenous human traditional medicine.",
+        "hi": "वैज्ञानिकों ने हाल ही में पाया कि अफ्रीकी हाथी कुछ पौधों का सेवन करके अपना इलाज खुद करते हैं, जिनका उपयोग स्वदेशी मानव पारंपरिक चिकित्सा में भी किया जाता है।"
+      },
+      "category": "Science & Technology",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/sci-tech/science/after-great-apes-scientists-find-african-elephants-self-medicate-too/article71527977.ece"
+    },
+    {
+      "id": "ca_20261002_07",
+      "question": {
+        "en": "In the context of recent water disputes, the Mahanadi river dispute primarily involves which two states?",
+        "hi": "हालिया जल विवादों के संदर्भ में, महानदी जल विवाद में मुख्य रूप से कौन से दो राज्य शामिल हैं?"
+      },
+      "options": [
+        {
+          "en": "Odisha and Chhattisgarh",
+          "hi": "ओडिशा और छत्तीसगढ़"
+        },
+        {
+          "en": "Maharashtra and Karnataka",
+          "hi": "महाराष्ट्र और कर्नाटक"
+        },
+        {
+          "en": "Andhra Pradesh and Telangana",
+          "hi": "आंध्र प्रदेश और तेलंगाना"
+        },
+        {
+          "en": "Tamil Nadu and Kerala",
+          "hi": "तमिलनाडु और केरल"
         }
       ],
       "correctAnswer": 0,
       "explanation": {
-        "en": "Article 82 of the Indian Constitution provides for the enactment of a Delimitation Act after every census. Concerns are currently rising in South India over potential political representation losses.",
-        "hi": "भारतीय संविधान का अनुच्छेद 82 प्रत्येक जनगणना के बाद परिसीमन अधिनियम को लागू करने का प्रावधान करता है। संभावित राजनीतिक प्रतिनिधित्व के नुकसान को लेकर वर्तमान में दक्षिण भारत में चिंताएँ बढ़ रही हैं।"
+        "en": "The Mahanadi River dispute is primarily between Odisha and Chhattisgarh. The Odisha Chief Minister recently stated that the dispute would be resolved soon.",
+        "hi": "महानदी जल विवाद मुख्य रूप से ओडिशा और छत्तीसगढ़ के बीच है। ओडिशा के मुख्यमंत्री ने हाल ही में कहा कि विवाद जल्द ही सुलझा लिया जाएगा।"
       },
       "category": "Polity & Governance",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.indiatoday.in/india-today-insight/story/delimitation-discontent-why-punish-south-india-for-its-progress-3006819-2026-09-30"
+      "difficulty": "easy",
+      "sourceUrl": "https://www.thehindu.com/news/national/odisha/mahanadi-river-dispute-to-be-resolved-soon-says-odisha-cm/article71534628.ece"
     },
     {
-      "id": "ca_20261001_08",
+      "id": "ca_20261002_08",
       "question": {
-        "en": "Who won the gold medal in the trap event at the Asian Games?",
-        "hi": "एशियाई खेलों में ट्रैप स्पर्धा में स्वर्ण पदक किसने जीता?"
+        "en": "Which famous cricket tournament witnessed a historic match at the Srinagar cricket ground in October 2026, outpacing the memories of the 1983 India-West Indies fiasco?",
+        "hi": "अक्टूबर 2026 में श्रीनगर क्रिकेट मैदान पर किस प्रसिद्ध क्रिकेट टूर्नामेंट का ऐतिहासिक मैच देखा गया, जिसने 1983 के भारत-वेस्टइंडीज विवाद की यादों को पीछे छोड़ दिया?"
       },
       "options": [
         {
-          "en": "Manu Bhaker",
-          "hi": "मनु भाकर"
+          "en": "Ranji Trophy",
+          "hi": "रणजी ट्रॉफी"
         },
         {
-          "en": "Neeru",
-          "hi": "नीरू"
+          "en": "Duleep Trophy",
+          "hi": "दलीप ट्रॉफी"
         },
         {
-          "en": "Apurvi Chandela",
-          "hi": "अपूर्वी चंदेला"
+          "en": "Irani Cup",
+          "hi": "ईरानी कप"
         },
         {
-          "en": "Mehuli Ghosh",
-          "hi": "मेहुली घोष"
+          "en": "Vijay Hazare Trophy",
+          "hi": "विजय हजारे ट्रॉफी"
         }
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 2,
       "explanation": {
-        "en": "Indian shooter Neeru won the gold medal in the trap event at the Asian Games.",
-        "hi": "भारतीय निशानेबाज नीरू ने एशियाई खेलों में ट्रैप स्पर्धा में स्वर्ण पदक जीता।"
+        "en": "The Irani Cup 2026 match held at the Srinagar cricket ground was a historic event, successfully held with a monitored crowd, replacing the bitter memories of the 1983 international match.",
+        "hi": "श्रीनगर क्रिकेट मैदान पर आयोजित ईरानी कप 2026 का मैच एक ऐतिहासिक घटना थी, जिसे 1983 के अंतर्राष्ट्रीय मैच की कड़वी यादों को मिटाते हुए सफलतापूर्वक आयोजित किया गया।"
       },
       "category": "Sports",
       "difficulty": "medium",
-      "sourceUrl": "https://www.indiatoday.in/sports/asian-games/story/asian-games-trap-gold-neeru-promise-mother-pm-modi-3006632-2026-09-30"
+      "sourceUrl": "https://www.thehindu.com/news/national/jammu-and-kashmir/irani-cup-2026-srinagar-cricket-ground-rewrites-history-to-outpace-memories-of-1983-india-west-india-fiasco/article71534400.ece"
     },
     {
-      "id": "ca_20261001_09",
+      "id": "ca_20261002_09",
       "question": {
-        "en": "The Indian Coast Guard (ICG) is relying on which new doctrine to enhance India's maritime security?",
-        "hi": "भारतीय तटरक्षक बल (ICG) भारत की समुद्री सुरक्षा को बढ़ाने के लिए किस नए सिद्धांत पर भरोसा कर रहा है?"
+        "en": "October is globally observed as the awareness month for which major health condition, leading doctors to share health tips for working women?",
+        "hi": "अक्टूबर को विश्व स्तर पर किस प्रमुख स्वास्थ्य स्थिति के लिए जागरूकता माह के रूप में मनाया जाता है, जिसके तहत डॉक्टर कामकाजी महिलाओं के लिए स्वास्थ्य संबंधी टिप्स साझा करते हैं?"
       },
       "options": [
         {
-          "en": "Aero-Naval integration",
-          "hi": "एरो-नेवल एकीकरण"
+          "en": "Diabetes",
+          "hi": "मधुमेह"
         },
         {
-          "en": "Human-Tech doctrine",
-          "hi": "ह्यूमन-टेक सिद्धांत"
+          "en": "Breast Cancer",
+          "hi": "स्तन कैंसर"
         },
         {
-          "en": "Cyber-Maritime ops",
-          "hi": "साइबर-समुद्री संचालन"
+          "en": "Tuberculosis",
+          "hi": "तपेदिक"
         },
         {
-          "en": "Silent-Sea strategy",
-          "hi": "साइलेंट-सी रणनीति"
+          "en": "Alzheimer's Disease",
+          "hi": "अल्जाइमर रोग"
         }
       ],
       "correctAnswer": 1,
       "explanation": {
-        "en": "The Indian Coast Guard is banking on a 'human-tech' doctrine that integrates human expertise with advanced technology for safeguarding India's maritime zones.",
-        "hi": "भारतीय तटरक्षक बल एक 'ह्यूमन-टेक' सिद्धांत पर भरोसा कर रहा है जो भारत के समुद्री क्षेत्रों की सुरक्षा के लिए उन्नत तकनीक के साथ मानवीय विशेषज्ञता को एकीकृत करता है।"
+        "en": "October is internationally recognized as Breast Cancer Awareness Month, aiming to promote screening and prevention, especially highlighting risk reduction tips for women.",
+        "hi": "अक्टूबर को अंतरराष्ट्रीय स्तर पर स्तन कैंसर जागरूकता माह (Breast Cancer Awareness Month) के रूप में मान्यता प्राप्त है, जिसका उद्देश्य जांच और रोकथाम को बढ़ावा देना है, विशेष रूप से महिलाओं के लिए जोखिम कम करने के सुझावों को उजागर करना।"
       },
-      "category": "Defence & Security",
-      "difficulty": "hard",
-      "sourceUrl": "https://www.indiatoday.in/india-today-insight/story/why-coast-guard-banks-on-human-tech-doctrine-for-indias-maritime-security-3006637-2026-09-30"
+      "category": "Important Days & Themes",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.livemint.com/news/trends/breast-cancer-awareness-month-doctors-share-5-health-tips-for-working-women-to-reduce-risk-11790868210231.html"
     },
     {
-      "id": "ca_20261001_10",
+      "id": "ca_20261002_10",
       "question": {
-        "en": "From October 2026, the State Bank of India (SBI) has reduced its free ATM transaction limit to how many per month?",
-        "hi": "अक्टूबर 2026 से, भारतीय स्टेट बैंक (SBI) ने अपनी मुफ्त एटीएम लेनदेन सीमा को घटाकर प्रति माह कितना कर दिया है?"
+        "en": "Singareni Collieries Company Limited (SCCL), which recently registered high growth in coal transportation, operates primarily in which Indian state?",
+        "hi": "सिंगरेनी कोलियरीज कंपनी लिमिटेड (SCCL), जिसने हाल ही में कोयला परिवहन में उच्च वृद्धि दर्ज की है, मुख्य रूप से किस भारतीय राज्य में कार्य करती है?"
       },
       "options": [
         {
-          "en": "3",
-          "hi": "3"
+          "en": "Jharkhand",
+          "hi": "झारखंड"
         },
         {
-          "en": "5",
-          "hi": "5"
+          "en": "Chhattisgarh",
+          "hi": "छत्तीसगढ़"
         },
         {
-          "en": "7",
-          "hi": "7"
+          "en": "Odisha",
+          "hi": "ओडिशा"
         },
         {
-          "en": "10",
-          "hi": "10"
+          "en": "Telangana",
+          "hi": "तेलंगाना"
         }
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 3,
       "explanation": {
-        "en": "As part of the money rule changes from October 2026, SBI has lowered its free ATM transaction limit to 5 per month.",
-        "hi": "अक्टूबर 2026 से मनी रूल में बदलाव के तहत, SBI ने अपनी मुफ्त एटीएम लेनदेन सीमा को घटाकर 5 प्रति माह कर दिया है।"
+        "en": "Singareni Collieries Company Limited (SCCL) is a government-owned coal mining corporation in India, operating in the state of Telangana. It recently reported transporting 299.4 lakh tonnes of coal in six months.",
+        "hi": "सिंगरेनी कोलियरीज कंपनी लिमिटेड (SCCL) भारत में एक सरकारी स्वामित्व वाला कोयला खनन निगम है, जो तेलंगाना राज्य में कार्य करता है। इसने हाल ही में छह महीनों में 299.4 लाख टन कोयले के परिवहन की सूचना दी।"
       },
       "category": "Economy & Banking",
-      "difficulty": "easy",
-      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/5-money-rule-changes-from-october-2026-bulk-fd-rates-upi-mdr-starts-above-rs-2000-sbi-atm-free-limit-falls-to-5-lpg-aadhaar-kyc-new-nps-charges/articleshow/134587809.cms"
+      "difficulty": "hard",
+      "sourceUrl": "https://www.thehindu.com/news/national/telangana/sccl-registers-growth-in-coal-transportation-prioritises-telangana-power-plants/article71533646.ece"
     }
   ]
 }
