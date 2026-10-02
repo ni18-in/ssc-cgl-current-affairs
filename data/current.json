@@ -1,340 +1,340 @@
 {
-  "date": "2026-10-02",
+  "date": "2026-10-03",
   "topic": "SSC CGL Daily Current Affairs",
-  "source": "The Hindu / Livemint / PIB",
-  "lastUpdated": "2026-10-02T06:00:00+05:30",
+  "source": "PIB / The Hindu / Economic Times / Indian Express / GKToday",
+  "lastUpdated": "2026-10-03T06:00:00+05:30",
   "version": 1,
   "totalQuestions": 10,
   "quiz": [
     {
-      "id": "ca_20261002_01",
+      "id": "ca_20261003_01",
       "question": {
-        "en": "Recently, the Government of India capped the sugar stock limit for dealers at how many quintals ahead of the festive season to prevent hoarding?",
-        "hi": "हाल ही में, भारत सरकार ने त्योहारी सीजन से पहले जमाखोरी को रोकने के लिए डीलरों के लिए चीनी स्टॉक की सीमा कितने क्विंटल तय की है?"
+        "en": "Recently, the Supreme Court ruled that anti-slaughter laws cannot be invoked in cases of mere illegal transportation of which animal?",
+        "hi": "हाल ही में, सर्वोच्च न्यायालय ने फैसला सुनाया कि केवल किस जानवर के अवैध परिवहन के मामलों में गोवध-रोधी कानून (anti-slaughter laws) लागू नहीं किए जा सकते हैं?"
       },
       "options": [
         {
-          "en": "500 quintals",
-          "hi": "500 क्विंटल"
+          "en": "Camel",
+          "hi": "ऊंट"
         },
         {
-          "en": "1,000 quintals",
-          "hi": "1,000 क्विंटल"
+          "en": "Cattle",
+          "hi": "मवेशी (गौवंश)"
         },
         {
-          "en": "2,000 quintals",
-          "hi": "2,000 क्विंटल"
+          "en": "Sheep",
+          "hi": "भेड़"
         },
         {
-          "en": "5,000 quintals",
-          "hi": "5,000 क्विंटल"
+          "en": "Goat",
+          "hi": "बकरी"
         }
       ],
       "correctAnswer": 1,
       "explanation": {
-        "en": "The Food Ministry capped the sugar stock limit for dealers to 1,000 quintals to ensure no unnecessary accumulation in the distribution chain and to keep retail prices stable.",
-        "hi": "खाद्य मंत्रालय ने डीलरों के लिए चीनी स्टॉक सीमा को 1,000 क्विंटल तक सीमित कर दिया है ताकि वितरण श्रृंखला में अनावश्यक जमाखोरी न हो और खुदरा कीमतें स्थिर रहें।"
+        "en": "The Supreme Court recently ruled that anti-slaughter laws cannot be invoked in cases of mere illegal cattle transportation, emphasizing the distinction between transportation and slaughtering.",
+        "hi": "सर्वोच्च न्यायालय ने हाल ही में फैसला सुनाया कि परिवहन और वध के बीच अंतर पर जोर देते हुए केवल मवेशियों के अवैध परिवहन के मामलों में गोवध-रोधी कानून लागू नहीं किया जा सकता है।"
       },
-      "category": "Economy & Banking",
+      "category": "Polity & Governance",
       "difficulty": "medium",
-      "sourceUrl": "https://www.thehindu.com/business/Industry/govt-caps-sugar-stock-limit-for-dealers-to-1000-quintals-ahead-of-festive-season/article71534608.ece"
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/cant-invoke-anti-slaughter-law-in-case-of-mere-illegal-cattle-transportation-sc/articleshow/134646602.cms"
     },
     {
-      "id": "ca_20261002_02",
+      "id": "ca_20261003_02",
       "question": {
-        "en": "At a recent G20 trade ministers' meeting, India opposed the 'weaponization' of which essential commodity through coercive trade actions?",
-        "hi": "हाल ही में G20 व्यापार मंत्रियों की बैठक में, भारत ने दंडात्मक व्यापार कार्रवाइयों के माध्यम से किस आवश्यक वस्तु के 'हथियारीकरण' (weaponization) का विरोध किया?"
+        "en": "To counter territorial claims by China, India formally put which of the following areas on its official map recently?",
+        "hi": "चीन के क्षेत्रीय दावों का मुकाबला करने के लिए, भारत ने हाल ही में निम्नलिखित में से किस क्षेत्र को अपने आधिकारिक मानचित्र पर रखा है?"
       },
       "options": [
         {
-          "en": "Crude Oil",
-          "hi": "कच्चा तेल"
+          "en": "Galwan Valley and Pangong Tso",
+          "hi": "गलवान घाटी और पैंगोंग त्सो"
         },
         {
-          "en": "Semiconductors",
-          "hi": "सेमीकंडक्टर्स"
+          "en": "Gogra and Hot Spring",
+          "hi": "गोगरा और हॉट स्प्रिंग"
         },
         {
-          "en": "Food",
-          "hi": "खाद्य पदार्थ"
+          "en": "Doklam Plateau",
+          "hi": "डोकलाम पठार"
         },
         {
-          "en": "Medical Supplies",
-          "hi": "चिकित्सा आपूर्ति"
+          "en": "Tawang and Nathu La",
+          "hi": "तवांग और नाथू ला"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "To counter Chinese narratives, India has formally put Gogra, Hot Spring, and other contested areas along the Line of Actual Control (LAC) on its official map.",
+        "hi": "चीनी आख्यानों का मुकाबला करने के लिए, भारत ने वास्तविक नियंत्रण रेखा (LAC) के साथ गोगरा, हॉट स्प्रिंग और अन्य विवादित क्षेत्रों को आधिकारिक रूप से अपने मानचित्र पर रखा है।"
+      },
+      "category": "Defence & Security",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/to-counter-china-india-formally-puts-gogra-hot-spring-others-on-map/articleshow/134646655.cms"
+    },
+    {
+      "id": "ca_20261003_03",
+      "question": {
+        "en": "The government has recently increased the Employees' Provident Fund (EPF) wage ceiling from Rs 15,000 to how much?",
+        "hi": "सरकार ने हाल ही में कर्मचारी भविष्य निधि (EPF) वेतन सीमा को 15,000 रुपये से बढ़ाकर कितना कर दिया है?"
+      },
+      "options": [
+        {
+          "en": "Rs 20,000",
+          "hi": "20,000 रुपये"
+        },
+        {
+          "en": "Rs 21,000",
+          "hi": "21,000 रुपये"
+        },
+        {
+          "en": "Rs 25,000",
+          "hi": "25,000 रुपये"
+        },
+        {
+          "en": "Rs 30,000",
+          "hi": "30,000 रुपये"
         }
       ],
       "correctAnswer": 2,
       "explanation": {
-        "en": "G20 trade ministers reached a consensus on food weaponization, with India (represented by Piyush Goyal) flagging food security concerns and pushing for a distinction between coercive restrictions and legitimate food-security measures.",
-        "hi": "G20 व्यापार मंत्रियों ने खाद्य हथियारीकरण पर सहमति व्यक्त की, जिसमें भारत (पीयूष गोयल द्वारा प्रतिनिधित्व) ने खाद्य सुरक्षा संबंधी चिंताओं को उठाया और दंडात्मक प्रतिबंधों और वैध खाद्य-सुरक्षा उपायों के बीच अंतर करने पर जोर दिया।"
+        "en": "The Ministry of Labour has directed that the EPF wage ceiling has been increased to Rs 25,000 from the previous Rs 15,000, ensuring wider social security coverage.",
+        "hi": "श्रम मंत्रालय ने निर्देश दिया है कि ईपीएफ (EPF) वेतन सीमा को पिछले 15,000 रुपये से बढ़ाकर 25,000 रुपये कर दिया गया है, जिससे व्यापक सामाजिक सुरक्षा कवरेज सुनिश्चित हो सके।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/dont-cut-salaries-after-epf-wage-ceiling-rises-to-rs-25000-from-rs-15000-ministry-directs-employers-to-bear-statutory-contribution-not-pass-it-on-to-employees-through-ctc-adjustments/articleshow/134633761.cms"
+    },
+    {
+      "id": "ca_20261003_04",
+      "question": {
+        "en": "Vande Bharat Express recently achieved a historic milestone by crossing the world's highest railway bridge at 100 kmph. This bridge is built on which river?",
+        "hi": "वंदे भारत एक्सप्रेस ने हाल ही में 100 किमी प्रति घंटे की गति से दुनिया के सबसे ऊंचे रेलवे ब्रिज को पार कर एक ऐतिहासिक मील का पत्थर हासिल किया। यह पुल किस नदी पर बना है?"
+      },
+      "options": [
+        {
+          "en": "Jhelum",
+          "hi": "झेलम"
+        },
+        {
+          "en": "Chenab",
+          "hi": "चिनाब"
+        },
+        {
+          "en": "Ravi",
+          "hi": "रावी"
+        },
+        {
+          "en": "Beas",
+          "hi": "ब्यास"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The Vande Bharat Express crossed the world's highest railway bridge over the Chenab river and India's first cable-stayed Anji Khad bridge at 100 kmph, marking a historic infrastructure achievement.",
+        "hi": "वंदे भारत एक्सप्रेस ने चिनाब नदी पर दुनिया के सबसे ऊंचे रेलवे ब्रिज और भारत के पहले केबल-स्टेयड (cable-stayed) अंजी खड्ड ब्रिज को 100 किमी प्रति घंटे की गति से पार किया, जो एक ऐतिहासिक बुनियादी ढांचागत उपलब्धि है।"
+      },
+      "category": "Science & Technology",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/vande-bharat-crosses-worlds-highest-chenab-and-first-cable-stayed-anji-bridges-at-100-kmph-in-historic-milestone-as-katra-banihal-speed-limit-rises-over-a-year-after-inauguration/articleshow/134635017.cms"
+    },
+    {
+      "id": "ca_20261003_05",
+      "question": {
+        "en": "The Indian women's hockey team recently won gold at the Asian Games 2026 after defeating which country 1-0?",
+        "hi": "भारतीय महिला हॉकी टीम ने हाल ही में एशियाई खेल 2026 में किस देश को 1-0 से हराकर स्वर्ण पदक जीता?"
+      },
+      "options": [
+        {
+          "en": "South Korea",
+          "hi": "दक्षिण कोरिया"
+        },
+        {
+          "en": "Japan",
+          "hi": "जापान"
+        },
+        {
+          "en": "China",
+          "hi": "चीन"
+        },
+        {
+          "en": "Malaysia",
+          "hi": "मलेशिया"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "India won its first women's hockey gold since 1982 at the Asian Games by defeating China 1-0, securing a spot for the LA28 Olympics.",
+        "hi": "भारत ने एशियाई खेलों में चीन को 1-0 से हराकर 1982 के बाद अपना पहला महिला हॉकी स्वर्ण जीता, जिससे एलए28 (LA28) ओलंपिक के लिए उनकी जगह पक्की हो गई।"
+      },
+      "category": "Sports",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games-2026/lalremsiamis-wonder-strike-hands-indian-womens-hockey-1-0-win-over-china-gold-after-44-years-at-asian-games-olympics-quota-sealed/articleshow/134639505.cms"
+    },
+    {
+      "id": "ca_20261003_06",
+      "question": {
+        "en": "Who won India's first wrestling gold at the Asian Games 2026?",
+        "hi": "एशियाई खेल 2026 में भारत का पहला कुश्ती स्वर्ण पदक किसने जीता?"
+      },
+      "options": [
+        {
+          "en": "Bajrang Punia",
+          "hi": "बजरंग पुनिया"
+        },
+        {
+          "en": "Ravi Kumar Dahiya",
+          "hi": "रवि कुमार दहिया"
+        },
+        {
+          "en": "Sujeet Kalkal",
+          "hi": "सुजीत कलकल"
+        },
+        {
+          "en": "Deepak Punia",
+          "hi": "दीपक पुनिया"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Sujeet Kalkal won India's first wrestling gold at the Asian Games 2026, boosting India's medal tally in wrestling.",
+        "hi": "सुजीत कलकल ने एशियाई खेल 2026 में भारत का पहला कुश्ती स्वर्ण पदक जीता, जिससे कुश्ती में भारत की पदक तालिका को बढ़ावा मिला।"
+      },
+      "category": "Sports",
+      "difficulty": "hard",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games-2026/sujeet-kalkal-wins-indias-first-wrestling-gold-at-asian-games-2026/articleshow/134636418.cms"
+    },
+    {
+      "id": "ca_20261003_07",
+      "question": {
+        "en": "Which country hailed Indian pilot Captain Smit for his bravery during a stabbing incident on a flydubai flight, terming it a 'terrorist act'?",
+        "hi": "फ्लाईदुबई (flydubai) उड़ान पर चाकूबाजी की घटना के दौरान बहादुरी के लिए किस देश ने भारतीय पायलट कैप्टन स्मित की सराहना की और इसे 'आतंकवादी कृत्य' करार दिया?"
+      },
+      "options": [
+        {
+          "en": "Saudi Arabia",
+          "hi": "सऊदी अरब"
+        },
+        {
+          "en": "United Arab Emirates (UAE)",
+          "hi": "संयुक्त अरब अमीरात (UAE)"
+        },
+        {
+          "en": "Qatar",
+          "hi": "कतर"
+        },
+        {
+          "en": "Oman",
+          "hi": "ओमान"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The United Arab Emirates (UAE) termed the stabbing on a flydubai flight a 'terrorist act' and hailed Indian pilot Captain Smit, who stepped in to prevent others from dying.",
+        "hi": "संयुक्त अरब अमीरात (UAE) ने फ्लाईदुबई उड़ान पर चाकू मारने की घटना को 'आतंकवादी कृत्य' करार दिया और भारतीय पायलट कैप्टन स्मित की सराहना की, जिन्होंने दूसरों को मरने से बचाने के लिए हस्तक्षेप किया।"
       },
       "category": "International Summits",
       "difficulty": "medium",
-      "sourceUrl": "https://www.livemint.com/news/india/g20-trade-ministers-reach-consensus-on-food-weaponization-as-goyal-flags-food-security-concerns-11790870996450.html"
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/uae-terms-flydubai-stabbing-terrorist-act-hails-indian-pilot/articleshow/134646825.cms"
     },
     {
-      "id": "ca_20261002_03",
+      "id": "ca_20261003_08",
       "question": {
-        "en": "In a recent initiative to enhance accessibility, the Government of India revised the guidelines for exempting which of the following from FASTag requirements?",
-        "hi": "पहुंच बढ़ाने की एक हालिया पहल में, भारत सरकार ने निम्नलिखित में से किसे फास्टैग (FASTag) आवश्यकताओं से छूट देने के दिशानिर्देशों में संशोधन किया है?"
+        "en": "The Election Commission of India ordered a special drive to add genuine electors left out during 'SIR'. What does 'SIR' stand for in this context?",
+        "hi": "भारत निर्वाचन आयोग ने 'SIR' के दौरान छूटे हुए वास्तविक मतदाताओं को जोड़ने के लिए एक विशेष अभियान का आदेश दिया। इस संदर्भ में 'SIR' का क्या अर्थ है?"
       },
       "options": [
         {
-          "en": "Electric Vehicles (EVs)",
-          "hi": "इलेक्ट्रिक वाहन (EVs)"
+          "en": "Special Investigative Revision",
+          "hi": "स्पेशल इन्वेस्टिगेटिव रिवीजन (विशेष जांच संशोधन)"
         },
         {
-          "en": "Senior Citizens",
-          "hi": "वरिष्ठ नागरिक"
+          "en": "Systematic Identity Record",
+          "hi": "सिस्टेमैटिक आइडेंटिटी रिकॉर्ड"
         },
         {
-          "en": "Divyangjan (Persons with Disabilities)",
-          "hi": "दिव्यांगजन (विकलांग व्यक्ति)"
+          "en": "State Inquiry Report",
+          "hi": "स्टेट इंक्वायरी रिपोर्ट"
         },
         {
-          "en": "Defense Personnel",
-          "hi": "रक्षा कर्मी"
-        }
-      ],
-      "correctAnswer": 2,
-      "explanation": {
-        "en": "The Government revised the FASTag guidelines for the Divyangjan (Persons with Disabilities) category to provide them barrier-free movement across national highway toll plazas.",
-        "hi": "सरकार ने दिव्यांगजन (विकलांग व्यक्ति) श्रेणी के लिए फास्टैग दिशानिर्देशों में संशोधन किया है ताकि उन्हें राष्ट्रीय राजमार्ग टोल प्लाजा पर बाधा रहित आवाजाही प्रदान की जा सके।"
-      },
-      "category": "Government Schemes",
-      "difficulty": "easy",
-      "sourceUrl": "https://www.thehindu.com/news/national/government-revises-fastag-guidelines-for-divyangjan-category/article71534602.ece"
-    },
-    {
-      "id": "ca_20261002_04",
-      "question": {
-        "en": "According to the recent scientific data reported, Carbon Impacts Tracer aims to attribute legal responsibility for climate harms primarily to:",
-        "hi": "हाल ही में बताए गए वैज्ञानिक आंकड़ों के अनुसार, कार्बन इम्पैक्ट्स ट्रेसर (Carbon Impacts Tracer) का उद्देश्य जलवायु नुकसान के लिए कानूनी जिम्मेदारी मुख्य रूप से किसे ठहराना है?"
-      },
-      "options": [
-        {
-          "en": "Aviation Industry",
-          "hi": "विमानन उद्योग"
-        },
-        {
-          "en": "Fossil fuel companies and governments",
-          "hi": "जीवाश्म ईंधन कंपनियां और सरकारें"
-        },
-        {
-          "en": "Automobile manufacturers",
-          "hi": "ऑटोमोबाइल निर्माता"
-        },
-        {
-          "en": "Agricultural sectors",
-          "hi": "कृषि क्षेत्र"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "The newly developed Carbon Impacts Tracer measures the damage each new coal mine can do, helping communities attribute legal responsibility to governments and fossil fuel companies.",
-        "hi": "नया विकसित कार्बन इम्पैक्ट्स ट्रेसर प्रत्येक नई कोयला खदान से होने वाले नुकसान को मापता है, जिससे समुदायों को सरकारों और जीवाश्म ईंधन कंपनियों पर कानूनी जिम्मेदारी तय करने में मदद मिलती है।"
-      },
-      "category": "Environment & Ecology",
-      "difficulty": "hard",
-      "sourceUrl": "https://www.thehindu.com/sci-tech/science/scientists-can-now-measure-the-damage-each-new-coal-mine-can-do-to-people-nature/article71533182.ece"
-    },
-    {
-      "id": "ca_20261002_05",
-      "question": {
-        "en": "Which constitutional authority is responsible for maintaining and updating the FASTag systems at National Highway toll plazas?",
-        "hi": "राष्ट्रीय राजमार्ग टोल प्लाजा पर फास्टैग सिस्टम को बनाए रखने और अद्यतन करने के लिए कौन सा संवैधानिक/सांविधिक प्राधिकरण जिम्मेदार है?"
-      },
-      "options": [
-        {
-          "en": "Border Roads Organisation (BRO)",
-          "hi": "सीमा सड़क संगठन (BRO)"
-        },
-        {
-          "en": "National Highways Authority of India (NHAI)",
-          "hi": "भारतीय राष्ट्रीय राजमार्ग प्राधिकरण (NHAI)"
-        },
-        {
-          "en": "NITI Aayog",
-          "hi": "नीति आयोग"
-        },
-        {
-          "en": "Central Public Works Department (CPWD)",
-          "hi": "केंद्रीय लोक निर्माण विभाग (CPWD)"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "NHAI (National Highways Authority of India), a statutory body under the Ministry of Road Transport and Highways, manages the FASTag electronic toll collection system.",
-        "hi": "सड़क परिवहन और राजमार्ग मंत्रालय के तहत एक वैधानिक निकाय, NHAI (भारतीय राष्ट्रीय राजमार्ग प्राधिकरण), फास्टैग इलेक्ट्रॉनिक टोल संग्रह प्रणाली का प्रबंधन करता है।"
-      },
-      "category": "Polity & Governance",
-      "difficulty": "easy",
-      "sourceUrl": "https://www.thehindu.com/news/national/government-revises-fastag-guidelines-for-divyangjan-category/article71534602.ece"
-    },
-    {
-      "id": "ca_20261002_06",
-      "question": {
-        "en": "Recently, scientists observed self-medicating behavior in which of the following animals, similar to great apes?",
-        "hi": "हाल ही में, वैज्ञानिकों ने महान वानरों (great apes) के समान निम्नलिखित में से किस जानवर में स्व-चिकित्सा (self-medicating) व्यवहार देखा है?"
-      },
-      "options": [
-        {
-          "en": "Asian Tigers",
-          "hi": "एशियाई बाघ"
-        },
-        {
-          "en": "African Elephants",
-          "hi": "अफ़्रीकी हाथी"
-        },
-        {
-          "en": "Indian Rhinoceros",
-          "hi": "भारतीय गैंडा"
-        },
-        {
-          "en": "Giant Pandas",
-          "hi": "विशाल पांडा"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "Scientists recently found that African elephants self-medicate by consuming certain plants, which are also used in indigenous human traditional medicine.",
-        "hi": "वैज्ञानिकों ने हाल ही में पाया कि अफ्रीकी हाथी कुछ पौधों का सेवन करके अपना इलाज खुद करते हैं, जिनका उपयोग स्वदेशी मानव पारंपरिक चिकित्सा में भी किया जाता है।"
-      },
-      "category": "Science & Technology",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.thehindu.com/sci-tech/science/after-great-apes-scientists-find-african-elephants-self-medicate-too/article71527977.ece"
-    },
-    {
-      "id": "ca_20261002_07",
-      "question": {
-        "en": "In the context of recent water disputes, the Mahanadi river dispute primarily involves which two states?",
-        "hi": "हालिया जल विवादों के संदर्भ में, महानदी जल विवाद में मुख्य रूप से कौन से दो राज्य शामिल हैं?"
-      },
-      "options": [
-        {
-          "en": "Odisha and Chhattisgarh",
-          "hi": "ओडिशा और छत्तीसगढ़"
-        },
-        {
-          "en": "Maharashtra and Karnataka",
-          "hi": "महाराष्ट्र और कर्नाटक"
-        },
-        {
-          "en": "Andhra Pradesh and Telangana",
-          "hi": "आंध्र प्रदेश और तेलंगाना"
-        },
-        {
-          "en": "Tamil Nadu and Kerala",
-          "hi": "तमिलनाडु और केरल"
+          "en": "Special Identification Registry",
+          "hi": "स्पेशल आइडेंटिफिकेशन रजिस्ट्री"
         }
       ],
       "correctAnswer": 0,
       "explanation": {
-        "en": "The Mahanadi River dispute is primarily between Odisha and Chhattisgarh. The Odisha Chief Minister recently stated that the dispute would be resolved soon.",
-        "hi": "महानदी जल विवाद मुख्य रूप से ओडिशा और छत्तीसगढ़ के बीच है। ओडिशा के मुख्यमंत्री ने हाल ही में कहा कि विवाद जल्द ही सुलझा लिया जाएगा।"
+        "en": "Facing criticism over deleted voters, the Election Commission ordered a special drive to include genuine electors left out during the Special Investigative Revision (SIR).",
+        "hi": "हटाए गए मतदाताओं को लेकर आलोचनाओं का सामना करते हुए, चुनाव आयोग ने स्पेशल इन्वेस्टिगेटिव रिवीजन (SIR) के दौरान छूटे हुए वास्तविक मतदाताओं को शामिल करने के लिए एक विशेष अभियान का आदेश दिया।"
       },
       "category": "Polity & Governance",
-      "difficulty": "easy",
-      "sourceUrl": "https://www.thehindu.com/news/national/odisha/mahanadi-river-dispute-to-be-resolved-soon-says-odisha-cm/article71534628.ece"
+      "difficulty": "hard",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/under-fire-ec-orders-special-drive-to-add-genuine-electors-left-out-during-sir/articleshow/134646432.cms"
     },
     {
-      "id": "ca_20261002_08",
+      "id": "ca_20261003_09",
       "question": {
-        "en": "Which famous cricket tournament witnessed a historic match at the Srinagar cricket ground in October 2026, outpacing the memories of the 1983 India-West Indies fiasco?",
-        "hi": "अक्टूबर 2026 में श्रीनगर क्रिकेट मैदान पर किस प्रसिद्ध क्रिकेट टूर्नामेंट का ऐतिहासिक मैच देखा गया, जिसने 1983 के भारत-वेस्टइंडीज विवाद की यादों को पीछे छोड़ दिया?"
+        "en": "According to a recent study, underwater marble sculptures in which country are becoming small artificial reef habitats for marine life?",
+        "hi": "एक हालिया अध्ययन के अनुसार, किस देश में पानी के नीचे की संगमरमर की मूर्तियां समुद्री जीवन के लिए छोटे कृत्रिम रीफ (मूंगे की चट्टान) आवास बन रही हैं?"
       },
       "options": [
         {
-          "en": "Ranji Trophy",
-          "hi": "रणजी ट्रॉफी"
+          "en": "Greece",
+          "hi": "ग्रीस"
         },
         {
-          "en": "Duleep Trophy",
-          "hi": "दलीप ट्रॉफी"
+          "en": "Australia",
+          "hi": "ऑस्ट्रेलिया"
         },
         {
-          "en": "Irani Cup",
-          "hi": "ईरानी कप"
+          "en": "Italy",
+          "hi": "इटली"
         },
         {
-          "en": "Vijay Hazare Trophy",
-          "hi": "विजय हजारे ट्रॉफी"
+          "en": "Spain",
+          "hi": "स्पेन"
         }
       ],
       "correctAnswer": 2,
       "explanation": {
-        "en": "The Irani Cup 2026 match held at the Srinagar cricket ground was a historic event, successfully held with a monitored crowd, replacing the bitter memories of the 1983 international match.",
-        "hi": "श्रीनगर क्रिकेट मैदान पर आयोजित ईरानी कप 2026 का मैच एक ऐतिहासिक घटना थी, जिसे 1983 के अंतर्राष्ट्रीय मैच की कड़वी यादों को मिटाते हुए सफलतापूर्वक आयोजित किया गया।"
+        "en": "A study found that Italy’s underwater marble sculptures, originally built as art, are successfully turning into small artificial reef habitats supporting diverse marine life.",
+        "hi": "एक अध्ययन में पाया गया है कि इटली की पानी के नीचे की संगमरमर की मूर्तियां, जो मूल रूप से कला के रूप में बनाई गई थीं, सफलतापूर्वक छोटे कृत्रिम रीफ आवासों में बदल रही हैं जो विविध समुद्री जीवन का समर्थन करती हैं।"
       },
-      "category": "Sports",
+      "category": "Environment & Ecology",
       "difficulty": "medium",
-      "sourceUrl": "https://www.thehindu.com/news/national/jammu-and-kashmir/irani-cup-2026-srinagar-cricket-ground-rewrites-history-to-outpace-memories-of-1983-india-west-india-fiasco/article71534400.ece"
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/europe/italys-underwater-marble-sculptures-were-built-as-art-a-study-finds-they-are-becoming-small-artificial-reef-habitats/articleshow/134635152.cms"
     },
     {
-      "id": "ca_20261002_09",
+      "id": "ca_20261003_10",
       "question": {
-        "en": "October is globally observed as the awareness month for which major health condition, leading doctors to share health tips for working women?",
-        "hi": "अक्टूबर को विश्व स्तर पर किस प्रमुख स्वास्थ्य स्थिति के लिए जागरूकता माह के रूप में मनाया जाता है, जिसके तहत डॉक्टर कामकाजी महिलाओं के लिए स्वास्थ्य संबंधी टिप्स साझा करते हैं?"
+        "en": "Indian athlete Lovlina Borgohain recently fought through a tough year to win a historic gold at the Asian Games 2026. She is associated with which sport?",
+        "hi": "भारतीय एथलीट लवलीना बोरगोहेन ने हाल ही में एक कठिन वर्ष से जूझते हुए एशियाई खेल 2026 में ऐतिहासिक स्वर्ण पदक जीता। वह किस खेल से संबंधित हैं?"
       },
       "options": [
         {
-          "en": "Diabetes",
-          "hi": "मधुमेह"
+          "en": "Wrestling",
+          "hi": "कुश्ती"
         },
         {
-          "en": "Breast Cancer",
-          "hi": "स्तन कैंसर"
+          "en": "Boxing",
+          "hi": "मुक्केबाज़ी"
         },
         {
-          "en": "Tuberculosis",
-          "hi": "तपेदिक"
+          "en": "Archery",
+          "hi": "तीरंदाजी"
         },
         {
-          "en": "Alzheimer's Disease",
-          "hi": "अल्जाइमर रोग"
+          "en": "Weightlifting",
+          "hi": "भारोत्तोलन"
         }
       ],
       "correctAnswer": 1,
       "explanation": {
-        "en": "October is internationally recognized as Breast Cancer Awareness Month, aiming to promote screening and prevention, especially highlighting risk reduction tips for women.",
-        "hi": "अक्टूबर को अंतरराष्ट्रीय स्तर पर स्तन कैंसर जागरूकता माह (Breast Cancer Awareness Month) के रूप में मान्यता प्राप्त है, जिसका उद्देश्य जांच और रोकथाम को बढ़ावा देना है, विशेष रूप से महिलाओं के लिए जोखिम कम करने के सुझावों को उजागर करना।"
+        "en": "Lovlina Borgohain is a prominent Indian boxer who recently overcame a challenging year to secure a historic gold medal in boxing at the Asian Games.",
+        "hi": "लवलीना बोरगोहेन एक प्रमुख भारतीय मुक्केबाज़ हैं, जिन्होंने हाल ही में एक चुनौतीपूर्ण वर्ष पर काबू पाते हुए एशियाई खेलों में मुक्केबाज़ी में एक ऐतिहासिक स्वर्ण पदक हासिल किया।"
       },
-      "category": "Important Days & Themes",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.livemint.com/news/trends/breast-cancer-awareness-month-doctors-share-5-health-tips-for-working-women-to-reduce-risk-11790868210231.html"
-    },
-    {
-      "id": "ca_20261002_10",
-      "question": {
-        "en": "Singareni Collieries Company Limited (SCCL), which recently registered high growth in coal transportation, operates primarily in which Indian state?",
-        "hi": "सिंगरेनी कोलियरीज कंपनी लिमिटेड (SCCL), जिसने हाल ही में कोयला परिवहन में उच्च वृद्धि दर्ज की है, मुख्य रूप से किस भारतीय राज्य में कार्य करती है?"
-      },
-      "options": [
-        {
-          "en": "Jharkhand",
-          "hi": "झारखंड"
-        },
-        {
-          "en": "Chhattisgarh",
-          "hi": "छत्तीसगढ़"
-        },
-        {
-          "en": "Odisha",
-          "hi": "ओडिशा"
-        },
-        {
-          "en": "Telangana",
-          "hi": "तेलंगाना"
-        }
-      ],
-      "correctAnswer": 3,
-      "explanation": {
-        "en": "Singareni Collieries Company Limited (SCCL) is a government-owned coal mining corporation in India, operating in the state of Telangana. It recently reported transporting 299.4 lakh tonnes of coal in six months.",
-        "hi": "सिंगरेनी कोलियरीज कंपनी लिमिटेड (SCCL) भारत में एक सरकारी स्वामित्व वाला कोयला खनन निगम है, जो तेलंगाना राज्य में कार्य करता है। इसने हाल ही में छह महीनों में 299.4 लाख टन कोयले के परिवहन की सूचना दी।"
-      },
-      "category": "Economy & Banking",
-      "difficulty": "hard",
-      "sourceUrl": "https://www.thehindu.com/news/national/telangana/sccl-registers-growth-in-coal-transportation-prioritises-telangana-power-plants/article71533646.ece"
+      "category": "Sports",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games-2026/i-wanted-to-quit-boxing-lovlina-borgohain-fights-through-tough-year-to-script-historic-asian-games-gold/articleshow/134634903.cms"
     }
   ]
 }
