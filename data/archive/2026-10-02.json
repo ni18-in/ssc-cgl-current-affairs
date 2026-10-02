@@ -1,0 +1,340 @@
+{
+  "date": "2026-10-02",
+  "topic": "SSC CGL Daily Current Affairs",
+  "source": "The Hindu / Livemint / PIB",
+  "lastUpdated": "2026-10-02T06:00:00+05:30",
+  "version": 1,
+  "totalQuestions": 10,
+  "quiz": [
+    {
+      "id": "ca_20261002_01",
+      "question": {
+        "en": "Recently, the Government of India capped the sugar stock limit for dealers at how many quintals ahead of the festive season to prevent hoarding?",
+        "hi": "हाल ही में, भारत सरकार ने त्योहारी सीजन से पहले जमाखोरी को रोकने के लिए डीलरों के लिए चीनी स्टॉक की सीमा कितने क्विंटल तय की है?"
+      },
+      "options": [
+        {
+          "en": "500 quintals",
+          "hi": "500 क्विंटल"
+        },
+        {
+          "en": "1,000 quintals",
+          "hi": "1,000 क्विंटल"
+        },
+        {
+          "en": "2,000 quintals",
+          "hi": "2,000 क्विंटल"
+        },
+        {
+          "en": "5,000 quintals",
+          "hi": "5,000 क्विंटल"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The Food Ministry capped the sugar stock limit for dealers to 1,000 quintals to ensure no unnecessary accumulation in the distribution chain and to keep retail prices stable.",
+        "hi": "खाद्य मंत्रालय ने डीलरों के लिए चीनी स्टॉक सीमा को 1,000 क्विंटल तक सीमित कर दिया है ताकि वितरण श्रृंखला में अनावश्यक जमाखोरी न हो और खुदरा कीमतें स्थिर रहें।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/business/Industry/govt-caps-sugar-stock-limit-for-dealers-to-1000-quintals-ahead-of-festive-season/article71534608.ece"
+    },
+    {
+      "id": "ca_20261002_02",
+      "question": {
+        "en": "At a recent G20 trade ministers' meeting, India opposed the 'weaponization' of which essential commodity through coercive trade actions?",
+        "hi": "हाल ही में G20 व्यापार मंत्रियों की बैठक में, भारत ने दंडात्मक व्यापार कार्रवाइयों के माध्यम से किस आवश्यक वस्तु के 'हथियारीकरण' (weaponization) का विरोध किया?"
+      },
+      "options": [
+        {
+          "en": "Crude Oil",
+          "hi": "कच्चा तेल"
+        },
+        {
+          "en": "Semiconductors",
+          "hi": "सेमीकंडक्टर्स"
+        },
+        {
+          "en": "Food",
+          "hi": "खाद्य पदार्थ"
+        },
+        {
+          "en": "Medical Supplies",
+          "hi": "चिकित्सा आपूर्ति"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "G20 trade ministers reached a consensus on food weaponization, with India (represented by Piyush Goyal) flagging food security concerns and pushing for a distinction between coercive restrictions and legitimate food-security measures.",
+        "hi": "G20 व्यापार मंत्रियों ने खाद्य हथियारीकरण पर सहमति व्यक्त की, जिसमें भारत (पीयूष गोयल द्वारा प्रतिनिधित्व) ने खाद्य सुरक्षा संबंधी चिंताओं को उठाया और दंडात्मक प्रतिबंधों और वैध खाद्य-सुरक्षा उपायों के बीच अंतर करने पर जोर दिया।"
+      },
+      "category": "International Summits",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.livemint.com/news/india/g20-trade-ministers-reach-consensus-on-food-weaponization-as-goyal-flags-food-security-concerns-11790870996450.html"
+    },
+    {
+      "id": "ca_20261002_03",
+      "question": {
+        "en": "In a recent initiative to enhance accessibility, the Government of India revised the guidelines for exempting which of the following from FASTag requirements?",
+        "hi": "पहुंच बढ़ाने की एक हालिया पहल में, भारत सरकार ने निम्नलिखित में से किसे फास्टैग (FASTag) आवश्यकताओं से छूट देने के दिशानिर्देशों में संशोधन किया है?"
+      },
+      "options": [
+        {
+          "en": "Electric Vehicles (EVs)",
+          "hi": "इलेक्ट्रिक वाहन (EVs)"
+        },
+        {
+          "en": "Senior Citizens",
+          "hi": "वरिष्ठ नागरिक"
+        },
+        {
+          "en": "Divyangjan (Persons with Disabilities)",
+          "hi": "दिव्यांगजन (विकलांग व्यक्ति)"
+        },
+        {
+          "en": "Defense Personnel",
+          "hi": "रक्षा कर्मी"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The Government revised the FASTag guidelines for the Divyangjan (Persons with Disabilities) category to provide them barrier-free movement across national highway toll plazas.",
+        "hi": "सरकार ने दिव्यांगजन (विकलांग व्यक्ति) श्रेणी के लिए फास्टैग दिशानिर्देशों में संशोधन किया है ताकि उन्हें राष्ट्रीय राजमार्ग टोल प्लाजा पर बाधा रहित आवाजाही प्रदान की जा सके।"
+      },
+      "category": "Government Schemes",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.thehindu.com/news/national/government-revises-fastag-guidelines-for-divyangjan-category/article71534602.ece"
+    },
+    {
+      "id": "ca_20261002_04",
+      "question": {
+        "en": "According to the recent scientific data reported, Carbon Impacts Tracer aims to attribute legal responsibility for climate harms primarily to:",
+        "hi": "हाल ही में बताए गए वैज्ञानिक आंकड़ों के अनुसार, कार्बन इम्पैक्ट्स ट्रेसर (Carbon Impacts Tracer) का उद्देश्य जलवायु नुकसान के लिए कानूनी जिम्मेदारी मुख्य रूप से किसे ठहराना है?"
+      },
+      "options": [
+        {
+          "en": "Aviation Industry",
+          "hi": "विमानन उद्योग"
+        },
+        {
+          "en": "Fossil fuel companies and governments",
+          "hi": "जीवाश्म ईंधन कंपनियां और सरकारें"
+        },
+        {
+          "en": "Automobile manufacturers",
+          "hi": "ऑटोमोबाइल निर्माता"
+        },
+        {
+          "en": "Agricultural sectors",
+          "hi": "कृषि क्षेत्र"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The newly developed Carbon Impacts Tracer measures the damage each new coal mine can do, helping communities attribute legal responsibility to governments and fossil fuel companies.",
+        "hi": "नया विकसित कार्बन इम्पैक्ट्स ट्रेसर प्रत्येक नई कोयला खदान से होने वाले नुकसान को मापता है, जिससे समुदायों को सरकारों और जीवाश्म ईंधन कंपनियों पर कानूनी जिम्मेदारी तय करने में मदद मिलती है।"
+      },
+      "category": "Environment & Ecology",
+      "difficulty": "hard",
+      "sourceUrl": "https://www.thehindu.com/sci-tech/science/scientists-can-now-measure-the-damage-each-new-coal-mine-can-do-to-people-nature/article71533182.ece"
+    },
+    {
+      "id": "ca_20261002_05",
+      "question": {
+        "en": "Which constitutional authority is responsible for maintaining and updating the FASTag systems at National Highway toll plazas?",
+        "hi": "राष्ट्रीय राजमार्ग टोल प्लाजा पर फास्टैग सिस्टम को बनाए रखने और अद्यतन करने के लिए कौन सा संवैधानिक/सांविधिक प्राधिकरण जिम्मेदार है?"
+      },
+      "options": [
+        {
+          "en": "Border Roads Organisation (BRO)",
+          "hi": "सीमा सड़क संगठन (BRO)"
+        },
+        {
+          "en": "National Highways Authority of India (NHAI)",
+          "hi": "भारतीय राष्ट्रीय राजमार्ग प्राधिकरण (NHAI)"
+        },
+        {
+          "en": "NITI Aayog",
+          "hi": "नीति आयोग"
+        },
+        {
+          "en": "Central Public Works Department (CPWD)",
+          "hi": "केंद्रीय लोक निर्माण विभाग (CPWD)"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "NHAI (National Highways Authority of India), a statutory body under the Ministry of Road Transport and Highways, manages the FASTag electronic toll collection system.",
+        "hi": "सड़क परिवहन और राजमार्ग मंत्रालय के तहत एक वैधानिक निकाय, NHAI (भारतीय राष्ट्रीय राजमार्ग प्राधिकरण), फास्टैग इलेक्ट्रॉनिक टोल संग्रह प्रणाली का प्रबंधन करता है।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.thehindu.com/news/national/government-revises-fastag-guidelines-for-divyangjan-category/article71534602.ece"
+    },
+    {
+      "id": "ca_20261002_06",
+      "question": {
+        "en": "Recently, scientists observed self-medicating behavior in which of the following animals, similar to great apes?",
+        "hi": "हाल ही में, वैज्ञानिकों ने महान वानरों (great apes) के समान निम्नलिखित में से किस जानवर में स्व-चिकित्सा (self-medicating) व्यवहार देखा है?"
+      },
+      "options": [
+        {
+          "en": "Asian Tigers",
+          "hi": "एशियाई बाघ"
+        },
+        {
+          "en": "African Elephants",
+          "hi": "अफ़्रीकी हाथी"
+        },
+        {
+          "en": "Indian Rhinoceros",
+          "hi": "भारतीय गैंडा"
+        },
+        {
+          "en": "Giant Pandas",
+          "hi": "विशाल पांडा"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Scientists recently found that African elephants self-medicate by consuming certain plants, which are also used in indigenous human traditional medicine.",
+        "hi": "वैज्ञानिकों ने हाल ही में पाया कि अफ्रीकी हाथी कुछ पौधों का सेवन करके अपना इलाज खुद करते हैं, जिनका उपयोग स्वदेशी मानव पारंपरिक चिकित्सा में भी किया जाता है।"
+      },
+      "category": "Science & Technology",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/sci-tech/science/after-great-apes-scientists-find-african-elephants-self-medicate-too/article71527977.ece"
+    },
+    {
+      "id": "ca_20261002_07",
+      "question": {
+        "en": "In the context of recent water disputes, the Mahanadi river dispute primarily involves which two states?",
+        "hi": "हालिया जल विवादों के संदर्भ में, महानदी जल विवाद में मुख्य रूप से कौन से दो राज्य शामिल हैं?"
+      },
+      "options": [
+        {
+          "en": "Odisha and Chhattisgarh",
+          "hi": "ओडिशा और छत्तीसगढ़"
+        },
+        {
+          "en": "Maharashtra and Karnataka",
+          "hi": "महाराष्ट्र और कर्नाटक"
+        },
+        {
+          "en": "Andhra Pradesh and Telangana",
+          "hi": "आंध्र प्रदेश और तेलंगाना"
+        },
+        {
+          "en": "Tamil Nadu and Kerala",
+          "hi": "तमिलनाडु और केरल"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "The Mahanadi River dispute is primarily between Odisha and Chhattisgarh. The Odisha Chief Minister recently stated that the dispute would be resolved soon.",
+        "hi": "महानदी जल विवाद मुख्य रूप से ओडिशा और छत्तीसगढ़ के बीच है। ओडिशा के मुख्यमंत्री ने हाल ही में कहा कि विवाद जल्द ही सुलझा लिया जाएगा।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.thehindu.com/news/national/odisha/mahanadi-river-dispute-to-be-resolved-soon-says-odisha-cm/article71534628.ece"
+    },
+    {
+      "id": "ca_20261002_08",
+      "question": {
+        "en": "Which famous cricket tournament witnessed a historic match at the Srinagar cricket ground in October 2026, outpacing the memories of the 1983 India-West Indies fiasco?",
+        "hi": "अक्टूबर 2026 में श्रीनगर क्रिकेट मैदान पर किस प्रसिद्ध क्रिकेट टूर्नामेंट का ऐतिहासिक मैच देखा गया, जिसने 1983 के भारत-वेस्टइंडीज विवाद की यादों को पीछे छोड़ दिया?"
+      },
+      "options": [
+        {
+          "en": "Ranji Trophy",
+          "hi": "रणजी ट्रॉफी"
+        },
+        {
+          "en": "Duleep Trophy",
+          "hi": "दलीप ट्रॉफी"
+        },
+        {
+          "en": "Irani Cup",
+          "hi": "ईरानी कप"
+        },
+        {
+          "en": "Vijay Hazare Trophy",
+          "hi": "विजय हजारे ट्रॉफी"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The Irani Cup 2026 match held at the Srinagar cricket ground was a historic event, successfully held with a monitored crowd, replacing the bitter memories of the 1983 international match.",
+        "hi": "श्रीनगर क्रिकेट मैदान पर आयोजित ईरानी कप 2026 का मैच एक ऐतिहासिक घटना थी, जिसे 1983 के अंतर्राष्ट्रीय मैच की कड़वी यादों को मिटाते हुए सफलतापूर्वक आयोजित किया गया।"
+      },
+      "category": "Sports",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/news/national/jammu-and-kashmir/irani-cup-2026-srinagar-cricket-ground-rewrites-history-to-outpace-memories-of-1983-india-west-india-fiasco/article71534400.ece"
+    },
+    {
+      "id": "ca_20261002_09",
+      "question": {
+        "en": "October is globally observed as the awareness month for which major health condition, leading doctors to share health tips for working women?",
+        "hi": "अक्टूबर को विश्व स्तर पर किस प्रमुख स्वास्थ्य स्थिति के लिए जागरूकता माह के रूप में मनाया जाता है, जिसके तहत डॉक्टर कामकाजी महिलाओं के लिए स्वास्थ्य संबंधी टिप्स साझा करते हैं?"
+      },
+      "options": [
+        {
+          "en": "Diabetes",
+          "hi": "मधुमेह"
+        },
+        {
+          "en": "Breast Cancer",
+          "hi": "स्तन कैंसर"
+        },
+        {
+          "en": "Tuberculosis",
+          "hi": "तपेदिक"
+        },
+        {
+          "en": "Alzheimer's Disease",
+          "hi": "अल्जाइमर रोग"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "October is internationally recognized as Breast Cancer Awareness Month, aiming to promote screening and prevention, especially highlighting risk reduction tips for women.",
+        "hi": "अक्टूबर को अंतरराष्ट्रीय स्तर पर स्तन कैंसर जागरूकता माह (Breast Cancer Awareness Month) के रूप में मान्यता प्राप्त है, जिसका उद्देश्य जांच और रोकथाम को बढ़ावा देना है, विशेष रूप से महिलाओं के लिए जोखिम कम करने के सुझावों को उजागर करना।"
+      },
+      "category": "Important Days & Themes",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.livemint.com/news/trends/breast-cancer-awareness-month-doctors-share-5-health-tips-for-working-women-to-reduce-risk-11790868210231.html"
+    },
+    {
+      "id": "ca_20261002_10",
+      "question": {
+        "en": "Singareni Collieries Company Limited (SCCL), which recently registered high growth in coal transportation, operates primarily in which Indian state?",
+        "hi": "सिंगरेनी कोलियरीज कंपनी लिमिटेड (SCCL), जिसने हाल ही में कोयला परिवहन में उच्च वृद्धि दर्ज की है, मुख्य रूप से किस भारतीय राज्य में कार्य करती है?"
+      },
+      "options": [
+        {
+          "en": "Jharkhand",
+          "hi": "झारखंड"
+        },
+        {
+          "en": "Chhattisgarh",
+          "hi": "छत्तीसगढ़"
+        },
+        {
+          "en": "Odisha",
+          "hi": "ओडिशा"
+        },
+        {
+          "en": "Telangana",
+          "hi": "तेलंगाना"
+        }
+      ],
+      "correctAnswer": 3,
+      "explanation": {
+        "en": "Singareni Collieries Company Limited (SCCL) is a government-owned coal mining corporation in India, operating in the state of Telangana. It recently reported transporting 299.4 lakh tonnes of coal in six months.",
+        "hi": "सिंगरेनी कोलियरीज कंपनी लिमिटेड (SCCL) भारत में एक सरकारी स्वामित्व वाला कोयला खनन निगम है, जो तेलंगाना राज्य में कार्य करता है। इसने हाल ही में छह महीनों में 299.4 लाख टन कोयले के परिवहन की सूचना दी।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "hard",
+      "sourceUrl": "https://www.thehindu.com/news/national/telangana/sccl-registers-growth-in-coal-transportation-prioritises-telangana-power-plants/article71533646.ece"
+    }
+  ]
+}
