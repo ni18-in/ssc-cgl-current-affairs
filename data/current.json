@@ -1,181 +1,247 @@
 {
-  "date": "2026-10-03",
+  "date": "2026-10-04",
   "topic": "SSC CGL Daily Current Affairs",
-  "source": "PIB / The Hindu / Economic Times / Indian Express / GKToday",
-  "lastUpdated": "2026-10-03T06:00:00+05:30",
+  "source": "The Hindu / Times of India",
+  "lastUpdated": "2026-10-04T06:00:00+05:30",
   "version": 1,
   "totalQuestions": 10,
   "quiz": [
     {
-      "id": "ca_20261003_01",
+      "id": "ca_20261004_01",
       "question": {
-        "en": "Recently, the Supreme Court ruled that anti-slaughter laws cannot be invoked in cases of mere illegal transportation of which animal?",
-        "hi": "हाल ही में, सर्वोच्च न्यायालय ने फैसला सुनाया कि केवल किस जानवर के अवैध परिवहन के मामलों में गोवध-रोधी कानून (anti-slaughter laws) लागू नहीं किए जा सकते हैं?"
+        "en": "Recently, Sebi chairman Tuhin Kanta Pandey revealed transformative changes to which mechanism based on feedback from over 3,500 participants?",
+        "hi": "हाल ही में, सेबी के अध्यक्ष तुहिन कांता पांडे ने 3,500 से अधिक प्रतिभागियों की प्रतिक्रिया के आधार पर किस तंत्र में परिवर्तनकारी बदलावों का खुलासा किया?"
       },
       "options": [
         {
-          "en": "Camel",
-          "hi": "ऊंट"
+          "en": "Initial Public Offering (IPO) pricing",
+          "hi": "आरंभिक सार्वजनिक पेशकश (IPO) मूल्य निर्धारण"
         },
         {
-          "en": "Cattle",
-          "hi": "मवेशी (गौवंश)"
+          "en": "Closing Auction Session mechanism",
+          "hi": "क्लोजिंग ऑक्शन सेशन (Closing Auction Session) तंत्र"
         },
         {
-          "en": "Sheep",
-          "hi": "भेड़"
+          "en": "Mutual Fund expense ratio limits",
+          "hi": "म्यूचुअल फंड व्यय अनुपात सीमा"
         },
         {
-          "en": "Goat",
-          "hi": "बकरी"
+          "en": "Foreign Portfolio Investor (FPI) registration",
+          "hi": "विदेशी पोर्टफोलियो निवेशक (FPI) पंजीकरण"
         }
       ],
       "correctAnswer": 1,
       "explanation": {
-        "en": "The Supreme Court recently ruled that anti-slaughter laws cannot be invoked in cases of mere illegal cattle transportation, emphasizing the distinction between transportation and slaughtering.",
-        "hi": "सर्वोच्च न्यायालय ने हाल ही में फैसला सुनाया कि परिवहन और वध के बीच अंतर पर जोर देते हुए केवल मवेशियों के अवैध परिवहन के मामलों में गोवध-रोधी कानून लागू नहीं किया जा सकता है।"
-      },
-      "category": "Polity & Governance",
-      "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/cant-invoke-anti-slaughter-law-in-case-of-mere-illegal-cattle-transportation-sc/articleshow/134646602.cms"
-    },
-    {
-      "id": "ca_20261003_02",
-      "question": {
-        "en": "To counter territorial claims by China, India formally put which of the following areas on its official map recently?",
-        "hi": "चीन के क्षेत्रीय दावों का मुकाबला करने के लिए, भारत ने हाल ही में निम्नलिखित में से किस क्षेत्र को अपने आधिकारिक मानचित्र पर रखा है?"
-      },
-      "options": [
-        {
-          "en": "Galwan Valley and Pangong Tso",
-          "hi": "गलवान घाटी और पैंगोंग त्सो"
-        },
-        {
-          "en": "Gogra and Hot Spring",
-          "hi": "गोगरा और हॉट स्प्रिंग"
-        },
-        {
-          "en": "Doklam Plateau",
-          "hi": "डोकलाम पठार"
-        },
-        {
-          "en": "Tawang and Nathu La",
-          "hi": "तवांग और नाथू ला"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "To counter Chinese narratives, India has formally put Gogra, Hot Spring, and other contested areas along the Line of Actual Control (LAC) on its official map.",
-        "hi": "चीनी आख्यानों का मुकाबला करने के लिए, भारत ने वास्तविक नियंत्रण रेखा (LAC) के साथ गोगरा, हॉट स्प्रिंग और अन्य विवादित क्षेत्रों को आधिकारिक रूप से अपने मानचित्र पर रखा है।"
-      },
-      "category": "Defence & Security",
-      "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/to-counter-china-india-formally-puts-gogra-hot-spring-others-on-map/articleshow/134646655.cms"
-    },
-    {
-      "id": "ca_20261003_03",
-      "question": {
-        "en": "The government has recently increased the Employees' Provident Fund (EPF) wage ceiling from Rs 15,000 to how much?",
-        "hi": "सरकार ने हाल ही में कर्मचारी भविष्य निधि (EPF) वेतन सीमा को 15,000 रुपये से बढ़ाकर कितना कर दिया है?"
-      },
-      "options": [
-        {
-          "en": "Rs 20,000",
-          "hi": "20,000 रुपये"
-        },
-        {
-          "en": "Rs 21,000",
-          "hi": "21,000 रुपये"
-        },
-        {
-          "en": "Rs 25,000",
-          "hi": "25,000 रुपये"
-        },
-        {
-          "en": "Rs 30,000",
-          "hi": "30,000 रुपये"
-        }
-      ],
-      "correctAnswer": 2,
-      "explanation": {
-        "en": "The Ministry of Labour has directed that the EPF wage ceiling has been increased to Rs 25,000 from the previous Rs 15,000, ensuring wider social security coverage.",
-        "hi": "श्रम मंत्रालय ने निर्देश दिया है कि ईपीएफ (EPF) वेतन सीमा को पिछले 15,000 रुपये से बढ़ाकर 25,000 रुपये कर दिया गया है, जिससे व्यापक सामाजिक सुरक्षा कवरेज सुनिश्चित हो सके।"
+        "en": "Sebi chairman Tuhin Kanta Pandey announced transformative changes to the Closing Auction Session mechanism, updating settlement prices for index and stock derivatives to invigorate the corporate bond derivatives market.",
+        "hi": "सेबी के अध्यक्ष तुहिन कांता पांडे ने कॉर्पोरेट बॉन्ड डेरिवेटिव बाजार को मजबूत करने के लिए सूचकांक और स्टॉक डेरिवेटिव के निपटान मूल्यों को अद्यतन करते हुए 'क्लोजिंग ऑक्शन सेशन' तंत्र में परिवर्तनकारी बदलावों की घोषणा की।"
       },
       "category": "Economy & Banking",
-      "difficulty": "easy",
-      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/dont-cut-salaries-after-epf-wage-ceiling-rises-to-rs-25000-from-rs-15000-ministry-directs-employers-to-bear-statutory-contribution-not-pass-it-on-to-employees-through-ctc-adjustments/articleshow/134633761.cms"
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/over-3500-responses-on-cas-sebi-to-quickly-move-ahead-with-proposals/articleshow/134656121.cms"
     },
     {
-      "id": "ca_20261003_04",
+      "id": "ca_20261004_02",
       "question": {
-        "en": "Vande Bharat Express recently achieved a historic milestone by crossing the world's highest railway bridge at 100 kmph. This bridge is built on which river?",
-        "hi": "वंदे भारत एक्सप्रेस ने हाल ही में 100 किमी प्रति घंटे की गति से दुनिया के सबसे ऊंचे रेलवे ब्रिज को पार कर एक ऐतिहासिक मील का पत्थर हासिल किया। यह पुल किस नदी पर बना है?"
+        "en": "India recently thrashed which country 5-1 to win back-to-back Asian Games men's hockey gold and secure a spot for the LA28 Olympics?",
+        "hi": "भारत ने हाल ही में किस देश को 5-1 से हराकर लगातार दूसरा एशियाई खेलों का पुरुष हॉकी स्वर्ण पदक जीता और LA28 (एलए28) ओलंपिक के लिए जगह पक्की की?"
       },
       "options": [
         {
-          "en": "Jhelum",
-          "hi": "झेलम"
+          "en": "Pakistan",
+          "hi": "पाकिस्तान"
         },
-        {
-          "en": "Chenab",
-          "hi": "चिनाब"
-        },
-        {
-          "en": "Ravi",
-          "hi": "रावी"
-        },
-        {
-          "en": "Beas",
-          "hi": "ब्यास"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "The Vande Bharat Express crossed the world's highest railway bridge over the Chenab river and India's first cable-stayed Anji Khad bridge at 100 kmph, marking a historic infrastructure achievement.",
-        "hi": "वंदे भारत एक्सप्रेस ने चिनाब नदी पर दुनिया के सबसे ऊंचे रेलवे ब्रिज और भारत के पहले केबल-स्टेयड (cable-stayed) अंजी खड्ड ब्रिज को 100 किमी प्रति घंटे की गति से पार किया, जो एक ऐतिहासिक बुनियादी ढांचागत उपलब्धि है।"
-      },
-      "category": "Science & Technology",
-      "difficulty": "easy",
-      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/vande-bharat-crosses-worlds-highest-chenab-and-first-cable-stayed-anji-bridges-at-100-kmph-in-historic-milestone-as-katra-banihal-speed-limit-rises-over-a-year-after-inauguration/articleshow/134635017.cms"
-    },
-    {
-      "id": "ca_20261003_05",
-      "question": {
-        "en": "The Indian women's hockey team recently won gold at the Asian Games 2026 after defeating which country 1-0?",
-        "hi": "भारतीय महिला हॉकी टीम ने हाल ही में एशियाई खेल 2026 में किस देश को 1-0 से हराकर स्वर्ण पदक जीता?"
-      },
-      "options": [
         {
           "en": "South Korea",
           "hi": "दक्षिण कोरिया"
         },
         {
-          "en": "Japan",
-          "hi": "जापान"
-        },
-        {
-          "en": "China",
-          "hi": "चीन"
-        },
-        {
           "en": "Malaysia",
           "hi": "मलेशिया"
+        },
+        {
+          "en": "Japan",
+          "hi": "जापान"
         }
       ],
       "correctAnswer": 2,
       "explanation": {
-        "en": "India won its first women's hockey gold since 1982 at the Asian Games by defeating China 1-0, securing a spot for the LA28 Olympics.",
-        "hi": "भारत ने एशियाई खेलों में चीन को 1-0 से हराकर 1982 के बाद अपना पहला महिला हॉकी स्वर्ण जीता, जिससे एलए28 (LA28) ओलंपिक के लिए उनकी जगह पक्की हो गई।"
+        "en": "India crushed Malaysia 5-1 in the final to win back-to-back Asian Games men's hockey gold medals and seal their qualification for the 2028 Los Angeles Olympics.",
+        "hi": "भारत ने फाइनल में मलेशिया को 5-1 से हराकर लगातार दूसरा एशियाई खेलों का पुरुष हॉकी स्वर्ण पदक जीता और 2028 लॉस एंजिल्स ओलंपिक के लिए अपनी योग्यता पक्की की।"
+      },
+      "category": "Sports",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games-2026/india-thrash-malaysia-5-1-to-win-back-to-back-asian-games-mens-hockey-gold-for-first-time-seal-la28-olympics-spot/articleshow/134658406.cms"
+    },
+    {
+      "id": "ca_20261004_03",
+      "question": {
+        "en": "Astronomers have recently detected radio waves originating from a planet located how far away from Earth?",
+        "hi": "खगोलविदों ने हाल ही में पृथ्वी से कितनी दूर स्थित एक ग्रह से उत्पन्न होने वाली रेडियो तरंगों का पता लगाया है?"
+      },
+      "options": [
+        {
+          "en": "42 light-years",
+          "hi": "42 प्रकाश वर्ष"
+        },
+        {
+          "en": "63 light-years",
+          "hi": "63 प्रकाश वर्ष"
+        },
+        {
+          "en": "85 light-years",
+          "hi": "85 प्रकाश वर्ष"
+        },
+        {
+          "en": "100 light-years",
+          "hi": "100 प्रकाश वर्ष"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Astronomers have detected an unusual signal consisting of radio waves from a planet located 63 light-years away, marking a significant milestone in exoplanet research.",
+        "hi": "खगोलविदों ने 63 प्रकाश-वर्ष दूर स्थित एक ग्रह से रेडियो तरंगों से युक्त एक असामान्य संकेत का पता लगाया है, जो एक्सोप्लैनेट अनुसंधान में एक महत्वपूर्ण मील का पत्थर है।"
+      },
+      "category": "Science & Technology",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/science/a-signal-from-beyond-astronomers-detect-radio-waves-from-a-planet-63-light-years-away/articleshow/134654964.cms"
+    },
+    {
+      "id": "ca_20261004_04",
+      "question": {
+        "en": "In a recent friendly match in Kolkata, the Indian football team (Blue Tigers) lost 0-4 to which five-time FIFA World Cup champion nation?",
+        "hi": "कोलकाता में हाल ही में हुए एक मैत्रीपूर्ण मैच में, भारतीय फुटबॉल टीम (ब्लू टाइगर्स) को पांच बार के किस फीफा विश्व कप चैंपियन देश से 0-4 से हार का सामना करना पड़ा?"
+      },
+      "options": [
+        {
+          "en": "Argentina",
+          "hi": "अर्जेंटीना"
+        },
+        {
+          "en": "Germany",
+          "hi": "जर्मनी"
+        },
+        {
+          "en": "Brazil",
+          "hi": "ब्राज़ील"
+        },
+        {
+          "en": "Italy",
+          "hi": "इटली"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "In a historic friendly match held in Kolkata, the Indian football team faced a 0-4 defeat against the five-time FIFA World Cup champions, Brazil.",
+        "hi": "कोलकाता में आयोजित एक ऐतिहासिक मैत्रीपूर्ण मैच में, भारतीय फुटबॉल टीम को पांच बार के फीफा विश्व कप चैंपियन ब्राजील के खिलाफ 0-4 से हार का सामना करना पड़ा।"
       },
       "category": "Sports",
       "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games-2026/lalremsiamis-wonder-strike-hands-indian-womens-hockey-1-0-win-over-china-gold-after-44-years-at-asian-games-olympics-quota-sealed/articleshow/134639505.cms"
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/football/top-stories/india-0-4-brazil-five-time-champions-prove-too-much-for-blue-tigers-in-historic-kolkata-friendly/articleshow/134662961.cms"
     },
     {
-      "id": "ca_20261003_06",
+      "id": "ca_20261004_05",
       "question": {
-        "en": "Who won India's first wrestling gold at the Asian Games 2026?",
-        "hi": "एशियाई खेल 2026 में भारत का पहला कुश्ती स्वर्ण पदक किसने जीता?"
+        "en": "Scientists recently resurrected proteins from extinct mammals to combat drug-resistant bacteria. How old are these resurrected proteins?",
+        "hi": "वैज्ञानिकों ने हाल ही में दवा-प्रतिरोधी बैक्टीरिया से निपटने के लिए विलुप्त स्तनधारियों के प्रोटीन को पुनर्जीवित किया। ये पुनर्जीवित प्रोटीन कितने साल पुराने हैं?"
+      },
+      "options": [
+        {
+          "en": "65 million years old",
+          "hi": "65 मिलियन वर्ष पुराने"
+        },
+        {
+          "en": "100 million years old",
+          "hi": "100 मिलियन वर्ष पुराने"
+        },
+        {
+          "en": "160 million years old",
+          "hi": "160 मिलियन वर्ष पुराने"
+        },
+        {
+          "en": "250 million years old",
+          "hi": "250 मिलियन वर्ष पुराने"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Scientists successfully revived 160-million-year-old proteins from extinct mammals. These ancient proteins proved stronger against drug-resistant bacteria than modern human versions, offering hope for new antibiotic research.",
+        "hi": "वैज्ञानिकों ने विलुप्त स्तनधारियों से 160 मिलियन वर्ष पुराने प्रोटीन को सफलतापूर्वक पुनर्जीवित किया। ये प्राचीन प्रोटीन आधुनिक मानव संस्करणों की तुलना में दवा-प्रतिरोधी बैक्टीरिया के खिलाफ अधिक मजबूत साबित हुए, जिससे नए एंटीबायोटिक अनुसंधान की उम्मीद जगी।"
+      },
+      "category": "Science & Technology",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/science/discovery/scientists-resurrected-160-million-year-old-proteins-from-extinct-mammals-some-were-stronger-against-drug-resistant-bacteria-than-modern-human-versions-raising-new-hopes-for-antibiotic-research/articleshow/134639995.cms"
+    },
+    {
+      "id": "ca_20261004_06",
+      "question": {
+        "en": "According to researchers, an adult Homo erectus fossil newly described from South Africa indicates the species appeared in Africa how many years ago?",
+        "hi": "शोधकर्ताओं के अनुसार, दक्षिण अफ्रीका से प्राप्त एक वयस्क होमो इरेक्टस (Homo erectus) जीवाश्म इंगित करता है कि यह प्रजाति अफ्रीका में कितने वर्ष पहले प्रकट हुई थी?"
+      },
+      "options": [
+        {
+          "en": "1.5 million years ago",
+          "hi": "1.5 मिलियन वर्ष पहले"
+        },
+        {
+          "en": "2 million years ago",
+          "hi": "2 मिलियन वर्ष पहले"
+        },
+        {
+          "en": "2.5 million years ago",
+          "hi": "2.5 मिलियन वर्ष पहले"
+        },
+        {
+          "en": "3 million years ago",
+          "hi": "3 मिलियन वर्ष पहले"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Researchers have described an adult Homo erectus fossil from South Africa dating back to 2 million years ago, making it 200,000 years older than other known adult fossils of the species.",
+        "hi": "शोधकर्ताओं ने दक्षिण अफ्रीका के एक वयस्क होमो इरेक्टस जीवाश्म का वर्णन किया है जो 2 मिलियन (20 लाख) वर्ष पुराना है, जो इसे इस प्रजाति के अन्य ज्ञात वयस्क जीवाश्मों से 200,000 वर्ष पुराना बनाता है।"
+      },
+      "category": "Science & Technology",
+      "difficulty": "hard",
+      "sourceUrl": "https://timesofindia.indiatimes.com/science/archaeology/researchers-described-18-previously-unpublished-hominin-fossils-from-south-africa-including-an-adult-homo-erectus-dated-to-2-million-years-ago-200000-years-older-than-other-known-adult-fossils/articleshow/134633416.cms"
+    },
+    {
+      "id": "ca_20261004_07",
+      "question": {
+        "en": "A 10-year forest restoration project at the 132-acre Towaliga Preserve, in partnership with a data centre, has begun in which US state?",
+        "hi": "डेटा सेंटर के साथ साझेदारी में 132-एकड़ के टोवालिगा प्रिजर्व (Towaliga Preserve) में 10 वर्षीय वन बहाली परियोजना किस अमेरिकी राज्य में शुरू हुई है?"
+      },
+      "options": [
+        {
+          "en": "California",
+          "hi": "कैलिफोर्निया"
+        },
+        {
+          "en": "Florida",
+          "hi": "फ्लोरिडा"
+        },
+        {
+          "en": "Georgia",
+          "hi": "जॉर्जिया"
+        },
+        {
+          "en": "Michigan",
+          "hi": "मिशिगन"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The state of Georgia in the US has started a 10-year restoration project of 132 acres at the Towaliga Preserve, utilizing a data centre partnership to rebuild the forest habitat.",
+        "hi": "अमेरिका के जॉर्जिया राज्य ने टोवालिगा प्रिजर्व में 132 एकड़ की 10 वर्षीय बहाली परियोजना शुरू की है, जिसमें वन आवास के पुनर्निर्माण के लिए एक डेटा सेंटर साझेदारी का उपयोग किया गया है।"
+      },
+      "category": "Environment & Ecology",
+      "difficulty": "hard",
+      "sourceUrl": "https://timesofindia.indiatimes.com/science/nature/georgia-has-begun-a-10-year-restoration-of-132-acres-at-towaliga-preserve-using-a-data-centre-partnership-to-rebuild-forest-habitat-on-one-of-henry-countys-largest-undeveloped-properties/articleshow/134638691.cms"
+    },
+    {
+      "id": "ca_20261004_08",
+      "question": {
+        "en": "Which Indian wrestler's Asian Games gold medal achievement was highlighted with the phrase 'Screensaver turns real'?",
+        "hi": "किस भारतीय पहलवान के एशियाई खेलों के स्वर्ण पदक की उपलब्धि को 'स्क्रीनसेवर वास्तविक हो गया (Screensaver turns real)' वाक्यांश के साथ उजागर किया गया था?"
       },
       "options": [
         {
@@ -183,158 +249,92 @@
           "hi": "बजरंग पुनिया"
         },
         {
-          "en": "Ravi Kumar Dahiya",
-          "hi": "रवि कुमार दहिया"
+          "en": "Aman Sehrawat",
+          "hi": "अमन सहरावत"
         },
         {
-          "en": "Sujeet Kalkal",
-          "hi": "सुजीत कलकल"
+          "en": "Ravi Kumar Dahiya",
+          "hi": "रवि कुमार दहिया"
         },
         {
           "en": "Deepak Punia",
           "hi": "दीपक पुनिया"
         }
       ],
-      "correctAnswer": 2,
-      "explanation": {
-        "en": "Sujeet Kalkal won India's first wrestling gold at the Asian Games 2026, boosting India's medal tally in wrestling.",
-        "hi": "सुजीत कलकल ने एशियाई खेल 2026 में भारत का पहला कुश्ती स्वर्ण पदक जीता, जिससे कुश्ती में भारत की पदक तालिका को बढ़ावा मिला।"
-      },
-      "category": "Sports",
-      "difficulty": "hard",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games-2026/sujeet-kalkal-wins-indias-first-wrestling-gold-at-asian-games-2026/articleshow/134636418.cms"
-    },
-    {
-      "id": "ca_20261003_07",
-      "question": {
-        "en": "Which country hailed Indian pilot Captain Smit for his bravery during a stabbing incident on a flydubai flight, terming it a 'terrorist act'?",
-        "hi": "फ्लाईदुबई (flydubai) उड़ान पर चाकूबाजी की घटना के दौरान बहादुरी के लिए किस देश ने भारतीय पायलट कैप्टन स्मित की सराहना की और इसे 'आतंकवादी कृत्य' करार दिया?"
-      },
-      "options": [
-        {
-          "en": "Saudi Arabia",
-          "hi": "सऊदी अरब"
-        },
-        {
-          "en": "United Arab Emirates (UAE)",
-          "hi": "संयुक्त अरब अमीरात (UAE)"
-        },
-        {
-          "en": "Qatar",
-          "hi": "कतर"
-        },
-        {
-          "en": "Oman",
-          "hi": "ओमान"
-        }
-      ],
       "correctAnswer": 1,
       "explanation": {
-        "en": "The United Arab Emirates (UAE) termed the stabbing on a flydubai flight a 'terrorist act' and hailed Indian pilot Captain Smit, who stepped in to prevent others from dying.",
-        "hi": "संयुक्त अरब अमीरात (UAE) ने फ्लाईदुबई उड़ान पर चाकू मारने की घटना को 'आतंकवादी कृत्य' करार दिया और भारतीय पायलट कैप्टन स्मित की सराहना की, जिन्होंने दूसरों को मरने से बचाने के लिए हस्तक्षेप किया।"
-      },
-      "category": "International Summits",
-      "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/uae-terms-flydubai-stabbing-terrorist-act-hails-indian-pilot/articleshow/134646825.cms"
-    },
-    {
-      "id": "ca_20261003_08",
-      "question": {
-        "en": "The Election Commission of India ordered a special drive to add genuine electors left out during 'SIR'. What does 'SIR' stand for in this context?",
-        "hi": "भारत निर्वाचन आयोग ने 'SIR' के दौरान छूटे हुए वास्तविक मतदाताओं को जोड़ने के लिए एक विशेष अभियान का आदेश दिया। इस संदर्भ में 'SIR' का क्या अर्थ है?"
-      },
-      "options": [
-        {
-          "en": "Special Investigative Revision",
-          "hi": "स्पेशल इन्वेस्टिगेटिव रिवीजन (विशेष जांच संशोधन)"
-        },
-        {
-          "en": "Systematic Identity Record",
-          "hi": "सिस्टेमैटिक आइडेंटिटी रिकॉर्ड"
-        },
-        {
-          "en": "State Inquiry Report",
-          "hi": "स्टेट इंक्वायरी रिपोर्ट"
-        },
-        {
-          "en": "Special Identification Registry",
-          "hi": "स्पेशल आइडेंटिफिकेशन रजिस्ट्री"
-        }
-      ],
-      "correctAnswer": 0,
-      "explanation": {
-        "en": "Facing criticism over deleted voters, the Election Commission ordered a special drive to include genuine electors left out during the Special Investigative Revision (SIR).",
-        "hi": "हटाए गए मतदाताओं को लेकर आलोचनाओं का सामना करते हुए, चुनाव आयोग ने स्पेशल इन्वेस्टिगेटिव रिवीजन (SIR) के दौरान छूटे हुए वास्तविक मतदाताओं को शामिल करने के लिए एक विशेष अभियान का आदेश दिया।"
-      },
-      "category": "Polity & Governance",
-      "difficulty": "hard",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/under-fire-ec-orders-special-drive-to-add-genuine-electors-left-out-during-sir/articleshow/134646432.cms"
-    },
-    {
-      "id": "ca_20261003_09",
-      "question": {
-        "en": "According to a recent study, underwater marble sculptures in which country are becoming small artificial reef habitats for marine life?",
-        "hi": "एक हालिया अध्ययन के अनुसार, किस देश में पानी के नीचे की संगमरमर की मूर्तियां समुद्री जीवन के लिए छोटे कृत्रिम रीफ (मूंगे की चट्टान) आवास बन रही हैं?"
-      },
-      "options": [
-        {
-          "en": "Greece",
-          "hi": "ग्रीस"
-        },
-        {
-          "en": "Australia",
-          "hi": "ऑस्ट्रेलिया"
-        },
-        {
-          "en": "Italy",
-          "hi": "इटली"
-        },
-        {
-          "en": "Spain",
-          "hi": "स्पेन"
-        }
-      ],
-      "correctAnswer": 2,
-      "explanation": {
-        "en": "A study found that Italy’s underwater marble sculptures, originally built as art, are successfully turning into small artificial reef habitats supporting diverse marine life.",
-        "hi": "एक अध्ययन में पाया गया है कि इटली की पानी के नीचे की संगमरमर की मूर्तियां, जो मूल रूप से कला के रूप में बनाई गई थीं, सफलतापूर्वक छोटे कृत्रिम रीफ आवासों में बदल रही हैं जो विविध समुद्री जीवन का समर्थन करती हैं।"
-      },
-      "category": "Environment & Ecology",
-      "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/europe/italys-underwater-marble-sculptures-were-built-as-art-a-study-finds-they-are-becoming-small-artificial-reef-habitats/articleshow/134635152.cms"
-    },
-    {
-      "id": "ca_20261003_10",
-      "question": {
-        "en": "Indian athlete Lovlina Borgohain recently fought through a tough year to win a historic gold at the Asian Games 2026. She is associated with which sport?",
-        "hi": "भारतीय एथलीट लवलीना बोरगोहेन ने हाल ही में एक कठिन वर्ष से जूझते हुए एशियाई खेल 2026 में ऐतिहासिक स्वर्ण पदक जीता। वह किस खेल से संबंधित हैं?"
-      },
-      "options": [
-        {
-          "en": "Wrestling",
-          "hi": "कुश्ती"
-        },
-        {
-          "en": "Boxing",
-          "hi": "मुक्केबाज़ी"
-        },
-        {
-          "en": "Archery",
-          "hi": "तीरंदाजी"
-        },
-        {
-          "en": "Weightlifting",
-          "hi": "भारोत्तोलन"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "Lovlina Borgohain is a prominent Indian boxer who recently overcame a challenging year to secure a historic gold medal in boxing at the Asian Games.",
-        "hi": "लवलीना बोरगोहेन एक प्रमुख भारतीय मुक्केबाज़ हैं, जिन्होंने हाल ही में एक चुनौतीपूर्ण वर्ष पर काबू पाते हुए एशियाई खेलों में मुक्केबाज़ी में एक ऐतिहासिक स्वर्ण पदक हासिल किया।"
+        "en": "Indian wrestler Aman Sehrawat won a gold medal at the Asian Games. It was noted that he had kept a picture of the Asian Games gold as his phone's screensaver to manifest his victory.",
+        "hi": "भारतीय पहलवान अमन सहरावत ने एशियाई खेलों में स्वर्ण पदक जीता। यह ध्यान दिया गया कि उन्होंने अपनी जीत की कामना के लिए एशियाई खेलों के स्वर्ण पदक की तस्वीर को अपने फोन के स्क्रीनसेवर के रूप में रखा था।"
       },
       "category": "Sports",
       "difficulty": "easy",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games-2026/i-wanted-to-quit-boxing-lovlina-borgohain-fights-through-tough-year-to-script-historic-asian-games-gold/articleshow/134634903.cms"
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games-2026/screensaver-turns-real-aman-sehrawats-gold-on-phone-now-around-his-neck/articleshow/134663713.cms"
+    },
+    {
+      "id": "ca_20261004_09",
+      "question": {
+        "en": "Recently, scientists identified 57 new deep-sea species, including a translucent sea cucumber nicknamed 'Loki', in the Mar del Plata Canyon belonging to which country?",
+        "hi": "हाल ही में, वैज्ञानिकों ने किस देश से संबंधित मार डेल प्लाटा कैन्यन (Mar del Plata Canyon) में 57 नई गहरे समुद्र की प्रजातियों की पहचान की है, जिसमें 'लोकी' उपनाम वाला एक पारदर्शी समुद्री ककड़ी (sea cucumber) भी शामिल है?"
+      },
+      "options": [
+        {
+          "en": "Brazil",
+          "hi": "ब्राज़ील"
+        },
+        {
+          "en": "Chile",
+          "hi": "चिली"
+        },
+        {
+          "en": "Argentina",
+          "hi": "अर्जेंटीना"
+        },
+        {
+          "en": "Peru",
+          "hi": "पेरू"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Scientists explored the depths using remotely operated vehicles and discovered 57 new deep-sea species in Argentina's Mar del Plata Canyon, which included the translucent sea cucumber 'Loki'.",
+        "hi": "वैज्ञानिकों ने दूर से संचालित वाहनों (ROV) का उपयोग करके गहराई का पता लगाया और अर्जेंटीना के मार डेल प्लाटा कैन्यन में 57 नई गहरे समुद्र की प्रजातियों की खोज की, जिसमें पारदर्शी समुद्री ककड़ी 'लोकी' शामिल थी।"
+      },
+      "category": "Environment & Ecology",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/science/wildlife/scientists-identified-57-new-deep-sea-species-from-argentinas-mar-del-plata-canyon-including-a-translucent-sea-cucumber-nicknamed-loki-after-remotely-operated-vehicles-explored-the-depths/articleshow/134635884.cms"
+    },
+    {
+      "id": "ca_20261004_10",
+      "question": {
+        "en": "Which US state has committed $89 million to restore and clean the polluted Detroit and Kalamazoo rivers by the year 2040?",
+        "hi": "किस अमेरिकी राज्य ने वर्ष 2040 तक प्रदूषित डेट्रॉइट और कलामज़ू (Kalamazoo) नदियों को बहाल करने और साफ करने के लिए $89 मिलियन खर्च करने की प्रतिबद्धता जताई है?"
+      },
+      "options": [
+        {
+          "en": "Ohio",
+          "hi": "ओहायो"
+        },
+        {
+          "en": "Illinois",
+          "hi": "इलिनोइस"
+        },
+        {
+          "en": "Michigan",
+          "hi": "मिशिगन"
+        },
+        {
+          "en": "Indiana",
+          "hi": "इंडियाना"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "To combat decades of industrial pollution involving PCBs and mercury, the state of Michigan has committed $89 million to clean and fully restore the Detroit and Kalamazoo rivers by 2040.",
+        "hi": "पीसीबी (PCBs) और पारे से जुड़े दशकों के औद्योगिक प्रदूषण से निपटने के लिए, मिशिगन राज्य ने 2040 तक डेट्रॉइट और कलामज़ू नदियों को साफ करने और पूरी तरह से बहाल करने के लिए $89 मिलियन की प्रतिबद्धता जताई है।"
+      },
+      "category": "Environment & Ecology",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/science/nature/decades-of-industrial-pollution-left-michigans-detroit-and-kalamazoo-rivers-contaminated-with-pcbs-mercury-and-other-chemicals-the-state-is-now-committing-89-million-to-clean-and-restore-the-waterways-by-2040/articleshow/134637191.cms"
     }
   ]
 }
