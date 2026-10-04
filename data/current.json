@@ -1,340 +1,340 @@
 {
-  "date": "2026-10-04",
+  "date": "2026-10-05",
   "topic": "SSC CGL Daily Current Affairs",
-  "source": "The Hindu / Times of India",
-  "lastUpdated": "2026-10-04T06:00:00+05:30",
+  "source": "The Hindu / Times of India / PIB",
+  "lastUpdated": "2026-10-05T06:00:00+05:30",
   "version": 1,
   "totalQuestions": 10,
   "quiz": [
     {
-      "id": "ca_20261004_01",
+      "id": "ca_20261005_01",
       "question": {
-        "en": "Recently, Sebi chairman Tuhin Kanta Pandey revealed transformative changes to which mechanism based on feedback from over 3,500 participants?",
-        "hi": "हाल ही में, सेबी के अध्यक्ष तुहिन कांता पांडे ने 3,500 से अधिक प्रतिभागियों की प्रतिक्रिया के आधार पर किस तंत्र में परिवर्तनकारी बदलावों का खुलासा किया?"
+        "en": "Recently, IIT-Gandhinagar scientists successfully demonstrated India's first free-space quantum-key distribution (QKD) link over a distance of 5.56 km. Which Indian institution collaborated closely with IIT-Gandhinagar on earlier quantum communication projects?",
+        "hi": "हाल ही में, IIT-गांधीनगर के वैज्ञानिकों ने 5.56 किमी की दूरी पर भारत के पहले फ्री-स्पेस क्वांटम-की डिस्ट्रीब्यूशन (QKD) लिंक का सफलतापूर्वक प्रदर्शन किया। पहले के क्वांटम संचार परियोजनाओं पर IIT-गांधीनगर के साथ किस भारतीय संस्थान ने निकटता से सहयोग किया था?"
       },
       "options": [
         {
-          "en": "Initial Public Offering (IPO) pricing",
-          "hi": "आरंभिक सार्वजनिक पेशकश (IPO) मूल्य निर्धारण"
+          "en": "ISRO",
+          "hi": "इसरो"
         },
         {
-          "en": "Closing Auction Session mechanism",
-          "hi": "क्लोजिंग ऑक्शन सेशन (Closing Auction Session) तंत्र"
+          "en": "DRDO",
+          "hi": "डीआरडीओ"
         },
         {
-          "en": "Mutual Fund expense ratio limits",
-          "hi": "म्यूचुअल फंड व्यय अनुपात सीमा"
+          "en": "IISc Bangalore",
+          "hi": "IISc बैंगलोर"
         },
         {
-          "en": "Foreign Portfolio Investor (FPI) registration",
-          "hi": "विदेशी पोर्टफोलियो निवेशक (FPI) पंजीकरण"
+          "en": "TIFR",
+          "hi": "टीआईएफआर"
         }
       ],
       "correctAnswer": 1,
       "explanation": {
-        "en": "Sebi chairman Tuhin Kanta Pandey announced transformative changes to the Closing Auction Session mechanism, updating settlement prices for index and stock derivatives to invigorate the corporate bond derivatives market.",
-        "hi": "सेबी के अध्यक्ष तुहिन कांता पांडे ने कॉर्पोरेट बॉन्ड डेरिवेटिव बाजार को मजबूत करने के लिए सूचकांक और स्टॉक डेरिवेटिव के निपटान मूल्यों को अद्यतन करते हुए 'क्लोजिंग ऑक्शन सेशन' तंत्र में परिवर्तनकारी बदलावों की घोषणा की।"
+        "en": "IIT-Gandhinagar successfully demonstrated India’s first free-space quantum-key distribution (QKD) link over 5.56 km. This breakthrough advances secure quantum communication in India. DRDO has been a key partner in developing QKD technologies indigenously.",
+        "hi": "IIT-गांधीनगर ने 5.56 किमी तक भारत के पहले फ्री-स्पेस क्वांटम-की डिस्ट्रीब्यूशन (QKD) लिंक का सफलतापूर्वक प्रदर्शन किया। यह सफलता भारत में सुरक्षित क्वांटम संचार को आगे बढ़ाती है। स्वदेशी रूप से QKD तकनीकों को विकसित करने में DRDO एक प्रमुख भागीदार रहा है।"
       },
-      "category": "Economy & Banking",
+      "category": "Science & Technology",
       "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/over-3500-responses-on-cas-sebi-to-quickly-move-ahead-with-proposals/articleshow/134656121.cms"
+      "sourceUrl": "https://www.thehindu.com/sci-tech/science/feeder/default.rss"
     },
     {
-      "id": "ca_20261004_02",
+      "id": "ca_20261005_02",
       "question": {
-        "en": "India recently thrashed which country 5-1 to win back-to-back Asian Games men's hockey gold and secure a spot for the LA28 Olympics?",
-        "hi": "भारत ने हाल ही में किस देश को 5-1 से हराकर लगातार दूसरा एशियाई खेलों का पुरुष हॉकी स्वर्ण पदक जीता और LA28 (एलए28) ओलंपिक के लिए जगह पक्की की?"
+        "en": "The Petroleum and Natural Gas Regulatory Board (PNGRB) recently launched 'National PNG Drive 3.0'. What is the primary target for new piped gas connections under this phase?",
+        "hi": "पेट्रोलियम और प्राकृतिक गैस नियामक बोर्ड (PNGRB) ने हाल ही में 'नेशनल PNG ड्राइव 3.0' लॉन्च किया है। इस चरण के तहत नए पाइप्ड गैस कनेक्शन का प्राथमिक लक्ष्य क्या है?"
       },
       "options": [
         {
-          "en": "Pakistan",
-          "hi": "पाकिस्तान"
+          "en": "20 Lakh",
+          "hi": "20 लाख"
         },
         {
-          "en": "South Korea",
-          "hi": "दक्षिण कोरिया"
+          "en": "30 Lakh",
+          "hi": "30 लाख"
         },
         {
-          "en": "Malaysia",
-          "hi": "मलेशिया"
+          "en": "40 Lakh",
+          "hi": "40 लाख"
         },
         {
-          "en": "Japan",
-          "hi": "जापान"
+          "en": "50 Lakh",
+          "hi": "50 लाख"
+        }
+      ],
+      "correctAnswer": 3,
+      "explanation": {
+        "en": "The National PNG Drive 3.0 aims to add 50 lakh new piped natural gas (PNG) connections by the end of fiscal year 2027. It also targets converting 40 lakh unbilled connections to active users, enhancing gas network utilization.",
+        "hi": "नेशनल पीएनजी ड्राइव 3.0 का लक्ष्य वित्तीय वर्ष 2027 के अंत तक 50 लाख नए पाइप्ड प्राकृतिक गैस (PNG) कनेक्शन जोड़ना है। यह 40 लाख बिना बिल वाले कनेक्शनों को सक्रिय उपयोगकर्ताओं में बदलने का भी लक्ष्य रखता है, जिससे गैस नेटवर्क के उपयोग में वृद्धि हो।"
+      },
+      "category": "Government Schemes",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/business/Economy/feeder/default.rss"
+    },
+    {
+      "id": "ca_20261005_03",
+      "question": {
+        "en": "Who recently won the Impact Player award as India clinched the ODI series against West Indies?",
+        "hi": "हाल ही में भारत द्वारा वेस्टइंडीज के खिलाफ वनडे सीरीज जीतने पर इम्पैक्ट प्लेयर का पुरस्कार किसने जीता?"
+      },
+      "options": [
+        {
+          "en": "Virat Kohli",
+          "hi": "विराट कोहली"
+        },
+        {
+          "en": "Rohit Sharma",
+          "hi": "रोहित शर्मा"
+        },
+        {
+          "en": "Kuldeep Yadav",
+          "hi": "कुलदीप यादव"
+        },
+        {
+          "en": "Jasprit Bumrah",
+          "hi": "जसप्रीत बुमराह"
         }
       ],
       "correctAnswer": 2,
       "explanation": {
-        "en": "India crushed Malaysia 5-1 in the final to win back-to-back Asian Games men's hockey gold medals and seal their qualification for the 2028 Los Angeles Olympics.",
-        "hi": "भारत ने फाइनल में मलेशिया को 5-1 से हराकर लगातार दूसरा एशियाई खेलों का पुरुष हॉकी स्वर्ण पदक जीता और 2028 लॉस एंजिल्स ओलंपिक के लिए अपनी योग्यता पक्की की।"
+        "en": "Kuldeep Yadav won the Impact Player award for his exceptional bowling performance that helped India secure the ODI series victory against the West Indies.",
+        "hi": "कुलदीप यादव ने अपने असाधारण गेंदबाजी प्रदर्शन के लिए इम्पैक्ट प्लेयर का पुरस्कार जीता, जिसने भारत को वेस्टइंडीज के खिलाफ वनडे सीरीज जीतने में मदद की।"
       },
       "category": "Sports",
       "difficulty": "easy",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games-2026/india-thrash-malaysia-5-1-to-win-back-to-back-asian-games-mens-hockey-gold-for-first-time-seal-la28-olympics-spot/articleshow/134658406.cms"
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbHp1U2gwN3pUTUJoaW9mUGZOblNlZ0N3OWVOeDBydHAxU3J5d0JrQTBYeExYalBBN291ZHEyQ2NncTRaZHBXcVhlU1NhdDg2VXlwLXRDNGVWU3dJaldZWHdHVVRCNGxxdjVRQ2taR2kzY1BKVTJZX01DXzdleU9WY09BcVRDWHhXQWRFSllpZW9uMW5XbGtjQjhSTHhINGRmdkxnTDBtV2tmZw?oc=5"
     },
     {
-      "id": "ca_20261004_03",
+      "id": "ca_20261005_04",
       "question": {
-        "en": "Astronomers have recently detected radio waves originating from a planet located how far away from Earth?",
-        "hi": "खगोलविदों ने हाल ही में पृथ्वी से कितनी दूर स्थित एक ग्रह से उत्पन्न होने वाली रेडियो तरंगों का पता लगाया है?"
+        "en": "Justice Ujjal Bhuyan recently stated that 'SIR strikes at heart of Constitution'. What does 'SIR' refer to in the context of this statement?",
+        "hi": "न्यायमूर्ति उज्जल भुइयां ने हाल ही में कहा कि 'SIR संविधान के मूल पर प्रहार करता है'। इस कथन के संदर्भ में 'SIR' का क्या अर्थ है?"
       },
       "options": [
         {
-          "en": "42 light-years",
-          "hi": "42 प्रकाश वर्ष"
+          "en": "State Internal Regulation",
+          "hi": "राज्य आंतरिक विनियमन (State Internal Regulation)"
         },
         {
-          "en": "63 light-years",
-          "hi": "63 प्रकाश वर्ष"
+          "en": "Special Intensive Revision",
+          "hi": "विशेष गहन संशोधन (Special Intensive Revision)"
         },
         {
-          "en": "85 light-years",
-          "hi": "85 प्रकाश वर्ष"
+          "en": "Supreme Investigative Review",
+          "hi": "सर्वोच्च खोजी समीक्षा (Supreme Investigative Review)"
         },
         {
-          "en": "100 light-years",
-          "hi": "100 प्रकाश वर्ष"
+          "en": "Systematic Institutional Reform",
+          "hi": "व्यवस्थित संस्थागत सुधार (Systematic Institutional Reform)"
         }
       ],
       "correctAnswer": 1,
       "explanation": {
-        "en": "Astronomers have detected an unusual signal consisting of radio waves from a planet located 63 light-years away, marking a significant milestone in exoplanet research.",
-        "hi": "खगोलविदों ने 63 प्रकाश-वर्ष दूर स्थित एक ग्रह से रेडियो तरंगों से युक्त एक असामान्य संकेत का पता लगाया है, जो एक्सोप्लैनेट अनुसंधान में एक महत्वपूर्ण मील का पत्थर है।"
+        "en": "Supreme Court judge Justice Ujjal Bhuyan condemned the extensive deletion of voter names from electoral rolls due to the Special Intensive Revision (SIR) process, stating it disenfranchises millions and undermines constitutional principles.",
+        "hi": "सुप्रीम कोर्ट के न्यायाधीश न्यायमूर्ति उज्जल भुइयां ने विशेष गहन संशोधन (SIR) प्रक्रिया के कारण मतदाता सूची से लाखों मतदाताओं के नाम हटाए जाने की निंदा की, और कहा कि यह संवैधानिक सिद्धांतों को कमजोर करता है।"
       },
-      "category": "Science & Technology",
-      "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/science/a-signal-from-beyond-astronomers-detect-radio-waves-from-a-planet-63-light-years-away/articleshow/134654964.cms"
-    },
-    {
-      "id": "ca_20261004_04",
-      "question": {
-        "en": "In a recent friendly match in Kolkata, the Indian football team (Blue Tigers) lost 0-4 to which five-time FIFA World Cup champion nation?",
-        "hi": "कोलकाता में हाल ही में हुए एक मैत्रीपूर्ण मैच में, भारतीय फुटबॉल टीम (ब्लू टाइगर्स) को पांच बार के किस फीफा विश्व कप चैंपियन देश से 0-4 से हार का सामना करना पड़ा?"
-      },
-      "options": [
-        {
-          "en": "Argentina",
-          "hi": "अर्जेंटीना"
-        },
-        {
-          "en": "Germany",
-          "hi": "जर्मनी"
-        },
-        {
-          "en": "Brazil",
-          "hi": "ब्राज़ील"
-        },
-        {
-          "en": "Italy",
-          "hi": "इटली"
-        }
-      ],
-      "correctAnswer": 2,
-      "explanation": {
-        "en": "In a historic friendly match held in Kolkata, the Indian football team faced a 0-4 defeat against the five-time FIFA World Cup champions, Brazil.",
-        "hi": "कोलकाता में आयोजित एक ऐतिहासिक मैत्रीपूर्ण मैच में, भारतीय फुटबॉल टीम को पांच बार के फीफा विश्व कप चैंपियन ब्राजील के खिलाफ 0-4 से हार का सामना करना पड़ा।"
-      },
-      "category": "Sports",
-      "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/football/top-stories/india-0-4-brazil-five-time-champions-prove-too-much-for-blue-tigers-in-historic-kolkata-friendly/articleshow/134662961.cms"
-    },
-    {
-      "id": "ca_20261004_05",
-      "question": {
-        "en": "Scientists recently resurrected proteins from extinct mammals to combat drug-resistant bacteria. How old are these resurrected proteins?",
-        "hi": "वैज्ञानिकों ने हाल ही में दवा-प्रतिरोधी बैक्टीरिया से निपटने के लिए विलुप्त स्तनधारियों के प्रोटीन को पुनर्जीवित किया। ये पुनर्जीवित प्रोटीन कितने साल पुराने हैं?"
-      },
-      "options": [
-        {
-          "en": "65 million years old",
-          "hi": "65 मिलियन वर्ष पुराने"
-        },
-        {
-          "en": "100 million years old",
-          "hi": "100 मिलियन वर्ष पुराने"
-        },
-        {
-          "en": "160 million years old",
-          "hi": "160 मिलियन वर्ष पुराने"
-        },
-        {
-          "en": "250 million years old",
-          "hi": "250 मिलियन वर्ष पुराने"
-        }
-      ],
-      "correctAnswer": 2,
-      "explanation": {
-        "en": "Scientists successfully revived 160-million-year-old proteins from extinct mammals. These ancient proteins proved stronger against drug-resistant bacteria than modern human versions, offering hope for new antibiotic research.",
-        "hi": "वैज्ञानिकों ने विलुप्त स्तनधारियों से 160 मिलियन वर्ष पुराने प्रोटीन को सफलतापूर्वक पुनर्जीवित किया। ये प्राचीन प्रोटीन आधुनिक मानव संस्करणों की तुलना में दवा-प्रतिरोधी बैक्टीरिया के खिलाफ अधिक मजबूत साबित हुए, जिससे नए एंटीबायोटिक अनुसंधान की उम्मीद जगी।"
-      },
-      "category": "Science & Technology",
-      "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/science/discovery/scientists-resurrected-160-million-year-old-proteins-from-extinct-mammals-some-were-stronger-against-drug-resistant-bacteria-than-modern-human-versions-raising-new-hopes-for-antibiotic-research/articleshow/134639995.cms"
-    },
-    {
-      "id": "ca_20261004_06",
-      "question": {
-        "en": "According to researchers, an adult Homo erectus fossil newly described from South Africa indicates the species appeared in Africa how many years ago?",
-        "hi": "शोधकर्ताओं के अनुसार, दक्षिण अफ्रीका से प्राप्त एक वयस्क होमो इरेक्टस (Homo erectus) जीवाश्म इंगित करता है कि यह प्रजाति अफ्रीका में कितने वर्ष पहले प्रकट हुई थी?"
-      },
-      "options": [
-        {
-          "en": "1.5 million years ago",
-          "hi": "1.5 मिलियन वर्ष पहले"
-        },
-        {
-          "en": "2 million years ago",
-          "hi": "2 मिलियन वर्ष पहले"
-        },
-        {
-          "en": "2.5 million years ago",
-          "hi": "2.5 मिलियन वर्ष पहले"
-        },
-        {
-          "en": "3 million years ago",
-          "hi": "3 मिलियन वर्ष पहले"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "Researchers have described an adult Homo erectus fossil from South Africa dating back to 2 million years ago, making it 200,000 years older than other known adult fossils of the species.",
-        "hi": "शोधकर्ताओं ने दक्षिण अफ्रीका के एक वयस्क होमो इरेक्टस जीवाश्म का वर्णन किया है जो 2 मिलियन (20 लाख) वर्ष पुराना है, जो इसे इस प्रजाति के अन्य ज्ञात वयस्क जीवाश्मों से 200,000 वर्ष पुराना बनाता है।"
-      },
-      "category": "Science & Technology",
+      "category": "Polity & Governance",
       "difficulty": "hard",
-      "sourceUrl": "https://timesofindia.indiatimes.com/science/archaeology/researchers-described-18-previously-unpublished-hominin-fossils-from-south-africa-including-an-adult-homo-erectus-dated-to-2-million-years-ago-200000-years-older-than-other-known-adult-fossils/articleshow/134633416.cms"
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/sir-strikes-at-heart-of-constitution-supreme-court-judge-justice-ujjal-bhuyan/articleshow/134680179.cms"
     },
     {
-      "id": "ca_20261004_07",
+      "id": "ca_20261005_05",
       "question": {
-        "en": "A 10-year forest restoration project at the 132-acre Towaliga Preserve, in partnership with a data centre, has begun in which US state?",
-        "hi": "डेटा सेंटर के साथ साझेदारी में 132-एकड़ के टोवालिगा प्रिजर्व (Towaliga Preserve) में 10 वर्षीय वन बहाली परियोजना किस अमेरिकी राज्य में शुरू हुई है?"
+        "en": "The World Teachers' Day is observed annually on October 5. Which international organization recently issued a warning about a 44 million teacher shortage globally?",
+        "hi": "विश्व शिक्षक दिवस प्रतिवर्ष 5 अक्टूबर को मनाया जाता है। हाल ही में किस अंतर्राष्ट्रीय संगठन ने विश्व स्तर पर 44 मिलियन शिक्षकों की कमी के बारे में चेतावनी जारी की है?"
       },
       "options": [
         {
-          "en": "California",
-          "hi": "कैलिफोर्निया"
+          "en": "UNICEF",
+          "hi": "यूनिसेफ (UNICEF)"
         },
         {
-          "en": "Florida",
-          "hi": "फ्लोरिडा"
+          "en": "UNESCO",
+          "hi": "यूनेस्को (UNESCO)"
         },
         {
-          "en": "Georgia",
-          "hi": "जॉर्जिया"
+          "en": "World Bank",
+          "hi": "विश्व बैंक"
         },
         {
-          "en": "Michigan",
-          "hi": "मिशिगन"
+          "en": "World Economic Forum",
+          "hi": "विश्व आर्थिक मंच (WEF)"
         }
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 1,
       "explanation": {
-        "en": "The state of Georgia in the US has started a 10-year restoration project of 132 acres at the Towaliga Preserve, utilizing a data centre partnership to rebuild the forest habitat.",
-        "hi": "अमेरिका के जॉर्जिया राज्य ने टोवालिगा प्रिजर्व में 132 एकड़ की 10 वर्षीय बहाली परियोजना शुरू की है, जिसमें वन आवास के पुनर्निर्माण के लिए एक डेटा सेंटर साझेदारी का उपयोग किया गया है।"
+        "en": "World Teachers' Day is observed on October 5. UNESCO has issued a stark warning regarding a global shortage of 44 million teachers, emphasizing the urgent need for investment in the education sector.",
+        "hi": "विश्व शिक्षक दिवस 5 अक्टूबर को मनाया जाता है। यूनेस्को ने शिक्षा क्षेत्र में निवेश की तत्काल आवश्यकता पर जोर देते हुए 44 मिलियन शिक्षकों की वैश्विक कमी के संबंध में एक कड़ी चेतावनी जारी की है।"
+      },
+      "category": "Important Days & Themes",
+      "difficulty": "medium",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPRWdTbmFvdm5rWk1aZ2xDQzJnT3piQnVlckxzaFB1bDFRZTZzNUZ3dGJ4LWhyT2oxTDVyNW1xZzZKY05QWDdxM29OSklMbDlVR2ZHT2ppdGJGOGYyOUxXa0toSE5YbFU2bGFBSTh1N1NoRXlsTExabXhNb2lZYmt3ZWw2RzJVZ280QTZicnZRRmFrNThBUW1NZjVjTldIa1k4aDBjOVY4ZEtkUkY5R2l6R2NjYWlEeGlmVDROY3diVkViblZiZXIwem1xcFcxeEh3bmRVVWJhaDlJRkhLUi1YcjQ2LWdqRGRnQkNseUExVEQ1TDk5Z050TEMxWDBwQWJXWndPbHhYbGxkZ9IBkAJBVV95cUxNVVpaYUJxOGVJSkczMGg3QTNMQWZZVXV2SFVZWU5kTzBPLU8xWlpELXFBdlJVd2tuOFhMRmstM2M4MFFfa3FiclFPOU5mRnVnZ28wbUlMd0NhdWdub2FJY08tWThuWV9nN3dVbHYwN2tLYnB4bWp3T1VnMTZ5dmFjaWhWV2E1TDZKRHUxZGRZN0c5UDVlQmVXTl9OZThNczdfQjJVa2VDQ09TZVFlZENUbXNrWGQ4Mm16b283X1ZsUlZuRzJGTGhBOEFPTmZ5WURyWTk4dTFLbzQzdzc1SFdTeE5OVl81T01GODl4MUR1bTM4TUk2T1paYk9fVFljOTdwb1B6UXVUZFlmV0dDMG1FTg?oc=5"
+    },
+    {
+      "id": "ca_20261005_06",
+      "question": {
+        "en": "Engineers at RMIT University in Australia recently discovered a method to utilize which common waste product in constructing road bases?",
+        "hi": "ऑस्ट्रेलिया में RMIT विश्वविद्यालय के इंजीनियरों ने हाल ही में सड़क निर्माण में किस सामान्य अपशिष्ट उत्पाद का उपयोग करने की एक विधि खोजी है?"
+      },
+      "options": [
+        {
+          "en": "Plastic bottles",
+          "hi": "प्लास्टिक की बोतलें"
+        },
+        {
+          "en": "Single-use face masks",
+          "hi": "सिंगल-यूज़ फेस मास्क"
+        },
+        {
+          "en": "E-waste components",
+          "hi": "ई-कचरा घटक"
+        },
+        {
+          "en": "Rubber tires",
+          "hi": "रबर के टायर"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Engineers mixed shredded single-use face masks with processed building rubble for road bases. About 3 million masks could be used for 1 km of a two-lane road, meeting engineering standards and tackling waste.",
+        "hi": "इंजीनियरों ने सड़क निर्माण के लिए प्रसंस्कृत भवन मलबे के साथ कटे हुए सिंगल-यूज़ फेस मास्क को मिलाया। दो लेन वाली सड़क के 1 किलोमीटर के लिए लगभग 3 मिलियन मास्क का उपयोग किया जा सकता है, जो अपशिष्ट समस्या से निपटता है।"
       },
       "category": "Environment & Ecology",
-      "difficulty": "hard",
-      "sourceUrl": "https://timesofindia.indiatimes.com/science/nature/georgia-has-begun-a-10-year-restoration-of-132-acres-at-towaliga-preserve-using-a-data-centre-partnership-to-rebuild-forest-habitat-on-one-of-henry-countys-largest-undeveloped-properties/articleshow/134638691.cms"
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/science/discovery/in-2021-australian-engineers-mixed-shredded-single-use-face-masks-with-processed-building-rubble-for-road-bases-the-material-met-engineering-standards-and-1-km-of-two-lane-road-could-use-about-3-million-masks/articleshow/134680086.cms"
     },
     {
-      "id": "ca_20261004_08",
+      "id": "ca_20261005_07",
       "question": {
-        "en": "Which Indian wrestler's Asian Games gold medal achievement was highlighted with the phrase 'Screensaver turns real'?",
-        "hi": "किस भारतीय पहलवान के एशियाई खेलों के स्वर्ण पदक की उपलब्धि को 'स्क्रीनसेवर वास्तविक हो गया (Screensaver turns real)' वाक्यांश के साथ उजागर किया गया था?"
+        "en": "In a recent ruling, a federal judge temporarily blocked border wall construction in the Big Bend sector of which river valley to protect landowners' access?",
+        "hi": "हाल ही में एक फैसले में, एक संघीय न्यायाधीश ने जमींदारों की पहुंच की रक्षा के लिए किस नदी घाटी के बिग बेंड सेक्टर में सीमा की दीवार के निर्माण को अस्थायी रूप से रोक दिया?"
       },
       "options": [
         {
-          "en": "Bajrang Punia",
-          "hi": "बजरंग पुनिया"
+          "en": "Colorado River",
+          "hi": "कोलोराडो नदी"
         },
         {
-          "en": "Aman Sehrawat",
-          "hi": "अमन सहरावत"
+          "en": "Rio Grande",
+          "hi": "रियो ग्रांडे"
         },
         {
-          "en": "Ravi Kumar Dahiya",
-          "hi": "रवि कुमार दहिया"
+          "en": "Mississippi River",
+          "hi": "मिसिसिपी नदी"
         },
         {
-          "en": "Deepak Punia",
-          "hi": "दीपक पुनिया"
+          "en": "Ohio River",
+          "hi": "ओहियो नदी"
         }
       ],
       "correctAnswer": 1,
       "explanation": {
-        "en": "Indian wrestler Aman Sehrawat won a gold medal at the Asian Games. It was noted that he had kept a picture of the Asian Games gold as his phone's screensaver to manifest his victory.",
-        "hi": "भारतीय पहलवान अमन सहरावत ने एशियाई खेलों में स्वर्ण पदक जीता। यह ध्यान दिया गया कि उन्होंने अपनी जीत की कामना के लिए एशियाई खेलों के स्वर्ण पदक की तस्वीर को अपने फोन के स्क्रीनसेवर के रूप में रखा था।"
+        "en": "A federal judge temporarily blocked border barrier construction in the Big Bend sector of Texas, as landowners feared the wall would cut off their crucial access to the Rio Grande river.",
+        "hi": "एक संघीय न्यायाधीश ने टेक्सास के बिग बेंड सेक्टर में सीमा की दीवार के निर्माण को अस्थायी रूप से रोक दिया, क्योंकि जमींदारों को डर था कि दीवार रियो ग्रांडे नदी तक उनकी पहुंच को काट देगी।"
+      },
+      "category": "Environment & Ecology",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/texas-landowners-feared-border-barriers-would-cut-off-access-to-the-rio-grande-an-october-2-court-order-now-blocks-construction-in-the-big-bend-sector-while-the-legal-challenge-continues/articleshow/134676172.cms"
+    },
+    {
+      "id": "ca_20261005_08",
+      "question": {
+        "en": "Which state's Chief Minister recently announced plans to implement the Uniform Civil Code (UCC), following Uttarakhand and Gujarat?",
+        "hi": "उत्तराखंड और गुजरात के बाद, हाल ही में किस राज्य के मुख्यमंत्री ने समान नागरिक संहिता (UCC) लागू करने की योजना की घोषणा की है?"
+      },
+      "options": [
+        {
+          "en": "Assam",
+          "hi": "असम"
+        },
+        {
+          "en": "West Bengal",
+          "hi": "पश्चिम बंगाल"
+        },
+        {
+          "en": "Uttar Pradesh",
+          "hi": "उत्तर प्रदेश"
+        },
+        {
+          "en": "Madhya Pradesh",
+          "hi": "मध्य प्रदेश"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "West Bengal's leader Suvendu Adhikari announced plans to implement the Uniform Civil Code (UCC) in the state, becoming the third state after Uttarakhand and Gujarat. A committee led by Justice Ranjana Prakash Desai is drafting the laws.",
+        "hi": "पश्चिम बंगाल के नेता सुवेंदु अधिकारी ने राज्य में समान नागरिक संहिता (UCC) लागू करने की योजना की घोषणा की, जो उत्तराखंड और गुजरात के बाद तीसरा राज्य बन जाएगा। न्यायमूर्ति रंजना प्रकाश देसाई के नेतृत्व वाली समिति कानूनों का मसौदा तैयार कर रही है।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/kolkata/bengal-will-be-3rd-state-to-implement-ucc-says-suvendu/articleshow/134676488.cms"
+    },
+    {
+      "id": "ca_20261005_09",
+      "question": {
+        "en": "Which Formula 1 driver recently won the Bahrain Grand Prix, marking his 72nd career victory?",
+        "hi": "हाल ही में किस फॉर्मूला 1 ड्राइवर ने बहरीन ग्रांड प्रिक्स जीता, जो उनके करियर की 72वीं जीत है?"
+      },
+      "options": [
+        {
+          "en": "Lewis Hamilton",
+          "hi": "लुईस हैमिल्टन"
+        },
+        {
+          "en": "Max Verstappen",
+          "hi": "मैक्स वेरस्टैपेन"
+        },
+        {
+          "en": "Charles Leclerc",
+          "hi": "चार्ल्स लेक्लर"
+        },
+        {
+          "en": "Lando Norris",
+          "hi": "लैंडो नॉरिस"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Four-time Formula 1 drivers’ champion Max Verstappen won the Bahrain Grand Prix. This victory marked his first win of the 2026 season and the 72nd win of his decorated career.",
+        "hi": "चार बार के फॉर्मूला 1 ड्राइवर चैंपियन मैक्स वेरस्टैपेन ने बहरीन ग्रांड प्रिक्स जीता। यह जीत उनके 2026 सीज़न की पहली और उनके शानदार करियर की 72वीं जीत है।"
       },
       "category": "Sports",
       "difficulty": "easy",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-games-2026/screensaver-turns-real-aman-sehrawats-gold-on-phone-now-around-his-neck/articleshow/134663713.cms"
+      "sourceUrl": "https://www.thehindu.com/sport/feeder/default.rss"
     },
     {
-      "id": "ca_20261004_09",
+      "id": "ca_20261005_10",
       "question": {
-        "en": "Recently, scientists identified 57 new deep-sea species, including a translucent sea cucumber nicknamed 'Loki', in the Mar del Plata Canyon belonging to which country?",
-        "hi": "हाल ही में, वैज्ञानिकों ने किस देश से संबंधित मार डेल प्लाटा कैन्यन (Mar del Plata Canyon) में 57 नई गहरे समुद्र की प्रजातियों की पहचान की है, जिसमें 'लोकी' उपनाम वाला एक पारदर्शी समुद्री ककड़ी (sea cucumber) भी शामिल है?"
+        "en": "The Union Minister Bhupender Yadav recently congratulated the completion of 18 years of tiger reintroduction in which Tiger Reserve?",
+        "hi": "केंद्रीय मंत्री भूपेंद्र यादव ने हाल ही में किस टाइगर रिज़र्व में बाघ पुनर्वास के 18 वर्ष पूरे होने पर बधाई दी?"
       },
       "options": [
         {
-          "en": "Brazil",
-          "hi": "ब्राज़ील"
+          "en": "Corbett Tiger Reserve",
+          "hi": "कॉर्बेट टाइगर रिज़र्व"
         },
         {
-          "en": "Chile",
-          "hi": "चिली"
+          "en": "Ranthambore Tiger Reserve",
+          "hi": "रणथंभौर टाइगर रिज़र्व"
         },
         {
-          "en": "Argentina",
-          "hi": "अर्जेंटीना"
+          "en": "Sariska Tiger Reserve",
+          "hi": "सरिस्का टाइगर रिज़र्व"
         },
         {
-          "en": "Peru",
-          "hi": "पेरू"
+          "en": "Bandhavgarh Tiger Reserve",
+          "hi": "बांधवगढ़ टाइगर रिज़र्व"
         }
       ],
       "correctAnswer": 2,
       "explanation": {
-        "en": "Scientists explored the depths using remotely operated vehicles and discovered 57 new deep-sea species in Argentina's Mar del Plata Canyon, which included the translucent sea cucumber 'Loki'.",
-        "hi": "वैज्ञानिकों ने दूर से संचालित वाहनों (ROV) का उपयोग करके गहराई का पता लगाया और अर्जेंटीना के मार डेल प्लाटा कैन्यन में 57 नई गहरे समुद्र की प्रजातियों की खोज की, जिसमें पारदर्शी समुद्री ककड़ी 'लोकी' शामिल थी।"
+        "en": "Union Environment Minister Bhupender Yadav congratulated the nation on the successful completion of 18 years of tiger reintroduction in the Sariska Tiger Reserve, Rajasthan, highlighting it as a major conservation milestone.",
+        "hi": "केंद्रीय पर्यावरण मंत्री भूपेंद्र यादव ने राजस्थान के सरिस्का टाइगर रिज़र्व में बाघ पुनर्वास के 18 वर्ष सफलतापूर्वक पूरे होने पर राष्ट्र को बधाई दी, इसे एक प्रमुख संरक्षण उपलब्धि बताया।"
       },
       "category": "Environment & Ecology",
-      "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/science/wildlife/scientists-identified-57-new-deep-sea-species-from-argentinas-mar-del-plata-canyon-including-a-translucent-sea-cucumber-nicknamed-loki-after-remotely-operated-vehicles-explored-the-depths/articleshow/134635884.cms"
-    },
-    {
-      "id": "ca_20261004_10",
-      "question": {
-        "en": "Which US state has committed $89 million to restore and clean the polluted Detroit and Kalamazoo rivers by the year 2040?",
-        "hi": "किस अमेरिकी राज्य ने वर्ष 2040 तक प्रदूषित डेट्रॉइट और कलामज़ू (Kalamazoo) नदियों को बहाल करने और साफ करने के लिए $89 मिलियन खर्च करने की प्रतिबद्धता जताई है?"
-      },
-      "options": [
-        {
-          "en": "Ohio",
-          "hi": "ओहायो"
-        },
-        {
-          "en": "Illinois",
-          "hi": "इलिनोइस"
-        },
-        {
-          "en": "Michigan",
-          "hi": "मिशिगन"
-        },
-        {
-          "en": "Indiana",
-          "hi": "इंडियाना"
-        }
-      ],
-      "correctAnswer": 2,
-      "explanation": {
-        "en": "To combat decades of industrial pollution involving PCBs and mercury, the state of Michigan has committed $89 million to clean and fully restore the Detroit and Kalamazoo rivers by 2040.",
-        "hi": "पीसीबी (PCBs) और पारे से जुड़े दशकों के औद्योगिक प्रदूषण से निपटने के लिए, मिशिगन राज्य ने 2040 तक डेट्रॉइट और कलामज़ू नदियों को साफ करने और पूरी तरह से बहाल करने के लिए $89 मिलियन की प्रतिबद्धता जताई है।"
-      },
-      "category": "Environment & Ecology",
-      "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/science/nature/decades-of-industrial-pollution-left-michigans-detroit-and-kalamazoo-rivers-contaminated-with-pcbs-mercury-and-other-chemicals-the-state-is-now-committing-89-million-to-clean-and-restore-the-waterways-by-2040/articleshow/134637191.cms"
+      "difficulty": "hard",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPd2lwRjhUaE4xWVg1cWdPeDBWRVFpRWlJYzIzRnpJZDMwMEIycThkc1NSaWU5eVhIX3hxNXFUcEM1N1FlSllnQThBUHB0UGxCejJaUVhiaHZ3UElDVTdYOF9WaENfaFVaaVVmU3FySjFlWkViUEJyNmJwVjhOeTk1NDBpVkl0cllES04zb3NSRVpsSWNtNzdHTEx1c1FtV0c3N1J3bi1Zb1QySXQ2NjMzTzloVWFUakRhUHg0TnpNSW43b3RJeVZfdldlTjBsNmFtSUl0bGREVzNhVUlDa2c?oc=5"
     }
   ]
 }
