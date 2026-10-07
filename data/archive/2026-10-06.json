@@ -1,0 +1,340 @@
+{
+  "date": "2026-10-06",
+  "topic": "SSC CGL Daily Current Affairs",
+  "source": "PIB / The Hindu / Economic Times / Indian Express / GKToday",
+  "lastUpdated": "2026-10-06T05:26:08+05:30",
+  "version": 1,
+  "totalQuestions": 10,
+  "quiz": [
+    {
+      "id": "ca_20261006_01",
+      "question": {
+        "en": "Recently, two captive-bred Great Indian Bustards were released into the wild under conservation efforts. In which state did this release take place?",
+        "hi": "हाल ही में, संरक्षण प्रयासों के तहत कैद में पाले गए दो गोडावण (ग्रेट इंडियन बस्टर्ड) को जंगल में छोड़ा गया। यह किस राज्य में किया गया?"
+      },
+      "options": [
+        {
+          "en": "Gujarat",
+          "hi": "गुजरात"
+        },
+        {
+          "en": "Rajasthan",
+          "hi": "राजस्थान"
+        },
+        {
+          "en": "Madhya Pradesh",
+          "hi": "मध्य प्रदेश"
+        },
+        {
+          "en": "Maharashtra",
+          "hi": "महाराष्ट्र"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Two captive-bred Great Indian Bustards, a critically endangered bird species, were released into the wild in Rajasthan. This milestone is the outcome of nearly a decade of conservation efforts by scientists and researchers.",
+        "hi": "गंभीर रूप से संकटग्रस्त पक्षी प्रजाति, गोडावण (ग्रेट इंडियन बस्टर्ड) के दो कैद में पाले गए पक्षियों को राजस्थान के जंगल में छोड़ा गया। यह उपलब्धि वैज्ञानिकों और शोधकर्ताओं के लगभग एक दशक के संरक्षण प्रयासों का परिणाम है।"
+      },
+      "category": "Environment & Ecology",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.thehindu.com/sci-tech/energy-and-environment/two-captive-bred-great-indian-bustards-released-into-wild-in-rajasthan-under-conservation-efforts/article71544023.ece"
+    },
+    {
+      "id": "ca_20261006_02",
+      "question": {
+        "en": "According to the recent National Household Travel Survey, what is the average monthly commuting cost for Indian workers in urban areas?",
+        "hi": "हाल ही में राष्ट्रीय पारिवारिक यात्रा सर्वेक्षण के अनुसार, शहरी क्षेत्रों में भारतीय श्रमिकों के लिए औसत मासिक यात्रा लागत कितनी है?"
+      },
+      "options": [
+        {
+          "en": "Rs 612",
+          "hi": "612 रुपये"
+        },
+        {
+          "en": "Rs 785",
+          "hi": "785 रुपये"
+        },
+        {
+          "en": "Rs 1,044",
+          "hi": "1,044 रुपये"
+        },
+        {
+          "en": "Rs 1,250",
+          "hi": "1,250 रुपये"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "According to the National Household Travel Survey, urban workers face higher commuting costs averaging Rs 1,044, compared to Rs 612 in rural areas. The national average is Rs 785 monthly.",
+        "hi": "राष्ट्रीय पारिवारिक यात्रा सर्वेक्षण के अनुसार, शहरी श्रमिकों को औसतन 1,044 रुपये की उच्च यात्रा लागत का सामना करना पड़ता है, जबकि ग्रामीण क्षेत्रों में यह 612 रुपये है। राष्ट्रीय औसत 785 रुपये मासिक है।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/indian-workers-spend-rs-785-monthly-on-commute-urban-cost-70-higher-govt-survey/articleshow/134715553.cms"
+    },
+    {
+      "id": "ca_20261006_03",
+      "question": {
+        "en": "The first international cargo vessel since 1947 recently left from which river port in eastern Assam?",
+        "hi": "1947 के बाद पहला अंतरराष्ट्रीय मालवाहक जहाज हाल ही में पूर्वी असम के किस नदी बंदरगाह से रवाना हुआ?"
+      },
+      "options": [
+        {
+          "en": "Guwahati",
+          "hi": "गुवाहाटी"
+        },
+        {
+          "en": "Dhubri",
+          "hi": "धुबरी"
+        },
+        {
+          "en": "Silchar",
+          "hi": "सिल्चर"
+        },
+        {
+          "en": "Dibrugarh",
+          "hi": "डिब्रूगढ़"
+        }
+      ],
+      "correctAnswer": 3,
+      "explanation": {
+        "en": "The first international cargo vessel since 1947 left from Dibrugarh, eastern Assam. Once one of India's busiest river ports, Dibrugarh is now eyeing greater movement of goods.",
+        "hi": "1947 के बाद पहला अंतरराष्ट्रीय मालवाहक जहाज पूर्वी असम के डिब्रूगढ़ से रवाना हुआ। कभी भारत के सबसे व्यस्त नदी बंदरगाहों में से एक रहा डिब्रूगढ़ अब माल की अधिक आवाजाही की उम्मीद कर रहा है।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/news/national/assam/first-international-cargo-vessel-leaves-eastern-assam-since-1947/article71547112.ece"
+    },
+    {
+      "id": "ca_20261006_04",
+      "question": {
+        "en": "The Supreme Court recently refused to stay proceedings against a major development project in which island group, citing the preservation of tribal culture as a fundamental right?",
+        "hi": "सुप्रीम कोर्ट ने हाल ही में किस द्वीप समूह में एक प्रमुख विकास परियोजना के खिलाफ कार्यवाही पर रोक लगाने से इनकार कर दिया, जिसमें आदिवासी संस्कृति के संरक्षण को मौलिक अधिकार बताया गया है?"
+      },
+      "options": [
+        {
+          "en": "Lakshadweep Islands",
+          "hi": "लक्षद्वीप द्वीप समूह"
+        },
+        {
+          "en": "Great Nicobar Island",
+          "hi": "ग्रेट निकोबार द्वीप"
+        },
+        {
+          "en": "Majuli Island",
+          "hi": "माजुली द्वीप"
+        },
+        {
+          "en": "Sagar Island",
+          "hi": "सागर द्वीप"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The Supreme Court refused to stay the Calcutta High Court order concerning the Great Nicobar Island project, terming the preservation of the culture of the Shompen and Nicobarese tribes as a fundamental right.",
+        "hi": "सुप्रीम कोर्ट ने ग्रेट निकोबार द्वीप परियोजना के संबंध में कलकत्ता उच्च न्यायालय के आदेश पर रोक लगाने से इनकार कर दिया, और शोम्पेन तथा निकोबारी जनजातियों की संस्कृति के संरक्षण को एक मौलिक अधिकार करार दिया।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/sci-tech/energy-and-environment/supreme-court-refuses-to-stay-calcutta-hc-order-in-great-nicobar-island-project-terms-preservation-of-culture-a-fundamental-right/article71546355.ece"
+    },
+    {
+      "id": "ca_20261006_05",
+      "question": {
+        "en": "India's U17 women's football team registered their biggest-ever win in the Asian Cup qualifiers by defeating which country 14-0?",
+        "hi": "भारत की अंडर-17 महिला फुटबॉल टीम ने एशियाई कप क्वालीफायर में किस देश को 14-0 से हराकर अपनी अब तक की सबसे बड़ी जीत दर्ज की?"
+      },
+      "options": [
+        {
+          "en": "Nepal",
+          "hi": "नेपाल"
+        },
+        {
+          "en": "Sri Lanka",
+          "hi": "श्रीलंका"
+        },
+        {
+          "en": "Iraq",
+          "hi": "इराक"
+        },
+        {
+          "en": "Bangladesh",
+          "hi": "बांग्लादेश"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The India U17 women's football team crushed Iraq 14-0 in their Asian Cup qualifiers, marking their biggest-ever victory, with Anushka Kumari scoring five goals.",
+        "hi": "भारत की अंडर-17 महिला फुटबॉल टीम ने एशियाई कप क्वालीफायर में इराक को 14-0 से करारी शिकस्त दी, जो उनकी अब तक की सबसे बड़ी जीत है। इस मैच में अनुष्का कुमारी ने पांच गोल दागे।"
+      },
+      "category": "Sports",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/football/top-stories/14-0-india-u17-women-crush-iraq-for-biggest-ever-win-in-asian-cup-qualifiers-anushka-hits-five/articleshow/134713161.cms"
+    },
+    {
+      "id": "ca_20261006_06",
+      "question": {
+        "en": "The second Vande Bharat sleeper service is expected to reduce travel time from 24 hours to under 16 hours between which two cities?",
+        "hi": "दूसरी वंदे भारत स्लीपर सेवा से किन दो शहरों के बीच यात्रा का समय 24 घंटे से घटकर 16 घंटे से कम होने की उम्मीद है?"
+      },
+      "options": [
+        {
+          "en": "Delhi and Mumbai",
+          "hi": "दिल्ली और मुंबई"
+        },
+        {
+          "en": "Bengaluru and Mumbai",
+          "hi": "बेंगलुरु और मुंबई"
+        },
+        {
+          "en": "Chennai and Kolkata",
+          "hi": "चेन्नई और कोलकाता"
+        },
+        {
+          "en": "Ahmedabad and Delhi",
+          "hi": "अहमदाबाद और दिल्ली"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "India's second Vande Bharat sleeper train service is set to launch between Bengaluru and Mumbai, drastically cutting travel time from 24 hours down to under 16 hours.",
+        "hi": "भारत की दूसरी वंदे भारत स्लीपर ट्रेन सेवा बेंगलुरु और मुंबई के बीच शुरू होने वाली है, जिससे यात्रा का समय 24 घंटे से घटकर 16 घंटे से कम हो जाएगा।"
+      },
+      "category": "Science & Technology",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/second-vande-bharat-sleeper-set-to-launch-this-month-between-bengaluru-and-mumbai-cutting-travel-time-from-24-hours-to-under-16-hours-30-year-wait-for-faster-connectivity-between-two-cities-to-end/articleshow/134688702.cms"
+    },
+    {
+      "id": "ca_20261006_07",
+      "question": {
+        "en": "What is the interest rate set by the Ministry of Finance for the Public Provident Fund (PPF) for the October-December 2026 quarter?",
+        "hi": "अक्टूबर-दिसंबर 2026 तिमाही के लिए वित्त मंत्रालय द्वारा सार्वजनिक भविष्य निधि (PPF) के लिए निर्धारित ब्याज दर क्या है?"
+      },
+      "options": [
+        {
+          "en": "6.8%",
+          "hi": "6.8%"
+        },
+        {
+          "en": "7.1%",
+          "hi": "7.1%"
+        },
+        {
+          "en": "7.4%",
+          "hi": "7.4%"
+        },
+        {
+          "en": "8.2%",
+          "hi": "8.2%"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The Ministry of Finance has retained the interest rate for the Public Provident Fund (PPF) at 7.1% for the October to December 2026 quarter. The Senior Citizen Savings Scheme (SCSS) remains at 8.2%.",
+        "hi": "वित्त मंत्रालय ने अक्टूबर से दिसंबर 2026 तिमाही के लिए सार्वजनिक भविष्य निधि (PPF) की ब्याज दर को 7.1% पर बरकरार रखा है। वरिष्ठ नागरिक बचत योजना (SCSS) की दर 8.2% बनी हुई है।"
+      },
+      "category": "Government Schemes",
+      "difficulty": "hard",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/ppf-at-7-1-scss-8-2-nsc-7-7-check-small-savings-interest-rates-for-october-december-2026-and-what-investors-will-earn-on-post-office-schemes-like-ssy-time-deposits/articleshow/134704207.cms"
+    },
+    {
+      "id": "ca_20261006_08",
+      "question": {
+        "en": "A committee from the Mecca defence pact involving Turkey, Saudi Arabia, and which other country is scheduled to meet in Riyadh?",
+        "hi": "तुर्की, सऊदी अरब और किस अन्य देश के मक्का रक्षा समझौते की एक समिति की रियाद में बैठक होने वाली है?"
+      },
+      "options": [
+        {
+          "en": "Egypt",
+          "hi": "मिस्र"
+        },
+        {
+          "en": "Iran",
+          "hi": "ईरान"
+        },
+        {
+          "en": "Pakistan",
+          "hi": "पाकिस्तान"
+        },
+        {
+          "en": "UAE",
+          "hi": "यूएई"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "A committee representing the Mecca defence pact, which involves Turkey, Saudi Arabia, and Pakistan, is scheduled to hold a meeting in Riyadh to discuss regional security cooperation.",
+        "hi": "मक्का रक्षा समझौते का प्रतिनिधित्व करने वाली एक समिति, जिसमें तुर्की, सऊदी अरब और पाकिस्तान शामिल हैं, क्षेत्रीय सुरक्षा सहयोग पर चर्चा करने के लिए रियाद में एक बैठक आयोजित करने वाली है।"
+      },
+      "category": "International Summits",
+      "difficulty": "medium",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/defence/turkey-says-mecca-pact-committee-to-meet-in-riyadh-on-october-5/articleshow/134680081.cms"
+    },
+    {
+      "id": "ca_20261006_09",
+      "question": {
+        "en": "The Election Commission of India recently clarified that an additional declaration was introduced to which form without modifying the form itself?",
+        "hi": "भारत निर्वाचन आयोग ने हाल ही में स्पष्ट किया कि फॉर्म में कोई संशोधन किए बिना किस फॉर्म में एक अतिरिक्त घोषणा पत्र पेश किया गया है?"
+      },
+      "options": [
+        {
+          "en": "Form 6",
+          "hi": "फॉर्म 6"
+        },
+        {
+          "en": "Form 7",
+          "hi": "फॉर्म 7"
+        },
+        {
+          "en": "Form 8",
+          "hi": "फॉर्म 8"
+        },
+        {
+          "en": "Form 6B",
+          "hi": "फॉर्म 6B"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "The Election Commission clarified before the Supreme Court that Form 6 for voter registration was not modified; rather, only an additional declaration form was introduced.",
+        "hi": "चुनाव आयोग ने सुप्रीम कोर्ट के समक्ष स्पष्ट किया कि मतदाता पंजीकरण के लिए फॉर्म 6 में कोई संशोधन नहीं किया गया है; बल्कि केवल एक अतिरिक्त घोषणा पत्र पेश किया गया था।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "hard",
+      "sourceUrl": "https://www.thehindu.com/news/national/changes-to-form-6-not-made-by-court-post-retirement-immunity-to-cec-not-given-to-even-judges-supreme-court/article71548231.ece"
+    },
+    {
+      "id": "ca_20261006_10",
+      "question": {
+        "en": "In 2026, a record-breaking number of women cleared the JEE-Advanced examination. Approximately how many women qualified?",
+        "hi": "2026 में, रिकॉर्ड संख्या में महिलाओं ने JEE-एडवांस्ड परीक्षा उत्तीर्ण की। लगभग कितनी महिलाओं ने यह परीक्षा पास की?"
+      },
+      "options": [
+        {
+          "en": "5,000",
+          "hi": "5,000"
+        },
+        {
+          "en": "7,500",
+          "hi": "7,500"
+        },
+        {
+          "en": "10,000",
+          "hi": "10,000"
+        },
+        {
+          "en": "12,000",
+          "hi": "12,000"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Women's success rate in the JEE-Advanced achieved a record high in 2026, with a total of 10,107 (over 10,000) women qualifying the prestigious engineering entrance exam.",
+        "hi": "2026 में JEE-एडवांस्ड में महिलाओं की सफलता दर रिकॉर्ड ऊंचाई पर पहुंच गई, जिसमें कुल 10,107 (10,000 से अधिक) महिलाओं ने इस प्रतिष्ठित इंजीनियरिंग प्रवेश परीक्षा को उत्तीर्ण किया।"
+      },
+      "category": "Science & Technology",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/in-a-record-over-10000-women-clear-jee-advanced/articleshow/134719904.cms"
+    }
+  ]
+}
