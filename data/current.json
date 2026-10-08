@@ -1,120 +1,21 @@
 {
-  "date": "2026-10-08",
+  "date": "2026-10-09",
   "topic": "SSC CGL Daily Current Affairs",
-  "source": "PIB / The Hindu / Economic Times / Indian Express / GKToday",
-  "lastUpdated": "2026-10-08T06:00:00+05:30",
+  "source": "The Hindu / Times of India / Various RSS",
+  "lastUpdated": "2026-10-09T06:00:00+05:30",
   "version": 1,
   "totalQuestions": 10,
   "quiz": [
     {
-      "id": "ca_20261008_01",
+      "id": "ca_20261009_01",
       "question": {
-        "en": "The Reserve Bank of India (RBI) recently announced a hike in the repo rate after 44 months. This move will most likely lead to an increase in which of the following?",
-        "hi": "भारतीय रिजर्व बैंक (RBI) ने हाल ही में 44 महीने के बाद रेपो रेट में बढ़ोतरी की घोषणा की है।इस कदम से संभवतः निम्नलिखित में से किसमें वृद्धि होगी?"
+        "en": "According to the recent WWF Living Planet Report, what percentage of global wildlife decline has been observed since 1970?",
+        "hi": "हाल ही की WWF लिविंग प्लैनेट रिपोर्ट के अनुसार, 1970 के बाद से वैश्विक वन्यजीवों में कितने प्रतिशत की गिरावट देखी गई है?"
       },
       "options": [
         {
-          "en": "Equated Monthly Installments (EMIs) for home loans",
-          "hi": "गृह ऋण के लिए समान मासिक किस्तें (ईएमआई)।"
-        },
-        {
-          "en": "Foreign Direct Investment (FDI) inflows",
-          "hi": "प्रत्यक्ष विदेशी निवेश (एफडीआई) प्रवाह"
-        },
-        {
-          "en": "Government subsidies on agriculture",
-          "hi": "कृषि पर सरकारी सब्सिडी"
-        },
-        {
-          "en": "Exports of manufactured goods",
-          "hi": "विनिर्मित वस्तुओं का निर्यात"
-        }
-      ],
-      "correctAnswer": 0,
-      "explanation": {
-        "en": "The RBI hiked the repo rate after 44 months. The repo rate is the rate at which the RBI lends money to commercial banks. An increase in the repo rate typically leads to banks increasing their lending rates, which in turn increases the Equated Monthly Installments (EMIs) for borrowers, such as home loans.",
-        "hi": "आरबीआई ने 44 महीने बाद रेपो रेट में बढ़ोतरी की है।रेपो रेट वह दर है जिस पर आरबीआई वाणिज्यिक बैंकों को पैसा उधार देता है।रेपो दर में वृद्धि से आम तौर पर बैंक अपनी उधार दरों में वृद्धि करते हैं, जिसके परिणामस्वरूप गृह ऋण जैसे उधारकर्ताओं के लिए समान मासिक किस्तें (ईएमआई) बढ़ जाती हैं।"
-      },
-      "category": "Economy & Banking",
-      "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/loans-set-to-get-dearer-as-rbi-hikes-repo-rate-after-44-months/articleshow/134774530.cms"
-    },
-    {
-      "id": "ca_20261008_02",
-      "question": {
-        "en": "As per the recent RBI directives, the consolidated account statement (CAS) will now include details of which of the following instruments alongside stocks and mutual funds?",
-        "hi": "आरबीआई के हालिया निर्देशों के अनुसार, समेकित खाता विवरण (सीएएस) में अब स्टॉक और म्यूचुअल फंड के साथ-साथ निम्नलिखित में से किस उपकरण का विवरण शामिल होगा?"
-      },
-      "options": [
-        {
-          "en": "Provident Fund (PF) balances",
-          "hi": "भविष्य निधि (पीएफ) शेष"
-        },
-        {
-          "en": "Fixed Deposits (FDs)",
-          "hi": "सावधि जमा (एफडी)"
-        },
-        {
-          "en": "Real Estate holdings",
-          "hi": "रियल एस्टेट होल्डिंग्स"
-        },
-        {
-          "en": "Gold bonds only",
-          "hi": "केवल स्वर्ण बांड"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "The Reserve Bank of India has made financial information easier to access by allowing Account Aggregators to work across platforms. Consequently, Fixed Deposits (FDs) will now be visible in the Consolidated Account Statement (CAS) alongside mutual funds and stocks.",
-        "hi": "भारतीय रिज़र्व बैंक ने अकाउंट एग्रीगेटर्स को विभिन्न प्लेटफार्मों पर काम करने की अनुमति देकर वित्तीय जानकारी तक पहुँच को आसान बना दिया है।नतीजतन, फिक्स्ड डिपॉजिट (एफडी) अब म्यूचुअल फंड और स्टॉक के साथ समेकित खाता विवरण (सीएएस) में दिखाई देंगे।"
-      },
-      "category": "Economy & Banking",
-      "difficulty": "easy",
-      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/rbi-makes-financial-information-easier-to-access-for-you-account-aggregators-to-work-across-platforms-while-fixed-deposits-will-be-visible-in-your-cas-alongside-stocks-and-mutual-funds/articleshow/134762957.cms"
-    },
-    {
-      "id": "ca_20261008_03",
-      "question": {
-        "en": "A recent study by IIM revealed that which government scheme has significantly boosted household income?",
-        "hi": "आईआईएम के एक हालिया अध्ययन से पता चला है कि किस सरकारी योजना ने घरेलू आय में उल्लेखनीय वृद्धि की है?"
-      },
-      "options": [
-        {
-          "en": "PM Kisan Samman Nidhi",
-          "hi": "PM Kisan Samman Nidhi"
-        },
-        {
-          "en": "Lakhpati Didi Scheme",
-          "hi": "Lakhpati Didi Scheme"
-        },
-        {
-          "en": "Ayushman Bharat",
-          "hi": "Ayushman Bharat"
-        },
-        {
-          "en": "MGNREGA",
-          "hi": "एमजीएनआरईजीए"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "A study conducted by the Indian Institute of Management (IIM) highlighted that the 'Lakhpati Didi' scheme has successfully boosted household incomes. The scheme aims to encourage women to start micro-enterprises and earn a sustainable income of at least Rs 1 lakh per annum.",
-        "hi": "भारतीय प्रबंधन संस्थान (आईआईएम) द्वारा किए गए एक अध्ययन में बताया गया है कि 'लखपति दीदी' योजना ने घरेलू आय को सफलतापूर्वक बढ़ाया है।इस योजना का उद्देश्य महिलाओं को सूक्ष्म उद्यम शुरू करने और प्रति वर्ष कम से कम 1 लाख रुपये की स्थायी आय अर्जित करने के लिए प्रोत्साहित करना है।"
-      },
-      "category": "Government Schemes",
-      "difficulty": "medium",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/indicators/lakhpati-didi-scheme-boosts-household-income-iim-study/articleshow/134772860.cms"
-    },
-    {
-      "id": "ca_20261008_04",
-      "question": {
-        "en": "According to the recent Living Planet Report by WWF, what is the reported global decline in monitored wildlife populations since 1970?",
-        "hi": "डब्ल्यूडब्ल्यूएफ की हालिया लिविंग प्लैनेट रिपोर्ट के अनुसार, 1970 के बाद से निगरानी की गई वन्यजीव आबादी में वैश्विक गिरावट क्या है?"
-      },
-      "options": [
-        {
-          "en": "53%",
-          "hi": "53%"
+          "en": "50%",
+          "hi": "50%"
         },
         {
           "en": "63%",
@@ -125,216 +26,315 @@
           "hi": "73%"
         },
         {
-          "en": "83%",
-          "hi": "83%"
+          "en": "85%",
+          "hi": "85%"
         }
       ],
       "correctAnswer": 2,
       "explanation": {
-        "en": "The Living Planet Report by the World Wide Fund for Nature (WWF) has indicated a stark 73% decline in the average size of monitored global wildlife populations since 1970. However, the report also noted that India presents grounds for hope with some recovery gains.",
-        "hi": "वर्ल्ड वाइड फंड फॉर नेचर (डब्ल्यूडब्ल्यूएफ) की लिविंग प्लैनेट रिपोर्ट ने 1970 के बाद से निगरानी की गई वैश्विक वन्यजीव आबादी के औसत आकार में 73% की भारी गिरावट का संकेत दिया है। हालांकि, रिपोर्ट में यह भी कहा गया है कि भारत कुछ सुधार लाभ के साथ आशा का आधार प्रस्तुत करता है।"
+        "en": "The WWF Living Planet Report states that monitored global wildlife populations have declined by an average of 73% since 1970. However, India presents a ground for hope with some recovery gains.",
+        "hi": "WWF लिविंग प्लैनेट रिपोर्ट में कहा गया है कि निगरानी की गई वैश्विक वन्यजीव आबादी में 1970 के बाद से औसतन 73% की गिरावट आई है। हालांकि, भारत कुछ सुधारों के साथ आशा की एक किरण प्रस्तुत करता है।"
       },
       "category": "Environment & Ecology",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "sourceUrl": "https://timesofindia.indiatimes.com/india/stark-73-decline-in-the-average-size-of-monitored-wildlife-populations-since-1970-india-presents-ground-for-hope-wwf-living-planet-report/articleshow/134774319.cms"
     },
     {
-      "id": "ca_20261008_05",
+      "id": "ca_20261009_02",
       "question": {
-        "en": "The Abe Memorial Corridor, honoring former Prime Minister Shinzo Abe and India-Japan ties, was recently inaugurated in which Indian city?",
-        "hi": "पूर्व प्रधान मंत्री शिंजो आबे और भारत-जापान संबंधों का सम्मान करते हुए आबे मेमोरियल कॉरिडोर का हाल ही में किस भारतीय शहर में उद्घाटन किया गया?"
+        "en": "The United States recently sanctioned Indian firms and individuals in connection with which country's oil trade crackdown?",
+        "hi": "संयुक्त राज्य अमेरिका ने हाल ही में किस देश के तेल व्यापार पर कार्रवाई के सिलसिले में भारतीय फर्मों और व्यक्तियों पर प्रतिबंध लगाए हैं?"
       },
       "options": [
         {
-          "en": "Ahmedabad",
-          "hi": "अहमदाबाद"
+          "en": "Russia",
+          "hi": "रूस"
         },
         {
-          "en": "Varanasi",
-          "hi": "वाराणसी"
+          "en": "Iran",
+          "hi": "ईरान"
         },
         {
-          "en": "New Delhi",
-          "hi": "नई दिल्ली"
+          "en": "Venezuela",
+          "hi": "वेनेजुएला"
         },
         {
-          "en": "Kyoto",
-          "hi": "क्योटो"
+          "en": "North Korea",
+          "hi": "उत्तर कोरिया"
         }
       ],
       "correctAnswer": 1,
       "explanation": {
-        "en": "The Abe Memorial Corridor, built to honor the late Japanese Prime Minister Shinzo Abe and to celebrate the strong bilateral ties between India and Japan, was inaugurated in Varanasi, Uttar Pradesh.",
-        "hi": "दिवंगत जापानी प्रधान मंत्री शिंजो आबे के सम्मान में और भारत और जापान के बीच मजबूत द्विपक्षीय संबंधों का जश्न मनाने के लिए बनाए गए आबे मेमोरियल कॉरिडोर का उद्घाटन उत्तर प्रदेश के वाराणसी में किया गया।"
-      },
-      "category": "International Summits",
-      "difficulty": "easy",
-      "sourceUrl": "https://www.thehindu.com/news/national/uttar-pradesh/abe-memorial-corridor-honoring-shinzo-abe-india-japan-ties-inaugurated-in-varanasi/article71557004.ece"
-    },
-    {
-      "id": "ca_20261008_06",
-      "question": {
-        "en": "The 2026 Nobel Prize in Chemistry honors pioneering work related to the science of:",
-        "hi": "रसायन विज्ञान में 2026 का नोबेल पुरस्कार विज्ञान से संबंधित अग्रणी कार्य का सम्मान करता है:"
-      },
-      "options": [
-        {
-          "en": "Quantum dots",
-          "hi": "क्वांटम बिंदु"
-        },
-        {
-          "en": "CRISPR gene editing",
-          "hi": "सीआरआईएसपीआर जीन संपादन"
-        },
-        {
-          "en": "Mirrored molecules",
-          "hi": "प्रतिबिम्बित अणु"
-        },
-        {
-          "en": "Click chemistry",
-          "hi": "रसायन विज्ञान पर क्लिक करें"
-        }
-      ],
-      "correctAnswer": 2,
-      "explanation": {
-        "en": "The 2026 Nobel Prize in Chemistry was awarded for groundbreaking research on 'mirrored molecules' (chiral molecules), which has significant implications in pharmaceuticals and materials science.",
-        "hi": "रसायन विज्ञान में 2026 का नोबेल पुरस्कार 'मिरर किए गए अणुओं' (चिरल अणुओं) पर अभूतपूर्व शोध के लिए प्रदान किया गया, जिसका फार्मास्यूटिकल्स और सामग्री विज्ञान में महत्वपूर्ण प्रभाव है।"
-      },
-      "category": "Awards & Honours",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.thehindu.com/sci-tech/science/nobel-prize-in-chemistry-2026-winner/article71554613.ece"
-    },
-    {
-      "id": "ca_20261008_07",
-      "question": {
-        "en": "According to the recent GST rules, Non-Banking Financial Companies (NBFCs) providing services to banks will attract a Goods and Services Tax (GST) of what percentage?",
-        "hi": "हाल के जीएसटी नियमों के अनुसार, बैंकों को सेवाएं प्रदान करने वाली गैर-बैंकिंग वित्तीय कंपनियों (एनबीएफसी) पर कितने प्रतिशत का माल और सेवा कर (जीएसटी) लगेगा?"
-      },
-      "options": [
-        {
-          "en": "5%",
-          "hi": "5%"
-        },
-        {
-          "en": "12%",
-          "hi": "12%"
-        },
-        {
-          "en": "18%",
-          "hi": "18%"
-        },
-        {
-          "en": "28%",
-          "hi": "28%"
-        }
-      ],
-      "correctAnswer": 2,
-      "explanation": {
-        "en": "Services provided by Non-Banking Financial Companies (NBFCs) to banks will now attract a standard Goods and Services Tax (GST) rate of 18%, impacting the cost of outsourced financial services.",
-        "hi": "गैर-बैंकिंग वित्तीय कंपनियों (एनबीएफसी) द्वारा बैंकों को प्रदान की जाने वाली सेवाओं पर अब 18% की मानक वस्तु एवं सेवा कर (जीएसटी) दर लागू होगी, जिसका असर आउटसोर्स वित्तीय सेवाओं की लागत पर पड़ेगा।"
+        "en": "The US has sanctioned several entities, including Indian firms and individuals, as part of its widening crackdown on Iran's oil trade, aiming to disrupt Iran's revenue streams.",
+        "hi": "ईरान के राजस्व स्रोतों को बाधित करने के उद्देश्य से, अमेरिका ने ईरान के तेल व्यापार पर अपनी कार्रवाई के तहत भारतीय कंपनियों और व्यक्तियों सहित कई संस्थाओं पर प्रतिबंध लगाए हैं।"
       },
       "category": "Economy & Banking",
-      "difficulty": "medium",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/banking/finance/banking/nbfc-services-to-banks-will-attract-18-gst/articleshow/134772282.cms"
+      "difficulty": "hard",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/operation-economic-outcast-us-sanctions-two-mumbai-firms-five-indians-over-alleged-iran-oil-trade/articleshow/134800174.cms"
     },
     {
-      "id": "ca_20261008_08",
+      "id": "ca_20261009_03",
       "question": {
-        "en": "Who has recently been named as India's new captain for the national women's cricket team?",
-        "hi": "हाल ही में राष्ट्रीय महिला क्रिकेट टीम के लिए भारत की नई कप्तान के रूप में किसे नामित किया गया है?"
+        "en": "The GST Council recently announced reforms that scrapped whose arrest powers?",
+        "hi": "जीएसटी (GST) परिषद ने हाल ही में सुधारों की घोषणा की है जिसके तहत किसकी गिरफ्तारी की शक्तियों को समाप्त कर दिया गया है?"
       },
       "options": [
         {
-          "en": "Harmanpreet Kaur",
-          "hi": "हरमनप्रीत कौर"
+          "en": "Police Officers",
+          "hi": "पुलिस अधिकारी"
         },
         {
-          "en": "Smriti Mandhana",
-          "hi": "Smriti Mandhana"
+          "en": "Tax Officers",
+          "hi": "कर अधिकारी"
         },
         {
-          "en": "Mithali Raj",
-          "hi": "Mithali Raj"
+          "en": "CBI Officials",
+          "hi": "सीबीआई अधिकारी"
         },
         {
-          "en": "Jemimah Rodrigues",
-          "hi": "जेमिमा रोड्रिग्स"
+          "en": "ED Officials",
+          "hi": "ईडी अधिकारी"
         }
       ],
       "correctAnswer": 1,
       "explanation": {
-        "en": "Smriti Mandhana has been appointed as the new captain of the Indian women's cricket team, taking over the leadership role to guide the team in upcoming international fixtures.",
-        "hi": "स्मृति मंधाना को भारतीय महिला क्रिकेट टीम का नया कप्तान नियुक्त किया गया है, जो आगामी अंतरराष्ट्रीय मुकाबलों में टीम का मार्गदर्शन करने के लिए नेतृत्व की भूमिका निभाएंगी।"
+        "en": "The GST Council, led by FM Nirmala Sitharaman, scrapped tax officers' powers to arrest individuals for certain GST offences and eased refund rules as part of significant reforms.",
+        "hi": "वित्त मंत्री निर्मला सीतारमण के नेतृत्व में जीएसटी परिषद ने महत्वपूर्ण सुधारों के तहत कुछ जीएसटी अपराधों के लिए व्यक्तियों को गिरफ्तार करने की कर अधिकारियों की शक्तियों को समाप्त कर दिया और रिफंड नियमों को आसान बना दिया है।"
       },
-      "category": "Sports",
+      "category": "Economy & Banking",
       "difficulty": "easy",
-      "sourceUrl": "https://www.thehindu.com/sport/cricket/smriti-mandhana-indias-new-captain-has-earned-her-job/article71555344.ece"
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/gst-council-scraps-tax-officers-arrest-powers-eases-refund-rules/articleshow/134800724.cms"
     },
     {
-      "id": "ca_20261008_09",
+      "id": "ca_20261009_04",
       "question": {
-        "en": "To bolster cybersecurity, the government has asked banks to develop a sector-wide quantum transition plan along with a resilience framework for which technology?",
-        "hi": "साइबर सुरक्षा को मजबूत करने के लिए, सरकार ने बैंकों से किस तकनीक के लिए लचीलेपन ढांचे के साथ-साथ एक सेक्टर-व्यापी क्वांटम संक्रमण योजना विकसित करने के लिए कहा है?"
+        "en": "Which constitutional body's appointment rules in Jharkhand were recently asked to be 'revisited' by the Supreme Court?",
+        "hi": "हाल ही में सुप्रीम कोर्ट ने झारखंड में किस संवैधानिक निकाय के नियुक्ति नियमों की 'समीक्षा' करने के लिए कहा है?"
       },
       "options": [
         {
-          "en": "Blockchain",
-          "hi": "ब्लॉकचेन"
+          "en": "Chief Minister",
+          "hi": "मुख्यमंत्री"
         },
         {
-          "en": "Internet of Things (IoT)",
-          "hi": "इंटरनेट ऑफ थिंग्स (IoT)"
+          "en": "Director General of Police (DGP)",
+          "hi": "पुलिस महानिदेशक (DGP)"
         },
         {
-          "en": "Artificial Intelligence (AI)",
-          "hi": "कृत्रिम बुद्धिमत्ता (एआई)"
+          "en": "State Election Commissioner",
+          "hi": "राज्य चुनाव आयुक्त"
         },
         {
-          "en": "Cloud Computing",
-          "hi": "क्लाउड कम्प्यूटिंग"
+          "en": "Advocate General",
+          "hi": "महाधिवक्ता"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The Supreme Court of India stated that Jharkhand should 'revisit' its rules regarding the appointment of the Director General of Police (DGP), highlighting legal issues surrounding the process.",
+        "hi": "भारत के सर्वोच्च न्यायालय ने कहा कि झारखंड को पुलिस महानिदेशक (DGP) की नियुक्ति से संबंधित अपने नियमों की 'समीक्षा' करनी चाहिए, जिसमें प्रक्रिया से जुड़े कानूनी मुद्दों को उजागर किया गया है।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/jharkhand-should-revisit-dgp-appointment-rules-says-supreme-court/articleshow/134802834.cms"
+    },
+    {
+      "id": "ca_20261009_05",
+      "question": {
+        "en": "For which posts did the IPS quota recently come into force?",
+        "hi": "हाल ही में किन पदों के लिए IPS कोटा लागू हुआ है?"
+      },
+      "options": [
+        {
+          "en": "State Police Cadre",
+          "hi": "राज्य पुलिस संवर्ग"
+        },
+        {
+          "en": "Central Armed Police Forces (CAPF)",
+          "hi": "केंद्रीय सशस्त्र पुलिस बल (CAPF)"
+        },
+        {
+          "en": "CBI Director",
+          "hi": "CBI निदेशक"
+        },
+        {
+          "en": "Intelligence Bureau",
+          "hi": "इंटेलिजेंस ब्यूरो"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "A new quota for Indian Police Service (IPS) officers in Central Armed Police Forces (CAPF) posts has recently come into force, altering the promotion and posting dynamics within the forces.",
+        "hi": "केंद्रीय सशस्त्र पुलिस बलों (CAPF) के पदों में भारतीय पुलिस सेवा (IPS) के अधिकारियों के लिए एक नया कोटा हाल ही में लागू हुआ है, जो बलों के भीतर पदोन्नति और पोस्टिंग की गतिशीलता को बदलता है।"
+      },
+      "category": "Defence & Security",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/ips-quota-in-capf-posts-comes-into-force/articleshow/134802805.cms"
+    },
+    {
+      "id": "ca_20261009_06",
+      "question": {
+        "en": "A recent Oxford study suggests that animal life on Earth may have begun up to how many years earlier than previously thought?",
+        "hi": "ऑक्सफोर्ड के एक हालिया अध्ययन से पता चलता है कि पृथ्वी पर पशु जीवन पहले की तुलना में कितने साल पहले शुरू हुआ होगा?"
+      },
+      "options": [
+        {
+          "en": "50 million years",
+          "hi": "50 मिलियन वर्ष"
+        },
+        {
+          "en": "100 million years",
+          "hi": "100 मिलियन वर्ष"
+        },
+        {
+          "en": "200 million years",
+          "hi": "200 मिलियन वर्ष"
+        },
+        {
+          "en": "500 million years",
+          "hi": "500 मिलियन वर्ष"
         }
       ],
       "correctAnswer": 2,
       "explanation": {
-        "en": "The Indian government has directed banks to formulate a sector-wide quantum transition plan alongside an Artificial Intelligence (AI) resilience framework to mitigate advanced cyber threats and secure the financial ecosystem.",
-        "hi": "भारत सरकार ने बैंकों को उन्नत साइबर खतरों को कम करने और वित्तीय पारिस्थितिकी तंत्र को सुरक्षित करने के लिए आर्टिफिशियल इंटेलिजेंस (एआई) लचीलेपन ढांचे के साथ-साथ एक क्षेत्र-व्यापी क्वांटम संक्रमण योजना तैयार करने का निर्देश दिया है।"
+        "en": "An Oxford-led study suggests that animal life may have evolved 700 to 800 million years ago, up to 200 million years earlier than the clearest fossil records indicate.",
+        "hi": "ऑक्सफोर्ड के नेतृत्व वाले एक अध्ययन से पता चलता है कि जानवरों का जीवन 700 से 800 मिलियन वर्ष पहले विकसित हुआ होगा, जो स्पष्ट जीवाश्म रिकॉर्ड से 200 मिलियन वर्ष पहले है।"
       },
       "category": "Science & Technology",
       "difficulty": "medium",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/banking/finance/banking/govt-asks-banks-to-develop-a-sector-wide-quantum-transition-along-with-an-ai-resilience-framework/articleshow/134772123.cms"
+      "sourceUrl": "https://timesofindia.indiatimes.com/science/archaeology/a-new-oxford-led-study-suggests-animal-life-may-have-begun-700-to-800-million-years-ago-up-to-200-million-years-earlier-than-the-clearest-fossil-record-and-possibly-before-snowball-earth/articleshow/134788319.cms"
     },
     {
-      "id": "ca_20261008_10",
+      "id": "ca_20261009_07",
       "question": {
-        "en": "The Madras High Court recently ruled that loanees do not mortgage which of their rights with banks upon taking a loan?",
-        "hi": "मद्रास उच्च न्यायालय ने हाल ही में फैसला सुनाया कि ऋण लेने पर ऋण लेने वाले अपने कौन से अधिकार बैंकों के पास गिरवी नहीं रखते हैं?"
+        "en": "Which state recently permitted the observance of the first death anniversary of a prime accused in the BSP leader Armstrong murder case?",
+        "hi": "हाल ही में किस राज्य ने बसपा नेता आर्मस्ट्रांग हत्याकांड के मुख्य आरोपी की पहली पुण्यतिथि मनाने की अनुमति दी है?"
       },
       "options": [
         {
-          "en": "Property rights",
-          "hi": "संपत्ति का अधिकार"
+          "en": "Uttar Pradesh",
+          "hi": "उत्तर प्रदेश"
         },
         {
-          "en": "Constitutional rights",
-          "hi": "संवैधानिक अधिकार"
+          "en": "Tamil Nadu",
+          "hi": "तमिलनाडु"
         },
         {
-          "en": "Voting rights",
-          "hi": "मतदान अधिकार"
+          "en": "Kerala",
+          "hi": "केरल"
         },
         {
-          "en": "Consumer rights",
-          "hi": "उपभोक्ता अधिकार"
+          "en": "Karnataka",
+          "hi": "कर्नाटक"
         }
       ],
       "correctAnswer": 1,
       "explanation": {
-        "en": "In a significant observation, the Madras High Court stated that individuals who take loans do not mortgage their fundamental constitutional rights with the lending banks, emphasizing the protection of civil liberties despite financial liabilities.",
-        "hi": "एक महत्वपूर्ण टिप्पणी में, मद्रास उच्च न्यायालय ने वित्तीय देनदारियों के बावजूद नागरिक स्वतंत्रता की सुरक्षा पर जोर देते हुए कहा कि जो व्यक्ति ऋण लेते हैं, वे अपने मौलिक संवैधानिक अधिकारों को ऋण देने वाले बैंकों के पास गिरवी नहीं रखते हैं।"
+        "en": "The Madras High Court in Tamil Nadu permitted the observance of the first death anniversary of Nagendran, the prime accused in the BSP leader Armstrong murder case.",
+        "hi": "तमिलनाडु में मद्रास उच्च न्यायालय ने बसपा नेता आर्मस्ट्रांग हत्याकांड के मुख्य आरोपी नागेंद्रन की पहली पुण्यतिथि मनाने की अनुमति दी।"
       },
       "category": "Polity & Governance",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-permits-observance-of-first-death-anniversary-of-prime-accused-nagendran-in-bsp-leader-armstrong-murder-case/article71560558.ece"
+    },
+    {
+      "id": "ca_20261009_08",
+      "question": {
+        "en": "India recently launched a new jersey for its contingent participating in which upcoming major international sporting event?",
+        "hi": "भारत ने हाल ही में किस आगामी प्रमुख अंतर्राष्ट्रीय खेल आयोजन में भाग लेने वाले अपने दल के लिए एक नई जर्सी लॉन्च की है?"
+      },
+      "options": [
+        {
+          "en": "Olympic Games",
+          "hi": "ओलंपिक खेल"
+        },
+        {
+          "en": "Commonwealth Games",
+          "hi": "राष्ट्रमंडल खेल"
+        },
+        {
+          "en": "Para Asian Games",
+          "hi": "पैरा एशियाई खेल"
+        },
+        {
+          "en": "World Athletics Championships",
+          "hi": "विश्व एथलेटिक्स चैंपियनशिप"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "India gave a warm send-off to its Para Asian Games contingent, with Union Minister Mansukh Mandaviya officially launching the new jersey for the athletes.",
+        "hi": "भारत ने अपने पैरा एशियाई खेलों के दल को भावभीनी विदाई दी, जिसमें केंद्रीय मंत्री मनसुख मंडाविया ने आधिकारिक तौर पर एथलीटों के लिए नई जर्सी लॉन्च की।"
+      },
+      "category": "Sports",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.thehindu.com/sport/indias-para-asian-games-contingent-gets-warm-send-off-mandaviya-launches-new-jersey/article71561604.ece"
+    },
+    {
+      "id": "ca_20261009_09",
+      "question": {
+        "en": "Which country recently reaffirmed that its partnership with India is 'anchored in mutual respect', as stated by S. Jaishankar?",
+        "hi": "हाल ही में किस देश ने इस बात की पुष्टि की है कि भारत के साथ उसकी साझेदारी 'पारस्परिक सम्मान पर आधारित' है, जैसा कि एस. जयशंकर ने कहा है?"
+      },
+      "options": [
+        {
+          "en": "Nigeria",
+          "hi": "नाइजीरिया"
+        },
+        {
+          "en": "Cote d'Ivoire",
+          "hi": "कोटे डी आइवर (आइवरी कोस्ट)"
+        },
+        {
+          "en": "Kenya",
+          "hi": "केन्या"
+        },
+        {
+          "en": "South Africa",
+          "hi": "दक्षिण अफ्रीका"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "External Affairs Minister S. Jaishankar highlighted that the partnership between India and Cote d'Ivoire is anchored in mutual respect, emphasizing growing bilateral ties.",
+        "hi": "विदेश मंत्री एस. जयशंकर ने इस बात पर प्रकाश डाला कि भारत और कोटे डी आइवर (आइवरी कोस्ट) के बीच साझेदारी आपसी सम्मान पर आधारित है, जो बढ़ते द्विपक्षीय संबंधों पर जोर देती है।"
+      },
+      "category": "International Summits",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/news/national/india-cote-divoire-partnership-anchored-in-mutual-respect-jaishankar/article71561466.ece"
+    },
+    {
+      "id": "ca_20261009_10",
+      "question": {
+        "en": "According to scientists, which climate phenomenon may significantly shape India's coming seasons alongside a warmer Indian Ocean?",
+        "hi": "वैज्ञानिकों के अनुसार, कौन सी जलवायु घटना एक गर्म हिंद महासागर के साथ-साथ भारत के आने वाले मौसमों को महत्वपूर्ण रूप से आकार दे सकती है?"
+      },
+      "options": [
+        {
+          "en": "La Niña",
+          "hi": "ला नीना"
+        },
+        {
+          "en": "El Niño",
+          "hi": "अल नीनो"
+        },
+        {
+          "en": "Indian Ocean Dipole",
+          "hi": "हिंद महासागर द्विध्रुव"
+        },
+        {
+          "en": "Madden-Julian Oscillation",
+          "hi": "मैडेन-जूलियन ऑसिलेशन"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Scientists warn that a strong El Niño, combined with a warmer Indian Ocean, may shape India's coming seasons and could amplify extreme weather events.",
+        "hi": "वैज्ञानिकों ने चेतावनी दी है कि एक मजबूत अल नीनो (El Niño), एक गर्म हिंद महासागर के साथ मिलकर, भारत के आने वाले मौसमों को आकार दे सकता है और चरम मौसम की घटनाओं को बढ़ा सकता है।"
+      },
+      "category": "Environment & Ecology",
       "difficulty": "hard",
-      "sourceUrl": "https://www.thehindu.com/news/national/tamil-nadu/loanees-do-not-mortgage-their-constitutional-rights-with-banks-madras-high-court/article71556876.ece"
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/pune/strong-el-nio-may-shape-indias-coming-seasons-warmer-indian-ocean-could-amplify-extremes-scientists/articleshow/134601794.cms"
     }
   ]
 }
