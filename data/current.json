@@ -1,340 +1,340 @@
 {
-  "date": "2026-10-07",
+  "date": "2026-10-08",
   "topic": "SSC CGL Daily Current Affairs",
   "source": "PIB / The Hindu / Economic Times / Indian Express / GKToday",
-  "lastUpdated": "2026-10-07T06:00:00+05:30",
+  "lastUpdated": "2026-10-08T06:00:00+05:30",
   "version": 1,
   "totalQuestions": 10,
   "quiz": [
     {
-      "id": "ca_20261007_01",
+      "id": "ca_20261008_01",
       "question": {
-        "en": "What is the updated growth forecast for India's economy for the financial year 2026-27 (FY27) as per the World Bank's latest report?",
-        "hi": "विश्व बैंक की नवीनतम रिपोर्ट के अनुसार वित्तीय वर्ष 2026-27 (FY27) के लिए भारत की अर्थव्यवस्था के लिए अद्यतन विकास पूर्वानुमान क्या है?"
+        "en": "The Reserve Bank of India (RBI) recently announced a hike in the repo rate after 44 months. This move will most likely lead to an increase in which of the following?",
+        "hi": "भारतीय रिजर्व बैंक (RBI) ने हाल ही में 44 महीने के बाद रेपो रेट में बढ़ोतरी की घोषणा की है।इस कदम से संभवतः निम्नलिखित में से किसमें वृद्धि होगी?"
       },
       "options": [
         {
-          "en": "6.8%",
-          "hi": "6.8%"
+          "en": "Equated Monthly Installments (EMIs) for home loans",
+          "hi": "गृह ऋण के लिए समान मासिक किस्तें (ईएमआई)।"
         },
         {
-          "en": "7.0%",
-          "hi": "7.0%"
+          "en": "Foreign Direct Investment (FDI) inflows",
+          "hi": "प्रत्यक्ष विदेशी निवेश (एफडीआई) प्रवाह"
         },
         {
-          "en": "7.1%",
-          "hi": "7.1%"
+          "en": "Government subsidies on agriculture",
+          "hi": "कृषि पर सरकारी सब्सिडी"
         },
         {
-          "en": "7.5%",
-          "hi": "7.5%"
-        }
-      ],
-      "correctAnswer": 2,
-      "explanation": {
-        "en": "The World Bank has raised India's GDP growth forecast to 7.1% for FY27, up from its earlier projection. This upward revision reflects a robust economic performance driven by resilient domestic demand, manufacturing growth, and strong infrastructure spending.",
-        "hi": "विश्व बैंक ने वित्त वर्ष 2027 के लिए भारत की जीडीपी वृद्धि का अनुमान अपने पहले अनुमान से बढ़ाकर 7.1% कर दिया है।यह ऊपर की ओर संशोधन लचीली घरेलू मांग, विनिर्माण वृद्धि और मजबूत बुनियादी ढांचे के खर्च से प्रेरित एक मजबूत आर्थिक प्रदर्शन को दर्शाता है।"
-      },
-      "category": "Economy & Banking",
-      "difficulty": "medium",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/indicators/world-bank-bumps-up-fy27-india-growth-outlook-to-7-1/articleshow/134749580.cms"
-    },
-    {
-      "id": "ca_20261007_02",
-      "question": {
-        "en": "Who has been appointed as the new Chief of the Air Staff (CAS) of the Indian Air Force, succeeding Air Chief Marshal Amar Preet Singh?",
-        "hi": "एयर चीफ मार्शल अमर प्रीत सिंह के स्थान पर भारतीय वायु सेना के नए वायु सेना प्रमुख (सीएएस) के रूप में किसे नियुक्त किया गया है?"
-      },
-      "options": [
-        {
-          "en": "Air Marshal Sandeep Singh",
-          "hi": "एयर मार्शल संदीप सिंह"
-        },
-        {
-          "en": "Air Marshal Ashutosh Dixit",
-          "hi": "एयर मार्शल आशुतोष दीक्षित"
-        },
-        {
-          "en": "Air Marshal Rakesh Kumar Singh Bhadauria",
-          "hi": "एयर मार्शल राकेश कुमार सिंह भदौरिया"
-        },
-        {
-          "en": "Air Marshal Vivek Ram Chaudhari",
-          "hi": "एयर मार्शल विवेक राम चौधरी"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "Air Marshal Ashutosh Dixit has been appointed as the next Chief of the Indian Air Force. He takes over from Air Chief Marshal Amar Preet Singh, bringing extensive operational and staff experience to lead the nation's air defence forces.",
-        "hi": "एयर मार्शल आशुतोष दीक्षित को भारतीय वायु सेना का अगला प्रमुख नियुक्त किया गया है।उन्होंने एयर चीफ मार्शल अमर प्रीत सिंह से पदभार संभाला है और देश की वायु रक्षा बलों का नेतृत्व करने के लिए व्यापक परिचालन और स्टाफ अनुभव लेकर आए हैं।"
-      },
-      "category": "Appointments & Commissions",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.thehindubusinessline.com/news/national/air-marshal-ashutosh-dixit-appointed-next-iaf-chief/article71552141.ece"
-    },
-    {
-      "id": "ca_20261007_03",
-      "question": {
-        "en": "What is the name of India's first indigenous Fleet Support Ship (FSS), recently launched by Defence Minister Rajnath Singh in Visakhapatnam?",
-        "hi": "भारत के पहले स्वदेशी फ्लीट सपोर्ट शिप (FSS) का नाम क्या है, जिसे हाल ही में रक्षा मंत्री राजनाथ सिंह ने विशाखापत्तनम में लॉन्च किया है?"
-      },
-      "options": [
-        {
-          "en": "INS Vindhyagiri",
-          "hi": "आईएनएस विंध्यगिरि"
-        },
-        {
-          "en": "INS Surya",
-          "hi": "आईएनएस सूर्या"
-        },
-        {
-          "en": "INS Nirdeshak",
-          "hi": "आईएनएस निर्देशक"
-        },
-        {
-          "en": "INS Anvesh",
-          "hi": "आईएनएस अन्वेष"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "Defence Minister Rajnath Singh launched India's first indigenous 43,500-tonne Fleet Support Ship named 'Surya' at Hindustan Shipyard Limited (HSL) in Visakhapatnam. It will significantly enhance the Indian Navy's blue-water capabilities by providing logistical support during long deployments.",
-        "hi": "रक्षा मंत्री राजनाथ सिंह ने विशाखापत्तनम में हिंदुस्तान शिपयार्ड लिमिटेड (एचएसएल) में 'सूर्या' नामक भारत का पहला स्वदेशी 43,500 टन का फ्लीट सपोर्ट जहाज लॉन्च किया।यह लंबी तैनाती के दौरान रसद सहायता प्रदान करके भारतीय नौसेना की समुद्री क्षमताओं में उल्लेखनीय वृद्धि करेगा।"
-      },
-      "category": "Defence & Security",
-      "difficulty": "easy",
-      "sourceUrl": "https://timesofindia.indiatimes.com/defence/news/rajnath-launches-indias-first-fleet-support-ship-surya-at-visakhapatnam-witnesses-delivery-of-2000th-aero-engine-in-koraput/articleshow/134749942.cms"
-    },
-    {
-      "id": "ca_20261007_04",
-      "question": {
-        "en": "Which Indian organisation recently carried out the flight trial of an indigenously developed stratospheric surveillance platform known as HAPS?",
-        "hi": "हाल ही में किस भारतीय संगठन ने HAPS नामक स्वदेशी रूप से विकसित समतापमंडलीय निगरानी मंच का उड़ान परीक्षण किया?"
-      },
-      "options": [
-        {
-          "en": "ISRO",
-          "hi": "इसरो (ISRO)"
-        },
-        {
-          "en": "DRDO",
-          "hi": "डीआरडीओ (DRDO)"
-        },
-        {
-          "en": "HAL",
-          "hi": "एचएएल (HAL)"
-        },
-        {
-          "en": "BHEL",
-          "hi": "भेल (BHEL)"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "The Defence Research and Development Organisation (DRDO) successfully carried out a flight trial of a High-Altitude Pseudo Satellite (HAPS) or high-altitude airship platform. It is a stratospheric surveillance system designed to provide continuous monitoring and communication capabilities over long durations.",
-        "hi": "रक्षा अनुसंधान और विकास संगठन (डीआरडीओ) ने हाई-एल्टीट्यूड स्यूडो सैटेलाइट (एचएपीएस) या हाई-एल्टीट्यूड एयरशिप प्लेटफॉर्म का सफलतापूर्वक उड़ान परीक्षण किया।यह एक समतापमंडलीय निगरानी प्रणाली है जिसे लंबी अवधि तक निरंतर निगरानी और संचार क्षमताएं प्रदान करने के लिए डिज़ाइन किया गया है।"
-      },
-      "category": "Science & Technology",
-      "difficulty": "hard",
-      "sourceUrl": "https://www.thehindubusinessline.com/news/national/drdo-tests-indigenously-developed-stratospheric-surveillance-platform-haps/article71551752.ece"
-    },
-    {
-      "id": "ca_20261007_05",
-      "question": {
-        "en": "The Union Cabinet recently approved the establishment of an SME Growth Fund to boost the micro, small, and medium enterprises sector. What is the total outlay of this fund?",
-        "hi": "केंद्रीय मंत्रिमंडल ने हाल ही में सूक्ष्म, लघु और मध्यम उद्यम क्षेत्र को बढ़ावा देने के लिए एसएमई ग्रोथ फंड की स्थापना को मंजूरी दी है।इस निधि का कुल परिव्यय क्या है?"
-      },
-      "options": [
-        {
-          "en": "Rs 5,000 crore",
-          "hi": "5,000 करोड़ रुपये"
-        },
-        {
-          "en": "Rs 10,000 crore",
-          "hi": "10,000 करोड़ रुपये"
-        },
-        {
-          "en": "Rs 15,000 crore",
-          "hi": "15,000 करोड़ रु"
-        },
-        {
-          "en": "Rs 20,000 crore",
-          "hi": "20,000 करोड़ रु"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "The Union Cabinet has approved the creation of a Rs 10,000-crore SME Growth Fund. This initiative aims to provide vital capital support, stimulate innovation, and foster growth for Small and Medium Enterprises (SMEs) across the country, aligning with the vision of Aatmanirbhar Bharat.",
-        "hi": "केंद्रीय मंत्रिमंडल ने 10,000 करोड़ रुपये के एसएमई ग्रोथ फंड के निर्माण को मंजूरी दे दी है।इस पहल का उद्देश्य आत्मनिर्भर भारत के दृष्टिकोण के अनुरूप देश भर में लघु और मध्यम उद्यमों (एसएमई) के लिए महत्वपूर्ण पूंजी सहायता प्रदान करना, नवाचार को प्रोत्साहित करना और विकास को बढ़ावा देना है।"
-      },
-      "category": "Government Schemes",
-      "difficulty": "easy",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/policy/cabinet-approves-rs-10000-crore-sme-growth-fund-and-new-authority-to-plan-transport-and-logistics/articleshow/134748940.cms"
-    },
-    {
-      "id": "ca_20261007_06",
-      "question": {
-        "en": "To enhance research, development, and planning across transportation and logistics, the Union Cabinet has approved the creation of which new unified authority?",
-        "hi": "परिवहन और लॉजिस्टिक्स में अनुसंधान, विकास और योजना को बढ़ाने के लिए, केंद्रीय मंत्रिमंडल ने किस नए एकीकृत प्राधिकरण के निर्माण को मंजूरी दी है?"
-      },
-      "options": [
-        {
-          "en": "National Transport and Logistics Commission (NTLC)",
-          "hi": "राष्ट्रीय परिवहन और रसद आयोग (NTLC)"
-        },
-        {
-          "en": "Integrated Transport Logistics Authority (ITLA)",
-          "hi": "एकीकृत परिवहन रसद प्राधिकरण (ITLA)"
-        },
-        {
-          "en": "Unified Infrastructure and Transport Board (UITB)",
-          "hi": "एकीकृत बुनियादी ढांचा और परिवहन बोर्ड (UITB)"
-        },
-        {
-          "en": "Gati Shakti Transport Authority (GSTA)",
-          "hi": "गति शक्ति परिवहन प्राधिकरण (GSTA)"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "The Union Cabinet has approved the establishment of the Integrated Transport Logistics Authority (ITLA). This new unified body is designed to reshape infrastructure planning, streamline operations, and boost research and development across India's transportation and logistics sectors.",
-        "hi": "केंद्रीय मंत्रिमंडल ने एकीकृत परिवहन रसद प्राधिकरण (आईटीएलए) की स्थापना को मंजूरी दे दी है।यह नया एकीकृत निकाय भारत के परिवहन और लॉजिस्टिक्स क्षेत्रों में बुनियादी ढांचे की योजना को नया आकार देने, संचालन को सुव्यवस्थित करने और अनुसंधान और विकास को बढ़ावा देने के लिए डिज़ाइन किया गया है।"
-      },
-      "category": "Polity & Governance",
-      "difficulty": "hard",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/policy/cabinet-approves-integrated-transport-logistics-authority-itla-to-enhance-rd-across-transportation-and-logistics/articleshow/134733492.cms"
-    },
-    {
-      "id": "ca_20261007_07",
-      "question": {
-        "en": "Francis Halzen, a pioneer of the IceCube neutrino detector, has been awarded the 2026 Nobel Prize in which field?",
-        "hi": "आइसक्यूब न्यूट्रिनो डिटेक्टर के अग्रणी फ्रांसिस हैलज़ेन को किस क्षेत्र में 2026 नोबेल पुरस्कार से सम्मानित किया गया है?"
-      },
-      "options": [
-        {
-          "en": "Chemistry",
-          "hi": "रसायन विज्ञान"
-        },
-        {
-          "en": "Medicine",
-          "hi": "दवा"
-        },
-        {
-          "en": "Physics",
-          "hi": "भौतिक विज्ञान"
-        },
-        {
-          "en": "Literature",
-          "hi": "साहित्य"
-        }
-      ],
-      "correctAnswer": 2,
-      "explanation": {
-        "en": "The 2026 Nobel Prize in Physics has been awarded to Francis Halzen for his pioneering work on the IceCube Neutrino Observatory. The South Pole-based detector has played a revolutionary role in spotting high-energy cosmic neutrinos, opening a new window into astrophysics.",
-        "hi": "भौतिकी में 2026 का नोबेल पुरस्कार फ्रांसिस हैलज़ेन को आइसक्यूब न्यूट्रिनो वेधशाला पर उनके अग्रणी काम के लिए दिया गया है।दक्षिणी ध्रुव-आधारित डिटेक्टर ने उच्च ऊर्जा वाले ब्रह्मांडीय न्यूट्रिनो का पता लगाने में एक क्रांतिकारी भूमिका निभाई है, जिससे खगोल भौतिकी में एक नई खिड़की खुल गई है।"
-      },
-      "category": "Awards & Honours",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.thehindu.com/sci-tech/science/nobel-prize-in-physics-2026-winner-francis-halzen/article71550081.ece"
-    },
-    {
-      "id": "ca_20261007_08",
-      "question": {
-        "en": "The Ministry of Defence has recently procured BrahMos Fire Control Systems and launchers for the Indian Navy. What is the approximate value of this deal?",
-        "hi": "रक्षा मंत्रालय ने हाल ही में भारतीय नौसेना के लिए ब्रह्मोस फायर कंट्रोल सिस्टम और लॉन्चर खरीदे हैं।इस सौदे का अनुमानित मूल्य क्या है?"
-      },
-      "options": [
-        {
-          "en": "Rs 450 crore",
-          "hi": "450 करोड़ रु"
-        },
-        {
-          "en": "Rs 661 crore",
-          "hi": "661 करोड़ रुपये"
-        },
-        {
-          "en": "Rs 800 crore",
-          "hi": "800 करोड़ रु"
-        },
-        {
-          "en": "Rs 1,200 crore",
-          "hi": "1,200 करोड़ रुपये"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "The Ministry of Defence has signed a Rs 661 crore contract to procure BrahMos Fire Control Systems and launchers for the Indian Navy. This induction will significantly augment the maritime strike capabilities and firepower of naval warships.",
-        "hi": "रक्षा मंत्रालय ने भारतीय नौसेना के लिए ब्रह्मोस फायर कंट्रोल सिस्टम और लॉन्चर की खरीद के लिए 661 करोड़ रुपये के अनुबंध पर हस्ताक्षर किए हैं।इसके शामिल होने से नौसैनिक युद्धपोतों की समुद्री मारक क्षमता और मारक क्षमता में उल्लेखनीय वृद्धि होगी।"
-      },
-      "category": "Defence & Security",
-      "difficulty": "medium",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/defence/indian-navy-to-get-brahmos-launchers-fire-control-systems-in-rs-661-cr-deal/articleshow/134729344.cms"
-    },
-    {
-      "id": "ca_20261007_09",
-      "question": {
-        "en": "The Government of India is planning to widen the coverage of the Index of Services Production (ISP) by including which of the following new sectors?",
-        "hi": "भारत सरकार निम्नलिखित में से किस नए क्षेत्र को शामिल करके सेवा उत्पादन सूचकांक (आईएसपी) का दायरा बढ़ाने की योजना बना रही है?"
-      },
-      "options": [
-        {
-          "en": "Education, Health, and Defence",
-          "hi": "शिक्षा, स्वास्थ्य और रक्षा"
-        },
-        {
-          "en": "IT, Telecom, and Retail",
-          "hi": "आईटी, टेलीकॉम और रिटेल"
-        },
-        {
-          "en": "Agriculture, Forestry, and Fishing",
-          "hi": "कृषि, वानिकी और मत्स्य पालन"
-        },
-        {
-          "en": "Real Estate and Construction",
-          "hi": "रियल एस्टेट और निर्माण"
+          "en": "Exports of manufactured goods",
+          "hi": "विनिर्मित वस्तुओं का निर्यात"
         }
       ],
       "correctAnswer": 0,
       "explanation": {
-        "en": "The Indian government is looking to widen the scope of the Index of Services Production (ISP) by incorporating key sectors such as education, health, and defence. This move aims to provide a more comprehensive and accurate measurement of the country's rapidly growing services sector.",
-        "hi": "भारत सरकार शिक्षा, स्वास्थ्य और रक्षा जैसे प्रमुख क्षेत्रों को शामिल करके सेवा उत्पादन सूचकांक (आईएसपी) का दायरा बढ़ाना चाह रही है।इस कदम का उद्देश्य देश के तेजी से बढ़ते सेवा क्षेत्र का अधिक व्यापक और सटीक माप प्रदान करना है।"
+        "en": "The RBI hiked the repo rate after 44 months. The repo rate is the rate at which the RBI lends money to commercial banks. An increase in the repo rate typically leads to banks increasing their lending rates, which in turn increases the Equated Monthly Installments (EMIs) for borrowers, such as home loans.",
+        "hi": "आरबीआई ने 44 महीने बाद रेपो रेट में बढ़ोतरी की है।रेपो रेट वह दर है जिस पर आरबीआई वाणिज्यिक बैंकों को पैसा उधार देता है।रेपो दर में वृद्धि से आम तौर पर बैंक अपनी उधार दरों में वृद्धि करते हैं, जिसके परिणामस्वरूप गृह ऋण जैसे उधारकर्ताओं के लिए समान मासिक किस्तें (ईएमआई) बढ़ जाती हैं।"
       },
       "category": "Economy & Banking",
       "difficulty": "medium",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/indicators/india-to-widen-services-production-index-to-include-education-health-and-defence/articleshow/134749155.cms"
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/loans-set-to-get-dearer-as-rbi-hikes-repo-rate-after-44-months/articleshow/134774530.cms"
     },
     {
-      "id": "ca_20261007_10",
+      "id": "ca_20261008_02",
       "question": {
-        "en": "Which state has recently launched India's first 'MICE' (Meetings, Incentives, Conferences, and Exhibitions) incentive portal to boost business tourism?",
-        "hi": "हाल ही में किस राज्य ने व्यावसायिक पर्यटन को बढ़ावा देने के लिए भारत का पहला 'MICE' (बैठकें, प्रोत्साहन, सम्मेलन और प्रदर्शनी) प्रोत्साहन पोर्टल लॉन्च किया है?"
+        "en": "As per the recent RBI directives, the consolidated account statement (CAS) will now include details of which of the following instruments alongside stocks and mutual funds?",
+        "hi": "आरबीआई के हालिया निर्देशों के अनुसार, समेकित खाता विवरण (सीएएस) में अब स्टॉक और म्यूचुअल फंड के साथ-साथ निम्नलिखित में से किस उपकरण का विवरण शामिल होगा?"
       },
       "options": [
         {
-          "en": "Gujarat",
-          "hi": "गुजरात"
+          "en": "Provident Fund (PF) balances",
+          "hi": "भविष्य निधि (पीएफ) शेष"
         },
         {
-          "en": "Odisha",
-          "hi": "ओडिशा"
+          "en": "Fixed Deposits (FDs)",
+          "hi": "सावधि जमा (एफडी)"
         },
         {
-          "en": "Maharashtra",
-          "hi": "महाराष्ट्र"
+          "en": "Real Estate holdings",
+          "hi": "रियल एस्टेट होल्डिंग्स"
         },
         {
-          "en": "Kerala",
-          "hi": "केरल"
+          "en": "Gold bonds only",
+          "hi": "केवल स्वर्ण बांड"
         }
       ],
       "correctAnswer": 1,
       "explanation": {
-        "en": "Odisha has launched India's first MICE (Meetings, Incentives, Conferences, and Exhibitions) incentive portal. This strategic initiative is designed to streamline approvals, provide financial incentives, and position the state as a premier destination for corporate events and business tourism.",
-        "hi": "ओडिशा ने भारत का पहला MICE (बैठकें, प्रोत्साहन, सम्मेलन और प्रदर्शनी) प्रोत्साहन पोर्टल लॉन्च किया है।यह रणनीतिक पहल स्वीकृतियों को सुव्यवस्थित करने, वित्तीय प्रोत्साहन प्रदान करने और राज्य को कॉर्पोरेट कार्यक्रमों और व्यावसायिक पर्यटन के लिए एक प्रमुख गंतव्य के रूप में स्थापित करने के लिए डिज़ाइन की गई है।"
+        "en": "The Reserve Bank of India has made financial information easier to access by allowing Account Aggregators to work across platforms. Consequently, Fixed Deposits (FDs) will now be visible in the Consolidated Account Statement (CAS) alongside mutual funds and stocks.",
+        "hi": "भारतीय रिज़र्व बैंक ने अकाउंट एग्रीगेटर्स को विभिन्न प्लेटफार्मों पर काम करने की अनुमति देकर वित्तीय जानकारी तक पहुँच को आसान बना दिया है।नतीजतन, फिक्स्ड डिपॉजिट (एफडी) अब म्यूचुअल फंड और स्टॉक के साथ समेकित खाता विवरण (सीएएस) में दिखाई देंगे।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/rbi-makes-financial-information-easier-to-access-for-you-account-aggregators-to-work-across-platforms-while-fixed-deposits-will-be-visible-in-your-cas-alongside-stocks-and-mutual-funds/articleshow/134762957.cms"
+    },
+    {
+      "id": "ca_20261008_03",
+      "question": {
+        "en": "A recent study by IIM revealed that which government scheme has significantly boosted household income?",
+        "hi": "आईआईएम के एक हालिया अध्ययन से पता चला है कि किस सरकारी योजना ने घरेलू आय में उल्लेखनीय वृद्धि की है?"
+      },
+      "options": [
+        {
+          "en": "PM Kisan Samman Nidhi",
+          "hi": "PM Kisan Samman Nidhi"
+        },
+        {
+          "en": "Lakhpati Didi Scheme",
+          "hi": "Lakhpati Didi Scheme"
+        },
+        {
+          "en": "Ayushman Bharat",
+          "hi": "Ayushman Bharat"
+        },
+        {
+          "en": "MGNREGA",
+          "hi": "एमजीएनआरईजीए"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "A study conducted by the Indian Institute of Management (IIM) highlighted that the 'Lakhpati Didi' scheme has successfully boosted household incomes. The scheme aims to encourage women to start micro-enterprises and earn a sustainable income of at least Rs 1 lakh per annum.",
+        "hi": "भारतीय प्रबंधन संस्थान (आईआईएम) द्वारा किए गए एक अध्ययन में बताया गया है कि 'लखपति दीदी' योजना ने घरेलू आय को सफलतापूर्वक बढ़ाया है।इस योजना का उद्देश्य महिलाओं को सूक्ष्म उद्यम शुरू करने और प्रति वर्ष कम से कम 1 लाख रुपये की स्थायी आय अर्जित करने के लिए प्रोत्साहित करना है।"
       },
       "category": "Government Schemes",
+      "difficulty": "medium",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/indicators/lakhpati-didi-scheme-boosts-household-income-iim-study/articleshow/134772860.cms"
+    },
+    {
+      "id": "ca_20261008_04",
+      "question": {
+        "en": "According to the recent Living Planet Report by WWF, what is the reported global decline in monitored wildlife populations since 1970?",
+        "hi": "डब्ल्यूडब्ल्यूएफ की हालिया लिविंग प्लैनेट रिपोर्ट के अनुसार, 1970 के बाद से निगरानी की गई वन्यजीव आबादी में वैश्विक गिरावट क्या है?"
+      },
+      "options": [
+        {
+          "en": "53%",
+          "hi": "53%"
+        },
+        {
+          "en": "63%",
+          "hi": "63%"
+        },
+        {
+          "en": "73%",
+          "hi": "73%"
+        },
+        {
+          "en": "83%",
+          "hi": "83%"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The Living Planet Report by the World Wide Fund for Nature (WWF) has indicated a stark 73% decline in the average size of monitored global wildlife populations since 1970. However, the report also noted that India presents grounds for hope with some recovery gains.",
+        "hi": "वर्ल्ड वाइड फंड फॉर नेचर (डब्ल्यूडब्ल्यूएफ) की लिविंग प्लैनेट रिपोर्ट ने 1970 के बाद से निगरानी की गई वैश्विक वन्यजीव आबादी के औसत आकार में 73% की भारी गिरावट का संकेत दिया है। हालांकि, रिपोर्ट में यह भी कहा गया है कि भारत कुछ सुधार लाभ के साथ आशा का आधार प्रस्तुत करता है।"
+      },
+      "category": "Environment & Ecology",
+      "difficulty": "hard",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/stark-73-decline-in-the-average-size-of-monitored-wildlife-populations-since-1970-india-presents-ground-for-hope-wwf-living-planet-report/articleshow/134774319.cms"
+    },
+    {
+      "id": "ca_20261008_05",
+      "question": {
+        "en": "The Abe Memorial Corridor, honoring former Prime Minister Shinzo Abe and India-Japan ties, was recently inaugurated in which Indian city?",
+        "hi": "पूर्व प्रधान मंत्री शिंजो आबे और भारत-जापान संबंधों का सम्मान करते हुए आबे मेमोरियल कॉरिडोर का हाल ही में किस भारतीय शहर में उद्घाटन किया गया?"
+      },
+      "options": [
+        {
+          "en": "Ahmedabad",
+          "hi": "अहमदाबाद"
+        },
+        {
+          "en": "Varanasi",
+          "hi": "वाराणसी"
+        },
+        {
+          "en": "New Delhi",
+          "hi": "नई दिल्ली"
+        },
+        {
+          "en": "Kyoto",
+          "hi": "क्योटो"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The Abe Memorial Corridor, built to honor the late Japanese Prime Minister Shinzo Abe and to celebrate the strong bilateral ties between India and Japan, was inaugurated in Varanasi, Uttar Pradesh.",
+        "hi": "दिवंगत जापानी प्रधान मंत्री शिंजो आबे के सम्मान में और भारत और जापान के बीच मजबूत द्विपक्षीय संबंधों का जश्न मनाने के लिए बनाए गए आबे मेमोरियल कॉरिडोर का उद्घाटन उत्तर प्रदेश के वाराणसी में किया गया।"
+      },
+      "category": "International Summits",
       "difficulty": "easy",
-      "sourceUrl": "https://www.thehindubusinessline.com/news/national/odisha-launches-indias-first-mice-incentive-portal-to-boost-business-tourism/article71546343.ece"
+      "sourceUrl": "https://www.thehindu.com/news/national/uttar-pradesh/abe-memorial-corridor-honoring-shinzo-abe-india-japan-ties-inaugurated-in-varanasi/article71557004.ece"
+    },
+    {
+      "id": "ca_20261008_06",
+      "question": {
+        "en": "The 2026 Nobel Prize in Chemistry honors pioneering work related to the science of:",
+        "hi": "रसायन विज्ञान में 2026 का नोबेल पुरस्कार विज्ञान से संबंधित अग्रणी कार्य का सम्मान करता है:"
+      },
+      "options": [
+        {
+          "en": "Quantum dots",
+          "hi": "क्वांटम बिंदु"
+        },
+        {
+          "en": "CRISPR gene editing",
+          "hi": "सीआरआईएसपीआर जीन संपादन"
+        },
+        {
+          "en": "Mirrored molecules",
+          "hi": "प्रतिबिम्बित अणु"
+        },
+        {
+          "en": "Click chemistry",
+          "hi": "रसायन विज्ञान पर क्लिक करें"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The 2026 Nobel Prize in Chemistry was awarded for groundbreaking research on 'mirrored molecules' (chiral molecules), which has significant implications in pharmaceuticals and materials science.",
+        "hi": "रसायन विज्ञान में 2026 का नोबेल पुरस्कार 'मिरर किए गए अणुओं' (चिरल अणुओं) पर अभूतपूर्व शोध के लिए प्रदान किया गया, जिसका फार्मास्यूटिकल्स और सामग्री विज्ञान में महत्वपूर्ण प्रभाव है।"
+      },
+      "category": "Awards & Honours",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/sci-tech/science/nobel-prize-in-chemistry-2026-winner/article71554613.ece"
+    },
+    {
+      "id": "ca_20261008_07",
+      "question": {
+        "en": "According to the recent GST rules, Non-Banking Financial Companies (NBFCs) providing services to banks will attract a Goods and Services Tax (GST) of what percentage?",
+        "hi": "हाल के जीएसटी नियमों के अनुसार, बैंकों को सेवाएं प्रदान करने वाली गैर-बैंकिंग वित्तीय कंपनियों (एनबीएफसी) पर कितने प्रतिशत का माल और सेवा कर (जीएसटी) लगेगा?"
+      },
+      "options": [
+        {
+          "en": "5%",
+          "hi": "5%"
+        },
+        {
+          "en": "12%",
+          "hi": "12%"
+        },
+        {
+          "en": "18%",
+          "hi": "18%"
+        },
+        {
+          "en": "28%",
+          "hi": "28%"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Services provided by Non-Banking Financial Companies (NBFCs) to banks will now attract a standard Goods and Services Tax (GST) rate of 18%, impacting the cost of outsourced financial services.",
+        "hi": "गैर-बैंकिंग वित्तीय कंपनियों (एनबीएफसी) द्वारा बैंकों को प्रदान की जाने वाली सेवाओं पर अब 18% की मानक वस्तु एवं सेवा कर (जीएसटी) दर लागू होगी, जिसका असर आउटसोर्स वित्तीय सेवाओं की लागत पर पड़ेगा।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "medium",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/banking/finance/banking/nbfc-services-to-banks-will-attract-18-gst/articleshow/134772282.cms"
+    },
+    {
+      "id": "ca_20261008_08",
+      "question": {
+        "en": "Who has recently been named as India's new captain for the national women's cricket team?",
+        "hi": "हाल ही में राष्ट्रीय महिला क्रिकेट टीम के लिए भारत की नई कप्तान के रूप में किसे नामित किया गया है?"
+      },
+      "options": [
+        {
+          "en": "Harmanpreet Kaur",
+          "hi": "हरमनप्रीत कौर"
+        },
+        {
+          "en": "Smriti Mandhana",
+          "hi": "Smriti Mandhana"
+        },
+        {
+          "en": "Mithali Raj",
+          "hi": "Mithali Raj"
+        },
+        {
+          "en": "Jemimah Rodrigues",
+          "hi": "जेमिमा रोड्रिग्स"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Smriti Mandhana has been appointed as the new captain of the Indian women's cricket team, taking over the leadership role to guide the team in upcoming international fixtures.",
+        "hi": "स्मृति मंधाना को भारतीय महिला क्रिकेट टीम का नया कप्तान नियुक्त किया गया है, जो आगामी अंतरराष्ट्रीय मुकाबलों में टीम का मार्गदर्शन करने के लिए नेतृत्व की भूमिका निभाएंगी।"
+      },
+      "category": "Sports",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.thehindu.com/sport/cricket/smriti-mandhana-indias-new-captain-has-earned-her-job/article71555344.ece"
+    },
+    {
+      "id": "ca_20261008_09",
+      "question": {
+        "en": "To bolster cybersecurity, the government has asked banks to develop a sector-wide quantum transition plan along with a resilience framework for which technology?",
+        "hi": "साइबर सुरक्षा को मजबूत करने के लिए, सरकार ने बैंकों से किस तकनीक के लिए लचीलेपन ढांचे के साथ-साथ एक सेक्टर-व्यापी क्वांटम संक्रमण योजना विकसित करने के लिए कहा है?"
+      },
+      "options": [
+        {
+          "en": "Blockchain",
+          "hi": "ब्लॉकचेन"
+        },
+        {
+          "en": "Internet of Things (IoT)",
+          "hi": "इंटरनेट ऑफ थिंग्स (IoT)"
+        },
+        {
+          "en": "Artificial Intelligence (AI)",
+          "hi": "कृत्रिम बुद्धिमत्ता (एआई)"
+        },
+        {
+          "en": "Cloud Computing",
+          "hi": "क्लाउड कम्प्यूटिंग"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The Indian government has directed banks to formulate a sector-wide quantum transition plan alongside an Artificial Intelligence (AI) resilience framework to mitigate advanced cyber threats and secure the financial ecosystem.",
+        "hi": "भारत सरकार ने बैंकों को उन्नत साइबर खतरों को कम करने और वित्तीय पारिस्थितिकी तंत्र को सुरक्षित करने के लिए आर्टिफिशियल इंटेलिजेंस (एआई) लचीलेपन ढांचे के साथ-साथ एक क्षेत्र-व्यापी क्वांटम संक्रमण योजना तैयार करने का निर्देश दिया है।"
+      },
+      "category": "Science & Technology",
+      "difficulty": "medium",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/banking/finance/banking/govt-asks-banks-to-develop-a-sector-wide-quantum-transition-along-with-an-ai-resilience-framework/articleshow/134772123.cms"
+    },
+    {
+      "id": "ca_20261008_10",
+      "question": {
+        "en": "The Madras High Court recently ruled that loanees do not mortgage which of their rights with banks upon taking a loan?",
+        "hi": "मद्रास उच्च न्यायालय ने हाल ही में फैसला सुनाया कि ऋण लेने पर ऋण लेने वाले अपने कौन से अधिकार बैंकों के पास गिरवी नहीं रखते हैं?"
+      },
+      "options": [
+        {
+          "en": "Property rights",
+          "hi": "संपत्ति का अधिकार"
+        },
+        {
+          "en": "Constitutional rights",
+          "hi": "संवैधानिक अधिकार"
+        },
+        {
+          "en": "Voting rights",
+          "hi": "मतदान अधिकार"
+        },
+        {
+          "en": "Consumer rights",
+          "hi": "उपभोक्ता अधिकार"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "In a significant observation, the Madras High Court stated that individuals who take loans do not mortgage their fundamental constitutional rights with the lending banks, emphasizing the protection of civil liberties despite financial liabilities.",
+        "hi": "एक महत्वपूर्ण टिप्पणी में, मद्रास उच्च न्यायालय ने वित्तीय देनदारियों के बावजूद नागरिक स्वतंत्रता की सुरक्षा पर जोर देते हुए कहा कि जो व्यक्ति ऋण लेते हैं, वे अपने मौलिक संवैधानिक अधिकारों को ऋण देने वाले बैंकों के पास गिरवी नहीं रखते हैं।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "hard",
+      "sourceUrl": "https://www.thehindu.com/news/national/tamil-nadu/loanees-do-not-mortgage-their-constitutional-rights-with-banks-madras-high-court/article71556876.ece"
     }
   ]
 }
