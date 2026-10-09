@@ -1,0 +1,340 @@
+{
+  "date": "2026-10-09",
+  "topic": "SSC CGL Daily Current Affairs",
+  "source": "The Hindu / Times of India / Various RSS",
+  "lastUpdated": "2026-10-09T06:00:00+05:30",
+  "version": 1,
+  "totalQuestions": 10,
+  "quiz": [
+    {
+      "id": "ca_20261009_01",
+      "question": {
+        "en": "According to the recent WWF Living Planet Report, what percentage of global wildlife decline has been observed since 1970?",
+        "hi": "हाल ही की WWF लिविंग प्लैनेट रिपोर्ट के अनुसार, 1970 के बाद से वैश्विक वन्यजीवों में कितने प्रतिशत की गिरावट देखी गई है?"
+      },
+      "options": [
+        {
+          "en": "50%",
+          "hi": "50%"
+        },
+        {
+          "en": "63%",
+          "hi": "63%"
+        },
+        {
+          "en": "73%",
+          "hi": "73%"
+        },
+        {
+          "en": "85%",
+          "hi": "85%"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The WWF Living Planet Report states that monitored global wildlife populations have declined by an average of 73% since 1970. However, India presents a ground for hope with some recovery gains.",
+        "hi": "WWF लिविंग प्लैनेट रिपोर्ट में कहा गया है कि निगरानी की गई वैश्विक वन्यजीव आबादी में 1970 के बाद से औसतन 73% की गिरावट आई है। हालांकि, भारत कुछ सुधारों के साथ आशा की एक किरण प्रस्तुत करता है।"
+      },
+      "category": "Environment & Ecology",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/stark-73-decline-in-the-average-size-of-monitored-wildlife-populations-since-1970-india-presents-ground-for-hope-wwf-living-planet-report/articleshow/134774319.cms"
+    },
+    {
+      "id": "ca_20261009_02",
+      "question": {
+        "en": "The United States recently sanctioned Indian firms and individuals in connection with which country's oil trade crackdown?",
+        "hi": "संयुक्त राज्य अमेरिका ने हाल ही में किस देश के तेल व्यापार पर कार्रवाई के सिलसिले में भारतीय फर्मों और व्यक्तियों पर प्रतिबंध लगाए हैं?"
+      },
+      "options": [
+        {
+          "en": "Russia",
+          "hi": "रूस"
+        },
+        {
+          "en": "Iran",
+          "hi": "ईरान"
+        },
+        {
+          "en": "Venezuela",
+          "hi": "वेनेजुएला"
+        },
+        {
+          "en": "North Korea",
+          "hi": "उत्तर कोरिया"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The US has sanctioned several entities, including Indian firms and individuals, as part of its widening crackdown on Iran's oil trade, aiming to disrupt Iran's revenue streams.",
+        "hi": "ईरान के राजस्व स्रोतों को बाधित करने के उद्देश्य से, अमेरिका ने ईरान के तेल व्यापार पर अपनी कार्रवाई के तहत भारतीय कंपनियों और व्यक्तियों सहित कई संस्थाओं पर प्रतिबंध लगाए हैं।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "hard",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/operation-economic-outcast-us-sanctions-two-mumbai-firms-five-indians-over-alleged-iran-oil-trade/articleshow/134800174.cms"
+    },
+    {
+      "id": "ca_20261009_03",
+      "question": {
+        "en": "The GST Council recently announced reforms that scrapped whose arrest powers?",
+        "hi": "जीएसटी (GST) परिषद ने हाल ही में सुधारों की घोषणा की है जिसके तहत किसकी गिरफ्तारी की शक्तियों को समाप्त कर दिया गया है?"
+      },
+      "options": [
+        {
+          "en": "Police Officers",
+          "hi": "पुलिस अधिकारी"
+        },
+        {
+          "en": "Tax Officers",
+          "hi": "कर अधिकारी"
+        },
+        {
+          "en": "CBI Officials",
+          "hi": "सीबीआई अधिकारी"
+        },
+        {
+          "en": "ED Officials",
+          "hi": "ईडी अधिकारी"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The GST Council, led by FM Nirmala Sitharaman, scrapped tax officers' powers to arrest individuals for certain GST offences and eased refund rules as part of significant reforms.",
+        "hi": "वित्त मंत्री निर्मला सीतारमण के नेतृत्व में जीएसटी परिषद ने महत्वपूर्ण सुधारों के तहत कुछ जीएसटी अपराधों के लिए व्यक्तियों को गिरफ्तार करने की कर अधिकारियों की शक्तियों को समाप्त कर दिया और रिफंड नियमों को आसान बना दिया है।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/gst-council-scraps-tax-officers-arrest-powers-eases-refund-rules/articleshow/134800724.cms"
+    },
+    {
+      "id": "ca_20261009_04",
+      "question": {
+        "en": "Which constitutional body's appointment rules in Jharkhand were recently asked to be 'revisited' by the Supreme Court?",
+        "hi": "हाल ही में सुप्रीम कोर्ट ने झारखंड में किस संवैधानिक निकाय के नियुक्ति नियमों की 'समीक्षा' करने के लिए कहा है?"
+      },
+      "options": [
+        {
+          "en": "Chief Minister",
+          "hi": "मुख्यमंत्री"
+        },
+        {
+          "en": "Director General of Police (DGP)",
+          "hi": "पुलिस महानिदेशक (DGP)"
+        },
+        {
+          "en": "State Election Commissioner",
+          "hi": "राज्य चुनाव आयुक्त"
+        },
+        {
+          "en": "Advocate General",
+          "hi": "महाधिवक्ता"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The Supreme Court of India stated that Jharkhand should 'revisit' its rules regarding the appointment of the Director General of Police (DGP), highlighting legal issues surrounding the process.",
+        "hi": "भारत के सर्वोच्च न्यायालय ने कहा कि झारखंड को पुलिस महानिदेशक (DGP) की नियुक्ति से संबंधित अपने नियमों की 'समीक्षा' करनी चाहिए, जिसमें प्रक्रिया से जुड़े कानूनी मुद्दों को उजागर किया गया है।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/jharkhand-should-revisit-dgp-appointment-rules-says-supreme-court/articleshow/134802834.cms"
+    },
+    {
+      "id": "ca_20261009_05",
+      "question": {
+        "en": "For which posts did the IPS quota recently come into force?",
+        "hi": "हाल ही में किन पदों के लिए IPS कोटा लागू हुआ है?"
+      },
+      "options": [
+        {
+          "en": "State Police Cadre",
+          "hi": "राज्य पुलिस संवर्ग"
+        },
+        {
+          "en": "Central Armed Police Forces (CAPF)",
+          "hi": "केंद्रीय सशस्त्र पुलिस बल (CAPF)"
+        },
+        {
+          "en": "CBI Director",
+          "hi": "CBI निदेशक"
+        },
+        {
+          "en": "Intelligence Bureau",
+          "hi": "इंटेलिजेंस ब्यूरो"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "A new quota for Indian Police Service (IPS) officers in Central Armed Police Forces (CAPF) posts has recently come into force, altering the promotion and posting dynamics within the forces.",
+        "hi": "केंद्रीय सशस्त्र पुलिस बलों (CAPF) के पदों में भारतीय पुलिस सेवा (IPS) के अधिकारियों के लिए एक नया कोटा हाल ही में लागू हुआ है, जो बलों के भीतर पदोन्नति और पोस्टिंग की गतिशीलता को बदलता है।"
+      },
+      "category": "Defence & Security",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/ips-quota-in-capf-posts-comes-into-force/articleshow/134802805.cms"
+    },
+    {
+      "id": "ca_20261009_06",
+      "question": {
+        "en": "A recent Oxford study suggests that animal life on Earth may have begun up to how many years earlier than previously thought?",
+        "hi": "ऑक्सफोर्ड के एक हालिया अध्ययन से पता चलता है कि पृथ्वी पर पशु जीवन पहले की तुलना में कितने साल पहले शुरू हुआ होगा?"
+      },
+      "options": [
+        {
+          "en": "50 million years",
+          "hi": "50 मिलियन वर्ष"
+        },
+        {
+          "en": "100 million years",
+          "hi": "100 मिलियन वर्ष"
+        },
+        {
+          "en": "200 million years",
+          "hi": "200 मिलियन वर्ष"
+        },
+        {
+          "en": "500 million years",
+          "hi": "500 मिलियन वर्ष"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "An Oxford-led study suggests that animal life may have evolved 700 to 800 million years ago, up to 200 million years earlier than the clearest fossil records indicate.",
+        "hi": "ऑक्सफोर्ड के नेतृत्व वाले एक अध्ययन से पता चलता है कि जानवरों का जीवन 700 से 800 मिलियन वर्ष पहले विकसित हुआ होगा, जो स्पष्ट जीवाश्म रिकॉर्ड से 200 मिलियन वर्ष पहले है।"
+      },
+      "category": "Science & Technology",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/science/archaeology/a-new-oxford-led-study-suggests-animal-life-may-have-begun-700-to-800-million-years-ago-up-to-200-million-years-earlier-than-the-clearest-fossil-record-and-possibly-before-snowball-earth/articleshow/134788319.cms"
+    },
+    {
+      "id": "ca_20261009_07",
+      "question": {
+        "en": "Which state recently permitted the observance of the first death anniversary of a prime accused in the BSP leader Armstrong murder case?",
+        "hi": "हाल ही में किस राज्य ने बसपा नेता आर्मस्ट्रांग हत्याकांड के मुख्य आरोपी की पहली पुण्यतिथि मनाने की अनुमति दी है?"
+      },
+      "options": [
+        {
+          "en": "Uttar Pradesh",
+          "hi": "उत्तर प्रदेश"
+        },
+        {
+          "en": "Tamil Nadu",
+          "hi": "तमिलनाडु"
+        },
+        {
+          "en": "Kerala",
+          "hi": "केरल"
+        },
+        {
+          "en": "Karnataka",
+          "hi": "कर्नाटक"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The Madras High Court in Tamil Nadu permitted the observance of the first death anniversary of Nagendran, the prime accused in the BSP leader Armstrong murder case.",
+        "hi": "तमिलनाडु में मद्रास उच्च न्यायालय ने बसपा नेता आर्मस्ट्रांग हत्याकांड के मुख्य आरोपी नागेंद्रन की पहली पुण्यतिथि मनाने की अनुमति दी।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-permits-observance-of-first-death-anniversary-of-prime-accused-nagendran-in-bsp-leader-armstrong-murder-case/article71560558.ece"
+    },
+    {
+      "id": "ca_20261009_08",
+      "question": {
+        "en": "India recently launched a new jersey for its contingent participating in which upcoming major international sporting event?",
+        "hi": "भारत ने हाल ही में किस आगामी प्रमुख अंतर्राष्ट्रीय खेल आयोजन में भाग लेने वाले अपने दल के लिए एक नई जर्सी लॉन्च की है?"
+      },
+      "options": [
+        {
+          "en": "Olympic Games",
+          "hi": "ओलंपिक खेल"
+        },
+        {
+          "en": "Commonwealth Games",
+          "hi": "राष्ट्रमंडल खेल"
+        },
+        {
+          "en": "Para Asian Games",
+          "hi": "पैरा एशियाई खेल"
+        },
+        {
+          "en": "World Athletics Championships",
+          "hi": "विश्व एथलेटिक्स चैंपियनशिप"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "India gave a warm send-off to its Para Asian Games contingent, with Union Minister Mansukh Mandaviya officially launching the new jersey for the athletes.",
+        "hi": "भारत ने अपने पैरा एशियाई खेलों के दल को भावभीनी विदाई दी, जिसमें केंद्रीय मंत्री मनसुख मंडाविया ने आधिकारिक तौर पर एथलीटों के लिए नई जर्सी लॉन्च की।"
+      },
+      "category": "Sports",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.thehindu.com/sport/indias-para-asian-games-contingent-gets-warm-send-off-mandaviya-launches-new-jersey/article71561604.ece"
+    },
+    {
+      "id": "ca_20261009_09",
+      "question": {
+        "en": "Which country recently reaffirmed that its partnership with India is 'anchored in mutual respect', as stated by S. Jaishankar?",
+        "hi": "हाल ही में किस देश ने इस बात की पुष्टि की है कि भारत के साथ उसकी साझेदारी 'पारस्परिक सम्मान पर आधारित' है, जैसा कि एस. जयशंकर ने कहा है?"
+      },
+      "options": [
+        {
+          "en": "Nigeria",
+          "hi": "नाइजीरिया"
+        },
+        {
+          "en": "Cote d'Ivoire",
+          "hi": "कोटे डी आइवर (आइवरी कोस्ट)"
+        },
+        {
+          "en": "Kenya",
+          "hi": "केन्या"
+        },
+        {
+          "en": "South Africa",
+          "hi": "दक्षिण अफ्रीका"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "External Affairs Minister S. Jaishankar highlighted that the partnership between India and Cote d'Ivoire is anchored in mutual respect, emphasizing growing bilateral ties.",
+        "hi": "विदेश मंत्री एस. जयशंकर ने इस बात पर प्रकाश डाला कि भारत और कोटे डी आइवर (आइवरी कोस्ट) के बीच साझेदारी आपसी सम्मान पर आधारित है, जो बढ़ते द्विपक्षीय संबंधों पर जोर देती है।"
+      },
+      "category": "International Summits",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/news/national/india-cote-divoire-partnership-anchored-in-mutual-respect-jaishankar/article71561466.ece"
+    },
+    {
+      "id": "ca_20261009_10",
+      "question": {
+        "en": "According to scientists, which climate phenomenon may significantly shape India's coming seasons alongside a warmer Indian Ocean?",
+        "hi": "वैज्ञानिकों के अनुसार, कौन सी जलवायु घटना एक गर्म हिंद महासागर के साथ-साथ भारत के आने वाले मौसमों को महत्वपूर्ण रूप से आकार दे सकती है?"
+      },
+      "options": [
+        {
+          "en": "La Niña",
+          "hi": "ला नीना"
+        },
+        {
+          "en": "El Niño",
+          "hi": "अल नीनो"
+        },
+        {
+          "en": "Indian Ocean Dipole",
+          "hi": "हिंद महासागर द्विध्रुव"
+        },
+        {
+          "en": "Madden-Julian Oscillation",
+          "hi": "मैडेन-जूलियन ऑसिलेशन"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Scientists warn that a strong El Niño, combined with a warmer Indian Ocean, may shape India's coming seasons and could amplify extreme weather events.",
+        "hi": "वैज्ञानिकों ने चेतावनी दी है कि एक मजबूत अल नीनो (El Niño), एक गर्म हिंद महासागर के साथ मिलकर, भारत के आने वाले मौसमों को आकार दे सकता है और चरम मौसम की घटनाओं को बढ़ा सकता है।"
+      },
+      "category": "Environment & Ecology",
+      "difficulty": "hard",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/pune/strong-el-nio-may-shape-indias-coming-seasons-warmer-indian-ocean-could-amplify-extremes-scientists/articleshow/134601794.cms"
+    }
+  ]
+}
