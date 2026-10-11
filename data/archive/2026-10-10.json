@@ -1,0 +1,340 @@
+{
+  "date": "2026-10-10",
+  "topic": "SSC CGL Daily Current Affairs",
+  "source": "PIB / The Hindu / Economic Times / Indian Express / GKToday / Times of India",
+  "lastUpdated": "2026-10-10T05:14:23+05:30",
+  "version": 1,
+  "totalQuestions": 10,
+  "quiz": [
+    {
+      "id": "ca_20261010_01",
+      "question": {
+        "en": "The Election Commission of India recently limited the filing of Form 7 for deletion of names from the electoral roll to how many applications per elector?",
+        "hi": "भारत निर्वाचन आयोग ने हाल ही में मतदाता सूची से नाम हटाने के लिए फॉर्म 7 (Form 7) दाखिल करने की सीमा प्रति मतदाता कितने आवेदनों तक सीमित कर दी है?"
+      },
+      "options": [
+        {
+          "en": "5",
+          "hi": "5"
+        },
+        {
+          "en": "10",
+          "hi": "10"
+        },
+        {
+          "en": "15",
+          "hi": "15"
+        },
+        {
+          "en": "20",
+          "hi": "20"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Amid a row over bulk filing, the Election Commission of India (ECI) limited the filing of Form 7 (for objecting to inclusion or seeking deletion of names in the electoral roll) to a maximum of 10 applications per elector to prevent misuse.",
+        "hi": "थोक में फॉर्म दाखिल करने को लेकर हुए विवाद के बीच, भारत निर्वाचन आयोग (ECI) ने दुरुपयोग को रोकने के लिए फॉर्म 7 (मतदाता सूची में नाम शामिल करने पर आपत्ति जताने या नाम हटाने की मांग करने के लिए) दाखिल करने की सीमा प्रति मतदाता अधिकतम 10 आवेदन कर दी है।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/amid-form-7-bulk-filing-row-election-commission-limits-it-to-10-per-elector/articleshow/134845483.cms"
+    },
+    {
+      "id": "ca_20261010_02",
+      "question": {
+        "en": "A parliamentary panel recently highlighted gaps in the National Testing Agency (NTA) following the cancellation of which major examination?",
+        "hi": "एक संसदीय पैनल ने हाल ही में किस प्रमुख परीक्षा के रद्द होने के बाद राष्ट्रीय परीक्षण एजेंसी (NTA) में कमियों को उजागर किया है?"
+      },
+      "options": [
+        {
+          "en": "UPSC Civil Services",
+          "hi": "UPSC सिविल सेवा"
+        },
+        {
+          "en": "JEE Advanced",
+          "hi": "JEE एडवांस"
+        },
+        {
+          "en": "NEET",
+          "hi": "NEET"
+        },
+        {
+          "en": "SSC CGL",
+          "hi": "SSC CGL"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "A parliamentary panel pointed out significant gaps and operational flaws in the National Testing Agency (NTA) following the controversial cancellation and subsequent issues surrounding the NEET (National Eligibility cum Entrance Test) medical entrance exam.",
+        "hi": "एक संसदीय पैनल ने NEET (राष्ट्रीय पात्रता सह प्रवेश परीक्षा) मेडिकल प्रवेश परीक्षा के विवादास्पद रद्दीकरण और उसके बाद के मुद्दों के बाद राष्ट्रीय परीक्षण एजेंसी (NTA) में महत्वपूर्ण कमियों और परिचालन खामियों की ओर इशारा किया है।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/neet-cancellation-exposed-nta-gaps-parliamentary-panel/articleshow/134842668.cms"
+    },
+    {
+      "id": "ca_20261010_03",
+      "question": {
+        "en": "According to the recent data from the Reserve Bank of India, India's foreign exchange (forex) reserves fell by $13 billion to stand at what level?",
+        "hi": "भारतीय रिजर्व बैंक के हालिया आंकड़ों के अनुसार, भारत का विदेशी मुद्रा (forex) भंडार 13 बिलियन डॉलर गिरकर किस स्तर पर आ गया है?"
+      },
+      "options": [
+        {
+          "en": "$634.6 billion",
+          "hi": "$634.6 बिलियन"
+        },
+        {
+          "en": "$690.4 billion",
+          "hi": "$690.4 बिलियन"
+        },
+        {
+          "en": "$734.6 billion",
+          "hi": "$734.6 बिलियन"
+        },
+        {
+          "en": "$780.2 billion",
+          "hi": "$780.2 बिलियन"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "India's foreign exchange reserves saw a significant drop of $13 billion, bringing the total reserves to $734.6 billion. The RBI manages these reserves to maintain exchange rate stability.",
+        "hi": "भारत के विदेशी मुद्रा भंडार में 13 बिलियन डॉलर की भारी गिरावट आई है, जिससे कुल भंडार 734.6 बिलियन डॉलर हो गया है। RBI विनिमय दर स्थिरता बनाए रखने के लिए इन भंडारों का प्रबंधन करता है।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/forex-reserves-fall-by-13bn-to-734-6bn/articleshow/134842623.cms"
+    },
+    {
+      "id": "ca_20261010_04",
+      "question": {
+        "en": "In a bid to control liquidity, the Reserve Bank of India (RBI) recently announced the active use of bond sales and which other monetary tool?",
+        "hi": "तरलता (Liquidity) को नियंत्रित करने के प्रयास में, भारतीय रिजर्व बैंक (RBI) ने हाल ही में बांड बिक्री और किस अन्य मौद्रिक उपकरण के सक्रिय उपयोग की घोषणा की है?"
+      },
+      "options": [
+        {
+          "en": "Cash Reserve Ratio (CRR)",
+          "hi": "नकद आरक्षित अनुपात (CRR)"
+        },
+        {
+          "en": "Statutory Liquidity Ratio (SLR)",
+          "hi": "सांविधिक तरलता अनुपात (SLR)"
+        },
+        {
+          "en": "Marginal Standing Facility (MSF)",
+          "hi": "सीमांत स्थायी सुविधा (MSF)"
+        },
+        {
+          "en": "Bank Rate",
+          "hi": "बैंक दर"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "The Reserve Bank of India (RBI) has decided to utilize the Cash Reserve Ratio (CRR) alongside open market bond sales as active monetary tools to manage surplus liquidity in the banking system.",
+        "hi": "भारतीय रिजर्व बैंक (RBI) ने बैंकिंग प्रणाली में अधिशेष तरलता का प्रबंधन करने के लिए सक्रिय मौद्रिक उपकरणों के रूप में खुले बाजार में बांड बिक्री के साथ-साथ नकद आरक्षित अनुपात (CRR) का उपयोग करने का निर्णय लिया है।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/now-rbi-puts-crr-and-bond-sale-into-play/articleshow/134842593.cms"
+    },
+    {
+      "id": "ca_20261010_05",
+      "question": {
+        "en": "The US administration recently moved to suspend which major Green Card processing program for eight major IT firms, impacting Indian professionals?",
+        "hi": "अमेरिकी प्रशासन ने हाल ही में आठ प्रमुख IT फर्मों के लिए किस प्रमुख ग्रीन कार्ड (Green Card) प्रसंस्करण कार्यक्रम को निलंबित करने का कदम उठाया है, जिससे भारतीय पेशेवर प्रभावित हुए हैं?"
+      },
+      "options": [
+        {
+          "en": "H-1B Visa Lottery",
+          "hi": "H-1B वीज़ा लॉटरी"
+        },
+        {
+          "en": "PERM (Program Electronic Review Management)",
+          "hi": "PERM (प्रोग्राम इलेक्ट्रॉनिक रिव्यू मैनेजमेंट)"
+        },
+        {
+          "en": "L-1 Intracompany Transferee",
+          "hi": "L-1 इंट्राकंपनी ट्रांसफरी"
+        },
+        {
+          "en": "EB-5 Investor Program",
+          "hi": "EB-5 निवेशक कार्यक्रम"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The Trump administration's move to suspend eight major IT firms, including TCS and Infosys, from the PERM (Program Electronic Review Management) labor certification process has raised concerns for Indian professionals seeking US Green Cards.",
+        "hi": "ट्रम्प प्रशासन द्वारा TCS और इंफोसिस सहित आठ प्रमुख IT फर्मों को PERM (प्रोग्राम इलेक्ट्रॉनिक रिव्यू मैनेजमेंट) श्रम प्रमाणन प्रक्रिया से निलंबित करने के कदम ने अमेरिकी ग्रीन कार्ड चाहने वाले भारतीय पेशेवरों के लिए चिंताएं बढ़ा दी हैं।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "hard",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/8-it-firms-including-tcs-infosys-microsoft-wipro-suspended-from-us-green-card-programme-perm-how-does-it-hit-indian-professionals/articleshow/134803978.cms"
+    },
+    {
+      "id": "ca_20261010_06",
+      "question": {
+        "en": "Which state recently held assembly bypolls where the Tamilaga Vettri Kazhagam (TVK) party, founded by actor Vijay, won 2 seats?",
+        "hi": "हाल ही में किस राज्य में विधानसभा उपचुनाव हुए जहाँ अभिनेता विजय द्वारा स्थापित पार्टी 'तमिलगा वेत्री कड़गम' (TVK) ने 2 सीटें जीतीं?"
+      },
+      "options": [
+        {
+          "en": "Andhra Pradesh",
+          "hi": "आंध्र प्रदेश"
+        },
+        {
+          "en": "Kerala",
+          "hi": "केरल"
+        },
+        {
+          "en": "Tamil Nadu",
+          "hi": "तमिलनाडु"
+        },
+        {
+          "en": "Karnataka",
+          "hi": "कर्नाटक"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "In the recent assembly bypolls in Tamil Nadu, the newly formed political party Tamilaga Vettri Kazhagam (TVK), led by popular actor Vijay, marked a significant political debut by winning two seats.",
+        "hi": "तमिलनाडु में हाल ही में हुए विधानसभा उपचुनावों में, लोकप्रिय अभिनेता विजय के नेतृत्व में नवगठित राजनीतिक दल 'तमिलगा वेत्री कड़गम' (TVK) ने दो सीटें जीतकर एक महत्वपूर्ण राजनीतिक शुरुआत की।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/assembly-bypolls-tvk-wins-2-seats-in-tn-bjp-also-bags-2-in-bengal/articleshow/134845566.cms"
+    },
+    {
+      "id": "ca_20261010_07",
+      "question": {
+        "en": "Who recently leapfrogged Steve Waugh to become Australia's third-highest run-scorer in Test cricket history?",
+        "hi": "हाल ही में टेस्ट क्रिकेट इतिहास में स्टीव वॉ को पछाड़कर ऑस्ट्रेलिया के तीसरे सबसे ज्यादा रन बनाने वाले खिलाड़ी कौन बन गए हैं?"
+      },
+      "options": [
+        {
+          "en": "David Warner",
+          "hi": "डेविड वार्नर"
+        },
+        {
+          "en": "Marnus Labuschagne",
+          "hi": "मार्नस लाबुशेन"
+        },
+        {
+          "en": "Steve Smith",
+          "hi": "स्टीव स्मिथ"
+        },
+        {
+          "en": "Usman Khawaja",
+          "hi": "उस्मान ख्वाजा"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Modern batting great Steve Smith surpassed legendary captain Steve Waugh's tally of 10,927 runs to become Australia's third-highest run-scorer in Test cricket, trailing only Ricky Ponting and Allan Border.",
+        "hi": "आधुनिक बल्लेबाजी के महान खिलाड़ी स्टीव स्मिथ ने दिग्गज कप्तान स्टीव वॉ के 10,927 रनों के आंकड़े को पार कर लिया और टेस्ट क्रिकेट में रिकी पोंटिंग और एलन बॉर्डर के बाद ऑस्ट्रेलिया के तीसरे सबसे अधिक रन बनाने वाले खिलाड़ी बन गए हैं।"
+      },
+      "category": "Sports",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/steve-smith-leapfrogs-steve-waugh-to-become-australias-third-highest-test-run-scorer/articleshow/134836979.cms"
+    },
+    {
+      "id": "ca_20261010_08",
+      "question": {
+        "en": "The Ministry of Health may soon require chemists and wholesalers to obtain government approval to advertise which category of drugs?",
+        "hi": "स्वास्थ्य मंत्रालय जल्द ही रसायनज्ञों (chemists) और थोक विक्रेताओं को किस श्रेणी की दवाओं का विज्ञापन करने के लिए सरकारी मंजूरी प्राप्त करने की आवश्यकता कर सकता है?"
+      },
+      "options": [
+        {
+          "en": "Over-the-Counter (OTC) drugs",
+          "hi": "ओवर-द-काउंटर (OTC) दवाएं"
+        },
+        {
+          "en": "Ayurvedic medicines",
+          "hi": "आयुर्वेदिक दवाएं"
+        },
+        {
+          "en": "Prescription drugs",
+          "hi": "पर्चे वाली दवाएं (Prescription drugs)"
+        },
+        {
+          "en": "Homeopathic remedies",
+          "hi": "होम्योपैथिक उपचार"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The central government is considering an amendment to the Drugs and Magic Remedies (Objectionable Advertisements) Act, requiring chemists and wholesalers to seek prior approval before advertising prescription drugs to curb misleading claims.",
+        "hi": "केंद्र सरकार ड्रग्स एंड मैजिक रेमेडीज (आपत्तिजनक विज्ञापन) अधिनियम में संशोधन पर विचार कर रही है, जिसके तहत भ्रामक दावों पर अंकुश लगाने के लिए रसायनज्ञों और थोक विक्रेताओं को पर्चे वाली दवाओं (prescription drugs) का विज्ञापन करने से पहले पूर्व स्वीकृति लेना आवश्यक होगा।"
+      },
+      "category": "Science & Technology",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/chemists-wholesalers-may-need-govt-nod-to-advertise-prescription-drugs/articleshow/134843039.cms"
+    },
+    {
+      "id": "ca_20261010_09",
+      "question": {
+        "en": "Which Indian state has decided to assess its Gross Domestic Product (GDP) using the 'spending method' alongside the traditional income method?",
+        "hi": "किस भारतीय राज्य ने पारंपरिक आय पद्धति के साथ-साथ 'व्यय पद्धति' (spending method) का उपयोग करके अपने सकल घरेलू उत्पाद (GDP) का आकलन करने का निर्णय लिया है?"
+      },
+      "options": [
+        {
+          "en": "Maharashtra",
+          "hi": "महाराष्ट्र"
+        },
+        {
+          "en": "Gujarat",
+          "hi": "गुजरात"
+        },
+        {
+          "en": "Several states collectively",
+          "hi": "कई राज्य सामूहिक रूप से"
+        },
+        {
+          "en": "Karnataka",
+          "hi": "कर्नाटक"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "In a major shift in economic data collection, several Indian states have decided to begin assessing their State Gross Domestic Product (SGDP) through the expenditure (spending) method to get a more accurate picture of consumption and investment.",
+        "hi": "आर्थिक डेटा संग्रह में एक बड़े बदलाव के तहत, कई भारतीय राज्यों ने खपत और निवेश की अधिक सटीक तस्वीर प्राप्त करने के लिए व्यय (खर्च) पद्धति के माध्यम से अपने राज्य सकल घरेलू उत्पाद (SGDP) का आकलन शुरू करने का निर्णय लिया है।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "hard",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/states-to-assess-gdp-through-spending-method/articleshow/134842637.cms"
+    },
+    {
+      "id": "ca_20261010_10",
+      "question": {
+        "en": "Sanju Samson recently matched which Indian cricketer's record with a whirlwind 21-ball fifty against the West Indies?",
+        "hi": "संजू सैमसन ने हाल ही में वेस्टइंडीज के खिलाफ 21 गेंदों में तूफानी अर्धशतक जड़कर किस भारतीय क्रिकेटर के रिकॉर्ड की बराबरी की है?"
+      },
+      "options": [
+        {
+          "en": "Rohit Sharma",
+          "hi": "रोहित शर्मा"
+        },
+        {
+          "en": "Suryakumar Yadav",
+          "hi": "सूर्यकुमार यादव"
+        },
+        {
+          "en": "Virat Kohli",
+          "hi": "विराट कोहली"
+        },
+        {
+          "en": "MS Dhoni",
+          "hi": "एमएस धोनी"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Wicketkeeper-batter Sanju Samson smashed a sensational 21-ball half-century against the West Indies in Ranchi, matching Virat Kohli's record for the fastest T20I fifty by an Indian against the Caribbean side.",
+        "hi": "विकेटकीपर-बल्लेबाज संजू सैमसन ने रांची में वेस्टइंडीज के खिलाफ 21 गेंदों में शानदार अर्धशतक जड़ा, जो कैरेबियाई टीम के खिलाफ किसी भारतीय द्वारा बनाए गए सबसे तेज T20I अर्धशतक के विराट कोहली के रिकॉर्ड की बराबरी है।"
+      },
+      "category": "Sports",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/sanju-samson-matches-virat-kohlis-record-with-whirlwind-21-ball-fifty-against-west-indies/articleshow/134836607.cms"
+    }
+  ]
+}
