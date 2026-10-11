@@ -1,13 +1,13 @@
 {
-  "date": "2026-10-11",
+  "date": "2026-10-12",
   "topic": "SSC CGL Daily Current Affairs",
   "source": "The Hindu / Times of India / Various RSS",
-  "lastUpdated": "2026-10-11T05:30:00+05:30",
+  "lastUpdated": "2026-10-12T06:30:00+05:30",
   "version": 1,
   "totalQuestions": 10,
   "quiz": [
     {
-      "id": "ca_20261011_01",
+      "id": "ca_20261012_01",
       "question": {
         "en": "Who has been awarded the Nobel Peace Prize for 2026?",
         "hi": "2026 के लिए नोबेल शांति पुरस्कार से किसे सम्मानित किया गया है?"
@@ -40,7 +40,7 @@
       "sourceUrl": "https://www.thehindu.com/news/international/navi-pillay-the-jurist-and-a-redemption/article71569258.ece"
     },
     {
-      "id": "ca_20261011_02",
+      "id": "ca_20261012_02",
       "question": {
         "en": "Which international organization commended Pakistan for having a 'robust' nuclear security regime recently?",
         "hi": "हाल ही में किस अंतर्राष्ट्रीय संगठन ने 'मजबूत' परमाणु सुरक्षा व्यवस्था के लिए पाकिस्तान की सराहना की?"
@@ -73,7 +73,7 @@
       "sourceUrl": "https://www.thehindu.com/news/international/pakistan-has-robust-nuclear-security-regime-iaea/article71569223.ece"
     },
     {
-      "id": "ca_20261011_03",
+      "id": "ca_20261012_03",
       "question": {
         "en": "Which city's Metro Rail Phase 2 is set to be launched by Prime Minister Narendra Modi?",
         "hi": "प्रधानमंत्री नरेंद्र मोदी द्वारा किस शहर के मेट्रो रेल चरण 2 का शुभारंभ किया जाना है?"
@@ -106,7 +106,7 @@
       "sourceUrl": "https://www.thehindu.com/news/national/tamil-nadu/pm-modi-to-launch-chennai-metro-rail-phase-2-to-share-ride-with-tamil-nadu-cm-vijay/article71568212.ece"
     },
     {
-      "id": "ca_20261011_04",
+      "id": "ca_20261012_04",
       "question": {
         "en": "Who has recently stepped down as the captain of the Indian women's cricket team?",
         "hi": "हाल ही में भारतीय महिला क्रिकेट टीम की कप्तान के पद से किसने इस्तीफा दिया है?"
@@ -139,7 +139,7 @@
       "sourceUrl": "https://www.thehindu.com/sport/cricket/harmanpreet-kaur-the-game-changer/article71569285.ece"
     },
     {
-      "id": "ca_20261011_05",
+      "id": "ca_20261012_05",
       "question": {
         "en": "What is the primary objective of the $100 million investment made by Jeff Bezos in eight US cities?",
         "hi": "जेफ बेजोस द्वारा आठ अमेरिकी शहरों में किए गए 100 मिलियन डॉलर के निवेश का प्राथमिक उद्देश्य क्या है?"
@@ -172,7 +172,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/jeff-bezos-is-putting-100-million-into-neglected-city-land-eight-us-cities-will-turn-abandoned-spaces-into-parks-and-wildlife-habitats/articleshow/134841262.cms"
     },
     {
-      "id": "ca_20261011_06",
+      "id": "ca_20261012_06",
       "question": {
         "en": "Which UN body recently expressed concern over mass detentions during protests in Delhi?",
         "hi": "हाल ही में दिल्ली में विरोध प्रदर्शनों के दौरान बड़े पैमाने पर हिरासत में लिए जाने पर किस संयुक्त राष्ट्र निकाय ने चिंता व्यक्त की?"
@@ -205,7 +205,7 @@
       "sourceUrl": "https://www.thehindu.com/news/national/un-human-rights-body-expresses-concern-over-delhi-detentions-urges-immediate-release/article71569288.ece"
     },
     {
-      "id": "ca_20261011_07",
+      "id": "ca_20261012_07",
       "question": {
         "en": "According to the UN Conference on Trade and Development report, India's share of global greenfield investments in 2020-25 is compared to which country?",
         "hi": "संयुक्त राष्ट्र व्यापार और विकास सम्मेलन की रिपोर्ट के अनुसार, 2020-25 में वैश्विक ग्रीनफील्ड निवेश में भारत की हिस्सेदारी की तुलना किस देश से की गई है?"
@@ -238,7 +238,7 @@
       "sourceUrl": "https://www.thehindu.com/business/Economy/indias-share-of-global-greenfield-investments-more-than-double-chinas-in-2020-25/article71564075.ece"
     },
     {
-      "id": "ca_20261011_08",
+      "id": "ca_20261012_08",
       "question": {
         "en": "Which AI model reportedly submitted a false tip regarding an unsolved homicide case in Philadelphia?",
         "hi": "कथित तौर पर किस एआई मॉडल ने फिलाडेल्फिया में एक अनसुलझे हत्या के मामले के संबंध में गलत सूचना प्रस्तुत की?"
@@ -271,7 +271,7 @@
       "sourceUrl": "https://www.thehindu.com/news/international/anthropics-claude-ai-submits-false-tip-on-philadelphia-unsolved-homicide-case/article71569220.ece"
     },
     {
-      "id": "ca_20261011_09",
+      "id": "ca_20261012_09",
       "question": {
         "en": "Residents of which two states have formed a Joint Protection Committee to oppose a shared hydropower project on the Kulsi River?",
         "hi": "कुलसी नदी पर एक साझा जलविद्युत परियोजना का विरोध करने के लिए किन दो राज्यों के निवासियों ने एक संयुक्त संरक्षण समिति का गठन किया है?"
@@ -304,7 +304,7 @@
       "sourceUrl": "https://www.thehindu.com/news/national/assam/assam-meghalaya-villagers-join-hands-to-oppose-states-joint-hydropower-project/article71568221.ece"
     },
     {
-      "id": "ca_20261011_10",
+      "id": "ca_20261012_10",
       "question": {
         "en": "Which renowned mridangam artiste recently passed away?",
         "hi": "हाल ही में किस प्रसिद्ध मृदंगम कलाकार का निधन हो गया?"
