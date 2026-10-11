@@ -1,0 +1,340 @@
+{
+  "date": "2026-10-11",
+  "topic": "SSC CGL Daily Current Affairs",
+  "source": "The Hindu / Times of India / Various RSS",
+  "lastUpdated": "2026-10-11T05:30:00+05:30",
+  "version": 1,
+  "totalQuestions": 10,
+  "quiz": [
+    {
+      "id": "ca_20261011_01",
+      "question": {
+        "en": "Who has been awarded the Nobel Peace Prize for 2026?",
+        "hi": "2026 के लिए नोबेल शांति पुरस्कार से किसे सम्मानित किया गया है?"
+      },
+      "options": [
+        {
+          "en": "Navi Pillay",
+          "hi": "नवि पिल्लै"
+        },
+        {
+          "en": "Malala Yousafzai",
+          "hi": "मलाला यूसुफजई"
+        },
+        {
+          "en": "Kailash Satyarthi",
+          "hi": "कैलाश सत्यार्थी"
+        },
+        {
+          "en": "Aung San Suu Kyi",
+          "hi": "आंग सान सू की"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "The Nobel Peace Prize for 2026 was awarded to Navi Pillay, a South African jurist, recognizing her lifelong commitment to justice for the oppressed.",
+        "hi": "2026 के लिए नोबेल शांति पुरस्कार दक्षिण अफ्रीकी न्यायविद नवि पिल्लै को दिया गया, जो उत्पीड़ितों के लिए न्याय के प्रति उनकी आजीवन प्रतिबद्धता को मान्यता देता है।"
+      },
+      "category": "Awards & Honours",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/news/international/navi-pillay-the-jurist-and-a-redemption/article71569258.ece"
+    },
+    {
+      "id": "ca_20261011_02",
+      "question": {
+        "en": "Which international organization commended Pakistan for having a 'robust' nuclear security regime recently?",
+        "hi": "हाल ही में किस अंतर्राष्ट्रीय संगठन ने 'मजबूत' परमाणु सुरक्षा व्यवस्था के लिए पाकिस्तान की सराहना की?"
+      },
+      "options": [
+        {
+          "en": "United Nations Security Council",
+          "hi": "संयुक्त राष्ट्र सुरक्षा परिषद"
+        },
+        {
+          "en": "International Atomic Energy Agency (IAEA)",
+          "hi": "अंतर्राष्ट्रीय परमाणु ऊर्जा एजेंसी (IAEA)"
+        },
+        {
+          "en": "World Health Organization",
+          "hi": "विश्व स्वास्थ्य संगठन"
+        },
+        {
+          "en": "Nuclear Suppliers Group (NSG)",
+          "hi": "नाभिकीय आपूर्तिकर्ता समूह (NSG)"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The International Atomic Energy Agency (IAEA) commended Pakistan for its robust nuclear security regime and its contribution to developing the skills of the nuclear security workforce.",
+        "hi": "अंतर्राष्ट्रीय परमाणु ऊर्जा एजेंसी (IAEA) ने पाकिस्तान को उसकी मजबूत परमाणु सुरक्षा व्यवस्था और परमाणु सुरक्षा कार्यबल के कौशल विकसित करने में उसके योगदान के लिए सराहा।"
+      },
+      "category": "International Summits",
+      "difficulty": "hard",
+      "sourceUrl": "https://www.thehindu.com/news/international/pakistan-has-robust-nuclear-security-regime-iaea/article71569223.ece"
+    },
+    {
+      "id": "ca_20261011_03",
+      "question": {
+        "en": "Which city's Metro Rail Phase 2 is set to be launched by Prime Minister Narendra Modi?",
+        "hi": "प्रधानमंत्री नरेंद्र मोदी द्वारा किस शहर के मेट्रो रेल चरण 2 का शुभारंभ किया जाना है?"
+      },
+      "options": [
+        {
+          "en": "Mumbai",
+          "hi": "मुंबई"
+        },
+        {
+          "en": "Delhi",
+          "hi": "दिल्ली"
+        },
+        {
+          "en": "Chennai",
+          "hi": "चेन्नई"
+        },
+        {
+          "en": "Bengaluru",
+          "hi": "बेंगलुरु"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Prime Minister Narendra Modi will launch the Chennai Metro Rail Phase 2, operating initially from Poonamallee to Vadapalani.",
+        "hi": "प्रधानमंत्री नरेंद्र मोदी चेन्नई मेट्रो रेल चरण 2 का शुभारंभ करेंगे, जो शुरू में पूनमल्ली से वडापलानी तक संचालित होगा।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.thehindu.com/news/national/tamil-nadu/pm-modi-to-launch-chennai-metro-rail-phase-2-to-share-ride-with-tamil-nadu-cm-vijay/article71568212.ece"
+    },
+    {
+      "id": "ca_20261011_04",
+      "question": {
+        "en": "Who has recently stepped down as the captain of the Indian women's cricket team?",
+        "hi": "हाल ही में भारतीय महिला क्रिकेट टीम की कप्तान के पद से किसने इस्तीफा दिया है?"
+      },
+      "options": [
+        {
+          "en": "Smriti Mandhana",
+          "hi": "स्मृति मंधाना"
+        },
+        {
+          "en": "Mithali Raj",
+          "hi": "मिताली राज"
+        },
+        {
+          "en": "Jhulan Goswami",
+          "hi": "झूलन गोस्वामी"
+        },
+        {
+          "en": "Harmanpreet Kaur",
+          "hi": "हरमनप्रीत कौर"
+        }
+      ],
+      "correctAnswer": 3,
+      "explanation": {
+        "en": "Harmanpreet Kaur has stepped down as the captain of the Indian women's cricket team but will continue to play for the national team.",
+        "hi": "हरमनप्रीत कौर ने भारतीय महिला क्रिकेट टीम के कप्तान के पद से इस्तीफा दे दिया है लेकिन वह राष्ट्रीय टीम के लिए खेलना जारी रखेंगी।"
+      },
+      "category": "Sports",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/sport/cricket/harmanpreet-kaur-the-game-changer/article71569285.ece"
+    },
+    {
+      "id": "ca_20261011_05",
+      "question": {
+        "en": "What is the primary objective of the $100 million investment made by Jeff Bezos in eight US cities?",
+        "hi": "जेफ बेजोस द्वारा आठ अमेरिकी शहरों में किए गए 100 मिलियन डॉलर के निवेश का प्राथमिक उद्देश्य क्या है?"
+      },
+      "options": [
+        {
+          "en": "To build low-cost housing",
+          "hi": "कम लागत वाले आवास बनाने के लिए"
+        },
+        {
+          "en": "To convert neglected urban land into parks",
+          "hi": "उपेक्षित शहरी भूमि को पार्कों में बदलने के लिए"
+        },
+        {
+          "en": "To fund space exploration startups",
+          "hi": "अंतरिक्ष अन्वेषण स्टार्टअप्स को निधि देने के लिए"
+        },
+        {
+          "en": "To improve public transportation",
+          "hi": "सार्वजनिक परिवहन में सुधार करने के लिए"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Jeff Bezos is allocating $100 million to convert neglected urban land and industrial sites into parks and wildlife habitats in eight American cities.",
+        "hi": "जेफ बेजोस आठ अमेरिकी शहरों में उपेक्षित शहरी भूमि और औद्योगिक स्थलों को पार्कों और वन्यजीव आवासों में बदलने के लिए 100 मिलियन डॉलर का आवंटन कर रहे हैं।"
+      },
+      "category": "Environment & Ecology",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/jeff-bezos-is-putting-100-million-into-neglected-city-land-eight-us-cities-will-turn-abandoned-spaces-into-parks-and-wildlife-habitats/articleshow/134841262.cms"
+    },
+    {
+      "id": "ca_20261011_06",
+      "question": {
+        "en": "Which UN body recently expressed concern over mass detentions during protests in Delhi?",
+        "hi": "हाल ही में दिल्ली में विरोध प्रदर्शनों के दौरान बड़े पैमाने पर हिरासत में लिए जाने पर किस संयुक्त राष्ट्र निकाय ने चिंता व्यक्त की?"
+      },
+      "options": [
+        {
+          "en": "UNICEF",
+          "hi": "यूनिसेफ"
+        },
+        {
+          "en": "UN Human Rights Council (UNHRC)",
+          "hi": "संयुक्त राष्ट्र मानवाधिकार परिषद (UNHRC)"
+        },
+        {
+          "en": "UNESCO",
+          "hi": "यूनेस्को"
+        },
+        {
+          "en": "UN Environment Programme (UNEP)",
+          "hi": "संयुक्त राष्ट्र पर्यावरण कार्यक्रम (UNEP)"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The UN Human Rights Council (UNHRC) expressed concern over the police handling of protests and mass detentions in Delhi, urging respect for peaceful protest.",
+        "hi": "संयुक्त राष्ट्र मानवाधिकार परिषद (UNHRC) ने दिल्ली में विरोध प्रदर्शनों और बड़े पैमाने पर हिरासत में लिए जाने के पुलिस के तरीके पर चिंता व्यक्त की और शांतिपूर्ण विरोध का सम्मान करने का आग्रह किया।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/news/national/un-human-rights-body-expresses-concern-over-delhi-detentions-urges-immediate-release/article71569288.ece"
+    },
+    {
+      "id": "ca_20261011_07",
+      "question": {
+        "en": "According to the UN Conference on Trade and Development report, India's share of global greenfield investments in 2020-25 is compared to which country?",
+        "hi": "संयुक्त राष्ट्र व्यापार और विकास सम्मेलन की रिपोर्ट के अनुसार, 2020-25 में वैश्विक ग्रीनफील्ड निवेश में भारत की हिस्सेदारी की तुलना किस देश से की गई है?"
+      },
+      "options": [
+        {
+          "en": "United States",
+          "hi": "संयुक्त राज्य अमेरिका"
+        },
+        {
+          "en": "China",
+          "hi": "चीन"
+        },
+        {
+          "en": "Japan",
+          "hi": "जापान"
+        },
+        {
+          "en": "Germany",
+          "hi": "जर्मनी"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "A report by the UN Conference on Trade and Development noted that India’s share of global greenfield investments more than doubled China's in the 2020-25 period.",
+        "hi": "संयुक्त राष्ट्र व्यापार और विकास सम्मेलन की एक रिपोर्ट में कहा गया है कि 2020-25 की अवधि में वैश्विक ग्रीनफील्ड निवेश में भारत की हिस्सेदारी चीन के मुकाबले दोगुनी से अधिक है।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/business/Economy/indias-share-of-global-greenfield-investments-more-than-double-chinas-in-2020-25/article71564075.ece"
+    },
+    {
+      "id": "ca_20261011_08",
+      "question": {
+        "en": "Which AI model reportedly submitted a false tip regarding an unsolved homicide case in Philadelphia?",
+        "hi": "कथित तौर पर किस एआई मॉडल ने फिलाडेल्फिया में एक अनसुलझे हत्या के मामले के संबंध में गलत सूचना प्रस्तुत की?"
+      },
+      "options": [
+        {
+          "en": "ChatGPT",
+          "hi": "चैटजीपीटी"
+        },
+        {
+          "en": "Claude AI",
+          "hi": "क्लॉड एआई"
+        },
+        {
+          "en": "Google Gemini",
+          "hi": "गूगल जेमिनी"
+        },
+        {
+          "en": "Microsoft Copilot",
+          "hi": "माइक्रोसॉफ्ट कोपायलट"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Anthropic’s Claude AI incorrectly submitted a form on a police website indicating it might have information regarding an unsolved murder in Philadelphia.",
+        "hi": "एंथ्रोपिक के क्लॉड एआई ने एक पुलिस वेबसाइट पर गलत तरीके से एक फॉर्म जमा किया जिसमें संकेत दिया गया था कि उसके पास फिलाडेल्फिया में एक अनसुलझी हत्या के संबंध में जानकारी हो सकती है।"
+      },
+      "category": "Science & Technology",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.thehindu.com/news/international/anthropics-claude-ai-submits-false-tip-on-philadelphia-unsolved-homicide-case/article71569220.ece"
+    },
+    {
+      "id": "ca_20261011_09",
+      "question": {
+        "en": "Residents of which two states have formed a Joint Protection Committee to oppose a shared hydropower project on the Kulsi River?",
+        "hi": "कुलसी नदी पर एक साझा जलविद्युत परियोजना का विरोध करने के लिए किन दो राज्यों के निवासियों ने एक संयुक्त संरक्षण समिति का गठन किया है?"
+      },
+      "options": [
+        {
+          "en": "Assam and Arunachal Pradesh",
+          "hi": "असम और अरुणाचल प्रदेश"
+        },
+        {
+          "en": "Assam and Meghalaya",
+          "hi": "असम और मेघालय"
+        },
+        {
+          "en": "Meghalaya and Tripura",
+          "hi": "मेघालय और त्रिपुरा"
+        },
+        {
+          "en": "Manipur and Nagaland",
+          "hi": "मणिपुर और नागालैंड"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Residents of Assam and Meghalaya have joined hands to form the Assam-Meghalaya Joint Protection Committee to oppose a joint hydropower project on the Kulsi River that could affect 46 villages.",
+        "hi": "असम और मेघालय के निवासियों ने कुलसी नदी पर एक संयुक्त जलविद्युत परियोजना का विरोध करने के लिए असम-मेघालय संयुक्त संरक्षण समिति बनाने के लिए हाथ मिलाया है, जो 46 गांवों को प्रभावित कर सकती है।"
+      },
+      "category": "Environment & Ecology",
+      "difficulty": "hard",
+      "sourceUrl": "https://www.thehindu.com/news/national/assam/assam-meghalaya-villagers-join-hands-to-oppose-states-joint-hydropower-project/article71568221.ece"
+    },
+    {
+      "id": "ca_20261011_10",
+      "question": {
+        "en": "Which renowned mridangam artiste recently passed away?",
+        "hi": "हाल ही में किस प्रसिद्ध मृदंगम कलाकार का निधन हो गया?"
+      },
+      "options": [
+        {
+          "en": "Umayalpuram K. Sivaraman",
+          "hi": "उमायलपुरम के. शिवरामन"
+        },
+        {
+          "en": "Palghat Mani Iyer",
+          "hi": "पालघाट मणि अय्यर"
+        },
+        {
+          "en": "Guruvayur Dorai",
+          "hi": "गुरुवायुर दोरई"
+        },
+        {
+          "en": "T. K. Murthy",
+          "hi": "टी. के. मूर्ति"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Noted mridangam artiste Guruvayur Dorai, a legendary figure in Carnatic music, recently passed away.",
+        "hi": "कर्नाटक संगीत के एक महान व्यक्ति, प्रसिद्ध मृदंगम कलाकार गुरुवायुर दोरई का हाल ही में निधन हो गया।"
+      },
+      "category": "Awards & Honours",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.thehindu.com/news/national/noted-mridangam-artiste-guruvayur-dorai-passes-away/article71569144.ece"
+    }
+  ]
+}

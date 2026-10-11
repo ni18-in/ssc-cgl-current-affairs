@@ -1,340 +1,340 @@
 {
-  "date": "2026-10-11",
+  "date": "2026-10-12",
   "topic": "SSC CGL Daily Current Affairs",
-  "source": "The Hindu / Times of India / Various RSS",
-  "lastUpdated": "2026-10-11T05:30:00+05:30",
+  "source": "The Hindu / Times of India",
+  "lastUpdated": "2026-10-12T05:30:00+05:30",
   "version": 1,
   "totalQuestions": 10,
   "quiz": [
     {
-      "id": "ca_20261011_01",
+      "id": "ca_20261012_01",
       "question": {
-        "en": "Who has been awarded the Nobel Peace Prize for 2026?",
-        "hi": "2026 के लिए नोबेल शांति पुरस्कार से किसे सम्मानित किया गया है?"
+        "en": "According to a recent statement by an ISRO official, the TRISHNA satellite is in an advanced stage of realisation. What is the primary objective of the TRISHNA mission?",
+        "hi": "इसरो के एक अधिकारी के हालिया बयान के अनुसार, तृष्णा (TRISHNA) उपग्रह कार्यान्वयन के उन्नत चरण में है। तृष्णा मिशन का प्राथमिक उद्देश्य क्या है?"
       },
       "options": [
         {
-          "en": "Navi Pillay",
-          "hi": "नवि पिल्लै"
+          "en": "To study the solar corona and solar emissions.",
+          "hi": "सौर कोरोना और सौर उत्सर्जन का अध्ययन करना।"
         },
         {
-          "en": "Malala Yousafzai",
-          "hi": "मलाला यूसुफजई"
+          "en": "To provide high-resolution thermal imaging for ecosystem stress and water use monitoring.",
+          "hi": "पारिस्थितिकी तंत्र के तनाव और पानी के उपयोग की निगरानी के लिए उच्च-रिज़ॉल्यूशन थर्मल इमेजिंग प्रदान करना।"
         },
         {
-          "en": "Kailash Satyarthi",
-          "hi": "कैलाश सत्यार्थी"
+          "en": "To explore the permanently shadowed regions of the lunar south pole.",
+          "hi": "चंद्रमा के दक्षिणी ध्रुव के स्थायी रूप से छाया वाले क्षेत्रों का पता लगाना।"
         },
         {
-          "en": "Aung San Suu Kyi",
-          "hi": "आंग सान सू की"
-        }
-      ],
-      "correctAnswer": 0,
-      "explanation": {
-        "en": "The Nobel Peace Prize for 2026 was awarded to Navi Pillay, a South African jurist, recognizing her lifelong commitment to justice for the oppressed.",
-        "hi": "2026 के लिए नोबेल शांति पुरस्कार दक्षिण अफ्रीकी न्यायविद नवि पिल्लै को दिया गया, जो उत्पीड़ितों के लिए न्याय के प्रति उनकी आजीवन प्रतिबद्धता को मान्यता देता है।"
-      },
-      "category": "Awards & Honours",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.thehindu.com/news/international/navi-pillay-the-jurist-and-a-redemption/article71569258.ece"
-    },
-    {
-      "id": "ca_20261011_02",
-      "question": {
-        "en": "Which international organization commended Pakistan for having a 'robust' nuclear security regime recently?",
-        "hi": "हाल ही में किस अंतर्राष्ट्रीय संगठन ने 'मजबूत' परमाणु सुरक्षा व्यवस्था के लिए पाकिस्तान की सराहना की?"
-      },
-      "options": [
-        {
-          "en": "United Nations Security Council",
-          "hi": "संयुक्त राष्ट्र सुरक्षा परिषद"
-        },
-        {
-          "en": "International Atomic Energy Agency (IAEA)",
-          "hi": "अंतर्राष्ट्रीय परमाणु ऊर्जा एजेंसी (IAEA)"
-        },
-        {
-          "en": "World Health Organization",
-          "hi": "विश्व स्वास्थ्य संगठन"
-        },
-        {
-          "en": "Nuclear Suppliers Group (NSG)",
-          "hi": "नाभिकीय आपूर्तिकर्ता समूह (NSG)"
+          "en": "To establish a regional navigation satellite system.",
+          "hi": "एक क्षेत्रीय नेविगेशन उपग्रह प्रणाली स्थापित करना।"
         }
       ],
       "correctAnswer": 1,
       "explanation": {
-        "en": "The International Atomic Energy Agency (IAEA) commended Pakistan for its robust nuclear security regime and its contribution to developing the skills of the nuclear security workforce.",
-        "hi": "अंतर्राष्ट्रीय परमाणु ऊर्जा एजेंसी (IAEA) ने पाकिस्तान को उसकी मजबूत परमाणु सुरक्षा व्यवस्था और परमाणु सुरक्षा कार्यबल के कौशल विकसित करने में उसके योगदान के लिए सराहा।"
+        "en": "TRISHNA (Thermal infraRed Imaging Satellite for High-resolution Natural resource Assessment) is a joint mission by ISRO and CNES (French space agency). It is designed to provide high-resolution thermal imaging to monitor surface temperature, ecosystem stress, and water use.",
+        "hi": "तृष्णा (TRISHNA - थर्मल इंफ्रारेड इमेजिंग सैटेलाइट फॉर हाई-रिज़ॉल्यूशन नेचुरल रिसोर्स असेसमेंट) इसरो (ISRO) और सीएनईएस (CNES - फ्रांसीसी अंतरिक्ष एजेंसी) का एक संयुक्त मिशन है। इसे सतह के तापमान, पारिस्थितिकी तंत्र के तनाव और पानी के उपयोग की निगरानी के लिए उच्च-रिज़ॉल्यूशन थर्मल इमेजिंग प्रदान करने के लिए डिज़ाइन किया गया है।"
       },
-      "category": "International Summits",
-      "difficulty": "hard",
-      "sourceUrl": "https://www.thehindu.com/news/international/pakistan-has-robust-nuclear-security-regime-iaea/article71569223.ece"
+      "category": "Science & Technology",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/sci-tech/science/trishna-satellite-is-in-advanced-stage-of-realisation-says-isro-official/article71571635.ece"
     },
     {
-      "id": "ca_20261011_03",
+      "id": "ca_20261012_02",
       "question": {
-        "en": "Which city's Metro Rail Phase 2 is set to be launched by Prime Minister Narendra Modi?",
-        "hi": "प्रधानमंत्री नरेंद्र मोदी द्वारा किस शहर के मेट्रो रेल चरण 2 का शुभारंभ किया जाना है?"
+        "en": "Recently, the GST Council concluded a crucial meeting focused on significant tax reforms. Under which Article of the Indian Constitution was the GST Council established?",
+        "hi": "हाल ही में, जीएसटी परिषद ने महत्वपूर्ण कर सुधारों पर केंद्रित एक महत्वपूर्ण बैठक संपन्न की। भारतीय संविधान के किस अनुच्छेद के तहत जीएसटी परिषद की स्थापना की गई थी?"
       },
       "options": [
         {
-          "en": "Mumbai",
-          "hi": "मुंबई"
+          "en": "Article 280",
+          "hi": "अनुच्छेद 280"
         },
         {
-          "en": "Delhi",
-          "hi": "दिल्ली"
+          "en": "Article 279A",
+          "hi": "अनुच्छेद 279A"
         },
         {
-          "en": "Chennai",
-          "hi": "चेन्नई"
+          "en": "Article 246A",
+          "hi": "अनुच्छेद 246A"
         },
         {
-          "en": "Bengaluru",
-          "hi": "बेंगलुरु"
+          "en": "Article 269A",
+          "hi": "अनुच्छेद 269A"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The GST Council was established under Article 279A of the Indian Constitution, inserted by the 101st Constitutional Amendment Act, 2016. It is a joint forum of the Centre and the States, chaired by the Union Finance Minister.",
+        "hi": "जीएसटी परिषद की स्थापना 101वें संविधान संशोधन अधिनियम, 2016 द्वारा सम्मिलित भारतीय संविधान के अनुच्छेद 279A के तहत की गई थी। यह केंद्र और राज्यों का एक संयुक्त मंच है, जिसकी अध्यक्षता केंद्रीय वित्त मंत्री करते हैं।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.thehindu.com/opinion/editorial/delivery-completed-on-the-gst-council-meet-reforms/article71564732.ece"
+    },
+    {
+      "id": "ca_20261012_03",
+      "question": {
+        "en": "Following significant measures by the Reserve Bank of India (RBI), the Indian Rupee is expected to gain, although forex liquidity may dry up. In which year was the RBI nationalised?",
+        "hi": "भारतीय रिज़र्व बैंक (RBI) के महत्वपूर्ण उपायों के बाद, भारतीय रुपये में तेजी आने की उम्मीद है, हालांकि विदेशी मुद्रा तरलता सूख सकती है। आरबीआई (RBI) का राष्ट्रीयकरण किस वर्ष किया गया था?"
+      },
+      "options": [
+        {
+          "en": "1935",
+          "hi": "1935"
+        },
+        {
+          "en": "1947",
+          "hi": "1947"
+        },
+        {
+          "en": "1949",
+          "hi": "1949"
+        },
+        {
+          "en": "1969",
+          "hi": "1969"
         }
       ],
       "correctAnswer": 2,
       "explanation": {
-        "en": "Prime Minister Narendra Modi will launch the Chennai Metro Rail Phase 2, operating initially from Poonamallee to Vadapalani.",
-        "hi": "प्रधानमंत्री नरेंद्र मोदी चेन्नई मेट्रो रेल चरण 2 का शुभारंभ करेंगे, जो शुरू में पूनमल्ली से वडापलानी तक संचालित होगा।"
+        "en": "The Reserve Bank of India (RBI) was established on April 1, 1935, under the RBI Act, 1934. It was subsequently nationalised on January 1, 1949. It acts as the central bank and regulatory body for the Indian banking system.",
+        "hi": "भारतीय रिजर्व बैंक (RBI) की स्थापना 1 अप्रैल, 1935 को RBI अधिनियम, 1934 के तहत की गई थी। बाद में 1 जनवरी, 1949 को इसका राष्ट्रीयकरण किया गया। यह भारतीय बैंकिंग प्रणाली के लिए केंद्रीय बैंक और नियामक निकाय के रूप में कार्य करता है।"
       },
       "category": "Economy & Banking",
       "difficulty": "easy",
-      "sourceUrl": "https://www.thehindu.com/news/national/tamil-nadu/pm-modi-to-launch-chennai-metro-rail-phase-2-to-share-ride-with-tamil-nadu-cm-vijay/article71568212.ece"
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/rbi-measures-rupee-to-gain-sharply-but-forex-liquidity-likely-to-dry-up/articleshow/134877494.cms"
     },
     {
-      "id": "ca_20261011_04",
+      "id": "ca_20261012_04",
       "question": {
-        "en": "Who has recently stepped down as the captain of the Indian women's cricket team?",
-        "hi": "हाल ही में भारतीय महिला क्रिकेट टीम की कप्तान के पद से किसने इस्तीफा दिया है?"
+        "en": "Which Indian cricketer recently broke Suryakumar Yadav's record to become the fastest batter to reach 2,000 runs in T20 Internationals?",
+        "hi": "हाल ही में किस भारतीय क्रिकेटर ने सूर्यकुमार यादव का रिकॉर्ड तोड़कर टी20 अंतरराष्ट्रीय में सबसे तेज 2,000 रन बनाने वाले बल्लेबाज बनने का गौरव प्राप्त किया है?"
       },
       "options": [
         {
-          "en": "Smriti Mandhana",
-          "hi": "स्मृति मंधाना"
+          "en": "Yashasvi Jaiswal",
+          "hi": "यशस्वी जायसवाल"
         },
         {
-          "en": "Mithali Raj",
-          "hi": "मिताली राज"
+          "en": "Shubman Gill",
+          "hi": "शुभमन गिल"
         },
         {
-          "en": "Jhulan Goswami",
-          "hi": "झूलन गोस्वामी"
+          "en": "Ruturaj Gaikwad",
+          "hi": "ऋतुराज गायकवाड़"
         },
         {
-          "en": "Harmanpreet Kaur",
-          "hi": "हरमनप्रीत कौर"
+          "en": "Abhishek Sharma",
+          "hi": "अभिषेक शर्मा"
         }
       ],
       "correctAnswer": 3,
       "explanation": {
-        "en": "Harmanpreet Kaur has stepped down as the captain of the Indian women's cricket team but will continue to play for the national team.",
-        "hi": "हरमनप्रीत कौर ने भारतीय महिला क्रिकेट टीम के कप्तान के पद से इस्तीफा दे दिया है लेकिन वह राष्ट्रीय टीम के लिए खेलना जारी रखेंगी।"
+        "en": "Abhishek Sharma recently broke Suryakumar Yadav's record to become the fastest Indian batter to reach 2,000 runs in T20 Internationals during a match against the West Indies, where India took a 2-1 lead in the series.",
+        "hi": "अभिषेक शर्मा ने हाल ही में वेस्टइंडीज के खिलाफ एक मैच के दौरान टी20 अंतरराष्ट्रीय में सबसे तेज 2,000 रन बनाने वाले भारतीय बल्लेबाज बनने का सूर्यकुमार यादव का रिकॉर्ड तोड़ दिया, जहां भारत ने सीरीज में 2-1 की बढ़त बना ली।"
       },
       "category": "Sports",
       "difficulty": "medium",
-      "sourceUrl": "https://www.thehindu.com/sport/cricket/harmanpreet-kaur-the-game-changer/article71569285.ece"
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/abhishek-sharma-breaks-suryakumar-yadavs-record-becomes-fastest-to-2000-t20i-runs/articleshow/134872112.cms"
     },
     {
-      "id": "ca_20261011_05",
+      "id": "ca_20261012_05",
       "question": {
-        "en": "What is the primary objective of the $100 million investment made by Jeff Bezos in eight US cities?",
-        "hi": "जेफ बेजोस द्वारा आठ अमेरिकी शहरों में किए गए 100 मिलियन डॉलर के निवेश का प्राथमिक उद्देश्य क्या है?"
+        "en": "Sri Lankan President Anura Kumara Dissanayake recently highlighted 'good relations' with India and discussed the Katchatheevu stance. The Katchatheevu island was ceded by India to Sri Lanka in which year?",
+        "hi": "श्रीलंका के राष्ट्रपति अनुरा कुमारा दिसानायके ने हाल ही में भारत के साथ 'अच्छे संबंधों' पर प्रकाश डाला और कच्चाथीवू (Katchatheevu) रुख पर चर्चा की। भारत द्वारा श्रीलंका को कच्चाथीवू द्वीप किस वर्ष सौंपा गया था?"
       },
       "options": [
         {
-          "en": "To build low-cost housing",
-          "hi": "कम लागत वाले आवास बनाने के लिए"
+          "en": "1971",
+          "hi": "1971"
         },
         {
-          "en": "To convert neglected urban land into parks",
-          "hi": "उपेक्षित शहरी भूमि को पार्कों में बदलने के लिए"
+          "en": "1974",
+          "hi": "1974"
         },
         {
-          "en": "To fund space exploration startups",
-          "hi": "अंतरिक्ष अन्वेषण स्टार्टअप्स को निधि देने के लिए"
+          "en": "1983",
+          "hi": "1983"
         },
         {
-          "en": "To improve public transportation",
-          "hi": "सार्वजनिक परिवहन में सुधार करने के लिए"
+          "en": "1987",
+          "hi": "1987"
         }
       ],
       "correctAnswer": 1,
       "explanation": {
-        "en": "Jeff Bezos is allocating $100 million to convert neglected urban land and industrial sites into parks and wildlife habitats in eight American cities.",
-        "hi": "जेफ बेजोस आठ अमेरिकी शहरों में उपेक्षित शहरी भूमि और औद्योगिक स्थलों को पार्कों और वन्यजीव आवासों में बदलने के लिए 100 मिलियन डॉलर का आवंटन कर रहे हैं।"
+        "en": "Katchatheevu is an uninhabited island in the Palk Strait. India ceded the island to Sri Lanka in 1974 under a boundary agreement signed between then Prime Minister Indira Gandhi and her Sri Lankan counterpart Sirimavo Bandaranaike.",
+        "hi": "कच्चाथीवू पाक जलडमरूमध्य में एक निर्जन द्वीप है। तत्कालीन प्रधानमंत्री इंदिरा गांधी और उनकी श्रीलंकाई समकक्ष सिरिमावो भंडारनायके के बीच हस्ताक्षरित सीमा समझौते के तहत भारत ने 1974 में इस द्वीप को श्रीलंका को सौंप दिया था।"
       },
-      "category": "Environment & Ecology",
+      "category": "International Summits",
       "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/jeff-bezos-is-putting-100-million-into-neglected-city-land-eight-us-cities-will-turn-abandoned-spaces-into-parks-and-wildlife-habitats/articleshow/134841262.cms"
+      "sourceUrl": "https://www.thehindu.com/news/international/dissanayake-highlights-good-relations-with-india-points-to-new-delhis-katchatheevu-stance/article71572026.ece"
     },
     {
-      "id": "ca_20261011_06",
+      "id": "ca_20261012_06",
       "question": {
-        "en": "Which UN body recently expressed concern over mass detentions during protests in Delhi?",
-        "hi": "हाल ही में दिल्ली में विरोध प्रदर्शनों के दौरान बड़े पैमाने पर हिरासत में लिए जाने पर किस संयुक्त राष्ट्र निकाय ने चिंता व्यक्त की?"
+        "en": "According to recent data, coal supplies to power plants have risen by 36% from September lows. Which Ministry is primarily responsible for the overall development and monitoring of the coal sector in India?",
+        "hi": "हालिया आंकड़ों के अनुसार, बिजली संयंत्रों को कोयले की आपूर्ति सितंबर के निचले स्तर से 36% बढ़ गई है। भारत में कोयला क्षेत्र के समग्र विकास और निगरानी के लिए मुख्य रूप से कौन सा मंत्रालय जिम्मेदार है?"
       },
       "options": [
         {
-          "en": "UNICEF",
-          "hi": "यूनिसेफ"
+          "en": "Ministry of Power",
+          "hi": "विद्युत मंत्रालय"
         },
         {
-          "en": "UN Human Rights Council (UNHRC)",
-          "hi": "संयुक्त राष्ट्र मानवाधिकार परिषद (UNHRC)"
+          "en": "Ministry of New and Renewable Energy",
+          "hi": "नवीन और नवीकरणीय ऊर्जा मंत्रालय"
         },
         {
-          "en": "UNESCO",
-          "hi": "यूनेस्को"
+          "en": "Ministry of Coal",
+          "hi": "कोयला मंत्रालय"
         },
         {
-          "en": "UN Environment Programme (UNEP)",
-          "hi": "संयुक्त राष्ट्र पर्यावरण कार्यक्रम (UNEP)"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "The UN Human Rights Council (UNHRC) expressed concern over the police handling of protests and mass detentions in Delhi, urging respect for peaceful protest.",
-        "hi": "संयुक्त राष्ट्र मानवाधिकार परिषद (UNHRC) ने दिल्ली में विरोध प्रदर्शनों और बड़े पैमाने पर हिरासत में लिए जाने के पुलिस के तरीके पर चिंता व्यक्त की और शांतिपूर्ण विरोध का सम्मान करने का आग्रह किया।"
-      },
-      "category": "Polity & Governance",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.thehindu.com/news/national/un-human-rights-body-expresses-concern-over-delhi-detentions-urges-immediate-release/article71569288.ece"
-    },
-    {
-      "id": "ca_20261011_07",
-      "question": {
-        "en": "According to the UN Conference on Trade and Development report, India's share of global greenfield investments in 2020-25 is compared to which country?",
-        "hi": "संयुक्त राष्ट्र व्यापार और विकास सम्मेलन की रिपोर्ट के अनुसार, 2020-25 में वैश्विक ग्रीनफील्ड निवेश में भारत की हिस्सेदारी की तुलना किस देश से की गई है?"
-      },
-      "options": [
-        {
-          "en": "United States",
-          "hi": "संयुक्त राज्य अमेरिका"
-        },
-        {
-          "en": "China",
-          "hi": "चीन"
-        },
-        {
-          "en": "Japan",
-          "hi": "जापान"
-        },
-        {
-          "en": "Germany",
-          "hi": "जर्मनी"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "A report by the UN Conference on Trade and Development noted that India’s share of global greenfield investments more than doubled China's in the 2020-25 period.",
-        "hi": "संयुक्त राष्ट्र व्यापार और विकास सम्मेलन की एक रिपोर्ट में कहा गया है कि 2020-25 की अवधि में वैश्विक ग्रीनफील्ड निवेश में भारत की हिस्सेदारी चीन के मुकाबले दोगुनी से अधिक है।"
-      },
-      "category": "Economy & Banking",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.thehindu.com/business/Economy/indias-share-of-global-greenfield-investments-more-than-double-chinas-in-2020-25/article71564075.ece"
-    },
-    {
-      "id": "ca_20261011_08",
-      "question": {
-        "en": "Which AI model reportedly submitted a false tip regarding an unsolved homicide case in Philadelphia?",
-        "hi": "कथित तौर पर किस एआई मॉडल ने फिलाडेल्फिया में एक अनसुलझे हत्या के मामले के संबंध में गलत सूचना प्रस्तुत की?"
-      },
-      "options": [
-        {
-          "en": "ChatGPT",
-          "hi": "चैटजीपीटी"
-        },
-        {
-          "en": "Claude AI",
-          "hi": "क्लॉड एआई"
-        },
-        {
-          "en": "Google Gemini",
-          "hi": "गूगल जेमिनी"
-        },
-        {
-          "en": "Microsoft Copilot",
-          "hi": "माइक्रोसॉफ्ट कोपायलट"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "Anthropic’s Claude AI incorrectly submitted a form on a police website indicating it might have information regarding an unsolved murder in Philadelphia.",
-        "hi": "एंथ्रोपिक के क्लॉड एआई ने एक पुलिस वेबसाइट पर गलत तरीके से एक फॉर्म जमा किया जिसमें संकेत दिया गया था कि उसके पास फिलाडेल्फिया में एक अनसुलझी हत्या के संबंध में जानकारी हो सकती है।"
-      },
-      "category": "Science & Technology",
-      "difficulty": "easy",
-      "sourceUrl": "https://www.thehindu.com/news/international/anthropics-claude-ai-submits-false-tip-on-philadelphia-unsolved-homicide-case/article71569220.ece"
-    },
-    {
-      "id": "ca_20261011_09",
-      "question": {
-        "en": "Residents of which two states have formed a Joint Protection Committee to oppose a shared hydropower project on the Kulsi River?",
-        "hi": "कुलसी नदी पर एक साझा जलविद्युत परियोजना का विरोध करने के लिए किन दो राज्यों के निवासियों ने एक संयुक्त संरक्षण समिति का गठन किया है?"
-      },
-      "options": [
-        {
-          "en": "Assam and Arunachal Pradesh",
-          "hi": "असम और अरुणाचल प्रदेश"
-        },
-        {
-          "en": "Assam and Meghalaya",
-          "hi": "असम और मेघालय"
-        },
-        {
-          "en": "Meghalaya and Tripura",
-          "hi": "मेघालय और त्रिपुरा"
-        },
-        {
-          "en": "Manipur and Nagaland",
-          "hi": "मणिपुर और नागालैंड"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "Residents of Assam and Meghalaya have joined hands to form the Assam-Meghalaya Joint Protection Committee to oppose a joint hydropower project on the Kulsi River that could affect 46 villages.",
-        "hi": "असम और मेघालय के निवासियों ने कुलसी नदी पर एक संयुक्त जलविद्युत परियोजना का विरोध करने के लिए असम-मेघालय संयुक्त संरक्षण समिति बनाने के लिए हाथ मिलाया है, जो 46 गांवों को प्रभावित कर सकती है।"
-      },
-      "category": "Environment & Ecology",
-      "difficulty": "hard",
-      "sourceUrl": "https://www.thehindu.com/news/national/assam/assam-meghalaya-villagers-join-hands-to-oppose-states-joint-hydropower-project/article71568221.ece"
-    },
-    {
-      "id": "ca_20261011_10",
-      "question": {
-        "en": "Which renowned mridangam artiste recently passed away?",
-        "hi": "हाल ही में किस प्रसिद्ध मृदंगम कलाकार का निधन हो गया?"
-      },
-      "options": [
-        {
-          "en": "Umayalpuram K. Sivaraman",
-          "hi": "उमायलपुरम के. शिवरामन"
-        },
-        {
-          "en": "Palghat Mani Iyer",
-          "hi": "पालघाट मणि अय्यर"
-        },
-        {
-          "en": "Guruvayur Dorai",
-          "hi": "गुरुवायुर दोरई"
-        },
-        {
-          "en": "T. K. Murthy",
-          "hi": "टी. के. मूर्ति"
+          "en": "Ministry of Mines",
+          "hi": "खान मंत्रालय"
         }
       ],
       "correctAnswer": 2,
       "explanation": {
-        "en": "Noted mridangam artiste Guruvayur Dorai, a legendary figure in Carnatic music, recently passed away.",
-        "hi": "कर्नाटक संगीत के एक महान व्यक्ति, प्रसिद्ध मृदंगम कलाकार गुरुवायुर दोरई का हाल ही में निधन हो गया।"
+        "en": "The Ministry of Coal is responsible for policies and strategies related to the exploration and development of coal and lignite reserves. Recent data indicated a 36% rise in coal supplies to power plants, easing concerns over energy shortages.",
+        "hi": "कोयला मंत्रालय कोयला और लिग्नाइट भंडार की खोज और विकास से संबंधित नीतियों और रणनीतियों के लिए जिम्मेदार है। हालिया आंकड़ों ने बिजली संयंत्रों को कोयले की आपूर्ति में 36% की वृद्धि का संकेत दिया, जिससे ऊर्जा की कमी की चिंताएं कम हुईं।"
       },
-      "category": "Awards & Honours",
+      "category": "Economy & Banking",
       "difficulty": "easy",
-      "sourceUrl": "https://www.thehindu.com/news/national/noted-mridangam-artiste-guruvayur-dorai-passes-away/article71569144.ece"
+      "sourceUrl": "https://www.thehindu.com/business/Economy/coal-supplies-to-power-plants-rise-36-from-september-lows-rail-loading-hits-465-rakes-a-day/article71564570.ece"
+    },
+    {
+      "id": "ca_20261012_07",
+      "question": {
+        "en": "Scientists recently found a 9-million-year-old capybara relative's tooth in the Atacama Desert, suggesting a wetter past. The Atacama Desert is primarily located in which country?",
+        "hi": "वैज्ञानिकों ने हाल ही में अटाकामा मरुस्थल में 9 मिलियन वर्ष पुराने कैपिबारा (capybara) के एक रिश्तेदार का दांत पाया है, जो पहले के एक नम अतीत का संकेत देता है। अटाकामा मरुस्थल मुख्य रूप से किस देश में स्थित है?"
+      },
+      "options": [
+        {
+          "en": "Argentina",
+          "hi": "अर्जेंटीना"
+        },
+        {
+          "en": "Chile",
+          "hi": "चिली"
+        },
+        {
+          "en": "Peru",
+          "hi": "पेरू"
+        },
+        {
+          "en": "Brazil",
+          "hi": "ब्राजील"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The Atacama Desert is a desert plateau in South America covering a 1,600 km strip of land on the Pacific coast, west of the Andes Mountains. It is primarily located in Chile and is considered one of the driest non-polar deserts in the world.",
+        "hi": "अटाकामा मरुस्थल दक्षिण अमेरिका में एक मरुस्थलीय पठार है जो एंडीज पर्वत के पश्चिम में प्रशांत तट पर 1,600 किमी की भूमि की पट्टी को कवर करता है। यह मुख्य रूप से चिली में स्थित है और इसे दुनिया के सबसे शुष्क गैर-ध्रुवीय मरुस्थलों में से एक माना जाता है।"
+      },
+      "category": "Environment & Ecology",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/science/discovery/scientists-found-a-9-million-year-old-capybara-relatives-tooth-in-chiles-atacama-desert-one-of-earths-driest-places-the-water-loving-animal-adds-evidence-that-the-region-once-supported-wetlands-and-a-much-wetter-climate/articleshow/134870235.cms"
+    },
+    {
+      "id": "ca_20261012_08",
+      "question": {
+        "en": "The Indian Government recently slammed a UN body for 'practising double standards'. Under which international treaty was the UN Human Rights Council (UNHRC) established?",
+        "hi": "भारत सरकार ने हाल ही में 'दोहरे मापदंड अपनाने' के लिए संयुक्त राष्ट्र के एक निकाय की कड़ी आलोचना की। संयुक्त राष्ट्र मानवाधिकार परिषद (UNHRC) की स्थापना किस अंतरराष्ट्रीय संधि या संकल्प के तहत की गई थी?"
+      },
+      "options": [
+        {
+          "en": "UN General Assembly Resolution 60/251",
+          "hi": "संयुक्त राष्ट्र महासभा संकल्प 60/251"
+        },
+        {
+          "en": "Universal Declaration of Human Rights, 1948",
+          "hi": "मानवाधिकारों की सार्वभौम घोषणा, 1948"
+        },
+        {
+          "en": "International Covenant on Civil and Political Rights, 1966",
+          "hi": "नागरिक और राजनीतिक अधिकारों पर अंतर्राष्ट्रीय नियम, 1966"
+        },
+        {
+          "en": "Geneva Conventions, 1949",
+          "hi": "जिनेवा कन्वेंशन, 1949"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "The United Nations Human Rights Council (UNHRC) was established by the UN General Assembly on March 15, 2006, by resolution 60/251. It replaced the previous United Nations Commission on Human Rights. It is headquartered in Geneva, Switzerland.",
+        "hi": "संयुक्त राष्ट्र मानवाधिकार परिषद (UNHRC) की स्थापना संयुक्त राष्ट्र महासभा द्वारा 15 मार्च, 2006 को संकल्प 60/251 द्वारा की गई थी। इसने मानवाधिकारों पर पूर्व संयुक्त राष्ट्र आयोग का स्थान लिया। इसका मुख्यालय जिनेवा, स्विट्जरलैंड में है।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "hard",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/government-slams-un-rights-body-for-practising-double-standards/articleshow/134879728.cms"
+    },
+    {
+      "id": "ca_20261012_09",
+      "question": {
+        "en": "Researchers have recently developed tattoo inks that vanish in sunlight but can be switched on with ultraviolet light. This innovation can stay switchable in the skin for up to 2.2 years. Which branch of medical science primarily deals with skin and its diseases?",
+        "hi": "शोधकर्ताओं ने हाल ही में ऐसे टैटू इंक (स्याही) विकसित किए हैं जो सूरज की रोशनी में गायब हो जाते हैं लेकिन पराबैंगनी प्रकाश (यूवी लाइट) से चालू हो सकते हैं। यह नवाचार 2.2 साल तक त्वचा में स्विच करने योग्य रह सकता है। चिकित्सा विज्ञान की कौन सी शाखा मुख्य रूप से त्वचा और उसके रोगों से संबंधित है?"
+      },
+      "options": [
+        {
+          "en": "Oncology",
+          "hi": "ऑन्कोलॉजी"
+        },
+        {
+          "en": "Cardiology",
+          "hi": "कार्डियोलॉजी"
+        },
+        {
+          "en": "Dermatology",
+          "hi": "डर्मेटोलॉजी"
+        },
+        {
+          "en": "Endocrinology",
+          "hi": "एंडोक्रिनोलॉजी"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Dermatology is the branch of medicine dealing with the skin, nails, hair, and its diseases. The new switchable tattoo ink research offers possible long-term medical uses, such as tracking health parameters directly on the skin.",
+        "hi": "डर्मेटोलॉजी (त्वचा विज्ञान) चिकित्सा की वह शाखा है जो त्वचा, नाखून, बाल और उसके रोगों से संबंधित है। नए स्विच करने योग्य टैटू इंक का शोध संभावित दीर्घकालिक चिकित्सा उपयोग प्रदान करता है, जैसे सीधे त्वचा पर स्वास्थ्य मापदंडों पर नज़र रखना।"
+      },
+      "category": "Science & Technology",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/science/discovery/researchers-developed-tattoo-inks-that-can-be-switched-on-with-ultraviolet-light-and-made-to-disappear-in-sunlight-tests-found-the-colours-remained-switchable-in-skin-for-up-to-2-2-years-opening-possible-medical-uses/articleshow/134869483.cms"
+    },
+    {
+      "id": "ca_20261012_10",
+      "question": {
+        "en": "A recent study by UC San Diego found a genetic switch that gave butterflies richer colour vision by expanding light-detecting cells. The study of insects is known as:",
+        "hi": "यूसी सैन डिएगो के एक हालिया अध्ययन में एक आनुवंशिक स्विच पाया गया जिसने प्रकाश-पता लगाने वाली कोशिकाओं का विस्तार करके तितलियों को समृद्ध रंग दृष्टि प्रदान की। कीटों के अध्ययन को क्या कहा जाता है?"
+      },
+      "options": [
+        {
+          "en": "Entomology",
+          "hi": "एंटोमोलॉजी"
+        },
+        {
+          "en": "Ornithology",
+          "hi": "ऑर्निथोलॉजी"
+        },
+        {
+          "en": "Herpetology",
+          "hi": "हर्पेटोलॉजी"
+        },
+        {
+          "en": "Ichthyology",
+          "hi": "इचथियोलॉजी"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "Entomology is the scientific study of insects, a branch of zoology. The UC San Diego study identified a genetic switch that gave butterflies an extra light-detecting cell in their eyes, greatly expanding their colour vision.",
+        "hi": "एंटोमोलॉजी (कीट विज्ञान) कीटों का वैज्ञानिक अध्ययन है, जो प्राणीशास्त्र की एक शाखा है। यूसी सैन डिएगो के अध्ययन ने एक आनुवंशिक स्विच की पहचान की जिसने तितलियों को उनकी आंखों में एक अतिरिक्त प्रकाश-पता लगाने वाली कोशिका दी, जिससे उनके रंग दृष्टि का काफी विस्तार हुआ।"
+      },
+      "category": "Science & Technology",
+      "difficulty": "hard",
+      "sourceUrl": "https://timesofindia.indiatimes.com/science/discovery/uc-san-diego-biologists-identified-the-genetic-switch-that-gave-butterflies-an-extra-light-detecting-cell-in-their-eyes-expanding-their-colour-vision-beyond-imagination/articleshow/134866696.cms"
     }
   ]
 }
