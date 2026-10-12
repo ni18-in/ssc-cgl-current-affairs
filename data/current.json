@@ -1,13 +1,13 @@
 {
-  "date": "2026-10-12",
+  "date": "2026-10-13",
   "topic": "SSC CGL Daily Current Affairs",
   "source": "The Hindu / Times of India",
-  "lastUpdated": "2026-10-12T05:30:00+05:30",
+  "lastUpdated": "2026-10-13T06:30:00+05:30",
   "version": 1,
   "totalQuestions": 10,
   "quiz": [
     {
-      "id": "ca_20261012_01",
+      "id": "ca_20261013_01",
       "question": {
         "en": "According to a recent statement by an ISRO official, the TRISHNA satellite is in an advanced stage of realisation. What is the primary objective of the TRISHNA mission?",
         "hi": "इसरो के एक अधिकारी के हालिया बयान के अनुसार, तृष्णा (TRISHNA) उपग्रह कार्यान्वयन के उन्नत चरण में है। तृष्णा मिशन का प्राथमिक उद्देश्य क्या है?"
@@ -40,7 +40,7 @@
       "sourceUrl": "https://www.thehindu.com/sci-tech/science/trishna-satellite-is-in-advanced-stage-of-realisation-says-isro-official/article71571635.ece"
     },
     {
-      "id": "ca_20261012_02",
+      "id": "ca_20261013_02",
       "question": {
         "en": "Recently, the GST Council concluded a crucial meeting focused on significant tax reforms. Under which Article of the Indian Constitution was the GST Council established?",
         "hi": "हाल ही में, जीएसटी परिषद ने महत्वपूर्ण कर सुधारों पर केंद्रित एक महत्वपूर्ण बैठक संपन्न की। भारतीय संविधान के किस अनुच्छेद के तहत जीएसटी परिषद की स्थापना की गई थी?"
@@ -73,7 +73,7 @@
       "sourceUrl": "https://www.thehindu.com/opinion/editorial/delivery-completed-on-the-gst-council-meet-reforms/article71564732.ece"
     },
     {
-      "id": "ca_20261012_03",
+      "id": "ca_20261013_03",
       "question": {
         "en": "Following significant measures by the Reserve Bank of India (RBI), the Indian Rupee is expected to gain, although forex liquidity may dry up. In which year was the RBI nationalised?",
         "hi": "भारतीय रिज़र्व बैंक (RBI) के महत्वपूर्ण उपायों के बाद, भारतीय रुपये में तेजी आने की उम्मीद है, हालांकि विदेशी मुद्रा तरलता सूख सकती है। आरबीआई (RBI) का राष्ट्रीयकरण किस वर्ष किया गया था?"
@@ -106,7 +106,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/rbi-measures-rupee-to-gain-sharply-but-forex-liquidity-likely-to-dry-up/articleshow/134877494.cms"
     },
     {
-      "id": "ca_20261012_04",
+      "id": "ca_20261013_04",
       "question": {
         "en": "Which Indian cricketer recently broke Suryakumar Yadav's record to become the fastest batter to reach 2,000 runs in T20 Internationals?",
         "hi": "हाल ही में किस भारतीय क्रिकेटर ने सूर्यकुमार यादव का रिकॉर्ड तोड़कर टी20 अंतरराष्ट्रीय में सबसे तेज 2,000 रन बनाने वाले बल्लेबाज बनने का गौरव प्राप्त किया है?"
@@ -139,7 +139,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/abhishek-sharma-breaks-suryakumar-yadavs-record-becomes-fastest-to-2000-t20i-runs/articleshow/134872112.cms"
     },
     {
-      "id": "ca_20261012_05",
+      "id": "ca_20261013_05",
       "question": {
         "en": "Sri Lankan President Anura Kumara Dissanayake recently highlighted 'good relations' with India and discussed the Katchatheevu stance. The Katchatheevu island was ceded by India to Sri Lanka in which year?",
         "hi": "श्रीलंका के राष्ट्रपति अनुरा कुमारा दिसानायके ने हाल ही में भारत के साथ 'अच्छे संबंधों' पर प्रकाश डाला और कच्चाथीवू (Katchatheevu) रुख पर चर्चा की। भारत द्वारा श्रीलंका को कच्चाथीवू द्वीप किस वर्ष सौंपा गया था?"
@@ -172,7 +172,7 @@
       "sourceUrl": "https://www.thehindu.com/news/international/dissanayake-highlights-good-relations-with-india-points-to-new-delhis-katchatheevu-stance/article71572026.ece"
     },
     {
-      "id": "ca_20261012_06",
+      "id": "ca_20261013_06",
       "question": {
         "en": "According to recent data, coal supplies to power plants have risen by 36% from September lows. Which Ministry is primarily responsible for the overall development and monitoring of the coal sector in India?",
         "hi": "हालिया आंकड़ों के अनुसार, बिजली संयंत्रों को कोयले की आपूर्ति सितंबर के निचले स्तर से 36% बढ़ गई है। भारत में कोयला क्षेत्र के समग्र विकास और निगरानी के लिए मुख्य रूप से कौन सा मंत्रालय जिम्मेदार है?"
@@ -205,7 +205,7 @@
       "sourceUrl": "https://www.thehindu.com/business/Economy/coal-supplies-to-power-plants-rise-36-from-september-lows-rail-loading-hits-465-rakes-a-day/article71564570.ece"
     },
     {
-      "id": "ca_20261012_07",
+      "id": "ca_20261013_07",
       "question": {
         "en": "Scientists recently found a 9-million-year-old capybara relative's tooth in the Atacama Desert, suggesting a wetter past. The Atacama Desert is primarily located in which country?",
         "hi": "वैज्ञानिकों ने हाल ही में अटाकामा मरुस्थल में 9 मिलियन वर्ष पुराने कैपिबारा (capybara) के एक रिश्तेदार का दांत पाया है, जो पहले के एक नम अतीत का संकेत देता है। अटाकामा मरुस्थल मुख्य रूप से किस देश में स्थित है?"
@@ -238,7 +238,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/science/discovery/scientists-found-a-9-million-year-old-capybara-relatives-tooth-in-chiles-atacama-desert-one-of-earths-driest-places-the-water-loving-animal-adds-evidence-that-the-region-once-supported-wetlands-and-a-much-wetter-climate/articleshow/134870235.cms"
     },
     {
-      "id": "ca_20261012_08",
+      "id": "ca_20261013_08",
       "question": {
         "en": "The Indian Government recently slammed a UN body for 'practising double standards'. Under which international treaty was the UN Human Rights Council (UNHRC) established?",
         "hi": "भारत सरकार ने हाल ही में 'दोहरे मापदंड अपनाने' के लिए संयुक्त राष्ट्र के एक निकाय की कड़ी आलोचना की। संयुक्त राष्ट्र मानवाधिकार परिषद (UNHRC) की स्थापना किस अंतरराष्ट्रीय संधि या संकल्प के तहत की गई थी?"
@@ -271,7 +271,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/india/government-slams-un-rights-body-for-practising-double-standards/articleshow/134879728.cms"
     },
     {
-      "id": "ca_20261012_09",
+      "id": "ca_20261013_09",
       "question": {
         "en": "Researchers have recently developed tattoo inks that vanish in sunlight but can be switched on with ultraviolet light. This innovation can stay switchable in the skin for up to 2.2 years. Which branch of medical science primarily deals with skin and its diseases?",
         "hi": "शोधकर्ताओं ने हाल ही में ऐसे टैटू इंक (स्याही) विकसित किए हैं जो सूरज की रोशनी में गायब हो जाते हैं लेकिन पराबैंगनी प्रकाश (यूवी लाइट) से चालू हो सकते हैं। यह नवाचार 2.2 साल तक त्वचा में स्विच करने योग्य रह सकता है। चिकित्सा विज्ञान की कौन सी शाखा मुख्य रूप से त्वचा और उसके रोगों से संबंधित है?"
@@ -304,7 +304,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/science/discovery/researchers-developed-tattoo-inks-that-can-be-switched-on-with-ultraviolet-light-and-made-to-disappear-in-sunlight-tests-found-the-colours-remained-switchable-in-skin-for-up-to-2-2-years-opening-possible-medical-uses/articleshow/134869483.cms"
     },
     {
-      "id": "ca_20261012_10",
+      "id": "ca_20261013_10",
       "question": {
         "en": "A recent study by UC San Diego found a genetic switch that gave butterflies richer colour vision by expanding light-detecting cells. The study of insects is known as:",
         "hi": "यूसी सैन डिएगो के एक हालिया अध्ययन में एक आनुवंशिक स्विच पाया गया जिसने प्रकाश-पता लगाने वाली कोशिकाओं का विस्तार करके तितलियों को समृद्ध रंग दृष्टि प्रदान की। कीटों के अध्ययन को क्या कहा जाता है?"
