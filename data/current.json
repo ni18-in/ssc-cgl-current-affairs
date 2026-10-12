@@ -1,340 +1,340 @@
 {
-  "date": "2026-10-12",
+  "date": "2026-10-13",
   "topic": "SSC CGL Daily Current Affairs",
-  "source": "The Hindu / Times of India",
-  "lastUpdated": "2026-10-12T05:30:00+05:30",
+  "source": "Mint / Economic Times / The Hindu / Times of India",
+  "lastUpdated": "2026-10-13T05:20:34+05:30",
   "version": 1,
   "totalQuestions": 10,
   "quiz": [
     {
-      "id": "ca_20261012_01",
+      "id": "ca_20261013_01",
       "question": {
-        "en": "According to a recent statement by an ISRO official, the TRISHNA satellite is in an advanced stage of realisation. What is the primary objective of the TRISHNA mission?",
-        "hi": "इसरो के एक अधिकारी के हालिया बयान के अनुसार, तृष्णा (TRISHNA) उपग्रह कार्यान्वयन के उन्नत चरण में है। तृष्णा मिशन का प्राथमिक उद्देश्य क्या है?"
+        "en": "According to Bloomberg Economics, expanding Free Trade Agreements (FTAs) could add how much to India's GDP by 2035?",
+        "hi": "ब्लूमबर्ग इकोनॉमिक्स के अनुसार, मुक्त व्यापार समझौतों (एफटीए) का विस्तार 2035 तक भारत की जीडीपी में कितना जोड़ सकता है?"
       },
       "options": [
         {
-          "en": "To study the solar corona and solar emissions.",
-          "hi": "सौर कोरोना और सौर उत्सर्जन का अध्ययन करना।"
+          "en": "$100 billion",
+          "hi": "$100 बिलियन"
         },
         {
-          "en": "To provide high-resolution thermal imaging for ecosystem stress and water use monitoring.",
-          "hi": "पारिस्थितिकी तंत्र के तनाव और पानी के उपयोग की निगरानी के लिए उच्च-रिज़ॉल्यूशन थर्मल इमेजिंग प्रदान करना।"
+          "en": "$140 billion",
+          "hi": "$140 बिलियन"
         },
         {
-          "en": "To explore the permanently shadowed regions of the lunar south pole.",
-          "hi": "चंद्रमा के दक्षिणी ध्रुव के स्थायी रूप से छाया वाले क्षेत्रों का पता लगाना।"
+          "en": "$200 billion",
+          "hi": "$200 बिलियन"
         },
         {
-          "en": "To establish a regional navigation satellite system.",
-          "hi": "एक क्षेत्रीय नेविगेशन उपग्रह प्रणाली स्थापित करना।"
+          "en": "$250 billion",
+          "hi": "$250 बिलियन"
         }
       ],
       "correctAnswer": 1,
       "explanation": {
-        "en": "TRISHNA (Thermal infraRed Imaging Satellite for High-resolution Natural resource Assessment) is a joint mission by ISRO and CNES (French space agency). It is designed to provide high-resolution thermal imaging to monitor surface temperature, ecosystem stress, and water use.",
-        "hi": "तृष्णा (TRISHNA - थर्मल इंफ्रारेड इमेजिंग सैटेलाइट फॉर हाई-रिज़ॉल्यूशन नेचुरल रिसोर्स असेसमेंट) इसरो (ISRO) और सीएनईएस (CNES - फ्रांसीसी अंतरिक्ष एजेंसी) का एक संयुक्त मिशन है। इसे सतह के तापमान, पारिस्थितिकी तंत्र के तनाव और पानी के उपयोग की निगरानी के लिए उच्च-रिज़ॉल्यूशन थर्मल इमेजिंग प्रदान करने के लिए डिज़ाइन किया गया है।"
-      },
-      "category": "Science & Technology",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.thehindu.com/sci-tech/science/trishna-satellite-is-in-advanced-stage-of-realisation-says-isro-official/article71571635.ece"
-    },
-    {
-      "id": "ca_20261012_02",
-      "question": {
-        "en": "Recently, the GST Council concluded a crucial meeting focused on significant tax reforms. Under which Article of the Indian Constitution was the GST Council established?",
-        "hi": "हाल ही में, जीएसटी परिषद ने महत्वपूर्ण कर सुधारों पर केंद्रित एक महत्वपूर्ण बैठक संपन्न की। भारतीय संविधान के किस अनुच्छेद के तहत जीएसटी परिषद की स्थापना की गई थी?"
-      },
-      "options": [
-        {
-          "en": "Article 280",
-          "hi": "अनुच्छेद 280"
-        },
-        {
-          "en": "Article 279A",
-          "hi": "अनुच्छेद 279A"
-        },
-        {
-          "en": "Article 246A",
-          "hi": "अनुच्छेद 246A"
-        },
-        {
-          "en": "Article 269A",
-          "hi": "अनुच्छेद 269A"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "The GST Council was established under Article 279A of the Indian Constitution, inserted by the 101st Constitutional Amendment Act, 2016. It is a joint forum of the Centre and the States, chaired by the Union Finance Minister.",
-        "hi": "जीएसटी परिषद की स्थापना 101वें संविधान संशोधन अधिनियम, 2016 द्वारा सम्मिलित भारतीय संविधान के अनुच्छेद 279A के तहत की गई थी। यह केंद्र और राज्यों का एक संयुक्त मंच है, जिसकी अध्यक्षता केंद्रीय वित्त मंत्री करते हैं।"
+        "en": "Bloomberg Economics estimated that India's expanding FTAs could add $140 billion to its GDP and boost exports by 6.2% by 2035, driven by global supply chain shifts and trade deals.",
+        "hi": "ब्लूमबर्ग इकोनॉमिक्स का अनुमान है कि वैश्विक आपूर्ति श्रृंखला में बदलाव और व्यापार सौदों के कारण भारत के विस्तारित एफटीए से उसकी जीडीपी में 140 अरब डॉलर जुड़ सकते हैं और 2035 तक निर्यात में 6.2% की वृद्धि हो सकती है।"
       },
       "category": "Economy & Banking",
-      "difficulty": "easy",
-      "sourceUrl": "https://www.thehindu.com/opinion/editorial/delivery-completed-on-the-gst-council-meet-reforms/article71564732.ece"
+      "difficulty": "medium",
+      "sourceUrl": "https://www.livemint.com/economy/ftas-may-add-140bn-to-india-gdp-by-2035-lift-exports-6-2-bloomberg-economics-11791807640069.html"
     },
     {
-      "id": "ca_20261012_03",
+      "id": "ca_20261013_02",
       "question": {
-        "en": "Following significant measures by the Reserve Bank of India (RBI), the Indian Rupee is expected to gain, although forex liquidity may dry up. In which year was the RBI nationalised?",
-        "hi": "भारतीय रिज़र्व बैंक (RBI) के महत्वपूर्ण उपायों के बाद, भारतीय रुपये में तेजी आने की उम्मीद है, हालांकि विदेशी मुद्रा तरलता सूख सकती है। आरबीआई (RBI) का राष्ट्रीयकरण किस वर्ष किया गया था?"
+        "en": "India and which country recently agreed to exchange data annually on the use of their Comprehensive Economic Partnership Agreement (CEPA/CETA) starting July 2027?",
+        "hi": "भारत और कौन सा देश हाल ही में जुलाई 2027 से अपने व्यापक आर्थिक साझेदारी समझौते (CEPA/CETA) के उपयोग पर सालाना डेटा का आदान-प्रदान करने पर सहमत हुए?"
       },
       "options": [
         {
-          "en": "1935",
-          "hi": "1935"
+          "en": "United States",
+          "hi": "संयुक्त राज्य अमेरिका"
         },
         {
-          "en": "1947",
-          "hi": "1947"
+          "en": "Australia",
+          "hi": "ऑस्ट्रेलिया"
         },
         {
-          "en": "1949",
-          "hi": "1949"
+          "en": "United Kingdom",
+          "hi": "यूनाइटेड किंगडम"
         },
         {
-          "en": "1969",
-          "hi": "1969"
+          "en": "United Arab Emirates",
+          "hi": "संयुक्त अरब अमीरात"
         }
       ],
       "correctAnswer": 2,
       "explanation": {
-        "en": "The Reserve Bank of India (RBI) was established on April 1, 1935, under the RBI Act, 1934. It was subsequently nationalised on January 1, 1949. It acts as the central bank and regulatory body for the Indian banking system.",
-        "hi": "भारतीय रिजर्व बैंक (RBI) की स्थापना 1 अप्रैल, 1935 को RBI अधिनियम, 1934 के तहत की गई थी। बाद में 1 जनवरी, 1949 को इसका राष्ट्रीयकरण किया गया। यह भारतीय बैंकिंग प्रणाली के लिए केंद्रीय बैंक और नियामक निकाय के रूप में कार्य करता है।"
+        "en": "India and the UK agreed to exchange data annually on the use of their trade agreement (CETA) to help businesses leverage lower tariffs. The pact involves a £1 billion commercial deal announcement.",
+        "hi": "भारत और यूके व्यवसायों को कम टैरिफ का लाभ उठाने में मदद करने के लिए अपने व्यापार समझौते (सीईटीए) के उपयोग पर सालाना डेटा का आदान-प्रदान करने पर सहमत हुए।इस समझौते में £1 बिलियन के वाणिज्यिक सौदे की घोषणा शामिल है।"
       },
       "category": "Economy & Banking",
-      "difficulty": "easy",
-      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/rbi-measures-rupee-to-gain-sharply-but-forex-liquidity-likely-to-dry-up/articleshow/134877494.cms"
+      "difficulty": "medium",
+      "sourceUrl": "https://www.livemint.com/economy/india-uk-to-exchange-tariff-usage-data-under-trade-agreement-11791813690726.html"
     },
     {
-      "id": "ca_20261012_04",
+      "id": "ca_20261013_03",
       "question": {
-        "en": "Which Indian cricketer recently broke Suryakumar Yadav's record to become the fastest batter to reach 2,000 runs in T20 Internationals?",
-        "hi": "हाल ही में किस भारतीय क्रिकेटर ने सूर्यकुमार यादव का रिकॉर्ड तोड़कर टी20 अंतरराष्ट्रीय में सबसे तेज 2,000 रन बनाने वाले बल्लेबाज बनने का गौरव प्राप्त किया है?"
+        "en": "According to BCG, how much greenfield Foreign Direct Investment (FDI) has India drawn, outpacing China amid global realignment?",
+        "hi": "बीसीजी के अनुसार, वैश्विक पुनर्गठन के बीच भारत ने चीन को पछाड़कर कितना ग्रीनफील्ड प्रत्यक्ष विदेशी निवेश (एफडीआई) हासिल किया है?"
       },
       "options": [
         {
-          "en": "Yashasvi Jaiswal",
-          "hi": "यशस्वी जायसवाल"
+          "en": "$251 billion",
+          "hi": "$251 बिलियन"
         },
         {
-          "en": "Shubman Gill",
-          "hi": "शुभमन गिल"
+          "en": "$300 billion",
+          "hi": "$300 बिलियन"
         },
         {
-          "en": "Ruturaj Gaikwad",
-          "hi": "ऋतुराज गायकवाड़"
+          "en": "$351 billion",
+          "hi": "$351 बिलियन"
         },
         {
-          "en": "Abhishek Sharma",
-          "hi": "अभिषेक शर्मा"
+          "en": "$400 billion",
+          "hi": "$400 बिलियन"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "According to BCG, India has drawn $351 billion in greenfield FDI, emerging as the biggest draw for investors and outpacing China amid a sweeping global realignment of supply chains.",
+        "hi": "बीसीजी के अनुसार, भारत ने ग्रीनफील्ड एफडीआई में $351 बिलियन का निवेश किया है, जो निवेशकों के लिए सबसे बड़ा आकर्षण बनकर उभरा है और आपूर्ति श्रृंखलाओं के व्यापक वैश्विक पुनर्गठन के बीच चीन को पीछे छोड़ दिया है।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "hard",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/finance/india-draws-351-billion-in-greenfield-fdi-outpaces-china/articleshow/134901834.cms"
+    },
+    {
+      "id": "ca_20261013_04",
+      "question": {
+        "en": "The Indian Council of Medical Research (ICMR) is seeking partners to commercialize an oral nanodrug for treating which condition in newborns?",
+        "hi": "भारतीय चिकित्सा अनुसंधान परिषद (आईसीएमआर) नवजात शिशुओं में किस स्थिति के इलाज के लिए एक मौखिक नैनोड्रग का व्यावसायीकरण करने के लिए भागीदारों की तलाश कर रही है?"
+      },
+      "options": [
+        {
+          "en": "Pneumonia",
+          "hi": "न्यूमोनिया"
+        },
+        {
+          "en": "Severe Jaundice",
+          "hi": "गंभीर पीलिया"
+        },
+        {
+          "en": "Malaria",
+          "hi": "मलेरिया"
+        },
+        {
+          "en": "Tuberculosis",
+          "hi": "यक्ष्मा"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The ICMR is planning an oral nanodrug to treat severe newborn jaundice. The liquid formulation reduces infant brain toxins by 85%, offering a low-cost alternative to phototherapy.",
+        "hi": "आईसीएमआर गंभीर नवजात पीलिया के इलाज के लिए एक मौखिक नैनोड्रग की योजना बना रहा है।तरल फॉर्मूलेशन शिशु के मस्तिष्क के विषाक्त पदार्थों को 85% तक कम कर देता है, जो फोटोथेरेपी के लिए कम लागत वाला विकल्प प्रदान करता है।"
+      },
+      "category": "Science & Technology",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.livemint.com/science/india-plans-oral-nanodrug-to-treat-severe-newborn-jaundice-11791537908650.html"
+    },
+    {
+      "id": "ca_20261013_05",
+      "question": {
+        "en": "With which space agency did Pokémon GO partner during World Space Week 2026?",
+        "hi": "विश्व अंतरिक्ष सप्ताह 2026 के दौरान पोकेमॉन गो ने किस अंतरिक्ष एजेंसी के साथ साझेदारी की?"
+      },
+      "options": [
+        {
+          "en": "ISRO (Indian Space Research Organisation)",
+          "hi": "इसरो (भारतीय अंतरिक्ष अनुसंधान संगठन)"
+        },
+        {
+          "en": "NASA (National Aeronautics and Space Administration)",
+          "hi": "नासा (राष्ट्रीय वैमानिकी एवं अंतरिक्ष प्रशासन)"
+        },
+        {
+          "en": "ESA (European Space Agency)",
+          "hi": "ईएसए (यूरोपीय अंतरिक्ष एजेंसी)"
+        },
+        {
+          "en": "JAXA (Japan Aerospace Exploration Agency)",
+          "hi": "JAXA (जापान एयरोस्पेस एक्सप्लोरेशन एजेंसी)"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "During World Space Week 2026 (October 4-10), Pokémon GO partnered with the European Space Agency (ESA) to organize special events in participating science and space museums.",
+        "hi": "विश्व अंतरिक्ष सप्ताह 2026 (4-10 अक्टूबर) के दौरान, पोकेमॉन गो ने भाग लेने वाले विज्ञान और अंतरिक्ष संग्रहालयों में विशेष कार्यक्रम आयोजित करने के लिए यूरोपीय अंतरिक्ष एजेंसी (ईएसए) के साथ साझेदारी की।"
+      },
+      "category": "Science & Technology",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.livemint.com/science/world-space-week-2026-pikachu-gets-a-space-twist-why-pok-mon-go-has-partnered-with-european-space-agency-11791446097599.html"
+    },
+    {
+      "id": "ca_20261013_06",
+      "question": {
+        "en": "The Supreme Court of India recently directed the government to cap the prices of which category of medicines?",
+        "hi": "भारत के सर्वोच्च न्यायालय ने हाल ही में सरकार को किस श्रेणी की दवाओं की कीमतें सीमित करने का निर्देश दिया?"
+      },
+      "options": [
+        {
+          "en": "Ayurvedic Medicines",
+          "hi": "आयुर्वेदिक औषधियाँ"
+        },
+        {
+          "en": "Non-patented Medicines",
+          "hi": "गैर-पेटेंट औषधियाँ"
+        },
+        {
+          "en": "Vaccines only",
+          "hi": "केवल टीके"
+        },
+        {
+          "en": "Surgical instruments",
+          "hi": "सर्जिकल उपकरण"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The Supreme Court recently directed the government to cap the prices of non-patented medicines to ensure affordability and accessibility for the general public.",
+        "hi": "सुप्रीम कोर्ट ने हाल ही में सरकार को आम जनता के लिए सामर्थ्य और पहुंच सुनिश्चित करने के लिए गैर-पेटेंट दवाओं की कीमतों को सीमित करने का निर्देश दिया।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/sc-to-government-cap-prices-of-non-patented-medicines/articleshow/134905026.cms"
+    },
+    {
+      "id": "ca_20261013_07",
+      "question": {
+        "en": "From which date will an invoice management system become mandatory under GST to minimize human errors during digital matching?",
+        "hi": "डिजिटल मिलान के दौरान मानवीय त्रुटियों को कम करने के लिए जीएसटी के तहत एक चालान प्रबंधन प्रणाली किस तारीख से अनिवार्य हो जाएगी?"
+      },
+      "options": [
+        {
+          "en": "January 1, 2027",
+          "hi": "1 जनवरी 2027"
+        },
+        {
+          "en": "April 1, 2027",
+          "hi": "1 अप्रैल, 2027"
+        },
+        {
+          "en": "July 1, 2027",
+          "hi": "1 जुलाई 2027"
+        },
+        {
+          "en": "October 1, 2027",
+          "hi": "1 अक्टूबर, 2027"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Starting April 1, 2027, an invoice management system will be mandatory under GST. The Centre and states are also collaborating to draft rules for existing arrest cases under GST.",
+        "hi": "1 अप्रैल, 2027 से जीएसटी के तहत एक चालान प्रबंधन प्रणाली अनिवार्य होगी।केंद्र और राज्य जीएसटी के तहत मौजूदा गिरफ्तारी मामलों के लिए नियमों का मसौदा तैयार करने में भी सहयोग कर रहे हैं।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "hard",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/policy/centre-states-to-draft-rules-for-existing-arrest-cases-under-gst/articleshow/134901987.cms"
+    },
+    {
+      "id": "ca_20261013_08",
+      "question": {
+        "en": "Golfer Pranavi Urs won the individual gold and team silver at which major sporting event held in Aichi-Nagoya?",
+        "hi": "गोल्फर प्रणवी उर्स ने आइची-नागोया में आयोजित किस प्रमुख खेल प्रतियोगिता में व्यक्तिगत स्वर्ण और टीम रजत जीता?"
+      },
+      "options": [
+        {
+          "en": "Commonwealth Games",
+          "hi": "राष्ट्रमंडल खेल"
+        },
+        {
+          "en": "Asian Games",
+          "hi": "एशियाई खेल"
+        },
+        {
+          "en": "Olympics",
+          "hi": "ओलिंपिक"
+        },
+        {
+          "en": "World Golf Championships",
+          "hi": "विश्व गोल्फ चैंपियनशिप"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Pranavi Urs gained valuable experience in Hangzhou and won the individual gold and team silver at the Asian Games held in Aichi-Nagoya. She plays on the Ladies European Tour.",
+        "hi": "प्रणवी उर्स ने हांगझू में बहुमूल्य अनुभव प्राप्त किया और आइची-नागोया में आयोजित एशियाई खेलों में व्यक्तिगत स्वर्ण और टीम रजत जीता।वह लेडीज़ यूरोपियन टूर पर खेलती है।"
+      },
+      "category": "Sports",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/sport/my-olympics-preparation-is-not-going-to-change-much-pranavi-urs/article71575804.ece"
+    },
+    {
+      "id": "ca_20261013_09",
+      "question": {
+        "en": "Which industry body suggested that the Ministry improve technical qualification requirements for companies involved in transmission projects?",
+        "hi": "किस उद्योग निकाय ने सुझाव दिया कि मंत्रालय ट्रांसमिशन परियोजनाओं में शामिल कंपनियों के लिए तकनीकी योग्यता आवश्यकताओं में सुधार करे?"
+      },
+      "options": [
+        {
+          "en": "FICCI",
+          "hi": "फिक्की"
+        },
+        {
+          "en": "CII",
+          "hi": "सीआईआई"
+        },
+        {
+          "en": "NASSCOM",
+          "hi": "नैसकॉम"
+        },
+        {
+          "en": "ASSOCHAM",
+          "hi": "एसोचैम"
         }
       ],
       "correctAnswer": 3,
       "explanation": {
-        "en": "Abhishek Sharma recently broke Suryakumar Yadav's record to become the fastest Indian batter to reach 2,000 runs in T20 Internationals during a match against the West Indies, where India took a 2-1 lead in the series.",
-        "hi": "अभिषेक शर्मा ने हाल ही में वेस्टइंडीज के खिलाफ एक मैच के दौरान टी20 अंतरराष्ट्रीय में सबसे तेज 2,000 रन बनाने वाले भारतीय बल्लेबाज बनने का सूर्यकुमार यादव का रिकॉर्ड तोड़ दिया, जहां भारत ने सीरीज में 2-1 की बढ़त बना ली।"
-      },
-      "category": "Sports",
-      "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/abhishek-sharma-breaks-suryakumar-yadavs-record-becomes-fastest-to-2000-t20i-runs/articleshow/134872112.cms"
-    },
-    {
-      "id": "ca_20261012_05",
-      "question": {
-        "en": "Sri Lankan President Anura Kumara Dissanayake recently highlighted 'good relations' with India and discussed the Katchatheevu stance. The Katchatheevu island was ceded by India to Sri Lanka in which year?",
-        "hi": "श्रीलंका के राष्ट्रपति अनुरा कुमारा दिसानायके ने हाल ही में भारत के साथ 'अच्छे संबंधों' पर प्रकाश डाला और कच्चाथीवू (Katchatheevu) रुख पर चर्चा की। भारत द्वारा श्रीलंका को कच्चाथीवू द्वीप किस वर्ष सौंपा गया था?"
-      },
-      "options": [
-        {
-          "en": "1971",
-          "hi": "1971"
-        },
-        {
-          "en": "1974",
-          "hi": "1974"
-        },
-        {
-          "en": "1983",
-          "hi": "1983"
-        },
-        {
-          "en": "1987",
-          "hi": "1987"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "Katchatheevu is an uninhabited island in the Palk Strait. India ceded the island to Sri Lanka in 1974 under a boundary agreement signed between then Prime Minister Indira Gandhi and her Sri Lankan counterpart Sirimavo Bandaranaike.",
-        "hi": "कच्चाथीवू पाक जलडमरूमध्य में एक निर्जन द्वीप है। तत्कालीन प्रधानमंत्री इंदिरा गांधी और उनकी श्रीलंकाई समकक्ष सिरिमावो भंडारनायके के बीच हस्ताक्षरित सीमा समझौते के तहत भारत ने 1974 में इस द्वीप को श्रीलंका को सौंप दिया था।"
-      },
-      "category": "International Summits",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.thehindu.com/news/international/dissanayake-highlights-good-relations-with-india-points-to-new-delhis-katchatheevu-stance/article71572026.ece"
-    },
-    {
-      "id": "ca_20261012_06",
-      "question": {
-        "en": "According to recent data, coal supplies to power plants have risen by 36% from September lows. Which Ministry is primarily responsible for the overall development and monitoring of the coal sector in India?",
-        "hi": "हालिया आंकड़ों के अनुसार, बिजली संयंत्रों को कोयले की आपूर्ति सितंबर के निचले स्तर से 36% बढ़ गई है। भारत में कोयला क्षेत्र के समग्र विकास और निगरानी के लिए मुख्य रूप से कौन सा मंत्रालय जिम्मेदार है?"
-      },
-      "options": [
-        {
-          "en": "Ministry of Power",
-          "hi": "विद्युत मंत्रालय"
-        },
-        {
-          "en": "Ministry of New and Renewable Energy",
-          "hi": "नवीन और नवीकरणीय ऊर्जा मंत्रालय"
-        },
-        {
-          "en": "Ministry of Coal",
-          "hi": "कोयला मंत्रालय"
-        },
-        {
-          "en": "Ministry of Mines",
-          "hi": "खान मंत्रालय"
-        }
-      ],
-      "correctAnswer": 2,
-      "explanation": {
-        "en": "The Ministry of Coal is responsible for policies and strategies related to the exploration and development of coal and lignite reserves. Recent data indicated a 36% rise in coal supplies to power plants, easing concerns over energy shortages.",
-        "hi": "कोयला मंत्रालय कोयला और लिग्नाइट भंडार की खोज और विकास से संबंधित नीतियों और रणनीतियों के लिए जिम्मेदार है। हालिया आंकड़ों ने बिजली संयंत्रों को कोयले की आपूर्ति में 36% की वृद्धि का संकेत दिया, जिससे ऊर्जा की कमी की चिंताएं कम हुईं।"
-      },
-      "category": "Economy & Banking",
-      "difficulty": "easy",
-      "sourceUrl": "https://www.thehindu.com/business/Economy/coal-supplies-to-power-plants-rise-36-from-september-lows-rail-loading-hits-465-rakes-a-day/article71564570.ece"
-    },
-    {
-      "id": "ca_20261012_07",
-      "question": {
-        "en": "Scientists recently found a 9-million-year-old capybara relative's tooth in the Atacama Desert, suggesting a wetter past. The Atacama Desert is primarily located in which country?",
-        "hi": "वैज्ञानिकों ने हाल ही में अटाकामा मरुस्थल में 9 मिलियन वर्ष पुराने कैपिबारा (capybara) के एक रिश्तेदार का दांत पाया है, जो पहले के एक नम अतीत का संकेत देता है। अटाकामा मरुस्थल मुख्य रूप से किस देश में स्थित है?"
-      },
-      "options": [
-        {
-          "en": "Argentina",
-          "hi": "अर्जेंटीना"
-        },
-        {
-          "en": "Chile",
-          "hi": "चिली"
-        },
-        {
-          "en": "Peru",
-          "hi": "पेरू"
-        },
-        {
-          "en": "Brazil",
-          "hi": "ब्राजील"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "The Atacama Desert is a desert plateau in South America covering a 1,600 km strip of land on the Pacific coast, west of the Andes Mountains. It is primarily located in Chile and is considered one of the driest non-polar deserts in the world.",
-        "hi": "अटाकामा मरुस्थल दक्षिण अमेरिका में एक मरुस्थलीय पठार है जो एंडीज पर्वत के पश्चिम में प्रशांत तट पर 1,600 किमी की भूमि की पट्टी को कवर करता है। यह मुख्य रूप से चिली में स्थित है और इसे दुनिया के सबसे शुष्क गैर-ध्रुवीय मरुस्थलों में से एक माना जाता है।"
-      },
-      "category": "Environment & Ecology",
-      "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/science/discovery/scientists-found-a-9-million-year-old-capybara-relatives-tooth-in-chiles-atacama-desert-one-of-earths-driest-places-the-water-loving-animal-adds-evidence-that-the-region-once-supported-wetlands-and-a-much-wetter-climate/articleshow/134870235.cms"
-    },
-    {
-      "id": "ca_20261012_08",
-      "question": {
-        "en": "The Indian Government recently slammed a UN body for 'practising double standards'. Under which international treaty was the UN Human Rights Council (UNHRC) established?",
-        "hi": "भारत सरकार ने हाल ही में 'दोहरे मापदंड अपनाने' के लिए संयुक्त राष्ट्र के एक निकाय की कड़ी आलोचना की। संयुक्त राष्ट्र मानवाधिकार परिषद (UNHRC) की स्थापना किस अंतरराष्ट्रीय संधि या संकल्प के तहत की गई थी?"
-      },
-      "options": [
-        {
-          "en": "UN General Assembly Resolution 60/251",
-          "hi": "संयुक्त राष्ट्र महासभा संकल्प 60/251"
-        },
-        {
-          "en": "Universal Declaration of Human Rights, 1948",
-          "hi": "मानवाधिकारों की सार्वभौम घोषणा, 1948"
-        },
-        {
-          "en": "International Covenant on Civil and Political Rights, 1966",
-          "hi": "नागरिक और राजनीतिक अधिकारों पर अंतर्राष्ट्रीय नियम, 1966"
-        },
-        {
-          "en": "Geneva Conventions, 1949",
-          "hi": "जिनेवा कन्वेंशन, 1949"
-        }
-      ],
-      "correctAnswer": 0,
-      "explanation": {
-        "en": "The United Nations Human Rights Council (UNHRC) was established by the UN General Assembly on March 15, 2006, by resolution 60/251. It replaced the previous United Nations Commission on Human Rights. It is headquartered in Geneva, Switzerland.",
-        "hi": "संयुक्त राष्ट्र मानवाधिकार परिषद (UNHRC) की स्थापना संयुक्त राष्ट्र महासभा द्वारा 15 मार्च, 2006 को संकल्प 60/251 द्वारा की गई थी। इसने मानवाधिकारों पर पूर्व संयुक्त राष्ट्र आयोग का स्थान लिया। इसका मुख्यालय जिनेवा, स्विट्जरलैंड में है।"
+        "en": "ASSOCHAM (Associated Chambers of Commerce and Industry of India) sought a review of bidders' qualifications for transmission units, ensuring only experienced developers participate in the bidding process.",
+        "hi": "एसोचैम (एसोसिएटेड चैंबर्स ऑफ कॉमर्स एंड इंडस्ट्री ऑफ इंडिया) ने ट्रांसमिशन इकाइयों के लिए बोलीदाताओं की योग्यता की समीक्षा करने की मांग की, ताकि यह सुनिश्चित किया जा सके कि केवल अनुभवी डेवलपर्स ही बोली प्रक्रिया में भाग लें।"
       },
       "category": "Polity & Governance",
-      "difficulty": "hard",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/government-slams-un-rights-body-for-practising-double-standards/articleshow/134879728.cms"
+      "difficulty": "easy",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/policy/assocham-seeks-review-of-bidders-qualificationfor-transmission-units/articleshow/134901511.cms"
     },
     {
-      "id": "ca_20261012_09",
+      "id": "ca_20261013_10",
       "question": {
-        "en": "Researchers have recently developed tattoo inks that vanish in sunlight but can be switched on with ultraviolet light. This innovation can stay switchable in the skin for up to 2.2 years. Which branch of medical science primarily deals with skin and its diseases?",
-        "hi": "शोधकर्ताओं ने हाल ही में ऐसे टैटू इंक (स्याही) विकसित किए हैं जो सूरज की रोशनी में गायब हो जाते हैं लेकिन पराबैंगनी प्रकाश (यूवी लाइट) से चालू हो सकते हैं। यह नवाचार 2.2 साल तक त्वचा में स्विच करने योग्य रह सकता है। चिकित्सा विज्ञान की कौन सी शाखा मुख्य रूप से त्वचा और उसके रोगों से संबंधित है?"
+        "en": "A powerful solar eruption recorded on October 8 triggered a moderate geomagnetic storm on which date in October 2026?",
+        "hi": "8 अक्टूबर को रिकॉर्ड किए गए एक शक्तिशाली सौर विस्फोट ने अक्टूबर 2026 में किस तारीख को एक मध्यम भू-चुंबकीय तूफान पैदा कर दिया?"
       },
       "options": [
         {
-          "en": "Oncology",
-          "hi": "ऑन्कोलॉजी"
+          "en": "October 9",
+          "hi": "9 अक्टूबर"
         },
         {
-          "en": "Cardiology",
-          "hi": "कार्डियोलॉजी"
+          "en": "October 10",
+          "hi": "10 अक्टूबर"
         },
         {
-          "en": "Dermatology",
-          "hi": "डर्मेटोलॉजी"
+          "en": "October 11",
+          "hi": "11 अक्टूबर"
         },
         {
-          "en": "Endocrinology",
-          "hi": "एंडोक्रिनोलॉजी"
+          "en": "October 12",
+          "hi": "12 अक्टूबर"
         }
       ],
       "correctAnswer": 2,
       "explanation": {
-        "en": "Dermatology is the branch of medicine dealing with the skin, nails, hair, and its diseases. The new switchable tattoo ink research offers possible long-term medical uses, such as tracking health parameters directly on the skin.",
-        "hi": "डर्मेटोलॉजी (त्वचा विज्ञान) चिकित्सा की वह शाखा है जो त्वचा, नाखून, बाल और उसके रोगों से संबंधित है। नए स्विच करने योग्य टैटू इंक का शोध संभावित दीर्घकालिक चिकित्सा उपयोग प्रदान करता है, जैसे सीधे त्वचा पर स्वास्थ्य मापदंडों पर नज़र रखना।"
+        "en": "A powerful solar eruption on October 8 triggered a moderate geomagnetic storm on October 11, 2026, as warned by NOAA. Such events can affect satellite signals and power networks.",
+        "hi": "जैसा कि एनओएए ने चेतावनी दी थी, 8 अक्टूबर को एक शक्तिशाली सौर विस्फोट ने 11 अक्टूबर, 2026 को एक मध्यम भू-चुंबकीय तूफान को जन्म दिया।ऐसी घटनाएं उपग्रह सिग्नल और बिजली नेटवर्क को प्रभावित कर सकती हैं।"
       },
       "category": "Science & Technology",
-      "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/science/discovery/researchers-developed-tattoo-inks-that-can-be-switched-on-with-ultraviolet-light-and-made-to-disappear-in-sunlight-tests-found-the-colours-remained-switchable-in-skin-for-up-to-2-2-years-opening-possible-medical-uses/articleshow/134869483.cms"
-    },
-    {
-      "id": "ca_20261012_10",
-      "question": {
-        "en": "A recent study by UC San Diego found a genetic switch that gave butterflies richer colour vision by expanding light-detecting cells. The study of insects is known as:",
-        "hi": "यूसी सैन डिएगो के एक हालिया अध्ययन में एक आनुवंशिक स्विच पाया गया जिसने प्रकाश-पता लगाने वाली कोशिकाओं का विस्तार करके तितलियों को समृद्ध रंग दृष्टि प्रदान की। कीटों के अध्ययन को क्या कहा जाता है?"
-      },
-      "options": [
-        {
-          "en": "Entomology",
-          "hi": "एंटोमोलॉजी"
-        },
-        {
-          "en": "Ornithology",
-          "hi": "ऑर्निथोलॉजी"
-        },
-        {
-          "en": "Herpetology",
-          "hi": "हर्पेटोलॉजी"
-        },
-        {
-          "en": "Ichthyology",
-          "hi": "इचथियोलॉजी"
-        }
-      ],
-      "correctAnswer": 0,
-      "explanation": {
-        "en": "Entomology is the scientific study of insects, a branch of zoology. The UC San Diego study identified a genetic switch that gave butterflies an extra light-detecting cell in their eyes, greatly expanding their colour vision.",
-        "hi": "एंटोमोलॉजी (कीट विज्ञान) कीटों का वैज्ञानिक अध्ययन है, जो प्राणीशास्त्र की एक शाखा है। यूसी सैन डिएगो के अध्ययन ने एक आनुवंशिक स्विच की पहचान की जिसने तितलियों को उनकी आंखों में एक अतिरिक्त प्रकाश-पता लगाने वाली कोशिका दी, जिससे उनके रंग दृष्टि का काफी विस्तार हुआ।"
-      },
-      "category": "Science & Technology",
-      "difficulty": "hard",
-      "sourceUrl": "https://timesofindia.indiatimes.com/science/discovery/uc-san-diego-biologists-identified-the-genetic-switch-that-gave-butterflies-an-extra-light-detecting-cell-in-their-eyes-expanding-their-colour-vision-beyond-imagination/articleshow/134866696.cms"
+      "difficulty": "easy",
+      "sourceUrl": "https://www.livemint.com/science/news/geomagnetic-solar-storm-on-october-11-what-to-know-about-the-powerful-eruption-heading-towards-earth-11791643817133.html"
     }
   ]
 }

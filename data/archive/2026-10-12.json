@@ -1,0 +1,340 @@
+{
+  "date": "2026-10-12",
+  "topic": "SSC CGL Daily Current Affairs",
+  "source": "The Hindu / Times of India",
+  "lastUpdated": "2026-10-12T05:30:00+05:30",
+  "version": 1,
+  "totalQuestions": 10,
+  "quiz": [
+    {
+      "id": "ca_20261012_01",
+      "question": {
+        "en": "According to a recent statement by an ISRO official, the TRISHNA satellite is in an advanced stage of realisation. What is the primary objective of the TRISHNA mission?",
+        "hi": "इसरो के एक अधिकारी के हालिया बयान के अनुसार, तृष्णा (TRISHNA) उपग्रह कार्यान्वयन के उन्नत चरण में है। तृष्णा मिशन का प्राथमिक उद्देश्य क्या है?"
+      },
+      "options": [
+        {
+          "en": "To study the solar corona and solar emissions.",
+          "hi": "सौर कोरोना और सौर उत्सर्जन का अध्ययन करना।"
+        },
+        {
+          "en": "To provide high-resolution thermal imaging for ecosystem stress and water use monitoring.",
+          "hi": "पारिस्थितिकी तंत्र के तनाव और पानी के उपयोग की निगरानी के लिए उच्च-रिज़ॉल्यूशन थर्मल इमेजिंग प्रदान करना।"
+        },
+        {
+          "en": "To explore the permanently shadowed regions of the lunar south pole.",
+          "hi": "चंद्रमा के दक्षिणी ध्रुव के स्थायी रूप से छाया वाले क्षेत्रों का पता लगाना।"
+        },
+        {
+          "en": "To establish a regional navigation satellite system.",
+          "hi": "एक क्षेत्रीय नेविगेशन उपग्रह प्रणाली स्थापित करना।"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "TRISHNA (Thermal infraRed Imaging Satellite for High-resolution Natural resource Assessment) is a joint mission by ISRO and CNES (French space agency). It is designed to provide high-resolution thermal imaging to monitor surface temperature, ecosystem stress, and water use.",
+        "hi": "तृष्णा (TRISHNA - थर्मल इंफ्रारेड इमेजिंग सैटेलाइट फॉर हाई-रिज़ॉल्यूशन नेचुरल रिसोर्स असेसमेंट) इसरो (ISRO) और सीएनईएस (CNES - फ्रांसीसी अंतरिक्ष एजेंसी) का एक संयुक्त मिशन है। इसे सतह के तापमान, पारिस्थितिकी तंत्र के तनाव और पानी के उपयोग की निगरानी के लिए उच्च-रिज़ॉल्यूशन थर्मल इमेजिंग प्रदान करने के लिए डिज़ाइन किया गया है।"
+      },
+      "category": "Science & Technology",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/sci-tech/science/trishna-satellite-is-in-advanced-stage-of-realisation-says-isro-official/article71571635.ece"
+    },
+    {
+      "id": "ca_20261012_02",
+      "question": {
+        "en": "Recently, the GST Council concluded a crucial meeting focused on significant tax reforms. Under which Article of the Indian Constitution was the GST Council established?",
+        "hi": "हाल ही में, जीएसटी परिषद ने महत्वपूर्ण कर सुधारों पर केंद्रित एक महत्वपूर्ण बैठक संपन्न की। भारतीय संविधान के किस अनुच्छेद के तहत जीएसटी परिषद की स्थापना की गई थी?"
+      },
+      "options": [
+        {
+          "en": "Article 280",
+          "hi": "अनुच्छेद 280"
+        },
+        {
+          "en": "Article 279A",
+          "hi": "अनुच्छेद 279A"
+        },
+        {
+          "en": "Article 246A",
+          "hi": "अनुच्छेद 246A"
+        },
+        {
+          "en": "Article 269A",
+          "hi": "अनुच्छेद 269A"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The GST Council was established under Article 279A of the Indian Constitution, inserted by the 101st Constitutional Amendment Act, 2016. It is a joint forum of the Centre and the States, chaired by the Union Finance Minister.",
+        "hi": "जीएसटी परिषद की स्थापना 101वें संविधान संशोधन अधिनियम, 2016 द्वारा सम्मिलित भारतीय संविधान के अनुच्छेद 279A के तहत की गई थी। यह केंद्र और राज्यों का एक संयुक्त मंच है, जिसकी अध्यक्षता केंद्रीय वित्त मंत्री करते हैं।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.thehindu.com/opinion/editorial/delivery-completed-on-the-gst-council-meet-reforms/article71564732.ece"
+    },
+    {
+      "id": "ca_20261012_03",
+      "question": {
+        "en": "Following significant measures by the Reserve Bank of India (RBI), the Indian Rupee is expected to gain, although forex liquidity may dry up. In which year was the RBI nationalised?",
+        "hi": "भारतीय रिज़र्व बैंक (RBI) के महत्वपूर्ण उपायों के बाद, भारतीय रुपये में तेजी आने की उम्मीद है, हालांकि विदेशी मुद्रा तरलता सूख सकती है। आरबीआई (RBI) का राष्ट्रीयकरण किस वर्ष किया गया था?"
+      },
+      "options": [
+        {
+          "en": "1935",
+          "hi": "1935"
+        },
+        {
+          "en": "1947",
+          "hi": "1947"
+        },
+        {
+          "en": "1949",
+          "hi": "1949"
+        },
+        {
+          "en": "1969",
+          "hi": "1969"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The Reserve Bank of India (RBI) was established on April 1, 1935, under the RBI Act, 1934. It was subsequently nationalised on January 1, 1949. It acts as the central bank and regulatory body for the Indian banking system.",
+        "hi": "भारतीय रिजर्व बैंक (RBI) की स्थापना 1 अप्रैल, 1935 को RBI अधिनियम, 1934 के तहत की गई थी। बाद में 1 जनवरी, 1949 को इसका राष्ट्रीयकरण किया गया। यह भारतीय बैंकिंग प्रणाली के लिए केंद्रीय बैंक और नियामक निकाय के रूप में कार्य करता है।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/rbi-measures-rupee-to-gain-sharply-but-forex-liquidity-likely-to-dry-up/articleshow/134877494.cms"
+    },
+    {
+      "id": "ca_20261012_04",
+      "question": {
+        "en": "Which Indian cricketer recently broke Suryakumar Yadav's record to become the fastest batter to reach 2,000 runs in T20 Internationals?",
+        "hi": "हाल ही में किस भारतीय क्रिकेटर ने सूर्यकुमार यादव का रिकॉर्ड तोड़कर टी20 अंतरराष्ट्रीय में सबसे तेज 2,000 रन बनाने वाले बल्लेबाज बनने का गौरव प्राप्त किया है?"
+      },
+      "options": [
+        {
+          "en": "Yashasvi Jaiswal",
+          "hi": "यशस्वी जायसवाल"
+        },
+        {
+          "en": "Shubman Gill",
+          "hi": "शुभमन गिल"
+        },
+        {
+          "en": "Ruturaj Gaikwad",
+          "hi": "ऋतुराज गायकवाड़"
+        },
+        {
+          "en": "Abhishek Sharma",
+          "hi": "अभिषेक शर्मा"
+        }
+      ],
+      "correctAnswer": 3,
+      "explanation": {
+        "en": "Abhishek Sharma recently broke Suryakumar Yadav's record to become the fastest Indian batter to reach 2,000 runs in T20 Internationals during a match against the West Indies, where India took a 2-1 lead in the series.",
+        "hi": "अभिषेक शर्मा ने हाल ही में वेस्टइंडीज के खिलाफ एक मैच के दौरान टी20 अंतरराष्ट्रीय में सबसे तेज 2,000 रन बनाने वाले भारतीय बल्लेबाज बनने का सूर्यकुमार यादव का रिकॉर्ड तोड़ दिया, जहां भारत ने सीरीज में 2-1 की बढ़त बना ली।"
+      },
+      "category": "Sports",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/abhishek-sharma-breaks-suryakumar-yadavs-record-becomes-fastest-to-2000-t20i-runs/articleshow/134872112.cms"
+    },
+    {
+      "id": "ca_20261012_05",
+      "question": {
+        "en": "Sri Lankan President Anura Kumara Dissanayake recently highlighted 'good relations' with India and discussed the Katchatheevu stance. The Katchatheevu island was ceded by India to Sri Lanka in which year?",
+        "hi": "श्रीलंका के राष्ट्रपति अनुरा कुमारा दिसानायके ने हाल ही में भारत के साथ 'अच्छे संबंधों' पर प्रकाश डाला और कच्चाथीवू (Katchatheevu) रुख पर चर्चा की। भारत द्वारा श्रीलंका को कच्चाथीवू द्वीप किस वर्ष सौंपा गया था?"
+      },
+      "options": [
+        {
+          "en": "1971",
+          "hi": "1971"
+        },
+        {
+          "en": "1974",
+          "hi": "1974"
+        },
+        {
+          "en": "1983",
+          "hi": "1983"
+        },
+        {
+          "en": "1987",
+          "hi": "1987"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Katchatheevu is an uninhabited island in the Palk Strait. India ceded the island to Sri Lanka in 1974 under a boundary agreement signed between then Prime Minister Indira Gandhi and her Sri Lankan counterpart Sirimavo Bandaranaike.",
+        "hi": "कच्चाथीवू पाक जलडमरूमध्य में एक निर्जन द्वीप है। तत्कालीन प्रधानमंत्री इंदिरा गांधी और उनकी श्रीलंकाई समकक्ष सिरिमावो भंडारनायके के बीच हस्ताक्षरित सीमा समझौते के तहत भारत ने 1974 में इस द्वीप को श्रीलंका को सौंप दिया था।"
+      },
+      "category": "International Summits",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/news/international/dissanayake-highlights-good-relations-with-india-points-to-new-delhis-katchatheevu-stance/article71572026.ece"
+    },
+    {
+      "id": "ca_20261012_06",
+      "question": {
+        "en": "According to recent data, coal supplies to power plants have risen by 36% from September lows. Which Ministry is primarily responsible for the overall development and monitoring of the coal sector in India?",
+        "hi": "हालिया आंकड़ों के अनुसार, बिजली संयंत्रों को कोयले की आपूर्ति सितंबर के निचले स्तर से 36% बढ़ गई है। भारत में कोयला क्षेत्र के समग्र विकास और निगरानी के लिए मुख्य रूप से कौन सा मंत्रालय जिम्मेदार है?"
+      },
+      "options": [
+        {
+          "en": "Ministry of Power",
+          "hi": "विद्युत मंत्रालय"
+        },
+        {
+          "en": "Ministry of New and Renewable Energy",
+          "hi": "नवीन और नवीकरणीय ऊर्जा मंत्रालय"
+        },
+        {
+          "en": "Ministry of Coal",
+          "hi": "कोयला मंत्रालय"
+        },
+        {
+          "en": "Ministry of Mines",
+          "hi": "खान मंत्रालय"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The Ministry of Coal is responsible for policies and strategies related to the exploration and development of coal and lignite reserves. Recent data indicated a 36% rise in coal supplies to power plants, easing concerns over energy shortages.",
+        "hi": "कोयला मंत्रालय कोयला और लिग्नाइट भंडार की खोज और विकास से संबंधित नीतियों और रणनीतियों के लिए जिम्मेदार है। हालिया आंकड़ों ने बिजली संयंत्रों को कोयले की आपूर्ति में 36% की वृद्धि का संकेत दिया, जिससे ऊर्जा की कमी की चिंताएं कम हुईं।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.thehindu.com/business/Economy/coal-supplies-to-power-plants-rise-36-from-september-lows-rail-loading-hits-465-rakes-a-day/article71564570.ece"
+    },
+    {
+      "id": "ca_20261012_07",
+      "question": {
+        "en": "Scientists recently found a 9-million-year-old capybara relative's tooth in the Atacama Desert, suggesting a wetter past. The Atacama Desert is primarily located in which country?",
+        "hi": "वैज्ञानिकों ने हाल ही में अटाकामा मरुस्थल में 9 मिलियन वर्ष पुराने कैपिबारा (capybara) के एक रिश्तेदार का दांत पाया है, जो पहले के एक नम अतीत का संकेत देता है। अटाकामा मरुस्थल मुख्य रूप से किस देश में स्थित है?"
+      },
+      "options": [
+        {
+          "en": "Argentina",
+          "hi": "अर्जेंटीना"
+        },
+        {
+          "en": "Chile",
+          "hi": "चिली"
+        },
+        {
+          "en": "Peru",
+          "hi": "पेरू"
+        },
+        {
+          "en": "Brazil",
+          "hi": "ब्राजील"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The Atacama Desert is a desert plateau in South America covering a 1,600 km strip of land on the Pacific coast, west of the Andes Mountains. It is primarily located in Chile and is considered one of the driest non-polar deserts in the world.",
+        "hi": "अटाकामा मरुस्थल दक्षिण अमेरिका में एक मरुस्थलीय पठार है जो एंडीज पर्वत के पश्चिम में प्रशांत तट पर 1,600 किमी की भूमि की पट्टी को कवर करता है। यह मुख्य रूप से चिली में स्थित है और इसे दुनिया के सबसे शुष्क गैर-ध्रुवीय मरुस्थलों में से एक माना जाता है।"
+      },
+      "category": "Environment & Ecology",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/science/discovery/scientists-found-a-9-million-year-old-capybara-relatives-tooth-in-chiles-atacama-desert-one-of-earths-driest-places-the-water-loving-animal-adds-evidence-that-the-region-once-supported-wetlands-and-a-much-wetter-climate/articleshow/134870235.cms"
+    },
+    {
+      "id": "ca_20261012_08",
+      "question": {
+        "en": "The Indian Government recently slammed a UN body for 'practising double standards'. Under which international treaty was the UN Human Rights Council (UNHRC) established?",
+        "hi": "भारत सरकार ने हाल ही में 'दोहरे मापदंड अपनाने' के लिए संयुक्त राष्ट्र के एक निकाय की कड़ी आलोचना की। संयुक्त राष्ट्र मानवाधिकार परिषद (UNHRC) की स्थापना किस अंतरराष्ट्रीय संधि या संकल्प के तहत की गई थी?"
+      },
+      "options": [
+        {
+          "en": "UN General Assembly Resolution 60/251",
+          "hi": "संयुक्त राष्ट्र महासभा संकल्प 60/251"
+        },
+        {
+          "en": "Universal Declaration of Human Rights, 1948",
+          "hi": "मानवाधिकारों की सार्वभौम घोषणा, 1948"
+        },
+        {
+          "en": "International Covenant on Civil and Political Rights, 1966",
+          "hi": "नागरिक और राजनीतिक अधिकारों पर अंतर्राष्ट्रीय नियम, 1966"
+        },
+        {
+          "en": "Geneva Conventions, 1949",
+          "hi": "जिनेवा कन्वेंशन, 1949"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "The United Nations Human Rights Council (UNHRC) was established by the UN General Assembly on March 15, 2006, by resolution 60/251. It replaced the previous United Nations Commission on Human Rights. It is headquartered in Geneva, Switzerland.",
+        "hi": "संयुक्त राष्ट्र मानवाधिकार परिषद (UNHRC) की स्थापना संयुक्त राष्ट्र महासभा द्वारा 15 मार्च, 2006 को संकल्प 60/251 द्वारा की गई थी। इसने मानवाधिकारों पर पूर्व संयुक्त राष्ट्र आयोग का स्थान लिया। इसका मुख्यालय जिनेवा, स्विट्जरलैंड में है।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "hard",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/government-slams-un-rights-body-for-practising-double-standards/articleshow/134879728.cms"
+    },
+    {
+      "id": "ca_20261012_09",
+      "question": {
+        "en": "Researchers have recently developed tattoo inks that vanish in sunlight but can be switched on with ultraviolet light. This innovation can stay switchable in the skin for up to 2.2 years. Which branch of medical science primarily deals with skin and its diseases?",
+        "hi": "शोधकर्ताओं ने हाल ही में ऐसे टैटू इंक (स्याही) विकसित किए हैं जो सूरज की रोशनी में गायब हो जाते हैं लेकिन पराबैंगनी प्रकाश (यूवी लाइट) से चालू हो सकते हैं। यह नवाचार 2.2 साल तक त्वचा में स्विच करने योग्य रह सकता है। चिकित्सा विज्ञान की कौन सी शाखा मुख्य रूप से त्वचा और उसके रोगों से संबंधित है?"
+      },
+      "options": [
+        {
+          "en": "Oncology",
+          "hi": "ऑन्कोलॉजी"
+        },
+        {
+          "en": "Cardiology",
+          "hi": "कार्डियोलॉजी"
+        },
+        {
+          "en": "Dermatology",
+          "hi": "डर्मेटोलॉजी"
+        },
+        {
+          "en": "Endocrinology",
+          "hi": "एंडोक्रिनोलॉजी"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Dermatology is the branch of medicine dealing with the skin, nails, hair, and its diseases. The new switchable tattoo ink research offers possible long-term medical uses, such as tracking health parameters directly on the skin.",
+        "hi": "डर्मेटोलॉजी (त्वचा विज्ञान) चिकित्सा की वह शाखा है जो त्वचा, नाखून, बाल और उसके रोगों से संबंधित है। नए स्विच करने योग्य टैटू इंक का शोध संभावित दीर्घकालिक चिकित्सा उपयोग प्रदान करता है, जैसे सीधे त्वचा पर स्वास्थ्य मापदंडों पर नज़र रखना।"
+      },
+      "category": "Science & Technology",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/science/discovery/researchers-developed-tattoo-inks-that-can-be-switched-on-with-ultraviolet-light-and-made-to-disappear-in-sunlight-tests-found-the-colours-remained-switchable-in-skin-for-up-to-2-2-years-opening-possible-medical-uses/articleshow/134869483.cms"
+    },
+    {
+      "id": "ca_20261012_10",
+      "question": {
+        "en": "A recent study by UC San Diego found a genetic switch that gave butterflies richer colour vision by expanding light-detecting cells. The study of insects is known as:",
+        "hi": "यूसी सैन डिएगो के एक हालिया अध्ययन में एक आनुवंशिक स्विच पाया गया जिसने प्रकाश-पता लगाने वाली कोशिकाओं का विस्तार करके तितलियों को समृद्ध रंग दृष्टि प्रदान की। कीटों के अध्ययन को क्या कहा जाता है?"
+      },
+      "options": [
+        {
+          "en": "Entomology",
+          "hi": "एंटोमोलॉजी"
+        },
+        {
+          "en": "Ornithology",
+          "hi": "ऑर्निथोलॉजी"
+        },
+        {
+          "en": "Herpetology",
+          "hi": "हर्पेटोलॉजी"
+        },
+        {
+          "en": "Ichthyology",
+          "hi": "इचथियोलॉजी"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "Entomology is the scientific study of insects, a branch of zoology. The UC San Diego study identified a genetic switch that gave butterflies an extra light-detecting cell in their eyes, greatly expanding their colour vision.",
+        "hi": "एंटोमोलॉजी (कीट विज्ञान) कीटों का वैज्ञानिक अध्ययन है, जो प्राणीशास्त्र की एक शाखा है। यूसी सैन डिएगो के अध्ययन ने एक आनुवंशिक स्विच की पहचान की जिसने तितलियों को उनकी आंखों में एक अतिरिक्त प्रकाश-पता लगाने वाली कोशिका दी, जिससे उनके रंग दृष्टि का काफी विस्तार हुआ।"
+      },
+      "category": "Science & Technology",
+      "difficulty": "hard",
+      "sourceUrl": "https://timesofindia.indiatimes.com/science/discovery/uc-san-diego-biologists-identified-the-genetic-switch-that-gave-butterflies-an-extra-light-detecting-cell-in-their-eyes-expanding-their-colour-vision-beyond-imagination/articleshow/134866696.cms"
+    }
+  ]
+}
