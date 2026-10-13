@@ -1,13 +1,13 @@
 {
-  "date": "2026-10-13",
+  "date": "2026-10-14",
   "topic": "SSC CGL Daily Current Affairs",
   "source": "Mint / Economic Times / The Hindu / Times of India",
-  "lastUpdated": "2026-10-13T05:20:34+05:30",
+  "lastUpdated": "2026-10-14T06:30:00+05:30",
   "version": 1,
   "totalQuestions": 10,
   "quiz": [
     {
-      "id": "ca_20261013_01",
+      "id": "ca_20261014_01",
       "question": {
         "en": "According to Bloomberg Economics, expanding Free Trade Agreements (FTAs) could add how much to India's GDP by 2035?",
         "hi": "ब्लूमबर्ग इकोनॉमिक्स के अनुसार, मुक्त व्यापार समझौतों (एफटीए) का विस्तार 2035 तक भारत की जीडीपी में कितना जोड़ सकता है?"
@@ -40,7 +40,7 @@
       "sourceUrl": "https://www.livemint.com/economy/ftas-may-add-140bn-to-india-gdp-by-2035-lift-exports-6-2-bloomberg-economics-11791807640069.html"
     },
     {
-      "id": "ca_20261013_02",
+      "id": "ca_20261014_02",
       "question": {
         "en": "India and which country recently agreed to exchange data annually on the use of their Comprehensive Economic Partnership Agreement (CEPA/CETA) starting July 2027?",
         "hi": "भारत और कौन सा देश हाल ही में जुलाई 2027 से अपने व्यापक आर्थिक साझेदारी समझौते (CEPA/CETA) के उपयोग पर सालाना डेटा का आदान-प्रदान करने पर सहमत हुए?"
@@ -73,7 +73,7 @@
       "sourceUrl": "https://www.livemint.com/economy/india-uk-to-exchange-tariff-usage-data-under-trade-agreement-11791813690726.html"
     },
     {
-      "id": "ca_20261013_03",
+      "id": "ca_20261014_03",
       "question": {
         "en": "According to BCG, how much greenfield Foreign Direct Investment (FDI) has India drawn, outpacing China amid global realignment?",
         "hi": "बीसीजी के अनुसार, वैश्विक पुनर्गठन के बीच भारत ने चीन को पछाड़कर कितना ग्रीनफील्ड प्रत्यक्ष विदेशी निवेश (एफडीआई) हासिल किया है?"
@@ -106,7 +106,7 @@
       "sourceUrl": "https://economictimes.indiatimes.com/news/economy/finance/india-draws-351-billion-in-greenfield-fdi-outpaces-china/articleshow/134901834.cms"
     },
     {
-      "id": "ca_20261013_04",
+      "id": "ca_20261014_04",
       "question": {
         "en": "The Indian Council of Medical Research (ICMR) is seeking partners to commercialize an oral nanodrug for treating which condition in newborns?",
         "hi": "भारतीय चिकित्सा अनुसंधान परिषद (आईसीएमआर) नवजात शिशुओं में किस स्थिति के इलाज के लिए एक मौखिक नैनोड्रग का व्यावसायीकरण करने के लिए भागीदारों की तलाश कर रही है?"
@@ -139,7 +139,7 @@
       "sourceUrl": "https://www.livemint.com/science/india-plans-oral-nanodrug-to-treat-severe-newborn-jaundice-11791537908650.html"
     },
     {
-      "id": "ca_20261013_05",
+      "id": "ca_20261014_05",
       "question": {
         "en": "With which space agency did Pokémon GO partner during World Space Week 2026?",
         "hi": "विश्व अंतरिक्ष सप्ताह 2026 के दौरान पोकेमॉन गो ने किस अंतरिक्ष एजेंसी के साथ साझेदारी की?"
@@ -172,7 +172,7 @@
       "sourceUrl": "https://www.livemint.com/science/world-space-week-2026-pikachu-gets-a-space-twist-why-pok-mon-go-has-partnered-with-european-space-agency-11791446097599.html"
     },
     {
-      "id": "ca_20261013_06",
+      "id": "ca_20261014_06",
       "question": {
         "en": "The Supreme Court of India recently directed the government to cap the prices of which category of medicines?",
         "hi": "भारत के सर्वोच्च न्यायालय ने हाल ही में सरकार को किस श्रेणी की दवाओं की कीमतें सीमित करने का निर्देश दिया?"
@@ -205,7 +205,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/india/sc-to-government-cap-prices-of-non-patented-medicines/articleshow/134905026.cms"
     },
     {
-      "id": "ca_20261013_07",
+      "id": "ca_20261014_07",
       "question": {
         "en": "From which date will an invoice management system become mandatory under GST to minimize human errors during digital matching?",
         "hi": "डिजिटल मिलान के दौरान मानवीय त्रुटियों को कम करने के लिए जीएसटी के तहत एक चालान प्रबंधन प्रणाली किस तारीख से अनिवार्य हो जाएगी?"
@@ -238,7 +238,7 @@
       "sourceUrl": "https://economictimes.indiatimes.com/news/economy/policy/centre-states-to-draft-rules-for-existing-arrest-cases-under-gst/articleshow/134901987.cms"
     },
     {
-      "id": "ca_20261013_08",
+      "id": "ca_20261014_08",
       "question": {
         "en": "Golfer Pranavi Urs won the individual gold and team silver at which major sporting event held in Aichi-Nagoya?",
         "hi": "गोल्फर प्रणवी उर्स ने आइची-नागोया में आयोजित किस प्रमुख खेल प्रतियोगिता में व्यक्तिगत स्वर्ण और टीम रजत जीता?"
@@ -271,7 +271,7 @@
       "sourceUrl": "https://www.thehindu.com/sport/my-olympics-preparation-is-not-going-to-change-much-pranavi-urs/article71575804.ece"
     },
     {
-      "id": "ca_20261013_09",
+      "id": "ca_20261014_09",
       "question": {
         "en": "Which industry body suggested that the Ministry improve technical qualification requirements for companies involved in transmission projects?",
         "hi": "किस उद्योग निकाय ने सुझाव दिया कि मंत्रालय ट्रांसमिशन परियोजनाओं में शामिल कंपनियों के लिए तकनीकी योग्यता आवश्यकताओं में सुधार करे?"
@@ -304,7 +304,7 @@
       "sourceUrl": "https://economictimes.indiatimes.com/news/economy/policy/assocham-seeks-review-of-bidders-qualificationfor-transmission-units/articleshow/134901511.cms"
     },
     {
-      "id": "ca_20261013_10",
+      "id": "ca_20261014_10",
       "question": {
         "en": "A powerful solar eruption recorded on October 8 triggered a moderate geomagnetic storm on which date in October 2026?",
         "hi": "8 अक्टूबर को रिकॉर्ड किए गए एक शक्तिशाली सौर विस्फोट ने अक्टूबर 2026 में किस तारीख को एक मध्यम भू-चुंबकीय तूफान पैदा कर दिया?"
