@@ -1,13 +1,13 @@
 {
-  "date": "2026-10-14",
+  "date": "2026-10-15",
   "topic": "SSC CGL Daily Current Affairs",
   "source": "The Hindu / Times of India",
-  "lastUpdated": "2026-10-14T05:21:55+05:30",
+  "lastUpdated": "2026-10-15T06:30:00+05:30",
   "version": 1,
   "totalQuestions": 10,
   "quiz": [
     {
-      "id": "ca_20261014_01",
+      "id": "ca_20261015_01",
       "question": {
         "en": "The IMF recently raised India's economic growth forecast to what percentage?",
         "hi": "IMF ने हाल ही में भारत की आर्थिक वृद्धि का अनुमान कितने प्रतिशत तक बढ़ा दिया है?"
@@ -40,7 +40,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/imf-raises-india-growth-forecast-to-7/articleshow/134926426.cms"
     },
     {
-      "id": "ca_20261014_02",
+      "id": "ca_20261015_02",
       "question": {
         "en": "Which major global company recently announced a fresh push into the smart homes market?",
         "hi": "हाल ही में किस प्रमुख वैश्विक कंपनी ने स्मार्ट होम बाजार में नए सिरे से प्रवेश की घोषणा की है?"
@@ -73,7 +73,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/apple-makes-fresh-push-into-smart-homes-market/articleshow/134926436.cms"
     },
     {
-      "id": "ca_20261014_03",
+      "id": "ca_20261015_03",
       "question": {
         "en": "According to the recent IISc study, strong magnetic fields could allow which type of astronomical object to grow beyond the Chandrasekhar limit?",
         "hi": "हाल के आईआईएससी अध्ययन के अनुसार, मजबूत चुंबकीय क्षेत्र किस प्रकार की खगोलीय वस्तु को चंद्रशेखर सीमा से आगे बढ़ने की अनुमति दे सकता है?"
@@ -106,7 +106,7 @@
       "sourceUrl": "https://www.thehindu.com/sci-tech/science/iisc-study-says-strong-magnetic-fields-could-allow-white-dwarfs-to-grow-beyond-the-chandrasekhar-limit/article71564642.ece"
     },
     {
-      "id": "ca_20261014_04",
+      "id": "ca_20261015_04",
       "question": {
         "en": "Which international organization was reportedly deadlocked over inclusivity concerns, delaying their report publishing?",
         "hi": "किस अंतर्राष्ट्रीय संगठन में कथित तौर पर समावेशिता संबंधी चिंताओं को लेकर गतिरोध था, जिससे उनकी रिपोर्ट प्रकाशित होने में देरी हो रही थी?"
@@ -139,7 +139,7 @@
       "sourceUrl": "https://www.thehindu.com/sci-tech/science/ipcc-deadlocked-inclusivity-concerns-reports-publishing-more-time/article71574460.ece"
     },
     {
-      "id": "ca_20261014_05",
+      "id": "ca_20261015_05",
       "question": {
         "en": "The Merchant Discount Rate (MDR) on UPI transactions is expected to be rolled out after which major Indian festival?",
         "hi": "UPI लेनदेन पर मर्चेंट डिस्काउंट रेट (MDR) किस प्रमुख भारतीय त्योहार के बाद लागू होने की उम्मीद है?"
@@ -172,7 +172,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/now-mdr-on-upi-to-be-rolled-out-after-diwali/articleshow/134926419.cms"
     },
     {
-      "id": "ca_20261014_06",
+      "id": "ca_20261015_06",
       "question": {
         "en": "Which prominent company recently received a $100 million investment from a Dutch bank?",
         "hi": "हाल ही में किस प्रमुख कंपनी को डच बैंक से 100 मिलियन डॉलर का निवेश प्राप्त हुआ?"
@@ -205,7 +205,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/renew-gets-100mn-from-dutch-bank/articleshow/134926386.cms"
     },
     {
-      "id": "ca_20261014_07",
+      "id": "ca_20261015_07",
       "question": {
         "en": "N Chandrasekaran recently highlighted the need for business investments in which crucial technological sector?",
         "hi": "एन चन्द्रशेखरन ने हाल ही में किस महत्वपूर्ण तकनीकी क्षेत्र में व्यावसायिक निवेश की आवश्यकता पर प्रकाश डाला?"
@@ -238,7 +238,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/business-need-investments-in-chips-says-n-chandrasekaran/articleshow/134926369.cms"
     },
     {
-      "id": "ca_20261014_08",
+      "id": "ca_20261015_08",
       "question": {
         "en": "Who addressed the BIMSTEC meet emphasizing that terror should not find haven?",
         "hi": "किसने बिम्सटेक बैठक को संबोधित करते हुए इस बात पर जोर दिया कि आतंक को पनाह नहीं मिलनी चाहिए?"
@@ -271,7 +271,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/india/ensure-terror-does-not-find-haven-amit-shah-at-bimstec-meet/articleshow/134926686.cms"
     },
     {
-      "id": "ca_20261014_09",
+      "id": "ca_20261015_09",
       "question": {
         "en": "Which Indian software company announced a pause on hikes and ad spend due to rising AI costs?",
         "hi": "किस भारतीय सॉफ्टवेयर कंपनी ने बढ़ती AI लागत के कारण बढ़ोतरी और विज्ञापन खर्च पर रोक लगाने की घोषणा की?"
@@ -304,7 +304,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/zoho-pauses-hikes-and-ad-spend-due-to-rising-ai-costs/articleshow/134926398.cms"
     },
     {
-      "id": "ca_20261014_10",
+      "id": "ca_20261015_10",
       "question": {
         "en": "Who is speculated to be the chief guest for India's upcoming Republic Day, according to recent reports?",
         "hi": "हालिया रिपोर्टों के अनुसार, भारत के आगामी गणतंत्र दिवस के लिए मुख्य अतिथि कौन होने की अटकलें हैं?"

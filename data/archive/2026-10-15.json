@@ -1,0 +1,340 @@
+{
+  "date": "2026-10-15",
+  "topic": "SSC CGL Daily Current Affairs",
+  "source": "The Hindu / Times of India",
+  "lastUpdated": "2026-10-15T06:30:00+05:30",
+  "version": 1,
+  "totalQuestions": 10,
+  "quiz": [
+    {
+      "id": "ca_20261015_01",
+      "question": {
+        "en": "The IMF recently raised India's economic growth forecast to what percentage?",
+        "hi": "IMF ने हाल ही में भारत की आर्थिक वृद्धि का अनुमान कितने प्रतिशत तक बढ़ा दिया है?"
+      },
+      "options": [
+        {
+          "en": "6.5%",
+          "hi": "6.5%"
+        },
+        {
+          "en": "6.8%",
+          "hi": "6.8%"
+        },
+        {
+          "en": "7%",
+          "hi": "7%"
+        },
+        {
+          "en": "7.2%",
+          "hi": "7.2%"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The International Monetary Fund (IMF) has raised India's growth forecast to 7%, indicating a positive economic outlook for the country.",
+        "hi": "अंतर्राष्ट्रीय मुद्रा कोष (आईएमएफ) ने भारत के विकास का अनुमान बढ़ाकर 7% कर दिया है, जो देश के लिए सकारात्मक आर्थिक दृष्टिकोण का संकेत देता है।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/imf-raises-india-growth-forecast-to-7/articleshow/134926426.cms"
+    },
+    {
+      "id": "ca_20261015_02",
+      "question": {
+        "en": "Which major global company recently announced a fresh push into the smart homes market?",
+        "hi": "हाल ही में किस प्रमुख वैश्विक कंपनी ने स्मार्ट होम बाजार में नए सिरे से प्रवेश की घोषणा की है?"
+      },
+      "options": [
+        {
+          "en": "Google",
+          "hi": "गूगल"
+        },
+        {
+          "en": "Amazon",
+          "hi": "अमेज़न"
+        },
+        {
+          "en": "Apple",
+          "hi": "एप्पल"
+        },
+        {
+          "en": "Samsung",
+          "hi": "Samsung"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Apple has announced a renewed focus and fresh push into the smart homes market, aiming to expand its ecosystem and device integration.",
+        "hi": "एप्पल ने स्मार्ट होम्स बाज़ार में एक नया प्रयास करने की घोषणा की है, जिसका लक्ष्य अपने इकोसिस्टम और डिवाइस इंटीग्रेशन का विस्तार करना है।"
+      },
+      "category": "Science & Technology",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/apple-makes-fresh-push-into-smart-homes-market/articleshow/134926436.cms"
+    },
+    {
+      "id": "ca_20261015_03",
+      "question": {
+        "en": "According to the recent IISc study, strong magnetic fields could allow which type of astronomical object to grow beyond the Chandrasekhar limit?",
+        "hi": "हाल के आईआईएससी अध्ययन के अनुसार, मजबूत चुंबकीय क्षेत्र किस प्रकार की खगोलीय वस्तु को चंद्रशेखर सीमा से आगे बढ़ने की अनुमति दे सकता है?"
+      },
+      "options": [
+        {
+          "en": "Neutron stars",
+          "hi": "न्यूट्रॉन तारे"
+        },
+        {
+          "en": "Black holes",
+          "hi": "ब्लैक होल"
+        },
+        {
+          "en": "White dwarfs",
+          "hi": "सफ़ेद बौने"
+        },
+        {
+          "en": "Red giants",
+          "hi": "लाल दिग्गज"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "A study by the Indian Institute of Science (IISc) suggests that strong magnetic fields could allow white dwarfs to exceed the Chandrasekhar limit, which is traditionally considered the maximum mass of a stable white dwarf star.",
+        "hi": "भारतीय विज्ञान संस्थान (आईआईएससी) के एक अध्ययन से पता चलता है कि मजबूत चुंबकीय क्षेत्र सफेद बौनों को चंद्रशेखर सीमा से अधिक होने की अनुमति दे सकते हैं, जिसे पारंपरिक रूप से एक स्थिर सफेद बौने तारे का अधिकतम द्रव्यमान माना जाता है।"
+      },
+      "category": "Science & Technology",
+      "difficulty": "hard",
+      "sourceUrl": "https://www.thehindu.com/sci-tech/science/iisc-study-says-strong-magnetic-fields-could-allow-white-dwarfs-to-grow-beyond-the-chandrasekhar-limit/article71564642.ece"
+    },
+    {
+      "id": "ca_20261015_04",
+      "question": {
+        "en": "Which international organization was reportedly deadlocked over inclusivity concerns, delaying their report publishing?",
+        "hi": "किस अंतर्राष्ट्रीय संगठन में कथित तौर पर समावेशिता संबंधी चिंताओं को लेकर गतिरोध था, जिससे उनकी रिपोर्ट प्रकाशित होने में देरी हो रही थी?"
+      },
+      "options": [
+        {
+          "en": "World Health Organization (WHO)",
+          "hi": "विश्व स्वास्थ्य संगठन (डब्ल्यूएचओ)"
+        },
+        {
+          "en": "Intergovernmental Panel on Climate Change (IPCC)",
+          "hi": "जलवायु परिवर्तन पर अंतर सरकारी पैनल (आईपीसीसी)"
+        },
+        {
+          "en": "United Nations Environment Programme (UNEP)",
+          "hi": "संयुक्त राष्ट्र पर्यावरण कार्यक्रम (यूएनईपी)"
+        },
+        {
+          "en": "World Meteorological Organization (WMO)",
+          "hi": "विश्व मौसम विज्ञान संगठन (डब्ल्यूएमओ)"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The Intergovernmental Panel on Climate Change (IPCC), the world's top climate body, faced a deadlock over inclusivity concerns, affecting the timeline for publishing their reports.",
+        "hi": "दुनिया की शीर्ष जलवायु संस्था, इंटरगवर्नमेंटल पैनल ऑन क्लाइमेट चेंज (आईपीसीसी) को समावेशिता संबंधी चिंताओं पर गतिरोध का सामना करना पड़ा, जिससे उनकी रिपोर्ट प्रकाशित करने की समयसीमा प्रभावित हुई।"
+      },
+      "category": "Environment & Ecology",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/sci-tech/science/ipcc-deadlocked-inclusivity-concerns-reports-publishing-more-time/article71574460.ece"
+    },
+    {
+      "id": "ca_20261015_05",
+      "question": {
+        "en": "The Merchant Discount Rate (MDR) on UPI transactions is expected to be rolled out after which major Indian festival?",
+        "hi": "UPI लेनदेन पर मर्चेंट डिस्काउंट रेट (MDR) किस प्रमुख भारतीय त्योहार के बाद लागू होने की उम्मीद है?"
+      },
+      "options": [
+        {
+          "en": "Holi",
+          "hi": "होली"
+        },
+        {
+          "en": "Diwali",
+          "hi": "दिवाली"
+        },
+        {
+          "en": "Dussehra",
+          "hi": "दशहरा"
+        },
+        {
+          "en": "Makar Sankranti",
+          "hi": "मकर संक्रांति"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The rollout of the Merchant Discount Rate (MDR) on United Payments Interface (UPI) transactions is slated to occur after the Diwali festival, impacting digital payment structures.",
+        "hi": "यूनाइटेड पेमेंट्स इंटरफेस (यूपीआई) लेनदेन पर मर्चेंट डिस्काउंट रेट (एमडीआर) दिवाली त्योहार के बाद लागू होने की उम्मीद है, जिससे डिजिटल भुगतान संरचनाओं पर असर पड़ेगा।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/now-mdr-on-upi-to-be-rolled-out-after-diwali/articleshow/134926419.cms"
+    },
+    {
+      "id": "ca_20261015_06",
+      "question": {
+        "en": "Which prominent company recently received a $100 million investment from a Dutch bank?",
+        "hi": "हाल ही में किस प्रमुख कंपनी को डच बैंक से 100 मिलियन डॉलर का निवेश प्राप्त हुआ?"
+      },
+      "options": [
+        {
+          "en": "Adani Green Energy",
+          "hi": "अदानी ग्रीन एनर्जी"
+        },
+        {
+          "en": "Tata Power",
+          "hi": "टाटा पावर"
+        },
+        {
+          "en": "Renew",
+          "hi": "नवीकरण"
+        },
+        {
+          "en": "Reliance New Energy",
+          "hi": "रिलायंस न्यू एनर्जी"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Renew, a leading renewable energy company in India, secured a significant $100 million investment from a Dutch bank to support its green energy initiatives.",
+        "hi": "भारत की अग्रणी नवीकरणीय ऊर्जा कंपनी रिन्यू ने अपनी हरित ऊर्जा पहल का समर्थन करने के लिए एक डच बैंक से 100 मिलियन डॉलर का महत्वपूर्ण निवेश हासिल किया है।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/renew-gets-100mn-from-dutch-bank/articleshow/134926386.cms"
+    },
+    {
+      "id": "ca_20261015_07",
+      "question": {
+        "en": "N Chandrasekaran recently highlighted the need for business investments in which crucial technological sector?",
+        "hi": "एन चन्द्रशेखरन ने हाल ही में किस महत्वपूर्ण तकनीकी क्षेत्र में व्यावसायिक निवेश की आवश्यकता पर प्रकाश डाला?"
+      },
+      "options": [
+        {
+          "en": "Artificial Intelligence",
+          "hi": "कृत्रिम होशियारी"
+        },
+        {
+          "en": "Semiconductor Chips",
+          "hi": "सेमीकंडक्टर चिप्स"
+        },
+        {
+          "en": "Quantum Computing",
+          "hi": "क्वांटम कम्प्यूटिंग"
+        },
+        {
+          "en": "Space Exploration",
+          "hi": "अंतरिक्ष अन्वेषण"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Tata Sons Chairman N Chandrasekaran emphasized the critical need for businesses to invest in semiconductor chips to build self-reliance and support technological growth.",
+        "hi": "टाटा संस के चेयरमैन एन चंद्रशेखरन ने आत्मनिर्भरता बनाने और तकनीकी विकास का समर्थन करने के लिए व्यवसायों को सेमीकंडक्टर चिप्स में निवेश करने की महत्वपूर्ण आवश्यकता पर जोर दिया।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/business-need-investments-in-chips-says-n-chandrasekaran/articleshow/134926369.cms"
+    },
+    {
+      "id": "ca_20261015_08",
+      "question": {
+        "en": "Who addressed the BIMSTEC meet emphasizing that terror should not find haven?",
+        "hi": "किसने बिम्सटेक बैठक को संबोधित करते हुए इस बात पर जोर दिया कि आतंक को पनाह नहीं मिलनी चाहिए?"
+      },
+      "options": [
+        {
+          "en": "Narendra Modi",
+          "hi": "नरेंद्र मोदी"
+        },
+        {
+          "en": "S. Jaishankar",
+          "hi": "एस. जयशंकर"
+        },
+        {
+          "en": "Amit Shah",
+          "hi": "अमित शाह"
+        },
+        {
+          "en": "Rajnath Singh",
+          "hi": "राजनाथ सिंह"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Union Home Minister Amit Shah, while addressing the BIMSTEC (Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation) meeting, stressed the need to ensure that terrorism does not find a safe haven in the region.",
+        "hi": "केंद्रीय गृह मंत्री अमित शाह ने बिम्सटेक (बहु-क्षेत्रीय तकनीकी और आर्थिक सहयोग के लिए बंगाल की खाड़ी पहल) बैठक को संबोधित करते हुए यह सुनिश्चित करने की आवश्यकता पर जोर दिया कि क्षेत्र में आतंकवाद को सुरक्षित पनाहगाह न मिले।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/ensure-terror-does-not-find-haven-amit-shah-at-bimstec-meet/articleshow/134926686.cms"
+    },
+    {
+      "id": "ca_20261015_09",
+      "question": {
+        "en": "Which Indian software company announced a pause on hikes and ad spend due to rising AI costs?",
+        "hi": "किस भारतीय सॉफ्टवेयर कंपनी ने बढ़ती AI लागत के कारण बढ़ोतरी और विज्ञापन खर्च पर रोक लगाने की घोषणा की?"
+      },
+      "options": [
+        {
+          "en": "TCS",
+          "hi": "टीसीएस"
+        },
+        {
+          "en": "Infosys",
+          "hi": "इन्फोसिस"
+        },
+        {
+          "en": "Wipro",
+          "hi": "विप्रो"
+        },
+        {
+          "en": "Zoho",
+          "hi": "जोहो"
+        }
+      ],
+      "correctAnswer": 3,
+      "explanation": {
+        "en": "Zoho has decided to pause employee salary hikes and advertising expenditures temporarily as the company deals with the increasing costs associated with AI development.",
+        "hi": "ज़ोहो ने कर्मचारियों के वेतन वृद्धि और विज्ञापन व्यय को अस्थायी रूप से रोकने का निर्णय लिया है क्योंकि कंपनी एआई विकास से जुड़ी बढ़ती लागत से निपट रही है।"
+      },
+      "category": "Science & Technology",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/zoho-pauses-hikes-and-ad-spend-due-to-rising-ai-costs/articleshow/134926398.cms"
+    },
+    {
+      "id": "ca_20261015_10",
+      "question": {
+        "en": "Who is speculated to be the chief guest for India's upcoming Republic Day, according to recent reports?",
+        "hi": "हालिया रिपोर्टों के अनुसार, भारत के आगामी गणतंत्र दिवस के लिए मुख्य अतिथि कौन होने की अटकलें हैं?"
+      },
+      "options": [
+        {
+          "en": "Emmanuel Macron",
+          "hi": "इमैनुएल मैक्रॉन"
+        },
+        {
+          "en": "Rishi Sunak",
+          "hi": "ऋषि सुनक"
+        },
+        {
+          "en": "Mark Carney",
+          "hi": "मार्क कार्नी"
+        },
+        {
+          "en": "Joe Biden",
+          "hi": "जो बिडेन"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Recent reports suggest that Mark Carney, the former Governor of the Bank of England and Bank of Canada, might be the chief guest for India's Republic Day celebrations.",
+        "hi": "हाल की रिपोर्टों से पता चलता है कि बैंक ऑफ इंग्लैंड और बैंक ऑफ कनाडा के पूर्व गवर्नर मार्क कार्नी भारत के गणतंत्र दिवस समारोह के मुख्य अतिथि हो सकते हैं।"
+      },
+      "category": "International Summits",
+      "difficulty": "hard",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/canada-pm-carney-to-be-republic-day-chief-guest/articleshow/134927753.cms"
+    }
+  ]
+}
