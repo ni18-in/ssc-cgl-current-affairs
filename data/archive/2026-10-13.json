@@ -1,0 +1,340 @@
+{
+  "date": "2026-10-13",
+  "topic": "SSC CGL Daily Current Affairs",
+  "source": "Mint / Economic Times / The Hindu / Times of India",
+  "lastUpdated": "2026-10-13T05:20:34+05:30",
+  "version": 1,
+  "totalQuestions": 10,
+  "quiz": [
+    {
+      "id": "ca_20261013_01",
+      "question": {
+        "en": "According to Bloomberg Economics, expanding Free Trade Agreements (FTAs) could add how much to India's GDP by 2035?",
+        "hi": "ब्लूमबर्ग इकोनॉमिक्स के अनुसार, मुक्त व्यापार समझौतों (एफटीए) का विस्तार 2035 तक भारत की जीडीपी में कितना जोड़ सकता है?"
+      },
+      "options": [
+        {
+          "en": "$100 billion",
+          "hi": "$100 बिलियन"
+        },
+        {
+          "en": "$140 billion",
+          "hi": "$140 बिलियन"
+        },
+        {
+          "en": "$200 billion",
+          "hi": "$200 बिलियन"
+        },
+        {
+          "en": "$250 billion",
+          "hi": "$250 बिलियन"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Bloomberg Economics estimated that India's expanding FTAs could add $140 billion to its GDP and boost exports by 6.2% by 2035, driven by global supply chain shifts and trade deals.",
+        "hi": "ब्लूमबर्ग इकोनॉमिक्स का अनुमान है कि वैश्विक आपूर्ति श्रृंखला में बदलाव और व्यापार सौदों के कारण भारत के विस्तारित एफटीए से उसकी जीडीपी में 140 अरब डॉलर जुड़ सकते हैं और 2035 तक निर्यात में 6.2% की वृद्धि हो सकती है।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.livemint.com/economy/ftas-may-add-140bn-to-india-gdp-by-2035-lift-exports-6-2-bloomberg-economics-11791807640069.html"
+    },
+    {
+      "id": "ca_20261013_02",
+      "question": {
+        "en": "India and which country recently agreed to exchange data annually on the use of their Comprehensive Economic Partnership Agreement (CEPA/CETA) starting July 2027?",
+        "hi": "भारत और कौन सा देश हाल ही में जुलाई 2027 से अपने व्यापक आर्थिक साझेदारी समझौते (CEPA/CETA) के उपयोग पर सालाना डेटा का आदान-प्रदान करने पर सहमत हुए?"
+      },
+      "options": [
+        {
+          "en": "United States",
+          "hi": "संयुक्त राज्य अमेरिका"
+        },
+        {
+          "en": "Australia",
+          "hi": "ऑस्ट्रेलिया"
+        },
+        {
+          "en": "United Kingdom",
+          "hi": "यूनाइटेड किंगडम"
+        },
+        {
+          "en": "United Arab Emirates",
+          "hi": "संयुक्त अरब अमीरात"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "India and the UK agreed to exchange data annually on the use of their trade agreement (CETA) to help businesses leverage lower tariffs. The pact involves a £1 billion commercial deal announcement.",
+        "hi": "भारत और यूके व्यवसायों को कम टैरिफ का लाभ उठाने में मदद करने के लिए अपने व्यापार समझौते (सीईटीए) के उपयोग पर सालाना डेटा का आदान-प्रदान करने पर सहमत हुए।इस समझौते में £1 बिलियन के वाणिज्यिक सौदे की घोषणा शामिल है।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.livemint.com/economy/india-uk-to-exchange-tariff-usage-data-under-trade-agreement-11791813690726.html"
+    },
+    {
+      "id": "ca_20261013_03",
+      "question": {
+        "en": "According to BCG, how much greenfield Foreign Direct Investment (FDI) has India drawn, outpacing China amid global realignment?",
+        "hi": "बीसीजी के अनुसार, वैश्विक पुनर्गठन के बीच भारत ने चीन को पछाड़कर कितना ग्रीनफील्ड प्रत्यक्ष विदेशी निवेश (एफडीआई) हासिल किया है?"
+      },
+      "options": [
+        {
+          "en": "$251 billion",
+          "hi": "$251 बिलियन"
+        },
+        {
+          "en": "$300 billion",
+          "hi": "$300 बिलियन"
+        },
+        {
+          "en": "$351 billion",
+          "hi": "$351 बिलियन"
+        },
+        {
+          "en": "$400 billion",
+          "hi": "$400 बिलियन"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "According to BCG, India has drawn $351 billion in greenfield FDI, emerging as the biggest draw for investors and outpacing China amid a sweeping global realignment of supply chains.",
+        "hi": "बीसीजी के अनुसार, भारत ने ग्रीनफील्ड एफडीआई में $351 बिलियन का निवेश किया है, जो निवेशकों के लिए सबसे बड़ा आकर्षण बनकर उभरा है और आपूर्ति श्रृंखलाओं के व्यापक वैश्विक पुनर्गठन के बीच चीन को पीछे छोड़ दिया है।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "hard",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/finance/india-draws-351-billion-in-greenfield-fdi-outpaces-china/articleshow/134901834.cms"
+    },
+    {
+      "id": "ca_20261013_04",
+      "question": {
+        "en": "The Indian Council of Medical Research (ICMR) is seeking partners to commercialize an oral nanodrug for treating which condition in newborns?",
+        "hi": "भारतीय चिकित्सा अनुसंधान परिषद (आईसीएमआर) नवजात शिशुओं में किस स्थिति के इलाज के लिए एक मौखिक नैनोड्रग का व्यावसायीकरण करने के लिए भागीदारों की तलाश कर रही है?"
+      },
+      "options": [
+        {
+          "en": "Pneumonia",
+          "hi": "न्यूमोनिया"
+        },
+        {
+          "en": "Severe Jaundice",
+          "hi": "गंभीर पीलिया"
+        },
+        {
+          "en": "Malaria",
+          "hi": "मलेरिया"
+        },
+        {
+          "en": "Tuberculosis",
+          "hi": "यक्ष्मा"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The ICMR is planning an oral nanodrug to treat severe newborn jaundice. The liquid formulation reduces infant brain toxins by 85%, offering a low-cost alternative to phototherapy.",
+        "hi": "आईसीएमआर गंभीर नवजात पीलिया के इलाज के लिए एक मौखिक नैनोड्रग की योजना बना रहा है।तरल फॉर्मूलेशन शिशु के मस्तिष्क के विषाक्त पदार्थों को 85% तक कम कर देता है, जो फोटोथेरेपी के लिए कम लागत वाला विकल्प प्रदान करता है।"
+      },
+      "category": "Science & Technology",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.livemint.com/science/india-plans-oral-nanodrug-to-treat-severe-newborn-jaundice-11791537908650.html"
+    },
+    {
+      "id": "ca_20261013_05",
+      "question": {
+        "en": "With which space agency did Pokémon GO partner during World Space Week 2026?",
+        "hi": "विश्व अंतरिक्ष सप्ताह 2026 के दौरान पोकेमॉन गो ने किस अंतरिक्ष एजेंसी के साथ साझेदारी की?"
+      },
+      "options": [
+        {
+          "en": "ISRO (Indian Space Research Organisation)",
+          "hi": "इसरो (भारतीय अंतरिक्ष अनुसंधान संगठन)"
+        },
+        {
+          "en": "NASA (National Aeronautics and Space Administration)",
+          "hi": "नासा (राष्ट्रीय वैमानिकी एवं अंतरिक्ष प्रशासन)"
+        },
+        {
+          "en": "ESA (European Space Agency)",
+          "hi": "ईएसए (यूरोपीय अंतरिक्ष एजेंसी)"
+        },
+        {
+          "en": "JAXA (Japan Aerospace Exploration Agency)",
+          "hi": "JAXA (जापान एयरोस्पेस एक्सप्लोरेशन एजेंसी)"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "During World Space Week 2026 (October 4-10), Pokémon GO partnered with the European Space Agency (ESA) to organize special events in participating science and space museums.",
+        "hi": "विश्व अंतरिक्ष सप्ताह 2026 (4-10 अक्टूबर) के दौरान, पोकेमॉन गो ने भाग लेने वाले विज्ञान और अंतरिक्ष संग्रहालयों में विशेष कार्यक्रम आयोजित करने के लिए यूरोपीय अंतरिक्ष एजेंसी (ईएसए) के साथ साझेदारी की।"
+      },
+      "category": "Science & Technology",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.livemint.com/science/world-space-week-2026-pikachu-gets-a-space-twist-why-pok-mon-go-has-partnered-with-european-space-agency-11791446097599.html"
+    },
+    {
+      "id": "ca_20261013_06",
+      "question": {
+        "en": "The Supreme Court of India recently directed the government to cap the prices of which category of medicines?",
+        "hi": "भारत के सर्वोच्च न्यायालय ने हाल ही में सरकार को किस श्रेणी की दवाओं की कीमतें सीमित करने का निर्देश दिया?"
+      },
+      "options": [
+        {
+          "en": "Ayurvedic Medicines",
+          "hi": "आयुर्वेदिक औषधियाँ"
+        },
+        {
+          "en": "Non-patented Medicines",
+          "hi": "गैर-पेटेंट औषधियाँ"
+        },
+        {
+          "en": "Vaccines only",
+          "hi": "केवल टीके"
+        },
+        {
+          "en": "Surgical instruments",
+          "hi": "सर्जिकल उपकरण"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The Supreme Court recently directed the government to cap the prices of non-patented medicines to ensure affordability and accessibility for the general public.",
+        "hi": "सुप्रीम कोर्ट ने हाल ही में सरकार को आम जनता के लिए सामर्थ्य और पहुंच सुनिश्चित करने के लिए गैर-पेटेंट दवाओं की कीमतों को सीमित करने का निर्देश दिया।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/sc-to-government-cap-prices-of-non-patented-medicines/articleshow/134905026.cms"
+    },
+    {
+      "id": "ca_20261013_07",
+      "question": {
+        "en": "From which date will an invoice management system become mandatory under GST to minimize human errors during digital matching?",
+        "hi": "डिजिटल मिलान के दौरान मानवीय त्रुटियों को कम करने के लिए जीएसटी के तहत एक चालान प्रबंधन प्रणाली किस तारीख से अनिवार्य हो जाएगी?"
+      },
+      "options": [
+        {
+          "en": "January 1, 2027",
+          "hi": "1 जनवरी 2027"
+        },
+        {
+          "en": "April 1, 2027",
+          "hi": "1 अप्रैल, 2027"
+        },
+        {
+          "en": "July 1, 2027",
+          "hi": "1 जुलाई 2027"
+        },
+        {
+          "en": "October 1, 2027",
+          "hi": "1 अक्टूबर, 2027"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Starting April 1, 2027, an invoice management system will be mandatory under GST. The Centre and states are also collaborating to draft rules for existing arrest cases under GST.",
+        "hi": "1 अप्रैल, 2027 से जीएसटी के तहत एक चालान प्रबंधन प्रणाली अनिवार्य होगी।केंद्र और राज्य जीएसटी के तहत मौजूदा गिरफ्तारी मामलों के लिए नियमों का मसौदा तैयार करने में भी सहयोग कर रहे हैं।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "hard",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/policy/centre-states-to-draft-rules-for-existing-arrest-cases-under-gst/articleshow/134901987.cms"
+    },
+    {
+      "id": "ca_20261013_08",
+      "question": {
+        "en": "Golfer Pranavi Urs won the individual gold and team silver at which major sporting event held in Aichi-Nagoya?",
+        "hi": "गोल्फर प्रणवी उर्स ने आइची-नागोया में आयोजित किस प्रमुख खेल प्रतियोगिता में व्यक्तिगत स्वर्ण और टीम रजत जीता?"
+      },
+      "options": [
+        {
+          "en": "Commonwealth Games",
+          "hi": "राष्ट्रमंडल खेल"
+        },
+        {
+          "en": "Asian Games",
+          "hi": "एशियाई खेल"
+        },
+        {
+          "en": "Olympics",
+          "hi": "ओलिंपिक"
+        },
+        {
+          "en": "World Golf Championships",
+          "hi": "विश्व गोल्फ चैंपियनशिप"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Pranavi Urs gained valuable experience in Hangzhou and won the individual gold and team silver at the Asian Games held in Aichi-Nagoya. She plays on the Ladies European Tour.",
+        "hi": "प्रणवी उर्स ने हांगझू में बहुमूल्य अनुभव प्राप्त किया और आइची-नागोया में आयोजित एशियाई खेलों में व्यक्तिगत स्वर्ण और टीम रजत जीता।वह लेडीज़ यूरोपियन टूर पर खेलती है।"
+      },
+      "category": "Sports",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/sport/my-olympics-preparation-is-not-going-to-change-much-pranavi-urs/article71575804.ece"
+    },
+    {
+      "id": "ca_20261013_09",
+      "question": {
+        "en": "Which industry body suggested that the Ministry improve technical qualification requirements for companies involved in transmission projects?",
+        "hi": "किस उद्योग निकाय ने सुझाव दिया कि मंत्रालय ट्रांसमिशन परियोजनाओं में शामिल कंपनियों के लिए तकनीकी योग्यता आवश्यकताओं में सुधार करे?"
+      },
+      "options": [
+        {
+          "en": "FICCI",
+          "hi": "फिक्की"
+        },
+        {
+          "en": "CII",
+          "hi": "सीआईआई"
+        },
+        {
+          "en": "NASSCOM",
+          "hi": "नैसकॉम"
+        },
+        {
+          "en": "ASSOCHAM",
+          "hi": "एसोचैम"
+        }
+      ],
+      "correctAnswer": 3,
+      "explanation": {
+        "en": "ASSOCHAM (Associated Chambers of Commerce and Industry of India) sought a review of bidders' qualifications for transmission units, ensuring only experienced developers participate in the bidding process.",
+        "hi": "एसोचैम (एसोसिएटेड चैंबर्स ऑफ कॉमर्स एंड इंडस्ट्री ऑफ इंडिया) ने ट्रांसमिशन इकाइयों के लिए बोलीदाताओं की योग्यता की समीक्षा करने की मांग की, ताकि यह सुनिश्चित किया जा सके कि केवल अनुभवी डेवलपर्स ही बोली प्रक्रिया में भाग लें।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "easy",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/policy/assocham-seeks-review-of-bidders-qualificationfor-transmission-units/articleshow/134901511.cms"
+    },
+    {
+      "id": "ca_20261013_10",
+      "question": {
+        "en": "A powerful solar eruption recorded on October 8 triggered a moderate geomagnetic storm on which date in October 2026?",
+        "hi": "8 अक्टूबर को रिकॉर्ड किए गए एक शक्तिशाली सौर विस्फोट ने अक्टूबर 2026 में किस तारीख को एक मध्यम भू-चुंबकीय तूफान पैदा कर दिया?"
+      },
+      "options": [
+        {
+          "en": "October 9",
+          "hi": "9 अक्टूबर"
+        },
+        {
+          "en": "October 10",
+          "hi": "10 अक्टूबर"
+        },
+        {
+          "en": "October 11",
+          "hi": "11 अक्टूबर"
+        },
+        {
+          "en": "October 12",
+          "hi": "12 अक्टूबर"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "A powerful solar eruption on October 8 triggered a moderate geomagnetic storm on October 11, 2026, as warned by NOAA. Such events can affect satellite signals and power networks.",
+        "hi": "जैसा कि एनओएए ने चेतावनी दी थी, 8 अक्टूबर को एक शक्तिशाली सौर विस्फोट ने 11 अक्टूबर, 2026 को एक मध्यम भू-चुंबकीय तूफान को जन्म दिया।ऐसी घटनाएं उपग्रह सिग्नल और बिजली नेटवर्क को प्रभावित कर सकती हैं।"
+      },
+      "category": "Science & Technology",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.livemint.com/science/news/geomagnetic-solar-storm-on-october-11-what-to-know-about-the-powerful-eruption-heading-towards-earth-11791643817133.html"
+    }
+  ]
+}
