@@ -1,0 +1,340 @@
+{
+  "date": "2026-10-16",
+  "topic": "SSC CGL Daily Current Affairs",
+  "source": "Times of India",
+  "lastUpdated": "2026-10-16T06:30:00+05:30",
+  "version": 1,
+  "totalQuestions": 10,
+  "quiz": [
+    {
+      "id": "ca_20261016_01",
+      "question": {
+        "en": "The Supreme Court recently ruled that tough bail conditions under which Act cannot override the fundamental right of an accused?",
+        "hi": "सुप्रीम कोर्ट ने हाल ही में फैसला सुनाया कि किस अधिनियम के तहत कड़ी जमानत की शर्तें किसी आरोपी के मौलिक अधिकार को खत्म नहीं कर सकती हैं?"
+      },
+      "options": [
+        {
+          "en": "Unlawful Activities (Prevention) Act",
+          "hi": "गैरकानूनी गतिविधियाँ (रोकथाम) अधिनियम"
+        },
+        {
+          "en": "Prevention of Money Laundering Act (PMLA)",
+          "hi": "धन शोधन निवारण अधिनियम (पीएमएलए)"
+        },
+        {
+          "en": "National Security Act",
+          "hi": "राष्ट्रीय सुरक्षा अधिनियम"
+        },
+        {
+          "en": "Narcotic Drugs and Psychotropic Substances Act",
+          "hi": "स्वापक औषधि और मन:प्रभावी पदार्थ अधिनियम"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The Supreme Court ruled that tough bail conditions under the Prevention of Money Laundering Act (PMLA) cannot override the fundamental right of an accused. PMLA was enacted in 2002 to prevent money laundering and provide for confiscation of property derived from money laundering.",
+        "hi": "सुप्रीम कोर्ट ने फैसला सुनाया कि धन शोधन निवारण अधिनियम (पीएमएलए) के तहत सख्त जमानत की शर्तें किसी आरोपी के मौलिक अधिकार को खत्म नहीं कर सकती हैं।मनी लॉन्ड्रिंग को रोकने और मनी लॉन्ड्रिंग से प्राप्त संपत्ति को जब्त करने का प्रावधान करने के लिए 2002 में पीएमएलए अधिनियमित किया गया था।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/sc-tough-pmla-bail-conditions-cant-override-accuseds-right/articleshow/134954446.cms"
+    },
+    {
+      "id": "ca_20261016_02",
+      "question": {
+        "en": "The Government of India and LIC are selling a combined stake worth Rs 53,000 crore in which bank, helping the government surpass its divestment target of Rs 80,000 crore?",
+        "hi": "भारत सरकार और एलआईसी किस बैंक में 53,000 करोड़ रुपये की संयुक्त हिस्सेदारी बेच रही हैं, जिससे सरकार को 80,000 करोड़ रुपये के विनिवेश लक्ष्य को पार करने में मदद मिलेगी?"
+      },
+      "options": [
+        {
+          "en": "State Bank of India",
+          "hi": "भारतीय स्टेट बैंक"
+        },
+        {
+          "en": "Punjab National Bank",
+          "hi": "पंजाब नेशनल बैंक"
+        },
+        {
+          "en": "Bank of Baroda",
+          "hi": "बैंक ऑफ बड़ौदा"
+        },
+        {
+          "en": "IDBI Bank",
+          "hi": "आईडीबीआई बैंक"
+        }
+      ],
+      "correctAnswer": 3,
+      "explanation": {
+        "en": "The Government of India and Life Insurance Corporation (LIC) are conducting a stake sale of Rs 53,000 crore in IDBI Bank. This move helps the government exceed its overall divestment target of Rs 80,000 crore.",
+        "hi": "भारत सरकार और जीवन बीमा निगम (LIC) IDBI बैंक में 53,000 करोड़ रुपये की हिस्सेदारी बिक्री कर रहे हैं।इस कदम से सरकार को 80,000 करोड़ रुपये के अपने समग्र विनिवेश लक्ष्य को पार करने में मदद मिलेगी।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/rs-53k-crore-idbi-stake-sale-with-lic-takes-govt-past-selloff-target/articleshow/134951420.cms"
+    },
+    {
+      "id": "ca_20261016_03",
+      "question": {
+        "en": "India recently asked which global satellite broadband service provider to strictly comply with rules before entering the market?",
+        "hi": "भारत ने हाल ही में किस वैश्विक उपग्रह ब्रॉडबैंड सेवा प्रदाता से पूछा कि बाजार में प्रवेश करने से पहले नियमों का सख्ती से पालन करना होगा?"
+      },
+      "options": [
+        {
+          "en": "OneWeb",
+          "hi": "वनवेब"
+        },
+        {
+          "en": "Project Kuiper",
+          "hi": "प्रोजेक्ट कुइपर"
+        },
+        {
+          "en": "Starlink",
+          "hi": "स्टारलिंक"
+        },
+        {
+          "en": "HughesNet",
+          "hi": "ह्यूजेसनेट"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "India recently directed Starlink to comply with rules before entering the market. Starlink is a satellite internet constellation operated by SpaceX.",
+        "hi": "भारत ने हाल ही में स्टारलिंक को बाजार में प्रवेश करने से पहले नियमों का पालन करने का निर्देश दिया था।स्टारलिंक स्पेसएक्स द्वारा संचालित एक उपग्रह इंटरनेट समूह है।"
+      },
+      "category": "Science & Technology",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/india-to-starlink-comply-with-rules-before-entering-market/articleshow/134954424.cms"
+    },
+    {
+      "id": "ca_20261016_04",
+      "question": {
+        "en": "India’s wholesale inflation recently touched a 30-month high. Which index is used to measure wholesale inflation in India?",
+        "hi": "भारत की थोक मुद्रास्फीति हाल ही में 30 महीने के उच्चतम स्तर पर पहुंच गई।भारत में थोक मुद्रास्फीति को मापने के लिए किस सूचकांक का उपयोग किया जाता है?"
+      },
+      "options": [
+        {
+          "en": "Consumer Price Index (CPI)",
+          "hi": "उपभोक्ता मूल्य सूचकांक (सीपीआई)"
+        },
+        {
+          "en": "Wholesale Price Index (WPI)",
+          "hi": "थोक मूल्य सूचकांक (डब्ल्यूपीआई)"
+        },
+        {
+          "en": "Producer Price Index (PPI)",
+          "hi": "उत्पादक मूल्य सूचकांक (पीपीआई)"
+        },
+        {
+          "en": "Gross Domestic Product Deflator",
+          "hi": "सकल घरेलू उत्पाद अपस्फीतिकारक"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Wholesale inflation recently touched a 30-month high. Wholesale inflation in India is measured by the Wholesale Price Index (WPI), which is published by the Office of Economic Adviser, Ministry of Commerce and Industry.",
+        "hi": "थोक महंगाई दर हाल ही में 30 महीने के उच्चतम स्तर पर पहुंच गई है।भारत में थोक मुद्रास्फीति को थोक मूल्य सूचकांक (डब्ल्यूपीआई) द्वारा मापा जाता है, जो वाणिज्य और उद्योग मंत्रालय के आर्थिक सलाहकार कार्यालय द्वारा प्रकाशित किया जाता है।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/wholesale-inflation-touches-30-month-high/articleshow/134951140.cms"
+    },
+    {
+      "id": "ca_20261016_05",
+      "question": {
+        "en": "Which Indian digital services company recently filed papers for its Initial Public Offering (IPO), set to open on October 21?",
+        "hi": "किस भारतीय डिजिटल सेवा कंपनी ने हाल ही में 21 अक्टूबर को खुलने वाली अपनी प्रारंभिक सार्वजनिक पेशकश (आईपीओ) के लिए कागजात दाखिल किए हैं?"
+      },
+      "options": [
+        {
+          "en": "Tata Digital",
+          "hi": "टाटा डिजिटल"
+        },
+        {
+          "en": "Adani Enterprises",
+          "hi": "अदानी इंटरप्राइजेज"
+        },
+        {
+          "en": "Jio Platforms",
+          "hi": "जियो प्लेटफार्म"
+        },
+        {
+          "en": "Paytm",
+          "hi": "Paytm"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Jio Platforms filed papers for its IPO, which is set to open on October 21.",
+        "hi": "Jio प्लेटफ़ॉर्म ने अपने IPO के लिए कागजात दाखिल किए, जो 21 अक्टूबर को खुलने वाला है।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/jio-platforms-files-papers-ipo-set-to-open-on-oct-21/articleshow/134951197.cms"
+    },
+    {
+      "id": "ca_20261016_06",
+      "question": {
+        "en": "Which West Indies cricketer recently surpassed Chris Gayle to achieve a major T20 International milestone?",
+        "hi": "वेस्टइंडीज के किस क्रिकेटर ने हाल ही में क्रिस गेल को पीछे छोड़ते हुए एक प्रमुख टी20 अंतर्राष्ट्रीय उपलब्धि हासिल की?"
+      },
+      "options": [
+        {
+          "en": "Nicholas Pooran",
+          "hi": "Nicholas Pooran"
+        },
+        {
+          "en": "Shai Hope",
+          "hi": "शाइ होप"
+        },
+        {
+          "en": "Kieron Pollard",
+          "hi": "कीरोन पोलार्ड"
+        },
+        {
+          "en": "Rovman Powell",
+          "hi": "रोवमैन पॉवेल"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Shai Hope scripted history by surpassing Chris Gayle in a major T20 International milestone during the recent series against India.",
+        "hi": "शाई होप ने भारत के खिलाफ हालिया श्रृंखला के दौरान एक प्रमुख टी20 अंतर्राष्ट्रीय मील के पत्थर में क्रिस गेल को पछाड़कर इतिहास रचा।"
+      },
+      "category": "Sports",
+      "difficulty": "hard",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/shai-hope-scripts-history-surpasses-chris-gayle-in-major-t20i-milestone-for-west-indies/articleshow/134945998.cms"
+    },
+    {
+      "id": "ca_20261016_07",
+      "question": {
+        "en": "The Secretary General of which Indian sports federation, Pramod Kumar, was recently suspended over alleged financial irregularities?",
+        "hi": "किस भारतीय खेल महासंघ के महासचिव प्रमोद कुमार को हाल ही में कथित वित्तीय अनियमितताओं के कारण निलंबित कर दिया गया?"
+      },
+      "options": [
+        {
+          "en": "Wrestling Federation of India (WFI)",
+          "hi": "भारतीय कुश्ती महासंघ (डब्ल्यूएफआई)"
+        },
+        {
+          "en": "Boxing Federation of India (BFI)",
+          "hi": "बॉक्सिंग फेडरेशन ऑफ इंडिया (बीएफआई)"
+        },
+        {
+          "en": "All India Football Federation (AIFF)",
+          "hi": "अखिल भारतीय फुटबॉल महासंघ (एआईएफएफ)"
+        },
+        {
+          "en": "Athletics Federation of India (AFI)",
+          "hi": "भारतीय एथलेटिक्स महासंघ (एएफआई)"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The Boxing Federation of India (BFI) suspended its Secretary General, Pramod Kumar, following allegations of financial irregularities. The BFI is the governing body for Olympic boxing in India.",
+        "hi": "भारतीय मुक्केबाजी महासंघ (बीएफआई) ने वित्तीय अनियमितताओं के आरोपों के बाद अपने महासचिव प्रमोद कुमार को निलंबित कर दिया।बीएफआई भारत में ओलंपिक मुक्केबाजी के लिए शासी निकाय है।"
+      },
+      "category": "Sports",
+      "difficulty": "hard",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/boxing/bfi-suspends-secretary-general-pramod-kumar-over-alleged-financial-irregularities/articleshow/134936769.cms"
+    },
+    {
+      "id": "ca_20261016_08",
+      "question": {
+        "en": "External Affairs Minister S. Jaishankar recently stated that India is nearing a landing point on a trade deal with which country?",
+        "hi": "विदेश मंत्री एस जयशंकर ने हाल ही में कहा कि भारत किस देश के साथ व्यापार समझौते पर पहुंचने के करीब है?"
+      },
+      "options": [
+        {
+          "en": "United Kingdom",
+          "hi": "यूनाइटेड किंगडम"
+        },
+        {
+          "en": "United States",
+          "hi": "संयुक्त राज्य अमेरिका"
+        },
+        {
+          "en": "European Union",
+          "hi": "यूरोपीय संघ"
+        },
+        {
+          "en": "Australia",
+          "hi": "ऑस्ट्रेलिया"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "External Affairs Minister S. Jaishankar highlighted that India and the United States are nearing a landing point on a trade deal.",
+        "hi": "विदेश मंत्री एस जयशंकर ने इस बात पर प्रकाश डाला कि भारत और संयुक्त राज्य अमेरिका एक व्यापार समझौते पर पहुंचने के करीब हैं।"
+      },
+      "category": "International Summits",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/india-us-nearing-a-landing-point-on-trade-deal-eam-jaishankar/articleshow/134954380.cms"
+    },
+    {
+      "id": "ca_20261016_09",
+      "question": {
+        "en": "Prime Minister Narendra Modi recently backed momentum in bilateral ties during a meeting with a minister from which country?",
+        "hi": "प्रधान मंत्री नरेंद्र मोदी ने हाल ही में किस देश के एक मंत्री के साथ बैठक के दौरान द्विपक्षीय संबंधों में गति का समर्थन किया?"
+      },
+      "options": [
+        {
+          "en": "France",
+          "hi": "फ्रांस"
+        },
+        {
+          "en": "Japan",
+          "hi": "जापान"
+        },
+        {
+          "en": "Canada",
+          "hi": "कनाडा"
+        },
+        {
+          "en": "Germany",
+          "hi": "जर्मनी"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "PM Modi backed momentum in ties during a meeting with a Canada minister.",
+        "hi": "कनाडा के एक मंत्री के साथ बैठक के दौरान पीएम मोदी ने संबंधों में गति लाने का समर्थन किया।"
+      },
+      "category": "International Summits",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/as-canada-minister-calls-on-him-pm-modi-backs-momentum-in-ties/articleshow/134954391.cms"
+    },
+    {
+      "id": "ca_20261016_10",
+      "question": {
+        "en": "Finance Minister Nirmala Sitharaman recently responded to political criticism from Akhilesh Yadav regarding the sale of which major bank?",
+        "hi": "वित्त मंत्री निर्मला सीतारमण ने हाल ही में किस प्रमुख बैंक की बिक्री को लेकर अखिलेश यादव की राजनीतिक आलोचना का जवाब दिया?"
+      },
+      "options": [
+        {
+          "en": "Life Insurance Corporation (LIC)",
+          "hi": "जीवन बीमा निगम (एलआईसी)"
+        },
+        {
+          "en": "State Bank of India (SBI)",
+          "hi": "भारतीय स्टेट बैंक (एसबीआई)"
+        },
+        {
+          "en": "IDBI Bank",
+          "hi": "आईडीबीआई बैंक"
+        },
+        {
+          "en": "Unit Trust of India (UTI)",
+          "hi": "यूनिट ट्रस्ट ऑफ इंडिया (UTI)"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Finance Minister Nirmala Sitharaman responded to an Akhilesh's barb regarding the sale of IDBI Bank.",
+        "hi": "आईडीबीआई बैंक की बिक्री को लेकर अखिलेश के तंज का वित्त मंत्री निर्मला सीतारमण ने जवाब दिया."
+      },
+      "category": "Economy & Banking",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/finance-minister-sitharaman-rips-into-akhileshs-barb-on-idbi-bank-sale/articleshow/134954309.cms"
+    }
+  ]
+}

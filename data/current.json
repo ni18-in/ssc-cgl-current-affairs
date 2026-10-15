@@ -1,13 +1,13 @@
 {
-  "date": "2026-10-15",
+  "date": "2026-10-16",
   "topic": "SSC CGL Daily Current Affairs",
   "source": "Times of India",
-  "lastUpdated": "2026-10-15T05:30:37+0530",
+  "lastUpdated": "2026-10-16T06:30:00+05:30",
   "version": 1,
   "totalQuestions": 10,
   "quiz": [
     {
-      "id": "ca_20261015_01",
+      "id": "ca_20261016_01",
       "question": {
         "en": "The Supreme Court recently ruled that tough bail conditions under which Act cannot override the fundamental right of an accused?",
         "hi": "सुप्रीम कोर्ट ने हाल ही में फैसला सुनाया कि किस अधिनियम के तहत कड़ी जमानत की शर्तें किसी आरोपी के मौलिक अधिकार को खत्म नहीं कर सकती हैं?"
@@ -40,7 +40,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/india/sc-tough-pmla-bail-conditions-cant-override-accuseds-right/articleshow/134954446.cms"
     },
     {
-      "id": "ca_20261015_02",
+      "id": "ca_20261016_02",
       "question": {
         "en": "The Government of India and LIC are selling a combined stake worth Rs 53,000 crore in which bank, helping the government surpass its divestment target of Rs 80,000 crore?",
         "hi": "भारत सरकार और एलआईसी किस बैंक में 53,000 करोड़ रुपये की संयुक्त हिस्सेदारी बेच रही हैं, जिससे सरकार को 80,000 करोड़ रुपये के विनिवेश लक्ष्य को पार करने में मदद मिलेगी?"
@@ -73,7 +73,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/rs-53k-crore-idbi-stake-sale-with-lic-takes-govt-past-selloff-target/articleshow/134951420.cms"
     },
     {
-      "id": "ca_20261015_03",
+      "id": "ca_20261016_03",
       "question": {
         "en": "India recently asked which global satellite broadband service provider to strictly comply with rules before entering the market?",
         "hi": "भारत ने हाल ही में किस वैश्विक उपग्रह ब्रॉडबैंड सेवा प्रदाता से पूछा कि बाजार में प्रवेश करने से पहले नियमों का सख्ती से पालन करना होगा?"
@@ -106,7 +106,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/india/india-to-starlink-comply-with-rules-before-entering-market/articleshow/134954424.cms"
     },
     {
-      "id": "ca_20261015_04",
+      "id": "ca_20261016_04",
       "question": {
         "en": "India’s wholesale inflation recently touched a 30-month high. Which index is used to measure wholesale inflation in India?",
         "hi": "भारत की थोक मुद्रास्फीति हाल ही में 30 महीने के उच्चतम स्तर पर पहुंच गई।भारत में थोक मुद्रास्फीति को मापने के लिए किस सूचकांक का उपयोग किया जाता है?"
@@ -139,7 +139,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/wholesale-inflation-touches-30-month-high/articleshow/134951140.cms"
     },
     {
-      "id": "ca_20261015_05",
+      "id": "ca_20261016_05",
       "question": {
         "en": "Which Indian digital services company recently filed papers for its Initial Public Offering (IPO), set to open on October 21?",
         "hi": "किस भारतीय डिजिटल सेवा कंपनी ने हाल ही में 21 अक्टूबर को खुलने वाली अपनी प्रारंभिक सार्वजनिक पेशकश (आईपीओ) के लिए कागजात दाखिल किए हैं?"
@@ -172,7 +172,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/jio-platforms-files-papers-ipo-set-to-open-on-oct-21/articleshow/134951197.cms"
     },
     {
-      "id": "ca_20261015_06",
+      "id": "ca_20261016_06",
       "question": {
         "en": "Which West Indies cricketer recently surpassed Chris Gayle to achieve a major T20 International milestone?",
         "hi": "वेस्टइंडीज के किस क्रिकेटर ने हाल ही में क्रिस गेल को पीछे छोड़ते हुए एक प्रमुख टी20 अंतर्राष्ट्रीय उपलब्धि हासिल की?"
@@ -205,7 +205,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/shai-hope-scripts-history-surpasses-chris-gayle-in-major-t20i-milestone-for-west-indies/articleshow/134945998.cms"
     },
     {
-      "id": "ca_20261015_07",
+      "id": "ca_20261016_07",
       "question": {
         "en": "The Secretary General of which Indian sports federation, Pramod Kumar, was recently suspended over alleged financial irregularities?",
         "hi": "किस भारतीय खेल महासंघ के महासचिव प्रमोद कुमार को हाल ही में कथित वित्तीय अनियमितताओं के कारण निलंबित कर दिया गया?"
@@ -238,7 +238,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/sports/boxing/bfi-suspends-secretary-general-pramod-kumar-over-alleged-financial-irregularities/articleshow/134936769.cms"
     },
     {
-      "id": "ca_20261015_08",
+      "id": "ca_20261016_08",
       "question": {
         "en": "External Affairs Minister S. Jaishankar recently stated that India is nearing a landing point on a trade deal with which country?",
         "hi": "विदेश मंत्री एस जयशंकर ने हाल ही में कहा कि भारत किस देश के साथ व्यापार समझौते पर पहुंचने के करीब है?"
@@ -271,7 +271,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/india/india-us-nearing-a-landing-point-on-trade-deal-eam-jaishankar/articleshow/134954380.cms"
     },
     {
-      "id": "ca_20261015_09",
+      "id": "ca_20261016_09",
       "question": {
         "en": "Prime Minister Narendra Modi recently backed momentum in bilateral ties during a meeting with a minister from which country?",
         "hi": "प्रधान मंत्री नरेंद्र मोदी ने हाल ही में किस देश के एक मंत्री के साथ बैठक के दौरान द्विपक्षीय संबंधों में गति का समर्थन किया?"
@@ -304,7 +304,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/india/as-canada-minister-calls-on-him-pm-modi-backs-momentum-in-ties/articleshow/134954391.cms"
     },
     {
-      "id": "ca_20261015_10",
+      "id": "ca_20261016_10",
       "question": {
         "en": "Finance Minister Nirmala Sitharaman recently responded to political criticism from Akhilesh Yadav regarding the sale of which major bank?",
         "hi": "वित्त मंत्री निर्मला सीतारमण ने हाल ही में किस प्रमुख बैंक की बिक्री को लेकर अखिलेश यादव की राजनीतिक आलोचना का जवाब दिया?"
