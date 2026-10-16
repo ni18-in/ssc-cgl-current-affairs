@@ -1,13 +1,13 @@
 {
-  "date": "2026-10-16",
+  "date": "2026-10-17",
   "topic": "SSC CGL Daily Current Affairs",
   "source": "PIB / The Hindu / Economic Times / Indian Express / GKToday",
-  "lastUpdated": "2026-10-16T05:27:33+05:30",
+  "lastUpdated": "2026-10-17T06:30:00+05:30",
   "version": 1,
   "totalQuestions": 10,
   "quiz": [
     {
-      "id": "ca_20261016_01",
+      "id": "ca_20261017_01",
       "question": {
         "en": "What was the year-on-year growth in India's goods exports in September 2026?",
         "hi": "सितंबर 2026 में भारत के माल निर्यात में वर्ष-दर-वर्ष वृद्धि क्या थी?"
@@ -40,7 +40,7 @@
       "sourceUrl": "https://economictimes.indiatimes.com/news/economy/foreign-trade/indias-september-goods-exports-rise-23-as-imports-hit-six-month-low-narrowing-trade-deficit/articleshow/134976400.cms"
     },
     {
-      "id": "ca_20261016_02",
+      "id": "ca_20261017_02",
       "question": {
         "en": "Which senior executive from Munitions India Ltd was recently suspended following his arrest in a ₹500 crore bribery case?",
         "hi": "म्यूनिशन्स इंडिया लिमिटेड के किस वरिष्ठ कार्यकारी को हाल ही में ₹500 करोड़ रिश्वत मामले में गिरफ्तारी के बाद निलंबित कर दिया गया था?"
@@ -73,7 +73,7 @@
       "sourceUrl": "https://economictimes.indiatimes.com/news/defence/defence-ministry-suspends-munitions-india-executive-director-anil-kumar-in-bribery-case/articleshow/134972353.cms"
     },
     {
-      "id": "ca_20261016_03",
+      "id": "ca_20261017_03",
       "question": {
         "en": "India's current account deficit narrowed to what amount in August 2026, supported by a large capital account surplus?",
         "hi": "बड़े पूंजी खाते के अधिशेष द्वारा समर्थित, भारत का चालू खाता घाटा अगस्त 2026 में कितनी राशि तक कम हो गया?"
@@ -106,7 +106,7 @@
       "sourceUrl": "https://economictimes.indiatimes.com/news/economy/indicators/indias-current-account-deficit-narrows-to-5-2-billion-in-august-as-capital-account-surplus-hits-50-6-billion/articleshow/134971438.cms"
     },
     {
-      "id": "ca_20261016_04",
+      "id": "ca_20261017_04",
       "question": {
         "en": "According to the PLFS (Periodic Labour Force Survey), what was the unemployment rate in September 2026 compared to 5.2% a year ago?",
         "hi": "PLFS (आवधिक श्रम बल सर्वेक्षण) के अनुसार, सितंबर 2026 में बेरोजगारी दर एक साल पहले 5.2% की तुलना में क्या थी?"
@@ -139,7 +139,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/rssfeeds/1898055.cms"
     },
     {
-      "id": "ca_20261016_05",
+      "id": "ca_20261017_05",
       "question": {
         "en": "Which Indian boxer won the gold medal in the women’s 65kg category at the 2026 Asian Games, returning after a 22-month ban?",
         "hi": "किस भारतीय मुक्केबाज ने 22 महीने के प्रतिबंध के बाद वापसी करते हुए 2026 एशियाई खेलों में महिलाओं के 65 किग्रा वर्ग में स्वर्ण पदक जीता?"
@@ -172,7 +172,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/sports/boxing/sports-ek-tapasya-hai-boxer-parveen-hoodas-fight-a-22-month-ban-a-father-battling-cancer-then-asian-games-gold/articleshow/134957886.cms"
     },
     {
-      "id": "ca_20261016_06",
+      "id": "ca_20261017_06",
       "question": {
         "en": "PM Modi recently launched development projects worth how much in the Union Territory of Ladakh?",
         "hi": "पीएम मोदी ने हाल ही में केंद्र शासित प्रदेश लद्दाख में कितनी लागत की विकास परियोजनाएं शुरू कीं?"
@@ -205,7 +205,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/india/pm-modi-launches-ladakh-projects-worth-rs-3350-crore/articleshow/134979229.cms"
     },
     {
-      "id": "ca_20261016_07",
+      "id": "ca_20261017_07",
       "question": {
         "en": "Punam Raut, who recently announced her retirement from international cricket, was part of India's World Cup run in which year?",
         "hi": "पुनम राउत, जिन्होंने हाल ही में अंतरराष्ट्रीय क्रिकेट से संन्यास की घोषणा की, किस वर्ष भारत के विश्व कप का हिस्सा थीं?"
@@ -238,7 +238,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/punam-raut-part-of-indias-2017-world-cup-final-run-retires-from-international-cricket/articleshow/134972503.cms"
     },
     {
-      "id": "ca_20261016_08",
+      "id": "ca_20261017_08",
       "question": {
         "en": "Which major group could topple Tata as India's most valuable group following the expected listing of Jio?",
         "hi": "Jio की अपेक्षित लिस्टिंग के बाद कौन सा प्रमुख समूह भारत के सबसे मूल्यवान समूह के रूप में टाटा को पीछे छोड़ सकता है?"
@@ -271,7 +271,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/rssfeeds/1898055.cms"
     },
     {
-      "id": "ca_20261016_09",
+      "id": "ca_20261017_09",
       "question": {
         "en": "Union Home Minister Amit Shah recently stated that the era of violent Naxalism is over. The fight against Naxalism falls primarily under the jurisdiction of which ministry?",
         "hi": "केंद्रीय गृह मंत्री अमित शाह ने हाल ही में कहा कि हिंसक नक्सलवाद का युग समाप्त हो गया है।नक्सलवाद के खिलाफ लड़ाई मुख्य रूप से किस मंत्रालय के अधिकार क्षेत्र में आती है?"
@@ -304,7 +304,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/india/violent-naxalism-isover-task-now-is-toheal-wounds-amit-shah/articleshow/134979253.cms"
     },
     {
-      "id": "ca_20261016_10",
+      "id": "ca_20261017_10",
       "question": {
         "en": "Which country is actively co-hosting the 2027 ODI World Cup alongside South Africa and Namibia?",
         "hi": "कौन सा देश दक्षिण अफ्रीका और नामीबिया के साथ 2027 वनडे विश्व कप की सक्रिय सह-मेजबानी कर रहा है?"
