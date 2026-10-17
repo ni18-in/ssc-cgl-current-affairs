@@ -1,13 +1,13 @@
 {
-  "date": "2026-10-17",
+  "date": "2026-10-18",
   "topic": "SSC CGL Daily Current Affairs",
   "source": "PIB / The Hindu / Economic Times / Indian Express / GKToday",
-  "lastUpdated": "2026-10-17T06:00:00+05:30",
+  "lastUpdated": "2026-10-18T06:30:00+05:30",
   "version": 1,
   "totalQuestions": 10,
   "quiz": [
     {
-      "id": "ca_20261017_01",
+      "id": "ca_20261018_01",
       "question": {
         "en": "Who recently wrote to PM Modi requesting an all-party meeting on the delimitation bill?",
         "hi": "हाल ही में किसने पीएम मोदी को पत्र लिखकर परिसीमन विधेयक पर सर्वदलीय बैठक का अनुरोध किया?"
@@ -40,7 +40,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/india/kharge-writes-to-pm-modi-call-all-party-meet-on-delimitation-bill/articleshow/135005434.cms"
     },
     {
-      "id": "ca_20261017_02",
+      "id": "ca_20261018_02",
       "question": {
         "en": "The government has recently roped in aided, private teachers, and PSU staff to assist with which major national exercise?",
         "hi": "सरकार ने हाल ही में किस प्रमुख राष्ट्रीय अभ्यास में सहायता के लिए सहायता प्राप्त, निजी शिक्षकों और पीएसयू कर्मचारियों को शामिल किया है?"
@@ -73,7 +73,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/india/govt-ropes-in-aided-private-teachers-psu-staff-for-census-work/articleshow/135005398.cms"
     },
     {
-      "id": "ca_20261017_03",
+      "id": "ca_20261018_03",
       "question": {
         "en": "Which food regulatory body recently issued notices to Radisson Blu and BigBasket over safety lapses?",
         "hi": "हाल ही में किस खाद्य नियामक संस्था ने सुरक्षा खामियों पर रेडिसन ब्लू और बिगबास्केट को नोटिस जारी किया है?"
@@ -106,7 +106,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/india/fssai-notice-to-radisson-blu-bigbasket-over-safety-lapses/articleshow/135005384.cms"
     },
     {
-      "id": "ca_20261017_04",
+      "id": "ca_20261018_04",
       "question": {
         "en": "Which major Indian conglomerate recently stated regarding Elon Musk's ventures that 'competition is welcome, but follow rules'?",
         "hi": "हाल ही में किस प्रमुख भारतीय समूह ने एलन मस्क के उद्यमों के बारे में कहा कि 'प्रतिस्पर्धा का स्वागत है, लेकिन नियमों का पालन करें'?"
@@ -139,7 +139,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/reliance-industries-to-elon-musk-competition-welcome-but-follow-rules/articleshow/135005369.cms"
     },
     {
-      "id": "ca_20261017_05",
+      "id": "ca_20261018_05",
       "question": {
         "en": "The United States is recently seeking bids to exchange 17 million barrels of crude oil from its what?",
         "hi": "संयुक्त राज्य अमेरिका हाल ही में अपने किस स्थान से 17 मिलियन बैरल कच्चे तेल के विनिमय के लिए बोलियां मांग रहा है?"
@@ -172,7 +172,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/business/international-business/us-seeks-bids-to-exchange-17-million-barrels-of-crude-from-strategic-reserve/articleshow/134998661.cms"
     },
     {
-      "id": "ca_20261017_06",
+      "id": "ca_20261018_06",
       "question": {
         "en": "The Ministry of Environment, Forest and Climate Change (MoEF) granted environmental and CRZ clearance for a greenfield airport in which city?",
         "hi": "पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय (एमओईएफ) ने किस शहर में ग्रीनफील्ड हवाई अड्डे के लिए पर्यावरण और सीआरजेड मंजूरी दी?"
@@ -205,7 +205,7 @@
       "sourceUrl": "https://www.thehindu.com/news/national/odisha/moef-grants-environmental-crz-clearance-for-puris-greenfield-airport/article71556220.ece"
     },
     {
-      "id": "ca_20261017_07",
+      "id": "ca_20261018_07",
       "question": {
         "en": "The INDIA bloc is reportedly seeking an appointment with President Droupadi Murmu to raise concerns regarding which constitutional body?",
         "hi": "कथित तौर पर इंडिया ब्लॉक किस संवैधानिक निकाय के संबंध में चिंता व्यक्त करने के लिए राष्ट्रपति द्रौपदी मुर्मू से मिलने का समय मांग रहा है?"
@@ -238,7 +238,7 @@
       "sourceUrl": "https://www.thehindu.com/news/national/india-bloc-yet-to-get-presidents-appointment-on-eci-concerns/article71556695.ece"
     },
     {
-      "id": "ca_20261017_08",
+      "id": "ca_20261018_08",
       "question": {
         "en": "A forum in Arunachal Pradesh recently alleged that the software of which public sector bank denies the 'Schedule Tribe' option to Christians?",
         "hi": "अरुणाचल प्रदेश के एक मंच ने हाल ही में आरोप लगाया कि किस सार्वजनिक क्षेत्र के बैंक का सॉफ्टवेयर ईसाइयों को 'अनुसूचित जनजाति' विकल्प से वंचित करता है?"
@@ -271,7 +271,7 @@
       "sourceUrl": "https://www.thehindu.com/news/national/arunachal-pradesh/sbi-software-denies-schedule-tribe-option-to-christians-arunachal-forum/article71556178.ece"
     },
     {
-      "id": "ca_20261017_09",
+      "id": "ca_20261018_09",
       "question": {
         "en": "The President and PM Modi recently extended greetings to Indian Air Force personnel on Air Force Day. When is Indian Air Force Day celebrated annually?",
         "hi": "राष्ट्रपति और पीएम मोदी ने हाल ही में वायु सेना दिवस पर भारतीय वायु सेना कर्मियों को शुभकामनाएं दीं।भारतीय वायु सेना दिवस प्रतिवर्ष कब मनाया जाता है?"
@@ -304,7 +304,7 @@
       "sourceUrl": "https://www.thehindu.com/news/national/air-force-day-president-pm-modi-lead-nation-in-extending-greetings-to-indian-air-force-personnel/article71558275.ece"
     },
     {
-      "id": "ca_20261017_10",
+      "id": "ca_20261018_10",
       "question": {
         "en": "Which High Court recently ruled that organizations engaged in religious conversion shall be denied FCRA registration?",
         "hi": "हाल ही में किस उच्च न्यायालय ने फैसला सुनाया कि धार्मिक रूपांतरण में लगे संगठनों को एफसीआरए पंजीकरण से वंचित कर दिया जाएगा?"
