@@ -1,0 +1,340 @@
+{
+  "date": "2026-10-17",
+  "topic": "SSC CGL Daily Current Affairs",
+  "source": "PIB / The Hindu / Economic Times / Indian Express / GKToday",
+  "lastUpdated": "2026-10-17T06:00:00+05:30",
+  "version": 1,
+  "totalQuestions": 10,
+  "quiz": [
+    {
+      "id": "ca_20261017_01",
+      "question": {
+        "en": "Who recently wrote to PM Modi requesting an all-party meeting on the delimitation bill?",
+        "hi": "हाल ही में किसने पीएम मोदी को पत्र लिखकर परिसीमन विधेयक पर सर्वदलीय बैठक का अनुरोध किया?"
+      },
+      "options": [
+        {
+          "en": "Rahul Gandhi",
+          "hi": "राहुल गांधी"
+        },
+        {
+          "en": "Mallikarjun Kharge",
+          "hi": "मल्लिकार्जुन खड़गे"
+        },
+        {
+          "en": "Sharad Pawar",
+          "hi": "शरद पवार"
+        },
+        {
+          "en": "Akhilesh Yadav",
+          "hi": "अखिलेश यादव"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Congress President Mallikarjun Kharge wrote to PM Modi, urging him to call an all-party meeting regarding the delimitation bill. Delimitation is the act of redrawing boundaries of Lok Sabha and state Assembly seats to represent changes in population.",
+        "hi": "कांग्रेस अध्यक्ष मल्लिकार्जुन खड़गे ने पीएम मोदी को पत्र लिखकर परिसीमन बिल को लेकर सर्वदलीय बैठक बुलाने का आग्रह किया.परिसीमन जनसंख्या में परिवर्तन का प्रतिनिधित्व करने के लिए लोकसभा और राज्य विधानसभा सीटों की सीमाओं को फिर से निर्धारित करने का कार्य है।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/kharge-writes-to-pm-modi-call-all-party-meet-on-delimitation-bill/articleshow/135005434.cms"
+    },
+    {
+      "id": "ca_20261017_02",
+      "question": {
+        "en": "The government has recently roped in aided, private teachers, and PSU staff to assist with which major national exercise?",
+        "hi": "सरकार ने हाल ही में किस प्रमुख राष्ट्रीय अभ्यास में सहायता के लिए सहायता प्राप्त, निजी शिक्षकों और पीएसयू कर्मचारियों को शामिल किया है?"
+      },
+      "options": [
+        {
+          "en": "Election Commission duties",
+          "hi": "चुनाव आयोग के कर्तव्य"
+        },
+        {
+          "en": "Aadhaar Card renewal",
+          "hi": "आधार कार्ड नवीनीकरण"
+        },
+        {
+          "en": "Census work",
+          "hi": "जनगणना कार्य"
+        },
+        {
+          "en": "Polio vaccination drive",
+          "hi": "पोलियो टीकाकरण अभियान"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The government is roping in aided, private teachers, and PSU staff for the upcoming Census work. The Census provides detailed and authentic information on demography, economic activity, literacy, and housing.",
+        "hi": "सरकार आगामी जनगणना कार्य के लिए सहायता प्राप्त, निजी शिक्षकों और पीएसयू कर्मचारियों को शामिल कर रही है।जनगणना जनसांख्यिकी, आर्थिक गतिविधि, साक्षरता और आवास पर विस्तृत और प्रामाणिक जानकारी प्रदान करती है।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/govt-ropes-in-aided-private-teachers-psu-staff-for-census-work/articleshow/135005398.cms"
+    },
+    {
+      "id": "ca_20261017_03",
+      "question": {
+        "en": "Which food regulatory body recently issued notices to Radisson Blu and BigBasket over safety lapses?",
+        "hi": "हाल ही में किस खाद्य नियामक संस्था ने सुरक्षा खामियों पर रेडिसन ब्लू और बिगबास्केट को नोटिस जारी किया है?"
+      },
+      "options": [
+        {
+          "en": "FCI",
+          "hi": "एफसीआई"
+        },
+        {
+          "en": "FSSAI",
+          "hi": "एफएसएसएआई"
+        },
+        {
+          "en": "ICMR",
+          "hi": "आईसीएमआर"
+        },
+        {
+          "en": "BIS",
+          "hi": "बीआईएस"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The Food Safety and Standards Authority of India (FSSAI) issued notices to Radisson Blu and BigBasket due to alleged food safety lapses. FSSAI is an autonomous body established under the Ministry of Health & Family Welfare, Government of India.",
+        "hi": "भारतीय खाद्य सुरक्षा और मानक प्राधिकरण (FSSAI) ने कथित खाद्य सुरक्षा खामियों के कारण रेडिसन ब्लू और बिगबास्केट को नोटिस जारी किया।FSSAI भारत सरकार के स्वास्थ्य एवं परिवार कल्याण मंत्रालय के तहत स्थापित एक स्वायत्त निकाय है।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/fssai-notice-to-radisson-blu-bigbasket-over-safety-lapses/articleshow/135005384.cms"
+    },
+    {
+      "id": "ca_20261017_04",
+      "question": {
+        "en": "Which major Indian conglomerate recently stated regarding Elon Musk's ventures that 'competition is welcome, but follow rules'?",
+        "hi": "हाल ही में किस प्रमुख भारतीय समूह ने एलन मस्क के उद्यमों के बारे में कहा कि 'प्रतिस्पर्धा का स्वागत है, लेकिन नियमों का पालन करें'?"
+      },
+      "options": [
+        {
+          "en": "Tata Group",
+          "hi": "टाटा समूह"
+        },
+        {
+          "en": "Adani Group",
+          "hi": "अदानी ग्रुप"
+        },
+        {
+          "en": "Reliance Industries",
+          "hi": "रिलायंस इंडस्ट्रीज"
+        },
+        {
+          "en": "Aditya Birla Group",
+          "hi": "आदित्य बिड़ला समूह"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Reliance Industries Limited (RIL) commented on Elon Musk's ventures entering the Indian market, welcoming competition but emphasizing the need to follow the country's rules and regulations, especially in the telecom and satellite sectors.",
+        "hi": "रिलायंस इंडस्ट्रीज लिमिटेड (आरआईएल) ने एलन मस्क के उद्यम के भारतीय बाजार में प्रवेश पर टिप्पणी करते हुए प्रतिस्पर्धा का स्वागत किया, लेकिन विशेष रूप से दूरसंचार और उपग्रह क्षेत्रों में देश के नियमों और विनियमों का पालन करने की आवश्यकता पर जोर दिया।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/reliance-industries-to-elon-musk-competition-welcome-but-follow-rules/articleshow/135005369.cms"
+    },
+    {
+      "id": "ca_20261017_05",
+      "question": {
+        "en": "The United States is recently seeking bids to exchange 17 million barrels of crude oil from its what?",
+        "hi": "संयुक्त राज्य अमेरिका हाल ही में अपने किस स्थान से 17 मिलियन बैरल कच्चे तेल के विनिमय के लिए बोलियां मांग रहा है?"
+      },
+      "options": [
+        {
+          "en": "Commercial pipelines",
+          "hi": "वाणिज्यिक पाइपलाइन"
+        },
+        {
+          "en": "Strategic Petroleum Reserve",
+          "hi": "सामरिक पेट्रोलियम रिजर्व"
+        },
+        {
+          "en": "Offshore drilling platforms",
+          "hi": "अपतटीय ड्रिलिंग प्लेटफार्म"
+        },
+        {
+          "en": "National Oil Company",
+          "hi": "राष्ट्रीय तेल कंपनी"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The US government is seeking bids to exchange 17 million barrels of crude oil from its Strategic Petroleum Reserve (SPR) to stabilize global energy markets. The SPR is an emergency fuel storage of petroleum maintained underground by the United States Department of Energy.",
+        "hi": "अमेरिकी सरकार वैश्विक ऊर्जा बाजारों को स्थिर करने के लिए अपने रणनीतिक पेट्रोलियम रिजर्व (एसपीआर) से 17 मिलियन बैरल कच्चे तेल के आदान-प्रदान के लिए बोलियां मांग रही है।एसपीआर संयुक्त राज्य अमेरिका के ऊर्जा विभाग द्वारा भूमिगत बनाए रखा गया पेट्रोलियम का एक आपातकालीन ईंधन भंडारण है।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "hard",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/international-business/us-seeks-bids-to-exchange-17-million-barrels-of-crude-from-strategic-reserve/articleshow/134998661.cms"
+    },
+    {
+      "id": "ca_20261017_06",
+      "question": {
+        "en": "The Ministry of Environment, Forest and Climate Change (MoEF) granted environmental and CRZ clearance for a greenfield airport in which city?",
+        "hi": "पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय (एमओईएफ) ने किस शहर में ग्रीनफील्ड हवाई अड्डे के लिए पर्यावरण और सीआरजेड मंजूरी दी?"
+      },
+      "options": [
+        {
+          "en": "Bhubaneswar",
+          "hi": "भुवनेश्वर"
+        },
+        {
+          "en": "Cuttack",
+          "hi": "कटक"
+        },
+        {
+          "en": "Puri",
+          "hi": "पुरी"
+        },
+        {
+          "en": "Rourkela",
+          "hi": "राउरकेला"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The MoEF has granted environmental and Coastal Regulation Zone (CRZ) clearance for the proposed greenfield airport in Puri, Odisha. A greenfield airport is an aviation facility whose characteristics depend on an entirely new development on unoccupied land.",
+        "hi": "MoEF ने पुरी, ओडिशा में प्रस्तावित ग्रीनफील्ड हवाई अड्डे के लिए पर्यावरण और तटीय विनियमन क्षेत्र (CRZ) मंजूरी दे दी है।ग्रीनफील्ड हवाई अड्डा एक विमानन सुविधा है जिसकी विशेषताएं खाली भूमि पर पूरी तरह से नए विकास पर निर्भर करती हैं।"
+      },
+      "category": "Environment & Ecology",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.thehindu.com/news/national/odisha/moef-grants-environmental-crz-clearance-for-puris-greenfield-airport/article71556220.ece"
+    },
+    {
+      "id": "ca_20261017_07",
+      "question": {
+        "en": "The INDIA bloc is reportedly seeking an appointment with President Droupadi Murmu to raise concerns regarding which constitutional body?",
+        "hi": "कथित तौर पर इंडिया ब्लॉक किस संवैधानिक निकाय के संबंध में चिंता व्यक्त करने के लिए राष्ट्रपति द्रौपदी मुर्मू से मिलने का समय मांग रहा है?"
+      },
+      "options": [
+        {
+          "en": "UPSC",
+          "hi": "यूपीएससी"
+        },
+        {
+          "en": "CAG",
+          "hi": "सीएजी"
+        },
+        {
+          "en": "Election Commission of India (ECI)",
+          "hi": "भारत निर्वाचन आयोग (ECI)"
+        },
+        {
+          "en": "Finance Commission",
+          "hi": "वित्त आयोग"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The INDIA bloc has been seeking an appointment with President Droupadi Murmu to discuss concerns regarding the Election Commission of India (ECI). The ECI is an autonomous constitutional authority responsible for administering election processes in India, established under Article 324.",
+        "hi": "इंडिया ब्लॉक भारत के चुनाव आयोग (ईसीआई) से संबंधित चिंताओं पर चर्चा करने के लिए राष्ट्रपति द्रौपदी मुर्मू से मिलने का समय मांग रहा है।ईसीआई एक स्वायत्त संवैधानिक प्राधिकरण है जो भारत में चुनाव प्रक्रियाओं के प्रशासन के लिए जिम्मेदार है, जिसे अनुच्छेद 324 के तहत स्थापित किया गया है।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/news/national/india-bloc-yet-to-get-presidents-appointment-on-eci-concerns/article71556695.ece"
+    },
+    {
+      "id": "ca_20261017_08",
+      "question": {
+        "en": "A forum in Arunachal Pradesh recently alleged that the software of which public sector bank denies the 'Schedule Tribe' option to Christians?",
+        "hi": "अरुणाचल प्रदेश के एक मंच ने हाल ही में आरोप लगाया कि किस सार्वजनिक क्षेत्र के बैंक का सॉफ्टवेयर ईसाइयों को 'अनुसूचित जनजाति' विकल्प से वंचित करता है?"
+      },
+      "options": [
+        {
+          "en": "Punjab National Bank",
+          "hi": "पंजाब नेशनल बैंक"
+        },
+        {
+          "en": "State Bank of India (SBI)",
+          "hi": "भारतीय स्टेट बैंक (एसबीआई)"
+        },
+        {
+          "en": "Bank of Baroda",
+          "hi": "बैंक ऑफ बड़ौदा"
+        },
+        {
+          "en": "Canara Bank",
+          "hi": "केनरा बैंक"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "An Arunachal Pradesh forum alleged that the State Bank of India's (SBI) software incorrectly denies the Schedule Tribe (ST) option to Christian applicants. SBI is the largest public sector bank in India, headquartered in Mumbai.",
+        "hi": "अरुणाचल प्रदेश के एक मंच ने आरोप लगाया कि भारतीय स्टेट बैंक (एसबीआई) का सॉफ्टवेयर गलत तरीके से ईसाई आवेदकों को अनुसूचित जनजाति (एसटी) विकल्प से वंचित कर देता है।एसबीआई भारत का सबसे बड़ा सार्वजनिक क्षेत्र का बैंक है, जिसका मुख्यालय मुंबई में है।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/news/national/arunachal-pradesh/sbi-software-denies-schedule-tribe-option-to-christians-arunachal-forum/article71556178.ece"
+    },
+    {
+      "id": "ca_20261017_09",
+      "question": {
+        "en": "The President and PM Modi recently extended greetings to Indian Air Force personnel on Air Force Day. When is Indian Air Force Day celebrated annually?",
+        "hi": "राष्ट्रपति और पीएम मोदी ने हाल ही में वायु सेना दिवस पर भारतीय वायु सेना कर्मियों को शुभकामनाएं दीं।भारतीय वायु सेना दिवस प्रतिवर्ष कब मनाया जाता है?"
+      },
+      "options": [
+        {
+          "en": "8 October",
+          "hi": "8 अक्टूबर"
+        },
+        {
+          "en": "15 January",
+          "hi": "15 जनवरी"
+        },
+        {
+          "en": "4 December",
+          "hi": "4 दिसंबर"
+        },
+        {
+          "en": "26 January",
+          "hi": "26 जनवरी"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "Air Force Day was recently observed with leaders extending their greetings to the personnel. Indian Air Force Day is celebrated every year on 8 October to mark the foundation day of the Indian Air Force, which was established in 1932.",
+        "hi": "हाल ही में वायु सेना दिवस मनाया गया और नेताओं ने कर्मियों को शुभकामनाएं दीं।भारतीय वायु सेना दिवस हर साल 8 अक्टूबर को भारतीय वायु सेना के स्थापना दिवस को चिह्नित करने के लिए मनाया जाता है, जिसकी स्थापना 1932 में हुई थी।"
+      },
+      "category": "Important Days & Themes",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.thehindu.com/news/national/air-force-day-president-pm-modi-lead-nation-in-extending-greetings-to-indian-air-force-personnel/article71558275.ece"
+    },
+    {
+      "id": "ca_20261017_10",
+      "question": {
+        "en": "Which High Court recently ruled that organizations engaged in religious conversion shall be denied FCRA registration?",
+        "hi": "हाल ही में किस उच्च न्यायालय ने फैसला सुनाया कि धार्मिक रूपांतरण में लगे संगठनों को एफसीआरए पंजीकरण से वंचित कर दिया जाएगा?"
+      },
+      "options": [
+        {
+          "en": "Delhi High Court",
+          "hi": "दिल्ली उच्च न्यायालय"
+        },
+        {
+          "en": "Bombay High Court",
+          "hi": "बम्बई उच्च न्यायालय"
+        },
+        {
+          "en": "Madras High Court",
+          "hi": "मद्रास उच्च न्यायालय"
+        },
+        {
+          "en": "Kerala High Court",
+          "hi": "केरल उच्च न्यायालय"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The Madras High Court ruled that organizations engaged in religious conversion should be denied registration under the Foreign Contribution (Regulation) Act (FCRA). The FCRA regulates the acceptance and utilization of foreign contributions by individuals or associations in India.",
+        "hi": "मद्रास उच्च न्यायालय ने फैसला सुनाया कि धार्मिक रूपांतरण में लगे संगठनों को विदेशी योगदान (विनियमन) अधिनियम (एफसीआरए) के तहत पंजीकरण से वंचित किया जाना चाहिए।एफसीआरए भारत में व्यक्तियों या संघों द्वारा विदेशी योगदान की स्वीकृति और उपयोग को नियंत्रित करता है।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "hard",
+      "sourceUrl": "https://www.thehindu.com/news/national/tamil-nadu/organisations-engaged-in-religious-conversion-shall-be-denied-fcra-registration-madras-hc/article71556387.ece"
+    }
+  ]
+}
