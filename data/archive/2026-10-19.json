@@ -1,0 +1,340 @@
+{
+  "date": "2026-10-19",
+  "topic": "SSC CGL Daily Current Affairs",
+  "source": "PIB / The Hindu / Economic Times / Indian Express / GKToday",
+  "lastUpdated": "2026-10-19T06:30:00+05:30",
+  "version": 1,
+  "totalQuestions": 10,
+  "quiz": [
+    {
+      "id": "ca_20261019_01",
+      "question": {
+        "en": "Which glacier is widely referred to as the 'Doomsday Glacier' due to its potential impact on global sea levels?",
+        "hi": "वैश्विक समुद्र स्तर पर इसके संभावित प्रभाव के कारण किस ग्लेशियर को व्यापक रूप से 'डूम्सडे ग्लेशियर' के रूप में जाना जाता है?"
+      },
+      "options": [
+        {
+          "en": "Pine Island Glacier",
+          "hi": "पाइन द्वीप ग्लेशियर"
+        },
+        {
+          "en": "Thwaites Glacier",
+          "hi": "थ्वाइट्स ग्लेशियर"
+        },
+        {
+          "en": "Lambert Glacier",
+          "hi": "लैंबर्ट ग्लेशियर"
+        },
+        {
+          "en": "Petermann Glacier",
+          "hi": "पीटरमैन ग्लेशियर"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Thwaites Glacier in Antarctica, known as the 'Doomsday Glacier', is melting faster than feared, raising concerns about significant global sea-level rise.",
+        "hi": "अंटार्कटिका में थवाइट्स ग्लेशियर, जिसे 'डूम्सडे ग्लेशियर' के नाम से जाना जाता है, आशंका से अधिक तेज़ी से पिघल रहा है, जिससे वैश्विक समुद्र-स्तर में महत्वपूर्ण वृद्धि के बारे में चिंताएँ बढ़ रही हैं।"
+      },
+      "category": "Environment & Ecology",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/science/britain-sized-doomsday-glacier-is-melting-faster-than-feared/articleshow/134984803.cms"
+    },
+    {
+      "id": "ca_20261019_02",
+      "question": {
+        "en": "According to the recent Living Planet Report by WWF, what is the reported percentage decline in global monitored wildlife populations since 1970?",
+        "hi": "WWF की हालिया लिविंग प्लैनेट रिपोर्ट के अनुसार, 1970 के बाद से वैश्विक निगरानी वाली वन्यजीव आबादी में कितने प्रतिशत की गिरावट दर्ज की गई है?"
+      },
+      "options": [
+        {
+          "en": "53%",
+          "hi": "53%"
+        },
+        {
+          "en": "63%",
+          "hi": "63%"
+        },
+        {
+          "en": "73%",
+          "hi": "73%"
+        },
+        {
+          "en": "83%",
+          "hi": "83%"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The WWF's Living Planet Report highlighted a stark 73% decline in global monitored wildlife populations since 1970, although India showed recovery gains in certain areas.",
+        "hi": "डब्ल्यूडब्ल्यूएफ की लिविंग प्लैनेट रिपोर्ट ने 1970 के बाद से वैश्विक निगरानी वाली वन्यजीव आबादी में 73% की गिरावट पर प्रकाश डाला है, हालांकि भारत ने कुछ क्षेत्रों में सुधार दिखाया है।"
+      },
+      "category": "Environment & Ecology",
+      "difficulty": "hard",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/stark-73-decline-in-the-average-size-of-monitored-wildlife-populations-since-1970-india-presents-ground-for-hope-wwf-living-planet-report/articleshow/134774319.cms"
+    },
+    {
+      "id": "ca_20261019_03",
+      "question": {
+        "en": "Which major Indian private sector bank recently reported a 20% rise in standalone profit to Rs 14,843 crore for Q2?",
+        "hi": "हाल ही में किस प्रमुख भारतीय निजी क्षेत्र के बैंक ने Q2 के लिए स्टैंडअलोन लाभ में 20% की वृद्धि के साथ 14,843 करोड़ रुपये की वृद्धि दर्ज की?"
+      },
+      "options": [
+        {
+          "en": "HDFC Bank",
+          "hi": "एचडीएफसी बैंक"
+        },
+        {
+          "en": "ICICI Bank",
+          "hi": "ICICI Bank"
+        },
+        {
+          "en": "Axis Bank",
+          "hi": "एक्सिस बैंक"
+        },
+        {
+          "en": "Kotak Mahindra Bank",
+          "hi": "कोटक महिंद्रा बैंक"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "ICICI Bank announced its Q2 results showing a 20% increase in standalone net profit to Rs 14,843 crore, alongside a 17.7% growth in Net Interest Income (NII).",
+        "hi": "ICICI बैंक ने अपने Q2 नतीजों की घोषणा की, जिसमें शुद्ध ब्याज आय (NII) में 17.7% की वृद्धि के साथ-साथ स्टैंडअलोन शुद्ध लाभ में 20% की वृद्धि के साथ 14,843 करोड़ रुपये की वृद्धि देखी गई।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/icici-bank-q2-results-standalone-profit-rises-20-to-rs-14843-crore-nii-up-17-7/articleshow/135015586.cms"
+    },
+    {
+      "id": "ca_20261019_04",
+      "question": {
+        "en": "Union Finance Minister Nirmala Sitharaman recently raised concerns over the growing trade imbalance with which country due to alleged trade barriers?",
+        "hi": "केंद्रीय वित्त मंत्री निर्मला सीतारमण ने हाल ही में कथित व्यापार बाधाओं के कारण किस देश के साथ बढ़ते व्यापार असंतुलन पर चिंता जताई?"
+      },
+      "options": [
+        {
+          "en": "United States",
+          "hi": "संयुक्त राज्य अमेरिका"
+        },
+        {
+          "en": "Russia",
+          "hi": "रूस"
+        },
+        {
+          "en": "China",
+          "hi": "चीन"
+        },
+        {
+          "en": "United Kingdom",
+          "hi": "यूनाइटेड किंगडम"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Finance Minister Nirmala Sitharaman highlighted that the trade imbalance with China is growing primarily due to various trade barriers imposed on Indian exports.",
+        "hi": "वित्त मंत्री निर्मला सीतारमण ने इस बात पर प्रकाश डाला कि चीन के साथ व्यापार असंतुलन मुख्य रूप से भारतीय निर्यात पर लगाए गए विभिन्न व्यापार बाधाओं के कारण बढ़ रहा है।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/trade-imbalance-with-china-growing-due-to-barriers-fm-sitharaman/articleshow/135005927.cms"
+    },
+    {
+      "id": "ca_20261019_05",
+      "question": {
+        "en": "Who has been named to take over as the CEO of HDFC following the announcement of exit by Deputy MD Kaizad Bharucha?",
+        "hi": "डिप्टी एमडी कैज़ाद भरूचा द्वारा एचडीएफसी से बाहर निकलने की घोषणा के बाद एचडीएफसी के सीईओ के रूप में कार्यभार संभालने के लिए किसे नामित किया गया है?"
+      },
+      "options": [
+        {
+          "en": "Sashidhar Jagdishan",
+          "hi": "शशिधर जगदीशन"
+        },
+        {
+          "en": "Anup Bagchi",
+          "hi": "अनुप बागची"
+        },
+        {
+          "en": "Shyamala Gopinath",
+          "hi": "श्यामला गोपीनाथ"
+        },
+        {
+          "en": "Atanu Chakraborty",
+          "hi": "Atanu Chakraborty"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Anup Bagchi is set to take over as the CEO of HDFC, ahead of which Deputy MD Kaizad Bharucha announced his decision to quit.",
+        "hi": "अनुप बागची एचडीएफसी के सीईओ का पद संभालने के लिए तैयार हैं, इससे पहले डिप्टी एमडी कैज़ाद भरूचा ने पद छोड़ने के अपने फैसले की घोषणा की।"
+      },
+      "category": "Appointments & Commissions",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/hdfc-deputy-md-kaizad-bharucha-announces-decision-to-quit-ahead-of-anup-bagchis-takeover-as-ceo/articleshow/135013132.cms"
+    },
+    {
+      "id": "ca_20261019_06",
+      "question": {
+        "en": "Under which legislative act did Donald Trump waive certain sanctions, restrictions, and duties concerning Russia?",
+        "hi": "डोनाल्ड ट्रम्प ने किस विधायी अधिनियम के तहत रूस से संबंधित कुछ प्रतिबंधों, प्रतिबंधों और कर्तव्यों को माफ कर दिया?"
+      },
+      "options": [
+        {
+          "en": "CAATSA",
+          "hi": "CAATSA"
+        },
+        {
+          "en": "Graham Act",
+          "hi": "ग्राहम अधिनियम"
+        },
+        {
+          "en": "Magnitsky Act",
+          "hi": "मैग्निट्स्की अधिनियम"
+        },
+        {
+          "en": "Helsinki Accords",
+          "hi": "हेलसिंकी समझौता"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Donald Trump waived specific Russia sanctions, restrictions, and duties under the provisions of the Graham Act.",
+        "hi": "डोनाल्ड ट्रम्प ने ग्राहम अधिनियम के प्रावधानों के तहत विशिष्ट रूस प्रतिबंधों, प्रतिबंधों और कर्तव्यों को माफ कर दिया।"
+      },
+      "category": "International Summits",
+      "difficulty": "hard",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/international-business/trump-waives-russia-sanctions-restrictions-and-duties-under-graham-act-diesel-us-midterms/articleshow/135005808.cms"
+    },
+    {
+      "id": "ca_20261019_07",
+      "question": {
+        "en": "The Centre recently asked states to operate in 'mission mode' to primarily curb which environmentally harmful agricultural practice?",
+        "hi": "केंद्र ने हाल ही में राज्यों से पर्यावरण की दृष्टि से हानिकारक किस कृषि पद्धति पर मुख्य रूप से अंकुश लगाने के लिए 'मिशन मोड' में काम करने को कहा है?"
+      },
+      "options": [
+        {
+          "en": "Excessive groundwater extraction",
+          "hi": "अत्यधिक भूजल दोहन"
+        },
+        {
+          "en": "Stubble burning",
+          "hi": "पराली जलाना"
+        },
+        {
+          "en": "Overuse of chemical fertilizers",
+          "hi": "रासायनिक उर्वरकों का अत्यधिक प्रयोग"
+        },
+        {
+          "en": "Monocropping",
+          "hi": "मोनोक्रॉपिंग"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "In response to rising farm fires, the Central government has directed states to switch to 'mission mode' to strictly curb stubble burning, which severely impacts air quality.",
+        "hi": "बढ़ती खेतों की आग के जवाब में, केंद्र सरकार ने राज्यों को पराली जलाने पर सख्ती से अंकुश लगाने के लिए 'मिशन मोड' पर स्विच करने का निर्देश दिया है, जो हवा की गुणवत्ता को गंभीर रूप से प्रभावित करता है।"
+      },
+      "category": "Government Schemes",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/centre-asks-states-to-go-into-mission-mode-to-curb-stubble-burning-as-farm-fires-rise-in-mp-rajasthan/articleshow/134921556.cms"
+    },
+    {
+      "id": "ca_20261019_08",
+      "question": {
+        "en": "The rollout of a dedicated weather network by the Agriculture Ministry is currently facing delays primarily due to which issue?",
+        "hi": "कृषि मंत्रालय द्वारा एक समर्पित मौसम नेटवर्क के कार्यान्वयन में वर्तमान में मुख्य रूप से किस मुद्दे के कारण देरी हो रही है?"
+      },
+      "options": [
+        {
+          "en": "Lack of technological expertise",
+          "hi": "Lack of technological expertise"
+        },
+        {
+          "en": "Shortage of funds",
+          "hi": "धन की कमी"
+        },
+        {
+          "en": "Land shortage for installing equipment",
+          "hi": "उपकरण लगाने के लिए जमीन की कमी"
+        },
+        {
+          "en": "Delay in satellite launches",
+          "hi": "उपग्रह प्रक्षेपण में देरी"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The Agriculture Ministry's initiative to establish an extensive weather monitoring network is being crippled by a severe shortage of suitable land for equipment installation.",
+        "hi": "व्यापक मौसम निगरानी नेटवर्क स्थापित करने की कृषि मंत्रालय की पहल उपकरण स्थापना के लिए उपयुक्त भूमि की भारी कमी के कारण बाधित हो रही है।"
+      },
+      "category": "Science & Technology",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/sci-tech/energy-and-environment/land-shortage-cripples-agriculture-ministry-weather-network/article71588890.ece"
+    },
+    {
+      "id": "ca_20261019_09",
+      "question": {
+        "en": "Which author recently won an award for a novel based on early migration to the Gulf region?",
+        "hi": "हाल ही में किस लेखक ने खाड़ी क्षेत्र में प्रारंभिक प्रवास पर आधारित उपन्यास के लिए पुरस्कार जीता?"
+      },
+      "options": [
+        {
+          "en": "Benyamin",
+          "hi": "बेन्यामिन"
+        },
+        {
+          "en": "Ammar Kizhuparamba",
+          "hi": "अम्मार किझुपराम्बा"
+        },
+        {
+          "en": "M.T. Vasudevan Nair",
+          "hi": "एम.टी.वासुदेवन नायर"
+        },
+        {
+          "en": "O.V. Vijayan",
+          "hi": "ओ.वी.विजयन"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Ammar Kizhuparamba’s latest novel, which chronicles the poignant history of early migration to the Gulf, has been recognized with a prestigious literary award.",
+        "hi": "अम्मार किज़ुपरम्बा का नवीनतम उपन्यास, जो खाड़ी में प्रारंभिक प्रवास के मार्मिक इतिहास का वर्णन करता है, को एक प्रतिष्ठित साहित्यिक पुरस्कार से मान्यता दी गई है।"
+      },
+      "category": "Awards & Honours",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.thehindu.com/news/national/kerala/ammar-kizhuparambas-novel-on-early-gulf-migration-wins-award/article71588538.ece"
+    },
+    {
+      "id": "ca_20261019_10",
+      "question": {
+        "en": "According to recent reports, the US budget deficit has swelled to nearly how much in fiscal year 2026?",
+        "hi": "हाल की रिपोर्टों के अनुसार, वित्तीय वर्ष 2026 में अमेरिकी बजट घाटा बढ़कर लगभग कितना हो गया है?"
+      },
+      "options": [
+        {
+          "en": "$1 trillion",
+          "hi": "$1 ट्रिलियन"
+        },
+        {
+          "en": "$1.5 trillion",
+          "hi": "$1.5 ट्रिलियन"
+        },
+        {
+          "en": "$2 trillion",
+          "hi": "$2 ट्रिलियन"
+        },
+        {
+          "en": "$3 trillion",
+          "hi": "$3 ट्रिलियन"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Reports indicate a massive 'trillion dollar gap' as the US budget deficit has swelled to nearly $2 trillion in the fiscal year 2026, raising economic concerns.",
+        "hi": "रिपोर्टें बड़े पैमाने पर 'ट्रिलियन डॉलर अंतर' का संकेत देती हैं क्योंकि वित्तीय वर्ष 2026 में अमेरिकी बजट घाटा लगभग 2 ट्रिलियन डॉलर तक बढ़ गया है, जिससे आर्थिक चिंताएं बढ़ गई हैं।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/international-business/trillion-dollar-gap-us-budget-deficit-swells-to-nearly-2-tn-in-fiscal-2026/articleshow/135006143.cms"
+    }
+  ]
+}

@@ -1,13 +1,13 @@
 {
-  "date": "2026-10-18",
+  "date": "2026-10-19",
   "topic": "SSC CGL Daily Current Affairs",
   "source": "PIB / The Hindu / Economic Times / Indian Express / GKToday",
-  "lastUpdated": "2026-10-18T05:12:57+05:30",
+  "lastUpdated": "2026-10-19T06:30:00+05:30",
   "version": 1,
   "totalQuestions": 10,
   "quiz": [
     {
-      "id": "ca_20261018_01",
+      "id": "ca_20261019_01",
       "question": {
         "en": "Which glacier is widely referred to as the 'Doomsday Glacier' due to its potential impact on global sea levels?",
         "hi": "वैश्विक समुद्र स्तर पर इसके संभावित प्रभाव के कारण किस ग्लेशियर को व्यापक रूप से 'डूम्सडे ग्लेशियर' के रूप में जाना जाता है?"
@@ -40,7 +40,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/science/britain-sized-doomsday-glacier-is-melting-faster-than-feared/articleshow/134984803.cms"
     },
     {
-      "id": "ca_20261018_02",
+      "id": "ca_20261019_02",
       "question": {
         "en": "According to the recent Living Planet Report by WWF, what is the reported percentage decline in global monitored wildlife populations since 1970?",
         "hi": "WWF की हालिया लिविंग प्लैनेट रिपोर्ट के अनुसार, 1970 के बाद से वैश्विक निगरानी वाली वन्यजीव आबादी में कितने प्रतिशत की गिरावट दर्ज की गई है?"
@@ -73,7 +73,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/india/stark-73-decline-in-the-average-size-of-monitored-wildlife-populations-since-1970-india-presents-ground-for-hope-wwf-living-planet-report/articleshow/134774319.cms"
     },
     {
-      "id": "ca_20261018_03",
+      "id": "ca_20261019_03",
       "question": {
         "en": "Which major Indian private sector bank recently reported a 20% rise in standalone profit to Rs 14,843 crore for Q2?",
         "hi": "हाल ही में किस प्रमुख भारतीय निजी क्षेत्र के बैंक ने Q2 के लिए स्टैंडअलोन लाभ में 20% की वृद्धि के साथ 14,843 करोड़ रुपये की वृद्धि दर्ज की?"
@@ -106,7 +106,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/icici-bank-q2-results-standalone-profit-rises-20-to-rs-14843-crore-nii-up-17-7/articleshow/135015586.cms"
     },
     {
-      "id": "ca_20261018_04",
+      "id": "ca_20261019_04",
       "question": {
         "en": "Union Finance Minister Nirmala Sitharaman recently raised concerns over the growing trade imbalance with which country due to alleged trade barriers?",
         "hi": "केंद्रीय वित्त मंत्री निर्मला सीतारमण ने हाल ही में कथित व्यापार बाधाओं के कारण किस देश के साथ बढ़ते व्यापार असंतुलन पर चिंता जताई?"
@@ -139,7 +139,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/trade-imbalance-with-china-growing-due-to-barriers-fm-sitharaman/articleshow/135005927.cms"
     },
     {
-      "id": "ca_20261018_05",
+      "id": "ca_20261019_05",
       "question": {
         "en": "Who has been named to take over as the CEO of HDFC following the announcement of exit by Deputy MD Kaizad Bharucha?",
         "hi": "डिप्टी एमडी कैज़ाद भरूचा द्वारा एचडीएफसी से बाहर निकलने की घोषणा के बाद एचडीएफसी के सीईओ के रूप में कार्यभार संभालने के लिए किसे नामित किया गया है?"
@@ -172,7 +172,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/hdfc-deputy-md-kaizad-bharucha-announces-decision-to-quit-ahead-of-anup-bagchis-takeover-as-ceo/articleshow/135013132.cms"
     },
     {
-      "id": "ca_20261018_06",
+      "id": "ca_20261019_06",
       "question": {
         "en": "Under which legislative act did Donald Trump waive certain sanctions, restrictions, and duties concerning Russia?",
         "hi": "डोनाल्ड ट्रम्प ने किस विधायी अधिनियम के तहत रूस से संबंधित कुछ प्रतिबंधों, प्रतिबंधों और कर्तव्यों को माफ कर दिया?"
@@ -205,7 +205,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/business/international-business/trump-waives-russia-sanctions-restrictions-and-duties-under-graham-act-diesel-us-midterms/articleshow/135005808.cms"
     },
     {
-      "id": "ca_20261018_07",
+      "id": "ca_20261019_07",
       "question": {
         "en": "The Centre recently asked states to operate in 'mission mode' to primarily curb which environmentally harmful agricultural practice?",
         "hi": "केंद्र ने हाल ही में राज्यों से पर्यावरण की दृष्टि से हानिकारक किस कृषि पद्धति पर मुख्य रूप से अंकुश लगाने के लिए 'मिशन मोड' में काम करने को कहा है?"
@@ -238,7 +238,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/india/centre-asks-states-to-go-into-mission-mode-to-curb-stubble-burning-as-farm-fires-rise-in-mp-rajasthan/articleshow/134921556.cms"
     },
     {
-      "id": "ca_20261018_08",
+      "id": "ca_20261019_08",
       "question": {
         "en": "The rollout of a dedicated weather network by the Agriculture Ministry is currently facing delays primarily due to which issue?",
         "hi": "कृषि मंत्रालय द्वारा एक समर्पित मौसम नेटवर्क के कार्यान्वयन में वर्तमान में मुख्य रूप से किस मुद्दे के कारण देरी हो रही है?"
@@ -271,7 +271,7 @@
       "sourceUrl": "https://www.thehindu.com/sci-tech/energy-and-environment/land-shortage-cripples-agriculture-ministry-weather-network/article71588890.ece"
     },
     {
-      "id": "ca_20261018_09",
+      "id": "ca_20261019_09",
       "question": {
         "en": "Which author recently won an award for a novel based on early migration to the Gulf region?",
         "hi": "हाल ही में किस लेखक ने खाड़ी क्षेत्र में प्रारंभिक प्रवास पर आधारित उपन्यास के लिए पुरस्कार जीता?"
@@ -304,7 +304,7 @@
       "sourceUrl": "https://www.thehindu.com/news/national/kerala/ammar-kizhuparambas-novel-on-early-gulf-migration-wins-award/article71588538.ece"
     },
     {
-      "id": "ca_20261018_10",
+      "id": "ca_20261019_10",
       "question": {
         "en": "According to recent reports, the US budget deficit has swelled to nearly how much in fiscal year 2026?",
         "hi": "हाल की रिपोर्टों के अनुसार, वित्तीय वर्ष 2026 में अमेरिकी बजट घाटा बढ़कर लगभग कितना हो गया है?"
