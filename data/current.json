@@ -1,13 +1,13 @@
 {
-  "date": "2026-10-19",
+  "date": "2026-10-20",
   "topic": "SSC CGL Daily Current Affairs",
   "source": "PIB / The Hindu / Economic Times / Indian Express / GKToday",
-  "lastUpdated": "2026-10-19T06:00:00+05:30",
+  "lastUpdated": "2026-10-20T06:30:00+05:30",
   "version": 1,
   "totalQuestions": 10,
   "quiz": [
     {
-      "id": "ca_20261019_01",
+      "id": "ca_20261020_01",
       "question": {
         "en": "According to the recent report by WWF, by what percentage have monitored global wildlife populations declined between 1970 and 2022?",
         "hi": "WWF की हालिया रिपोर्ट के अनुसार, 1970 और 2022 के बीच वैश्विक वन्यजीव आबादी में कितने प्रतिशत की गिरावट देखी गई है?"
@@ -40,7 +40,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/india/stark-73-decline-in-the-average-size-of-monitored-wildlife-populations-since-1970-india-presents-ground-for-hope-wwf-living-planet-report/articleshow/134774319.cms"
     },
     {
-      "id": "ca_20261019_02",
+      "id": "ca_20261020_02",
       "question": {
         "en": "To strictly curb the practice of stubble burning, the Centre recently asked states to operate in which mode?",
         "hi": "पराली जलाने की प्रथा पर सख्ती से अंकुश लगाने के लिए, केंद्र ने हाल ही में राज्यों से किस मोड में काम करने को कहा है?"
@@ -73,7 +73,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/india/centre-asks-states-to-go-into-mission-mode-to-curb-stubble-burning-as-farm-fires-rise-in-mp-rajasthan/articleshow/134921556.cms"
     },
     {
-      "id": "ca_20261019_03",
+      "id": "ca_20261020_03",
       "question": {
         "en": "Which major glacier, roughly the size of Britain, is reportedly melting faster than feared?",
         "hi": "कौन सा प्रमुख ग्लेशियर, लगभग ब्रिटेन के आकार का, कथित तौर पर आशंका से अधिक तेजी से पिघल रहा है?"
@@ -106,7 +106,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/science/britain-sized-doomsday-glacier-is-melting-faster-than-feared/articleshow/134984803.cms"
     },
     {
-      "id": "ca_20261019_04",
+      "id": "ca_20261020_04",
       "question": {
         "en": "Which ongoing climate phenomenon could reportedly push vulnerable coral reefs closer to extinction?",
         "hi": "कौन सी चल रही जलवायु घटना कथित तौर पर कमजोर मूंगा चट्टानों को विलुप्त होने के करीब धकेल सकती है?"
@@ -139,7 +139,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/home/environment/collapse-could-be-precipitous-super-el-nio-could-push-coral-reefs-closer-to-extinction-un-biodiversity-expert-warns/articleshow/134973795.cms"
     },
     {
-      "id": "ca_20261019_05",
+      "id": "ca_20261020_05",
       "question": {
         "en": "According to recent data, by what percentage did India's southwest monsoon rainfall end below normal, marking the fourth-lowest since 2001?",
         "hi": "हाल के आंकड़ों के अनुसार, भारत में दक्षिण-पश्चिम मानसून की वर्षा कितने प्रतिशत सामान्य से कम रही, जो 2001 के बाद से चौथी सबसे कम बारिश है?"
@@ -172,7 +172,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/india/indias-monsoon-rainfall-ends-13-below-normal-fourth-lowest-since-2001/articleshow/134596710.cms"
     },
     {
-      "id": "ca_20261019_06",
+      "id": "ca_20261020_06",
       "question": {
         "en": "Which city's built-up area recently rose by 64%, while its water bodies shrunk by 77% in a decade?",
         "hi": "किस शहर का निर्मित क्षेत्र हाल ही में 64% बढ़ गया, जबकि इसके जल निकाय एक दशक में 77% कम हो गए?"
@@ -205,7 +205,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/city/gurgaon/citys-built-up-area-rises-64-water-bodies-shrink-77-in-a-decade/articleshow/134549844.cms"
     },
     {
-      "id": "ca_20261019_07",
+      "id": "ca_20261020_07",
       "question": {
         "en": "A dedicated bench was recently established for Ladakh, nearly a century after the setting up of the High Court in which region?",
         "hi": "किस क्षेत्र में उच्च न्यायालय की स्थापना के लगभग एक शताब्दी बाद हाल ही में लद्दाख के लिए एक समर्पित पीठ की स्थापना की गई थी?"
@@ -238,7 +238,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/india/almost-a-century-after-jk-hc-was-set-up-ladakh-gets-bench/articleshow/135034887.cms"
     },
     {
-      "id": "ca_20261019_08",
+      "id": "ca_20261020_08",
       "question": {
         "en": "Which marine species' populations are booming in Europe due to hotter seas?",
         "hi": "गर्म समुद्रों के कारण यूरोप में किस समुद्री प्रजाति की आबादी तेजी से बढ़ रही है?"
@@ -271,7 +271,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/world/europe/hotter-seas-vanishing-kelp-booming-octopus-how-europes-marine-life-is-changing/articleshow/134530318.cms"
     },
     {
-      "id": "ca_20261019_09",
+      "id": "ca_20261020_09",
       "question": {
         "en": "Recently, Akshay Kumar met the Chief Minister of which state to discuss its film policy?",
         "hi": "हाल ही में, अक्षय कुमार ने अपनी फिल्म नीति पर चर्चा करने के लिए किस राज्य के मुख्यमंत्री से मुलाकात की?"
@@ -304,7 +304,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/india/akshay-kumar-meets-uttarakhand-cm-pushkar-singh-dhami-discusses-states-film-policy/articleshow/135032348.cms"
     },
     {
-      "id": "ca_20261019_10",
+      "id": "ca_20261020_10",
       "question": {
         "en": "The IMD recently forecasted heavy rain, thunderstorms, and lightning across 23 states, including winds up to what speed?",
         "hi": "आईएमडी ने हाल ही में 23 राज्यों में भारी बारिश, तूफान और बिजली गिरने की भविष्यवाणी की है, जिसमें किस गति से हवाएं भी शामिल हैं?"
