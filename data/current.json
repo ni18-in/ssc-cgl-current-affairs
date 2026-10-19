@@ -1,340 +1,340 @@
 {
-  "date": "2026-10-19",
+  "date": "2026-10-20",
   "topic": "SSC CGL Daily Current Affairs",
   "source": "PIB / The Hindu / Economic Times / Indian Express / GKToday",
-  "lastUpdated": "2026-10-19T06:00:00+05:30",
+  "lastUpdated": "2026-10-20T05:09:27+05:30",
   "version": 1,
   "totalQuestions": 10,
   "quiz": [
     {
-      "id": "ca_20261019_01",
+      "id": "ca_20261020_01",
       "question": {
-        "en": "According to the recent report by WWF, by what percentage have monitored global wildlife populations declined between 1970 and 2022?",
-        "hi": "WWF की हालिया रिपोर्ट के अनुसार, 1970 और 2022 के बीच वैश्विक वन्यजीव आबादी में कितने प्रतिशत की गिरावट देखी गई है?"
+        "en": "Who has recently been appointed as the chairman of the BCCI's Men's Selection Committee, replacing Ajit Agarkar?",
+        "hi": "हाल ही में अजीत अगरकर की जगह बीसीसीआई की पुरुष चयन समिति के अध्यक्ष के रूप में किसे नियुक्त किया गया है?"
       },
       "options": [
         {
-          "en": "53%",
-          "hi": "53%"
+          "en": "Ramesh Powar",
+          "hi": "रमेश पोवार"
         },
         {
-          "en": "63%",
-          "hi": "63%"
+          "en": "Pragyan Ojha",
+          "hi": "प्रज्ञान ओझा"
         },
         {
-          "en": "73%",
-          "hi": "73%"
+          "en": "VVS Laxman",
+          "hi": "वीवीएस लक्ष्मण"
         },
         {
-          "en": "83%",
-          "hi": "83%"
-        }
-      ],
-      "correctAnswer": 2,
-      "explanation": {
-        "en": "Living Planet Report: WWF finds 73% global wildlife decline; India shows recovery gains. A global decline of 73% in monitored wildlife populations occurred between 1970 and 2022. India has successfully improved populations of tigers, one-horned rhinos, and Ganga river dolphins.",
-        "hi": "लिविंग प्लैनेट रिपोर्ट: डब्ल्यूडब्ल्यूएफ ने पाया कि वैश्विक वन्यजीवन में 73% की गिरावट आई है; भारत में सुधार का लाभ दिख रहा है। 1970 और 2022 के बीच निगरानी वन्यजीव आबादी में 73% की वैश्विक गिरावट आई। भारत ने बाघों, एक सींग वाले गैंडों और गंगा नदी डॉल्फ़िन की आबादी में सफलतापूर्वक सुधार किया है।"
-      },
-      "category": "Environment & Ecology",
-      "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/stark-73-decline-in-the-average-size-of-monitored-wildlife-populations-since-1970-india-presents-ground-for-hope-wwf-living-planet-report/articleshow/134774319.cms"
-    },
-    {
-      "id": "ca_20261019_02",
-      "question": {
-        "en": "To strictly curb the practice of stubble burning, the Centre recently asked states to operate in which mode?",
-        "hi": "पराली जलाने की प्रथा पर सख्ती से अंकुश लगाने के लिए, केंद्र ने हाल ही में राज्यों से किस मोड में काम करने को कहा है?"
-      },
-      "options": [
-        {
-          "en": "Emergency mode",
-          "hi": "आपात मोड"
-        },
-        {
-          "en": "Mission mode",
-          "hi": "मिशन मोड"
-        },
-        {
-          "en": "Preventive mode",
-          "hi": "निवारक विधा"
-        },
-        {
-          "en": "Alert mode",
-          "hi": "अलर्ट मोड"
+          "en": "Rahul Dravid",
+          "hi": "राहुल द्रविड़"
         }
       ],
       "correctAnswer": 1,
       "explanation": {
-        "en": "Centre asks states to go into ‘mission mode’ to curb stubble burning. The Centre has instructed Madhya Pradesh, Rajasthan, Punjab, Haryana, and Delhi-NCR to prevent stubble burning. Recent data showed a significant rise in farm fires especially in Madhya Pradesh and Rajasthan.",
-        "hi": "केंद्र ने राज्यों से पराली जलाने पर रोक लगाने के लिए 'मिशन मोड' में आने को कहा। केंद्र ने मध्य प्रदेश, राजस्थान, पंजाब, हरियाणा और दिल्ली-एनसीआर को पराली जलाने से रोकने के निर्देश दिए हैं। हाल के आंकड़ों से पता चला है कि विशेष रूप से मध्य प्रदेश और राजस्थान में खेतों में आग लगने की घटनाओं में उल्लेखनीय वृद्धि हुई है।"
+        "en": "Pragyan Ojha has been appointed as the new chairman of the BCCI's Men's Selection Committee, replacing Ajit Agarkar. Former spinner Ramesh Powar has also joined the selection committee. The BCCI (Board of Control for Cricket in India) is the national governing body for cricket in India, headquartered in Mumbai.",
+        "hi": "अजीत अगरकर की जगह प्रज्ञान ओझा को बीसीसीआई की पुरुष चयन समिति का नया अध्यक्ष नियुक्त किया गया है। पूर्व स्पिनर रमेश पोवार भी चयन समिति में शामिल हो गए हैं। बीसीसीआई (भारतीय क्रिकेट कंट्रोल बोर्ड) भारत में क्रिकेट के लिए राष्ट्रीय शासी निकाय है, जिसका मुख्यालय मुंबई में है।"
       },
-      "category": "Government Schemes",
+      "category": "Appointments & Commissions",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/pragyan-ojha-replaces-ajit-agarkar-as-bccis-selection-committee-chairman-ramesh-powar-joins-panel/articleshow/135046619.cms"
+    },
+    {
+      "id": "ca_20261020_02",
+      "question": {
+        "en": "At the Asian Para Games 2026, Rinku Hooda won a gold medal in which event?",
+        "hi": "एशियाई पैरा खेल 2026 में, रिंकू हुडा ने किस स्पर्धा में स्वर्ण पदक जीता?"
+      },
+      "options": [
+        {
+          "en": "Long Jump",
+          "hi": "लंबी छलांग"
+        },
+        {
+          "en": "Shooting",
+          "hi": "निशानेबाज़ी"
+        },
+        {
+          "en": "Javelin Throw",
+          "hi": "भाला फेंक"
+        },
+        {
+          "en": "Discus Throw",
+          "hi": "चक्का फेंक"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "At the Asian Para Games 2026, Rinku Hooda won the gold medal in the men's javelin throw F46 category. He achieved this victory despite a shoulder injury and dedicated it to his late mother.",
+        "hi": "एशियाई पैरा खेल 2026 में रिंकू हुडा ने पुरुषों की भाला फेंक F46 श्रेणी में स्वर्ण पदक जीता। उन्होंने कंधे की चोट के बावजूद यह जीत हासिल की और इसे अपनी दिवंगत मां को समर्पित किया।"
+      },
+      "category": "Sports",
       "difficulty": "easy",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/centre-asks-states-to-go-into-mission-mode-to-curb-stubble-burning-as-farm-fires-rise-in-mp-rajasthan/articleshow/134921556.cms"
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-para-games-2026/i-wanted-to-win-this-gold-for-my-mother-rinku-hooda-triumphs-amid-grief-at-asian-para-games/articleshow/135053725.cms"
     },
     {
-      "id": "ca_20261019_03",
+      "id": "ca_20261020_03",
       "question": {
-        "en": "Which major glacier, roughly the size of Britain, is reportedly melting faster than feared?",
-        "hi": "कौन सा प्रमुख ग्लेशियर, लगभग ब्रिटेन के आकार का, कथित तौर पर आशंका से अधिक तेजी से पिघल रहा है?"
+        "en": "How many medals did India win on the opening day of the Asian Para Games 2026?",
+        "hi": "एशियाई पैरा खेल 2026 के उद्घाटन के दिन भारत ने कितने पदक जीते?"
       },
       "options": [
         {
-          "en": "Pine Island Glacier",
-          "hi": "पाइन द्वीप ग्लेशियर"
+          "en": "9",
+          "hi": "9"
         },
         {
-          "en": "Lambert Glacier",
-          "hi": "लैंबर्ट ग्लेशियर"
+          "en": "11",
+          "hi": "11"
         },
         {
-          "en": "Doomsday Glacier",
-          "hi": "Doomsday Glacier"
+          "en": "13",
+          "hi": "13"
         },
         {
-          "en": "Denman Glacier",
-          "hi": "डेनमैन ग्लेशियर"
-        }
-      ],
-      "correctAnswer": 2,
-      "explanation": {
-        "en": "Britain-sized Doomsday Glacier is melting faster than feared. Recent findings show that Thwaites Glacier might be a far bigger player in sea-level rise than previously thought. As warm ocean waters intrude beneath its icy surface, the glacier is melting at an alarming rate.",
-        "hi": "ब्रिटेन के आकार का डूम्सडे ग्लेशियर आशंका से कहीं अधिक तेजी से पिघल रहा है। हाल के निष्कर्षों से पता चलता है कि थ्वाइट्स ग्लेशियर समुद्र के स्तर को बढ़ाने में पहले की तुलना में कहीं अधिक बड़ा खिलाड़ी हो सकता है। जैसे ही समुद्र का गर्म पानी इसकी बर्फीली सतह के नीचे घुसता है, ग्लेशियर खतरनाक दर से पिघल रहा है।"
-      },
-      "category": "Environment & Ecology",
-      "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/science/britain-sized-doomsday-glacier-is-melting-faster-than-feared/articleshow/134984803.cms"
-    },
-    {
-      "id": "ca_20261019_04",
-      "question": {
-        "en": "Which ongoing climate phenomenon could reportedly push vulnerable coral reefs closer to extinction?",
-        "hi": "कौन सी चल रही जलवायु घटना कथित तौर पर कमजोर मूंगा चट्टानों को विलुप्त होने के करीब धकेल सकती है?"
-      },
-      "options": [
-        {
-          "en": "La Niña",
-          "hi": "लड़की"
-        },
-        {
-          "en": "Super El Niño",
-          "hi": "सुपर एल नीनो"
-        },
-        {
-          "en": "Polar Vortex",
-          "hi": "ध्रुवीय भंवर"
-        },
-        {
-          "en": "Indian Ocean Dipole",
-          "hi": "हिंद महासागर द्विध्रुव"
+          "en": "15",
+          "hi": "15"
         }
       ],
       "correctAnswer": 1,
       "explanation": {
-        "en": "‘Collapse could be precipitous’: Super El Niño could push coral reefs to extinction. Researchers warn that the ongoing super El Niño could further endanger already vulnerable coral species. The rise in ocean temperatures has led to record coral bleaching events which have severe consequences for coral health.",
-        "hi": "'पतन तीव्र हो सकता है': सुपर अल नीनो प्रवाल भित्तियों को विलुप्त होने की ओर धकेल सकता है। शोधकर्ताओं ने चेतावनी दी है कि चल रहा सुपर अल नीनो पहले से ही कमजोर मूंगा प्रजातियों को और खतरे में डाल सकता है। समुद्र के तापमान में वृद्धि के कारण मूंगा विरंजन की घटनाओं में रिकॉर्ड वृद्धि हुई है, जिसके मूंगा स्वास्थ्य के लिए गंभीर परिणाम हैं।"
+        "en": "India impressed on the opening day of the Asian Para Games 2026, clinching a remarkable 11 medals in total. This included four gold medals, placing India fourth overall in the medal standings after day one.",
+        "hi": "भारत ने एशियाई पैरा खेल 2026 के शुरुआती दिन शानदार प्रदर्शन करते हुए कुल 11 पदक जीते। इसमें चार स्वर्ण पदक शामिल हैं, जिससे भारत पहले दिन के बाद पदक तालिका में चौथे स्थान पर आ गया है।"
       },
-      "category": "Science & Technology",
+      "category": "Sports",
       "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/home/environment/collapse-could-be-precipitous-super-el-nio-could-push-coral-reefs-closer-to-extinction-un-biodiversity-expert-warns/articleshow/134973795.cms"
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-para-games-2026/asian-para-games-medal-tally-where-does-india-stand-after-a-bumper-11-medal-haul-on-day-1/articleshow/135049510.cms"
     },
     {
-      "id": "ca_20261019_05",
+      "id": "ca_20261020_04",
       "question": {
-        "en": "According to recent data, by what percentage did India's southwest monsoon rainfall end below normal, marking the fourth-lowest since 2001?",
-        "hi": "हाल के आंकड़ों के अनुसार, भारत में दक्षिण-पश्चिम मानसून की वर्षा कितने प्रतिशत सामान्य से कम रही, जो 2001 के बाद से चौथी सबसे कम बारिश है?"
+        "en": "Who was recently sworn in as the Governor of Sikkim?",
+        "hi": "हाल ही में सिक्किम के राज्यपाल के रूप में किसने शपथ ली?"
       },
       "options": [
         {
-          "en": "9%",
-          "hi": "9%"
+          "en": "Dushyant Kumar Gautam",
+          "hi": "दुष्यंत कुमार गौतम"
         },
         {
-          "en": "11%",
-          "hi": "11%"
+          "en": "Laxman Prasad Acharya",
+          "hi": "लक्ष्मण प्रसाद आचार्य"
         },
         {
-          "en": "13%",
-          "hi": "13%"
+          "en": "Ganga Prasad",
+          "hi": "गंगा प्रसाद"
         },
         {
-          "en": "15%",
-          "hi": "15%"
-        }
-      ],
-      "correctAnswer": 2,
-      "explanation": {
-        "en": "India's monsoon rainfall ends 13% below normal, fourth-lowest since 2001. India recorded 87.4 percent of its long period average rainfall during this year's southwest monsoon. The country received 759.4 mm of rain, which is 13 percent below normal. El Niño significantly contributed to the below-average rainfall.",
-        "hi": "भारत में मॉनसून वर्षा सामान्य से 13% कम रही, जो 2001 के बाद से चौथी सबसे कम बारिश है। इस वर्ष के दक्षिण-पश्चिम मॉनसून के दौरान भारत में लंबी अवधि की औसत वर्षा 87.4 प्रतिशत दर्ज की गई। देश में 759.4 मिमी बारिश हुई, जो सामान्य से 13 फीसदी कम है। अल नीनो ने औसत से नीचे बारिश में महत्वपूर्ण योगदान दिया।"
-      },
-      "category": "Science & Technology",
-      "difficulty": "hard",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/indias-monsoon-rainfall-ends-13-below-normal-fourth-lowest-since-2001/articleshow/134596710.cms"
-    },
-    {
-      "id": "ca_20261019_06",
-      "question": {
-        "en": "Which city's built-up area recently rose by 64%, while its water bodies shrunk by 77% in a decade?",
-        "hi": "किस शहर का निर्मित क्षेत्र हाल ही में 64% बढ़ गया, जबकि इसके जल निकाय एक दशक में 77% कम हो गए?"
-      },
-      "options": [
-        {
-          "en": "Gurgaon",
-          "hi": "गुडगाँव"
-        },
-        {
-          "en": "Delhi",
-          "hi": "दिल्ली"
-        },
-        {
-          "en": "Mumbai",
-          "hi": "Mumbai"
-        },
-        {
-          "en": "Bangalore",
-          "hi": "बैंगलोर"
+          "en": "Shriniwas Patil",
+          "hi": "श्रीनिवास पाटिल"
         }
       ],
       "correctAnswer": 0,
       "explanation": {
-        "en": "City’s built-up area rises 64%, water bodies shrink 77% in a decade. Flood Vulnerability Not Uniform, Recussing Hotspots Concentrated Around Major Transport Corridors, Older Settlements, Low-Lying Areas",
-        "hi": "एक दशक में शहर का निर्मित क्षेत्र 64% बढ़ गया, जल निकाय 77% सिकुड़ गए।बाढ़ की आशंका एक समान नहीं है, प्रमुख परिवहन गलियारों, पुरानी बस्तियों, निचले इलाकों के आसपास केंद्रित पुनर्निर्मित हॉटस्पॉट"
+        "en": "Dushyant Kumar Gautam was recently sworn in as the Governor of Sikkim. The Governor of a state is appointed by the President of India under Article 155 of the Constitution.",
+        "hi": "दुष्यंत कुमार गौतम ने हाल ही में सिक्किम के राज्यपाल के रूप में शपथ ली। किसी राज्य के राज्यपाल की नियुक्ति भारत के राष्ट्रपति द्वारा संविधान के अनुच्छेद 155 के तहत की जाती है।"
       },
-      "category": "Environment & Ecology",
+      "category": "Appointments & Commissions",
       "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/gurgaon/citys-built-up-area-rises-64-water-bodies-shrink-77-in-a-decade/articleshow/134549844.cms"
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/dushyant-kumar-gautam-sworn-in-as-sikkim-governor-congress-vows-stir/articleshow/135056378.cms"
     },
     {
-      "id": "ca_20261019_07",
+      "id": "ca_20261020_05",
       "question": {
-        "en": "A dedicated bench was recently established for Ladakh, nearly a century after the setting up of the High Court in which region?",
-        "hi": "किस क्षेत्र में उच्च न्यायालय की स्थापना के लगभग एक शताब्दी बाद हाल ही में लद्दाख के लिए एक समर्पित पीठ की स्थापना की गई थी?"
+        "en": "Which government agency has flagged a rise in social media fraud using deepfake videos of public figures to promote fake schemes?",
+        "hi": "किस सरकारी एजेंसी ने फर्जी योजनाओं को बढ़ावा देने के लिए सार्वजनिक हस्तियों के डीपफेक वीडियो का उपयोग करके सोशल मीडिया धोखाधड़ी में वृद्धि को हरी झंडी दिखाई है?"
       },
       "options": [
         {
-          "en": "Delhi",
-          "hi": "दिल्ली"
+          "en": "CERT-In",
+          "hi": "सर्ट-इन (CERT-In)"
         },
         {
-          "en": "J&K",
-          "hi": "जम्मू एवं कश्मीर"
+          "en": "National Cybercrime Threat Analytics Unit",
+          "hi": "राष्ट्रीय साइबर अपराध खतरा विश्लेषण इकाई"
         },
         {
-          "en": "Punjab & Haryana",
-          "hi": "पंजाब और हरियाणा"
+          "en": "CBI",
+          "hi": "सीबीआई (CBI)"
         },
         {
-          "en": "Himachal Pradesh",
-          "hi": "हिमाचल प्रदेश"
+          "en": "Enforcement Directorate",
+          "hi": "प्रवर्तन निदेशालय (ED)"
         }
       ],
       "correctAnswer": 1,
       "explanation": {
-        "en": "Almost a century after J&amp;K HC was set up, Ladakh gets bench. ",
-        "hi": "जम्मू-कश्मीर HC की स्थापना के लगभग एक शताब्दी बाद, लद्दाख को बेंच मिली।"
+        "en": "The National Cybercrime Threat Analytics Unit has identified a rise in financial fraud on social media, where fraudsters use deepfake videos of the PM and ministers to promote fake government schemes.",
+        "hi": "राष्ट्रीय साइबर अपराध खतरा विश्लेषण इकाई ने सोशल मीडिया पर वित्तीय धोखाधड़ी में वृद्धि की पहचान की है, जहां जालसाज फर्जी सरकारी योजनाओं को बढ़ावा देने के लिए पीएम और मंत्रियों के डीपफेक वीडियो का उपयोग करते हैं।"
+      },
+      "category": "Science & Technology",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/cyber-unit-flags-rise-in-social-media-fraud-using-deepfake-videos-of-pm-ministers-to-promote-fake-schemes/articleshow/135051155.cms"
+    },
+    {
+      "id": "ca_20261020_06",
+      "question": {
+        "en": "Caden Chau, who recently received the 'Health for All Award for Health Equity', is associated with which initiative?",
+        "hi": "कैडेन चाऊ, जिन्हें हाल ही में 'हेल्थ फॉर ऑल अवार्ड फॉर हेल्थ इक्विटी' मिला है, किस पहल से जुड़े हैं?"
+      },
+      "options": [
+        {
+          "en": "EcoHealth",
+          "hi": "इकोहेल्थ (EcoHealth)"
+        },
+        {
+          "en": "MakeAble",
+          "hi": "मेकएबल (MakeAble)"
+        },
+        {
+          "en": "TechCare",
+          "hi": "टेककेयर (TechCare)"
+        },
+        {
+          "en": "HealthFirst",
+          "hi": "हेल्थफर्स्ट (HealthFirst)"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "17-year-old Caden Chau founded MakeAble, an initiative to create affordable assistive devices using 3D printing technology, reaching 400,000 people worldwide. He received the Health for All Award for Health Equity.",
+        "hi": "17 वर्षीय कैडेन चाऊ ने मेकएबल की स्थापना की, जो 3डी प्रिंटिंग तकनीक का उपयोग करके किफायती सहायक उपकरण बनाने की एक पहल है, जो दुनिया भर में 400,000 लोगों तक पहुंचती है। उन्हें स्वास्थ्य समानता के लिए 'हेल्थ फॉर ऑल' पुरस्कार मिला।"
+      },
+      "category": "Awards & Honours",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/rest-of-world/meet-caden-chau-the-17-year-old-calgary-student-who-started-with-a-50-second-hand-3d-printer-his-team-has-now-built-over-600-assistive-devices-while-its-free-designs-have-reached-400000-people-worldwide/articleshow/135052834.cms"
+    },
+    {
+      "id": "ca_20261020_07",
+      "question": {
+        "en": "Which state recently saw violent clashes resulting in the killing of three civilians, leading the Chief Minister to order tighter security?",
+        "hi": "हाल ही में किस राज्य में हिंसक झड़पें हुईं, जिसके परिणामस्वरूप तीन नागरिकों की मौत हो गई, जिससे मुख्यमंत्री को सुरक्षा कड़ी करने का आदेश देना पड़ा?"
+      },
+      "options": [
+        {
+          "en": "Nagaland",
+          "hi": "नागालैंड"
+        },
+        {
+          "en": "Manipur",
+          "hi": "मणिपुर"
+        },
+        {
+          "en": "Mizoram",
+          "hi": "मिजोरम"
+        },
+        {
+          "en": "Assam",
+          "hi": "असम"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Manipur's Chief Minister condemned the killing of three civilians by suspected militants and ordered tighter security. Violence also erupted in Thoubal, reflecting the ongoing instability in the state.",
+        "hi": "मणिपुर के मुख्यमंत्री ने संदिग्ध उग्रवादियों द्वारा तीन नागरिकों की हत्या की निंदा की और कड़ी सुरक्षा के आदेश दिए। थौबल में भी हिंसा भड़क उठी, जो राज्य में चल रही अस्थिरता को दर्शाती है।"
       },
       "category": "Polity & Governance",
       "difficulty": "easy",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/almost-a-century-after-jk-hc-was-set-up-ladakh-gets-bench/articleshow/135034887.cms"
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/manipur-violence-cm-condemns-killing-of-three-civilians-orders-tighter-security-in-vulnerable-areas/articleshow/135051822.cms"
     },
     {
-      "id": "ca_20261019_08",
+      "id": "ca_20261020_08",
       "question": {
-        "en": "Which marine species' populations are booming in Europe due to hotter seas?",
-        "hi": "गर्म समुद्रों के कारण यूरोप में किस समुद्री प्रजाति की आबादी तेजी से बढ़ रही है?"
+        "en": "The Delhi High Court recently upheld the decision of which force to withhold details of the PM's foreign visits citing security reasons?",
+        "hi": "दिल्ली उच्च न्यायालय ने हाल ही में सुरक्षा कारणों का हवाला देते हुए पीएम की विदेश यात्राओं का विवरण रोकने के किस बल के फैसले को बरकरार रखा है?"
       },
       "options": [
         {
-          "en": "Whales",
-          "hi": "व्हेल"
+          "en": "Indian Navy",
+          "hi": "भारतीय नौसेना"
         },
         {
-          "en": "Octopus",
-          "hi": "ऑक्टोपस"
+          "en": "Indian Army",
+          "hi": "भारतीय सेना"
         },
         {
-          "en": "Starfish",
-          "hi": "तारामछली"
+          "en": "Indian Air Force (IAF)",
+          "hi": "भारतीय वायु सेना (IAF)"
         },
         {
-          "en": "Seahorses",
-          "hi": "समुद्री घोड़े"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "Hotter seas, vanishing kelp, booming octopus: How Europe's marine life is changing. European waters have recorded their hottest summer, with rising temperatures affecting marine habitats and species. The Bay of Biscay experienced a significant temperature rise, with marine heatwaves extending throughout the season.",
-        "hi": "गर्म समुद्र, लुप्त होती समुद्री घास, तेजी से बढ़ता ऑक्टोपस: यूरोप का समुद्री जीवन कैसे बदल रहा है। यूरोपीय जलक्षेत्रों में सबसे गर्म गर्मी दर्ज की गई है, बढ़ते तापमान के कारण समुद्री आवास और प्रजातियाँ प्रभावित हो रही हैं। बिस्के की खाड़ी में तापमान में उल्लेखनीय वृद्धि हुई, जिससे समुद्री गर्म लहरें पूरे मौसम में फैलने लगीं।"
-      },
-      "category": "Environment & Ecology",
-      "difficulty": "easy",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/europe/hotter-seas-vanishing-kelp-booming-octopus-how-europes-marine-life-is-changing/articleshow/134530318.cms"
-    },
-    {
-      "id": "ca_20261019_09",
-      "question": {
-        "en": "Recently, Akshay Kumar met the Chief Minister of which state to discuss its film policy?",
-        "hi": "हाल ही में, अक्षय कुमार ने अपनी फिल्म नीति पर चर्चा करने के लिए किस राज्य के मुख्यमंत्री से मुलाकात की?"
-      },
-      "options": [
-        {
-          "en": "Uttar Pradesh",
-          "hi": "Uttar Pradesh"
-        },
-        {
-          "en": "Madhya Pradesh",
-          "hi": "मध्य प्रदेश"
-        },
-        {
-          "en": "Uttarakhand",
-          "hi": "उत्तराखंड"
-        },
-        {
-          "en": "Himachal Pradesh",
-          "hi": "हिमाचल प्रदेश"
+          "en": "Border Security Force",
+          "hi": "सीमा सुरक्षा बल"
         }
       ],
       "correctAnswer": 2,
       "explanation": {
-        "en": "Akshay Kumar meets Uttarakhand CM Pushkar Singh Dhami, discusses state’s film policy. Akshay Kumar recently met Uttarakhand Chief Minister Pushkar Singh Dhami to discuss the state's film policy. The discussion aimed to identify ways to attract film productions and enhance local employment opportunities.",
-        "hi": "अक्षय कुमार ने उत्तराखंड के मुख्यमंत्री पुष्कर सिंह धामी से मुलाकात की, राज्य की फिल्म नीति पर चर्चा की। अक्षय कुमार ने हाल ही में राज्य की फिल्म नीति पर चर्चा करने के लिए उत्तराखंड के मुख्यमंत्री पुष्कर सिंह धामी से मुलाकात की। चर्चा का उद्देश्य फिल्म निर्माण को आकर्षित करने और स्थानीय रोजगार के अवसर बढ़ाने के तरीकों की पहचान करना था।"
+        "en": "The Delhi High Court upheld the Indian Air Force's (IAF) decision to withhold details of foreign visits by PM Modi and former PM Manmohan Singh, stating that revealing such information may compromise security.",
+        "hi": "दिल्ली उच्च न्यायालय ने पीएम मोदी और पूर्व पीएम मनमोहन सिंह की विदेश यात्राओं का विवरण रोकने के भारतीय वायु सेना (IAF) के फैसले को बरकरार रखा, यह कहते हुए कि ऐसी जानकारी का खुलासा करने से सुरक्षा से समझौता हो सकता है।"
       },
       "category": "Polity & Governance",
       "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/akshay-kumar-meets-uttarakhand-cm-pushkar-singh-dhami-discusses-states-film-policy/articleshow/135032348.cms"
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/may-compromise-security-delhi-hc-upholds-iaf-decision-to-withhold-details-of-pm-modi-manmohan-singhs-foreign-visits/articleshow/135051746.cms"
     },
     {
-      "id": "ca_20261019_10",
+      "id": "ca_20261020_09",
       "question": {
-        "en": "The IMD recently forecasted heavy rain, thunderstorms, and lightning across 23 states, including winds up to what speed?",
-        "hi": "आईएमडी ने हाल ही में 23 राज्यों में भारी बारिश, तूफान और बिजली गिरने की भविष्यवाणी की है, जिसमें किस गति से हवाएं भी शामिल हैं?"
+        "en": "The notorious gangster Lawrence Bishnoi is allegedly running his gang through a 'shadow cabinet' from which jail?",
+        "hi": "कुख्यात गैंगस्टर लॉरेंस बिश्नोई कथित तौर पर किस जेल से 'शैडो कैबिनेट' के जरिए अपना गिरोह चला रहा है?"
       },
       "options": [
         {
-          "en": "40 kmph",
-          "hi": "40 किमी प्रति घंटा"
+          "en": "Tihar Jail",
+          "hi": "तिहाड़ जेल"
         },
         {
-          "en": "50 kmph",
-          "hi": "50 किमी प्रति घंटा"
+          "en": "Sabarmati Central Jail",
+          "hi": "साबरमती सेंट्रल जेल"
         },
         {
-          "en": "60 kmph",
-          "hi": "60 किमी प्रति घंटा"
+          "en": "Yerwada Jail",
+          "hi": "यरवदा जेल"
         },
         {
-          "en": "70 kmph",
-          "hi": "70 किमी प्रति घंटा"
+          "en": "Arthur Road Jail",
+          "hi": "आर्थर रोड जेल"
         }
       ],
       "correctAnswer": 1,
       "explanation": {
-        "en": "Weather tomorrow: IMD forecasts heavy to very heavy rain, thunderstorms and lightning in 23 states; winds up to 50 kmph likely. Heavy rainfall accompanied by thunderstorms is expected across multiple states, including Uttarakhand and Delhi-NCR, on September 27. Uttar Pradesh and Himachal Pradesh will also experience adverse weather.",
-        "hi": "कल का मौसम: आईएमडी ने 23 राज्यों में भारी से बहुत भारी बारिश, तूफान और बिजली गिरने का अनुमान लगाया है; 50 किमी प्रति घंटे की रफ्तार से हवाएं चलने की संभावना। 27 सितंबर को उत्तराखंड और दिल्ली-एनसीआर समेत कई राज्यों में गरज के साथ भारी बारिश होने की संभावना है। उत्तर प्रदेश और हिमाचल प्रदेश में भी प्रतिकूल मौसम का अनुभव होगा।"
+        "en": "Ringleader Lawrence Bishnoi, currently lodged in Gujarat's Sabarmati Central Jail, is allegedly running his crime syndicate through a 'shadow cabinet'.",
+        "hi": "सरगना लॉरेंस बिश्नोई, जो वर्तमान में गुजरात की साबरमती सेंट्रल जेल में बंद है, कथित तौर पर 'शैडो कैबिनेट' के माध्यम से अपना अपराध सिंडिकेट चला रहा है।"
       },
-      "category": "Science & Technology",
+      "category": "Polity & Governance",
       "difficulty": "hard",
-      "sourceUrl": "https://timesofindia.indiatimes.com/city/delhi/imd-forecasts-thunderstorms-lightning-and-heavy-rain-in-23-states-winds-up-to-50-kmph-likely/articleshow/134497446.cms"
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/ringleader-lawrence-bishnoi-in-jail-shadow-cabinet-runs-gang-tiger-shroff-attack-anil-pandit/articleshow/135058470.cms"
+    },
+    {
+      "id": "ca_20261020_10",
+      "question": {
+        "en": "Which state's police officers were recently awarded bravery awards for rescuing a man from a burning house?",
+        "hi": "हाल ही में जलते हुए घर से एक व्यक्ति को बचाने के लिए किस राज्य (देश के बाहर) के पुलिस अधिकारियों को वीरता पुरस्कार से सम्मानित किया गया?"
+      },
+      "options": [
+        {
+          "en": "Virginia, USA",
+          "hi": "वर्जिनिया, अमेरिका"
+        },
+        {
+          "en": "London, UK",
+          "hi": "लंदन, ब्रिटेन"
+        },
+        {
+          "en": "Sydney, Australia",
+          "hi": "सिडनी, ऑस्ट्रेलिया"
+        },
+        {
+          "en": "Toronto, Canada",
+          "hi": "टोरंटो, कनाडा"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "Four police officers in Virginia, USA, were awarded bravery awards for crawling through a smoke-filled house to rescue an unconscious man from a burning bedroom.",
+        "hi": "अमेरिका के वर्जिनिया में चार पुलिस अधिकारियों को धुएं से भरे घर में रेंगकर एक जलते हुए बेडरूम से बेहोश व्यक्ति को बचाने के लिए वीरता पुरस्कार से सम्मानित किया गया।"
+      },
+      "category": "Awards & Honours",
+      "difficulty": "hard",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/four-virginia-police-officers-crawled-through-a-smoke-filled-house-to-pull-an-unconscious-man-from-a-burning-bedroom-three-needed-hospital-treatment-and-all-four-have-received-bravery-awards/articleshow/135044787.cms"
     }
   ]
 }
