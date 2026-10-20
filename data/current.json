@@ -1,13 +1,13 @@
 {
-  "date": "2026-10-20",
+  "date": "2026-10-21",
   "topic": "SSC CGL Daily Current Affairs",
   "source": "PIB / The Hindu / Economic Times / Indian Express / GKToday",
-  "lastUpdated": "2026-10-20T05:09:27+05:30",
+  "lastUpdated": "2026-10-21T06:30:00+05:30",
   "version": 1,
   "totalQuestions": 10,
   "quiz": [
     {
-      "id": "ca_20261020_01",
+      "id": "ca_20261021_01",
       "question": {
         "en": "Who has recently been appointed as the chairman of the BCCI's Men's Selection Committee, replacing Ajit Agarkar?",
         "hi": "हाल ही में अजीत अगरकर की जगह बीसीसीआई की पुरुष चयन समिति के अध्यक्ष के रूप में किसे नियुक्त किया गया है?"
@@ -40,7 +40,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/pragyan-ojha-replaces-ajit-agarkar-as-bccis-selection-committee-chairman-ramesh-powar-joins-panel/articleshow/135046619.cms"
     },
     {
-      "id": "ca_20261020_02",
+      "id": "ca_20261021_02",
       "question": {
         "en": "At the Asian Para Games 2026, Rinku Hooda won a gold medal in which event?",
         "hi": "एशियाई पैरा खेल 2026 में, रिंकू हुडा ने किस स्पर्धा में स्वर्ण पदक जीता?"
@@ -73,7 +73,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-para-games-2026/i-wanted-to-win-this-gold-for-my-mother-rinku-hooda-triumphs-amid-grief-at-asian-para-games/articleshow/135053725.cms"
     },
     {
-      "id": "ca_20261020_03",
+      "id": "ca_20261021_03",
       "question": {
         "en": "How many medals did India win on the opening day of the Asian Para Games 2026?",
         "hi": "एशियाई पैरा खेल 2026 के उद्घाटन के दिन भारत ने कितने पदक जीते?"
@@ -106,7 +106,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-para-games-2026/asian-para-games-medal-tally-where-does-india-stand-after-a-bumper-11-medal-haul-on-day-1/articleshow/135049510.cms"
     },
     {
-      "id": "ca_20261020_04",
+      "id": "ca_20261021_04",
       "question": {
         "en": "Who was recently sworn in as the Governor of Sikkim?",
         "hi": "हाल ही में सिक्किम के राज्यपाल के रूप में किसने शपथ ली?"
@@ -139,7 +139,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/india/dushyant-kumar-gautam-sworn-in-as-sikkim-governor-congress-vows-stir/articleshow/135056378.cms"
     },
     {
-      "id": "ca_20261020_05",
+      "id": "ca_20261021_05",
       "question": {
         "en": "Which government agency has flagged a rise in social media fraud using deepfake videos of public figures to promote fake schemes?",
         "hi": "किस सरकारी एजेंसी ने फर्जी योजनाओं को बढ़ावा देने के लिए सार्वजनिक हस्तियों के डीपफेक वीडियो का उपयोग करके सोशल मीडिया धोखाधड़ी में वृद्धि को हरी झंडी दिखाई है?"
@@ -172,7 +172,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/india/cyber-unit-flags-rise-in-social-media-fraud-using-deepfake-videos-of-pm-ministers-to-promote-fake-schemes/articleshow/135051155.cms"
     },
     {
-      "id": "ca_20261020_06",
+      "id": "ca_20261021_06",
       "question": {
         "en": "Caden Chau, who recently received the 'Health for All Award for Health Equity', is associated with which initiative?",
         "hi": "कैडेन चाऊ, जिन्हें हाल ही में 'हेल्थ फॉर ऑल अवार्ड फॉर हेल्थ इक्विटी' मिला है, किस पहल से जुड़े हैं?"
@@ -205,7 +205,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/world/rest-of-world/meet-caden-chau-the-17-year-old-calgary-student-who-started-with-a-50-second-hand-3d-printer-his-team-has-now-built-over-600-assistive-devices-while-its-free-designs-have-reached-400000-people-worldwide/articleshow/135052834.cms"
     },
     {
-      "id": "ca_20261020_07",
+      "id": "ca_20261021_07",
       "question": {
         "en": "Which state recently saw violent clashes resulting in the killing of three civilians, leading the Chief Minister to order tighter security?",
         "hi": "हाल ही में किस राज्य में हिंसक झड़पें हुईं, जिसके परिणामस्वरूप तीन नागरिकों की मौत हो गई, जिससे मुख्यमंत्री को सुरक्षा कड़ी करने का आदेश देना पड़ा?"
@@ -238,7 +238,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/india/manipur-violence-cm-condemns-killing-of-three-civilians-orders-tighter-security-in-vulnerable-areas/articleshow/135051822.cms"
     },
     {
-      "id": "ca_20261020_08",
+      "id": "ca_20261021_08",
       "question": {
         "en": "The Delhi High Court recently upheld the decision of which force to withhold details of the PM's foreign visits citing security reasons?",
         "hi": "दिल्ली उच्च न्यायालय ने हाल ही में सुरक्षा कारणों का हवाला देते हुए पीएम की विदेश यात्राओं का विवरण रोकने के किस बल के फैसले को बरकरार रखा है?"
@@ -271,7 +271,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/india/may-compromise-security-delhi-hc-upholds-iaf-decision-to-withhold-details-of-pm-modi-manmohan-singhs-foreign-visits/articleshow/135051746.cms"
     },
     {
-      "id": "ca_20261020_09",
+      "id": "ca_20261021_09",
       "question": {
         "en": "The notorious gangster Lawrence Bishnoi is allegedly running his gang through a 'shadow cabinet' from which jail?",
         "hi": "कुख्यात गैंगस्टर लॉरेंस बिश्नोई कथित तौर पर किस जेल से 'शैडो कैबिनेट' के जरिए अपना गिरोह चला रहा है?"
@@ -304,7 +304,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/india/ringleader-lawrence-bishnoi-in-jail-shadow-cabinet-runs-gang-tiger-shroff-attack-anil-pandit/articleshow/135058470.cms"
     },
     {
-      "id": "ca_20261020_10",
+      "id": "ca_20261021_10",
       "question": {
         "en": "Which state's police officers were recently awarded bravery awards for rescuing a man from a burning house?",
         "hi": "हाल ही में जलते हुए घर से एक व्यक्ति को बचाने के लिए किस राज्य (देश के बाहर) के पुलिस अधिकारियों को वीरता पुरस्कार से सम्मानित किया गया?"
