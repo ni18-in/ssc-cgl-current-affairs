@@ -1,13 +1,13 @@
 {
-  "date": "2026-10-21",
+  "date": "2026-10-22",
   "topic": "SSC CGL Daily Current Affairs",
   "source": "PIB / The Hindu / Economic Times / Indian Express / GKToday",
-  "lastUpdated": "2026-10-21T06:00:00+05:30",
+  "lastUpdated": "2026-10-22T06:30:00+05:30",
   "version": 1,
   "totalQuestions": 10,
   "quiz": [
     {
-      "id": "ca_20261021_01",
+      "id": "ca_20261022_01",
       "question": {
         "en": "Who has recently announced a hike in the honorarium for guest lecturers to ₹35,000 in the state assembly?",
         "hi": "हाल ही में राज्य विधानसभा में अतिथि व्याख्याताओं के मानदेय को बढ़ाकर ₹35,000 करने की घोषणा किसने की है?"
@@ -40,7 +40,7 @@
       "sourceUrl": "https://www.thehindu.com/news/national/tamil-nadu/guest-lecturers-yet-to-get-hike-in-honorarium-announced-in-the-budget/article71604876.ece"
     },
     {
-      "id": "ca_20261021_02",
+      "id": "ca_20261022_02",
       "question": {
         "en": "At the Asian Para Games 2026, Devender Kumar won the gold medal in which event by sweeping a historic 1-2-3 finish for India?",
         "hi": "एशियाई पैरा खेल 2026 में, भारत के लिए ऐतिहासिक 1-2-3 स्थान हासिल करते हुए देवेंद्र कुमार ने किस स्पर्धा में स्वर्ण पदक जीता?"
@@ -73,7 +73,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-para-games-2026/asian-para-games-devender-kumar-strikes-gold-as-india-sweep-historic-1-2-3-finish-in-mens-discus-throw/articleshow/135070750.cms"
     },
     {
-      "id": "ca_20261021_03",
+      "id": "ca_20261022_03",
       "question": {
         "en": "Which Indian athlete made history by winning his second gold medal with a Games record in the men's high jump T47 event at the Asian Para Games 2026?",
         "hi": "एशियाई पैरा खेल 2026 में पुरुषों की ऊंची कूद T47 स्पर्धा में खेल रिकॉर्ड के साथ अपना दूसरा स्वर्ण पदक जीतकर किस भारतीय एथलीट ने इतिहास रच दिया?"
@@ -106,7 +106,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-para-games-2026/double-gold-games-record-nishad-kumar-joins-elite-indian-club-with-historic-asian-para-games-feat/articleshow/135070048.cms"
     },
     {
-      "id": "ca_20261021_04",
+      "id": "ca_20261022_04",
       "question": {
         "en": "Simran broke the Games record to win gold in which event at the Asian Para Games 2026?",
         "hi": "एशियाई पैरा खेल 2026 में सिमरन ने किस स्पर्धा में खेलों का रिकॉर्ड तोड़कर स्वर्ण पदक जीता?"
@@ -139,7 +139,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-para-games-2026/new-guide-new-glory-simran-storms-to-games-record-gold-as-tejalben-adds-bronze-at-asian-para-games/articleshow/135068620.cms"
     },
     {
-      "id": "ca_20261021_05",
+      "id": "ca_20261022_05",
       "question": {
         "en": "The Food Technology and Quality Control Department of which country recently banned Priyagold biscuits following serious hygiene deficiencies found by FSSAI?",
         "hi": "हाल ही में FSSAI द्वारा पाई गई गंभीर स्वच्छता कमियों के बाद किस देश के खाद्य प्रौद्योगिकी और गुणवत्ता नियंत्रण विभाग ने प्रियागोल्ड बिस्कुट पर प्रतिबंध लगा दिया है?"
@@ -172,7 +172,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/nepal-bans-priyagold-biscuit-after-fssai-finds-serious-hygiene-deficiencies/articleshow/135062783.cms"
     },
     {
-      "id": "ca_20261021_06",
+      "id": "ca_20261022_06",
       "question": {
         "en": "Pranav Soorma, who recently won gold at the Asian Para Games with a new Asian record of 11.66m, is associated with which sport?",
         "hi": "प्रणव सूरमा, जिन्होंने हाल ही में 11.66 मीटर के नए एशियाई रिकॉर्ड के साथ एशियाई पैरा खेलों में स्वर्ण पदक जीता, किस खेल से जुड़े हैं?"
@@ -205,7 +205,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-para-games-2026/asian-para-games-1-2-for-india-pranav-soorma-ram-ratan-singh-clinch-discus-gold-and-silver/articleshow/135068090.cms"
     },
     {
-      "id": "ca_20261021_07",
+      "id": "ca_20261022_07",
       "question": {
         "en": "Who has recently sought clarity from the FSSAI to curb unhealthy eating habits and prevent excessive consumption of high fat, sugar, and salt food among children?",
         "hi": "हाल ही में अस्वस्थ खान-पान की आदतों पर अंकुश लगाने और बच्चों के बीच उच्च वसा, चीनी और नमक वाले भोजन के अत्यधिक सेवन को रोकने के लिए FSSAI से स्पष्टता किसने मांगी है?"
@@ -238,7 +238,7 @@
       "sourceUrl": "https://www.thehindu.com/news/national/kerala/keralam-seeks-fssai-clarity-on-high-fat-sugar-salt-food/article71604523.ece"
     },
     {
-      "id": "ca_20261021_08",
+      "id": "ca_20261022_08",
       "question": {
         "en": "In a historic performance at the Asian Para Games 2026, India won a record five bronze medals in which sport, exceeding its previous best of two?",
         "hi": "एशियाई पैरा खेल 2026 में एक ऐतिहासिक प्रदर्शन में, भारत ने किस खेल में अपने पिछले सर्वश्रेष्ठ दो पदकों को पार करते हुए रिकॉर्ड पांच कांस्य पदक जीते?"
@@ -271,7 +271,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-para-games-2026/historic-high-india-win-record-five-bronze-medals-in-best-ever-para-table-tennis-show-at-asian-para-games/articleshow/135069169.cms"
     },
     {
-      "id": "ca_20261021_09",
+      "id": "ca_20261022_09",
       "question": {
         "en": "Under which Prime Minister's chairmanship was the National Mineral Policy, 2019 approved, which is currently slated for a review amid new priorities?",
         "hi": "किस प्रधान मंत्री की अध्यक्षता में राष्ट्रीय खनिज नीति, 2019 को मंजूरी दी गई थी, जिसकी वर्तमान में नई प्राथमिकताओं के बीच समीक्षा की जानी है?"
@@ -304,7 +304,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/review-of-2019-mineral-policy-on-cards-amid-new-priorities/articleshow/135076899.cms"
     },
     {
-      "id": "ca_20261021_10",
+      "id": "ca_20261022_10",
       "question": {
         "en": "Who won the bronze medal for India in the men's 400m freestyle S11 event at the Asian Para Games 2026?",
         "hi": "एशियाई पैरा खेल 2026 में पुरुषों की 400 मीटर फ्रीस्टाइल S11 स्पर्धा में भारत के लिए कांस्य पदक किसने जीता?"
