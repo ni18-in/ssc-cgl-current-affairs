@@ -1,0 +1,340 @@
+{
+  "date": "2026-10-21",
+  "topic": "SSC CGL Daily Current Affairs",
+  "source": "PIB / The Hindu / Economic Times / Indian Express / GKToday",
+  "lastUpdated": "2026-10-21T06:00:00+05:30",
+  "version": 1,
+  "totalQuestions": 10,
+  "quiz": [
+    {
+      "id": "ca_20261021_01",
+      "question": {
+        "en": "Who has recently announced a hike in the honorarium for guest lecturers to ₹35,000 in the state assembly?",
+        "hi": "हाल ही में राज्य विधानसभा में अतिथि व्याख्याताओं के मानदेय को बढ़ाकर ₹35,000 करने की घोषणा किसने की है?"
+      },
+      "options": [
+        {
+          "en": "Chief Minister of Tamil Nadu",
+          "hi": "तमिलनाडु के मुख्यमंत्री"
+        },
+        {
+          "en": "Higher Education Minister of Tamil Nadu",
+          "hi": "तमिलनाडु के उच्च शिक्षा मंत्री"
+        },
+        {
+          "en": "Finance Minister of Tamil Nadu",
+          "hi": "तमिलनाडु के वित्त मंत्री"
+        },
+        {
+          "en": "Education Minister of Kerala",
+          "hi": "केरल के शिक्षा मंत्री"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The Higher Education Minister of Tamil Nadu has announced in the Assembly that the honorarium for guest lecturers will be hiked by ₹5,000 to ₹35,000. This is a significant budgetary measure for the state's education sector.",
+        "hi": "तमिलनाडु के उच्च शिक्षा मंत्री ने विधानसभा में घोषणा की है कि अतिथि व्याख्याताओं के मानदेय में ₹5,000 की वृद्धि कर इसे ₹35,000 किया जाएगा। यह राज्य के शिक्षा क्षेत्र के लिए एक महत्वपूर्ण बजटीय उपाय है।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/news/national/tamil-nadu/guest-lecturers-yet-to-get-hike-in-honorarium-announced-in-the-budget/article71604876.ece"
+    },
+    {
+      "id": "ca_20261021_02",
+      "question": {
+        "en": "At the Asian Para Games 2026, Devender Kumar won the gold medal in which event by sweeping a historic 1-2-3 finish for India?",
+        "hi": "एशियाई पैरा खेल 2026 में, भारत के लिए ऐतिहासिक 1-2-3 स्थान हासिल करते हुए देवेंद्र कुमार ने किस स्पर्धा में स्वर्ण पदक जीता?"
+      },
+      "options": [
+        {
+          "en": "Javelin Throw",
+          "hi": "भाला फेंक"
+        },
+        {
+          "en": "Shot Put",
+          "hi": "गोला फेंक"
+        },
+        {
+          "en": "Discus Throw",
+          "hi": "चक्का फेंक"
+        },
+        {
+          "en": "High Jump",
+          "hi": "ऊंची छलांग"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "At the Asian Para Games 2026, Devender Kumar earned the gold medal with an impressive throw of 49.71 meters in the men's discus throw. India demonstrated exceptional prowess by sweeping the podium in this event.",
+        "hi": "एशियाई पैरा खेल 2026 में, देवेंद्र कुमार ने पुरुषों की चक्का फेंक स्पर्धा में 49.71 मीटर की प्रभावशाली थ्रो के साथ स्वर्ण पदक जीता। इस स्पर्धा में भारत ने तीनों पदक जीतकर असाधारण कौशल का प्रदर्शन किया।"
+      },
+      "category": "Sports",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-para-games-2026/asian-para-games-devender-kumar-strikes-gold-as-india-sweep-historic-1-2-3-finish-in-mens-discus-throw/articleshow/135070750.cms"
+    },
+    {
+      "id": "ca_20261021_03",
+      "question": {
+        "en": "Which Indian athlete made history by winning his second gold medal with a Games record in the men's high jump T47 event at the Asian Para Games 2026?",
+        "hi": "एशियाई पैरा खेल 2026 में पुरुषों की ऊंची कूद T47 स्पर्धा में खेल रिकॉर्ड के साथ अपना दूसरा स्वर्ण पदक जीतकर किस भारतीय एथलीट ने इतिहास रच दिया?"
+      },
+      "options": [
+        {
+          "en": "Mariyappan Thangavelu",
+          "hi": "मरियप्पन थंगावेलु"
+        },
+        {
+          "en": "Nishad Kumar",
+          "hi": "निषाद कुमार"
+        },
+        {
+          "en": "Sharad Kumar",
+          "hi": "शरद कुमार"
+        },
+        {
+          "en": "Varun Singh Bhati",
+          "hi": "वरुण सिंह भाटी"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Nishad Kumar made history by winning his second gold medal at the Asian Para Games 2026. He clinched the men's high jump T47 title with a Games record jump of 2.04m.",
+        "hi": "निषाद कुमार ने एशियाई पैरा खेल 2026 में अपना दूसरा स्वर्ण पदक जीतकर इतिहास रच दिया। उन्होंने 2.04 मीटर की गेम रिकॉर्ड जंप के साथ पुरुषों की ऊंची कूद T47 का खिताब जीता।"
+      },
+      "category": "Sports",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-para-games-2026/double-gold-games-record-nishad-kumar-joins-elite-indian-club-with-historic-asian-para-games-feat/articleshow/135070048.cms"
+    },
+    {
+      "id": "ca_20261021_04",
+      "question": {
+        "en": "Simran broke the Games record to win gold in which event at the Asian Para Games 2026?",
+        "hi": "एशियाई पैरा खेल 2026 में सिमरन ने किस स्पर्धा में खेलों का रिकॉर्ड तोड़कर स्वर्ण पदक जीता?"
+      },
+      "options": [
+        {
+          "en": "Women's 100m T12",
+          "hi": "महिलाओं की 100 मीटर T12"
+        },
+        {
+          "en": "Women's 200m T12",
+          "hi": "महिलाओं की 200 मीटर T12"
+        },
+        {
+          "en": "Women's 400m T12",
+          "hi": "महिलाओं की 400 मीटर T12"
+        },
+        {
+          "en": "Women's Long Jump",
+          "hi": "महिलाओं की लंबी छलांग"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Simran celebrated her triumphant return by clinching the women's 200m T12 title at the Asian Para Games 2026, breaking the Games record with a stunning time of 24.80 seconds.",
+        "hi": "सिमरन ने एशियाई पैरा खेल 2026 में 24.80 सेकंड के शानदार समय के साथ खेलों का रिकॉर्ड तोड़ते हुए महिलाओं का 200 मीटर T12 खिताब जीतकर अपनी विजयी वापसी का जश्न मनाया।"
+      },
+      "category": "Sports",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-para-games-2026/new-guide-new-glory-simran-storms-to-games-record-gold-as-tejalben-adds-bronze-at-asian-para-games/articleshow/135068620.cms"
+    },
+    {
+      "id": "ca_20261021_05",
+      "question": {
+        "en": "The Food Technology and Quality Control Department of which country recently banned Priyagold biscuits following serious hygiene deficiencies found by FSSAI?",
+        "hi": "हाल ही में FSSAI द्वारा पाई गई गंभीर स्वच्छता कमियों के बाद किस देश के खाद्य प्रौद्योगिकी और गुणवत्ता नियंत्रण विभाग ने प्रियागोल्ड बिस्कुट पर प्रतिबंध लगा दिया है?"
+      },
+      "options": [
+        {
+          "en": "Bangladesh",
+          "hi": "बांग्लादेश"
+        },
+        {
+          "en": "Sri Lanka",
+          "hi": "श्रीलंका"
+        },
+        {
+          "en": "Nepal",
+          "hi": "नेपाल"
+        },
+        {
+          "en": "Bhutan",
+          "hi": "भूटान"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Nepal's Food Technology and Quality Control Department has officially banned Priyagold biscuits produced by Surya Food and Agro Ltd. This follows alarming food safety concerns raised by the Food Safety and Standards Authority of India (FSSAI).",
+        "hi": "नेपाल के खाद्य प्रौद्योगिकी और गुणवत्ता नियंत्रण विभाग ने आधिकारिक तौर पर सूर्या फूड एंड एग्रो लिमिटेड द्वारा उत्पादित प्रियागोल्ड बिस्कुट पर प्रतिबंध लगा दिया है। यह भारतीय खाद्य सुरक्षा और मानक प्राधिकरण (FSSAI) द्वारा उठाई गई खाद्य सुरक्षा संबंधी चिंताओं के बाद किया गया है।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/nepal-bans-priyagold-biscuit-after-fssai-finds-serious-hygiene-deficiencies/articleshow/135062783.cms"
+    },
+    {
+      "id": "ca_20261021_06",
+      "question": {
+        "en": "Pranav Soorma, who recently won gold at the Asian Para Games with a new Asian record of 11.66m, is associated with which sport?",
+        "hi": "प्रणव सूरमा, जिन्होंने हाल ही में 11.66 मीटर के नए एशियाई रिकॉर्ड के साथ एशियाई पैरा खेलों में स्वर्ण पदक जीता, किस खेल से जुड़े हैं?"
+      },
+      "options": [
+        {
+          "en": "Javelin Throw",
+          "hi": "भाला फेंक"
+        },
+        {
+          "en": "Discus Throw",
+          "hi": "चक्का फेंक"
+        },
+        {
+          "en": "Shot Put",
+          "hi": "गोला फेंक"
+        },
+        {
+          "en": "Club Throw",
+          "hi": "क्लब थ्रो"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Pranav Soorma secured the gold medal in the men's discus throw at the Asian Para Games. He set a new Asian record with an impressive throw of 11.66m.",
+        "hi": "प्रणव सूरमा ने एशियाई पैरा खेलों में पुरुषों की चक्का फेंक स्पर्धा में स्वर्ण पदक हासिल किया। उन्होंने 11.66 मीटर के शानदार थ्रो के साथ एक नया एशियाई रिकॉर्ड स्थापित किया।"
+      },
+      "category": "Sports",
+      "difficulty": "hard",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-para-games-2026/asian-para-games-1-2-for-india-pranav-soorma-ram-ratan-singh-clinch-discus-gold-and-silver/articleshow/135068090.cms"
+    },
+    {
+      "id": "ca_20261021_07",
+      "question": {
+        "en": "Who has recently sought clarity from the FSSAI to curb unhealthy eating habits and prevent excessive consumption of high fat, sugar, and salt food among children?",
+        "hi": "हाल ही में अस्वस्थ खान-पान की आदतों पर अंकुश लगाने और बच्चों के बीच उच्च वसा, चीनी और नमक वाले भोजन के अत्यधिक सेवन को रोकने के लिए FSSAI से स्पष्टता किसने मांगी है?"
+      },
+      "options": [
+        {
+          "en": "Government of Tamil Nadu",
+          "hi": "तमिलनाडु सरकार"
+        },
+        {
+          "en": "Government of Kerala",
+          "hi": "केरल सरकार"
+        },
+        {
+          "en": "Government of Maharashtra",
+          "hi": "महाराष्ट्र सरकार"
+        },
+        {
+          "en": "Government of Karnataka",
+          "hi": "कर्नाटक सरकार"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The Kerala Government has sought clarity from the Food Safety and Standards Authority of India (FSSAI) regarding high fat, sugar, and salt foods. Health Minister K. Muraleedharan stated the state will strengthen legal measures to curb unhealthy eating habits among children.",
+        "hi": "केरल सरकार ने उच्च वसा, चीनी और नमक वाले खाद्य पदार्थों के संबंध में भारतीय खाद्य सुरक्षा और मानक प्राधिकरण (FSSAI) से स्पष्टता मांगी है। स्वास्थ्य मंत्री के. मुरलीधरन ने कहा कि राज्य बच्चों में अस्वस्थ खान-पान की आदतों पर अंकुश लगाने के लिए कानूनी उपायों को मजबूत करेगा।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/news/national/kerala/keralam-seeks-fssai-clarity-on-high-fat-sugar-salt-food/article71604523.ece"
+    },
+    {
+      "id": "ca_20261021_08",
+      "question": {
+        "en": "In a historic performance at the Asian Para Games 2026, India won a record five bronze medals in which sport, exceeding its previous best of two?",
+        "hi": "एशियाई पैरा खेल 2026 में एक ऐतिहासिक प्रदर्शन में, भारत ने किस खेल में अपने पिछले सर्वश्रेष्ठ दो पदकों को पार करते हुए रिकॉर्ड पांच कांस्य पदक जीते?"
+      },
+      "options": [
+        {
+          "en": "Para Badminton",
+          "hi": "पैरा बैडमिंटन"
+        },
+        {
+          "en": "Para Archery",
+          "hi": "पैरा तीरंदाजी"
+        },
+        {
+          "en": "Para Table Tennis",
+          "hi": "पैरा टेबल टेनिस"
+        },
+        {
+          "en": "Para Athletics",
+          "hi": "पैरा एथलेटिक्स"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "At the Asian Para Games in Aichi-Nagoya, India delivered its standout performance in para table tennis, clinching five bronze medals. This feat exceeded its previous best of two, highlighting India's expanding footprint in the sport.",
+        "hi": "आइची-नागोया में एशियाई पैरा खेलों में, भारत ने पैरा टेबल टेनिस में अपना शानदार प्रदर्शन करते हुए पांच कांस्य पदक जीते। यह उपलब्धि उसके पिछले सर्वश्रेष्ठ दो पदकों को पार कर गई, जो इस खेल में भारत के बढ़ते प्रभाव को उजागर करती है।"
+      },
+      "category": "Sports",
+      "difficulty": "hard",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-para-games-2026/historic-high-india-win-record-five-bronze-medals-in-best-ever-para-table-tennis-show-at-asian-para-games/articleshow/135069169.cms"
+    },
+    {
+      "id": "ca_20261021_09",
+      "question": {
+        "en": "Under which Prime Minister's chairmanship was the National Mineral Policy, 2019 approved, which is currently slated for a review amid new priorities?",
+        "hi": "किस प्रधान मंत्री की अध्यक्षता में राष्ट्रीय खनिज नीति, 2019 को मंजूरी दी गई थी, जिसकी वर्तमान में नई प्राथमिकताओं के बीच समीक्षा की जानी है?"
+      },
+      "options": [
+        {
+          "en": "Dr. Manmohan Singh",
+          "hi": "डॉ. मनमोहन सिंह"
+        },
+        {
+          "en": "Narendra Modi",
+          "hi": "नरेंद्र मोदी"
+        },
+        {
+          "en": "Atal Bihari Vajpayee",
+          "hi": "अटल बिहारी वाजपेयी"
+        },
+        {
+          "en": "H. D. Deve Gowda",
+          "hi": "एच. डी. देवेगौड़ा"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The National Mineral Policy, 2019, was approved by the Union cabinet chaired by Prime Minister Narendra Modi. A review of this policy is now on the cards amid new priorities to ensure effective regulation and sustainable development of the mining sector.",
+        "hi": "राष्ट्रीय खनिज नीति, 2019 को प्रधानमंत्री नरेंद्र मोदी की अध्यक्षता वाले केंद्रीय मंत्रिमंडल द्वारा अनुमोदित किया गया था। खनन क्षेत्र के प्रभावी नियमन और सतत विकास को सुनिश्चित करने के लिए नई प्राथमिकताओं के बीच अब इस नीति की समीक्षा की जानी है।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/review-of-2019-mineral-policy-on-cards-amid-new-priorities/articleshow/135076899.cms"
+    },
+    {
+      "id": "ca_20261021_10",
+      "question": {
+        "en": "Who won the bronze medal for India in the men's 400m freestyle S11 event at the Asian Para Games 2026?",
+        "hi": "एशियाई पैरा खेल 2026 में पुरुषों की 400 मीटर फ्रीस्टाइल S11 स्पर्धा में भारत के लिए कांस्य पदक किसने जीता?"
+      },
+      "options": [
+        {
+          "en": "Ravi Karthik Budigina",
+          "hi": "रवि कार्तिक बुडिगिना"
+        },
+        {
+          "en": "Himanshu Nandal",
+          "hi": "हिमांशु नांदल"
+        },
+        {
+          "en": "Niranjan Mukundan",
+          "hi": "निरंजन मुकुंदन"
+        },
+        {
+          "en": "Suyash Jadhav",
+          "hi": "सुयश जाधव"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Indian para-swimmer Himanshu Nandal clinched a bronze medal in the men's 400m freestyle S11 event at the Asian Para Games 2026, clocking in at 5 minutes and 10.91 seconds.",
+        "hi": "भारतीय पैरा-तैरक हिमांशु नांदल ने एशियाई पैरा खेल 2026 में पुरुषों की 400 मीटर फ्रीस्टाइल S11 स्पर्धा में 5 मिनट और 10.91 सेकंड का समय निकालकर कांस्य पदक जीता।"
+      },
+      "category": "Sports",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-para-games-2026/asian-para-games-himanshu-nandal-wins-bronze-gives-india-second-swimming-medal/articleshow/135065950.cms"
+    }
+  ]
+}
