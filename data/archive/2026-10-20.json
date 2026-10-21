@@ -1,0 +1,340 @@
+{
+  "date": "2026-10-20",
+  "topic": "SSC CGL Daily Current Affairs",
+  "source": "PIB / The Hindu / Economic Times / Indian Express / GKToday",
+  "lastUpdated": "2026-10-20T05:09:27+05:30",
+  "version": 1,
+  "totalQuestions": 10,
+  "quiz": [
+    {
+      "id": "ca_20261020_01",
+      "question": {
+        "en": "Who has recently been appointed as the chairman of the BCCI's Men's Selection Committee, replacing Ajit Agarkar?",
+        "hi": "हाल ही में अजीत अगरकर की जगह बीसीसीआई की पुरुष चयन समिति के अध्यक्ष के रूप में किसे नियुक्त किया गया है?"
+      },
+      "options": [
+        {
+          "en": "Ramesh Powar",
+          "hi": "रमेश पोवार"
+        },
+        {
+          "en": "Pragyan Ojha",
+          "hi": "प्रज्ञान ओझा"
+        },
+        {
+          "en": "VVS Laxman",
+          "hi": "वीवीएस लक्ष्मण"
+        },
+        {
+          "en": "Rahul Dravid",
+          "hi": "राहुल द्रविड़"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Pragyan Ojha has been appointed as the new chairman of the BCCI's Men's Selection Committee, replacing Ajit Agarkar. Former spinner Ramesh Powar has also joined the selection committee. The BCCI (Board of Control for Cricket in India) is the national governing body for cricket in India, headquartered in Mumbai.",
+        "hi": "अजीत अगरकर की जगह प्रज्ञान ओझा को बीसीसीआई की पुरुष चयन समिति का नया अध्यक्ष नियुक्त किया गया है। पूर्व स्पिनर रमेश पोवार भी चयन समिति में शामिल हो गए हैं। बीसीसीआई (भारतीय क्रिकेट कंट्रोल बोर्ड) भारत में क्रिकेट के लिए राष्ट्रीय शासी निकाय है, जिसका मुख्यालय मुंबई में है।"
+      },
+      "category": "Appointments & Commissions",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/pragyan-ojha-replaces-ajit-agarkar-as-bccis-selection-committee-chairman-ramesh-powar-joins-panel/articleshow/135046619.cms"
+    },
+    {
+      "id": "ca_20261020_02",
+      "question": {
+        "en": "At the Asian Para Games 2026, Rinku Hooda won a gold medal in which event?",
+        "hi": "एशियाई पैरा खेल 2026 में, रिंकू हुडा ने किस स्पर्धा में स्वर्ण पदक जीता?"
+      },
+      "options": [
+        {
+          "en": "Long Jump",
+          "hi": "लंबी छलांग"
+        },
+        {
+          "en": "Shooting",
+          "hi": "निशानेबाज़ी"
+        },
+        {
+          "en": "Javelin Throw",
+          "hi": "भाला फेंक"
+        },
+        {
+          "en": "Discus Throw",
+          "hi": "चक्का फेंक"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "At the Asian Para Games 2026, Rinku Hooda won the gold medal in the men's javelin throw F46 category. He achieved this victory despite a shoulder injury and dedicated it to his late mother.",
+        "hi": "एशियाई पैरा खेल 2026 में रिंकू हुडा ने पुरुषों की भाला फेंक F46 श्रेणी में स्वर्ण पदक जीता। उन्होंने कंधे की चोट के बावजूद यह जीत हासिल की और इसे अपनी दिवंगत मां को समर्पित किया।"
+      },
+      "category": "Sports",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-para-games-2026/i-wanted-to-win-this-gold-for-my-mother-rinku-hooda-triumphs-amid-grief-at-asian-para-games/articleshow/135053725.cms"
+    },
+    {
+      "id": "ca_20261020_03",
+      "question": {
+        "en": "How many medals did India win on the opening day of the Asian Para Games 2026?",
+        "hi": "एशियाई पैरा खेल 2026 के उद्घाटन के दिन भारत ने कितने पदक जीते?"
+      },
+      "options": [
+        {
+          "en": "9",
+          "hi": "9"
+        },
+        {
+          "en": "11",
+          "hi": "11"
+        },
+        {
+          "en": "13",
+          "hi": "13"
+        },
+        {
+          "en": "15",
+          "hi": "15"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "India impressed on the opening day of the Asian Para Games 2026, clinching a remarkable 11 medals in total. This included four gold medals, placing India fourth overall in the medal standings after day one.",
+        "hi": "भारत ने एशियाई पैरा खेल 2026 के शुरुआती दिन शानदार प्रदर्शन करते हुए कुल 11 पदक जीते। इसमें चार स्वर्ण पदक शामिल हैं, जिससे भारत पहले दिन के बाद पदक तालिका में चौथे स्थान पर आ गया है।"
+      },
+      "category": "Sports",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-para-games-2026/asian-para-games-medal-tally-where-does-india-stand-after-a-bumper-11-medal-haul-on-day-1/articleshow/135049510.cms"
+    },
+    {
+      "id": "ca_20261020_04",
+      "question": {
+        "en": "Who was recently sworn in as the Governor of Sikkim?",
+        "hi": "हाल ही में सिक्किम के राज्यपाल के रूप में किसने शपथ ली?"
+      },
+      "options": [
+        {
+          "en": "Dushyant Kumar Gautam",
+          "hi": "दुष्यंत कुमार गौतम"
+        },
+        {
+          "en": "Laxman Prasad Acharya",
+          "hi": "लक्ष्मण प्रसाद आचार्य"
+        },
+        {
+          "en": "Ganga Prasad",
+          "hi": "गंगा प्रसाद"
+        },
+        {
+          "en": "Shriniwas Patil",
+          "hi": "श्रीनिवास पाटिल"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "Dushyant Kumar Gautam was recently sworn in as the Governor of Sikkim. The Governor of a state is appointed by the President of India under Article 155 of the Constitution.",
+        "hi": "दुष्यंत कुमार गौतम ने हाल ही में सिक्किम के राज्यपाल के रूप में शपथ ली। किसी राज्य के राज्यपाल की नियुक्ति भारत के राष्ट्रपति द्वारा संविधान के अनुच्छेद 155 के तहत की जाती है।"
+      },
+      "category": "Appointments & Commissions",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/dushyant-kumar-gautam-sworn-in-as-sikkim-governor-congress-vows-stir/articleshow/135056378.cms"
+    },
+    {
+      "id": "ca_20261020_05",
+      "question": {
+        "en": "Which government agency has flagged a rise in social media fraud using deepfake videos of public figures to promote fake schemes?",
+        "hi": "किस सरकारी एजेंसी ने फर्जी योजनाओं को बढ़ावा देने के लिए सार्वजनिक हस्तियों के डीपफेक वीडियो का उपयोग करके सोशल मीडिया धोखाधड़ी में वृद्धि को हरी झंडी दिखाई है?"
+      },
+      "options": [
+        {
+          "en": "CERT-In",
+          "hi": "सर्ट-इन (CERT-In)"
+        },
+        {
+          "en": "National Cybercrime Threat Analytics Unit",
+          "hi": "राष्ट्रीय साइबर अपराध खतरा विश्लेषण इकाई"
+        },
+        {
+          "en": "CBI",
+          "hi": "सीबीआई (CBI)"
+        },
+        {
+          "en": "Enforcement Directorate",
+          "hi": "प्रवर्तन निदेशालय (ED)"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The National Cybercrime Threat Analytics Unit has identified a rise in financial fraud on social media, where fraudsters use deepfake videos of the PM and ministers to promote fake government schemes.",
+        "hi": "राष्ट्रीय साइबर अपराध खतरा विश्लेषण इकाई ने सोशल मीडिया पर वित्तीय धोखाधड़ी में वृद्धि की पहचान की है, जहां जालसाज फर्जी सरकारी योजनाओं को बढ़ावा देने के लिए पीएम और मंत्रियों के डीपफेक वीडियो का उपयोग करते हैं।"
+      },
+      "category": "Science & Technology",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/cyber-unit-flags-rise-in-social-media-fraud-using-deepfake-videos-of-pm-ministers-to-promote-fake-schemes/articleshow/135051155.cms"
+    },
+    {
+      "id": "ca_20261020_06",
+      "question": {
+        "en": "Caden Chau, who recently received the 'Health for All Award for Health Equity', is associated with which initiative?",
+        "hi": "कैडेन चाऊ, जिन्हें हाल ही में 'हेल्थ फॉर ऑल अवार्ड फॉर हेल्थ इक्विटी' मिला है, किस पहल से जुड़े हैं?"
+      },
+      "options": [
+        {
+          "en": "EcoHealth",
+          "hi": "इकोहेल्थ (EcoHealth)"
+        },
+        {
+          "en": "MakeAble",
+          "hi": "मेकएबल (MakeAble)"
+        },
+        {
+          "en": "TechCare",
+          "hi": "टेककेयर (TechCare)"
+        },
+        {
+          "en": "HealthFirst",
+          "hi": "हेल्थफर्स्ट (HealthFirst)"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "17-year-old Caden Chau founded MakeAble, an initiative to create affordable assistive devices using 3D printing technology, reaching 400,000 people worldwide. He received the Health for All Award for Health Equity.",
+        "hi": "17 वर्षीय कैडेन चाऊ ने मेकएबल की स्थापना की, जो 3डी प्रिंटिंग तकनीक का उपयोग करके किफायती सहायक उपकरण बनाने की एक पहल है, जो दुनिया भर में 400,000 लोगों तक पहुंचती है। उन्हें स्वास्थ्य समानता के लिए 'हेल्थ फॉर ऑल' पुरस्कार मिला।"
+      },
+      "category": "Awards & Honours",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/rest-of-world/meet-caden-chau-the-17-year-old-calgary-student-who-started-with-a-50-second-hand-3d-printer-his-team-has-now-built-over-600-assistive-devices-while-its-free-designs-have-reached-400000-people-worldwide/articleshow/135052834.cms"
+    },
+    {
+      "id": "ca_20261020_07",
+      "question": {
+        "en": "Which state recently saw violent clashes resulting in the killing of three civilians, leading the Chief Minister to order tighter security?",
+        "hi": "हाल ही में किस राज्य में हिंसक झड़पें हुईं, जिसके परिणामस्वरूप तीन नागरिकों की मौत हो गई, जिससे मुख्यमंत्री को सुरक्षा कड़ी करने का आदेश देना पड़ा?"
+      },
+      "options": [
+        {
+          "en": "Nagaland",
+          "hi": "नागालैंड"
+        },
+        {
+          "en": "Manipur",
+          "hi": "मणिपुर"
+        },
+        {
+          "en": "Mizoram",
+          "hi": "मिजोरम"
+        },
+        {
+          "en": "Assam",
+          "hi": "असम"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Manipur's Chief Minister condemned the killing of three civilians by suspected militants and ordered tighter security. Violence also erupted in Thoubal, reflecting the ongoing instability in the state.",
+        "hi": "मणिपुर के मुख्यमंत्री ने संदिग्ध उग्रवादियों द्वारा तीन नागरिकों की हत्या की निंदा की और कड़ी सुरक्षा के आदेश दिए। थौबल में भी हिंसा भड़क उठी, जो राज्य में चल रही अस्थिरता को दर्शाती है।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/manipur-violence-cm-condemns-killing-of-three-civilians-orders-tighter-security-in-vulnerable-areas/articleshow/135051822.cms"
+    },
+    {
+      "id": "ca_20261020_08",
+      "question": {
+        "en": "The Delhi High Court recently upheld the decision of which force to withhold details of the PM's foreign visits citing security reasons?",
+        "hi": "दिल्ली उच्च न्यायालय ने हाल ही में सुरक्षा कारणों का हवाला देते हुए पीएम की विदेश यात्राओं का विवरण रोकने के किस बल के फैसले को बरकरार रखा है?"
+      },
+      "options": [
+        {
+          "en": "Indian Navy",
+          "hi": "भारतीय नौसेना"
+        },
+        {
+          "en": "Indian Army",
+          "hi": "भारतीय सेना"
+        },
+        {
+          "en": "Indian Air Force (IAF)",
+          "hi": "भारतीय वायु सेना (IAF)"
+        },
+        {
+          "en": "Border Security Force",
+          "hi": "सीमा सुरक्षा बल"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The Delhi High Court upheld the Indian Air Force's (IAF) decision to withhold details of foreign visits by PM Modi and former PM Manmohan Singh, stating that revealing such information may compromise security.",
+        "hi": "दिल्ली उच्च न्यायालय ने पीएम मोदी और पूर्व पीएम मनमोहन सिंह की विदेश यात्राओं का विवरण रोकने के भारतीय वायु सेना (IAF) के फैसले को बरकरार रखा, यह कहते हुए कि ऐसी जानकारी का खुलासा करने से सुरक्षा से समझौता हो सकता है।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/may-compromise-security-delhi-hc-upholds-iaf-decision-to-withhold-details-of-pm-modi-manmohan-singhs-foreign-visits/articleshow/135051746.cms"
+    },
+    {
+      "id": "ca_20261020_09",
+      "question": {
+        "en": "The notorious gangster Lawrence Bishnoi is allegedly running his gang through a 'shadow cabinet' from which jail?",
+        "hi": "कुख्यात गैंगस्टर लॉरेंस बिश्नोई कथित तौर पर किस जेल से 'शैडो कैबिनेट' के जरिए अपना गिरोह चला रहा है?"
+      },
+      "options": [
+        {
+          "en": "Tihar Jail",
+          "hi": "तिहाड़ जेल"
+        },
+        {
+          "en": "Sabarmati Central Jail",
+          "hi": "साबरमती सेंट्रल जेल"
+        },
+        {
+          "en": "Yerwada Jail",
+          "hi": "यरवदा जेल"
+        },
+        {
+          "en": "Arthur Road Jail",
+          "hi": "आर्थर रोड जेल"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Ringleader Lawrence Bishnoi, currently lodged in Gujarat's Sabarmati Central Jail, is allegedly running his crime syndicate through a 'shadow cabinet'.",
+        "hi": "सरगना लॉरेंस बिश्नोई, जो वर्तमान में गुजरात की साबरमती सेंट्रल जेल में बंद है, कथित तौर पर 'शैडो कैबिनेट' के माध्यम से अपना अपराध सिंडिकेट चला रहा है।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "hard",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/ringleader-lawrence-bishnoi-in-jail-shadow-cabinet-runs-gang-tiger-shroff-attack-anil-pandit/articleshow/135058470.cms"
+    },
+    {
+      "id": "ca_20261020_10",
+      "question": {
+        "en": "Which state's police officers were recently awarded bravery awards for rescuing a man from a burning house?",
+        "hi": "हाल ही में जलते हुए घर से एक व्यक्ति को बचाने के लिए किस राज्य (देश के बाहर) के पुलिस अधिकारियों को वीरता पुरस्कार से सम्मानित किया गया?"
+      },
+      "options": [
+        {
+          "en": "Virginia, USA",
+          "hi": "वर्जिनिया, अमेरिका"
+        },
+        {
+          "en": "London, UK",
+          "hi": "लंदन, ब्रिटेन"
+        },
+        {
+          "en": "Sydney, Australia",
+          "hi": "सिडनी, ऑस्ट्रेलिया"
+        },
+        {
+          "en": "Toronto, Canada",
+          "hi": "टोरंटो, कनाडा"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "Four police officers in Virginia, USA, were awarded bravery awards for crawling through a smoke-filled house to rescue an unconscious man from a burning bedroom.",
+        "hi": "अमेरिका के वर्जिनिया में चार पुलिस अधिकारियों को धुएं से भरे घर में रेंगकर एक जलते हुए बेडरूम से बेहोश व्यक्ति को बचाने के लिए वीरता पुरस्कार से सम्मानित किया गया।"
+      },
+      "category": "Awards & Honours",
+      "difficulty": "hard",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/four-virginia-police-officers-crawled-through-a-smoke-filled-house-to-pull-an-unconscious-man-from-a-burning-bedroom-three-needed-hospital-treatment-and-all-four-have-received-bravery-awards/articleshow/135044787.cms"
+    }
+  ]
+}
