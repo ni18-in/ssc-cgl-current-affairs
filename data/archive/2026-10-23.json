@@ -1,0 +1,340 @@
+{
+  "date": "2026-10-23",
+  "topic": "SSC CGL Daily Current Affairs",
+  "source": "Times of India",
+  "lastUpdated": "2026-10-23T06:30:00+05:30",
+  "version": 1,
+  "totalQuestions": 10,
+  "quiz": [
+    {
+      "id": "ca_20261023_01",
+      "question": {
+        "en": "Why has the Supreme Court recently directed the Union road transport ministry to publicise the 'Compensation to Victims (Interim Relief) Scheme'?",
+        "hi": "सुप्रीम कोर्ट ने हाल ही में केंद्रीय सड़क परिवहन मंत्रालय को 'पीड़ितों को मुआवजा (अंतरिम राहत) योजना' का प्रचार करने का निर्देश क्यों दिया है?"
+      },
+      "options": [
+        {
+          "en": "Because uninsured vehicles are excluded from it",
+          "hi": "क्योंकि बिना बीमा वाले वाहनों को इससे बाहर रखा गया है"
+        },
+        {
+          "en": "Because hit-and-run victims are not getting full compensation",
+          "hi": "क्योंकि हिट-एंड-रन पीड़ितों को पूरा मुआवजा नहीं मिल रहा है"
+        },
+        {
+          "en": "Because of lack of public awareness about the scheme",
+          "hi": "योजना के प्रति लोगों में जागरूकता की कमी के कारण"
+        },
+        {
+          "en": "To increase the compensation amount under the Motor Vehicles Act",
+          "hi": "मोटर वाहन अधिनियम के तहत मुआवजा राशि बढ़ाना"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The Supreme Court noted that the 'Compensation to Victims (Interim Relief) Scheme, 2026' lacks notification and publicity. The bench directed the government to make people aware of their right to seek interim compensation under the Central Motor Vehicle Act.",
+        "hi": "सुप्रीम कोर्ट ने कहा कि 'पीड़ितों को मुआवजा (अंतरिम राहत) योजना, 2026' में अधिसूचना और प्रचार का अभाव है।पीठ ने सरकार को निर्देश दिया कि वह लोगों को केंद्रीय मोटर वाहन अधिनियम के तहत अंतरिम मुआवजा मांगने के उनके अधिकार के बारे में जागरूक करे।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/why-are-uninsured-vehicles-not-part-of-crash-relief-scheme-supreme-court/articleshow/135100900.cms"
+    },
+    {
+      "id": "ca_20261023_02",
+      "question": {
+        "en": "Which international entity has recently completed the supply of engineered safety features actuation systems (ESFAS) for Kudankulam Nuclear Plant units 3 and 4?",
+        "hi": "हाल ही में किस अंतर्राष्ट्रीय इकाई ने कुडनकुलम परमाणु संयंत्र इकाई 3 और 4 के लिए इंजीनियर्ड सेफ्टी फीचर्स एक्चुएशन सिस्टम (ESFAS) की आपूर्ति पूरी कर ली है?"
+      },
+      "options": [
+        {
+          "en": "Westinghouse Electric Company",
+          "hi": "वेस्टिंगहाउस इलेक्ट्रिक कंपनी"
+        },
+        {
+          "en": "Rosatom",
+          "hi": "रोसाटोम"
+        },
+        {
+          "en": "Électricité de France (EDF)",
+          "hi": "फ्रांस की बिजली (ईडीएफ)"
+        },
+        {
+          "en": "Korea Hydro & Nuclear Power",
+          "hi": "कोरिया हाइड्रो और परमाणु ऊर्जा"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Russia's Rosatom has completed the supply of ESFAS for units 3 and 4 of the Kudankulam Nuclear Power Plant (KNPP). The ESFAS is a critical system that monitors process parameters when there is a deviation from normal operation conditions in VVER-1000 reactors.",
+        "hi": "रूस की रोसाटॉम ने कुडनकुलम परमाणु ऊर्जा संयंत्र (केएनपीपी) की इकाइयों 3 और 4 के लिए ईएसएफएएस की आपूर्ति पूरी कर ली है।ESFAS एक महत्वपूर्ण प्रणाली है जो VVER-1000 रिएक्टरों में सामान्य संचालन स्थितियों से विचलन होने पर प्रक्रिया मापदंडों की निगरानी करती है।"
+      },
+      "category": "Science & Technology",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/rosatom-completes-supply-of-engineered-safety-features-actuation-systems-for-kudankulam-n-plant-units-3-and-4/articleshow/135100849.cms"
+    },
+    {
+      "id": "ca_20261023_03",
+      "question": {
+        "en": "According to the draft notification by the Centre, by which year will Advanced Emergency Braking System (AEBS) be mandated for all new car models in India?",
+        "hi": "केंद्र द्वारा मसौदा अधिसूचना के अनुसार, भारत में सभी नए कार मॉडलों के लिए एडवांस्ड इमरजेंसी ब्रेकिंग सिस्टम (AEBS) किस वर्ष तक अनिवार्य किया जाएगा?"
+      },
+      "options": [
+        {
+          "en": "October 2028",
+          "hi": "अक्टूबर 2028"
+        },
+        {
+          "en": "October 2030",
+          "hi": "अक्टूबर 2030"
+        },
+        {
+          "en": "October 2032",
+          "hi": "अक्टूबर 2032"
+        },
+        {
+          "en": "October 2035",
+          "hi": "अक्टूबर 2035"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The Centre plans to make the Advanced Emergency Braking System (AEBS) mandatory for all new car models from October 2030. For pre-2030 still-in-production models, it will be mandatory from October 2032 as part of the broader implementation of ADAS safety features.",
+        "hi": "केंद्र ने अक्टूबर 2030 से सभी नए कार मॉडलों के लिए उन्नत आपातकालीन ब्रेकिंग सिस्टम (एईबीएस) को अनिवार्य बनाने की योजना बनाई है। 2030 से पहले के अभी भी उत्पादन वाले मॉडलों के लिए, एडीएएस सुरक्षा सुविधाओं के व्यापक कार्यान्वयन के हिस्से के रूप में यह अक्टूबर 2032 से अनिवार्य होगा।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "hard",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/cars-to-brake-on-their-own-centre-plans-aebs-mandate-from-oct-2030/articleshow/135100436.cms"
+    },
+    {
+      "id": "ca_20261023_04",
+      "question": {
+        "en": "What was the growth rate of India's core sector in September 2026, driven largely by a surge in iron ore production?",
+        "hi": "सितंबर 2026 में भारत के मुख्य क्षेत्र की विकास दर क्या थी, जो मुख्य रूप से लौह अयस्क उत्पादन में वृद्धि से प्रेरित थी?"
+      },
+      "options": [
+        {
+          "en": "5.2%",
+          "hi": "5.2%"
+        },
+        {
+          "en": "6.5%",
+          "hi": "6.5%"
+        },
+        {
+          "en": "7.9%",
+          "hi": "7.9%"
+        },
+        {
+          "en": "8.4%",
+          "hi": "8.4%"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "India's core sector growth accelerated to 7.9% in September 2026. This was significantly driven by an 18.4% jump in iron ore output, along with gains in electricity, coal, refinery products, and cement.",
+        "hi": "सितंबर 2026 में भारत के मुख्य क्षेत्र की वृद्धि बढ़कर 7.9% हो गई। यह बिजली, कोयला, रिफाइनरी उत्पादों और सीमेंट में लाभ के साथ-साथ लौह अयस्क उत्पादन में 18.4% की बढ़ोतरी से प्रेरित था।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/indias-core-sector-growth-accelerates-to-7-9-in-september-iron-ore-output-jumps-18-4-crude-oil-falls-1-4/articleshow/135093483.cms"
+    },
+    {
+      "id": "ca_20261023_05",
+      "question": {
+        "en": "Which Australian cricketer recently became the fifth-fastest to reach 11,000 runs in Test cricket?",
+        "hi": "कौन सा ऑस्ट्रेलियाई क्रिकेटर हाल ही में टेस्ट क्रिकेट में 11,000 रन तक पहुंचने वाला पांचवां सबसे तेज रन बन गया?"
+      },
+      "options": [
+        {
+          "en": "David Warner",
+          "hi": "डेविड वार्नर"
+        },
+        {
+          "en": "Marnus Labuschagne",
+          "hi": "मार्नस लाबुशेन"
+        },
+        {
+          "en": "Steve Smith",
+          "hi": "स्टीव स्मिथ"
+        },
+        {
+          "en": "Travis Head",
+          "hi": "ट्रैविस हेड"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Steve Smith reached the milestone of 11,000 runs in Test cricket during the second Test against South Africa at St George's Park. He is the third Australian, joining Ricky Ponting and Allan Border, and the 12th player overall to achieve this.",
+        "hi": "सेंट जॉर्ज पार्क में दक्षिण अफ्रीका के खिलाफ दूसरे टेस्ट के दौरान स्टीव स्मिथ टेस्ट क्रिकेट में 11,000 रन के मील के पत्थर तक पहुंच गए।वह यह उपलब्धि हासिल करने वाले रिकी पोंटिंग और एलन बॉर्डर के साथ तीसरे ऑस्ट्रेलियाई और कुल मिलाकर 12वें खिलाड़ी हैं।"
+      },
+      "category": "Sports",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/steve-smith-joins-ricky-ponting-allan-border-in-elite-australian-club-fifth-fastest-to-11k-test-runs/articleshow/135092159.cms"
+    },
+    {
+      "id": "ca_20261023_06",
+      "question": {
+        "en": "Indian Oil Corporation plans to reduce its crude oil purchases from Middle Eastern suppliers in FY28 due to disruptions caused by which geopolitical event?",
+        "hi": "इंडियन ऑयल कॉर्पोरेशन किस भू-राजनीतिक घटना के कारण उत्पन्न व्यवधानों के कारण FY28 में मध्य पूर्वी आपूर्तिकर्ताओं से कच्चे तेल की खरीद कम करने की योजना बना रही है?"
+      },
+      "options": [
+        {
+          "en": "Russia-Ukraine War",
+          "hi": "रूस-यूक्रेन युद्ध"
+        },
+        {
+          "en": "Iran War",
+          "hi": "ईरान युद्ध"
+        },
+        {
+          "en": "Red Sea Crisis",
+          "hi": "लाल सागर संकट"
+        },
+        {
+          "en": "Israel-Hamas Conflict",
+          "hi": "इजराइल-हमास संघर्ष"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Indian Oil Corporation expects to cut crude oil purchases from Middle Eastern suppliers under annual deals in FY28. This decision is driven by the Iran war, which has disrupted shipments, increased transportation costs, and prompted Indian refiners to explore alternative suppliers.",
+        "hi": "इंडियन ऑयल कॉरपोरेशन को उम्मीद है कि वित्त वर्ष 2028 में वार्षिक सौदों के तहत मध्य पूर्वी आपूर्तिकर्ताओं से कच्चे तेल की खरीद में कटौती की जाएगी।यह निर्णय ईरान युद्ध से प्रेरित है, जिसने शिपमेंट को बाधित कर दिया है, परिवहन लागत में वृद्धि की है और भारतीय रिफाइनरों को वैकल्पिक आपूर्तिकर्ताओं का पता लगाने के लिए प्रेरित किया है।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/iran-war-impact-indian-oil-plans-to-reduce-middle-east-crude-purchases-under-annual-deals-in-fy28/articleshow/135094647.cms"
+    },
+    {
+      "id": "ca_20261023_07",
+      "question": {
+        "en": "Which Indian bowler recently equalled the legendary Bishan Singh Bedi's record for the joint fifth-most five-wicket hauls in Ranji Trophy history?",
+        "hi": "हाल ही में किस भारतीय गेंदबाज ने रणजी ट्रॉफी इतिहास में संयुक्त रूप से पांचवें सबसे ज्यादा पांच विकेट लेने के महान बिशन सिंह बेदी के रिकॉर्ड की बराबरी की?"
+      },
+      "options": [
+        {
+          "en": "Shahbaz Nadeem",
+          "hi": "शाहबाज़ नदीम"
+        },
+        {
+          "en": "Jaydev Unadkat",
+          "hi": "Jaydev Unadkat"
+        },
+        {
+          "en": "Jalaj Saxena",
+          "hi": "जलज सक्सैना"
+        },
+        {
+          "en": "Saurabh Kumar",
+          "hi": "Saurabh Kumar"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Kerala's Jalaj Saxena secured his 35th five-wicket haul in the Ranji Trophy during an innings win against Odisha. This feat puts him level with Bishan Singh Bedi for the joint fifth-most five-fors in the history of the premier domestic tournament.",
+        "hi": "केरल के जलज सक्सेना ने ओडिशा के खिलाफ पारी की जीत के दौरान रणजी ट्रॉफी में अपना 35वां पांच विकेट हासिल किया।यह उपलब्धि उन्हें प्रमुख घरेलू टूर्नामेंट के इतिहास में संयुक्त रूप से पांचवें सबसे ज्यादा पांच विकेट लेने के मामले में बिशन सिंह बेदी के बराबर लाती है।"
+      },
+      "category": "Sports",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-domestic/ranji-trophy/jalaj-saxena-equals-bishan-singh-bedi-as-kerala-notch-up-innings-win-against-odisha-in-ranji-trophy/articleshow/135094690.cms"
+    },
+    {
+      "id": "ca_20261023_08",
+      "question": {
+        "en": "The upcoming Bengaluru-Mumbai Vande Bharat sleeper train has a maximum testing speed of how many kilometres per hour?",
+        "hi": "आगामी बेंगलुरु-मुंबई वंदे भारत स्लीपर ट्रेन की अधिकतम परीक्षण गति कितने किलोमीटर प्रति घंटा है?"
+      },
+      "options": [
+        {
+          "en": "130 kmph",
+          "hi": "130 किमी प्रति घंटा"
+        },
+        {
+          "en": "160 kmph",
+          "hi": "160 किमी प्रति घंटा"
+        },
+        {
+          "en": "180 kmph",
+          "hi": "180 किमी प्रति घंटा"
+        },
+        {
+          "en": "200 kmph",
+          "hi": "200 किमी प्रति घंटा"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The Bengaluru-Mumbai Vande Bharat sleeper train is designed for operations at up to 160 kmph but has a maximum testing speed of 180 kmph. It features a 16-coach configuration with AC 3-tier, 2-tier, and First Class accommodations.",
+        "hi": "बेंगलुरु-मुंबई वंदे भारत स्लीपर ट्रेन को 160 किमी प्रति घंटे तक परिचालन के लिए डिज़ाइन किया गया है, लेकिन इसकी अधिकतम परीक्षण गति 180 किमी प्रति घंटे है।इसमें एसी 3-टियर, 2-टियर और प्रथम श्रेणी आवास के साथ 16-कोच कॉन्फ़िगरेशन की सुविधा है।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/bengaluru-mumbai-vande-bharat-sleeper-train-may-launch-on-november-1-journey-time-may-fall-from-24-hours-to-16-and-fares-could-range-from-rs-2600-to-rs-4250/articleshow/135085906.cms"
+    },
+    {
+      "id": "ca_20261023_09",
+      "question": {
+        "en": "Under the proposed new norms for Driving Licences (DL), what will be the new qualifying passing score for the safe-driving tutorial?",
+        "hi": "ड्राइविंग लाइसेंस (डीएल) के लिए प्रस्तावित नए मानदंडों के तहत, सुरक्षित ड्राइविंग ट्यूटोरियल के लिए नया योग्यता उत्तीर्ण स्कोर क्या होगा?"
+      },
+      "options": [
+        {
+          "en": "60%",
+          "hi": "60%"
+        },
+        {
+          "en": "65%",
+          "hi": "65%"
+        },
+        {
+          "en": "70%",
+          "hi": "70%"
+        },
+        {
+          "en": "75%",
+          "hi": "75%"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "According to the draft rules by the Union road transport ministry, the driving tutorial pass mark will rise to 70%. The tutorial must last at least 30 minutes, and the higher score is aimed at making the assessment more stringent.",
+        "hi": "केंद्रीय सड़क परिवहन मंत्रालय के मसौदा नियमों के अनुसार, ड्राइविंग ट्यूटोरियल पास अंक बढ़कर 70% हो जाएगा।ट्यूटोरियल कम से कम 30 मिनट तक चलना चाहिए, और उच्च स्कोर का उद्देश्य मूल्यांकन को और अधिक कठोर बनाना है।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "hard",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/new-norms-for-dl-driving-tutorial-pass-mark-may-rise-to-75-select-licence-services-to-be-free/articleshow/135100709.cms"
+    },
+    {
+      "id": "ca_20261023_10",
+      "question": {
+        "en": "In which city are the Asian Para Games being held, where India has already claimed 62 medals including 14 golds?",
+        "hi": "एशियाई पैरा खेल किस शहर में आयोजित हो रहे हैं, जहां भारत पहले ही 14 स्वर्ण सहित 62 पदक जीत चुका है?"
+      },
+      "options": [
+        {
+          "en": "Hangzhou",
+          "hi": "परमवीर"
+        },
+        {
+          "en": "Aichi-Nagoya",
+          "hi": "Aichi-नागोया"
+        },
+        {
+          "en": "Tokyo",
+          "hi": "टोक्यो"
+        },
+        {
+          "en": "Jakarta",
+          "hi": "जकार्ता"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The Asian Para Games are being held in Aichi-Nagoya, Japan. India has put up an impressive performance, securing 62 medals overall by day 3, with para-athletics contributing 13 of the 14 gold medals.",
+        "hi": "एशियाई पैरा खेल जापान के आइची-नागोया में आयोजित हो रहे हैं।भारत ने प्रभावशाली प्रदर्शन करते हुए तीसरे दिन तक कुल मिलाकर 62 पदक हासिल कर लिए हैं, जिसमें पैरा-एथलेटिक्स ने 14 स्वर्ण पदकों में से 13 का योगदान दिया है।"
+      },
+      "category": "Sports",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-para-games-2026/where-india-stands-in-asian-para-games-medal-tally-after-27-medal-rush-including-five-golds/articleshow/135093504.cms"
+    }
+  ]
+}
