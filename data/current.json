@@ -1,13 +1,13 @@
 {
-  "date": "2026-10-23",
+  "date": "2026-10-24",
   "topic": "SSC CGL Daily Current Affairs",
   "source": "PIB / The Hindu / Economic Times / Indian Express / GKToday",
-  "lastUpdated": "2026-10-23T05:17:56.539330+05:30",
+  "lastUpdated": "2026-10-24T06:30:00+05:30",
   "version": 1,
   "totalQuestions": 10,
   "quiz": [
     {
-      "id": "ca_20261023_01",
+      "id": "ca_20261024_01",
       "question": {
         "en": "As per recent guidelines taking effect from Jan 1, which major change is mandated for OTT messaging apps like WhatsApp and Telegram to operate in India?",
         "hi": "1 जनवरी से प्रभावी होने वाले हालिया दिशानिर्देशों के अनुसार, भारत में व्हाट्सएप और टेलीग्राम जैसे ओटीटी मैसेजिंग ऐप के संचालन के लिए कौन सा बड़ा बदलाव अनिवार्य है?"
@@ -40,7 +40,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/india/from-jan-1-whatsapp-telegram-wont-work-without-sim-cards-govt-issues-guidelines/articleshow/135127543.cms"
     },
     {
-      "id": "ca_20261023_02",
+      "id": "ca_20261024_02",
       "question": {
         "en": "Under proposed changes to the Motor Vehicles Rules by the Road Transport Ministry, what new system is being planned for driving licences?",
         "hi": "सड़क परिवहन मंत्रालय द्वारा मोटर वाहन नियमों में प्रस्तावित बदलावों के तहत ड्राइविंग लाइसेंस के लिए किस नई प्रणाली की योजना बनाई जा रही है?"
@@ -73,7 +73,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/india/govt-plans-colour-coded-driving-licence-for-indians-foreigners/articleshow/135127122.cms"
     },
     {
-      "id": "ca_20261023_03",
+      "id": "ca_20261024_03",
       "question": {
         "en": "Which major constitutional body's potential removal notice was recently addressed by Lok Sabha Speaker Om Birla, stating it would be decided according to rules?",
         "hi": "हाल ही में लोकसभा अध्यक्ष ओम बिरला ने किस प्रमुख संवैधानिक निकाय के संभावित निष्कासन नोटिस को संबोधित करते हुए कहा था कि इस पर नियमों के अनुसार निर्णय लिया जाएगा?"
@@ -106,7 +106,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/india/will-decide-on-any-notice-to-remove-cec-according-to-rules-lok-sabha-speaker-om-birla/articleshow/135127057.cms"
     },
     {
-      "id": "ca_20261023_04",
+      "id": "ca_20261024_04",
       "question": {
         "en": "Recently, which state's electricity supply corporation was lauded for securing a Guinness record for a drone formation show during the Dasara illumination?",
         "hi": "हाल ही में, दशहरा रोशनी के दौरान ड्रोन फॉर्मेशन शो के लिए गिनीज रिकॉर्ड हासिल करने के लिए किस राज्य के बिजली आपूर्ति निगम की सराहना की गई?"
@@ -139,7 +139,7 @@
       "sourceUrl": "https://www.thehindu.com/news/national/karnataka/chamundeshwari-electricity-supply-corporation-lauded-for-guinness-drone-show-impressive-mysuru-dasara-illumination/article71611367.ece"
     },
     {
-      "id": "ca_20261023_05",
+      "id": "ca_20261024_05",
       "question": {
         "en": "With which European leader did Prime Minister Narendra Modi recently hold talks and assure India's backing for all meaningful efforts toward peace in Ukraine?",
         "hi": "प्रधानमंत्री नरेंद्र मोदी ने हाल ही में किस यूरोपीय नेता के साथ बातचीत की और यूक्रेन में शांति की दिशा में सभी सार्थक प्रयासों के लिए भारत के समर्थन का आश्वासन दिया?"
@@ -172,7 +172,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/india/will-back-all-meaningful-efforts-for-ukraine-peace-pm-modi-assures-polands-tusk/articleshow/135127542.cms"
     },
     {
-      "id": "ca_20261023_06",
+      "id": "ca_20261024_06",
       "question": {
         "en": "What is the title of Sonia Gandhi's upcoming autobiography, whose first look was recently shared?",
         "hi": "सोनिया गांधी की आगामी आत्मकथा का शीर्षक क्या है, जिसका पहला लुक हाल ही में साझा किया गया था?"
@@ -205,7 +205,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/india/sonia-gandhi-makes-instagram-debut-shares-first-look-of-her-upcoming-book/articleshow/135127125.cms"
     },
     {
-      "id": "ca_20261023_07",
+      "id": "ca_20261024_07",
       "question": {
         "en": "The Supreme Court of India recently observed that Indian courts should not blindly follow custody orders from foreign courts, highlighting what principle?",
         "hi": "भारत के सर्वोच्च न्यायालय ने हाल ही में किस सिद्धांत पर प्रकाश डालते हुए कहा कि भारतीय अदालतों को विदेशी अदालतों के हिरासत आदेशों का आंख मूंदकर पालन नहीं करना चाहिए?"
@@ -238,7 +238,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/india/dont-blindly-follow-foreign-custody-order-supreme-court/articleshow/135127041.cms"
     },
     {
-      "id": "ca_20261023_08",
+      "id": "ca_20261024_08",
       "question": {
         "en": "In a recent affidavit to the Supreme Court, the Union Government flagged concerns regarding extreme mark-ups ranging from 100% to 1000% in which healthcare sector?",
         "hi": "सुप्रीम कोर्ट में हाल ही में दिए एक हलफनामे में, केंद्र सरकार ने किस स्वास्थ्य सेवा क्षेत्र में 100% से 1000% तक के अत्यधिक मार्क-अप के बारे में चिंता व्यक्त की?"
@@ -271,7 +271,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/india/centre-flags-data-gap-regulatory-hurdles-in-curbing-hospital-mark-ups/articleshow/135127123.cms"
     },
     {
-      "id": "ca_20261023_09",
+      "id": "ca_20261024_09",
       "question": {
         "en": "The Madras High Court recently ruled that election petitions cannot be filed merely on the basis of internet videos. Under which Act are election petitions filed?",
         "hi": "मद्रास उच्च न्यायालय ने हाल ही में फैसला सुनाया कि चुनाव याचिकाएँ केवल इंटरनेट वीडियो के आधार पर दायर नहीं की जा सकतीं।चुनाव याचिकाएँ किस अधिनियम के तहत दायर की जाती हैं?"
@@ -304,7 +304,7 @@
       "sourceUrl": "https://www.thehindu.com/news/national/tamil-nadu/election-petitions-cannot-be-filed-merely-on-the-basis-of-videos-downloaded-from-internet-madras-high-court/article71612172.ece"
     },
     {
-      "id": "ca_20261023_10",
+      "id": "ca_20261024_10",
       "question": {
         "en": "Which national medical association recently sought an impartial review of a movie promo, alleging it glorifies violence and generalises graft in the medical field?",
         "hi": "हाल ही में किस राष्ट्रीय चिकित्सा संघ ने एक फिल्म प्रोमो की निष्पक्ष समीक्षा की मांग की, जिसमें आरोप लगाया गया कि यह हिंसा का महिमामंडन करता है और चिकित्सा क्षेत्र में भ्रष्टाचार को सामान्य बनाता है?"

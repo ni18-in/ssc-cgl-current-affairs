@@ -1,0 +1,340 @@
+{
+  "date": "2026-10-24",
+  "topic": "SSC CGL Daily Current Affairs",
+  "source": "PIB / The Hindu / Economic Times / Indian Express / GKToday",
+  "lastUpdated": "2026-10-24T06:30:00+05:30",
+  "version": 1,
+  "totalQuestions": 10,
+  "quiz": [
+    {
+      "id": "ca_20261024_01",
+      "question": {
+        "en": "As per recent guidelines taking effect from Jan 1, which major change is mandated for OTT messaging apps like WhatsApp and Telegram to operate in India?",
+        "hi": "1 जनवरी से प्रभावी होने वाले हालिया दिशानिर्देशों के अनुसार, भारत में व्हाट्सएप और टेलीग्राम जैसे ओटीटी मैसेजिंग ऐप के संचालन के लिए कौन सा बड़ा बदलाव अनिवार्य है?"
+      },
+      "options": [
+        {
+          "en": "They must charge a mandatory subscription fee.",
+          "hi": "उन्हें अनिवार्य सदस्यता शुल्क लेना होगा।"
+        },
+        {
+          "en": "They won't work without a linked SIM card.",
+          "hi": "वे लिंक्ड सिम कार्ड के बिना काम नहीं करेंगे।"
+        },
+        {
+          "en": "They must store all data on physical servers in India.",
+          "hi": "उन्हें सारा डेटा भारत में भौतिक सर्वर पर संग्रहीत करना होगा।"
+        },
+        {
+          "en": "They are restricted from offering voice call services.",
+          "hi": "वे वॉयस कॉल सेवाएं देने से प्रतिबंधित हैं।"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The government has issued guidelines stating that from Jan 1, messaging apps like WhatsApp and Telegram won't work without SIM cards. This move aims to curb cross-border cyber frauds, phishing, and digital arrest scams using Indian mobile numbers.",
+        "hi": "सरकार ने दिशानिर्देश जारी कर कहा है कि 1 जनवरी से व्हाट्सएप और टेलीग्राम जैसे मैसेजिंग ऐप सिम कार्ड के बिना काम नहीं करेंगे।इस कदम का उद्देश्य भारतीय मोबाइल नंबरों का उपयोग करके सीमा पार साइबर धोखाधड़ी, फ़िशिंग और डिजिटल गिरफ्तारी घोटालों पर अंकुश लगाना है।"
+      },
+      "category": "Science & Technology",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/from-jan-1-whatsapp-telegram-wont-work-without-sim-cards-govt-issues-guidelines/articleshow/135127543.cms"
+    },
+    {
+      "id": "ca_20261024_02",
+      "question": {
+        "en": "Under proposed changes to the Motor Vehicles Rules by the Road Transport Ministry, what new system is being planned for driving licences?",
+        "hi": "सड़क परिवहन मंत्रालय द्वारा मोटर वाहन नियमों में प्रस्तावित बदलावों के तहत ड्राइविंग लाइसेंस के लिए किस नई प्रणाली की योजना बनाई जा रही है?"
+      },
+      "options": [
+        {
+          "en": "A purely digital-only driving licence system.",
+          "hi": "पूरी तरह से डिजिटल-केवल ड्राइविंग लाइसेंस प्रणाली।"
+        },
+        {
+          "en": "A mandatory driving test every two years for all drivers.",
+          "hi": "सभी ड्राइवरों के लिए हर दो साल में एक अनिवार्य ड्राइविंग टेस्ट।"
+        },
+        {
+          "en": "Colour-coded driving licences for Indians and foreigners.",
+          "hi": "भारतीयों और विदेशियों के लिए रंग-कोडित ड्राइविंग लाइसेंस।"
+        },
+        {
+          "en": "A unified international driving permit for SAARC nations.",
+          "hi": "सार्क देशों के लिए एकीकृत अंतर्राष्ट्रीय ड्राइविंग परमिट।"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The Road Transport Ministry has proposed sweeping changes to the driving licence regime, including plans to issue colour-coded driving licences to differentiate between Indian citizens and foreigners.",
+        "hi": "सड़क परिवहन मंत्रालय ने ड्राइविंग लाइसेंस व्यवस्था में व्यापक बदलाव का प्रस्ताव दिया है, जिसमें भारतीय नागरिकों और विदेशियों के बीच अंतर करने के लिए रंग-कोडित ड्राइविंग लाइसेंस जारी करने की योजना भी शामिल है।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/govt-plans-colour-coded-driving-licence-for-indians-foreigners/articleshow/135127122.cms"
+    },
+    {
+      "id": "ca_20261024_03",
+      "question": {
+        "en": "Which major constitutional body's potential removal notice was recently addressed by Lok Sabha Speaker Om Birla, stating it would be decided according to rules?",
+        "hi": "हाल ही में लोकसभा अध्यक्ष ओम बिरला ने किस प्रमुख संवैधानिक निकाय के संभावित निष्कासन नोटिस को संबोधित करते हुए कहा था कि इस पर नियमों के अनुसार निर्णय लिया जाएगा?"
+      },
+      "options": [
+        {
+          "en": "Comptroller and Auditor General (CAG)",
+          "hi": "नियंत्रक एवं महालेखा परीक्षक (CAG)"
+        },
+        {
+          "en": "Chief Election Commissioner (CEC)",
+          "hi": "मुख्य चुनाव आयुक्त (सीईसी)"
+        },
+        {
+          "en": "Chairman of Union Public Service Commission (UPSC)",
+          "hi": "संघ लोक सेवा आयोग (यूपीएससी) के अध्यक्ष"
+        },
+        {
+          "en": "Governor of the Reserve Bank of India (RBI)",
+          "hi": "भारतीय रिज़र्व बैंक (RBI) के गवर्नर"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Lok Sabha Speaker Om Birla stated that any notice regarding the removal of the Chief Election Commissioner (CEC) will be decided strictly according to rules. The CEC can only be removed through a process similar to a Supreme Court judge.",
+        "hi": "लोकसभा अध्यक्ष ओम बिरला ने कहा कि मुख्य चुनाव आयुक्त (सीईसी) को हटाने के संबंध में किसी भी नोटिस पर सख्ती से नियमों के मुताबिक फैसला किया जाएगा।सीईसी को केवल सुप्रीम कोर्ट के न्यायाधीश के समान प्रक्रिया के माध्यम से ही हटाया जा सकता है।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/will-decide-on-any-notice-to-remove-cec-according-to-rules-lok-sabha-speaker-om-birla/articleshow/135127057.cms"
+    },
+    {
+      "id": "ca_20261024_04",
+      "question": {
+        "en": "Recently, which state's electricity supply corporation was lauded for securing a Guinness record for a drone formation show during the Dasara illumination?",
+        "hi": "हाल ही में, दशहरा रोशनी के दौरान ड्रोन फॉर्मेशन शो के लिए गिनीज रिकॉर्ड हासिल करने के लिए किस राज्य के बिजली आपूर्ति निगम की सराहना की गई?"
+      },
+      "options": [
+        {
+          "en": "Maharashtra State Electricity Distribution Company Limited (MSEDCL)",
+          "hi": "महाराष्ट्र राज्य विद्युत वितरण कंपनी लिमिटेड (MSEDCL)"
+        },
+        {
+          "en": "Chamundeshwari Electricity Supply Corporation (CESC), Karnataka",
+          "hi": "चामुंडेश्वरी विद्युत आपूर्ति निगम (सीईएससी), कर्नाटक"
+        },
+        {
+          "en": "Tamil Nadu Generation and Distribution Corporation (TANGEDCO)",
+          "hi": "तमिलनाडु उत्पादन और वितरण निगम (TANGEDCO)"
+        },
+        {
+          "en": "Gujarat Urja Vikas Nigam Limited (GUVNL)",
+          "hi": "Gujarat Urja Vikas Nigam Limited (GUVNL)"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The Chamundeshwari Electricity Supply Corporation (CESC) in Karnataka was lauded for securing another Guinness record for an impressive drone formation show during the Mysuru Dasara illumination.",
+        "hi": "कर्नाटक में चामुंडेश्वरी विद्युत आपूर्ति निगम (सीईएससी) को मैसूर दशहरा रोशनी के दौरान एक प्रभावशाली ड्रोन निर्माण शो के लिए एक और गिनीज रिकॉर्ड हासिल करने के लिए सराहना की गई।"
+      },
+      "category": "Awards & Honours",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/chamundeshwari-electricity-supply-corporation-lauded-for-guinness-drone-show-impressive-mysuru-dasara-illumination/article71611367.ece"
+    },
+    {
+      "id": "ca_20261024_05",
+      "question": {
+        "en": "With which European leader did Prime Minister Narendra Modi recently hold talks and assure India's backing for all meaningful efforts toward peace in Ukraine?",
+        "hi": "प्रधानमंत्री नरेंद्र मोदी ने हाल ही में किस यूरोपीय नेता के साथ बातचीत की और यूक्रेन में शांति की दिशा में सभी सार्थक प्रयासों के लिए भारत के समर्थन का आश्वासन दिया?"
+      },
+      "options": [
+        {
+          "en": "Olaf Scholz (Germany)",
+          "hi": "ओलाफ़ स्कोल्ज़ (जर्मनी)"
+        },
+        {
+          "en": "Emmanuel Macron (France)",
+          "hi": "इमैनुएल मैक्रॉन (फ्रांस)"
+        },
+        {
+          "en": "Donald Tusk (Poland)",
+          "hi": "डोनाल्ड टस्क (पोलैंड)"
+        },
+        {
+          "en": "Giorgia Meloni (Italy)",
+          "hi": "जियोर्जिया मेलोनी (इटली)"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Prime Minister Narendra Modi recently assured Poland's Prime Minister Donald Tusk of India's backing for all meaningful efforts toward peace in Ukraine, expressing deep concern over the ongoing conflict.",
+        "hi": "प्रधानमंत्री नरेंद्र मोदी ने हाल ही में यूक्रेन में चल रहे संघर्ष पर गहरी चिंता व्यक्त करते हुए पोलैंड के प्रधानमंत्री डोनाल्ड टस्क को यूक्रेन में शांति की दिशा में सभी सार्थक प्रयासों के लिए भारत के समर्थन का आश्वासन दिया।"
+      },
+      "category": "International Summits",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/will-back-all-meaningful-efforts-for-ukraine-peace-pm-modi-assures-polands-tusk/articleshow/135127542.cms"
+    },
+    {
+      "id": "ca_20261024_06",
+      "question": {
+        "en": "What is the title of Sonia Gandhi's upcoming autobiography, whose first look was recently shared?",
+        "hi": "सोनिया गांधी की आगामी आत्मकथा का शीर्षक क्या है, जिसका पहला लुक हाल ही में साझा किया गया था?"
+      },
+      "options": [
+        {
+          "en": "My Truth: An Autobiography",
+          "hi": "मेरा सच: एक आत्मकथा"
+        },
+        {
+          "en": "Belonging: A journey of love",
+          "hi": "अपनापन: प्यार की एक यात्रा"
+        },
+        {
+          "en": "The Red Sari",
+          "hi": "लाल साड़ी"
+        },
+        {
+          "en": "Courage and Conviction",
+          "hi": "साहस और दृढ़ विश्वास"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Sonia Gandhi shared the first look of her upcoming autobiography titled 'Belonging: A journey of love', which is set to be released on November 10.",
+        "hi": "सोनिया गांधी ने अपनी आगामी आत्मकथा 'बेलॉन्गिंग: ए जर्नी ऑफ लव' का पहला लुक साझा किया, जो 10 नवंबर को रिलीज होने वाली है।"
+      },
+      "category": "Books & Authors",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/sonia-gandhi-makes-instagram-debut-shares-first-look-of-her-upcoming-book/articleshow/135127125.cms"
+    },
+    {
+      "id": "ca_20261024_07",
+      "question": {
+        "en": "The Supreme Court of India recently observed that Indian courts should not blindly follow custody orders from foreign courts, highlighting what principle?",
+        "hi": "भारत के सर्वोच्च न्यायालय ने हाल ही में किस सिद्धांत पर प्रकाश डालते हुए कहा कि भारतीय अदालतों को विदेशी अदालतों के हिरासत आदेशों का आंख मूंदकर पालन नहीं करना चाहिए?"
+      },
+      "options": [
+        {
+          "en": "Comity of Nations always takes precedence over domestic laws.",
+          "hi": "राष्ट्रों के समुदाय को हमेशा घरेलू कानूनों पर प्राथमिकता दी जाती है।"
+        },
+        {
+          "en": "Welfare and best interest of the child is the paramount consideration.",
+          "hi": "बच्चे का कल्याण और सर्वोत्तम हित सर्वोपरि है।"
+        },
+        {
+          "en": "Automatic execution of foreign decrees under Civil Procedure.",
+          "hi": "सिविल प्रक्रिया के तहत विदेशी डिक्री का स्वचालित निष्पादन।"
+        },
+        {
+          "en": "Exclusive jurisdiction of the Hague Convention on Child Abduction.",
+          "hi": "बाल अपहरण पर हेग कन्वेंशन का विशेष क्षेत्राधिकार।"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The Supreme Court emphasized that Indian courts should not blindly follow foreign custody orders. The paramount consideration in such transnational disputes must always be the welfare and best interest of the child.",
+        "hi": "सुप्रीम कोर्ट ने इस बात पर जोर दिया कि भारतीय अदालतों को विदेशी हिरासत आदेशों का आंख मूंदकर पालन नहीं करना चाहिए।ऐसे अंतरराष्ट्रीय विवादों में सर्वोपरि विचार हमेशा बच्चे का कल्याण और सर्वोत्तम हित होना चाहिए।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "hard",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/dont-blindly-follow-foreign-custody-order-supreme-court/articleshow/135127041.cms"
+    },
+    {
+      "id": "ca_20261024_08",
+      "question": {
+        "en": "In a recent affidavit to the Supreme Court, the Union Government flagged concerns regarding extreme mark-ups ranging from 100% to 1000% in which healthcare sector?",
+        "hi": "सुप्रीम कोर्ट में हाल ही में दिए एक हलफनामे में, केंद्र सरकार ने किस स्वास्थ्य सेवा क्षेत्र में 100% से 1000% तक के अत्यधिक मार्क-अप के बारे में चिंता व्यक्त की?"
+      },
+      "options": [
+        {
+          "en": "Consultation fees of specialist doctors",
+          "hi": "विशेषज्ञ डॉक्टरों की परामर्श फीस"
+        },
+        {
+          "en": "Prices of essential generic medicines",
+          "hi": "आवश्यक जेनेरिक दवाओं की कीमतें"
+        },
+        {
+          "en": "Hospital consumables and medical supplies",
+          "hi": "अस्पताल उपभोग्य वस्तुएं और चिकित्सा आपूर्ति"
+        },
+        {
+          "en": "Premium rates for health insurance policies",
+          "hi": "स्वास्थ्य बीमा पॉलिसियों के लिए प्रीमियम दरें"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The Union government informed the Supreme Court that margins on hospital consumables can range from 100% to 1,000% or more, highlighting significant concerns over high mark-ups patients face.",
+        "hi": "केंद्र सरकार ने सुप्रीम कोर्ट को सूचित किया कि अस्पताल के उपभोग्य सामग्रियों पर मार्जिन 100% से 1,000% या उससे अधिक तक हो सकता है, जो उच्च मार्क-अप वाले रोगियों के चेहरे पर महत्वपूर्ण चिंताओं को उजागर करता है।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/centre-flags-data-gap-regulatory-hurdles-in-curbing-hospital-mark-ups/articleshow/135127123.cms"
+    },
+    {
+      "id": "ca_20261024_09",
+      "question": {
+        "en": "The Madras High Court recently ruled that election petitions cannot be filed merely on the basis of internet videos. Under which Act are election petitions filed?",
+        "hi": "मद्रास उच्च न्यायालय ने हाल ही में फैसला सुनाया कि चुनाव याचिकाएँ केवल इंटरनेट वीडियो के आधार पर दायर नहीं की जा सकतीं।चुनाव याचिकाएँ किस अधिनियम के तहत दायर की जाती हैं?"
+      },
+      "options": [
+        {
+          "en": "The Indian Penal Code, 1860",
+          "hi": "भारतीय दंड संहिता, 1860"
+        },
+        {
+          "en": "The Representation of the People Act, 1951",
+          "hi": "लोक प्रतिनिधित्व अधिनियम, 1951"
+        },
+        {
+          "en": "The Information Technology Act, 2000",
+          "hi": "सूचना प्रौद्योगिकी अधिनियम, 2000"
+        },
+        {
+          "en": "The Delimitation Act, 2002",
+          "hi": "परिसीमन अधिनियम, 2002"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The Madras High Court ruled that election petitions require independent documentary material beyond internet videos. In India, election disputes are governed by the Representation of the People Act, 1951.",
+        "hi": "मद्रास उच्च न्यायालय ने फैसला सुनाया कि चुनाव याचिकाओं के लिए इंटरनेट वीडियो से परे स्वतंत्र दस्तावेजी सामग्री की आवश्यकता होती है।भारत में, चुनावी विवाद लोक प्रतिनिधित्व अधिनियम, 1951 द्वारा शासित होते हैं।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "hard",
+      "sourceUrl": "https://www.thehindu.com/news/national/tamil-nadu/election-petitions-cannot-be-filed-merely-on-the-basis-of-videos-downloaded-from-internet-madras-high-court/article71612172.ece"
+    },
+    {
+      "id": "ca_20261024_10",
+      "question": {
+        "en": "Which national medical association recently sought an impartial review of a movie promo, alleging it glorifies violence and generalises graft in the medical field?",
+        "hi": "हाल ही में किस राष्ट्रीय चिकित्सा संघ ने एक फिल्म प्रोमो की निष्पक्ष समीक्षा की मांग की, जिसमें आरोप लगाया गया कि यह हिंसा का महिमामंडन करता है और चिकित्सा क्षेत्र में भ्रष्टाचार को सामान्य बनाता है?"
+      },
+      "options": [
+        {
+          "en": "Medical Council of India (MCI)",
+          "hi": "भारतीय चिकित्सा परिषद (एमसीआई)"
+        },
+        {
+          "en": "Indian Medical Association (IMA)",
+          "hi": "इंडियन मेडिकल एसोसिएशन (आईएमए)"
+        },
+        {
+          "en": "National Medical Commission (NMC)",
+          "hi": "राष्ट्रीय चिकित्सा आयोग (एनएमसी)"
+        },
+        {
+          "en": "Federation of Resident Doctors Association (FORDA)",
+          "hi": "फेडरेशन ऑफ रेजिडेंट डॉक्टर्स एसोसिएशन (फोर्डा)"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The Indian Medical Association (IMA) national president sought an impartial review of an upcoming film's promo, stating that it glorifies violence and unfairly generalises corruption within the medical profession.",
+        "hi": "इंडियन मेडिकल एसोसिएशन (आईएमए) के राष्ट्रीय अध्यक्ष ने आगामी फिल्म के प्रोमो की निष्पक्ष समीक्षा की मांग करते हुए कहा कि यह हिंसा का महिमामंडन करती है और चिकित्सा पेशे के भीतर भ्रष्टाचार को गलत तरीके से सामान्यीकृत करती है।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/movie-glorifies-violence-generalises-graft-in-medical-field-ima/articleshow/135127124.cms"
+    }
+  ]
+}
