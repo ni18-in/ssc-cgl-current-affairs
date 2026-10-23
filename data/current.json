@@ -1,340 +1,340 @@
 {
-  "date": "2026-10-23",
+  "date": "2026-10-24",
   "topic": "SSC CGL Daily Current Affairs",
   "source": "PIB / The Hindu / Economic Times / Indian Express / GKToday",
-  "lastUpdated": "2026-10-23T05:17:56.539330+05:30",
+  "lastUpdated": "2026-10-24T05:14:50.897676+05:30",
   "version": 1,
   "totalQuestions": 10,
   "quiz": [
     {
-      "id": "ca_20261023_01",
+      "id": "ca_20261024_01",
       "question": {
-        "en": "As per recent guidelines taking effect from Jan 1, which major change is mandated for OTT messaging apps like WhatsApp and Telegram to operate in India?",
-        "hi": "1 जनवरी से प्रभावी होने वाले हालिया दिशानिर्देशों के अनुसार, भारत में व्हाट्सएप और टेलीग्राम जैसे ओटीटी मैसेजिंग ऐप के संचालन के लिए कौन सा बड़ा बदलाव अनिवार्य है?"
+        "en": "According to the RBI Governor, which entities must mandatorily list on the stock exchanges, affecting groups like Tata Sons?",
+        "hi": "आरबीआई गवर्नर के अनुसार, किन संस्थाओं को स्टॉक एक्सचेंजों में अनिवार्य रूप से सूचीबद्ध होना चाहिए, जो टाटा संस जैसे समूहों को प्रभावित करता है?"
       },
       "options": [
         {
-          "en": "They must charge a mandatory subscription fee.",
-          "hi": "उन्हें अनिवार्य सदस्यता शुल्क लेना होगा।"
+          "en": "Base Layer NBFCs",
+          "hi": "बेस लेयर एनबीएफसी"
         },
         {
-          "en": "They won't work without a linked SIM card.",
-          "hi": "वे लिंक्ड सिम कार्ड के बिना काम नहीं करेंगे।"
+          "en": "Upper layer NBFCs",
+          "hi": "अपर लेयर एनबीएफसी"
         },
         {
-          "en": "They must store all data on physical servers in India.",
-          "hi": "उन्हें सारा डेटा भारत में भौतिक सर्वर पर संग्रहीत करना होगा।"
+          "en": "Middle Layer NBFCs",
+          "hi": "मिडिल लेयर एनबीएफसी"
         },
         {
-          "en": "They are restricted from offering voice call services.",
-          "hi": "वे वॉयस कॉल सेवाएं देने से प्रतिबंधित हैं।"
+          "en": "Top Layer NBFCs",
+          "hi": "टॉप लेयर एनबीएफसी"
         }
       ],
       "correctAnswer": 1,
       "explanation": {
-        "en": "The government has issued guidelines stating that from Jan 1, messaging apps like WhatsApp and Telegram won't work without SIM cards. This move aims to curb cross-border cyber frauds, phishing, and digital arrest scams using Indian mobile numbers.",
-        "hi": "सरकार ने दिशानिर्देश जारी कर कहा है कि 1 जनवरी से व्हाट्सएप और टेलीग्राम जैसे मैसेजिंग ऐप सिम कार्ड के बिना काम नहीं करेंगे।इस कदम का उद्देश्य भारतीय मोबाइल नंबरों का उपयोग करके सीमा पार साइबर धोखाधड़ी, फ़िशिंग और डिजिटल गिरफ्तारी घोटालों पर अंकुश लगाना है।"
-      },
-      "category": "Science & Technology",
-      "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/from-jan-1-whatsapp-telegram-wont-work-without-sim-cards-govt-issues-guidelines/articleshow/135127543.cms"
-    },
-    {
-      "id": "ca_20261023_02",
-      "question": {
-        "en": "Under proposed changes to the Motor Vehicles Rules by the Road Transport Ministry, what new system is being planned for driving licences?",
-        "hi": "सड़क परिवहन मंत्रालय द्वारा मोटर वाहन नियमों में प्रस्तावित बदलावों के तहत ड्राइविंग लाइसेंस के लिए किस नई प्रणाली की योजना बनाई जा रही है?"
-      },
-      "options": [
-        {
-          "en": "A purely digital-only driving licence system.",
-          "hi": "पूरी तरह से डिजिटल-केवल ड्राइविंग लाइसेंस प्रणाली।"
-        },
-        {
-          "en": "A mandatory driving test every two years for all drivers.",
-          "hi": "सभी ड्राइवरों के लिए हर दो साल में एक अनिवार्य ड्राइविंग टेस्ट।"
-        },
-        {
-          "en": "Colour-coded driving licences for Indians and foreigners.",
-          "hi": "भारतीयों और विदेशियों के लिए रंग-कोडित ड्राइविंग लाइसेंस।"
-        },
-        {
-          "en": "A unified international driving permit for SAARC nations.",
-          "hi": "सार्क देशों के लिए एकीकृत अंतर्राष्ट्रीय ड्राइविंग परमिट।"
-        }
-      ],
-      "correctAnswer": 2,
-      "explanation": {
-        "en": "The Road Transport Ministry has proposed sweeping changes to the driving licence regime, including plans to issue colour-coded driving licences to differentiate between Indian citizens and foreigners.",
-        "hi": "सड़क परिवहन मंत्रालय ने ड्राइविंग लाइसेंस व्यवस्था में व्यापक बदलाव का प्रस्ताव दिया है, जिसमें भारतीय नागरिकों और विदेशियों के बीच अंतर करने के लिए रंग-कोडित ड्राइविंग लाइसेंस जारी करने की योजना भी शामिल है।"
-      },
-      "category": "Polity & Governance",
-      "difficulty": "easy",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/govt-plans-colour-coded-driving-licence-for-indians-foreigners/articleshow/135127122.cms"
-    },
-    {
-      "id": "ca_20261023_03",
-      "question": {
-        "en": "Which major constitutional body's potential removal notice was recently addressed by Lok Sabha Speaker Om Birla, stating it would be decided according to rules?",
-        "hi": "हाल ही में लोकसभा अध्यक्ष ओम बिरला ने किस प्रमुख संवैधानिक निकाय के संभावित निष्कासन नोटिस को संबोधित करते हुए कहा था कि इस पर नियमों के अनुसार निर्णय लिया जाएगा?"
-      },
-      "options": [
-        {
-          "en": "Comptroller and Auditor General (CAG)",
-          "hi": "नियंत्रक एवं महालेखा परीक्षक (CAG)"
-        },
-        {
-          "en": "Chief Election Commissioner (CEC)",
-          "hi": "मुख्य चुनाव आयुक्त (सीईसी)"
-        },
-        {
-          "en": "Chairman of Union Public Service Commission (UPSC)",
-          "hi": "संघ लोक सेवा आयोग (यूपीएससी) के अध्यक्ष"
-        },
-        {
-          "en": "Governor of the Reserve Bank of India (RBI)",
-          "hi": "भारतीय रिज़र्व बैंक (RBI) के गवर्नर"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "Lok Sabha Speaker Om Birla stated that any notice regarding the removal of the Chief Election Commissioner (CEC) will be decided strictly according to rules. The CEC can only be removed through a process similar to a Supreme Court judge.",
-        "hi": "लोकसभा अध्यक्ष ओम बिरला ने कहा कि मुख्य चुनाव आयुक्त (सीईसी) को हटाने के संबंध में किसी भी नोटिस पर सख्ती से नियमों के मुताबिक फैसला किया जाएगा।सीईसी को केवल सुप्रीम कोर्ट के न्यायाधीश के समान प्रक्रिया के माध्यम से ही हटाया जा सकता है।"
-      },
-      "category": "Polity & Governance",
-      "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/will-decide-on-any-notice-to-remove-cec-according-to-rules-lok-sabha-speaker-om-birla/articleshow/135127057.cms"
-    },
-    {
-      "id": "ca_20261023_04",
-      "question": {
-        "en": "Recently, which state's electricity supply corporation was lauded for securing a Guinness record for a drone formation show during the Dasara illumination?",
-        "hi": "हाल ही में, दशहरा रोशनी के दौरान ड्रोन फॉर्मेशन शो के लिए गिनीज रिकॉर्ड हासिल करने के लिए किस राज्य के बिजली आपूर्ति निगम की सराहना की गई?"
-      },
-      "options": [
-        {
-          "en": "Maharashtra State Electricity Distribution Company Limited (MSEDCL)",
-          "hi": "महाराष्ट्र राज्य विद्युत वितरण कंपनी लिमिटेड (MSEDCL)"
-        },
-        {
-          "en": "Chamundeshwari Electricity Supply Corporation (CESC), Karnataka",
-          "hi": "चामुंडेश्वरी विद्युत आपूर्ति निगम (सीईएससी), कर्नाटक"
-        },
-        {
-          "en": "Tamil Nadu Generation and Distribution Corporation (TANGEDCO)",
-          "hi": "तमिलनाडु उत्पादन और वितरण निगम (TANGEDCO)"
-        },
-        {
-          "en": "Gujarat Urja Vikas Nigam Limited (GUVNL)",
-          "hi": "Gujarat Urja Vikas Nigam Limited (GUVNL)"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "The Chamundeshwari Electricity Supply Corporation (CESC) in Karnataka was lauded for securing another Guinness record for an impressive drone formation show during the Mysuru Dasara illumination.",
-        "hi": "कर्नाटक में चामुंडेश्वरी विद्युत आपूर्ति निगम (सीईएससी) को मैसूर दशहरा रोशनी के दौरान एक प्रभावशाली ड्रोन निर्माण शो के लिए एक और गिनीज रिकॉर्ड हासिल करने के लिए सराहना की गई।"
-      },
-      "category": "Awards & Honours",
-      "difficulty": "easy",
-      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/chamundeshwari-electricity-supply-corporation-lauded-for-guinness-drone-show-impressive-mysuru-dasara-illumination/article71611367.ece"
-    },
-    {
-      "id": "ca_20261023_05",
-      "question": {
-        "en": "With which European leader did Prime Minister Narendra Modi recently hold talks and assure India's backing for all meaningful efforts toward peace in Ukraine?",
-        "hi": "प्रधानमंत्री नरेंद्र मोदी ने हाल ही में किस यूरोपीय नेता के साथ बातचीत की और यूक्रेन में शांति की दिशा में सभी सार्थक प्रयासों के लिए भारत के समर्थन का आश्वासन दिया?"
-      },
-      "options": [
-        {
-          "en": "Olaf Scholz (Germany)",
-          "hi": "ओलाफ़ स्कोल्ज़ (जर्मनी)"
-        },
-        {
-          "en": "Emmanuel Macron (France)",
-          "hi": "इमैनुएल मैक्रॉन (फ्रांस)"
-        },
-        {
-          "en": "Donald Tusk (Poland)",
-          "hi": "डोनाल्ड टस्क (पोलैंड)"
-        },
-        {
-          "en": "Giorgia Meloni (Italy)",
-          "hi": "जियोर्जिया मेलोनी (इटली)"
-        }
-      ],
-      "correctAnswer": 2,
-      "explanation": {
-        "en": "Prime Minister Narendra Modi recently assured Poland's Prime Minister Donald Tusk of India's backing for all meaningful efforts toward peace in Ukraine, expressing deep concern over the ongoing conflict.",
-        "hi": "प्रधानमंत्री नरेंद्र मोदी ने हाल ही में यूक्रेन में चल रहे संघर्ष पर गहरी चिंता व्यक्त करते हुए पोलैंड के प्रधानमंत्री डोनाल्ड टस्क को यूक्रेन में शांति की दिशा में सभी सार्थक प्रयासों के लिए भारत के समर्थन का आश्वासन दिया।"
-      },
-      "category": "International Summits",
-      "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/will-back-all-meaningful-efforts-for-ukraine-peace-pm-modi-assures-polands-tusk/articleshow/135127542.cms"
-    },
-    {
-      "id": "ca_20261023_06",
-      "question": {
-        "en": "What is the title of Sonia Gandhi's upcoming autobiography, whose first look was recently shared?",
-        "hi": "सोनिया गांधी की आगामी आत्मकथा का शीर्षक क्या है, जिसका पहला लुक हाल ही में साझा किया गया था?"
-      },
-      "options": [
-        {
-          "en": "My Truth: An Autobiography",
-          "hi": "मेरा सच: एक आत्मकथा"
-        },
-        {
-          "en": "Belonging: A journey of love",
-          "hi": "अपनापन: प्यार की एक यात्रा"
-        },
-        {
-          "en": "The Red Sari",
-          "hi": "लाल साड़ी"
-        },
-        {
-          "en": "Courage and Conviction",
-          "hi": "साहस और दृढ़ विश्वास"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "Sonia Gandhi shared the first look of her upcoming autobiography titled 'Belonging: A journey of love', which is set to be released on November 10.",
-        "hi": "सोनिया गांधी ने अपनी आगामी आत्मकथा 'बेलॉन्गिंग: ए जर्नी ऑफ लव' का पहला लुक साझा किया, जो 10 नवंबर को रिलीज होने वाली है।"
-      },
-      "category": "Books & Authors",
-      "difficulty": "easy",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/sonia-gandhi-makes-instagram-debut-shares-first-look-of-her-upcoming-book/articleshow/135127125.cms"
-    },
-    {
-      "id": "ca_20261023_07",
-      "question": {
-        "en": "The Supreme Court of India recently observed that Indian courts should not blindly follow custody orders from foreign courts, highlighting what principle?",
-        "hi": "भारत के सर्वोच्च न्यायालय ने हाल ही में किस सिद्धांत पर प्रकाश डालते हुए कहा कि भारतीय अदालतों को विदेशी अदालतों के हिरासत आदेशों का आंख मूंदकर पालन नहीं करना चाहिए?"
-      },
-      "options": [
-        {
-          "en": "Comity of Nations always takes precedence over domestic laws.",
-          "hi": "राष्ट्रों के समुदाय को हमेशा घरेलू कानूनों पर प्राथमिकता दी जाती है।"
-        },
-        {
-          "en": "Welfare and best interest of the child is the paramount consideration.",
-          "hi": "बच्चे का कल्याण और सर्वोत्तम हित सर्वोपरि है।"
-        },
-        {
-          "en": "Automatic execution of foreign decrees under Civil Procedure.",
-          "hi": "सिविल प्रक्रिया के तहत विदेशी डिक्री का स्वचालित निष्पादन।"
-        },
-        {
-          "en": "Exclusive jurisdiction of the Hague Convention on Child Abduction.",
-          "hi": "बाल अपहरण पर हेग कन्वेंशन का विशेष क्षेत्राधिकार।"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "The Supreme Court emphasized that Indian courts should not blindly follow foreign custody orders. The paramount consideration in such transnational disputes must always be the welfare and best interest of the child.",
-        "hi": "सुप्रीम कोर्ट ने इस बात पर जोर दिया कि भारतीय अदालतों को विदेशी हिरासत आदेशों का आंख मूंदकर पालन नहीं करना चाहिए।ऐसे अंतरराष्ट्रीय विवादों में सर्वोपरि विचार हमेशा बच्चे का कल्याण और सर्वोत्तम हित होना चाहिए।"
-      },
-      "category": "Polity & Governance",
-      "difficulty": "hard",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/dont-blindly-follow-foreign-custody-order-supreme-court/articleshow/135127041.cms"
-    },
-    {
-      "id": "ca_20261023_08",
-      "question": {
-        "en": "In a recent affidavit to the Supreme Court, the Union Government flagged concerns regarding extreme mark-ups ranging from 100% to 1000% in which healthcare sector?",
-        "hi": "सुप्रीम कोर्ट में हाल ही में दिए एक हलफनामे में, केंद्र सरकार ने किस स्वास्थ्य सेवा क्षेत्र में 100% से 1000% तक के अत्यधिक मार्क-अप के बारे में चिंता व्यक्त की?"
-      },
-      "options": [
-        {
-          "en": "Consultation fees of specialist doctors",
-          "hi": "विशेषज्ञ डॉक्टरों की परामर्श फीस"
-        },
-        {
-          "en": "Prices of essential generic medicines",
-          "hi": "आवश्यक जेनेरिक दवाओं की कीमतें"
-        },
-        {
-          "en": "Hospital consumables and medical supplies",
-          "hi": "अस्पताल उपभोग्य वस्तुएं और चिकित्सा आपूर्ति"
-        },
-        {
-          "en": "Premium rates for health insurance policies",
-          "hi": "स्वास्थ्य बीमा पॉलिसियों के लिए प्रीमियम दरें"
-        }
-      ],
-      "correctAnswer": 2,
-      "explanation": {
-        "en": "The Union government informed the Supreme Court that margins on hospital consumables can range from 100% to 1,000% or more, highlighting significant concerns over high mark-ups patients face.",
-        "hi": "केंद्र सरकार ने सुप्रीम कोर्ट को सूचित किया कि अस्पताल के उपभोग्य सामग्रियों पर मार्जिन 100% से 1,000% या उससे अधिक तक हो सकता है, जो उच्च मार्क-अप वाले रोगियों के चेहरे पर महत्वपूर्ण चिंताओं को उजागर करता है।"
+        "en": "RBI Governor Sanjay Malhotra dispelled doubts over the September order, stating that upper layer NBFCs, including Tata Sons, must list on stock exchanges to comply with RBI rules.",
+        "hi": "आरबीआई गवर्नर संजय मल्होत्रा ने सितंबर के आदेश पर संदेह दूर करते हुए कहा कि टाटा संस सहित अपर लेयर एनबीएफसी को आरबीआई नियमों का पालन करने के लिए स्टॉक एक्सचेंजों में सूचीबद्ध होना होगा।"
       },
       "category": "Economy & Banking",
       "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/centre-flags-data-gap-regulatory-hurdles-in-curbing-hospital-mark-ups/articleshow/135127123.cms"
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/upper-layer-nbfcs-have-to-list-rbi-governor-on-tatas-dispels-doubts-on-sept-order/articleshow/135155571.cms"
     },
     {
-      "id": "ca_20261023_09",
+      "id": "ca_20261024_02",
       "question": {
-        "en": "The Madras High Court recently ruled that election petitions cannot be filed merely on the basis of internet videos. Under which Act are election petitions filed?",
-        "hi": "मद्रास उच्च न्यायालय ने हाल ही में फैसला सुनाया कि चुनाव याचिकाएँ केवल इंटरनेट वीडियो के आधार पर दायर नहीं की जा सकतीं।चुनाव याचिकाएँ किस अधिनियम के तहत दायर की जाती हैं?"
+        "en": "Which major IPO recently collected a record Rs 7.5 lakh crore with nearly 1.3 crore investors making bids?",
+        "hi": "हाल ही में किस प्रमुख आईपीओ ने 1.3 करोड़ निवेशकों की बोलियों के साथ 7.5 लाख करोड़ रुपये का रिकॉर्ड संग्रह किया है?"
       },
       "options": [
         {
-          "en": "The Indian Penal Code, 1860",
-          "hi": "भारतीय दंड संहिता, 1860"
+          "en": "LIC IPO",
+          "hi": "एलआईसी आईपीओ"
         },
         {
-          "en": "The Representation of the People Act, 1951",
-          "hi": "लोक प्रतिनिधित्व अधिनियम, 1951"
+          "en": "Paytm IPO",
+          "hi": "पेटीएम आईपीओ"
         },
         {
-          "en": "The Information Technology Act, 2000",
-          "hi": "सूचना प्रौद्योगिकी अधिनियम, 2000"
+          "en": "Jio IPO",
+          "hi": "जियो आईपीओ"
         },
         {
-          "en": "The Delimitation Act, 2002",
-          "hi": "परिसीमन अधिनियम, 2002"
+          "en": "Tata Technologies IPO",
+          "hi": "टाटा टेक्नोलॉजीज आईपीओ"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The Jio IPO collected a record Rs 7.5 lakh crore, drawing bids from nearly 1.3 crore investors, with a price band of Rs 1,065 to Rs 1,119.",
+        "hi": "जियो आईपीओ ने 7.5 लाख करोड़ रुपये का रिकॉर्ड संग्रह किया है, जिसमें लगभग 1.3 करोड़ निवेशकों ने बोलियां लगाई हैं। इसका प्राइस बैंड 1,065 से 1,119 रुपये था।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/record-haul-jio-ipo-collects-rs-7-5-lakh-crore-nearly-1-3-crore-investors-make-bids/articleshow/135155570.cms"
+    },
+    {
+      "id": "ca_20261024_03",
+      "question": {
+        "en": "Which glacier, often referred to as the 'Doomsday Glacier' due to its potential impact on sea-level rise, is melting faster than feared?",
+        "hi": "समुद्र के स्तर में वृद्धि पर इसके संभावित प्रभाव के कारण किस ग्लेशियर, जिसे अक्सर 'डूम्सडे ग्लेशियर' कहा जाता है, के पिघलने की गति आशंका से अधिक है?"
+      },
+      "options": [
+        {
+          "en": "Pine Island Glacier",
+          "hi": "पाइन आइलैंड ग्लेशियर"
+        },
+        {
+          "en": "Thwaites Glacier",
+          "hi": "थवाइट्स ग्लेशियर"
+        },
+        {
+          "en": "Jakobshavn Glacier",
+          "hi": "जैकबशवैन ग्लेशियर"
+        },
+        {
+          "en": "Helheim Glacier",
+          "hi": "हेलहेम ग्लेशियर"
         }
       ],
       "correctAnswer": 1,
       "explanation": {
-        "en": "The Madras High Court ruled that election petitions require independent documentary material beyond internet videos. In India, election disputes are governed by the Representation of the People Act, 1951.",
-        "hi": "मद्रास उच्च न्यायालय ने फैसला सुनाया कि चुनाव याचिकाओं के लिए इंटरनेट वीडियो से परे स्वतंत्र दस्तावेजी सामग्री की आवश्यकता होती है।भारत में, चुनावी विवाद लोक प्रतिनिधित्व अधिनियम, 1951 द्वारा शासित होते हैं।"
+        "en": "Recent findings show that the Britain-sized Thwaites Glacier is melting at an alarming rate as warm ocean waters intrude beneath its icy surface.",
+        "hi": "हालिया निष्कर्षों से पता चलता है कि ब्रिटेन के आकार का थवाइट्स ग्लेशियर खतरनाक दर से पिघल रहा है क्योंकि इसके बर्फीले सतह के नीचे गर्म समुद्र का पानी प्रवेश कर रहा है।"
       },
-      "category": "Polity & Governance",
-      "difficulty": "hard",
-      "sourceUrl": "https://www.thehindu.com/news/national/tamil-nadu/election-petitions-cannot-be-filed-merely-on-the-basis-of-videos-downloaded-from-internet-madras-high-court/article71612172.ece"
-    },
-    {
-      "id": "ca_20261023_10",
-      "question": {
-        "en": "Which national medical association recently sought an impartial review of a movie promo, alleging it glorifies violence and generalises graft in the medical field?",
-        "hi": "हाल ही में किस राष्ट्रीय चिकित्सा संघ ने एक फिल्म प्रोमो की निष्पक्ष समीक्षा की मांग की, जिसमें आरोप लगाया गया कि यह हिंसा का महिमामंडन करता है और चिकित्सा क्षेत्र में भ्रष्टाचार को सामान्य बनाता है?"
-      },
-      "options": [
-        {
-          "en": "Medical Council of India (MCI)",
-          "hi": "भारतीय चिकित्सा परिषद (एमसीआई)"
-        },
-        {
-          "en": "Indian Medical Association (IMA)",
-          "hi": "इंडियन मेडिकल एसोसिएशन (आईएमए)"
-        },
-        {
-          "en": "National Medical Commission (NMC)",
-          "hi": "राष्ट्रीय चिकित्सा आयोग (एनएमसी)"
-        },
-        {
-          "en": "Federation of Resident Doctors Association (FORDA)",
-          "hi": "फेडरेशन ऑफ रेजिडेंट डॉक्टर्स एसोसिएशन (फोर्डा)"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "The Indian Medical Association (IMA) national president sought an impartial review of an upcoming film's promo, stating that it glorifies violence and unfairly generalises corruption within the medical profession.",
-        "hi": "इंडियन मेडिकल एसोसिएशन (आईएमए) के राष्ट्रीय अध्यक्ष ने आगामी फिल्म के प्रोमो की निष्पक्ष समीक्षा की मांग करते हुए कहा कि यह हिंसा का महिमामंडन करती है और चिकित्सा पेशे के भीतर भ्रष्टाचार को गलत तरीके से सामान्यीकृत करती है।"
-      },
-      "category": "Polity & Governance",
+      "category": "Science & Technology",
       "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/movie-glorifies-violence-generalises-graft-in-medical-field-ima/articleshow/135127124.cms"
+      "sourceUrl": "https://timesofindia.indiatimes.com/science/britain-sized-doomsday-glacier-is-melting-faster-than-feared/articleshow/134984803.cms"
+    },
+    {
+      "id": "ca_20261024_04",
+      "question": {
+        "en": "According to researchers, which climate phenomenon could push already vulnerable coral reefs closer to extinction?",
+        "hi": "शोधकर्ताओं के अनुसार, कौन सी जलवायु घटना पहले से ही कमजोर प्रवाल भित्तियों को विलुप्ति के करीब धकेल सकती है?"
+      },
+      "options": [
+        {
+          "en": "La Niña",
+          "hi": "ला नीना"
+        },
+        {
+          "en": "Super El Niño",
+          "hi": "सुपर अल नीनो"
+        },
+        {
+          "en": "Indian Ocean Dipole",
+          "hi": "इंडियन ओशन डाइपोल"
+        },
+        {
+          "en": "Madden-Julian Oscillation",
+          "hi": "मैडेन-जूलियन ऑसिलेशन"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Researchers warn that the ongoing super El Niño, causing record coral bleaching events, could further endanger already vulnerable coral species, pushing them towards extinction.",
+        "hi": "शोधकर्ताओं ने चेतावनी दी है कि मौजूदा सुपर अल नीनो, जो रिकॉर्ड प्रवाल विरंजन की घटनाओं का कारण बन रहा है, पहले से ही कमजोर प्रवाल प्रजातियों को विलुप्ति की ओर धकेल सकता है।"
+      },
+      "category": "Environment & Ecology",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/home/environment/collapse-could-be-precipitous-super-el-nio-could-push-coral-reefs-closer-to-extinction-un-biodiversity-expert-warns/articleshow/134973795.cms"
+    },
+    {
+      "id": "ca_20261024_05",
+      "question": {
+        "en": "The Centre has instructed which states to go into ‘mission mode’ to curb the rise in farm fires (stubble burning)?",
+        "hi": "केंद्र ने किन राज्यों को खेत में आग (पराली जलाने) की घटनाओं में वृद्धि को रोकने के लिए ‘मिशन मोड’ में जाने का निर्देश दिया है?"
+      },
+      "options": [
+        {
+          "en": "Punjab, Haryana, Uttar Pradesh",
+          "hi": "पंजाब, हरियाणा, उत्तर प्रदेश"
+        },
+        {
+          "en": "Madhya Pradesh, Rajasthan, Punjab, Haryana, Delhi-NCR",
+          "hi": "मध्य प्रदेश, राजस्थान, पंजाब, हरियाणा, दिल्ली-एनसीआर"
+        },
+        {
+          "en": "Maharashtra, Gujarat, Punjab",
+          "hi": "महाराष्ट्र, गुजरात, पंजाब"
+        },
+        {
+          "en": "Bihar, West Bengal, Odisha",
+          "hi": "बिहार, पश्चिम बंगाल, ओडिशा"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The Centre instructed Madhya Pradesh, Rajasthan, Punjab, Haryana, and Delhi-NCR to implement action plans urgently to prevent crop residue burning as farm fires rise significantly.",
+        "hi": "खेतों में आग लगने की घटनाओं में वृद्धि के कारण केंद्र ने मध्य प्रदेश, राजस्थान, पंजाब, हरियाणा और दिल्ली-एनसीआर को पराली जलाने से रोकने के लिए तत्काल कार्य योजना लागू करने का निर्देश दिया है।"
+      },
+      "category": "Environment & Ecology",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/centre-asks-states-to-go-into-mission-mode-to-curb-stubble-burning-as-farm-fires-rise-in-mp-rajasthan/articleshow/134921556.cms"
+    },
+    {
+      "id": "ca_20261024_06",
+      "question": {
+        "en": "How many total medals did India win at the Asian Para Games, setting a new record?",
+        "hi": "एशियाई पैरा खेलों में भारत ने कुल कितने पदक जीतकर एक नया रिकॉर्ड बनाया है?"
+      },
+      "options": [
+        {
+          "en": "105",
+          "hi": "105"
+        },
+        {
+          "en": "111",
+          "hi": "111"
+        },
+        {
+          "en": "114",
+          "hi": "114"
+        },
+        {
+          "en": "120",
+          "hi": "120"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "India finished its campaign at the Asian Para Games with a historic, best-ever haul of 114 medals, which included 30 gold medals.",
+        "hi": "भारत ने एशियाई पैरा खेलों में 114 पदकों के ऐतिहासिक और अब तक के सर्वश्रेष्ठ प्रदर्शन के साथ अपने अभियान का समापन किया, जिसमें 30 स्वर्ण पदक शामिल थे।"
+      },
+      "category": "Sports",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-para-games-2026/india-script-history-with-best-ever-haul-of-114-medals-as-nine-golds-cap-golden-day-at-asian-para-games/articleshow/135147430.cms"
+    },
+    {
+      "id": "ca_20261024_07",
+      "question": {
+        "en": "Who scored an unbeaten 100 to power India to a nine-wicket win over Zimbabwe in their recent ODI series?",
+        "hi": "जिम्बाब्वे के खिलाफ हालिया वनडे सीरीज में भारत को नौ विकेट से जीत दिलाने के लिए किसने नाबाद 100 रन बनाए?"
+      },
+      "options": [
+        {
+          "en": "Smriti Mandhana",
+          "hi": "स्मृति मंधाना"
+        },
+        {
+          "en": "Harmanpreet Kaur",
+          "hi": "हरमनप्रीत कौर"
+        },
+        {
+          "en": "Pratika Rawal",
+          "hi": "प्रतिका रावल"
+        },
+        {
+          "en": "Shafali Verma",
+          "hi": "शेफाली वर्मा"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Pratika Rawal scored an unbeaten 100 as India chased down Zimbabwe's 197 to secure a nine-wicket victory and take a 1-0 lead in the series.",
+        "hi": "प्रतिका रावल ने नाबाद 100 रन बनाए जिससे भारत ने जिम्बाब्वे के 197 रनों का पीछा करते हुए नौ विकेट से जीत दर्ज की और श्रृंखला में 1-0 की बढ़त बना ली।"
+      },
+      "category": "Sports",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/pratika-rawals-century-shree-charanis-four-for-power-india-to-nine-wicket-win-over-zimbabwe-in-first-wodi/articleshow/135149335.cms"
+    },
+    {
+      "id": "ca_20261024_08",
+      "question": {
+        "en": "With which country did India reset its diplomatic ties following 'Operation Sindoor' friction, during EAM S Jaishankar's visit?",
+        "hi": "विदेश मंत्री एस जयशंकर की यात्रा के दौरान 'ऑपरेशन सिंदूर' के विवाद के बाद भारत ने किस देश के साथ अपने राजनयिक संबंधों को फिर से स्थापित किया?"
+      },
+      "options": [
+        {
+          "en": "Armenia",
+          "hi": "आर्मेनिया"
+        },
+        {
+          "en": "Azerbaijan",
+          "hi": "अज़रबैजान"
+        },
+        {
+          "en": "Turkey",
+          "hi": "तुर्की"
+        },
+        {
+          "en": "Pakistan",
+          "hi": "पाकिस्तान"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "India and Azerbaijan reset their ties during EAM Jaishankar's visit to Baku. The relations had been strained due to geopolitical reasons, including Azerbaijan's support for Pakistan after Operation Sindoor.",
+        "hi": "विदेश मंत्री जयशंकर की बाकू यात्रा के दौरान भारत और अज़रबैजान ने अपने संबंधों को फिर से स्थापित किया। ऑपरेशन सिंदूर के बाद पाकिस्तान के लिए अज़रबैजान के समर्थन सहित भू-राजनीतिक कारणों से संबंध तनावपूर्ण हो गए थे।"
+      },
+      "category": "International Summits",
+      "difficulty": "hard",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/after-operation-sindoor-friction-delhi-baku-reset-ties-with-eam-jaishankars-visit/articleshow/135155334.cms"
+    },
+    {
+      "id": "ca_20261024_09",
+      "question": {
+        "en": "Which country is actively targeted by the Indian government to rescue its citizens who have been forced into cybercrime operations?",
+        "hi": "भारत सरकार उन नागरिकों को बचाने के लिए सक्रिय रूप से किस देश को लक्षित कर रही है जिन्हें साइबर अपराध कार्यों में मजबूर किया गया है?"
+      },
+      "options": [
+        {
+          "en": "Thailand",
+          "hi": "थाईलैंड"
+        },
+        {
+          "en": "Myanmar",
+          "hi": "म्यांमार"
+        },
+        {
+          "en": "Cambodia",
+          "hi": "कंबोडिया"
+        },
+        {
+          "en": "Vietnam",
+          "hi": "वियतनाम"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The Indian government is rescuing citizens who have been forced into cyber fraud and cybercrime activities in Cambodia.",
+        "hi": "भारत सरकार उन नागरिकों को बचा रही है जिन्हें कंबोडिया में साइबर धोखाधड़ी और साइबर अपराध गतिविधियों में शामिल होने के लिए मजबूर किया गया है।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/government-rescuing-citizens-forced-into-cybercrime-in-this-country-heres-how/articleshow/108921324.cms"
+    },
+    {
+      "id": "ca_20261024_10",
+      "question": {
+        "en": "Why is Apple seeking new suppliers and reworking its iPhone manufacturing strategy in India?",
+        "hi": "Apple भारत में नए आपूर्तिकर्ताओं की तलाश और अपनी iPhone निर्माण रणनीति में बदलाव क्यों कर रहा है?"
+      },
+      "options": [
+        {
+          "en": "Due to a lack of skilled labor in India",
+          "hi": "भारत में कुशल श्रम की कमी के कारण"
+        },
+        {
+          "en": "Because of delayed government clearances for imports from existing Chinese suppliers over 'national security' concerns",
+          "hi": "'राष्ट्रीय सुरक्षा' चिंताओं पर मौजूदा चीनी आपूर्तिकर्ताओं से आयात के लिए सरकारी मंजूरी में देरी के कारण"
+        },
+        {
+          "en": "To strictly manufacture low-cost models",
+          "hi": "सख्ती से कम लागत वाले मॉडल के निर्माण के लिए"
+        },
+        {
+          "en": "Due to a shortage of raw materials globally",
+          "hi": "विश्व स्तर पर कच्चे माल की कमी के कारण"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Apple is reworking its supply chain to include Indian, Japanese, and South Korean makers because of delayed Indian government clearances for Chinese suppliers based on national security concerns.",
+        "hi": "Apple राष्ट्रीय सुरक्षा चिंताओं के आधार पर चीनी आपूर्तिकर्ताओं के लिए भारत सरकार की मंजूरी में देरी के कारण भारतीय, जापानी और दक्षिण कोरियाई निर्माताओं को शामिल करने के लिए अपनी आपूर्ति श्रृंखला में बदलाव कर रहा है।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "hard",
+      "sourceUrl": "https://timesofindia.indiatimes.com/gadgets-news/how-indias-national-security-concerns-has-made-apple-rework-its-strategy-for-iphones-made-in-india/articleshow/105785529.cms"
     }
   ]
 }
