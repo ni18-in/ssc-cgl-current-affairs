@@ -1,0 +1,340 @@
+{
+  "date": "2026-10-24",
+  "topic": "SSC CGL Daily Current Affairs",
+  "source": "PIB / The Hindu / Economic Times / Indian Express / GKToday",
+  "lastUpdated": "2026-10-24T05:14:50.897676+05:30",
+  "version": 1,
+  "totalQuestions": 10,
+  "quiz": [
+    {
+      "id": "ca_20261024_01",
+      "question": {
+        "en": "According to the RBI Governor, which entities must mandatorily list on the stock exchanges, affecting groups like Tata Sons?",
+        "hi": "आरबीआई गवर्नर के अनुसार, किन संस्थाओं को स्टॉक एक्सचेंजों में अनिवार्य रूप से सूचीबद्ध होना चाहिए, जो टाटा संस जैसे समूहों को प्रभावित करता है?"
+      },
+      "options": [
+        {
+          "en": "Base Layer NBFCs",
+          "hi": "बेस लेयर एनबीएफसी"
+        },
+        {
+          "en": "Upper layer NBFCs",
+          "hi": "अपर लेयर एनबीएफसी"
+        },
+        {
+          "en": "Middle Layer NBFCs",
+          "hi": "मिडिल लेयर एनबीएफसी"
+        },
+        {
+          "en": "Top Layer NBFCs",
+          "hi": "टॉप लेयर एनबीएफसी"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "RBI Governor Sanjay Malhotra dispelled doubts over the September order, stating that upper layer NBFCs, including Tata Sons, must list on stock exchanges to comply with RBI rules.",
+        "hi": "आरबीआई गवर्नर संजय मल्होत्रा ने सितंबर के आदेश पर संदेह दूर करते हुए कहा कि टाटा संस सहित अपर लेयर एनबीएफसी को आरबीआई नियमों का पालन करने के लिए स्टॉक एक्सचेंजों में सूचीबद्ध होना होगा।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/upper-layer-nbfcs-have-to-list-rbi-governor-on-tatas-dispels-doubts-on-sept-order/articleshow/135155571.cms"
+    },
+    {
+      "id": "ca_20261024_02",
+      "question": {
+        "en": "Which major IPO recently collected a record Rs 7.5 lakh crore with nearly 1.3 crore investors making bids?",
+        "hi": "हाल ही में किस प्रमुख आईपीओ ने 1.3 करोड़ निवेशकों की बोलियों के साथ 7.5 लाख करोड़ रुपये का रिकॉर्ड संग्रह किया है?"
+      },
+      "options": [
+        {
+          "en": "LIC IPO",
+          "hi": "एलआईसी आईपीओ"
+        },
+        {
+          "en": "Paytm IPO",
+          "hi": "पेटीएम आईपीओ"
+        },
+        {
+          "en": "Jio IPO",
+          "hi": "जियो आईपीओ"
+        },
+        {
+          "en": "Tata Technologies IPO",
+          "hi": "टाटा टेक्नोलॉजीज आईपीओ"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The Jio IPO collected a record Rs 7.5 lakh crore, drawing bids from nearly 1.3 crore investors, with a price band of Rs 1,065 to Rs 1,119.",
+        "hi": "जियो आईपीओ ने 7.5 लाख करोड़ रुपये का रिकॉर्ड संग्रह किया है, जिसमें लगभग 1.3 करोड़ निवेशकों ने बोलियां लगाई हैं। इसका प्राइस बैंड 1,065 से 1,119 रुपये था।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/record-haul-jio-ipo-collects-rs-7-5-lakh-crore-nearly-1-3-crore-investors-make-bids/articleshow/135155570.cms"
+    },
+    {
+      "id": "ca_20261024_03",
+      "question": {
+        "en": "Which glacier, often referred to as the 'Doomsday Glacier' due to its potential impact on sea-level rise, is melting faster than feared?",
+        "hi": "समुद्र के स्तर में वृद्धि पर इसके संभावित प्रभाव के कारण किस ग्लेशियर, जिसे अक्सर 'डूम्सडे ग्लेशियर' कहा जाता है, के पिघलने की गति आशंका से अधिक है?"
+      },
+      "options": [
+        {
+          "en": "Pine Island Glacier",
+          "hi": "पाइन आइलैंड ग्लेशियर"
+        },
+        {
+          "en": "Thwaites Glacier",
+          "hi": "थवाइट्स ग्लेशियर"
+        },
+        {
+          "en": "Jakobshavn Glacier",
+          "hi": "जैकबशवैन ग्लेशियर"
+        },
+        {
+          "en": "Helheim Glacier",
+          "hi": "हेलहेम ग्लेशियर"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Recent findings show that the Britain-sized Thwaites Glacier is melting at an alarming rate as warm ocean waters intrude beneath its icy surface.",
+        "hi": "हालिया निष्कर्षों से पता चलता है कि ब्रिटेन के आकार का थवाइट्स ग्लेशियर खतरनाक दर से पिघल रहा है क्योंकि इसके बर्फीले सतह के नीचे गर्म समुद्र का पानी प्रवेश कर रहा है।"
+      },
+      "category": "Science & Technology",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/science/britain-sized-doomsday-glacier-is-melting-faster-than-feared/articleshow/134984803.cms"
+    },
+    {
+      "id": "ca_20261024_04",
+      "question": {
+        "en": "According to researchers, which climate phenomenon could push already vulnerable coral reefs closer to extinction?",
+        "hi": "शोधकर्ताओं के अनुसार, कौन सी जलवायु घटना पहले से ही कमजोर प्रवाल भित्तियों को विलुप्ति के करीब धकेल सकती है?"
+      },
+      "options": [
+        {
+          "en": "La Niña",
+          "hi": "ला नीना"
+        },
+        {
+          "en": "Super El Niño",
+          "hi": "सुपर अल नीनो"
+        },
+        {
+          "en": "Indian Ocean Dipole",
+          "hi": "इंडियन ओशन डाइपोल"
+        },
+        {
+          "en": "Madden-Julian Oscillation",
+          "hi": "मैडेन-जूलियन ऑसिलेशन"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Researchers warn that the ongoing super El Niño, causing record coral bleaching events, could further endanger already vulnerable coral species, pushing them towards extinction.",
+        "hi": "शोधकर्ताओं ने चेतावनी दी है कि मौजूदा सुपर अल नीनो, जो रिकॉर्ड प्रवाल विरंजन की घटनाओं का कारण बन रहा है, पहले से ही कमजोर प्रवाल प्रजातियों को विलुप्ति की ओर धकेल सकता है।"
+      },
+      "category": "Environment & Ecology",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/home/environment/collapse-could-be-precipitous-super-el-nio-could-push-coral-reefs-closer-to-extinction-un-biodiversity-expert-warns/articleshow/134973795.cms"
+    },
+    {
+      "id": "ca_20261024_05",
+      "question": {
+        "en": "The Centre has instructed which states to go into ‘mission mode’ to curb the rise in farm fires (stubble burning)?",
+        "hi": "केंद्र ने किन राज्यों को खेत में आग (पराली जलाने) की घटनाओं में वृद्धि को रोकने के लिए ‘मिशन मोड’ में जाने का निर्देश दिया है?"
+      },
+      "options": [
+        {
+          "en": "Punjab, Haryana, Uttar Pradesh",
+          "hi": "पंजाब, हरियाणा, उत्तर प्रदेश"
+        },
+        {
+          "en": "Madhya Pradesh, Rajasthan, Punjab, Haryana, Delhi-NCR",
+          "hi": "मध्य प्रदेश, राजस्थान, पंजाब, हरियाणा, दिल्ली-एनसीआर"
+        },
+        {
+          "en": "Maharashtra, Gujarat, Punjab",
+          "hi": "महाराष्ट्र, गुजरात, पंजाब"
+        },
+        {
+          "en": "Bihar, West Bengal, Odisha",
+          "hi": "बिहार, पश्चिम बंगाल, ओडिशा"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The Centre instructed Madhya Pradesh, Rajasthan, Punjab, Haryana, and Delhi-NCR to implement action plans urgently to prevent crop residue burning as farm fires rise significantly.",
+        "hi": "खेतों में आग लगने की घटनाओं में वृद्धि के कारण केंद्र ने मध्य प्रदेश, राजस्थान, पंजाब, हरियाणा और दिल्ली-एनसीआर को पराली जलाने से रोकने के लिए तत्काल कार्य योजना लागू करने का निर्देश दिया है।"
+      },
+      "category": "Environment & Ecology",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/centre-asks-states-to-go-into-mission-mode-to-curb-stubble-burning-as-farm-fires-rise-in-mp-rajasthan/articleshow/134921556.cms"
+    },
+    {
+      "id": "ca_20261024_06",
+      "question": {
+        "en": "How many total medals did India win at the Asian Para Games, setting a new record?",
+        "hi": "एशियाई पैरा खेलों में भारत ने कुल कितने पदक जीतकर एक नया रिकॉर्ड बनाया है?"
+      },
+      "options": [
+        {
+          "en": "105",
+          "hi": "105"
+        },
+        {
+          "en": "111",
+          "hi": "111"
+        },
+        {
+          "en": "114",
+          "hi": "114"
+        },
+        {
+          "en": "120",
+          "hi": "120"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "India finished its campaign at the Asian Para Games with a historic, best-ever haul of 114 medals, which included 30 gold medals.",
+        "hi": "भारत ने एशियाई पैरा खेलों में 114 पदकों के ऐतिहासिक और अब तक के सर्वश्रेष्ठ प्रदर्शन के साथ अपने अभियान का समापन किया, जिसमें 30 स्वर्ण पदक शामिल थे।"
+      },
+      "category": "Sports",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-para-games-2026/india-script-history-with-best-ever-haul-of-114-medals-as-nine-golds-cap-golden-day-at-asian-para-games/articleshow/135147430.cms"
+    },
+    {
+      "id": "ca_20261024_07",
+      "question": {
+        "en": "Who scored an unbeaten 100 to power India to a nine-wicket win over Zimbabwe in their recent ODI series?",
+        "hi": "जिम्बाब्वे के खिलाफ हालिया वनडे सीरीज में भारत को नौ विकेट से जीत दिलाने के लिए किसने नाबाद 100 रन बनाए?"
+      },
+      "options": [
+        {
+          "en": "Smriti Mandhana",
+          "hi": "स्मृति मंधाना"
+        },
+        {
+          "en": "Harmanpreet Kaur",
+          "hi": "हरमनप्रीत कौर"
+        },
+        {
+          "en": "Pratika Rawal",
+          "hi": "प्रतिका रावल"
+        },
+        {
+          "en": "Shafali Verma",
+          "hi": "शेफाली वर्मा"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Pratika Rawal scored an unbeaten 100 as India chased down Zimbabwe's 197 to secure a nine-wicket victory and take a 1-0 lead in the series.",
+        "hi": "प्रतिका रावल ने नाबाद 100 रन बनाए जिससे भारत ने जिम्बाब्वे के 197 रनों का पीछा करते हुए नौ विकेट से जीत दर्ज की और श्रृंखला में 1-0 की बढ़त बना ली।"
+      },
+      "category": "Sports",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/pratika-rawals-century-shree-charanis-four-for-power-india-to-nine-wicket-win-over-zimbabwe-in-first-wodi/articleshow/135149335.cms"
+    },
+    {
+      "id": "ca_20261024_08",
+      "question": {
+        "en": "With which country did India reset its diplomatic ties following 'Operation Sindoor' friction, during EAM S Jaishankar's visit?",
+        "hi": "विदेश मंत्री एस जयशंकर की यात्रा के दौरान 'ऑपरेशन सिंदूर' के विवाद के बाद भारत ने किस देश के साथ अपने राजनयिक संबंधों को फिर से स्थापित किया?"
+      },
+      "options": [
+        {
+          "en": "Armenia",
+          "hi": "आर्मेनिया"
+        },
+        {
+          "en": "Azerbaijan",
+          "hi": "अज़रबैजान"
+        },
+        {
+          "en": "Turkey",
+          "hi": "तुर्की"
+        },
+        {
+          "en": "Pakistan",
+          "hi": "पाकिस्तान"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "India and Azerbaijan reset their ties during EAM Jaishankar's visit to Baku. The relations had been strained due to geopolitical reasons, including Azerbaijan's support for Pakistan after Operation Sindoor.",
+        "hi": "विदेश मंत्री जयशंकर की बाकू यात्रा के दौरान भारत और अज़रबैजान ने अपने संबंधों को फिर से स्थापित किया। ऑपरेशन सिंदूर के बाद पाकिस्तान के लिए अज़रबैजान के समर्थन सहित भू-राजनीतिक कारणों से संबंध तनावपूर्ण हो गए थे।"
+      },
+      "category": "International Summits",
+      "difficulty": "hard",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/after-operation-sindoor-friction-delhi-baku-reset-ties-with-eam-jaishankars-visit/articleshow/135155334.cms"
+    },
+    {
+      "id": "ca_20261024_09",
+      "question": {
+        "en": "Which country is actively targeted by the Indian government to rescue its citizens who have been forced into cybercrime operations?",
+        "hi": "भारत सरकार उन नागरिकों को बचाने के लिए सक्रिय रूप से किस देश को लक्षित कर रही है जिन्हें साइबर अपराध कार्यों में मजबूर किया गया है?"
+      },
+      "options": [
+        {
+          "en": "Thailand",
+          "hi": "थाईलैंड"
+        },
+        {
+          "en": "Myanmar",
+          "hi": "म्यांमार"
+        },
+        {
+          "en": "Cambodia",
+          "hi": "कंबोडिया"
+        },
+        {
+          "en": "Vietnam",
+          "hi": "वियतनाम"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The Indian government is rescuing citizens who have been forced into cyber fraud and cybercrime activities in Cambodia.",
+        "hi": "भारत सरकार उन नागरिकों को बचा रही है जिन्हें कंबोडिया में साइबर धोखाधड़ी और साइबर अपराध गतिविधियों में शामिल होने के लिए मजबूर किया गया है।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/government-rescuing-citizens-forced-into-cybercrime-in-this-country-heres-how/articleshow/108921324.cms"
+    },
+    {
+      "id": "ca_20261024_10",
+      "question": {
+        "en": "Why is Apple seeking new suppliers and reworking its iPhone manufacturing strategy in India?",
+        "hi": "Apple भारत में नए आपूर्तिकर्ताओं की तलाश और अपनी iPhone निर्माण रणनीति में बदलाव क्यों कर रहा है?"
+      },
+      "options": [
+        {
+          "en": "Due to a lack of skilled labor in India",
+          "hi": "भारत में कुशल श्रम की कमी के कारण"
+        },
+        {
+          "en": "Because of delayed government clearances for imports from existing Chinese suppliers over 'national security' concerns",
+          "hi": "'राष्ट्रीय सुरक्षा' चिंताओं पर मौजूदा चीनी आपूर्तिकर्ताओं से आयात के लिए सरकारी मंजूरी में देरी के कारण"
+        },
+        {
+          "en": "To strictly manufacture low-cost models",
+          "hi": "सख्ती से कम लागत वाले मॉडल के निर्माण के लिए"
+        },
+        {
+          "en": "Due to a shortage of raw materials globally",
+          "hi": "विश्व स्तर पर कच्चे माल की कमी के कारण"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Apple is reworking its supply chain to include Indian, Japanese, and South Korean makers because of delayed Indian government clearances for Chinese suppliers based on national security concerns.",
+        "hi": "Apple राष्ट्रीय सुरक्षा चिंताओं के आधार पर चीनी आपूर्तिकर्ताओं के लिए भारत सरकार की मंजूरी में देरी के कारण भारतीय, जापानी और दक्षिण कोरियाई निर्माताओं को शामिल करने के लिए अपनी आपूर्ति श्रृंखला में बदलाव कर रहा है।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "hard",
+      "sourceUrl": "https://timesofindia.indiatimes.com/gadgets-news/how-indias-national-security-concerns-has-made-apple-rework-its-strategy-for-iphones-made-in-india/articleshow/105785529.cms"
+    }
+  ]
+}
