@@ -1,13 +1,13 @@
 {
-  "date": "2026-10-24",
+  "date": "2026-10-25",
   "topic": "SSC CGL Daily Current Affairs",
   "source": "PIB / The Hindu / Economic Times / Indian Express / GKToday",
-  "lastUpdated": "2026-10-24T05:14:50.897676+05:30",
+  "lastUpdated": "2026-10-25T06:30:00+05:30",
   "version": 1,
   "totalQuestions": 10,
   "quiz": [
     {
-      "id": "ca_20261024_01",
+      "id": "ca_20261025_01",
       "question": {
         "en": "According to the RBI Governor, which entities must mandatorily list on the stock exchanges, affecting groups like Tata Sons?",
         "hi": "आरबीआई गवर्नर के अनुसार, किन संस्थाओं को स्टॉक एक्सचेंजों में अनिवार्य रूप से सूचीबद्ध होना चाहिए, जो टाटा संस जैसे समूहों को प्रभावित करता है?"
@@ -40,7 +40,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/upper-layer-nbfcs-have-to-list-rbi-governor-on-tatas-dispels-doubts-on-sept-order/articleshow/135155571.cms"
     },
     {
-      "id": "ca_20261024_02",
+      "id": "ca_20261025_02",
       "question": {
         "en": "Which major IPO recently collected a record Rs 7.5 lakh crore with nearly 1.3 crore investors making bids?",
         "hi": "हाल ही में किस प्रमुख आईपीओ ने 1.3 करोड़ निवेशकों की बोलियों के साथ 7.5 लाख करोड़ रुपये का रिकॉर्ड संग्रह किया है?"
@@ -73,7 +73,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/record-haul-jio-ipo-collects-rs-7-5-lakh-crore-nearly-1-3-crore-investors-make-bids/articleshow/135155570.cms"
     },
     {
-      "id": "ca_20261024_03",
+      "id": "ca_20261025_03",
       "question": {
         "en": "Which glacier, often referred to as the 'Doomsday Glacier' due to its potential impact on sea-level rise, is melting faster than feared?",
         "hi": "समुद्र के स्तर में वृद्धि पर इसके संभावित प्रभाव के कारण किस ग्लेशियर, जिसे अक्सर 'डूम्सडे ग्लेशियर' कहा जाता है, के पिघलने की गति आशंका से अधिक है?"
@@ -106,7 +106,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/science/britain-sized-doomsday-glacier-is-melting-faster-than-feared/articleshow/134984803.cms"
     },
     {
-      "id": "ca_20261024_04",
+      "id": "ca_20261025_04",
       "question": {
         "en": "According to researchers, which climate phenomenon could push already vulnerable coral reefs closer to extinction?",
         "hi": "शोधकर्ताओं के अनुसार, कौन सी जलवायु घटना पहले से ही कमजोर प्रवाल भित्तियों को विलुप्ति के करीब धकेल सकती है?"
@@ -139,7 +139,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/home/environment/collapse-could-be-precipitous-super-el-nio-could-push-coral-reefs-closer-to-extinction-un-biodiversity-expert-warns/articleshow/134973795.cms"
     },
     {
-      "id": "ca_20261024_05",
+      "id": "ca_20261025_05",
       "question": {
         "en": "The Centre has instructed which states to go into ‘mission mode’ to curb the rise in farm fires (stubble burning)?",
         "hi": "केंद्र ने किन राज्यों को खेत में आग (पराली जलाने) की घटनाओं में वृद्धि को रोकने के लिए ‘मिशन मोड’ में जाने का निर्देश दिया है?"
@@ -172,7 +172,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/india/centre-asks-states-to-go-into-mission-mode-to-curb-stubble-burning-as-farm-fires-rise-in-mp-rajasthan/articleshow/134921556.cms"
     },
     {
-      "id": "ca_20261024_06",
+      "id": "ca_20261025_06",
       "question": {
         "en": "How many total medals did India win at the Asian Para Games, setting a new record?",
         "hi": "एशियाई पैरा खेलों में भारत ने कुल कितने पदक जीतकर एक नया रिकॉर्ड बनाया है?"
@@ -205,7 +205,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/sports/asian-para-games-2026/india-script-history-with-best-ever-haul-of-114-medals-as-nine-golds-cap-golden-day-at-asian-para-games/articleshow/135147430.cms"
     },
     {
-      "id": "ca_20261024_07",
+      "id": "ca_20261025_07",
       "question": {
         "en": "Who scored an unbeaten 100 to power India to a nine-wicket win over Zimbabwe in their recent ODI series?",
         "hi": "जिम्बाब्वे के खिलाफ हालिया वनडे सीरीज में भारत को नौ विकेट से जीत दिलाने के लिए किसने नाबाद 100 रन बनाए?"
@@ -238,7 +238,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/pratika-rawals-century-shree-charanis-four-for-power-india-to-nine-wicket-win-over-zimbabwe-in-first-wodi/articleshow/135149335.cms"
     },
     {
-      "id": "ca_20261024_08",
+      "id": "ca_20261025_08",
       "question": {
         "en": "With which country did India reset its diplomatic ties following 'Operation Sindoor' friction, during EAM S Jaishankar's visit?",
         "hi": "विदेश मंत्री एस जयशंकर की यात्रा के दौरान 'ऑपरेशन सिंदूर' के विवाद के बाद भारत ने किस देश के साथ अपने राजनयिक संबंधों को फिर से स्थापित किया?"
@@ -271,7 +271,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/india/after-operation-sindoor-friction-delhi-baku-reset-ties-with-eam-jaishankars-visit/articleshow/135155334.cms"
     },
     {
-      "id": "ca_20261024_09",
+      "id": "ca_20261025_09",
       "question": {
         "en": "Which country is actively targeted by the Indian government to rescue its citizens who have been forced into cybercrime operations?",
         "hi": "भारत सरकार उन नागरिकों को बचाने के लिए सक्रिय रूप से किस देश को लक्षित कर रही है जिन्हें साइबर अपराध कार्यों में मजबूर किया गया है?"
@@ -304,7 +304,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/government-rescuing-citizens-forced-into-cybercrime-in-this-country-heres-how/articleshow/108921324.cms"
     },
     {
-      "id": "ca_20261024_10",
+      "id": "ca_20261025_10",
       "question": {
         "en": "Why is Apple seeking new suppliers and reworking its iPhone manufacturing strategy in India?",
         "hi": "Apple भारत में नए आपूर्तिकर्ताओं की तलाश और अपनी iPhone निर्माण रणनीति में बदलाव क्यों कर रहा है?"
