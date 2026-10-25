@@ -1,0 +1,340 @@
+{
+  "date": "2026-10-26",
+  "topic": "SSC CGL Daily Current Affairs",
+  "source": "PIB / The Hindu / Economic Times / Indian Express / GKToday",
+  "lastUpdated": "2026-10-26T06:30:00+05:30",
+  "version": 1,
+  "totalQuestions": 10,
+  "quiz": [
+    {
+      "id": "ca_20261026_01",
+      "question": {
+        "en": "What is the recent ruling by the Madras High Court regarding annual leave for life convicts?",
+        "hi": "आजीवन दोषियों के लिए वार्षिक छुट्टी के संबंध में मद्रास उच्च न्यायालय का हालिया फैसला क्या है?"
+      },
+      "options": [
+        {
+          "en": "They can avail 60 days of annual leave unconditionally.",
+          "hi": "वे बिना शर्त 60 दिनों की वार्षिक छुट्टी का लाभ उठा सकते हैं।"
+        },
+        {
+          "en": "They are not eligible for any annual leave.",
+          "hi": "वे किसी भी वार्षिक अवकाश के पात्र नहीं हैं।"
+        },
+        {
+          "en": "They are granted 30 days of leave which must be taken at once.",
+          "hi": "उन्हें 30 दिन की छुट्टी दी जाती है जिसे तुरंत लेना होता है।"
+        },
+        {
+          "en": "They can avail 40 days of annual leave in two instalments.",
+          "hi": "वे दो किस्तों में 40 दिनों की वार्षिक छुट्टी का लाभ उठा सकते हैं।"
+        }
+      ],
+      "correctAnswer": 3,
+      "explanation": {
+        "en": "The correct context is: Justices Anita Sumanth and Sunder Mohan hold that prison authorities cannot compel the convicts to avail the leave only once a year. Source: https://www.thehindu.com/news/national/tamil-nadu/life-convicts-can-avail-40-days-of-annual-leave-in-two-instalments-rules-madras-high-court/article71619647.ece",
+        "hi": "सही संदर्भ यह है: न्यायमूर्ति अनीता सुमंत और सुंदर मोहन का मानना ​​है कि जेल अधिकारी दोषियों को साल में केवल एक बार छुट्टी लेने के लिए बाध्य नहीं कर सकते।स्रोत: https://www.thehindu.com/news/national/tamil-nadu/life-convicts-can-avail-40-days-of-annual-leave-in-two-instalments-rules-madras-high-court/article71619647.ece"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.thehindu.com/news/national/tamil-nadu/life-convicts-can-avail-40-days-of-annual-leave-in-two-instalments-rules-madras-high-court/article71619647.ece"
+    },
+    {
+      "id": "ca_20261026_02",
+      "question": {
+        "en": "Which state recently braced for a severe cyclonic storm with a red alert issued for 13 districts?",
+        "hi": "हाल ही में किस राज्य को भीषण चक्रवाती तूफान का सामना करना पड़ा और 13 जिलों के लिए रेड अलर्ट जारी किया गया?"
+      },
+      "options": [
+        {
+          "en": "Gujarat",
+          "hi": "Gujarat"
+        },
+        {
+          "en": "Odisha",
+          "hi": "ओडिशा"
+        },
+        {
+          "en": "West Bengal",
+          "hi": "पश्चिम बंगाल"
+        },
+        {
+          "en": "Andhra Pradesh",
+          "hi": "आंध्र प्रदेश"
+        }
+      ],
+      "correctAnswer": 3,
+      "explanation": {
+        "en": "The correct context is: IMD issues red alert for 13 districts as wind speed may go up to 130 kmph. Source: https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-braces-for-very-severe-cyclonic-storm-landfall-likely-between-bapatla-and-vizag-on-october-28/article71621095.ece",
+        "hi": "सही संदर्भ यह है: आईएमडी ने 13 जिलों के लिए रेड अलर्ट जारी किया है क्योंकि हवा की गति 130 किमी प्रति घंटे तक जा सकती है।स्रोत: https://www.thehindu.com/news/national/andhra-praदेश/andhra-praदेश-braces-for-every-severe-cyclonic-storm-landfall-likely-between-bapatla-and-vizag-on-october-28/article71621095.ece"
+      },
+      "category": "Environment & Ecology",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-braces-for-very-severe-cyclonic-storm-landfall-likely-between-bapatla-and-vizag-on-october-28/article71621095.ece"
+    },
+    {
+      "id": "ca_20261026_03",
+      "question": {
+        "en": "Which state government recently sanctioned ₹1,081 crore for the distribution of social security and welfare fund board pensions?",
+        "hi": "हाल ही में किस राज्य सरकार ने सामाजिक सुरक्षा और कल्याण निधि बोर्ड पेंशन के वितरण के लिए ₹1,081 करोड़ मंजूर किए?"
+      },
+      "options": [
+        {
+          "en": "Karnataka",
+          "hi": "Karnataka"
+        },
+        {
+          "en": "Telangana",
+          "hi": "तेलंगाना"
+        },
+        {
+          "en": "Tamil Nadu",
+          "hi": "तमिलनाडु"
+        },
+        {
+          "en": "Keralam",
+          "hi": "केरलम"
+        }
+      ],
+      "correctAnswer": 3,
+      "explanation": {
+        "en": "The correct context is: The Keralam government has sanctioned ₹1,081 crore for the distribution of the social security pensions and the welfare fund board pensions. Source: https://www.thehindu.com/news/national/kerala/social-security-welfare-fund-board-pensions-in-keralam-to-be-distributed-from-october-26/article71620933.ece",
+        "hi": "सही संदर्भ यह है: केरल सरकार ने सामाजिक सुरक्षा पेंशन और कल्याण निधि बोर्ड पेंशन के वितरण के लिए ₹1,081 करोड़ मंजूर किए हैं।स्रोत: https://www.thehindu.com/news/national/kerala/social-security-welfare-fund-board-pensions-in-keralam-to-be-distributed-from-october-26/article71620933.ece"
+      },
+      "category": "Government Schemes",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.thehindu.com/news/national/kerala/social-security-welfare-fund-board-pensions-in-keralam-to-be-distributed-from-october-26/article71620933.ece"
+    },
+    {
+      "id": "ca_20261026_04",
+      "question": {
+        "en": "Which weather phenomenon prompted the IMD to issue a red alert for five districts in Keralam recently?",
+        "hi": "हाल ही में किस मौसम की घटना ने आईएमडी को केरलम के पांच जिलों के लिए रेड अलर्ट जारी करने के लिए प्रेरित किया?"
+      },
+      "options": [
+        {
+          "en": "Heavy rainfall",
+          "hi": "भारी वर्षा"
+        },
+        {
+          "en": "Cold wave",
+          "hi": "शीत लहर"
+        },
+        {
+          "en": "Heatwave",
+          "hi": "लू"
+        },
+        {
+          "en": "Severe drought",
+          "hi": "भीषण सूखा"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "The correct context is: IMD issues red alert for heavy rainfall in five districts of Keralam and warns of severe weather over several T.N. districts. Source: https://www.thehindu.com/news/national/bay-of-bengal-weather-update-cyclone-alert-latest-weather-news-live-updates-october-24-2026/article71619022.ece",
+        "hi": "सही संदर्भ यह है: आईएमडी ने केरल के पांच जिलों में भारी बारिश के लिए रेड अलर्ट जारी किया है और कई टी.एन. में खराब मौसम की चेतावनी दी है।जिले.स्रोत: https://www.thehindu.com/news/national/bay-of-bengal-weather-update-cyclone-alert-latest-weather-news-live-updates-october-24-2026/article71619022.ece"
+      },
+      "category": "Environment & Ecology",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/news/national/bay-of-bengal-weather-update-cyclone-alert-latest-weather-news-live-updates-october-24-2026/article71619022.ece"
+    },
+    {
+      "id": "ca_20261026_05",
+      "question": {
+        "en": "In which state did the election body recently order a re-poll at three polling stations under the Agra Teachers MLC seat?",
+        "hi": "हाल ही में किस राज्य में चुनाव निकाय ने आगरा शिक्षक एमएलसी सीट के तहत तीन मतदान केंद्रों पर पुनर्मतदान का आदेश दिया?"
+      },
+      "options": [
+        {
+          "en": "Uttar Pradesh",
+          "hi": "Uttar Pradesh"
+        },
+        {
+          "en": "Madhya Pradesh",
+          "hi": "मध्य प्रदेश"
+        },
+        {
+          "en": "Bihar",
+          "hi": "बिहार"
+        },
+        {
+          "en": "Rajasthan",
+          "hi": "राजस्थान"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "The correct context is: Re-poll ordered at three polling stations after SP candidate alleged extreme harassment of his supporters during the Uttar Pradesh Legislative Council elections. Source: https://www.thehindu.com/news/national/uttar-pradesh/amid-outcry-poll-body-orders-re-poll-at-three-polling-stations-under-agra-teachers-mlc-seat/article71620432.ece",
+        "hi": "सही संदर्भ यह है: उत्तर प्रदेश विधान परिषद चुनाव के दौरान सपा उम्मीदवार द्वारा अपने समर्थकों पर अत्यधिक उत्पीड़न का आरोप लगाने के बाद तीन मतदान केंद्रों पर पुनर्मतदान का आदेश दिया गया।स्रोत: https://www.thehindu.com/news/national/uttar-praदेश/amid-outcry-poll-body-orders-re-poll-at- three-polling-stations-under-agra-teachers-mlc-seat/article71620432.ece"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/news/national/uttar-pradesh/amid-outcry-poll-body-orders-re-poll-at-three-polling-stations-under-agra-teachers-mlc-seat/article71620432.ece"
+    },
+    {
+      "id": "ca_20261026_06",
+      "question": {
+        "en": "What significant electoral reform proposal was recently cleared by the Union Cabinet?",
+        "hi": "हाल ही में केंद्रीय मंत्रिमंडल द्वारा किस महत्वपूर्ण चुनाव सुधार प्रस्ताव को मंजूरी दी गई?"
+      },
+      "options": [
+        {
+          "en": "Lowering the voting age to 16",
+          "hi": "मतदान की आयु घटाकर 16 वर्ष करना"
+        },
+        {
+          "en": "‘One Nation, One Election’ proposal",
+          "hi": "'एक राष्ट्र, एक चुनाव' प्रस्ताव"
+        },
+        {
+          "en": "Compulsory voting for all citizens",
+          "hi": "सभी नागरिकों के लिए अनिवार्य मतदान"
+        },
+        {
+          "en": "Abolition of the Rajya Sabha",
+          "hi": "राज्य सभा को ख़त्म करना"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The correct context is: The Union Cabinet has cleared the proposal for simultaneous elections to the Lok Sabha and State Assemblies, a significant step in electoral reforms. Source: https://pib.gov.in/PressReleasePage.aspx?PRID=2056230",
+        "hi": "सही संदर्भ यह है: केंद्रीय मंत्रिमंडल ने लोकसभा और राज्य विधानसभाओं के लिए एक साथ चुनाव कराने के प्रस्ताव को मंजूरी दे दी है, जो चुनाव सुधारों में एक महत्वपूर्ण कदम है।स्रोत: https://pib.gov.in/PressReleasePage.aspx?PRID=2056230"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "medium",
+      "sourceUrl": "https://pib.gov.in/PressReleasePage.aspx?PRID=2056230"
+    },
+    {
+      "id": "ca_20261026_07",
+      "question": {
+        "en": "At what percentage has NITI Aayog projected the Indian economy to grow in the financial year 2024-25?",
+        "hi": "नीति आयोग ने वित्तीय वर्ष 2024-25 में भारतीय अर्थव्यवस्था के कितने प्रतिशत बढ़ने का अनुमान लगाया है?"
+      },
+      "options": [
+        {
+          "en": "7.2%",
+          "hi": "7.2%"
+        },
+        {
+          "en": "5.9%",
+          "hi": "5.9%"
+        },
+        {
+          "en": "8.0%",
+          "hi": "8.0%"
+        },
+        {
+          "en": "6.5%",
+          "hi": "6.5%"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "The correct context is: NITI Aayog has projected India's economic growth to remain resilient at 7.2% for the financial year 2024-25, citing strong domestic demand and policy support. Source: https://pib.gov.in/PressReleasePage.aspx?PRID=2056150",
+        "hi": "सही संदर्भ यह है: नीति आयोग ने मजबूत घरेलू मांग और नीति समर्थन का हवाला देते हुए वित्तीय वर्ष 2024-25 के लिए भारत की आर्थिक वृद्धि 7.2% पर लचीली रहने का अनुमान लगाया है।स्रोत: https://pib.gov.in/PressReleasePage.aspx?PRID=2056150"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "medium",
+      "sourceUrl": "https://pib.gov.in/PressReleasePage.aspx?PRID=2056150"
+    },
+    {
+      "id": "ca_20261026_08",
+      "question": {
+        "en": "What is the name of the bilateral naval exercise recently commenced by the Indian and French Navies in the Arabian Sea?",
+        "hi": "हाल ही में अरब सागर में भारतीय और फ्रांसीसी नौसेनाओं द्वारा शुरू किए गए द्विपक्षीय नौसैनिक अभ्यास का नाम क्या है?"
+      },
+      "options": [
+        {
+          "en": "Malabar",
+          "hi": "मालाबार"
+        },
+        {
+          "en": "Indra",
+          "hi": "इंद्र"
+        },
+        {
+          "en": "Simbex",
+          "hi": "सिम्बेक्स"
+        },
+        {
+          "en": "Varuna",
+          "hi": "वरुण"
+        }
+      ],
+      "correctAnswer": 3,
+      "explanation": {
+        "en": "The correct context is: The Indian and French Navies commenced the 21st edition of the bilateral naval exercise 'Varuna' in the Arabian Sea, enhancing interoperability. Source: https://pib.gov.in/PressReleasePage.aspx?PRID=2056110",
+        "hi": "सही संदर्भ यह है: भारतीय और फ्रांसीसी नौसेनाओं ने अंतरसंचालनीयता को बढ़ाते हुए अरब सागर में द्विपक्षीय नौसैनिक अभ्यास 'वरुण' के 21वें संस्करण की शुरुआत की।स्रोत: https://pib.gov.in/PressReleasePage.aspx?PRID=2056110"
+      },
+      "category": "Defence & Security",
+      "difficulty": "medium",
+      "sourceUrl": "https://pib.gov.in/PressReleasePage.aspx?PRID=2056110"
+    },
+    {
+      "id": "ca_20261026_09",
+      "question": {
+        "en": "For which year is ISRO targeting the launch of the Chandrayaan-4 mission to bring lunar samples back to Earth?",
+        "hi": "इसरो किस वर्ष चंद्र नमूनों को पृथ्वी पर वापस लाने के लिए चंद्रयान -4 मिशन के प्रक्षेपण का लक्ष्य बना रहा है?"
+      },
+      "options": [
+        {
+          "en": "2028",
+          "hi": "2028"
+        },
+        {
+          "en": "2030",
+          "hi": "2030"
+        },
+        {
+          "en": "2025",
+          "hi": "2025"
+        },
+        {
+          "en": "2026",
+          "hi": "2026"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "The correct context is: ISRO Chairman S. Somanath announced that the space agency is targeting the year 2028 to launch the Chandrayaan-4 mission, which aims to bring lunar samples back to Earth. Source: https://pib.gov.in/PressReleasePage.aspx?PRID=2056245",
+        "hi": "सही संदर्भ यह है: इसरो के अध्यक्ष एस. सोमनाथ ने घोषणा की कि अंतरिक्ष एजेंसी चंद्रयान -4 मिशन को लॉन्च करने के लिए वर्ष 2028 का लक्ष्य बना रही है, जिसका उद्देश्य चंद्र नमूनों को पृथ्वी पर वापस लाना है।स्रोत: https://pib.gov.in/PressReleasePage.aspx?PRID=2056245"
+      },
+      "category": "Science & Technology",
+      "difficulty": "hard",
+      "sourceUrl": "https://pib.gov.in/PressReleasePage.aspx?PRID=2056245"
+    },
+    {
+      "id": "ca_20261026_10",
+      "question": {
+        "en": "Who recently clinched the gold medal in the men's javelin throw at the Diamond League final?",
+        "hi": "हाल ही में डायमंड लीग फाइनल में पुरुषों की भाला फेंक में स्वर्ण पदक किसने जीता?"
+      },
+      "options": [
+        {
+          "en": "Neeraj Chopra",
+          "hi": "नीरज चोपड़ा"
+        },
+        {
+          "en": "Johannes Vetter",
+          "hi": "जोहान्स वेटर"
+        },
+        {
+          "en": "Arshad Nadeem",
+          "hi": "अरशद नदीम"
+        },
+        {
+          "en": "Jakub Vadlejch",
+          "hi": "जैकब वाडलेज्च"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "The correct context is: Olympic champion Neeraj Chopra clinched the gold medal in the men's javelin throw at the Diamond League final, throwing an impressive 88.44m. Source: https://pib.gov.in/PressReleasePage.aspx?PRID=2056312",
+        "hi": "सही संदर्भ यह है: ओलंपिक चैंपियन नीरज चोपड़ा ने डायमंड लीग फाइनल में पुरुषों की भाला फेंक में 88.44 मीटर का प्रभावशाली भाला फेंककर स्वर्ण पदक जीता।स्रोत: https://pib.gov.in/PressReleasePage.aspx?PRID=2056312"
+      },
+      "category": "Sports",
+      "difficulty": "hard",
+      "sourceUrl": "https://pib.gov.in/PressReleasePage.aspx?PRID=2056312"
+    }
+  ]
+}

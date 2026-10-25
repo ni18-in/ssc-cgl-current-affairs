@@ -1,13 +1,13 @@
 {
-  "date": "2026-10-25",
+  "date": "2026-10-26",
   "topic": "SSC CGL Daily Current Affairs",
   "source": "PIB / The Hindu / Economic Times / Indian Express / GKToday",
-  "lastUpdated": "2026-10-25T05:18:52+05:30",
+  "lastUpdated": "2026-10-26T06:30:00+05:30",
   "version": 1,
   "totalQuestions": 10,
   "quiz": [
     {
-      "id": "ca_20261025_01",
+      "id": "ca_20261026_01",
       "question": {
         "en": "What is the recent ruling by the Madras High Court regarding annual leave for life convicts?",
         "hi": "आजीवन दोषियों के लिए वार्षिक छुट्टी के संबंध में मद्रास उच्च न्यायालय का हालिया फैसला क्या है?"
@@ -40,7 +40,7 @@
       "sourceUrl": "https://www.thehindu.com/news/national/tamil-nadu/life-convicts-can-avail-40-days-of-annual-leave-in-two-instalments-rules-madras-high-court/article71619647.ece"
     },
     {
-      "id": "ca_20261025_02",
+      "id": "ca_20261026_02",
       "question": {
         "en": "Which state recently braced for a severe cyclonic storm with a red alert issued for 13 districts?",
         "hi": "हाल ही में किस राज्य को भीषण चक्रवाती तूफान का सामना करना पड़ा और 13 जिलों के लिए रेड अलर्ट जारी किया गया?"
@@ -73,7 +73,7 @@
       "sourceUrl": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-braces-for-very-severe-cyclonic-storm-landfall-likely-between-bapatla-and-vizag-on-october-28/article71621095.ece"
     },
     {
-      "id": "ca_20261025_03",
+      "id": "ca_20261026_03",
       "question": {
         "en": "Which state government recently sanctioned ₹1,081 crore for the distribution of social security and welfare fund board pensions?",
         "hi": "हाल ही में किस राज्य सरकार ने सामाजिक सुरक्षा और कल्याण निधि बोर्ड पेंशन के वितरण के लिए ₹1,081 करोड़ मंजूर किए?"
@@ -106,7 +106,7 @@
       "sourceUrl": "https://www.thehindu.com/news/national/kerala/social-security-welfare-fund-board-pensions-in-keralam-to-be-distributed-from-october-26/article71620933.ece"
     },
     {
-      "id": "ca_20261025_04",
+      "id": "ca_20261026_04",
       "question": {
         "en": "Which weather phenomenon prompted the IMD to issue a red alert for five districts in Keralam recently?",
         "hi": "हाल ही में किस मौसम की घटना ने आईएमडी को केरलम के पांच जिलों के लिए रेड अलर्ट जारी करने के लिए प्रेरित किया?"
@@ -139,7 +139,7 @@
       "sourceUrl": "https://www.thehindu.com/news/national/bay-of-bengal-weather-update-cyclone-alert-latest-weather-news-live-updates-october-24-2026/article71619022.ece"
     },
     {
-      "id": "ca_20261025_05",
+      "id": "ca_20261026_05",
       "question": {
         "en": "In which state did the election body recently order a re-poll at three polling stations under the Agra Teachers MLC seat?",
         "hi": "हाल ही में किस राज्य में चुनाव निकाय ने आगरा शिक्षक एमएलसी सीट के तहत तीन मतदान केंद्रों पर पुनर्मतदान का आदेश दिया?"
@@ -172,7 +172,7 @@
       "sourceUrl": "https://www.thehindu.com/news/national/uttar-pradesh/amid-outcry-poll-body-orders-re-poll-at-three-polling-stations-under-agra-teachers-mlc-seat/article71620432.ece"
     },
     {
-      "id": "ca_20261025_06",
+      "id": "ca_20261026_06",
       "question": {
         "en": "What significant electoral reform proposal was recently cleared by the Union Cabinet?",
         "hi": "हाल ही में केंद्रीय मंत्रिमंडल द्वारा किस महत्वपूर्ण चुनाव सुधार प्रस्ताव को मंजूरी दी गई?"
@@ -205,7 +205,7 @@
       "sourceUrl": "https://pib.gov.in/PressReleasePage.aspx?PRID=2056230"
     },
     {
-      "id": "ca_20261025_07",
+      "id": "ca_20261026_07",
       "question": {
         "en": "At what percentage has NITI Aayog projected the Indian economy to grow in the financial year 2024-25?",
         "hi": "नीति आयोग ने वित्तीय वर्ष 2024-25 में भारतीय अर्थव्यवस्था के कितने प्रतिशत बढ़ने का अनुमान लगाया है?"
@@ -238,7 +238,7 @@
       "sourceUrl": "https://pib.gov.in/PressReleasePage.aspx?PRID=2056150"
     },
     {
-      "id": "ca_20261025_08",
+      "id": "ca_20261026_08",
       "question": {
         "en": "What is the name of the bilateral naval exercise recently commenced by the Indian and French Navies in the Arabian Sea?",
         "hi": "हाल ही में अरब सागर में भारतीय और फ्रांसीसी नौसेनाओं द्वारा शुरू किए गए द्विपक्षीय नौसैनिक अभ्यास का नाम क्या है?"
@@ -271,7 +271,7 @@
       "sourceUrl": "https://pib.gov.in/PressReleasePage.aspx?PRID=2056110"
     },
     {
-      "id": "ca_20261025_09",
+      "id": "ca_20261026_09",
       "question": {
         "en": "For which year is ISRO targeting the launch of the Chandrayaan-4 mission to bring lunar samples back to Earth?",
         "hi": "इसरो किस वर्ष चंद्र नमूनों को पृथ्वी पर वापस लाने के लिए चंद्रयान -4 मिशन के प्रक्षेपण का लक्ष्य बना रहा है?"
@@ -304,7 +304,7 @@
       "sourceUrl": "https://pib.gov.in/PressReleasePage.aspx?PRID=2056245"
     },
     {
-      "id": "ca_20261025_10",
+      "id": "ca_20261026_10",
       "question": {
         "en": "Who recently clinched the gold medal in the men's javelin throw at the Diamond League final?",
         "hi": "हाल ही में डायमंड लीग फाइनल में पुरुषों की भाला फेंक में स्वर्ण पदक किसने जीता?"
