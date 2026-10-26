@@ -1,13 +1,13 @@
 {
-  "date": "2026-10-26",
+  "date": "2026-10-27",
   "topic": "SSC CGL Daily Current Affairs",
   "source": "PIB / The Hindu / Economic Times / Indian Express / GKToday",
-  "lastUpdated": "2026-10-25T23:40:11+05:30",
+  "lastUpdated": "2026-10-27T06:30:00+05:30",
   "version": 1,
   "totalQuestions": 10,
   "quiz": [
     {
-      "id": "ca_20261026_01",
+      "id": "ca_20261027_01",
       "question": {
         "en": "Who recently inaugurated the RBI’s newly established Data Centre and Cybersecurity Training Institute in Bhubaneswar?",
         "hi": "हाल ही में भुवनेश्वर में RBI के नव स्थापित डेटा सेंटर और साइबर सुरक्षा प्रशिक्षण संस्थान का उद्घाटन किसने किया?"
@@ -40,7 +40,7 @@
       "sourceUrl": "https://pib.gov.in"
     },
     {
-      "id": "ca_20261026_02",
+      "id": "ca_20261027_02",
       "question": {
         "en": "As per recent statements by the RBI Governor, what is a primary requirement for all data centres handling Indian financial data?",
         "hi": "आरबीआई गवर्नर के हालिया बयानों के अनुसार, भारतीय वित्तीय डेटा को संभालने वाले सभी डेटा केंद्रों के लिए प्राथमिक आवश्यकता क्या है?"
@@ -73,7 +73,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com"
     },
     {
-      "id": "ca_20261026_03",
+      "id": "ca_20261027_03",
       "question": {
         "en": "The Home Ministry has announced plans to build a civil defence network of around 60,000 volunteers. In how many states and UTs will this initially be rolled out?",
         "hi": "गृह मंत्रालय ने लगभग 60,000 स्वयंसेवकों का नागरिक सुरक्षा नेटवर्क बनाने की योजना की घोषणा की है।शुरुआत में इसे कितने राज्यों और केंद्रशासित प्रदेशों में लागू किया जाएगा?"
@@ -106,7 +106,7 @@
       "sourceUrl": "https://newsonair.gov.in"
     },
     {
-      "id": "ca_20261026_04",
+      "id": "ca_20261027_04",
       "question": {
         "en": "Which branch of the armed forces conducts the 'Camp Hamlawar' exercise to test endurance and survival skills?",
         "hi": "सशस्त्र बलों की कौन सी शाखा सहनशक्ति और जीवित रहने के कौशल का परीक्षण करने के लिए 'कैंप हमलावार' अभ्यास आयोजित करती है?"
@@ -139,7 +139,7 @@
       "sourceUrl": "https://ssbcrack.com"
     },
     {
-      "id": "ca_20261026_05",
+      "id": "ca_20261027_05",
       "question": {
         "en": "According to a recent announcement by ISRO, how many space launch pads is India projected to have by 2029?",
         "hi": "इसरो की हालिया घोषणा के अनुसार, 2029 तक भारत के पास कितने अंतरिक्ष लॉन्च पैड होने का अनुमान है?"
@@ -172,7 +172,7 @@
       "sourceUrl": "https://deccanchronicle.com"
     },
     {
-      "id": "ca_20261026_06",
+      "id": "ca_20261027_06",
       "question": {
         "en": "By how many runs did the Indian Women's Cricket team defeat Zimbabwe to seal the recent Women's ODI Series?",
         "hi": "भारतीय महिला क्रिकेट टीम ने हाल ही में जिम्बाब्वे को कितने रनों से हराकर महिला वनडे सीरीज अपने नाम की?"
@@ -205,7 +205,7 @@
       "sourceUrl": "https://newsonair.gov.in"
     },
     {
-      "id": "ca_20261026_07",
+      "id": "ca_20261027_07",
       "question": {
         "en": "Where was the 96th 'Fit India – Sundays on Cycle' event recently organised to promote cyber security awareness and traditional Indian games?",
         "hi": "हाल ही में साइबर सुरक्षा जागरूकता और पारंपरिक भारतीय खेलों को बढ़ावा देने के लिए 96वां 'फिट इंडिया - संडेज़ ऑन साइकिल' कार्यक्रम कहाँ आयोजित किया गया था?"
@@ -238,7 +238,7 @@
       "sourceUrl": "https://pib.gov.in"
     },
     {
-      "id": "ca_20261026_08",
+      "id": "ca_20261027_08",
       "question": {
         "en": "Experts have recently warned about the potential disappearance of which animal from the forests of Uttarakhand?",
         "hi": "हाल ही में विशेषज्ञों ने उत्तराखंड के जंगलों से किस जानवर के गायब होने की चेतावनी दी है?"
@@ -271,7 +271,7 @@
       "sourceUrl": "https://newindianexpress.com"
     },
     {
-      "id": "ca_20261026_09",
+      "id": "ca_20261027_09",
       "question": {
         "en": "In which tiger reserve was Tigress T-2403 recently spotted with three new cubs?",
         "hi": "हाल ही में बाघिन टी-2403 को तीन नए शावकों के साथ किस बाघ अभयारण्य में देखा गया?"
@@ -304,7 +304,7 @@
       "sourceUrl": "https://hindustantimes.com"
     },
     {
-      "id": "ca_20261026_10",
+      "id": "ca_20261027_10",
       "question": {
         "en": "Which authority collaborated with the Ministry of Environment, Forest and Climate Change (MoEFCC) to launch a 5-year project to strengthen biodiversity governance?",
         "hi": "जैव विविधता शासन को मजबूत करने के लिए 5-वर्षीय परियोजना शुरू करने के लिए किस प्राधिकरण ने पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय (MoEFCC) के साथ सहयोग किया?"
