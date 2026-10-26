@@ -1,340 +1,340 @@
 {
-  "date": "2026-10-26",
+  "date": "2026-10-27",
   "topic": "SSC CGL Daily Current Affairs",
   "source": "PIB / The Hindu / Economic Times / Indian Express / GKToday",
-  "lastUpdated": "2026-10-25T23:40:11+05:30",
+  "lastUpdated": "2026-10-27T05:11:11+05:30",
   "version": 1,
   "totalQuestions": 10,
   "quiz": [
     {
-      "id": "ca_20261026_01",
+      "id": "ca_20261027_01",
       "question": {
-        "en": "Who recently inaugurated the RBI’s newly established Data Centre and Cybersecurity Training Institute in Bhubaneswar?",
-        "hi": "हाल ही में भुवनेश्वर में RBI के नव स्थापित डेटा सेंटर और साइबर सुरक्षा प्रशिक्षण संस्थान का उद्घाटन किसने किया?"
+        "en": "Which of the following states were put on high alert due to Cyclone 'Arnab' in October 2026?",
+        "hi": "अक्टूबर 2026 में चक्रवात 'अर्नब' के कारण निम्नलिखित में से किन राज्यों को हाई अलर्ट पर रखा गया था?"
       },
       "options": [
         {
-          "en": "Narendra Modi",
-          "hi": "Narendra Modi"
+          "en": "Andhra Pradesh and Odisha",
+          "hi": "आंध्र प्रदेश और ओडिशा"
         },
         {
-          "en": "Shaktikanta Das",
-          "hi": "Shaktikanta Das"
+          "en": "Gujarat and Maharashtra",
+          "hi": "गुजरात और महाराष्ट्र"
         },
         {
-          "en": "Nirmala Sitharaman",
-          "hi": "Nirmala Sitharaman"
+          "en": "Tamil Nadu and Kerala",
+          "hi": "तमिलनाडु और केरल"
         },
         {
-          "en": "Droupadi Murmu",
-          "hi": "Droupadi Murmu"
+          "en": "West Bengal and Bihar",
+          "hi": "पश्चिम बंगाल और बिहार"
         }
       ],
       "correctAnswer": 0,
       "explanation": {
-        "en": "Prime Minister Narendra Modi inaugurated the Reserve Bank of India’s (RBI) new Data Centre and Cybersecurity Training Institute in Bhubaneswar, Odisha. This facility aims to strengthen the digital payment infrastructure and cybersecurity preparedness of India's banking sector. The RBI Governor is Shaktikanta Das.",
-        "hi": "प्रधान मंत्री नरेंद्र मोदी ने ओडिशा के भुवनेश्वर में भारतीय रिजर्व बैंक (आरबीआई) के नए डेटा सेंटर और साइबर सुरक्षा प्रशिक्षण संस्थान का उद्घाटन किया।इस सुविधा का उद्देश्य भारत के बैंकिंग क्षेत्र के डिजिटल भुगतान बुनियादी ढांचे और साइबर सुरक्षा तैयारियों को मजबूत करना है।आरबीआई गवर्नर शक्तिकांत दास हैं।"
+        "en": "Andhra Pradesh and Odisha were put on high alert as Cyclone 'Arnab' neared land. The India Meteorological Department (IMD) issued red alerts for seven districts in Andhra Pradesh.",
+        "hi": "आंध्र प्रदेश और ओडिशा को हाई अलर्ट पर रखा गया क्योंकि चक्रवात 'अर्नब' जमीन के करीब आ गया था। भारत मौसम विज्ञान विभाग (IMD) ने आंध्र प्रदेश के सात जिलों के लिए रेड अलर्ट जारी किया।"
       },
-      "category": "Economy & Banking",
-      "difficulty": "easy",
-      "sourceUrl": "https://pib.gov.in"
+      "category": "Environment & Ecology",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/news/national/"
     },
     {
-      "id": "ca_20261026_02",
+      "id": "ca_20261027_02",
       "question": {
-        "en": "As per recent statements by the RBI Governor, what is a primary requirement for all data centres handling Indian financial data?",
-        "hi": "आरबीआई गवर्नर के हालिया बयानों के अनुसार, भारतीय वित्तीय डेटा को संभालने वाले सभी डेटा केंद्रों के लिए प्राथमिक आवश्यकता क्या है?"
+        "en": "Who has been awarded the Oskar Klein Medal in 2026 for his contributions to string theory?",
+        "hi": "स्ट्रिंग थ्योरी में उनके योगदान के लिए 2026 में ऑस्कर क्लेन मेडल से किसे सम्मानित किया गया है?"
       },
       "options": [
         {
-          "en": "They must be sovereign and located within India",
-          "hi": "उन्हें संप्रभु होना चाहिए और भारत के भीतर स्थित होना चाहिए"
+          "en": "C.N.R. Rao",
+          "hi": "सी.एन.आर. राव"
         },
         {
-          "en": "They must have 100% foreign direct investment",
-          "hi": "उनके पास 100% प्रत्यक्ष विदेशी निवेश होना चाहिए"
+          "en": "Ashoke Sen",
+          "hi": "अशोक सेन"
         },
         {
-          "en": "They must use only open-source software",
-          "hi": "उन्हें केवल ओपन-सोर्स सॉफ़्टवेयर का उपयोग करना होगा"
+          "en": "Jayant Narlikar",
+          "hi": "जयंत नार्लीकर"
         },
         {
-          "en": "They must be managed by the World Bank",
-          "hi": "इनका प्रबंधन विश्व बैंक द्वारा किया जाना चाहिए"
+          "en": "K. Sivan",
+          "hi": "के. सिवन"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "String theory pioneer Ashoke Sen won the Oskar Klein Medal in 2026. The medal is awarded by Stockholm University and the Nobel Committee for Physics of the Royal Swedish Academy of Sciences.",
+        "hi": "स्ट्रिंग थ्योरी के अग्रणी अशोक सेन ने 2026 में ऑस्कर क्लेन मेडल जीता। यह मेडल स्टॉकहोम विश्वविद्यालय और रॉयल स्वीडिश एकेडमी ऑफ साइंसेज की भौतिकी के लिए नोबेल समिति द्वारा प्रदान किया जाता है।"
+      },
+      "category": "Awards & Honours",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/sci-tech/science/"
+    },
+    {
+      "id": "ca_20261027_03",
+      "question": {
+        "en": "Indian Railways is planning to launch two new Vande Bharat Sleeper trains. What is a key feature of Vande Bharat trains?",
+        "hi": "भारतीय रेलवे दो नई वंदे भारत स्लीपर ट्रेनें शुरू करने की योजना बना रही है। वंदे भारत ट्रेनों की एक प्रमुख विशेषता क्या है?"
+      },
+      "options": [
+        {
+          "en": "They are hauled by diesel locomotives",
+          "hi": "इन्हें डीजल इंजनों द्वारा खींचा जाता है"
+        },
+        {
+          "en": "They are semi-high speed, self-propelled trainsets",
+          "hi": "वे सेमी-हाई स्पीड, स्व-चालित ट्रेनसेट हैं"
+        },
+        {
+          "en": "They run exclusively on narrow gauge",
+          "hi": "वे विशेष रूप से नैरो गेज पर चलती हैं"
+        },
+        {
+          "en": "They only operate for freight transport",
+          "hi": "वे केवल माल ढुलाई के लिए काम करती हैं"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Vande Bharat Express is a medium-distance, semi-high speed superfast train operated by Indian Railways. It is a self-propelled trainset.",
+        "hi": "वंदे भारत एक्सप्रेस भारतीय रेलवे द्वारा संचालित एक मध्यम दूरी की, सेमी-हाई स्पीड सुपरफास्ट ट्रेन है। यह एक स्व-चालित ट्रेनसेट है।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/"
+    },
+    {
+      "id": "ca_20261027_04",
+      "question": {
+        "en": "Which authority fined Britannia ₹1 lakh over a misleading claim regarding their '100% whole wheat bread' in October 2026?",
+        "hi": "अक्टूबर 2026 में किस प्राधिकरण ने अपने '100% होल व्हीट ब्रेड' के संबंध में भ्रामक दावे को लेकर ब्रिटानिया पर ₹1 लाख का जुर्माना लगाया?"
+      },
+      "options": [
+        {
+          "en": "Food Safety and Standards Authority of India (FSSAI)",
+          "hi": "भारतीय खाद्य सुरक्षा और मानक प्राधिकरण (FSSAI)"
+        },
+        {
+          "en": "Central Consumer Protection Authority (CCPA)",
+          "hi": "केंद्रीय उपभोक्ता संरक्षण प्राधिकरण (CCPA)"
+        },
+        {
+          "en": "Competition Commission of India (CCI)",
+          "hi": "भारतीय प्रतिस्पर्धा आयोग (CCI)"
+        },
+        {
+          "en": "Bureau of Indian Standards (BIS)",
+          "hi": "भारतीय मानक ब्यूरो (BIS)"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The Central Consumer Protection Authority (CCPA) fined Britannia ₹1 lakh for falsely claiming its product was '100% whole wheat bread' when it contained only 62% wheat.",
+        "hi": "केंद्रीय उपभोक्ता संरक्षण प्राधिकरण (CCPA) ने ब्रिटानिया पर ₹1 लाख का जुर्माना लगाया क्योंकि उसने झूठा दावा किया था कि उसका उत्पाद '100% होल व्हीट ब्रेड' था, जबकि इसमें केवल 62% गेहूं था।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/business/"
+    },
+    {
+      "id": "ca_20261027_05",
+      "question": {
+        "en": "Who set a record by completing a historic Kopa Trophy hat-trick at the Ballon d'Or ceremony in 2026?",
+        "hi": "2026 में बैलन डी'ओर समारोह में ऐतिहासिक कोपा ट्रॉफी हैट्रिक पूरी करके किसने रिकॉर्ड बनाया?"
+      },
+      "options": [
+        {
+          "en": "Jude Bellingham",
+          "hi": "जूड बेलिंगहैम"
+        },
+        {
+          "en": "Lamine Yamal",
+          "hi": "लैमिन यामल"
+        },
+        {
+          "en": "Kylian Mbappé",
+          "hi": "कैलियन एम्बाप्पे"
+        },
+        {
+          "en": "Vinícius Júnior",
+          "hi": "विनिसियस जूनियर"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Lamine Yamal set a Ballon d'Or record by completing a historic Kopa Trophy hat-trick. The Kopa Trophy is awarded to the best performing player under the age of 21.",
+        "hi": "लैमिन यामल ने ऐतिहासिक कोपा ट्रॉफी हैट्रिक पूरी कर बैलन डी'ओर रिकॉर्ड बनाया। कोपा ट्रॉफी 21 वर्ष से कम आयु के सर्वश्रेष्ठ प्रदर्शन करने वाले खिलाड़ी को दी जाती है।"
+      },
+      "category": "Sports",
+      "difficulty": "hard",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports"
+    },
+    {
+      "id": "ca_20261027_06",
+      "question": {
+        "en": "Accession Day in Jammu & Kashmir, which marks the signing of the Instrument of Accession by Maharaja Hari Singh, is observed on which date?",
+        "hi": "जम्मू-कश्मीर में विलय दिवस, जो महाराजा हरि सिंह द्वारा विलय पत्र पर हस्ताक्षर करने का प्रतीक है, किस तिथि को मनाया जाता है?"
+      },
+      "options": [
+        {
+          "en": "October 26",
+          "hi": "26 अक्टूबर"
+        },
+        {
+          "en": "August 5",
+          "hi": "5 अगस्त"
+        },
+        {
+          "en": "August 15",
+          "hi": "15 अगस्त"
+        },
+        {
+          "en": "January 26",
+          "hi": "26 जनवरी"
         }
       ],
       "correctAnswer": 0,
       "explanation": {
-        "en": "RBI Governor Shaktikanta Das stated that keeping all data centres sovereign and locating them within India is essential for financial security. Data localization ensures that critical financial data of Indian citizens is protected against external geopolitical risks and cyber threats.",
-        "hi": "आरबीआई गवर्नर शक्तिकांत दास ने कहा कि सभी डेटा केंद्रों को संप्रभु रखना और उन्हें भारत के भीतर स्थित करना वित्तीय सुरक्षा के लिए आवश्यक है।डेटा स्थानीयकरण यह सुनिश्चित करता है कि भारतीय नागरिकों का महत्वपूर्ण वित्तीय डेटा बाहरी भू-राजनीतिक जोखिमों और साइबर खतरों से सुरक्षित है।"
+        "en": "Accession Day in Jammu & Kashmir is observed on October 26. It marks the signing of the Instrument of Accession by Maharaja Hari Singh in 1947, acceding to the Dominion of India.",
+        "hi": "जम्मू-कश्मीर में विलय दिवस 26 अक्टूबर को मनाया जाता है। यह 1947 में महाराजा हरि सिंह द्वारा विलय पत्र पर हस्ताक्षर करने, भारत के डोमिनियन में शामिल होने का प्रतीक है।"
+      },
+      "category": "Important Days & Themes",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.thehindu.com/news/national/"
+    },
+    {
+      "id": "ca_20261027_07",
+      "question": {
+        "en": "Which public sector bank plans to launch a Qualified Institutional Placement (QIP) in Q4 of FY25 after reporting a net profit of ₹1,962.67 crore in the September 2026 quarter?",
+        "hi": "सितंबर 2026 तिमाही में ₹1,962.67 करोड़ का शुद्ध लाभ दर्ज करने के बाद कौन सा सार्वजनिक क्षेत्र का बैंक वित्त वर्ष 25 की चौथी तिमाही में योग्य संस्थागत प्लेसमेंट (QIP) शुरू करने की योजना बना रहा है?"
+      },
+      "options": [
+        {
+          "en": "State Bank of India (SBI)",
+          "hi": "भारतीय स्टेट बैंक (SBI)"
+        },
+        {
+          "en": "Bank of Baroda",
+          "hi": "बैंक ऑफ बड़ौदा"
+        },
+        {
+          "en": "Indian Overseas Bank (IOB)",
+          "hi": "इंडियन ओवरसीज बैंक (IOB)"
+        },
+        {
+          "en": "Canara Bank",
+          "hi": "केनरा बैंक"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Indian Overseas Bank (IOB) plans to launch a QIP in Q4. It reported a net profit of ₹1,962.67 crore in the September quarter. A QIP is a capital-raising tool for listed companies.",
+        "hi": "इंडियन ओवरसीज बैंक (IOB) चौथी तिमाही में QIP लॉन्च करने की योजना बना रहा है। इसने सितंबर तिमाही में ₹1,962.67 करोड़ का शुद्ध लाभ दर्ज किया। QIP सूचीबद्ध कंपनियों के लिए पूंजी जुटाने का एक उपकरण है।"
       },
       "category": "Economy & Banking",
       "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com"
+      "sourceUrl": "https://www.thehindu.com/business/"
     },
     {
-      "id": "ca_20261026_03",
+      "id": "ca_20261027_08",
       "question": {
-        "en": "The Home Ministry has announced plans to build a civil defence network of around 60,000 volunteers. In how many states and UTs will this initially be rolled out?",
-        "hi": "गृह मंत्रालय ने लगभग 60,000 स्वयंसेवकों का नागरिक सुरक्षा नेटवर्क बनाने की योजना की घोषणा की है।शुरुआत में इसे कितने राज्यों और केंद्रशासित प्रदेशों में लागू किया जाएगा?"
+        "en": "In October 2026, the Central Government directed states to enter 'mission mode' to curb stubble burning. Which of the following is a major scheme launched by the Centre to address this issue?",
+        "hi": "अक्टूबर 2026 में, केंद्र सरकार ने राज्यों को पराली जलाने से रोकने के लिए 'मिशन मोड' में प्रवेश करने का निर्देश दिया। इस मुद्दे को हल करने के लिए केंद्र द्वारा शुरू की गई एक प्रमुख योजना निम्नलिखित में से कौन सी है?"
       },
       "options": [
         {
-          "en": "10",
-          "hi": "10"
+          "en": "PM-KUSUM",
+          "hi": "पीएम-कुसुम"
         },
         {
-          "en": "12",
-          "hi": "12"
+          "en": "Crop Residue Management (CRM) Scheme",
+          "hi": "फसल अवशेष प्रबंधन (CRM) योजना"
         },
         {
-          "en": "15",
-          "hi": "15"
+          "en": "PM Fasal Bima Yojana",
+          "hi": "पीएम फसल बीमा योजना"
         },
         {
-          "en": "8",
-          "hi": "8"
+          "en": "Paramparagat Krishi Vikas Yojana",
+          "hi": "परम्परागत कृषि विकास योजना"
         }
       ],
       "correctAnswer": 1,
       "explanation": {
-        "en": "The Ministry of Home Affairs has decided to build a civil defence network comprising around 60,000 volunteers across 12 states and Union Territories. This initiative aims to enhance community resilience and disaster response capabilities at the grassroots level.",
-        "hi": "गृह मंत्रालय ने 12 राज्यों और केंद्र शासित प्रदेशों में लगभग 60,000 स्वयंसेवकों को शामिल करते हुए एक नागरिक सुरक्षा नेटवर्क बनाने का निर्णय लिया है।इस पहल का उद्देश्य जमीनी स्तर पर सामुदायिक लचीलेपन और आपदा प्रतिक्रिया क्षमताओं को बढ़ाना है।"
+        "en": "The Centre urged states to go into 'mission mode' to curb stubble burning. The Crop Residue Management (CRM) scheme provides subsidies for agricultural machinery to manage crop residue in-situ.",
+        "hi": "केंद्र ने राज्यों से पराली जलाने पर अंकुश लगाने के लिए 'मिशन मोड' में जाने का आग्रह किया। फसल अवशेष प्रबंधन (CRM) योजना इन-सीटू फसल अवशेषों के प्रबंधन के लिए कृषि मशीनरी के लिए सब्सिडी प्रदान करती है।"
       },
-      "category": "Defence & Security",
-      "difficulty": "hard",
-      "sourceUrl": "https://newsonair.gov.in"
-    },
-    {
-      "id": "ca_20261026_04",
-      "question": {
-        "en": "Which branch of the armed forces conducts the 'Camp Hamlawar' exercise to test endurance and survival skills?",
-        "hi": "सशस्त्र बलों की कौन सी शाखा सहनशक्ति और जीवित रहने के कौशल का परीक्षण करने के लिए 'कैंप हमलावार' अभ्यास आयोजित करती है?"
-      },
-      "options": [
-        {
-          "en": "Indian Army",
-          "hi": "भारतीय सेना"
-        },
-        {
-          "en": "Indian Air Force",
-          "hi": "भारतीय वायु सेना"
-        },
-        {
-          "en": "Indian Navy",
-          "hi": "भारतीय नौसेना"
-        },
-        {
-          "en": "Indian Coast Guard",
-          "hi": "भारतीय तट रक्षक"
-        }
-      ],
-      "correctAnswer": 2,
-      "explanation": {
-        "en": "The Indian Navy conducts 'Camp Hamlawar' to test the endurance, teamwork, and survival skills of its officers and Agniveers. Such rigorous training camps are designed to prepare naval personnel for challenging maritime environments.",
-        "hi": "भारतीय नौसेना अपने अधिकारियों और अग्निवीरों की सहनशक्ति, टीम वर्क और जीवित रहने के कौशल का परीक्षण करने के लिए 'कैंप हमलावार' का आयोजन करती है।ऐसे कठोर प्रशिक्षण शिविर नौसेना कर्मियों को चुनौतीपूर्ण समुद्री वातावरण के लिए तैयार करने के लिए डिज़ाइन किए गए हैं।"
-      },
-      "category": "Defence & Security",
+      "category": "Government Schemes",
       "difficulty": "medium",
-      "sourceUrl": "https://ssbcrack.com"
+      "sourceUrl": "https://timesofindia.indiatimes.com/environment"
     },
     {
-      "id": "ca_20261026_05",
+      "id": "ca_20261027_09",
       "question": {
-        "en": "According to a recent announcement by ISRO, how many space launch pads is India projected to have by 2029?",
-        "hi": "इसरो की हालिया घोषणा के अनुसार, 2029 तक भारत के पास कितने अंतरिक्ष लॉन्च पैड होने का अनुमान है?"
+        "en": "Which glacier in Antarctica, often referred to as the 'Doomsday Glacier', was reported to be melting faster than feared in October 2026?",
+        "hi": "अंटार्कटिका में किस ग्लेशियर, जिसे अक्सर 'डूम्सडे ग्लेशियर' कहा जाता है, के बारे में अक्टूबर 2026 में आशंका से अधिक तेजी से पिघलने की सूचना मिली थी?"
       },
       "options": [
         {
-          "en": "2",
-          "hi": "2"
+          "en": "Pine Island Glacier",
+          "hi": "पाइन द्वीप ग्लेशियर"
         },
         {
-          "en": "3",
-          "hi": "3"
+          "en": "Thwaites Glacier",
+          "hi": "थवाइट्स ग्लेशियर"
         },
         {
-          "en": "4",
-          "hi": "4"
+          "en": "Lambert Glacier",
+          "hi": "लैम्बर्ट ग्लेशियर"
         },
         {
-          "en": "5",
-          "hi": "5"
+          "en": "Denman Glacier",
+          "hi": "डेनमैन ग्लेशियर"
         }
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 1,
       "explanation": {
-        "en": "The Indian Space Research Organisation (ISRO) plans to have a total of 4 space launch pads by 2029 to accommodate the growing number of commercial and domestic space missions. Currently, ISRO operates from the Satish Dhawan Space Centre in Sriharikota, which has two launch pads, and a new spaceport is being developed in Kulasekarapattinam, Tamil Nadu.",
-        "hi": "भारतीय अंतरिक्ष अनुसंधान संगठन (इसरो) ने वाणिज्यिक और घरेलू अंतरिक्ष मिशनों की बढ़ती संख्या को समायोजित करने के लिए 2029 तक कुल 4 अंतरिक्ष लॉन्च पैड बनाने की योजना बनाई है।वर्तमान में, इसरो श्रीहरिकोटा में सतीश धवन अंतरिक्ष केंद्र से संचालित होता है, जिसमें दो लॉन्च पैड हैं, और तमिलनाडु के कुलसेकरपट्टिनम में एक नया स्पेसपोर्ट विकसित किया जा रहा है।"
+        "en": "The Thwaites Glacier in Antarctica, the size of Britain, is melting rapidly. It is nicknamed the 'Doomsday Glacier' due to its potential to significantly raise global sea levels if it collapses entirely.",
+        "hi": "अंटार्कटिका में ब्रिटेन के आकार का थवाइट्स ग्लेशियर तेजी से पिघल रहा है। अगर यह पूरी तरह से ढह जाता है, तो इसके वैश्विक समुद्र के स्तर को काफी बढ़ाने की क्षमता के कारण इसे 'डूम्सडे ग्लेशियर' का उपनाम दिया गया है।"
       },
-      "category": "Science & Technology",
-      "difficulty": "easy",
-      "sourceUrl": "https://deccanchronicle.com"
+      "category": "Environment & Ecology",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/environment"
     },
     {
-      "id": "ca_20261026_06",
+      "id": "ca_20261027_10",
       "question": {
-        "en": "By how many runs did the Indian Women's Cricket team defeat Zimbabwe to seal the recent Women's ODI Series?",
-        "hi": "भारतीय महिला क्रिकेट टीम ने हाल ही में जिम्बाब्वे को कितने रनों से हराकर महिला वनडे सीरीज अपने नाम की?"
+        "en": "According to leaked reports in October 2026, which English footballer was declared the winner of the Ballon d'Or, ending a 25-year wait for England?",
+        "hi": "अक्टूबर 2026 की लीक रिपोर्टों के अनुसार, किस अंग्रेजी फुटबॉलर को बैलन डी'ओर का विजेता घोषित किया गया, जिससे इंग्लैंड का 25 साल का इंतजार खत्म हो गया?"
       },
       "options": [
         {
-          "en": "80 runs",
-          "hi": "80 रन"
+          "en": "Jude Bellingham",
+          "hi": "जूड बेलिंगहैम"
         },
         {
-          "en": "105 runs",
-          "hi": "105 रन"
+          "en": "Harry Kane",
+          "hi": "हैरी केन"
         },
         {
-          "en": "121 runs",
-          "hi": "121 रन"
+          "en": "Phil Foden",
+          "hi": "फिल फोडेन"
         },
         {
-          "en": "150 runs",
-          "hi": "150 रन"
+          "en": "Bukayo Saka",
+          "hi": "बुकायो साका"
         }
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 1,
       "explanation": {
-        "en": "The Indian Women's Cricket team defeated Zimbabwe by 121 runs to secure the Women's ODI Series victory. Such bilateral series wins are crucial for improving ICC rankings ahead of major global tournaments.",
-        "hi": "भारतीय महिला क्रिकेट टीम ने जिम्बाब्वे को 121 रनों से हराकर महिला वनडे सीरीज जीत हासिल की।प्रमुख वैश्विक टूर्नामेंटों से पहले आईसीसी रैंकिंग में सुधार के लिए ऐसी द्विपक्षीय श्रृंखला जीत महत्वपूर्ण हैं।"
+        "en": "Leaked reports indicated Harry Kane won the 2026 Ballon d'Or, ending a 25-year wait for an English winner since Michael Owen in 2001. The award is presented annually by France Football.",
+        "hi": "लीक हुई रिपोर्टों से संकेत मिलता है कि हैरी केन ने 2026 का बैलन डी'ओर जीता, जिससे 2001 में माइकल ओवेन के बाद एक अंग्रेजी विजेता का 25 साल का इंतजार खत्म हो गया। यह पुरस्कार प्रतिवर्ष फ्रांस फुटबॉल द्वारा प्रदान किया जाता है।"
       },
       "category": "Sports",
-      "difficulty": "medium",
-      "sourceUrl": "https://newsonair.gov.in"
-    },
-    {
-      "id": "ca_20261026_07",
-      "question": {
-        "en": "Where was the 96th 'Fit India – Sundays on Cycle' event recently organised to promote cyber security awareness and traditional Indian games?",
-        "hi": "हाल ही में साइबर सुरक्षा जागरूकता और पारंपरिक भारतीय खेलों को बढ़ावा देने के लिए 96वां 'फिट इंडिया - संडेज़ ऑन साइकिल' कार्यक्रम कहाँ आयोजित किया गया था?"
-      },
-      "options": [
-        {
-          "en": "Arun Jaitley Stadium, Delhi",
-          "hi": "अरुण जेटली स्टेडियम, दिल्ली"
-        },
-        {
-          "en": "Wankhede Stadium, Mumbai",
-          "hi": "वानखेड़े स्टेडियम, मुंबई"
-        },
-        {
-          "en": "Narendra Modi Stadium, Ahmedabad",
-          "hi": "नरेंद्र मोदी स्टेडियम, अहमदाबाद"
-        },
-        {
-          "en": "Eden Gardens, Kolkata",
-          "hi": "ईडन गार्डन, कोलकाता"
-        }
-      ],
-      "correctAnswer": 2,
-      "explanation": {
-        "en": "The 96th edition of 'Fit India – Sundays on Cycle' was organized at the Narendra Modi Stadium in Ahmedabad. The event focused on promoting physical fitness, cyber security awareness, and traditional Indian games among the youth.",
-        "hi": "'फिट इंडिया-संडेज़ ऑन साइकिल' के 96वें संस्करण का आयोजन अहमदाबाद के नरेंद्र मोदी स्टेडियम में किया गया।यह आयोजन युवाओं के बीच शारीरिक फिटनेस, साइबर सुरक्षा जागरूकता और पारंपरिक भारतीय खेलों को बढ़ावा देने पर केंद्रित था।"
-      },
-      "category": "Sports",
-      "difficulty": "medium",
-      "sourceUrl": "https://pib.gov.in"
-    },
-    {
-      "id": "ca_20261026_08",
-      "question": {
-        "en": "Experts have recently warned about the potential disappearance of which animal from the forests of Uttarakhand?",
-        "hi": "हाल ही में विशेषज्ञों ने उत्तराखंड के जंगलों से किस जानवर के गायब होने की चेतावनी दी है?"
-      },
-      "options": [
-        {
-          "en": "Snow Leopard",
-          "hi": "हिम तेंदुआ"
-        },
-        {
-          "en": "Dhole (Asiatic Wild Dog)",
-          "hi": "ढोले (एशियाई जंगली कुत्ता)"
-        },
-        {
-          "en": "Himalayan Monal",
-          "hi": "Himalayan Monal"
-        },
-        {
-          "en": "Musk Deer",
-          "hi": "कस्तूरी मृग"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "Wildlife experts have expressed concern that the Dhole, also known as the Asiatic Wild Dog, may have disappeared from the forests of Uttarakhand due to habitat loss and lack of prey. Dholes are classified as Endangered on the IUCN Red List.",
-        "hi": "वन्यजीव विशेषज्ञों ने चिंता व्यक्त की है कि ढोले, जिसे एशियाई जंगली कुत्ते के रूप में भी जाना जाता है, निवास स्थान के नुकसान और शिकार की कमी के कारण उत्तराखंड के जंगलों से गायब हो गया है।ढोलों को IUCN रेड लिस्ट में लुप्तप्राय के रूप में वर्गीकृत किया गया है।"
-      },
-      "category": "Environment & Ecology",
       "difficulty": "hard",
-      "sourceUrl": "https://newindianexpress.com"
-    },
-    {
-      "id": "ca_20261026_09",
-      "question": {
-        "en": "In which tiger reserve was Tigress T-2403 recently spotted with three new cubs?",
-        "hi": "हाल ही में बाघिन टी-2403 को तीन नए शावकों के साथ किस बाघ अभयारण्य में देखा गया?"
-      },
-      "options": [
-        {
-          "en": "Jim Corbett Tiger Reserve",
-          "hi": "जिम कॉर्बेट टाइगर रिजर्व"
-        },
-        {
-          "en": "Bandipur Tiger Reserve",
-          "hi": "बांदीपुर टाइगर रिजर्व"
-        },
-        {
-          "en": "Ranthambore Tiger Reserve",
-          "hi": "रणथंभौर टाइगर रिजर्व"
-        },
-        {
-          "en": "Kanha Tiger Reserve",
-          "hi": "कान्हा टाइगर रिजर्व"
-        }
-      ],
-      "correctAnswer": 2,
-      "explanation": {
-        "en": "Tigress T-2403 was recently sighted with three newborn cubs in the Ranthambore Tiger Reserve, Rajasthan. Such sightings indicate a healthy breeding population and successful conservation efforts in the reserve.",
-        "hi": "बाघिन टी-2403 को हाल ही में राजस्थान के रणथंभौर टाइगर रिजर्व में तीन नवजात शावकों के साथ देखा गया था।इस तरह के दृश्य रिजर्व में स्वस्थ प्रजनन आबादी और सफल संरक्षण प्रयासों का संकेत देते हैं।"
-      },
-      "category": "Environment & Ecology",
-      "difficulty": "easy",
-      "sourceUrl": "https://hindustantimes.com"
-    },
-    {
-      "id": "ca_20261026_10",
-      "question": {
-        "en": "Which authority collaborated with the Ministry of Environment, Forest and Climate Change (MoEFCC) to launch a 5-year project to strengthen biodiversity governance?",
-        "hi": "जैव विविधता शासन को मजबूत करने के लिए 5-वर्षीय परियोजना शुरू करने के लिए किस प्राधिकरण ने पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय (MoEFCC) के साथ सहयोग किया?"
-      },
-      "options": [
-        {
-          "en": "National Green Tribunal (NGT)",
-          "hi": "राष्ट्रीय हरित न्यायाधिकरण (एनजीटी)"
-        },
-        {
-          "en": "National Biodiversity Authority (NBA)",
-          "hi": "राष्ट्रीय जैव विविधता प्राधिकरण (एनबीए)"
-        },
-        {
-          "en": "Wildlife Institute of India (WII)",
-          "hi": "भारतीय वन्यजीव संस्थान (डब्ल्यूआईआई)"
-        },
-        {
-          "en": "Central Pollution Control Board (CPCB)",
-          "hi": "केंद्रीय प्रदूषण नियंत्रण बोर्ड (सीपीसीबी)"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "The Ministry of Environment, Forest and Climate Change (MoEFCC) and the National Biodiversity Authority (NBA) jointly launched a 5-year project aimed at strengthening biodiversity governance in India. The NBA is a statutory body established under the Biological Diversity Act, 2002, headquartered in Chennai.",
-        "hi": "पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय (एमओईएफसीसी) और राष्ट्रीय जैव विविधता प्राधिकरण (एनबीए) ने संयुक्त रूप से भारत में जैव विविधता शासन को मजबूत करने के उद्देश्य से 5 साल की परियोजना शुरू की।एनबीए जैविक विविधता अधिनियम, 2002 के तहत स्थापित एक वैधानिक निकाय है, जिसका मुख्यालय चेन्नई में है।"
-      },
-      "category": "Environment & Ecology",
-      "difficulty": "medium",
-      "sourceUrl": "https://newsonair.gov.in"
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports"
     }
   ]
 }
