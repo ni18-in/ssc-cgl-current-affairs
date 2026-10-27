@@ -1,0 +1,340 @@
+{
+  "date": "2026-10-28",
+  "topic": "SSC CGL Daily Current Affairs",
+  "source": "PIB / The Hindu / Economic Times / Indian Express / GKToday",
+  "lastUpdated": "2026-10-28T06:30:00+05:30",
+  "version": 1,
+  "totalQuestions": 10,
+  "quiz": [
+    {
+      "id": "ca_20261028_01",
+      "question": {
+        "en": "Which of the following states were put on high alert due to Cyclone 'Arnab' in October 2026?",
+        "hi": "अक्टूबर 2026 में चक्रवात 'अर्नब' के कारण निम्नलिखित में से किन राज्यों को हाई अलर्ट पर रखा गया था?"
+      },
+      "options": [
+        {
+          "en": "Andhra Pradesh and Odisha",
+          "hi": "आंध्र प्रदेश और ओडिशा"
+        },
+        {
+          "en": "Gujarat and Maharashtra",
+          "hi": "गुजरात और महाराष्ट्र"
+        },
+        {
+          "en": "Tamil Nadu and Kerala",
+          "hi": "तमिलनाडु और केरल"
+        },
+        {
+          "en": "West Bengal and Bihar",
+          "hi": "पश्चिम बंगाल और बिहार"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "Andhra Pradesh and Odisha were put on high alert as Cyclone 'Arnab' neared land. The India Meteorological Department (IMD) issued red alerts for seven districts in Andhra Pradesh.",
+        "hi": "आंध्र प्रदेश और ओडिशा को हाई अलर्ट पर रखा गया क्योंकि चक्रवात 'अर्नब' जमीन के करीब आ गया था। भारत मौसम विज्ञान विभाग (IMD) ने आंध्र प्रदेश के सात जिलों के लिए रेड अलर्ट जारी किया।"
+      },
+      "category": "Environment & Ecology",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/news/national/"
+    },
+    {
+      "id": "ca_20261028_02",
+      "question": {
+        "en": "Who has been awarded the Oskar Klein Medal in 2026 for his contributions to string theory?",
+        "hi": "स्ट्रिंग थ्योरी में उनके योगदान के लिए 2026 में ऑस्कर क्लेन मेडल से किसे सम्मानित किया गया है?"
+      },
+      "options": [
+        {
+          "en": "C.N.R. Rao",
+          "hi": "सी.एन.आर. राव"
+        },
+        {
+          "en": "Ashoke Sen",
+          "hi": "अशोक सेन"
+        },
+        {
+          "en": "Jayant Narlikar",
+          "hi": "जयंत नार्लीकर"
+        },
+        {
+          "en": "K. Sivan",
+          "hi": "के. सिवन"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "String theory pioneer Ashoke Sen won the Oskar Klein Medal in 2026. The medal is awarded by Stockholm University and the Nobel Committee for Physics of the Royal Swedish Academy of Sciences.",
+        "hi": "स्ट्रिंग थ्योरी के अग्रणी अशोक सेन ने 2026 में ऑस्कर क्लेन मेडल जीता। यह मेडल स्टॉकहोम विश्वविद्यालय और रॉयल स्वीडिश एकेडमी ऑफ साइंसेज की भौतिकी के लिए नोबेल समिति द्वारा प्रदान किया जाता है।"
+      },
+      "category": "Awards & Honours",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/sci-tech/science/"
+    },
+    {
+      "id": "ca_20261028_03",
+      "question": {
+        "en": "Indian Railways is planning to launch two new Vande Bharat Sleeper trains. What is a key feature of Vande Bharat trains?",
+        "hi": "भारतीय रेलवे दो नई वंदे भारत स्लीपर ट्रेनें शुरू करने की योजना बना रही है। वंदे भारत ट्रेनों की एक प्रमुख विशेषता क्या है?"
+      },
+      "options": [
+        {
+          "en": "They are hauled by diesel locomotives",
+          "hi": "इन्हें डीजल इंजनों द्वारा खींचा जाता है"
+        },
+        {
+          "en": "They are semi-high speed, self-propelled trainsets",
+          "hi": "वे सेमी-हाई स्पीड, स्व-चालित ट्रेनसेट हैं"
+        },
+        {
+          "en": "They run exclusively on narrow gauge",
+          "hi": "वे विशेष रूप से नैरो गेज पर चलती हैं"
+        },
+        {
+          "en": "They only operate for freight transport",
+          "hi": "वे केवल माल ढुलाई के लिए काम करती हैं"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Vande Bharat Express is a medium-distance, semi-high speed superfast train operated by Indian Railways. It is a self-propelled trainset.",
+        "hi": "वंदे भारत एक्सप्रेस भारतीय रेलवे द्वारा संचालित एक मध्यम दूरी की, सेमी-हाई स्पीड सुपरफास्ट ट्रेन है। यह एक स्व-चालित ट्रेनसेट है।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/"
+    },
+    {
+      "id": "ca_20261028_04",
+      "question": {
+        "en": "Which authority fined Britannia ₹1 lakh over a misleading claim regarding their '100% whole wheat bread' in October 2026?",
+        "hi": "अक्टूबर 2026 में किस प्राधिकरण ने अपने '100% होल व्हीट ब्रेड' के संबंध में भ्रामक दावे को लेकर ब्रिटानिया पर ₹1 लाख का जुर्माना लगाया?"
+      },
+      "options": [
+        {
+          "en": "Food Safety and Standards Authority of India (FSSAI)",
+          "hi": "भारतीय खाद्य सुरक्षा और मानक प्राधिकरण (FSSAI)"
+        },
+        {
+          "en": "Central Consumer Protection Authority (CCPA)",
+          "hi": "केंद्रीय उपभोक्ता संरक्षण प्राधिकरण (CCPA)"
+        },
+        {
+          "en": "Competition Commission of India (CCI)",
+          "hi": "भारतीय प्रतिस्पर्धा आयोग (CCI)"
+        },
+        {
+          "en": "Bureau of Indian Standards (BIS)",
+          "hi": "भारतीय मानक ब्यूरो (BIS)"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The Central Consumer Protection Authority (CCPA) fined Britannia ₹1 lakh for falsely claiming its product was '100% whole wheat bread' when it contained only 62% wheat.",
+        "hi": "केंद्रीय उपभोक्ता संरक्षण प्राधिकरण (CCPA) ने ब्रिटानिया पर ₹1 लाख का जुर्माना लगाया क्योंकि उसने झूठा दावा किया था कि उसका उत्पाद '100% होल व्हीट ब्रेड' था, जबकि इसमें केवल 62% गेहूं था।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/business/"
+    },
+    {
+      "id": "ca_20261028_05",
+      "question": {
+        "en": "Who set a record by completing a historic Kopa Trophy hat-trick at the Ballon d'Or ceremony in 2026?",
+        "hi": "2026 में बैलन डी'ओर समारोह में ऐतिहासिक कोपा ट्रॉफी हैट्रिक पूरी करके किसने रिकॉर्ड बनाया?"
+      },
+      "options": [
+        {
+          "en": "Jude Bellingham",
+          "hi": "जूड बेलिंगहैम"
+        },
+        {
+          "en": "Lamine Yamal",
+          "hi": "लैमिन यामल"
+        },
+        {
+          "en": "Kylian Mbappé",
+          "hi": "कैलियन एम्बाप्पे"
+        },
+        {
+          "en": "Vinícius Júnior",
+          "hi": "विनिसियस जूनियर"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Lamine Yamal set a Ballon d'Or record by completing a historic Kopa Trophy hat-trick. The Kopa Trophy is awarded to the best performing player under the age of 21.",
+        "hi": "लैमिन यामल ने ऐतिहासिक कोपा ट्रॉफी हैट्रिक पूरी कर बैलन डी'ओर रिकॉर्ड बनाया। कोपा ट्रॉफी 21 वर्ष से कम आयु के सर्वश्रेष्ठ प्रदर्शन करने वाले खिलाड़ी को दी जाती है।"
+      },
+      "category": "Sports",
+      "difficulty": "hard",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports"
+    },
+    {
+      "id": "ca_20261028_06",
+      "question": {
+        "en": "Accession Day in Jammu & Kashmir, which marks the signing of the Instrument of Accession by Maharaja Hari Singh, is observed on which date?",
+        "hi": "जम्मू-कश्मीर में विलय दिवस, जो महाराजा हरि सिंह द्वारा विलय पत्र पर हस्ताक्षर करने का प्रतीक है, किस तिथि को मनाया जाता है?"
+      },
+      "options": [
+        {
+          "en": "October 26",
+          "hi": "26 अक्टूबर"
+        },
+        {
+          "en": "August 5",
+          "hi": "5 अगस्त"
+        },
+        {
+          "en": "August 15",
+          "hi": "15 अगस्त"
+        },
+        {
+          "en": "January 26",
+          "hi": "26 जनवरी"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "Accession Day in Jammu & Kashmir is observed on October 26. It marks the signing of the Instrument of Accession by Maharaja Hari Singh in 1947, acceding to the Dominion of India.",
+        "hi": "जम्मू-कश्मीर में विलय दिवस 26 अक्टूबर को मनाया जाता है। यह 1947 में महाराजा हरि सिंह द्वारा विलय पत्र पर हस्ताक्षर करने, भारत के डोमिनियन में शामिल होने का प्रतीक है।"
+      },
+      "category": "Important Days & Themes",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.thehindu.com/news/national/"
+    },
+    {
+      "id": "ca_20261028_07",
+      "question": {
+        "en": "Which public sector bank plans to launch a Qualified Institutional Placement (QIP) in Q4 of FY25 after reporting a net profit of ₹1,962.67 crore in the September 2026 quarter?",
+        "hi": "सितंबर 2026 तिमाही में ₹1,962.67 करोड़ का शुद्ध लाभ दर्ज करने के बाद कौन सा सार्वजनिक क्षेत्र का बैंक वित्त वर्ष 25 की चौथी तिमाही में योग्य संस्थागत प्लेसमेंट (QIP) शुरू करने की योजना बना रहा है?"
+      },
+      "options": [
+        {
+          "en": "State Bank of India (SBI)",
+          "hi": "भारतीय स्टेट बैंक (SBI)"
+        },
+        {
+          "en": "Bank of Baroda",
+          "hi": "बैंक ऑफ बड़ौदा"
+        },
+        {
+          "en": "Indian Overseas Bank (IOB)",
+          "hi": "इंडियन ओवरसीज बैंक (IOB)"
+        },
+        {
+          "en": "Canara Bank",
+          "hi": "केनरा बैंक"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Indian Overseas Bank (IOB) plans to launch a QIP in Q4. It reported a net profit of ₹1,962.67 crore in the September quarter. A QIP is a capital-raising tool for listed companies.",
+        "hi": "इंडियन ओवरसीज बैंक (IOB) चौथी तिमाही में QIP लॉन्च करने की योजना बना रहा है। इसने सितंबर तिमाही में ₹1,962.67 करोड़ का शुद्ध लाभ दर्ज किया। QIP सूचीबद्ध कंपनियों के लिए पूंजी जुटाने का एक उपकरण है।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/business/"
+    },
+    {
+      "id": "ca_20261028_08",
+      "question": {
+        "en": "In October 2026, the Central Government directed states to enter 'mission mode' to curb stubble burning. Which of the following is a major scheme launched by the Centre to address this issue?",
+        "hi": "अक्टूबर 2026 में, केंद्र सरकार ने राज्यों को पराली जलाने से रोकने के लिए 'मिशन मोड' में प्रवेश करने का निर्देश दिया। इस मुद्दे को हल करने के लिए केंद्र द्वारा शुरू की गई एक प्रमुख योजना निम्नलिखित में से कौन सी है?"
+      },
+      "options": [
+        {
+          "en": "PM-KUSUM",
+          "hi": "पीएम-कुसुम"
+        },
+        {
+          "en": "Crop Residue Management (CRM) Scheme",
+          "hi": "फसल अवशेष प्रबंधन (CRM) योजना"
+        },
+        {
+          "en": "PM Fasal Bima Yojana",
+          "hi": "पीएम फसल बीमा योजना"
+        },
+        {
+          "en": "Paramparagat Krishi Vikas Yojana",
+          "hi": "परम्परागत कृषि विकास योजना"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The Centre urged states to go into 'mission mode' to curb stubble burning. The Crop Residue Management (CRM) scheme provides subsidies for agricultural machinery to manage crop residue in-situ.",
+        "hi": "केंद्र ने राज्यों से पराली जलाने पर अंकुश लगाने के लिए 'मिशन मोड' में जाने का आग्रह किया। फसल अवशेष प्रबंधन (CRM) योजना इन-सीटू फसल अवशेषों के प्रबंधन के लिए कृषि मशीनरी के लिए सब्सिडी प्रदान करती है।"
+      },
+      "category": "Government Schemes",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/environment"
+    },
+    {
+      "id": "ca_20261028_09",
+      "question": {
+        "en": "Which glacier in Antarctica, often referred to as the 'Doomsday Glacier', was reported to be melting faster than feared in October 2026?",
+        "hi": "अंटार्कटिका में किस ग्लेशियर, जिसे अक्सर 'डूम्सडे ग्लेशियर' कहा जाता है, के बारे में अक्टूबर 2026 में आशंका से अधिक तेजी से पिघलने की सूचना मिली थी?"
+      },
+      "options": [
+        {
+          "en": "Pine Island Glacier",
+          "hi": "पाइन द्वीप ग्लेशियर"
+        },
+        {
+          "en": "Thwaites Glacier",
+          "hi": "थवाइट्स ग्लेशियर"
+        },
+        {
+          "en": "Lambert Glacier",
+          "hi": "लैम्बर्ट ग्लेशियर"
+        },
+        {
+          "en": "Denman Glacier",
+          "hi": "डेनमैन ग्लेशियर"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The Thwaites Glacier in Antarctica, the size of Britain, is melting rapidly. It is nicknamed the 'Doomsday Glacier' due to its potential to significantly raise global sea levels if it collapses entirely.",
+        "hi": "अंटार्कटिका में ब्रिटेन के आकार का थवाइट्स ग्लेशियर तेजी से पिघल रहा है। अगर यह पूरी तरह से ढह जाता है, तो इसके वैश्विक समुद्र के स्तर को काफी बढ़ाने की क्षमता के कारण इसे 'डूम्सडे ग्लेशियर' का उपनाम दिया गया है।"
+      },
+      "category": "Environment & Ecology",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/environment"
+    },
+    {
+      "id": "ca_20261028_10",
+      "question": {
+        "en": "According to leaked reports in October 2026, which English footballer was declared the winner of the Ballon d'Or, ending a 25-year wait for England?",
+        "hi": "अक्टूबर 2026 की लीक रिपोर्टों के अनुसार, किस अंग्रेजी फुटबॉलर को बैलन डी'ओर का विजेता घोषित किया गया, जिससे इंग्लैंड का 25 साल का इंतजार खत्म हो गया?"
+      },
+      "options": [
+        {
+          "en": "Jude Bellingham",
+          "hi": "जूड बेलिंगहैम"
+        },
+        {
+          "en": "Harry Kane",
+          "hi": "हैरी केन"
+        },
+        {
+          "en": "Phil Foden",
+          "hi": "फिल फोडेन"
+        },
+        {
+          "en": "Bukayo Saka",
+          "hi": "बुकायो साका"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Leaked reports indicated Harry Kane won the 2026 Ballon d'Or, ending a 25-year wait for an English winner since Michael Owen in 2001. The award is presented annually by France Football.",
+        "hi": "लीक हुई रिपोर्टों से संकेत मिलता है कि हैरी केन ने 2026 का बैलन डी'ओर जीता, जिससे 2001 में माइकल ओवेन के बाद एक अंग्रेजी विजेता का 25 साल का इंतजार खत्म हो गया। यह पुरस्कार प्रतिवर्ष फ्रांस फुटबॉल द्वारा प्रदान किया जाता है।"
+      },
+      "category": "Sports",
+      "difficulty": "hard",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports"
+    }
+  ]
+}
