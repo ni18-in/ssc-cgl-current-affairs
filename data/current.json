@@ -1,340 +1,340 @@
 {
-  "date": "2026-10-27",
+  "date": "2026-10-28",
   "topic": "SSC CGL Daily Current Affairs",
-  "source": "PIB / The Hindu / Economic Times / Indian Express / GKToday",
-  "lastUpdated": "2026-10-27T05:11:11+05:30",
+  "source": "The Hindu / Times of India / Business Standard",
+  "lastUpdated": "2026-10-28T06:00:00+05:30",
   "version": 1,
   "totalQuestions": 10,
   "quiz": [
     {
-      "id": "ca_20261027_01",
+      "id": "ca_20261028_01",
       "question": {
-        "en": "Which of the following states were put on high alert due to Cyclone 'Arnab' in October 2026?",
-        "hi": "अक्टूबर 2026 में चक्रवात 'अर्नब' के कारण निम्नलिखित में से किन राज्यों को हाई अलर्ट पर रखा गया था?"
+        "en": "Recently, which state government revised housing loan limits for urban cooperative banks and credit societies?",
+        "hi": "हाल ही में, किस राज्य सरकार ने शहरी सहकारी बैंकों और क्रेडिट समितियों के लिए आवास ऋण सीमा को संशोधित किया?"
       },
       "options": [
         {
-          "en": "Andhra Pradesh and Odisha",
-          "hi": "आंध्र प्रदेश और ओडिशा"
+          "en": "Tamil Nadu",
+          "hi": "तमिलनाडु"
         },
         {
-          "en": "Gujarat and Maharashtra",
-          "hi": "गुजरात और महाराष्ट्र"
+          "en": "Kerala",
+          "hi": "केरल"
         },
         {
-          "en": "Tamil Nadu and Kerala",
-          "hi": "तमिलनाडु और केरल"
+          "en": "Karnataka",
+          "hi": "Karnataka"
         },
         {
-          "en": "West Bengal and Bihar",
-          "hi": "पश्चिम बंगाल और बिहार"
+          "en": "Maharashtra",
+          "hi": "महाराष्ट्र"
         }
       ],
       "correctAnswer": 0,
       "explanation": {
-        "en": "Andhra Pradesh and Odisha were put on high alert as Cyclone 'Arnab' neared land. The India Meteorological Department (IMD) issued red alerts for seven districts in Andhra Pradesh.",
-        "hi": "आंध्र प्रदेश और ओडिशा को हाई अलर्ट पर रखा गया क्योंकि चक्रवात 'अर्नब' जमीन के करीब आ गया था। भारत मौसम विज्ञान विभाग (IMD) ने आंध्र प्रदेश के सात जिलों के लिए रेड अलर्ट जारी किया।"
-      },
-      "category": "Environment & Ecology",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.thehindu.com/news/national/"
-    },
-    {
-      "id": "ca_20261027_02",
-      "question": {
-        "en": "Who has been awarded the Oskar Klein Medal in 2026 for his contributions to string theory?",
-        "hi": "स्ट्रिंग थ्योरी में उनके योगदान के लिए 2026 में ऑस्कर क्लेन मेडल से किसे सम्मानित किया गया है?"
-      },
-      "options": [
-        {
-          "en": "C.N.R. Rao",
-          "hi": "सी.एन.आर. राव"
-        },
-        {
-          "en": "Ashoke Sen",
-          "hi": "अशोक सेन"
-        },
-        {
-          "en": "Jayant Narlikar",
-          "hi": "जयंत नार्लीकर"
-        },
-        {
-          "en": "K. Sivan",
-          "hi": "के. सिवन"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "String theory pioneer Ashoke Sen won the Oskar Klein Medal in 2026. The medal is awarded by Stockholm University and the Nobel Committee for Physics of the Royal Swedish Academy of Sciences.",
-        "hi": "स्ट्रिंग थ्योरी के अग्रणी अशोक सेन ने 2026 में ऑस्कर क्लेन मेडल जीता। यह मेडल स्टॉकहोम विश्वविद्यालय और रॉयल स्वीडिश एकेडमी ऑफ साइंसेज की भौतिकी के लिए नोबेल समिति द्वारा प्रदान किया जाता है।"
-      },
-      "category": "Awards & Honours",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.thehindu.com/sci-tech/science/"
-    },
-    {
-      "id": "ca_20261027_03",
-      "question": {
-        "en": "Indian Railways is planning to launch two new Vande Bharat Sleeper trains. What is a key feature of Vande Bharat trains?",
-        "hi": "भारतीय रेलवे दो नई वंदे भारत स्लीपर ट्रेनें शुरू करने की योजना बना रही है। वंदे भारत ट्रेनों की एक प्रमुख विशेषता क्या है?"
-      },
-      "options": [
-        {
-          "en": "They are hauled by diesel locomotives",
-          "hi": "इन्हें डीजल इंजनों द्वारा खींचा जाता है"
-        },
-        {
-          "en": "They are semi-high speed, self-propelled trainsets",
-          "hi": "वे सेमी-हाई स्पीड, स्व-चालित ट्रेनसेट हैं"
-        },
-        {
-          "en": "They run exclusively on narrow gauge",
-          "hi": "वे विशेष रूप से नैरो गेज पर चलती हैं"
-        },
-        {
-          "en": "They only operate for freight transport",
-          "hi": "वे केवल माल ढुलाई के लिए काम करती हैं"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "Vande Bharat Express is a medium-distance, semi-high speed superfast train operated by Indian Railways. It is a self-propelled trainset.",
-        "hi": "वंदे भारत एक्सप्रेस भारतीय रेलवे द्वारा संचालित एक मध्यम दूरी की, सेमी-हाई स्पीड सुपरफास्ट ट्रेन है। यह एक स्व-चालित ट्रेनसेट है।"
+        "en": "The Tamil Nadu government has revised the housing loan limits for urban cooperative banks and credit societies. The maximum individual loan limit has been raised to ₹60 lakh for societies with deposits below ₹100 crore and ₹1 crore for those with deposits exceeding ₹100 crore.",
+        "hi": "तमिलनाडु सरकार ने शहरी सहकारी बैंकों और क्रेडिट समितियों के लिए आवास ऋण सीमा को संशोधित किया है।₹100 करोड़ से कम जमा वाली सोसायटियों के लिए अधिकतम व्यक्तिगत ऋण सीमा ₹60 लाख और ₹100 करोड़ से अधिक जमा राशि वालों के लिए ₹1 करोड़ कर दी गई है।"
       },
       "category": "Economy & Banking",
-      "difficulty": "easy",
-      "sourceUrl": "https://timesofindia.indiatimes.com/"
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/news/national/tamil-nadu/tn-govt-revises-housing-loan-limits-for-urban-cooperative-banks-and-credit-societies/article71632544.ece"
     },
     {
-      "id": "ca_20261027_04",
+      "id": "ca_20261028_02",
       "question": {
-        "en": "Which authority fined Britannia ₹1 lakh over a misleading claim regarding their '100% whole wheat bread' in October 2026?",
-        "hi": "अक्टूबर 2026 में किस प्राधिकरण ने अपने '100% होल व्हीट ब्रेड' के संबंध में भ्रामक दावे को लेकर ब्रिटानिया पर ₹1 लाख का जुर्माना लगाया?"
+        "en": "Which severe cyclonic storm recently made landfall near Narsapur, Andhra Pradesh in October 2026?",
+        "hi": "हाल ही में अक्टूबर 2026 में कौन सा भीषण चक्रवाती तूफान आंध्र प्रदेश के नरसापुर के पास पहुंचा?"
       },
       "options": [
         {
-          "en": "Food Safety and Standards Authority of India (FSSAI)",
-          "hi": "भारतीय खाद्य सुरक्षा और मानक प्राधिकरण (FSSAI)"
+          "en": "Cyclone Arnab",
+          "hi": "चक्रवात अर्नब"
         },
         {
-          "en": "Central Consumer Protection Authority (CCPA)",
-          "hi": "केंद्रीय उपभोक्ता संरक्षण प्राधिकरण (CCPA)"
+          "en": "Cyclone Mocha",
+          "hi": "चक्रवात मोचा"
         },
         {
-          "en": "Competition Commission of India (CCI)",
-          "hi": "भारतीय प्रतिस्पर्धा आयोग (CCI)"
+          "en": "Cyclone Biparjoy",
+          "hi": "चक्रवात बिपरजॉय"
         },
         {
-          "en": "Bureau of Indian Standards (BIS)",
-          "hi": "भारतीय मानक ब्यूरो (BIS)"
+          "en": "Cyclone Michaung",
+          "hi": "चक्रवात मिचौंग"
         }
       ],
-      "correctAnswer": 1,
+      "correctAnswer": 0,
       "explanation": {
-        "en": "The Central Consumer Protection Authority (CCPA) fined Britannia ₹1 lakh for falsely claiming its product was '100% whole wheat bread' when it contained only 62% wheat.",
-        "hi": "केंद्रीय उपभोक्ता संरक्षण प्राधिकरण (CCPA) ने ब्रिटानिया पर ₹1 लाख का जुर्माना लगाया क्योंकि उसने झूठा दावा किया था कि उसका उत्पाद '100% होल व्हीट ब्रेड' था, जबकि इसमें केवल 62% गेहूं था।"
+        "en": "Very severe cyclonic storm 'Arnab' began its landfall near Narsapur, Andhra Pradesh, causing heavy rainfall and prompting authorities to evacuate thousands and cancel flights and trains. This storm interacted with land surfaces affecting Andhra Pradesh and Odisha.",
+        "hi": "बहुत भीषण चक्रवाती तूफान 'अर्नब' ने आंध्र प्रदेश के नरसापुर के पास दस्तक देनी शुरू कर दी, जिससे भारी बारिश हुई और अधिकारियों को हजारों लोगों को निकालने और उड़ानें और ट्रेनें रद्द करने के लिए मजबूर होना पड़ा।इस तूफान ने आंध्र प्रदेश और ओडिशा को प्रभावित करने वाली भूमि सतहों से संपर्क किया।"
+      },
+      "category": "Environment & Ecology",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-arnab-landfall-updates/article71633266.ece"
+    },
+    {
+      "id": "ca_20261028_03",
+      "question": {
+        "en": "What did Prime Minister Narendra Modi emphasize regarding AI during his recent address?",
+        "hi": "प्रधानमंत्री नरेंद्र मोदी ने अपने हालिया संबोधन के दौरान AI को लेकर किस बात पर जोर दिया?"
+      },
+      "options": [
+        {
+          "en": "Build AI to secure systems and serve humanity",
+          "hi": "सिस्टम को सुरक्षित करने और मानवता की सेवा के लिए एआई का निर्माण करें"
+        },
+        {
+          "en": "Restrict AI use in military applications",
+          "hi": "सैन्य अनुप्रयोगों में एआई के उपयोग को प्रतिबंधित करें"
+        },
+        {
+          "en": "Focus only on generative AI for business",
+          "hi": "व्यवसाय के लिए केवल जनरेटिव एआई पर ध्यान दें"
+        },
+        {
+          "en": "Ban foreign AI companies from India",
+          "hi": "भारत में विदेशी AI कंपनियों पर प्रतिबंध लगाएं"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "Prime Minister Narendra Modi recently emphasized the need to 'Build AI to secure systems and serve humanity'. He highlighted the importance of using Artificial Intelligence for the betterment of society while ensuring robust cybersecurity and secure systems.",
+        "hi": "प्रधान मंत्री नरेंद्र मोदी ने हाल ही में 'सिस्टम को सुरक्षित करने और मानवता की सेवा के लिए एआई बनाने' की आवश्यकता पर जोर दिया।उन्होंने मजबूत साइबर सुरक्षा और सुरक्षित प्रणाली सुनिश्चित करते हुए समाज की बेहतरी के लिए आर्टिफिशियल इंटेलिजेंस के उपयोग के महत्व पर प्रकाश डाला।"
+      },
+      "category": "Science & Technology",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/build-ai-to-secure-systems-serve-humanity-pm-modi/articleshow/135246802.cms"
+    },
+    {
+      "id": "ca_20261028_04",
+      "question": {
+        "en": "Which international forum recently expressed 'deep concern' about hostilities in West Asia and called for a two-state solution to the Israel-Palestinian conflict?",
+        "hi": "हाल ही में किस अंतर्राष्ट्रीय मंच ने पश्चिम एशिया में शत्रुता के बारे में 'गहरी चिंता' व्यक्त की और इज़राइल-फिलिस्तीनी संघर्ष के लिए दो-राज्य समाधान का आह्वान किया?"
+      },
+      "options": [
+        {
+          "en": "BRICS parliamentary forum",
+          "hi": "ब्रिक्स संसदीय मंच"
+        },
+        {
+          "en": "G20 Summit",
+          "hi": "जी20 शिखर सम्मेलन"
+        },
+        {
+          "en": "ASEAN Summit",
+          "hi": "आसियान शिखर सम्मेलन"
+        },
+        {
+          "en": "SCO Heads of State Council",
+          "hi": "एससीओ राज्य परिषद के प्रमुख"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "The BRICS parliamentary forum expressed 'deep concern' over West Asian hostilities. In a joint declaration, it called for maximum restraint and a two-state solution to the Israel-Palestinian conflict, asserting the right of the Palestinian people to an independent, sovereign state.",
+        "hi": "ब्रिक्स संसदीय मंच ने पश्चिम एशियाई शत्रुता पर 'गहरी चिंता' व्यक्त की।एक संयुक्त घोषणा में, इसने फिलिस्तीनी लोगों के एक स्वतंत्र, संप्रभु राज्य के अधिकार पर जोर देते हुए, इजरायल-फिलिस्तीनी संघर्ष के लिए अधिकतम संयम और दो-राज्य समाधान का आह्वान किया।"
+      },
+      "category": "International Summits",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/news/national/brics-parliamentary-forum-expresses-deep-concern-about-west-asian-hostilities/article71632561.ece"
+    },
+    {
+      "id": "ca_20261028_05",
+      "question": {
+        "en": "In recent times, to which neighboring country did India extend an invitation for the Shanghai Cooperation Organisation (SCO) civilisational dialogue forum meet?",
+        "hi": "हाल के दिनों में, भारत ने शंघाई सहयोग संगठन (एससीओ) सभ्यतागत संवाद मंच की बैठक के लिए किस पड़ोसी देश को निमंत्रण दिया है?"
+      },
+      "options": [
+        {
+          "en": "Pakistan",
+          "hi": "पाकिस्तान"
+        },
+        {
+          "en": "China",
+          "hi": "चीन"
+        },
+        {
+          "en": "Bangladesh",
+          "hi": "बांग्लादेश"
+        },
+        {
+          "en": "Sri Lanka",
+          "hi": "श्रीलंका"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "India invited Pakistan for the Shanghai Cooperation Organisation (SCO) civilisational dialogue forum meeting scheduled for next month. The SCO is an important Eurasian political, economic, and security alliance where both India and Pakistan are full members.",
+        "hi": "भारत ने अगले महीने होने वाली शंघाई सहयोग संगठन (एससीओ) सभ्यतागत संवाद मंच की बैठक के लिए पाकिस्तान को आमंत्रित किया।एससीओ एक महत्वपूर्ण यूरेशियन राजनीतिक, आर्थिक और सुरक्षा गठबंधन है जहां भारत और पाकिस्तान दोनों पूर्ण सदस्य हैं।"
+      },
+      "category": "International Summits",
+      "difficulty": "hard",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/india-invites-pakistan-for-sco-civilisational-dialogue-forum-meet-next-month/articleshow/135245703.cms"
+    },
+    {
+      "id": "ca_20261028_06",
+      "question": {
+        "en": "According to the Supreme Court of India's recent remark, which industry cannot be allowed to 'run amok' in the name of a free market?",
+        "hi": "भारत के सर्वोच्च न्यायालय की हालिया टिप्पणी के अनुसार, किस उद्योग को मुक्त बाजार के नाम पर 'उच्छृंखल' चलने की अनुमति नहीं दी जा सकती है?"
+      },
+      "options": [
+        {
+          "en": "Pharmaceutical industry",
+          "hi": "दवा उद्योग"
+        },
+        {
+          "en": "Telecom industry",
+          "hi": "दूरसंचार उद्योग"
+        },
+        {
+          "en": "Aviation industry",
+          "hi": "उड्डयन उद्योग"
+        },
+        {
+          "en": "Real estate industry",
+          "hi": "अचल संपत्ति उद्योग"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "The Supreme Court of India recently observed that the pharmaceutical industry cannot be let to 'run amok' in the name of a free market. The court emphasized the need for regulation to protect public health and ensure that essential medicines remain accessible.",
+        "hi": "भारत के सर्वोच्च न्यायालय ने हाल ही में कहा कि दवा उद्योग को मुक्त बाजार के नाम पर 'उच्छृंखल' होने नहीं दिया जा सकता।अदालत ने सार्वजनिक स्वास्थ्य की रक्षा के लिए विनियमन की आवश्यकता पर जोर दिया और यह सुनिश्चित किया कि आवश्यक दवाएं सुलभ रहें।"
       },
       "category": "Polity & Governance",
       "difficulty": "medium",
-      "sourceUrl": "https://www.thehindu.com/business/"
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/sc-cannot-let-pharma-industry-run-amok-in-name-of-free-market/articleshow/135245670.cms"
     },
     {
-      "id": "ca_20261027_05",
+      "id": "ca_20261028_07",
       "question": {
-        "en": "Who set a record by completing a historic Kopa Trophy hat-trick at the Ballon d'Or ceremony in 2026?",
-        "hi": "2026 में बैलन डी'ओर समारोह में ऐतिहासिक कोपा ट्रॉफी हैट्रिक पूरी करके किसने रिकॉर्ड बनाया?"
+        "en": "The Supreme Court recently directed a rethinking of strategy and heavy regulation on the sale of which substance to curb attacks?",
+        "hi": "सुप्रीम कोर्ट ने हाल ही में हमलों को रोकने के लिए किस पदार्थ की बिक्री पर रणनीति और भारी विनियमन पर पुनर्विचार करने का निर्देश दिया?"
       },
       "options": [
         {
-          "en": "Jude Bellingham",
-          "hi": "जूड बेलिंगहैम"
+          "en": "Acid",
+          "hi": "अम्ल"
         },
         {
-          "en": "Lamine Yamal",
-          "hi": "लैमिन यामल"
+          "en": "Firecrackers",
+          "hi": "पटाखों"
         },
         {
-          "en": "Kylian Mbappé",
-          "hi": "कैलियन एम्बाप्पे"
+          "en": "Pesticides",
+          "hi": "कीटनाशकों"
         },
         {
-          "en": "Vinícius Júnior",
-          "hi": "विनिसियस जूनियर"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "Lamine Yamal set a Ballon d'Or record by completing a historic Kopa Trophy hat-trick. The Kopa Trophy is awarded to the best performing player under the age of 21.",
-        "hi": "लैमिन यामल ने ऐतिहासिक कोपा ट्रॉफी हैट्रिक पूरी कर बैलन डी'ओर रिकॉर्ड बनाया। कोपा ट्रॉफी 21 वर्ष से कम आयु के सर्वश्रेष्ठ प्रदर्शन करने वाले खिलाड़ी को दी जाती है।"
-      },
-      "category": "Sports",
-      "difficulty": "hard",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports"
-    },
-    {
-      "id": "ca_20261027_06",
-      "question": {
-        "en": "Accession Day in Jammu & Kashmir, which marks the signing of the Instrument of Accession by Maharaja Hari Singh, is observed on which date?",
-        "hi": "जम्मू-कश्मीर में विलय दिवस, जो महाराजा हरि सिंह द्वारा विलय पत्र पर हस्ताक्षर करने का प्रतीक है, किस तिथि को मनाया जाता है?"
-      },
-      "options": [
-        {
-          "en": "October 26",
-          "hi": "26 अक्टूबर"
-        },
-        {
-          "en": "August 5",
-          "hi": "5 अगस्त"
-        },
-        {
-          "en": "August 15",
-          "hi": "15 अगस्त"
-        },
-        {
-          "en": "January 26",
-          "hi": "26 जनवरी"
+          "en": "Lethal chemicals",
+          "hi": "घातक रसायन"
         }
       ],
       "correctAnswer": 0,
       "explanation": {
-        "en": "Accession Day in Jammu & Kashmir is observed on October 26. It marks the signing of the Instrument of Accession by Maharaja Hari Singh in 1947, acceding to the Dominion of India.",
-        "hi": "जम्मू-कश्मीर में विलय दिवस 26 अक्टूबर को मनाया जाता है। यह 1947 में महाराजा हरि सिंह द्वारा विलय पत्र पर हस्ताक्षर करने, भारत के डोमिनियन में शामिल होने का प्रतीक है।"
+        "en": "The Supreme Court directed authorities to rethink their strategy and heavily regulate the sale of acid to curb acid attacks. The apex court has repeatedly issued guidelines to states and UTs to strictly monitor acid sales and provide adequate compensation to survivors.",
+        "hi": "सुप्रीम कोर्ट ने अधिकारियों को अपनी रणनीति पर पुनर्विचार करने और एसिड हमलों को रोकने के लिए एसिड की बिक्री को सख्ती से नियंत्रित करने का निर्देश दिया।शीर्ष अदालत ने एसिड की बिक्री पर सख्ती से निगरानी रखने और पीड़ितों को पर्याप्त मुआवजा प्रदान करने के लिए राज्यों और केंद्रशासित प्रदेशों को बार-बार दिशानिर्देश जारी किए हैं।"
       },
-      "category": "Important Days & Themes",
+      "category": "Polity & Governance",
       "difficulty": "easy",
-      "sourceUrl": "https://www.thehindu.com/news/national/"
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/rethink-strategy-heavily-regulate-acid-sale-to-curb-attacks-says-sc/articleshow/135247788.cms"
     },
     {
-      "id": "ca_20261027_07",
+      "id": "ca_20261028_08",
       "question": {
-        "en": "Which public sector bank plans to launch a Qualified Institutional Placement (QIP) in Q4 of FY25 after reporting a net profit of ₹1,962.67 crore in the September 2026 quarter?",
-        "hi": "सितंबर 2026 तिमाही में ₹1,962.67 करोड़ का शुद्ध लाभ दर्ज करने के बाद कौन सा सार्वजनिक क्षेत्र का बैंक वित्त वर्ष 25 की चौथी तिमाही में योग्य संस्थागत प्लेसमेंट (QIP) शुरू करने की योजना बना रहा है?"
+        "en": "Which government body's Chief stated that insurance must grow 1.5 to 2 times faster than the GDP?",
+        "hi": "किस सरकारी निकाय के प्रमुख ने कहा कि बीमा को सकल घरेलू उत्पाद की तुलना में 1.5 से 2 गुना तेजी से बढ़ना चाहिए?"
       },
       "options": [
         {
-          "en": "State Bank of India (SBI)",
-          "hi": "भारतीय स्टेट बैंक (SBI)"
+          "en": "IRDAI",
+          "hi": "आईआरडीएआई"
         },
         {
-          "en": "Bank of Baroda",
-          "hi": "बैंक ऑफ बड़ौदा"
+          "en": "SEBI",
+          "hi": "सेबी"
         },
         {
-          "en": "Indian Overseas Bank (IOB)",
-          "hi": "इंडियन ओवरसीज बैंक (IOB)"
+          "en": "RBI",
+          "hi": "भारतीय रिजर्व बैंक"
         },
         {
-          "en": "Canara Bank",
-          "hi": "केनरा बैंक"
+          "en": "PFRDA",
+          "hi": "पीएफआरडीए"
         }
       ],
-      "correctAnswer": 2,
+      "correctAnswer": 0,
       "explanation": {
-        "en": "Indian Overseas Bank (IOB) plans to launch a QIP in Q4. It reported a net profit of ₹1,962.67 crore in the September quarter. A QIP is a capital-raising tool for listed companies.",
-        "hi": "इंडियन ओवरसीज बैंक (IOB) चौथी तिमाही में QIP लॉन्च करने की योजना बना रहा है। इसने सितंबर तिमाही में ₹1,962.67 करोड़ का शुद्ध लाभ दर्ज किया। QIP सूचीबद्ध कंपनियों के लिए पूंजी जुटाने का एक उपकरण है।"
+        "en": "IRDAI (Insurance Regulatory and Development Authority of India) Chief Ajay Seth stated that the insurance sector must grow 1.5 to 2 times faster than the GDP. He also highlighted that a large part of health insurance should transition to being a 'pull product' rather than a 'push product'.",
+        "hi": "IRDAI (भारतीय बीमा नियामक और विकास प्राधिकरण) के प्रमुख अजय सेठ ने कहा कि बीमा क्षेत्र को जीडीपी की तुलना में 1.5 से 2 गुना तेजी से बढ़ना चाहिए।उन्होंने इस बात पर भी प्रकाश डाला कि स्वास्थ्य बीमा के एक बड़े हिस्से को 'पुश उत्पाद' के बजाय 'पुल उत्पाद' बनना चाहिए।"
       },
       "category": "Economy & Banking",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.thehindu.com/business/"
-    },
-    {
-      "id": "ca_20261027_08",
-      "question": {
-        "en": "In October 2026, the Central Government directed states to enter 'mission mode' to curb stubble burning. Which of the following is a major scheme launched by the Centre to address this issue?",
-        "hi": "अक्टूबर 2026 में, केंद्र सरकार ने राज्यों को पराली जलाने से रोकने के लिए 'मिशन मोड' में प्रवेश करने का निर्देश दिया। इस मुद्दे को हल करने के लिए केंद्र द्वारा शुरू की गई एक प्रमुख योजना निम्नलिखित में से कौन सी है?"
-      },
-      "options": [
-        {
-          "en": "PM-KUSUM",
-          "hi": "पीएम-कुसुम"
-        },
-        {
-          "en": "Crop Residue Management (CRM) Scheme",
-          "hi": "फसल अवशेष प्रबंधन (CRM) योजना"
-        },
-        {
-          "en": "PM Fasal Bima Yojana",
-          "hi": "पीएम फसल बीमा योजना"
-        },
-        {
-          "en": "Paramparagat Krishi Vikas Yojana",
-          "hi": "परम्परागत कृषि विकास योजना"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "The Centre urged states to go into 'mission mode' to curb stubble burning. The Crop Residue Management (CRM) scheme provides subsidies for agricultural machinery to manage crop residue in-situ.",
-        "hi": "केंद्र ने राज्यों से पराली जलाने पर अंकुश लगाने के लिए 'मिशन मोड' में जाने का आग्रह किया। फसल अवशेष प्रबंधन (CRM) योजना इन-सीटू फसल अवशेषों के प्रबंधन के लिए कृषि मशीनरी के लिए सब्सिडी प्रदान करती है।"
-      },
-      "category": "Government Schemes",
-      "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/environment"
-    },
-    {
-      "id": "ca_20261027_09",
-      "question": {
-        "en": "Which glacier in Antarctica, often referred to as the 'Doomsday Glacier', was reported to be melting faster than feared in October 2026?",
-        "hi": "अंटार्कटिका में किस ग्लेशियर, जिसे अक्सर 'डूम्सडे ग्लेशियर' कहा जाता है, के बारे में अक्टूबर 2026 में आशंका से अधिक तेजी से पिघलने की सूचना मिली थी?"
-      },
-      "options": [
-        {
-          "en": "Pine Island Glacier",
-          "hi": "पाइन द्वीप ग्लेशियर"
-        },
-        {
-          "en": "Thwaites Glacier",
-          "hi": "थवाइट्स ग्लेशियर"
-        },
-        {
-          "en": "Lambert Glacier",
-          "hi": "लैम्बर्ट ग्लेशियर"
-        },
-        {
-          "en": "Denman Glacier",
-          "hi": "डेनमैन ग्लेशियर"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "The Thwaites Glacier in Antarctica, the size of Britain, is melting rapidly. It is nicknamed the 'Doomsday Glacier' due to its potential to significantly raise global sea levels if it collapses entirely.",
-        "hi": "अंटार्कटिका में ब्रिटेन के आकार का थवाइट्स ग्लेशियर तेजी से पिघल रहा है। अगर यह पूरी तरह से ढह जाता है, तो इसके वैश्विक समुद्र के स्तर को काफी बढ़ाने की क्षमता के कारण इसे 'डूम्सडे ग्लेशियर' का उपनाम दिया गया है।"
-      },
-      "category": "Environment & Ecology",
-      "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/environment"
-    },
-    {
-      "id": "ca_20261027_10",
-      "question": {
-        "en": "According to leaked reports in October 2026, which English footballer was declared the winner of the Ballon d'Or, ending a 25-year wait for England?",
-        "hi": "अक्टूबर 2026 की लीक रिपोर्टों के अनुसार, किस अंग्रेजी फुटबॉलर को बैलन डी'ओर का विजेता घोषित किया गया, जिससे इंग्लैंड का 25 साल का इंतजार खत्म हो गया?"
-      },
-      "options": [
-        {
-          "en": "Jude Bellingham",
-          "hi": "जूड बेलिंगहैम"
-        },
-        {
-          "en": "Harry Kane",
-          "hi": "हैरी केन"
-        },
-        {
-          "en": "Phil Foden",
-          "hi": "फिल फोडेन"
-        },
-        {
-          "en": "Bukayo Saka",
-          "hi": "बुकायो साका"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "Leaked reports indicated Harry Kane won the 2026 Ballon d'Or, ending a 25-year wait for an English winner since Michael Owen in 2001. The award is presented annually by France Football.",
-        "hi": "लीक हुई रिपोर्टों से संकेत मिलता है कि हैरी केन ने 2026 का बैलन डी'ओर जीता, जिससे 2001 में माइकल ओवेन के बाद एक अंग्रेजी विजेता का 25 साल का इंतजार खत्म हो गया। यह पुरस्कार प्रतिवर्ष फ्रांस फुटबॉल द्वारा प्रदान किया जाता है।"
-      },
-      "category": "Sports",
       "difficulty": "hard",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports"
+      "sourceUrl": "https://www.business-standard.com/specials/bs-events/insurance-must-grow-1-5-2x-faster-than-gdp-irdai-chief-ajay-seth-126102800009_1.html"
+    },
+    {
+      "id": "ca_20261028_09",
+      "question": {
+        "en": "The Solicitor General of India informed the Supreme Court that the government is working on a bill to curb which specific cybercrimes?",
+        "hi": "भारत के सॉलिसिटर जनरल ने सुप्रीम कोर्ट को सूचित किया कि सरकार किस विशिष्ट साइबर अपराध पर अंकुश लगाने के लिए एक विधेयक पर काम कर रही है?"
+      },
+      "options": [
+        {
+          "en": "Child and revenge porn",
+          "hi": "बाल और बदला लेने वाला पोर्न"
+        },
+        {
+          "en": "Financial phishing",
+          "hi": "वित्तीय फ़िशिंग"
+        },
+        {
+          "en": "Cryptocurrency fraud",
+          "hi": "क्रिप्टोकरेंसी धोखाधड़ी"
+        },
+        {
+          "en": "Corporate espionage",
+          "hi": "निगम से संबन्धित जासूसी"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "The Solicitor General of India informed the Supreme Court that the government is actively working on drafting a new bill aimed at curbing the sharing of child and revenge porn online. This legislative move aims to strengthen the legal framework against digital sexual exploitation.",
+        "hi": "भारत के सॉलिसिटर जनरल ने सुप्रीम कोर्ट को सूचित किया कि सरकार बच्चों और बदला लेने वाले पोर्न को ऑनलाइन साझा करने पर अंकुश लगाने के उद्देश्य से एक नए विधेयक का मसौदा तैयार करने पर सक्रिय रूप से काम कर रही है।इस विधायी कदम का उद्देश्य डिजिटल यौन शोषण के खिलाफ कानूनी ढांचे को मजबूत करना है।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/government-working-on-bill-to-curb-child-revenge-porn-solicitor-general-in-sc/articleshow/135247935.cms"
+    },
+    {
+      "id": "ca_20261028_10",
+      "question": {
+        "en": "Which medical specialization topped the choices among the first 100 rankers in the recent NEET-PG counseling?",
+        "hi": "हाल ही में NEET-PG काउंसलिंग में पहले 100 रैंकर्स में से कौन सी मेडिकल विशेषज्ञता शीर्ष पर रही?"
+      },
+      "options": [
+        {
+          "en": "General Medicine",
+          "hi": "सामान्य दवा"
+        },
+        {
+          "en": "Radiodiagnosis",
+          "hi": "रेडियोडायगनोसिस"
+        },
+        {
+          "en": "Dermatology",
+          "hi": "त्वचा विज्ञान"
+        },
+        {
+          "en": "Surgery",
+          "hi": "शल्य चिकित्सा"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "General Medicine has topped the choices among the first 100 rank holders in the NEET-PG counseling. The trend indicates a strong preference for core clinical subjects among the top medical graduates in the country.",
+        "hi": "एनईईटी-पीजी काउंसलिंग में पहले 100 रैंक धारकों के बीच जनरल मेडिसिन ने विकल्पों में शीर्ष स्थान हासिल किया है।यह प्रवृत्ति देश के शीर्ष चिकित्सा स्नातकों के बीच मुख्य नैदानिक ​​विषयों के लिए मजबूत प्राथमिकता का संकेत देती है।"
+      },
+      "category": "Science & Technology",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/general-medicine-tops-neet-pg-choices-among-first-100/articleshow/135247981.cms"
     }
   ]
 }
