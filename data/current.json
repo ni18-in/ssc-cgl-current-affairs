@@ -1,13 +1,13 @@
 {
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "topic": "SSC CGL Daily Current Affairs",
   "source": "The Hindu / Times of India / Business Standard",
-  "lastUpdated": "2026-10-28T06:00:00+05:30",
+  "lastUpdated": "2026-10-29T06:30:00+05:30",
   "version": 1,
   "totalQuestions": 10,
   "quiz": [
     {
-      "id": "ca_20261028_01",
+      "id": "ca_20261029_01",
       "question": {
         "en": "Recently, which state government revised housing loan limits for urban cooperative banks and credit societies?",
         "hi": "हाल ही में, किस राज्य सरकार ने शहरी सहकारी बैंकों और क्रेडिट समितियों के लिए आवास ऋण सीमा को संशोधित किया?"
@@ -40,7 +40,7 @@
       "sourceUrl": "https://www.thehindu.com/news/national/tamil-nadu/tn-govt-revises-housing-loan-limits-for-urban-cooperative-banks-and-credit-societies/article71632544.ece"
     },
     {
-      "id": "ca_20261028_02",
+      "id": "ca_20261029_02",
       "question": {
         "en": "Which severe cyclonic storm recently made landfall near Narsapur, Andhra Pradesh in October 2026?",
         "hi": "हाल ही में अक्टूबर 2026 में कौन सा भीषण चक्रवाती तूफान आंध्र प्रदेश के नरसापुर के पास पहुंचा?"
@@ -73,7 +73,7 @@
       "sourceUrl": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-arnab-landfall-updates/article71633266.ece"
     },
     {
-      "id": "ca_20261028_03",
+      "id": "ca_20261029_03",
       "question": {
         "en": "What did Prime Minister Narendra Modi emphasize regarding AI during his recent address?",
         "hi": "प्रधानमंत्री नरेंद्र मोदी ने अपने हालिया संबोधन के दौरान AI को लेकर किस बात पर जोर दिया?"
@@ -106,7 +106,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/india/build-ai-to-secure-systems-serve-humanity-pm-modi/articleshow/135246802.cms"
     },
     {
-      "id": "ca_20261028_04",
+      "id": "ca_20261029_04",
       "question": {
         "en": "Which international forum recently expressed 'deep concern' about hostilities in West Asia and called for a two-state solution to the Israel-Palestinian conflict?",
         "hi": "हाल ही में किस अंतर्राष्ट्रीय मंच ने पश्चिम एशिया में शत्रुता के बारे में 'गहरी चिंता' व्यक्त की और इज़राइल-फिलिस्तीनी संघर्ष के लिए दो-राज्य समाधान का आह्वान किया?"
@@ -139,7 +139,7 @@
       "sourceUrl": "https://www.thehindu.com/news/national/brics-parliamentary-forum-expresses-deep-concern-about-west-asian-hostilities/article71632561.ece"
     },
     {
-      "id": "ca_20261028_05",
+      "id": "ca_20261029_05",
       "question": {
         "en": "In recent times, to which neighboring country did India extend an invitation for the Shanghai Cooperation Organisation (SCO) civilisational dialogue forum meet?",
         "hi": "हाल के दिनों में, भारत ने शंघाई सहयोग संगठन (एससीओ) सभ्यतागत संवाद मंच की बैठक के लिए किस पड़ोसी देश को निमंत्रण दिया है?"
@@ -172,7 +172,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/india/india-invites-pakistan-for-sco-civilisational-dialogue-forum-meet-next-month/articleshow/135245703.cms"
     },
     {
-      "id": "ca_20261028_06",
+      "id": "ca_20261029_06",
       "question": {
         "en": "According to the Supreme Court of India's recent remark, which industry cannot be allowed to 'run amok' in the name of a free market?",
         "hi": "भारत के सर्वोच्च न्यायालय की हालिया टिप्पणी के अनुसार, किस उद्योग को मुक्त बाजार के नाम पर 'उच्छृंखल' चलने की अनुमति नहीं दी जा सकती है?"
@@ -205,7 +205,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/india/sc-cannot-let-pharma-industry-run-amok-in-name-of-free-market/articleshow/135245670.cms"
     },
     {
-      "id": "ca_20261028_07",
+      "id": "ca_20261029_07",
       "question": {
         "en": "The Supreme Court recently directed a rethinking of strategy and heavy regulation on the sale of which substance to curb attacks?",
         "hi": "सुप्रीम कोर्ट ने हाल ही में हमलों को रोकने के लिए किस पदार्थ की बिक्री पर रणनीति और भारी विनियमन पर पुनर्विचार करने का निर्देश दिया?"
@@ -238,7 +238,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/india/rethink-strategy-heavily-regulate-acid-sale-to-curb-attacks-says-sc/articleshow/135247788.cms"
     },
     {
-      "id": "ca_20261028_08",
+      "id": "ca_20261029_08",
       "question": {
         "en": "Which government body's Chief stated that insurance must grow 1.5 to 2 times faster than the GDP?",
         "hi": "किस सरकारी निकाय के प्रमुख ने कहा कि बीमा को सकल घरेलू उत्पाद की तुलना में 1.5 से 2 गुना तेजी से बढ़ना चाहिए?"
@@ -271,7 +271,7 @@
       "sourceUrl": "https://www.business-standard.com/specials/bs-events/insurance-must-grow-1-5-2x-faster-than-gdp-irdai-chief-ajay-seth-126102800009_1.html"
     },
     {
-      "id": "ca_20261028_09",
+      "id": "ca_20261029_09",
       "question": {
         "en": "The Solicitor General of India informed the Supreme Court that the government is working on a bill to curb which specific cybercrimes?",
         "hi": "भारत के सॉलिसिटर जनरल ने सुप्रीम कोर्ट को सूचित किया कि सरकार किस विशिष्ट साइबर अपराध पर अंकुश लगाने के लिए एक विधेयक पर काम कर रही है?"
@@ -304,7 +304,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/india/government-working-on-bill-to-curb-child-revenge-porn-solicitor-general-in-sc/articleshow/135247935.cms"
     },
     {
-      "id": "ca_20261028_10",
+      "id": "ca_20261029_10",
       "question": {
         "en": "Which medical specialization topped the choices among the first 100 rankers in the recent NEET-PG counseling?",
         "hi": "हाल ही में NEET-PG काउंसलिंग में पहले 100 रैंकर्स में से कौन सी मेडिकल विशेषज्ञता शीर्ष पर रही?"
