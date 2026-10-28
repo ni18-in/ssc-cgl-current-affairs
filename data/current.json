@@ -1,340 +1,340 @@
 {
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "topic": "SSC CGL Daily Current Affairs",
-  "source": "The Hindu / Times of India / Business Standard",
-  "lastUpdated": "2026-10-28T06:00:00+05:30",
+  "source": "PIB / The Hindu / Economic Times / Indian Express / GKToday",
+  "lastUpdated": "2026-10-29T05:21:51+05:30",
   "version": 1,
   "totalQuestions": 10,
   "quiz": [
     {
-      "id": "ca_20261028_01",
+      "id": "ca_20261029_01",
       "question": {
-        "en": "Recently, which state government revised housing loan limits for urban cooperative banks and credit societies?",
-        "hi": "हाल ही में, किस राज्य सरकार ने शहरी सहकारी बैंकों और क्रेडिट समितियों के लिए आवास ऋण सीमा को संशोधित किया?"
+        "en": "Which company recently became the 2nd most valuable company on its debut on the NSE, listing right behind its parent company Reliance Industries?",
+        "hi": "कौन सी कंपनी हाल ही में एनएसई पर अपनी मूल कंपनी रिलायंस इंडस्ट्रीज के ठीक पीछे सूचीबद्ध होकर दूसरी सबसे मूल्यवान कंपनी बन गई?"
       },
       "options": [
         {
-          "en": "Tamil Nadu",
-          "hi": "तमिलनाडु"
+          "en": "Jio Platforms",
+          "hi": "जियो प्लेटफार्म"
         },
         {
-          "en": "Kerala",
-          "hi": "केरल"
+          "en": "Reliance Retail",
+          "hi": "रिलायंस रिटेल"
         },
         {
-          "en": "Karnataka",
-          "hi": "Karnataka"
+          "en": "Jio Financial Services",
+          "hi": "जियो फाइनेंशियल सर्विसेज"
         },
         {
-          "en": "Maharashtra",
-          "hi": "महाराष्ट्र"
+          "en": "Adani Green Energy",
+          "hi": "अदानी ग्रीन एनर्जी"
         }
       ],
       "correctAnswer": 0,
       "explanation": {
-        "en": "The Tamil Nadu government has revised the housing loan limits for urban cooperative banks and credit societies. The maximum individual loan limit has been raised to ₹60 lakh for societies with deposits below ₹100 crore and ₹1 crore for those with deposits exceeding ₹100 crore.",
-        "hi": "तमिलनाडु सरकार ने शहरी सहकारी बैंकों और क्रेडिट समितियों के लिए आवास ऋण सीमा को संशोधित किया है।₹100 करोड़ से कम जमा वाली सोसायटियों के लिए अधिकतम व्यक्तिगत ऋण सीमा ₹60 लाख और ₹100 करोड़ से अधिक जमा राशि वालों के लिए ₹1 करोड़ कर दी गई है।"
+        "en": "Jio Platforms listed on the NSE as the 3,138th company, surging by 21.36% to become India's 2nd most valuable company behind its parent Reliance Industries. This highlights the massive market capitalization command by the telecommunications and digital services conglomerate.",
+        "hi": "Jio प्लेटफ़ॉर्म NSE पर 3,138वीं कंपनी के रूप में सूचीबद्ध है, जो 21.36% की वृद्धि के साथ अपनी मूल कंपनी रिलायंस इंडस्ट्रीज के बाद भारत की दूसरी सबसे मूल्यवान कंपनी बन गई है।यह दूरसंचार और डिजिटल सेवा समूह द्वारा बड़े पैमाने पर बाजार पूंजीकरण कमांड को उजागर करता है।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/on-debut-jio-2nd-most-valuable-company-behind-only-parent-reliance-industries/articleshow/135283604.cms"
+    },
+    {
+      "id": "ca_20261029_02",
+      "question": {
+        "en": "During a recent meeting, the Indian Defence Minister warned his US counterpart against sharing sensitive technology, specifically raising concerns over which equipment package provided to Pakistan?",
+        "hi": "हाल ही में एक बैठक के दौरान, भारतीय रक्षा मंत्री ने अपने अमेरिकी समकक्ष को संवेदनशील प्रौद्योगिकी साझा करने के खिलाफ चेतावनी दी, विशेष रूप से इस बात पर चिंता जताई कि पाकिस्तान को कौन सा उपकरण पैकेज प्रदान किया गया है?"
+      },
+      "options": [
+        {
+          "en": "F-16 fighter jets",
+          "hi": "F-16 लड़ाकू विमान"
+        },
+        {
+          "en": "Apache attack helicopters",
+          "hi": "अपाचे लड़ाकू हेलीकाप्टर"
+        },
+        {
+          "en": "Patriot missile systems",
+          "hi": "पैट्रियट मिसाइल सिस्टम"
+        },
+        {
+          "en": "MQ-9 Reaper drones",
+          "hi": "एमक्यू-9 रीपर ड्रोन"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "India raised concerns over the 'F-16 package to Pakistan' during a meeting between Indian Defence Minister Rajnath Singh and US Secretary of War Pete Hegseth. India warned against double standards on terror and the possibility of sensitive US technology ending up in third countries.",
+        "hi": "भारतीय रक्षा मंत्री राजनाथ सिंह और अमेरिकी युद्ध सचिव पीट हेगसेथ के बीच एक बैठक के दौरान भारत ने 'पाकिस्तान को एफ-16 पैकेज' पर चिंता जताई।भारत ने आतंकवाद पर दोहरे मानकों और संवेदनशील अमेरिकी प्रौद्योगिकी के तीसरे देशों में समाप्त होने की संभावना के खिलाफ चेतावनी दी।"
+      },
+      "category": "Defence & Security",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/defence/news/sensitive-us-tech-to-pak-could-end-up-in-third-country-rajnath-tells-hegseth-warns-against-double-standards-on-terror/articleshow/135279811.cms"
+    },
+    {
+      "id": "ca_20261029_03",
+      "question": {
+        "en": "Which Asian country has recently sought to use Indian live-firing ranges for its missile and drone training to deepen defence cooperation?",
+        "hi": "हाल ही में किस एशियाई देश ने रक्षा सहयोग को गहरा करने के लिए अपने मिसाइल और ड्रोन प्रशिक्षण के लिए भारतीय लाइव-फायरिंग रेंज का उपयोग करने की मांग की है?"
+      },
+      "options": [
+        {
+          "en": "Japan",
+          "hi": "जापान"
+        },
+        {
+          "en": "South Korea",
+          "hi": "दक्षिण कोरिया"
+        },
+        {
+          "en": "Vietnam",
+          "hi": "वियतनाम"
+        },
+        {
+          "en": "Philippines",
+          "hi": "फिलिपींस"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "Japan has shown interest in utilizing Indian live-firing ranges for missile and drone training to deepen defence cooperation. This reflects growing bilateral military ties between India and Japan amidst shifting regional security dynamics.",
+        "hi": "जापान ने रक्षा सहयोग को गहरा करने के लिए मिसाइल और ड्रोन प्रशिक्षण के लिए भारतीय लाइव-फायरिंग रेंज का उपयोग करने में रुचि दिखाई है।यह बदलती क्षेत्रीय सुरक्षा गतिशीलता के बीच भारत और जापान के बीच बढ़ते द्विपक्षीय सैन्य संबंधों को दर्शाता है।"
+      },
+      "category": "Defence & Security",
+      "difficulty": "medium",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/defence/rssfeeds/46687796.cms"
+    },
+    {
+      "id": "ca_20261029_04",
+      "question": {
+        "en": "Which private sector bank in India is reportedly facing a ₹200 crore hit due to recent changes in insurance norms?",
+        "hi": "भारत में किस निजी क्षेत्र के बैंक को बीमा मानदंडों में हालिया बदलावों के कारण कथित तौर पर ₹200 करोड़ का नुकसान झेलना पड़ रहा है?"
+      },
+      "options": [
+        {
+          "en": "Bandhan Bank",
+          "hi": "Bandhan Bank"
+        },
+        {
+          "en": "HDFC Bank",
+          "hi": "एचडीएफसी बैंक"
+        },
+        {
+          "en": "ICICI Bank",
+          "hi": "आईसीआईसीआई बैंक"
+        },
+        {
+          "en": "Axis Bank",
+          "hi": "एक्सिस बैंक"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "Bandhan Bank is facing a ₹200 crore hit due to recent changes in insurance norms. Regulatory changes in the insurance sector often impact the revenue streams of banks that distribute these products through bancassurance tie-ups.",
+        "hi": "बीमा मानदंडों में हालिया बदलाव के कारण बंधन बैंक को ₹200 करोड़ का झटका लग रहा है।बीमा क्षेत्र में विनियामक परिवर्तन अक्सर उन बैंकों के राजस्व प्रवाह को प्रभावित करते हैं जो इन उत्पादों को बैंकएश्योरेंस टाई-अप के माध्यम से वितरित करते हैं।"
       },
       "category": "Economy & Banking",
       "difficulty": "medium",
-      "sourceUrl": "https://www.thehindu.com/news/national/tamil-nadu/tn-govt-revises-housing-loan-limits-for-urban-cooperative-banks-and-credit-societies/article71632544.ece"
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/rssfeeds/13352306.cms"
     },
     {
-      "id": "ca_20261028_02",
+      "id": "ca_20261029_05",
       "question": {
-        "en": "Which severe cyclonic storm recently made landfall near Narsapur, Andhra Pradesh in October 2026?",
-        "hi": "हाल ही में अक्टूबर 2026 में कौन सा भीषण चक्रवाती तूफान आंध्र प्रदेश के नरसापुर के पास पहुंचा?"
+        "en": "According to a recent estimate, how much investment does India need to achieve its target of 500 GW clean energy capacity by 2030?",
+        "hi": "एक हालिया अनुमान के अनुसार, भारत को 2030 तक 500 गीगावॉट स्वच्छ ऊर्जा क्षमता के अपने लक्ष्य को प्राप्त करने के लिए कितने निवेश की आवश्यकता है?"
       },
       "options": [
         {
-          "en": "Cyclone Arnab",
-          "hi": "चक्रवात अर्नब"
+          "en": "$220 billion",
+          "hi": "$220 बिलियन"
         },
         {
-          "en": "Cyclone Mocha",
-          "hi": "चक्रवात मोचा"
+          "en": "$150 billion",
+          "hi": "$150 बिलियन"
         },
         {
-          "en": "Cyclone Biparjoy",
-          "hi": "चक्रवात बिपरजॉय"
+          "en": "$300 billion",
+          "hi": "$300 बिलियन"
         },
         {
-          "en": "Cyclone Michaung",
-          "hi": "चक्रवात मिचौंग"
+          "en": "$100 billion",
+          "hi": "$100 बिलियन"
         }
       ],
       "correctAnswer": 0,
       "explanation": {
-        "en": "Very severe cyclonic storm 'Arnab' began its landfall near Narsapur, Andhra Pradesh, causing heavy rainfall and prompting authorities to evacuate thousands and cancel flights and trains. This storm interacted with land surfaces affecting Andhra Pradesh and Odisha.",
-        "hi": "बहुत भीषण चक्रवाती तूफान 'अर्नब' ने आंध्र प्रदेश के नरसापुर के पास दस्तक देनी शुरू कर दी, जिससे भारी बारिश हुई और अधिकारियों को हजारों लोगों को निकालने और उड़ानें और ट्रेनें रद्द करने के लिए मजबूर होना पड़ा।इस तूफान ने आंध्र प्रदेश और ओडिशा को प्रभावित करने वाली भूमि सतहों से संपर्क किया।"
+        "en": "India needs approximately $220 billion in investments to achieve its ambitious target of 500 GW of clean energy capacity by 2030. This highlights the enormous scale of financing required for the nation's transition towards renewable energy sources.",
+        "hi": "भारत को 2030 तक 500 गीगावॉट स्वच्छ ऊर्जा क्षमता के अपने महत्वाकांक्षी लक्ष्य को प्राप्त करने के लिए लगभग 220 बिलियन डॉलर के निवेश की आवश्यकता है। यह नवीकरणीय ऊर्जा स्रोतों की ओर देश के संक्रमण के लिए आवश्यक वित्तपोषण के विशाल पैमाने पर प्रकाश डालता है।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "hard",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/rssfeeds/13352306.cms"
+    },
+    {
+      "id": "ca_20261029_06",
+      "question": {
+        "en": "A recent report highlighted an alarming increase in heat-related deaths globally. By what percentage have heat-related deaths increased since the Paris Agreement?",
+        "hi": "एक हालिया रिपोर्ट में वैश्विक स्तर पर गर्मी से संबंधित मौतों में चिंताजनक वृद्धि पर प्रकाश डाला गया है।पेरिस समझौते के बाद से गर्मी से संबंधित मौतों में कितने प्रतिशत की वृद्धि हुई है?"
+      },
+      "options": [
+        {
+          "en": "36%",
+          "hi": "36%"
+        },
+        {
+          "en": "20%",
+          "hi": "20%"
+        },
+        {
+          "en": "50%",
+          "hi": "50%"
+        },
+        {
+          "en": "15%",
+          "hi": "15%"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "A recent report indicates that heat-related deaths have surged by 36% globally since the Paris Agreement was adopted. This underscores the escalating health impacts of climate change despite international commitments to limit global warming.",
+        "hi": "एक हालिया रिपोर्ट बताती है कि पेरिस समझौते को अपनाने के बाद से वैश्विक स्तर पर गर्मी से संबंधित मौतों में 36% की वृद्धि हुई है।यह ग्लोबल वार्मिंग को सीमित करने की अंतर्राष्ट्रीय प्रतिबद्धताओं के बावजूद जलवायु परिवर्तन के बढ़ते स्वास्थ्य प्रभावों को रेखांकित करता है।"
       },
       "category": "Environment & Ecology",
-      "difficulty": "easy",
-      "sourceUrl": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-arnab-landfall-updates/article71633266.ece"
-    },
-    {
-      "id": "ca_20261028_03",
-      "question": {
-        "en": "What did Prime Minister Narendra Modi emphasize regarding AI during his recent address?",
-        "hi": "प्रधानमंत्री नरेंद्र मोदी ने अपने हालिया संबोधन के दौरान AI को लेकर किस बात पर जोर दिया?"
-      },
-      "options": [
-        {
-          "en": "Build AI to secure systems and serve humanity",
-          "hi": "सिस्टम को सुरक्षित करने और मानवता की सेवा के लिए एआई का निर्माण करें"
-        },
-        {
-          "en": "Restrict AI use in military applications",
-          "hi": "सैन्य अनुप्रयोगों में एआई के उपयोग को प्रतिबंधित करें"
-        },
-        {
-          "en": "Focus only on generative AI for business",
-          "hi": "व्यवसाय के लिए केवल जनरेटिव एआई पर ध्यान दें"
-        },
-        {
-          "en": "Ban foreign AI companies from India",
-          "hi": "भारत में विदेशी AI कंपनियों पर प्रतिबंध लगाएं"
-        }
-      ],
-      "correctAnswer": 0,
-      "explanation": {
-        "en": "Prime Minister Narendra Modi recently emphasized the need to 'Build AI to secure systems and serve humanity'. He highlighted the importance of using Artificial Intelligence for the betterment of society while ensuring robust cybersecurity and secure systems.",
-        "hi": "प्रधान मंत्री नरेंद्र मोदी ने हाल ही में 'सिस्टम को सुरक्षित करने और मानवता की सेवा के लिए एआई बनाने' की आवश्यकता पर जोर दिया।उन्होंने मजबूत साइबर सुरक्षा और सुरक्षित प्रणाली सुनिश्चित करते हुए समाज की बेहतरी के लिए आर्टिफिशियल इंटेलिजेंस के उपयोग के महत्व पर प्रकाश डाला।"
-      },
-      "category": "Science & Technology",
       "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/build-ai-to-secure-systems-serve-humanity-pm-modi/articleshow/135246802.cms"
+      "sourceUrl": "https://economictimes.indiatimes.com/rssfeedstopstories.cms"
     },
     {
-      "id": "ca_20261028_04",
+      "id": "ca_20261029_07",
       "question": {
-        "en": "Which international forum recently expressed 'deep concern' about hostilities in West Asia and called for a two-state solution to the Israel-Palestinian conflict?",
-        "hi": "हाल ही में किस अंतर्राष्ट्रीय मंच ने पश्चिम एशिया में शत्रुता के बारे में 'गहरी चिंता' व्यक्त की और इज़राइल-फिलिस्तीनी संघर्ष के लिए दो-राज्य समाधान का आह्वान किया?"
+        "en": "Which major tech company's employees in India were recently offered a buyout option following significant global layoffs?",
+        "hi": "हाल ही में भारत में किस प्रमुख तकनीकी कंपनी के कर्मचारियों को महत्वपूर्ण वैश्विक छंटनी के बाद बायआउट विकल्प की पेशकश की गई थी?"
       },
       "options": [
         {
-          "en": "BRICS parliamentary forum",
-          "hi": "ब्रिक्स संसदीय मंच"
+          "en": "Microsoft",
+          "hi": "माइक्रोसॉफ्ट"
         },
         {
-          "en": "G20 Summit",
-          "hi": "जी20 शिखर सम्मेलन"
+          "en": "Google",
+          "hi": "गूगल"
         },
         {
-          "en": "ASEAN Summit",
-          "hi": "आसियान शिखर सम्मेलन"
+          "en": "Meta",
+          "hi": "मेटा"
         },
         {
-          "en": "SCO Heads of State Council",
-          "hi": "एससीओ राज्य परिषद के प्रमुख"
+          "en": "Amazon",
+          "hi": "वीरांगना"
         }
       ],
       "correctAnswer": 0,
       "explanation": {
-        "en": "The BRICS parliamentary forum expressed 'deep concern' over West Asian hostilities. In a joint declaration, it called for maximum restraint and a two-state solution to the Israel-Palestinian conflict, asserting the right of the Palestinian people to an independent, sovereign state.",
-        "hi": "ब्रिक्स संसदीय मंच ने पश्चिम एशियाई शत्रुता पर 'गहरी चिंता' व्यक्त की।एक संयुक्त घोषणा में, इसने फिलिस्तीनी लोगों के एक स्वतंत्र, संप्रभु राज्य के अधिकार पर जोर देते हुए, इजरायल-फिलिस्तीनी संघर्ष के लिए अधिकतम संयम और दो-राज्य समाधान का आह्वान किया।"
-      },
-      "category": "International Summits",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.thehindu.com/news/national/brics-parliamentary-forum-expresses-deep-concern-about-west-asian-hostilities/article71632561.ece"
-    },
-    {
-      "id": "ca_20261028_05",
-      "question": {
-        "en": "In recent times, to which neighboring country did India extend an invitation for the Shanghai Cooperation Organisation (SCO) civilisational dialogue forum meet?",
-        "hi": "हाल के दिनों में, भारत ने शंघाई सहयोग संगठन (एससीओ) सभ्यतागत संवाद मंच की बैठक के लिए किस पड़ोसी देश को निमंत्रण दिया है?"
-      },
-      "options": [
-        {
-          "en": "Pakistan",
-          "hi": "पाकिस्तान"
-        },
-        {
-          "en": "China",
-          "hi": "चीन"
-        },
-        {
-          "en": "Bangladesh",
-          "hi": "बांग्लादेश"
-        },
-        {
-          "en": "Sri Lanka",
-          "hi": "श्रीलंका"
-        }
-      ],
-      "correctAnswer": 0,
-      "explanation": {
-        "en": "India invited Pakistan for the Shanghai Cooperation Organisation (SCO) civilisational dialogue forum meeting scheduled for next month. The SCO is an important Eurasian political, economic, and security alliance where both India and Pakistan are full members.",
-        "hi": "भारत ने अगले महीने होने वाली शंघाई सहयोग संगठन (एससीओ) सभ्यतागत संवाद मंच की बैठक के लिए पाकिस्तान को आमंत्रित किया।एससीओ एक महत्वपूर्ण यूरेशियन राजनीतिक, आर्थिक और सुरक्षा गठबंधन है जहां भारत और पाकिस्तान दोनों पूर्ण सदस्य हैं।"
-      },
-      "category": "International Summits",
-      "difficulty": "hard",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/india-invites-pakistan-for-sco-civilisational-dialogue-forum-meet-next-month/articleshow/135245703.cms"
-    },
-    {
-      "id": "ca_20261028_06",
-      "question": {
-        "en": "According to the Supreme Court of India's recent remark, which industry cannot be allowed to 'run amok' in the name of a free market?",
-        "hi": "भारत के सर्वोच्च न्यायालय की हालिया टिप्पणी के अनुसार, किस उद्योग को मुक्त बाजार के नाम पर 'उच्छृंखल' चलने की अनुमति नहीं दी जा सकती है?"
-      },
-      "options": [
-        {
-          "en": "Pharmaceutical industry",
-          "hi": "दवा उद्योग"
-        },
-        {
-          "en": "Telecom industry",
-          "hi": "दूरसंचार उद्योग"
-        },
-        {
-          "en": "Aviation industry",
-          "hi": "उड्डयन उद्योग"
-        },
-        {
-          "en": "Real estate industry",
-          "hi": "अचल संपत्ति उद्योग"
-        }
-      ],
-      "correctAnswer": 0,
-      "explanation": {
-        "en": "The Supreme Court of India recently observed that the pharmaceutical industry cannot be let to 'run amok' in the name of a free market. The court emphasized the need for regulation to protect public health and ensure that essential medicines remain accessible.",
-        "hi": "भारत के सर्वोच्च न्यायालय ने हाल ही में कहा कि दवा उद्योग को मुक्त बाजार के नाम पर 'उच्छृंखल' होने नहीं दिया जा सकता।अदालत ने सार्वजनिक स्वास्थ्य की रक्षा के लिए विनियमन की आवश्यकता पर जोर दिया और यह सुनिश्चित किया कि आवश्यक दवाएं सुलभ रहें।"
-      },
-      "category": "Polity & Governance",
-      "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/sc-cannot-let-pharma-industry-run-amok-in-name-of-free-market/articleshow/135245670.cms"
-    },
-    {
-      "id": "ca_20261028_07",
-      "question": {
-        "en": "The Supreme Court recently directed a rethinking of strategy and heavy regulation on the sale of which substance to curb attacks?",
-        "hi": "सुप्रीम कोर्ट ने हाल ही में हमलों को रोकने के लिए किस पदार्थ की बिक्री पर रणनीति और भारी विनियमन पर पुनर्विचार करने का निर्देश दिया?"
-      },
-      "options": [
-        {
-          "en": "Acid",
-          "hi": "अम्ल"
-        },
-        {
-          "en": "Firecrackers",
-          "hi": "पटाखों"
-        },
-        {
-          "en": "Pesticides",
-          "hi": "कीटनाशकों"
-        },
-        {
-          "en": "Lethal chemicals",
-          "hi": "घातक रसायन"
-        }
-      ],
-      "correctAnswer": 0,
-      "explanation": {
-        "en": "The Supreme Court directed authorities to rethink their strategy and heavily regulate the sale of acid to curb acid attacks. The apex court has repeatedly issued guidelines to states and UTs to strictly monitor acid sales and provide adequate compensation to survivors.",
-        "hi": "सुप्रीम कोर्ट ने अधिकारियों को अपनी रणनीति पर पुनर्विचार करने और एसिड हमलों को रोकने के लिए एसिड की बिक्री को सख्ती से नियंत्रित करने का निर्देश दिया।शीर्ष अदालत ने एसिड की बिक्री पर सख्ती से निगरानी रखने और पीड़ितों को पर्याप्त मुआवजा प्रदान करने के लिए राज्यों और केंद्रशासित प्रदेशों को बार-बार दिशानिर्देश जारी किए हैं।"
-      },
-      "category": "Polity & Governance",
-      "difficulty": "easy",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/rethink-strategy-heavily-regulate-acid-sale-to-curb-attacks-says-sc/articleshow/135247788.cms"
-    },
-    {
-      "id": "ca_20261028_08",
-      "question": {
-        "en": "Which government body's Chief stated that insurance must grow 1.5 to 2 times faster than the GDP?",
-        "hi": "किस सरकारी निकाय के प्रमुख ने कहा कि बीमा को सकल घरेलू उत्पाद की तुलना में 1.5 से 2 गुना तेजी से बढ़ना चाहिए?"
-      },
-      "options": [
-        {
-          "en": "IRDAI",
-          "hi": "आईआरडीएआई"
-        },
-        {
-          "en": "SEBI",
-          "hi": "सेबी"
-        },
-        {
-          "en": "RBI",
-          "hi": "भारतीय रिजर्व बैंक"
-        },
-        {
-          "en": "PFRDA",
-          "hi": "पीएफआरडीए"
-        }
-      ],
-      "correctAnswer": 0,
-      "explanation": {
-        "en": "IRDAI (Insurance Regulatory and Development Authority of India) Chief Ajay Seth stated that the insurance sector must grow 1.5 to 2 times faster than the GDP. He also highlighted that a large part of health insurance should transition to being a 'pull product' rather than a 'push product'.",
-        "hi": "IRDAI (भारतीय बीमा नियामक और विकास प्राधिकरण) के प्रमुख अजय सेठ ने कहा कि बीमा क्षेत्र को जीडीपी की तुलना में 1.5 से 2 गुना तेजी से बढ़ना चाहिए।उन्होंने इस बात पर भी प्रकाश डाला कि स्वास्थ्य बीमा के एक बड़े हिस्से को 'पुश उत्पाद' के बजाय 'पुल उत्पाद' बनना चाहिए।"
-      },
-      "category": "Economy & Banking",
-      "difficulty": "hard",
-      "sourceUrl": "https://www.business-standard.com/specials/bs-events/insurance-must-grow-1-5-2x-faster-than-gdp-irdai-chief-ajay-seth-126102800009_1.html"
-    },
-    {
-      "id": "ca_20261028_09",
-      "question": {
-        "en": "The Solicitor General of India informed the Supreme Court that the government is working on a bill to curb which specific cybercrimes?",
-        "hi": "भारत के सॉलिसिटर जनरल ने सुप्रीम कोर्ट को सूचित किया कि सरकार किस विशिष्ट साइबर अपराध पर अंकुश लगाने के लिए एक विधेयक पर काम कर रही है?"
-      },
-      "options": [
-        {
-          "en": "Child and revenge porn",
-          "hi": "बाल और बदला लेने वाला पोर्न"
-        },
-        {
-          "en": "Financial phishing",
-          "hi": "वित्तीय फ़िशिंग"
-        },
-        {
-          "en": "Cryptocurrency fraud",
-          "hi": "क्रिप्टोकरेंसी धोखाधड़ी"
-        },
-        {
-          "en": "Corporate espionage",
-          "hi": "निगम से संबन्धित जासूसी"
-        }
-      ],
-      "correctAnswer": 0,
-      "explanation": {
-        "en": "The Solicitor General of India informed the Supreme Court that the government is actively working on drafting a new bill aimed at curbing the sharing of child and revenge porn online. This legislative move aims to strengthen the legal framework against digital sexual exploitation.",
-        "hi": "भारत के सॉलिसिटर जनरल ने सुप्रीम कोर्ट को सूचित किया कि सरकार बच्चों और बदला लेने वाले पोर्न को ऑनलाइन साझा करने पर अंकुश लगाने के उद्देश्य से एक नए विधेयक का मसौदा तैयार करने पर सक्रिय रूप से काम कर रही है।इस विधायी कदम का उद्देश्य डिजिटल यौन शोषण के खिलाफ कानूनी ढांचे को मजबूत करना है।"
-      },
-      "category": "Polity & Governance",
-      "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/government-working-on-bill-to-curb-child-revenge-porn-solicitor-general-in-sc/articleshow/135247935.cms"
-    },
-    {
-      "id": "ca_20261028_10",
-      "question": {
-        "en": "Which medical specialization topped the choices among the first 100 rankers in the recent NEET-PG counseling?",
-        "hi": "हाल ही में NEET-PG काउंसलिंग में पहले 100 रैंकर्स में से कौन सी मेडिकल विशेषज्ञता शीर्ष पर रही?"
-      },
-      "options": [
-        {
-          "en": "General Medicine",
-          "hi": "सामान्य दवा"
-        },
-        {
-          "en": "Radiodiagnosis",
-          "hi": "रेडियोडायगनोसिस"
-        },
-        {
-          "en": "Dermatology",
-          "hi": "त्वचा विज्ञान"
-        },
-        {
-          "en": "Surgery",
-          "hi": "शल्य चिकित्सा"
-        }
-      ],
-      "correctAnswer": 0,
-      "explanation": {
-        "en": "General Medicine has topped the choices among the first 100 rank holders in the NEET-PG counseling. The trend indicates a strong preference for core clinical subjects among the top medical graduates in the country.",
-        "hi": "एनईईटी-पीजी काउंसलिंग में पहले 100 रैंक धारकों के बीच जनरल मेडिसिन ने विकल्पों में शीर्ष स्थान हासिल किया है।यह प्रवृत्ति देश के शीर्ष चिकित्सा स्नातकों के बीच मुख्य नैदानिक ​​विषयों के लिए मजबूत प्राथमिकता का संकेत देती है।"
+        "en": "Microsoft employees in India can now opt for a buyout, an offer made to 60,000 employees globally months after previous layoffs. This reflects ongoing cost-cutting measures and restructuring within the global tech industry.",
+        "hi": "भारत में माइक्रोसॉफ्ट के कर्मचारी अब बायआउट का विकल्प चुन सकते हैं, यह ऑफर पिछली छंटनी के महीनों बाद वैश्विक स्तर पर 60,000 कर्मचारियों के लिए दिया गया है।यह वैश्विक तकनीकी उद्योग के भीतर चल रहे लागत-कटौती उपायों और पुनर्गठन को दर्शाता है।"
       },
       "category": "Science & Technology",
       "difficulty": "easy",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/general-medicine-tops-neet-pg-choices-among-first-100/articleshow/135247981.cms"
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-offers-buyouts-to-60000-employees-months-after-4800-layoffs-staff-have-till-december-to-decide-read-hr-head-amy-colemans-full-memo-to-employees/articleshow/135249491.cms"
+    },
+    {
+      "id": "ca_20261029_08",
+      "question": {
+        "en": "The Bihar Cabinet recently approved an MOU for a 'Flood Plain Zone Delineation Study' with which prominent institution?",
+        "hi": "बिहार कैबिनेट ने हाल ही में किस प्रमुख संस्थान के साथ 'बाढ़ मैदान क्षेत्र परिसीमन अध्ययन' के लिए एक समझौता ज्ञापन को मंजूरी दी?"
+      },
+      "options": [
+        {
+          "en": "National Institute of Hydrology, Roorkee",
+          "hi": "राष्ट्रीय जलविज्ञान संस्थान, रूड़की"
+        },
+        {
+          "en": "IIT Patna",
+          "hi": "आईआईटी पटना"
+        },
+        {
+          "en": "Central Water Commission",
+          "hi": "केंद्रीय जल आयोग"
+        },
+        {
+          "en": "Indian Institute of Science, Bangalore",
+          "hi": "भारतीय विज्ञान संस्थान, बैंगलोर"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "The Bihar Cabinet approved an MoU between the Water Resources Department (WRD) and the National Institute of Hydrology (NIH), Roorkee, for a 'Flood Plain Zone Delineation Study'. This study is crucial for managing recurrent floods in the state.",
+        "hi": "बिहार कैबिनेट ने 'बाढ़ मैदान क्षेत्र परिसीमन अध्ययन' के लिए जल संसाधन विभाग (डब्ल्यूआरडी) और राष्ट्रीय जल विज्ञान संस्थान (एनआईएच), रूड़की के बीच एक समझौता ज्ञापन को मंजूरी दे दी।यह अध्ययन राज्य में बार-बार आने वाली बाढ़ के प्रबंधन के लिए महत्वपूर्ण है।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/news/national/bihar/bihar-cabinet-approves-mou-between-wrd-nih-roorkee-for-flood-plain-zone-delineation-study/article71637295.ece"
+    },
+    {
+      "id": "ca_20261029_09",
+      "question": {
+        "en": "L&T and BAE Systems have started the production of 'BVS 10 Sindhu' All-Terrain Vehicles (ATVs) specifically designed for the Indian Army's operations in which region?",
+        "hi": "एलएंडटी और बीएई सिस्टम्स ने विशेष रूप से किस क्षेत्र में भारतीय सेना के संचालन के लिए डिज़ाइन किए गए 'बीवीएस 10 सिंधु' ऑल-टेरेन वाहन (एटीवी) का उत्पादन शुरू कर दिया है?"
+      },
+      "options": [
+        {
+          "en": "High-altitude areas",
+          "hi": "ऊंचाई वाले क्षेत्र"
+        },
+        {
+          "en": "Desert terrains",
+          "hi": "रेगिस्तानी इलाके"
+        },
+        {
+          "en": "Coastal zones",
+          "hi": "तटीय क्षेत्र"
+        },
+        {
+          "en": "Jungle warfare zones",
+          "hi": "जंगल युद्ध क्षेत्र"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "L&T and BAE Systems have commenced production of the BVS 10 Sindhu ATVs for the Indian Army, intended for high-altitude operations. These specialized vehicles enhance mobility and logistical support in challenging mountainous environments like Ladakh.",
+        "hi": "एलएंडटी और बीएई सिस्टम्स ने भारतीय सेना के लिए उच्च ऊंचाई वाले ऑपरेशनों के लिए बीवीएस 10 सिंधु एटीवी का उत्पादन शुरू कर दिया है।ये विशेष वाहन लद्दाख जैसे चुनौतीपूर्ण पहाड़ी वातावरण में गतिशीलता और लॉजिस्टिक समर्थन को बढ़ाते हैं।"
+      },
+      "category": "Defence & Security",
+      "difficulty": "hard",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/defence/rssfeeds/46687796.cms"
+    },
+    {
+      "id": "ca_20261029_10",
+      "question": {
+        "en": "The Defence Minister of India, Rajnath Singh, recently met with his US counterpart on the sidelines of which major regional defence ministers' meeting held in the Philippines?",
+        "hi": "भारत के रक्षा मंत्री राजनाथ सिंह ने हाल ही में फिलीपींस में आयोजित किस प्रमुख क्षेत्रीय रक्षा मंत्रियों की बैठक के मौके पर अपने अमेरिकी समकक्ष से मुलाकात की?"
+      },
+      "options": [
+        {
+          "en": "ASEAN Defence Ministers' Meeting (ADMM-Plus)",
+          "hi": "आसियान रक्षा मंत्रियों की बैठक (एडीएमएम-प्लस)"
+        },
+        {
+          "en": "Shangri-La Dialogue",
+          "hi": "शांगरी-ला संवाद"
+        },
+        {
+          "en": "Quad Security Dialogue",
+          "hi": "क्वाड सुरक्षा संवाद"
+        },
+        {
+          "en": "Shanghai Cooperation Organisation (SCO) Defence Ministers' Meeting",
+          "hi": "शंघाई सहयोग संगठन (एससीओ) के रक्षा मंत्रियों की बैठक"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "Defence Minister Rajnath Singh met with US Secretary of War Pete Hegseth on the sidelines of the ASEAN Defence Ministers' Meeting (ADMM-Plus) in the Philippines. They reviewed the progress of the 10-year bilateral defence pact between the two nations.",
+        "hi": "रक्षा मंत्री राजनाथ सिंह ने फिलीपींस में आसियान रक्षा मंत्रियों की बैठक (एडीएमएम-प्लस) के मौके पर अमेरिकी युद्ध सचिव पीट हेगसेथ से मुलाकात की।उन्होंने दोनों देशों के बीच 10 साल के द्विपक्षीय रक्षा समझौते की प्रगति की समीक्षा की।"
+      },
+      "category": "International Summits",
+      "difficulty": "easy",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/defence/rssfeeds/46687796.cms"
     }
   ]
 }
