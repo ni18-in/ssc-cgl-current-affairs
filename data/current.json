@@ -1,13 +1,13 @@
 {
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "topic": "SSC CGL Daily Current Affairs",
   "source": "PIB / The Hindu / Economic Times / Indian Express / GKToday",
-  "lastUpdated": "2026-10-29T05:21:51+05:30",
+  "lastUpdated": "2026-10-30T06:30:00+05:30",
   "version": 1,
   "totalQuestions": 10,
   "quiz": [
     {
-      "id": "ca_20261029_01",
+      "id": "ca_20261030_01",
       "question": {
         "en": "Which company recently became the 2nd most valuable company on its debut on the NSE, listing right behind its parent company Reliance Industries?",
         "hi": "कौन सी कंपनी हाल ही में एनएसई पर अपनी मूल कंपनी रिलायंस इंडस्ट्रीज के ठीक पीछे सूचीबद्ध होकर दूसरी सबसे मूल्यवान कंपनी बन गई?"
@@ -40,7 +40,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/on-debut-jio-2nd-most-valuable-company-behind-only-parent-reliance-industries/articleshow/135283604.cms"
     },
     {
-      "id": "ca_20261029_02",
+      "id": "ca_20261030_02",
       "question": {
         "en": "During a recent meeting, the Indian Defence Minister warned his US counterpart against sharing sensitive technology, specifically raising concerns over which equipment package provided to Pakistan?",
         "hi": "हाल ही में एक बैठक के दौरान, भारतीय रक्षा मंत्री ने अपने अमेरिकी समकक्ष को संवेदनशील प्रौद्योगिकी साझा करने के खिलाफ चेतावनी दी, विशेष रूप से इस बात पर चिंता जताई कि पाकिस्तान को कौन सा उपकरण पैकेज प्रदान किया गया है?"
@@ -73,7 +73,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/defence/news/sensitive-us-tech-to-pak-could-end-up-in-third-country-rajnath-tells-hegseth-warns-against-double-standards-on-terror/articleshow/135279811.cms"
     },
     {
-      "id": "ca_20261029_03",
+      "id": "ca_20261030_03",
       "question": {
         "en": "Which Asian country has recently sought to use Indian live-firing ranges for its missile and drone training to deepen defence cooperation?",
         "hi": "हाल ही में किस एशियाई देश ने रक्षा सहयोग को गहरा करने के लिए अपने मिसाइल और ड्रोन प्रशिक्षण के लिए भारतीय लाइव-फायरिंग रेंज का उपयोग करने की मांग की है?"
@@ -106,7 +106,7 @@
       "sourceUrl": "https://economictimes.indiatimes.com/news/defence/rssfeeds/46687796.cms"
     },
     {
-      "id": "ca_20261029_04",
+      "id": "ca_20261030_04",
       "question": {
         "en": "Which private sector bank in India is reportedly facing a ₹200 crore hit due to recent changes in insurance norms?",
         "hi": "भारत में किस निजी क्षेत्र के बैंक को बीमा मानदंडों में हालिया बदलावों के कारण कथित तौर पर ₹200 करोड़ का नुकसान झेलना पड़ रहा है?"
@@ -139,7 +139,7 @@
       "sourceUrl": "https://economictimes.indiatimes.com/industry/rssfeeds/13352306.cms"
     },
     {
-      "id": "ca_20261029_05",
+      "id": "ca_20261030_05",
       "question": {
         "en": "According to a recent estimate, how much investment does India need to achieve its target of 500 GW clean energy capacity by 2030?",
         "hi": "एक हालिया अनुमान के अनुसार, भारत को 2030 तक 500 गीगावॉट स्वच्छ ऊर्जा क्षमता के अपने लक्ष्य को प्राप्त करने के लिए कितने निवेश की आवश्यकता है?"
@@ -172,7 +172,7 @@
       "sourceUrl": "https://economictimes.indiatimes.com/industry/rssfeeds/13352306.cms"
     },
     {
-      "id": "ca_20261029_06",
+      "id": "ca_20261030_06",
       "question": {
         "en": "A recent report highlighted an alarming increase in heat-related deaths globally. By what percentage have heat-related deaths increased since the Paris Agreement?",
         "hi": "एक हालिया रिपोर्ट में वैश्विक स्तर पर गर्मी से संबंधित मौतों में चिंताजनक वृद्धि पर प्रकाश डाला गया है।पेरिस समझौते के बाद से गर्मी से संबंधित मौतों में कितने प्रतिशत की वृद्धि हुई है?"
@@ -205,7 +205,7 @@
       "sourceUrl": "https://economictimes.indiatimes.com/rssfeedstopstories.cms"
     },
     {
-      "id": "ca_20261029_07",
+      "id": "ca_20261030_07",
       "question": {
         "en": "Which major tech company's employees in India were recently offered a buyout option following significant global layoffs?",
         "hi": "हाल ही में भारत में किस प्रमुख तकनीकी कंपनी के कर्मचारियों को महत्वपूर्ण वैश्विक छंटनी के बाद बायआउट विकल्प की पेशकश की गई थी?"
@@ -238,7 +238,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-offers-buyouts-to-60000-employees-months-after-4800-layoffs-staff-have-till-december-to-decide-read-hr-head-amy-colemans-full-memo-to-employees/articleshow/135249491.cms"
     },
     {
-      "id": "ca_20261029_08",
+      "id": "ca_20261030_08",
       "question": {
         "en": "The Bihar Cabinet recently approved an MOU for a 'Flood Plain Zone Delineation Study' with which prominent institution?",
         "hi": "बिहार कैबिनेट ने हाल ही में किस प्रमुख संस्थान के साथ 'बाढ़ मैदान क्षेत्र परिसीमन अध्ययन' के लिए एक समझौता ज्ञापन को मंजूरी दी?"
@@ -271,7 +271,7 @@
       "sourceUrl": "https://www.thehindu.com/news/national/bihar/bihar-cabinet-approves-mou-between-wrd-nih-roorkee-for-flood-plain-zone-delineation-study/article71637295.ece"
     },
     {
-      "id": "ca_20261029_09",
+      "id": "ca_20261030_09",
       "question": {
         "en": "L&T and BAE Systems have started the production of 'BVS 10 Sindhu' All-Terrain Vehicles (ATVs) specifically designed for the Indian Army's operations in which region?",
         "hi": "एलएंडटी और बीएई सिस्टम्स ने विशेष रूप से किस क्षेत्र में भारतीय सेना के संचालन के लिए डिज़ाइन किए गए 'बीवीएस 10 सिंधु' ऑल-टेरेन वाहन (एटीवी) का उत्पादन शुरू कर दिया है?"
@@ -304,7 +304,7 @@
       "sourceUrl": "https://economictimes.indiatimes.com/news/defence/rssfeeds/46687796.cms"
     },
     {
-      "id": "ca_20261029_10",
+      "id": "ca_20261030_10",
       "question": {
         "en": "The Defence Minister of India, Rajnath Singh, recently met with his US counterpart on the sidelines of which major regional defence ministers' meeting held in the Philippines?",
         "hi": "भारत के रक्षा मंत्री राजनाथ सिंह ने हाल ही में फिलीपींस में आयोजित किस प्रमुख क्षेत्रीय रक्षा मंत्रियों की बैठक के मौके पर अपने अमेरिकी समकक्ष से मुलाकात की?"

@@ -1,0 +1,340 @@
+{
+  "date": "2026-10-30",
+  "topic": "SSC CGL Daily Current Affairs",
+  "source": "PIB / The Hindu / Economic Times / Indian Express / GKToday",
+  "lastUpdated": "2026-10-30T06:30:00+05:30",
+  "version": 1,
+  "totalQuestions": 10,
+  "quiz": [
+    {
+      "id": "ca_20261030_01",
+      "question": {
+        "en": "Which company recently became the 2nd most valuable company on its debut on the NSE, listing right behind its parent company Reliance Industries?",
+        "hi": "कौन सी कंपनी हाल ही में एनएसई पर अपनी मूल कंपनी रिलायंस इंडस्ट्रीज के ठीक पीछे सूचीबद्ध होकर दूसरी सबसे मूल्यवान कंपनी बन गई?"
+      },
+      "options": [
+        {
+          "en": "Jio Platforms",
+          "hi": "जियो प्लेटफार्म"
+        },
+        {
+          "en": "Reliance Retail",
+          "hi": "रिलायंस रिटेल"
+        },
+        {
+          "en": "Jio Financial Services",
+          "hi": "जियो फाइनेंशियल सर्विसेज"
+        },
+        {
+          "en": "Adani Green Energy",
+          "hi": "अदानी ग्रीन एनर्जी"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "Jio Platforms listed on the NSE as the 3,138th company, surging by 21.36% to become India's 2nd most valuable company behind its parent Reliance Industries. This highlights the massive market capitalization command by the telecommunications and digital services conglomerate.",
+        "hi": "Jio प्लेटफ़ॉर्म NSE पर 3,138वीं कंपनी के रूप में सूचीबद्ध है, जो 21.36% की वृद्धि के साथ अपनी मूल कंपनी रिलायंस इंडस्ट्रीज के बाद भारत की दूसरी सबसे मूल्यवान कंपनी बन गई है।यह दूरसंचार और डिजिटल सेवा समूह द्वारा बड़े पैमाने पर बाजार पूंजीकरण कमांड को उजागर करता है।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/on-debut-jio-2nd-most-valuable-company-behind-only-parent-reliance-industries/articleshow/135283604.cms"
+    },
+    {
+      "id": "ca_20261030_02",
+      "question": {
+        "en": "During a recent meeting, the Indian Defence Minister warned his US counterpart against sharing sensitive technology, specifically raising concerns over which equipment package provided to Pakistan?",
+        "hi": "हाल ही में एक बैठक के दौरान, भारतीय रक्षा मंत्री ने अपने अमेरिकी समकक्ष को संवेदनशील प्रौद्योगिकी साझा करने के खिलाफ चेतावनी दी, विशेष रूप से इस बात पर चिंता जताई कि पाकिस्तान को कौन सा उपकरण पैकेज प्रदान किया गया है?"
+      },
+      "options": [
+        {
+          "en": "F-16 fighter jets",
+          "hi": "F-16 लड़ाकू विमान"
+        },
+        {
+          "en": "Apache attack helicopters",
+          "hi": "अपाचे लड़ाकू हेलीकाप्टर"
+        },
+        {
+          "en": "Patriot missile systems",
+          "hi": "पैट्रियट मिसाइल सिस्टम"
+        },
+        {
+          "en": "MQ-9 Reaper drones",
+          "hi": "एमक्यू-9 रीपर ड्रोन"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "India raised concerns over the 'F-16 package to Pakistan' during a meeting between Indian Defence Minister Rajnath Singh and US Secretary of War Pete Hegseth. India warned against double standards on terror and the possibility of sensitive US technology ending up in third countries.",
+        "hi": "भारतीय रक्षा मंत्री राजनाथ सिंह और अमेरिकी युद्ध सचिव पीट हेगसेथ के बीच एक बैठक के दौरान भारत ने 'पाकिस्तान को एफ-16 पैकेज' पर चिंता जताई।भारत ने आतंकवाद पर दोहरे मानकों और संवेदनशील अमेरिकी प्रौद्योगिकी के तीसरे देशों में समाप्त होने की संभावना के खिलाफ चेतावनी दी।"
+      },
+      "category": "Defence & Security",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/defence/news/sensitive-us-tech-to-pak-could-end-up-in-third-country-rajnath-tells-hegseth-warns-against-double-standards-on-terror/articleshow/135279811.cms"
+    },
+    {
+      "id": "ca_20261030_03",
+      "question": {
+        "en": "Which Asian country has recently sought to use Indian live-firing ranges for its missile and drone training to deepen defence cooperation?",
+        "hi": "हाल ही में किस एशियाई देश ने रक्षा सहयोग को गहरा करने के लिए अपने मिसाइल और ड्रोन प्रशिक्षण के लिए भारतीय लाइव-फायरिंग रेंज का उपयोग करने की मांग की है?"
+      },
+      "options": [
+        {
+          "en": "Japan",
+          "hi": "जापान"
+        },
+        {
+          "en": "South Korea",
+          "hi": "दक्षिण कोरिया"
+        },
+        {
+          "en": "Vietnam",
+          "hi": "वियतनाम"
+        },
+        {
+          "en": "Philippines",
+          "hi": "फिलिपींस"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "Japan has shown interest in utilizing Indian live-firing ranges for missile and drone training to deepen defence cooperation. This reflects growing bilateral military ties between India and Japan amidst shifting regional security dynamics.",
+        "hi": "जापान ने रक्षा सहयोग को गहरा करने के लिए मिसाइल और ड्रोन प्रशिक्षण के लिए भारतीय लाइव-फायरिंग रेंज का उपयोग करने में रुचि दिखाई है।यह बदलती क्षेत्रीय सुरक्षा गतिशीलता के बीच भारत और जापान के बीच बढ़ते द्विपक्षीय सैन्य संबंधों को दर्शाता है।"
+      },
+      "category": "Defence & Security",
+      "difficulty": "medium",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/defence/rssfeeds/46687796.cms"
+    },
+    {
+      "id": "ca_20261030_04",
+      "question": {
+        "en": "Which private sector bank in India is reportedly facing a ₹200 crore hit due to recent changes in insurance norms?",
+        "hi": "भारत में किस निजी क्षेत्र के बैंक को बीमा मानदंडों में हालिया बदलावों के कारण कथित तौर पर ₹200 करोड़ का नुकसान झेलना पड़ रहा है?"
+      },
+      "options": [
+        {
+          "en": "Bandhan Bank",
+          "hi": "Bandhan Bank"
+        },
+        {
+          "en": "HDFC Bank",
+          "hi": "एचडीएफसी बैंक"
+        },
+        {
+          "en": "ICICI Bank",
+          "hi": "आईसीआईसीआई बैंक"
+        },
+        {
+          "en": "Axis Bank",
+          "hi": "एक्सिस बैंक"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "Bandhan Bank is facing a ₹200 crore hit due to recent changes in insurance norms. Regulatory changes in the insurance sector often impact the revenue streams of banks that distribute these products through bancassurance tie-ups.",
+        "hi": "बीमा मानदंडों में हालिया बदलाव के कारण बंधन बैंक को ₹200 करोड़ का झटका लग रहा है।बीमा क्षेत्र में विनियामक परिवर्तन अक्सर उन बैंकों के राजस्व प्रवाह को प्रभावित करते हैं जो इन उत्पादों को बैंकएश्योरेंस टाई-अप के माध्यम से वितरित करते हैं।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "medium",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/rssfeeds/13352306.cms"
+    },
+    {
+      "id": "ca_20261030_05",
+      "question": {
+        "en": "According to a recent estimate, how much investment does India need to achieve its target of 500 GW clean energy capacity by 2030?",
+        "hi": "एक हालिया अनुमान के अनुसार, भारत को 2030 तक 500 गीगावॉट स्वच्छ ऊर्जा क्षमता के अपने लक्ष्य को प्राप्त करने के लिए कितने निवेश की आवश्यकता है?"
+      },
+      "options": [
+        {
+          "en": "$220 billion",
+          "hi": "$220 बिलियन"
+        },
+        {
+          "en": "$150 billion",
+          "hi": "$150 बिलियन"
+        },
+        {
+          "en": "$300 billion",
+          "hi": "$300 बिलियन"
+        },
+        {
+          "en": "$100 billion",
+          "hi": "$100 बिलियन"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "India needs approximately $220 billion in investments to achieve its ambitious target of 500 GW of clean energy capacity by 2030. This highlights the enormous scale of financing required for the nation's transition towards renewable energy sources.",
+        "hi": "भारत को 2030 तक 500 गीगावॉट स्वच्छ ऊर्जा क्षमता के अपने महत्वाकांक्षी लक्ष्य को प्राप्त करने के लिए लगभग 220 बिलियन डॉलर के निवेश की आवश्यकता है। यह नवीकरणीय ऊर्जा स्रोतों की ओर देश के संक्रमण के लिए आवश्यक वित्तपोषण के विशाल पैमाने पर प्रकाश डालता है।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "hard",
+      "sourceUrl": "https://economictimes.indiatimes.com/industry/rssfeeds/13352306.cms"
+    },
+    {
+      "id": "ca_20261030_06",
+      "question": {
+        "en": "A recent report highlighted an alarming increase in heat-related deaths globally. By what percentage have heat-related deaths increased since the Paris Agreement?",
+        "hi": "एक हालिया रिपोर्ट में वैश्विक स्तर पर गर्मी से संबंधित मौतों में चिंताजनक वृद्धि पर प्रकाश डाला गया है।पेरिस समझौते के बाद से गर्मी से संबंधित मौतों में कितने प्रतिशत की वृद्धि हुई है?"
+      },
+      "options": [
+        {
+          "en": "36%",
+          "hi": "36%"
+        },
+        {
+          "en": "20%",
+          "hi": "20%"
+        },
+        {
+          "en": "50%",
+          "hi": "50%"
+        },
+        {
+          "en": "15%",
+          "hi": "15%"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "A recent report indicates that heat-related deaths have surged by 36% globally since the Paris Agreement was adopted. This underscores the escalating health impacts of climate change despite international commitments to limit global warming.",
+        "hi": "एक हालिया रिपोर्ट बताती है कि पेरिस समझौते को अपनाने के बाद से वैश्विक स्तर पर गर्मी से संबंधित मौतों में 36% की वृद्धि हुई है।यह ग्लोबल वार्मिंग को सीमित करने की अंतर्राष्ट्रीय प्रतिबद्धताओं के बावजूद जलवायु परिवर्तन के बढ़ते स्वास्थ्य प्रभावों को रेखांकित करता है।"
+      },
+      "category": "Environment & Ecology",
+      "difficulty": "medium",
+      "sourceUrl": "https://economictimes.indiatimes.com/rssfeedstopstories.cms"
+    },
+    {
+      "id": "ca_20261030_07",
+      "question": {
+        "en": "Which major tech company's employees in India were recently offered a buyout option following significant global layoffs?",
+        "hi": "हाल ही में भारत में किस प्रमुख तकनीकी कंपनी के कर्मचारियों को महत्वपूर्ण वैश्विक छंटनी के बाद बायआउट विकल्प की पेशकश की गई थी?"
+      },
+      "options": [
+        {
+          "en": "Microsoft",
+          "hi": "माइक्रोसॉफ्ट"
+        },
+        {
+          "en": "Google",
+          "hi": "गूगल"
+        },
+        {
+          "en": "Meta",
+          "hi": "मेटा"
+        },
+        {
+          "en": "Amazon",
+          "hi": "वीरांगना"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "Microsoft employees in India can now opt for a buyout, an offer made to 60,000 employees globally months after previous layoffs. This reflects ongoing cost-cutting measures and restructuring within the global tech industry.",
+        "hi": "भारत में माइक्रोसॉफ्ट के कर्मचारी अब बायआउट का विकल्प चुन सकते हैं, यह ऑफर पिछली छंटनी के महीनों बाद वैश्विक स्तर पर 60,000 कर्मचारियों के लिए दिया गया है।यह वैश्विक तकनीकी उद्योग के भीतर चल रहे लागत-कटौती उपायों और पुनर्गठन को दर्शाता है।"
+      },
+      "category": "Science & Technology",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-offers-buyouts-to-60000-employees-months-after-4800-layoffs-staff-have-till-december-to-decide-read-hr-head-amy-colemans-full-memo-to-employees/articleshow/135249491.cms"
+    },
+    {
+      "id": "ca_20261030_08",
+      "question": {
+        "en": "The Bihar Cabinet recently approved an MOU for a 'Flood Plain Zone Delineation Study' with which prominent institution?",
+        "hi": "बिहार कैबिनेट ने हाल ही में किस प्रमुख संस्थान के साथ 'बाढ़ मैदान क्षेत्र परिसीमन अध्ययन' के लिए एक समझौता ज्ञापन को मंजूरी दी?"
+      },
+      "options": [
+        {
+          "en": "National Institute of Hydrology, Roorkee",
+          "hi": "राष्ट्रीय जलविज्ञान संस्थान, रूड़की"
+        },
+        {
+          "en": "IIT Patna",
+          "hi": "आईआईटी पटना"
+        },
+        {
+          "en": "Central Water Commission",
+          "hi": "केंद्रीय जल आयोग"
+        },
+        {
+          "en": "Indian Institute of Science, Bangalore",
+          "hi": "भारतीय विज्ञान संस्थान, बैंगलोर"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "The Bihar Cabinet approved an MoU between the Water Resources Department (WRD) and the National Institute of Hydrology (NIH), Roorkee, for a 'Flood Plain Zone Delineation Study'. This study is crucial for managing recurrent floods in the state.",
+        "hi": "बिहार कैबिनेट ने 'बाढ़ मैदान क्षेत्र परिसीमन अध्ययन' के लिए जल संसाधन विभाग (डब्ल्यूआरडी) और राष्ट्रीय जल विज्ञान संस्थान (एनआईएच), रूड़की के बीच एक समझौता ज्ञापन को मंजूरी दे दी।यह अध्ययन राज्य में बार-बार आने वाली बाढ़ के प्रबंधन के लिए महत्वपूर्ण है।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/news/national/bihar/bihar-cabinet-approves-mou-between-wrd-nih-roorkee-for-flood-plain-zone-delineation-study/article71637295.ece"
+    },
+    {
+      "id": "ca_20261030_09",
+      "question": {
+        "en": "L&T and BAE Systems have started the production of 'BVS 10 Sindhu' All-Terrain Vehicles (ATVs) specifically designed for the Indian Army's operations in which region?",
+        "hi": "एलएंडटी और बीएई सिस्टम्स ने विशेष रूप से किस क्षेत्र में भारतीय सेना के संचालन के लिए डिज़ाइन किए गए 'बीवीएस 10 सिंधु' ऑल-टेरेन वाहन (एटीवी) का उत्पादन शुरू कर दिया है?"
+      },
+      "options": [
+        {
+          "en": "High-altitude areas",
+          "hi": "ऊंचाई वाले क्षेत्र"
+        },
+        {
+          "en": "Desert terrains",
+          "hi": "रेगिस्तानी इलाके"
+        },
+        {
+          "en": "Coastal zones",
+          "hi": "तटीय क्षेत्र"
+        },
+        {
+          "en": "Jungle warfare zones",
+          "hi": "जंगल युद्ध क्षेत्र"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "L&T and BAE Systems have commenced production of the BVS 10 Sindhu ATVs for the Indian Army, intended for high-altitude operations. These specialized vehicles enhance mobility and logistical support in challenging mountainous environments like Ladakh.",
+        "hi": "एलएंडटी और बीएई सिस्टम्स ने भारतीय सेना के लिए उच्च ऊंचाई वाले ऑपरेशनों के लिए बीवीएस 10 सिंधु एटीवी का उत्पादन शुरू कर दिया है।ये विशेष वाहन लद्दाख जैसे चुनौतीपूर्ण पहाड़ी वातावरण में गतिशीलता और लॉजिस्टिक समर्थन को बढ़ाते हैं।"
+      },
+      "category": "Defence & Security",
+      "difficulty": "hard",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/defence/rssfeeds/46687796.cms"
+    },
+    {
+      "id": "ca_20261030_10",
+      "question": {
+        "en": "The Defence Minister of India, Rajnath Singh, recently met with his US counterpart on the sidelines of which major regional defence ministers' meeting held in the Philippines?",
+        "hi": "भारत के रक्षा मंत्री राजनाथ सिंह ने हाल ही में फिलीपींस में आयोजित किस प्रमुख क्षेत्रीय रक्षा मंत्रियों की बैठक के मौके पर अपने अमेरिकी समकक्ष से मुलाकात की?"
+      },
+      "options": [
+        {
+          "en": "ASEAN Defence Ministers' Meeting (ADMM-Plus)",
+          "hi": "आसियान रक्षा मंत्रियों की बैठक (एडीएमएम-प्लस)"
+        },
+        {
+          "en": "Shangri-La Dialogue",
+          "hi": "शांगरी-ला संवाद"
+        },
+        {
+          "en": "Quad Security Dialogue",
+          "hi": "क्वाड सुरक्षा संवाद"
+        },
+        {
+          "en": "Shanghai Cooperation Organisation (SCO) Defence Ministers' Meeting",
+          "hi": "शंघाई सहयोग संगठन (एससीओ) के रक्षा मंत्रियों की बैठक"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "Defence Minister Rajnath Singh met with US Secretary of War Pete Hegseth on the sidelines of the ASEAN Defence Ministers' Meeting (ADMM-Plus) in the Philippines. They reviewed the progress of the 10-year bilateral defence pact between the two nations.",
+        "hi": "रक्षा मंत्री राजनाथ सिंह ने फिलीपींस में आसियान रक्षा मंत्रियों की बैठक (एडीएमएम-प्लस) के मौके पर अमेरिकी युद्ध सचिव पीट हेगसेथ से मुलाकात की।उन्होंने दोनों देशों के बीच 10 साल के द्विपक्षीय रक्षा समझौते की प्रगति की समीक्षा की।"
+      },
+      "category": "International Summits",
+      "difficulty": "easy",
+      "sourceUrl": "https://economictimes.indiatimes.com/news/defence/rssfeeds/46687796.cms"
+    }
+  ]
+}
