@@ -1,13 +1,13 @@
 {
-  "date": "2026-10-30",
+  "date": "2026-10-31",
   "topic": "SSC CGL Daily Current Affairs",
   "source": "The Hindu / Times of India",
-  "lastUpdated": "2026-10-30T05:33:41+05:30",
+  "lastUpdated": "2026-10-31T06:30:00+05:30",
   "version": 1,
   "totalQuestions": 10,
   "quiz": [
     {
-      "id": "ca_20261030_01",
+      "id": "ca_20261031_01",
       "question": {
         "en": "What did the Supreme Court recently mandate the Reserve Bank of India (RBI) regarding funds lost in 'digital arrest' scams?",
         "hi": "सुप्रीम कोर्ट ने हाल ही में 'डिजिटल गिरफ्तारी' घोटालों में खोए धन के संबंध में भारतीय रिजर्व बैंक (RBI) को क्या आदेश दिया?"
@@ -40,7 +40,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/india/mandate-damages-for-savings-lost-in-digital-arrest-sc-to-rbi/articleshow/135331961.cms"
     },
     {
-      "id": "ca_20261030_02",
+      "id": "ca_20261031_02",
       "question": {
         "en": "According to a recent study, which regions in India received the most private equity investment in the health sector?",
         "hi": "एक हालिया अध्ययन के अनुसार, भारत के किन क्षेत्रों में स्वास्थ्य क्षेत्र में सबसे अधिक निजी इक्विटी निवेश प्राप्त हुआ?"
@@ -73,7 +73,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/india/most-of-private-equity-in-health-went-to-west-south-study/articleshow/135332703.cms"
     },
     {
-      "id": "ca_20261030_03",
+      "id": "ca_20261031_03",
       "question": {
         "en": "Which consumer protection authority recently penalized Justdial and Sunrise Foods for safety and misleading product claims?",
         "hi": "हाल ही में किस उपभोक्ता संरक्षण प्राधिकरण ने सुरक्षा और भ्रामक उत्पाद दावों के लिए जस्टडायल और सनराइज फूड्स को दंडित किया है?"
@@ -106,7 +106,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/india/ccpa-penalises-justdial-sunrise-foods-for-safety-misleading-product-claims/articleshow/135332371.cms"
     },
     {
-      "id": "ca_20261030_04",
+      "id": "ca_20261031_04",
       "question": {
         "en": "In the ongoing Asian Champions Trophy, against which country did India win 5-2 with Harmanpreet and Sukhjeet scoring braces?",
         "hi": "मौजूदा एशियाई चैंपियंस ट्रॉफी में, भारत ने किस देश के खिलाफ हरमनप्रीत और सुखजीत के दो गोलों की मदद से 5-2 से जीत हासिल की?"
@@ -139,7 +139,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/harmanpreet-sukhjeet-score-braces-as-india-beat-china-5-2-at-asian-champions-trophy/articleshow/135323193.cms"
     },
     {
-      "id": "ca_20261030_05",
+      "id": "ca_20261031_05",
       "question": {
         "en": "The Supreme Court of India recently warned of a 'harsh stand' if its orders are not enforced regarding which environmental issue?",
         "hi": "भारत के सर्वोच्च न्यायालय ने हाल ही में किस पर्यावरणीय मुद्दे के संबंध में अपने आदेशों को लागू नहीं करने पर 'कठोर रुख' अपनाने की चेतावनी दी?"
@@ -172,7 +172,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/india/dont-push-us-sc-warns-of-harsh-stand-on-firecrackers-if-orders-go-unenforced/articleshow/135321333.cms"
     },
     {
-      "id": "ca_20261030_06",
+      "id": "ca_20261031_06",
       "question": {
         "en": "Who did Union Defence Minister Rajnath Singh recently state India is ready to share its 'battle-tested expertise' with?",
         "hi": "केंद्रीय रक्षा मंत्री राजनाथ सिंह ने हाल ही में किसके साथ कहा कि भारत अपनी 'युद्ध-परीक्षित विशेषज्ञता' साझा करने के लिए तैयार है?"
@@ -205,7 +205,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/defence/news/india-ready-to-share-its-battle-tested-expertise-with-asean-partners-to-boost-joint-capabilities-rajnath/articleshow/135328194.cms"
     },
     {
-      "id": "ca_20261030_07",
+      "id": "ca_20261031_07",
       "question": {
         "en": "Which High Court recently struck down the water tax imposed on hydropower projects?",
         "hi": "हाल ही में किस उच्च न्यायालय ने जलविद्युत परियोजनाओं पर लगाए गए जल कर को रद्द कर दिया?"
@@ -238,7 +238,7 @@
       "sourceUrl": "https://www.thehindu.com/news/national/jammu-and-kashmir/jk-high-court-declares-imposition-of-water-usage-charges-under-2010-act-in-ut-as-ultra-vires/article71641708.ece"
     },
     {
-      "id": "ca_20261030_08",
+      "id": "ca_20261031_08",
       "question": {
         "en": "The US intelligence recently confirmed satellite images showing a secret spaceplane in orbit belonging to which country?",
         "hi": "अमेरिकी खुफिया विभाग ने हाल ही में उपग्रह चित्रों की पुष्टि की है जिसमें किस देश की कक्षा में एक गुप्त अंतरिक्ष यान दिखाया गया है?"
@@ -271,7 +271,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/defence/international/us-intelligence-confirms-image-shows-chinas-secret-spaceplane-in-orbit-design-resembles-x-37b/articleshow/135322625.cms"
     },
     {
-      "id": "ca_20261030_09",
+      "id": "ca_20261031_09",
       "question": {
         "en": "The Enforcement Directorate (ED) recently searched premises linked to Mudrex and Instadapp over alleged FEMA violations worth ₹4,600 crore. What does FEMA stand for?",
         "hi": "प्रवर्तन निदेशालय (ईडी) ने हाल ही में ₹4,600 करोड़ के कथित फेमा उल्लंघन को लेकर मुड्रेक्स और इंस्टाडैप से जुड़े परिसरों की तलाशी ली।फेमा का क्या मतलब है?"
@@ -304,7 +304,7 @@
       "sourceUrl": "https://www.thehindu.com/news/national/karnataka/ed-searches-mudrex-instadapp-linked-premises-in-bengaluru-and-madhya-pradesh-over-alleged-4600-crore-fema-violations/article71640629.ece"
     },
     {
-      "id": "ca_20261030_10",
+      "id": "ca_20261031_10",
       "question": {
         "en": "Which state's forest department is highlighting the 'gun culture' in the Chambal region during the probe into a cheetah shooting incident?",
         "hi": "किस राज्य का वन विभाग चीता गोलीकांड की जांच के दौरान चंबल क्षेत्र में 'बंदूक संस्कृति' को उजागर कर रहा है?"
