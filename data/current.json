@@ -1,340 +1,340 @@
 {
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "topic": "SSC CGL Daily Current Affairs",
-  "source": "PIB / The Hindu / Economic Times / Indian Express / GKToday",
-  "lastUpdated": "2026-10-29T05:21:51+05:30",
+  "source": "The Hindu / Times of India",
+  "lastUpdated": "2026-10-30T05:33:41+05:30",
   "version": 1,
   "totalQuestions": 10,
   "quiz": [
     {
-      "id": "ca_20261029_01",
+      "id": "ca_20261030_01",
       "question": {
-        "en": "Which company recently became the 2nd most valuable company on its debut on the NSE, listing right behind its parent company Reliance Industries?",
-        "hi": "कौन सी कंपनी हाल ही में एनएसई पर अपनी मूल कंपनी रिलायंस इंडस्ट्रीज के ठीक पीछे सूचीबद्ध होकर दूसरी सबसे मूल्यवान कंपनी बन गई?"
+        "en": "What did the Supreme Court recently mandate the Reserve Bank of India (RBI) regarding funds lost in 'digital arrest' scams?",
+        "hi": "सुप्रीम कोर्ट ने हाल ही में 'डिजिटल गिरफ्तारी' घोटालों में खोए धन के संबंध में भारतीय रिजर्व बैंक (RBI) को क्या आदेश दिया?"
       },
       "options": [
         {
-          "en": "Jio Platforms",
-          "hi": "जियो प्लेटफार्म"
+          "en": "To cover 100% of the lost amount",
+          "hi": "खोई हुई राशि का 100% कवर करने के लिए"
         },
         {
-          "en": "Reliance Retail",
-          "hi": "रिलायंस रिटेल"
+          "en": "To mandate damages for the lost savings",
+          "hi": "खोई हुई बचत के लिए हर्जाना अनिवार्य करना"
         },
         {
-          "en": "Jio Financial Services",
-          "hi": "जियो फाइनेंशियल सर्विसेज"
+          "en": "To freeze the accounts permanently",
+          "hi": "खातों को स्थायी रूप से फ्रीज करने के लिए"
         },
         {
-          "en": "Adani Green Energy",
-          "hi": "अदानी ग्रीन एनर्जी"
+          "en": "To issue a public apology",
+          "hi": "सार्वजनिक माफी जारी करने के लिए"
         }
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 1,
       "explanation": {
-        "en": "Jio Platforms listed on the NSE as the 3,138th company, surging by 21.36% to become India's 2nd most valuable company behind its parent Reliance Industries. This highlights the massive market capitalization command by the telecommunications and digital services conglomerate.",
-        "hi": "Jio प्लेटफ़ॉर्म NSE पर 3,138वीं कंपनी के रूप में सूचीबद्ध है, जो 21.36% की वृद्धि के साथ अपनी मूल कंपनी रिलायंस इंडस्ट्रीज के बाद भारत की दूसरी सबसे मूल्यवान कंपनी बन गई है।यह दूरसंचार और डिजिटल सेवा समूह द्वारा बड़े पैमाने पर बाजार पूंजीकरण कमांड को उजागर करता है।"
+        "en": "The Supreme Court has issued a directive to the Reserve Bank of India (RBI) to mandate damages for savings lost by individuals in 'digital arrest' scams, aiming to protect citizens from cyber fraud. This is a significant development in cyber laws and banking regulations in India.",
+        "hi": "सुप्रीम कोर्ट ने नागरिकों को साइबर धोखाधड़ी से बचाने के उद्देश्य से भारतीय रिजर्व बैंक (आरबीआई) को 'डिजिटल गिरफ्तारी' घोटालों में व्यक्तियों द्वारा खोई गई बचत के लिए क्षतिपूर्ति अनिवार्य करने का निर्देश जारी किया है।यह भारत में साइबर कानूनों और बैंकिंग नियमों में एक महत्वपूर्ण विकास है।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/mandate-damages-for-savings-lost-in-digital-arrest-sc-to-rbi/articleshow/135331961.cms"
+    },
+    {
+      "id": "ca_20261030_02",
+      "question": {
+        "en": "According to a recent study, which regions in India received the most private equity investment in the health sector?",
+        "hi": "एक हालिया अध्ययन के अनुसार, भारत के किन क्षेत्रों में स्वास्थ्य क्षेत्र में सबसे अधिक निजी इक्विटी निवेश प्राप्त हुआ?"
+      },
+      "options": [
+        {
+          "en": "North & East",
+          "hi": "ईशान कोण"
+        },
+        {
+          "en": "West & South",
+          "hi": "पश्चिम - दक्षिण"
+        },
+        {
+          "en": "Central & North",
+          "hi": "मध्य एवं उत्तर"
+        },
+        {
+          "en": "North-East",
+          "hi": "ईशान कोण"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "A recent study indicated that the majority of private equity investments in India's health sector were directed towards the Western and Southern regions. This highlights the geographical disparity in healthcare funding and infrastructure development.",
+        "hi": "एक हालिया अध्ययन से संकेत मिलता है कि भारत के स्वास्थ्य क्षेत्र में अधिकांश निजी इक्विटी निवेश पश्चिमी और दक्षिणी क्षेत्रों की ओर निर्देशित थे।यह स्वास्थ्य देखभाल वित्त पोषण और बुनियादी ढांचे के विकास में भौगोलिक असमानता को उजागर करता है।"
       },
       "category": "Economy & Banking",
-      "difficulty": "easy",
-      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/on-debut-jio-2nd-most-valuable-company-behind-only-parent-reliance-industries/articleshow/135283604.cms"
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/most-of-private-equity-in-health-went-to-west-south-study/articleshow/135332703.cms"
     },
     {
-      "id": "ca_20261029_02",
+      "id": "ca_20261030_03",
       "question": {
-        "en": "During a recent meeting, the Indian Defence Minister warned his US counterpart against sharing sensitive technology, specifically raising concerns over which equipment package provided to Pakistan?",
-        "hi": "हाल ही में एक बैठक के दौरान, भारतीय रक्षा मंत्री ने अपने अमेरिकी समकक्ष को संवेदनशील प्रौद्योगिकी साझा करने के खिलाफ चेतावनी दी, विशेष रूप से इस बात पर चिंता जताई कि पाकिस्तान को कौन सा उपकरण पैकेज प्रदान किया गया है?"
+        "en": "Which consumer protection authority recently penalized Justdial and Sunrise Foods for safety and misleading product claims?",
+        "hi": "हाल ही में किस उपभोक्ता संरक्षण प्राधिकरण ने सुरक्षा और भ्रामक उत्पाद दावों के लिए जस्टडायल और सनराइज फूड्स को दंडित किया है?"
       },
       "options": [
         {
-          "en": "F-16 fighter jets",
-          "hi": "F-16 लड़ाकू विमान"
+          "en": "Food Safety and Standards Authority of India (FSSAI)",
+          "hi": "भारतीय खाद्य सुरक्षा और मानक प्राधिकरण (FSSAI)"
         },
         {
-          "en": "Apache attack helicopters",
-          "hi": "अपाचे लड़ाकू हेलीकाप्टर"
+          "en": "Central Consumer Protection Authority (CCPA)",
+          "hi": "केंद्रीय उपभोक्ता संरक्षण प्राधिकरण (सीसीपीए)"
         },
         {
-          "en": "Patriot missile systems",
-          "hi": "पैट्रियट मिसाइल सिस्टम"
+          "en": "Competition Commission of India (CCI)",
+          "hi": "भारतीय प्रतिस्पर्धा आयोग (सीसीआई)"
         },
         {
-          "en": "MQ-9 Reaper drones",
-          "hi": "एमक्यू-9 रीपर ड्रोन"
+          "en": "Bureau of Indian Standards (BIS)",
+          "hi": "भारतीय मानक ब्यूरो (बीआईएस)"
         }
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 1,
       "explanation": {
-        "en": "India raised concerns over the 'F-16 package to Pakistan' during a meeting between Indian Defence Minister Rajnath Singh and US Secretary of War Pete Hegseth. India warned against double standards on terror and the possibility of sensitive US technology ending up in third countries.",
-        "hi": "भारतीय रक्षा मंत्री राजनाथ सिंह और अमेरिकी युद्ध सचिव पीट हेगसेथ के बीच एक बैठक के दौरान भारत ने 'पाकिस्तान को एफ-16 पैकेज' पर चिंता जताई।भारत ने आतंकवाद पर दोहरे मानकों और संवेदनशील अमेरिकी प्रौद्योगिकी के तीसरे देशों में समाप्त होने की संभावना के खिलाफ चेतावनी दी।"
+        "en": "The Central Consumer Protection Authority (CCPA) penalized Justdial and Sunrise Foods for issues related to safety and misleading product claims. The CCPA functions under the Ministry of Consumer Affairs, Food and Public Distribution to safeguard consumer rights.",
+        "hi": "केंद्रीय उपभोक्ता संरक्षण प्राधिकरण (सीसीपीए) ने सुरक्षा और भ्रामक उत्पाद दावों से संबंधित मुद्दों के लिए जस्टडायल और सनराइज फूड्स को दंडित किया।CCPA उपभोक्ता अधिकारों की सुरक्षा के लिए उपभोक्ता मामले, खाद्य और सार्वजनिक वितरण मंत्रालय के तहत कार्य करता है।"
       },
-      "category": "Defence & Security",
-      "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/defence/news/sensitive-us-tech-to-pak-could-end-up-in-third-country-rajnath-tells-hegseth-warns-against-double-standards-on-terror/articleshow/135279811.cms"
+      "category": "Polity & Governance",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/ccpa-penalises-justdial-sunrise-foods-for-safety-misleading-product-claims/articleshow/135332371.cms"
     },
     {
-      "id": "ca_20261029_03",
+      "id": "ca_20261030_04",
       "question": {
-        "en": "Which Asian country has recently sought to use Indian live-firing ranges for its missile and drone training to deepen defence cooperation?",
-        "hi": "हाल ही में किस एशियाई देश ने रक्षा सहयोग को गहरा करने के लिए अपने मिसाइल और ड्रोन प्रशिक्षण के लिए भारतीय लाइव-फायरिंग रेंज का उपयोग करने की मांग की है?"
+        "en": "In the ongoing Asian Champions Trophy, against which country did India win 5-2 with Harmanpreet and Sukhjeet scoring braces?",
+        "hi": "मौजूदा एशियाई चैंपियंस ट्रॉफी में, भारत ने किस देश के खिलाफ हरमनप्रीत और सुखजीत के दो गोलों की मदद से 5-2 से जीत हासिल की?"
       },
       "options": [
         {
-          "en": "Japan",
-          "hi": "जापान"
+          "en": "Pakistan",
+          "hi": "पाकिस्तान"
         },
         {
           "en": "South Korea",
           "hi": "दक्षिण कोरिया"
         },
         {
-          "en": "Vietnam",
-          "hi": "वियतनाम"
+          "en": "Japan",
+          "hi": "जापान"
         },
         {
-          "en": "Philippines",
-          "hi": "फिलिपींस"
+          "en": "China",
+          "hi": "चीन"
         }
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 3,
       "explanation": {
-        "en": "Japan has shown interest in utilizing Indian live-firing ranges for missile and drone training to deepen defence cooperation. This reflects growing bilateral military ties between India and Japan amidst shifting regional security dynamics.",
-        "hi": "जापान ने रक्षा सहयोग को गहरा करने के लिए मिसाइल और ड्रोन प्रशिक्षण के लिए भारतीय लाइव-फायरिंग रेंज का उपयोग करने में रुचि दिखाई है।यह बदलती क्षेत्रीय सुरक्षा गतिशीलता के बीच भारत और जापान के बीच बढ़ते द्विपक्षीय सैन्य संबंधों को दर्शाता है।"
+        "en": "India defeated China 5-2 at the Asian Champions Trophy with Harmanpreet Singh and Sukhjeet Singh scoring braces (two goals each). The Asian Champions Trophy is a premier field hockey tournament in Asia.",
+        "hi": "हरमनप्रीत सिंह और सुखजीत सिंह के ब्रेसिज़ (दो-दो गोल) की मदद से भारत ने एशियाई चैंपियंस ट्रॉफी में चीन को 5-2 से हरा दिया।एशियन चैंपियंस ट्रॉफी एशिया का एक प्रमुख फील्ड हॉकी टूर्नामेंट है।"
       },
-      "category": "Defence & Security",
-      "difficulty": "medium",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/defence/rssfeeds/46687796.cms"
+      "category": "Sports",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/harmanpreet-sukhjeet-score-braces-as-india-beat-china-5-2-at-asian-champions-trophy/articleshow/135323193.cms"
     },
     {
-      "id": "ca_20261029_04",
+      "id": "ca_20261030_05",
       "question": {
-        "en": "Which private sector bank in India is reportedly facing a ₹200 crore hit due to recent changes in insurance norms?",
-        "hi": "भारत में किस निजी क्षेत्र के बैंक को बीमा मानदंडों में हालिया बदलावों के कारण कथित तौर पर ₹200 करोड़ का नुकसान झेलना पड़ रहा है?"
+        "en": "The Supreme Court of India recently warned of a 'harsh stand' if its orders are not enforced regarding which environmental issue?",
+        "hi": "भारत के सर्वोच्च न्यायालय ने हाल ही में किस पर्यावरणीय मुद्दे के संबंध में अपने आदेशों को लागू नहीं करने पर 'कठोर रुख' अपनाने की चेतावनी दी?"
       },
       "options": [
         {
-          "en": "Bandhan Bank",
-          "hi": "Bandhan Bank"
+          "en": "Stubble burning",
+          "hi": "पराली जलाना"
         },
         {
-          "en": "HDFC Bank",
-          "hi": "एचडीएफसी बैंक"
+          "en": "River pollution",
+          "hi": "नदी प्रदूषण"
         },
         {
-          "en": "ICICI Bank",
-          "hi": "आईसीआईसीआई बैंक"
+          "en": "Use of firecrackers",
+          "hi": "पटाखों का प्रयोग"
         },
         {
-          "en": "Axis Bank",
-          "hi": "एक्सिस बैंक"
+          "en": "Illegal mining",
+          "hi": "अवैध खनन"
         }
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 2,
       "explanation": {
-        "en": "Bandhan Bank is facing a ₹200 crore hit due to recent changes in insurance norms. Regulatory changes in the insurance sector often impact the revenue streams of banks that distribute these products through bancassurance tie-ups.",
-        "hi": "बीमा मानदंडों में हालिया बदलाव के कारण बंधन बैंक को ₹200 करोड़ का झटका लग रहा है।बीमा क्षेत्र में विनियामक परिवर्तन अक्सर उन बैंकों के राजस्व प्रवाह को प्रभावित करते हैं जो इन उत्पादों को बैंकएश्योरेंस टाई-अप के माध्यम से वितरित करते हैं।"
-      },
-      "category": "Economy & Banking",
-      "difficulty": "medium",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/rssfeeds/13352306.cms"
-    },
-    {
-      "id": "ca_20261029_05",
-      "question": {
-        "en": "According to a recent estimate, how much investment does India need to achieve its target of 500 GW clean energy capacity by 2030?",
-        "hi": "एक हालिया अनुमान के अनुसार, भारत को 2030 तक 500 गीगावॉट स्वच्छ ऊर्जा क्षमता के अपने लक्ष्य को प्राप्त करने के लिए कितने निवेश की आवश्यकता है?"
-      },
-      "options": [
-        {
-          "en": "$220 billion",
-          "hi": "$220 बिलियन"
-        },
-        {
-          "en": "$150 billion",
-          "hi": "$150 बिलियन"
-        },
-        {
-          "en": "$300 billion",
-          "hi": "$300 बिलियन"
-        },
-        {
-          "en": "$100 billion",
-          "hi": "$100 बिलियन"
-        }
-      ],
-      "correctAnswer": 0,
-      "explanation": {
-        "en": "India needs approximately $220 billion in investments to achieve its ambitious target of 500 GW of clean energy capacity by 2030. This highlights the enormous scale of financing required for the nation's transition towards renewable energy sources.",
-        "hi": "भारत को 2030 तक 500 गीगावॉट स्वच्छ ऊर्जा क्षमता के अपने महत्वाकांक्षी लक्ष्य को प्राप्त करने के लिए लगभग 220 बिलियन डॉलर के निवेश की आवश्यकता है। यह नवीकरणीय ऊर्जा स्रोतों की ओर देश के संक्रमण के लिए आवश्यक वित्तपोषण के विशाल पैमाने पर प्रकाश डालता है।"
-      },
-      "category": "Economy & Banking",
-      "difficulty": "hard",
-      "sourceUrl": "https://economictimes.indiatimes.com/industry/rssfeeds/13352306.cms"
-    },
-    {
-      "id": "ca_20261029_06",
-      "question": {
-        "en": "A recent report highlighted an alarming increase in heat-related deaths globally. By what percentage have heat-related deaths increased since the Paris Agreement?",
-        "hi": "एक हालिया रिपोर्ट में वैश्विक स्तर पर गर्मी से संबंधित मौतों में चिंताजनक वृद्धि पर प्रकाश डाला गया है।पेरिस समझौते के बाद से गर्मी से संबंधित मौतों में कितने प्रतिशत की वृद्धि हुई है?"
-      },
-      "options": [
-        {
-          "en": "36%",
-          "hi": "36%"
-        },
-        {
-          "en": "20%",
-          "hi": "20%"
-        },
-        {
-          "en": "50%",
-          "hi": "50%"
-        },
-        {
-          "en": "15%",
-          "hi": "15%"
-        }
-      ],
-      "correctAnswer": 0,
-      "explanation": {
-        "en": "A recent report indicates that heat-related deaths have surged by 36% globally since the Paris Agreement was adopted. This underscores the escalating health impacts of climate change despite international commitments to limit global warming.",
-        "hi": "एक हालिया रिपोर्ट बताती है कि पेरिस समझौते को अपनाने के बाद से वैश्विक स्तर पर गर्मी से संबंधित मौतों में 36% की वृद्धि हुई है।यह ग्लोबल वार्मिंग को सीमित करने की अंतर्राष्ट्रीय प्रतिबद्धताओं के बावजूद जलवायु परिवर्तन के बढ़ते स्वास्थ्य प्रभावों को रेखांकित करता है।"
+        "en": "The Supreme Court warned authorities of taking a harsh stand if its orders regulating or banning the use of firecrackers are not enforced. This is typically invoked under Article 21 (Right to Life) which includes the right to a clean environment.",
+        "hi": "सुप्रीम कोर्ट ने अधिकारियों को चेतावनी दी कि यदि पटाखों के उपयोग को विनियमित करने या प्रतिबंधित करने वाले उसके आदेशों को लागू नहीं किया गया तो वह सख्त रुख अपनाएंगे।इसे आम तौर पर अनुच्छेद 21 (जीवन का अधिकार) के तहत लागू किया जाता है जिसमें स्वच्छ पर्यावरण का अधिकार शामिल है।"
       },
       "category": "Environment & Ecology",
-      "difficulty": "medium",
-      "sourceUrl": "https://economictimes.indiatimes.com/rssfeedstopstories.cms"
-    },
-    {
-      "id": "ca_20261029_07",
-      "question": {
-        "en": "Which major tech company's employees in India were recently offered a buyout option following significant global layoffs?",
-        "hi": "हाल ही में भारत में किस प्रमुख तकनीकी कंपनी के कर्मचारियों को महत्वपूर्ण वैश्विक छंटनी के बाद बायआउट विकल्प की पेशकश की गई थी?"
-      },
-      "options": [
-        {
-          "en": "Microsoft",
-          "hi": "माइक्रोसॉफ्ट"
-        },
-        {
-          "en": "Google",
-          "hi": "गूगल"
-        },
-        {
-          "en": "Meta",
-          "hi": "मेटा"
-        },
-        {
-          "en": "Amazon",
-          "hi": "वीरांगना"
-        }
-      ],
-      "correctAnswer": 0,
-      "explanation": {
-        "en": "Microsoft employees in India can now opt for a buyout, an offer made to 60,000 employees globally months after previous layoffs. This reflects ongoing cost-cutting measures and restructuring within the global tech industry.",
-        "hi": "भारत में माइक्रोसॉफ्ट के कर्मचारी अब बायआउट का विकल्प चुन सकते हैं, यह ऑफर पिछली छंटनी के महीनों बाद वैश्विक स्तर पर 60,000 कर्मचारियों के लिए दिया गया है।यह वैश्विक तकनीकी उद्योग के भीतर चल रहे लागत-कटौती उपायों और पुनर्गठन को दर्शाता है।"
-      },
-      "category": "Science & Technology",
       "difficulty": "easy",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-offers-buyouts-to-60000-employees-months-after-4800-layoffs-staff-have-till-december-to-decide-read-hr-head-amy-colemans-full-memo-to-employees/articleshow/135249491.cms"
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/dont-push-us-sc-warns-of-harsh-stand-on-firecrackers-if-orders-go-unenforced/articleshow/135321333.cms"
     },
     {
-      "id": "ca_20261029_08",
+      "id": "ca_20261030_06",
       "question": {
-        "en": "The Bihar Cabinet recently approved an MOU for a 'Flood Plain Zone Delineation Study' with which prominent institution?",
-        "hi": "बिहार कैबिनेट ने हाल ही में किस प्रमुख संस्थान के साथ 'बाढ़ मैदान क्षेत्र परिसीमन अध्ययन' के लिए एक समझौता ज्ञापन को मंजूरी दी?"
+        "en": "Who did Union Defence Minister Rajnath Singh recently state India is ready to share its 'battle-tested expertise' with?",
+        "hi": "केंद्रीय रक्षा मंत्री राजनाथ सिंह ने हाल ही में किसके साथ कहा कि भारत अपनी 'युद्ध-परीक्षित विशेषज्ञता' साझा करने के लिए तैयार है?"
       },
       "options": [
         {
-          "en": "National Institute of Hydrology, Roorkee",
-          "hi": "राष्ट्रीय जलविज्ञान संस्थान, रूड़की"
+          "en": "NATO allies",
+          "hi": "नाटो सहयोगी"
         },
         {
-          "en": "IIT Patna",
-          "hi": "आईआईटी पटना"
+          "en": "ASEAN partners",
+          "hi": "आसियान भागीदार"
         },
         {
-          "en": "Central Water Commission",
-          "hi": "केंद्रीय जल आयोग"
+          "en": "BRICS nations",
+          "hi": "ब्रिक्स राष्ट्र"
         },
         {
-          "en": "Indian Institute of Science, Bangalore",
-          "hi": "भारतीय विज्ञान संस्थान, बैंगलोर"
+          "en": "BIMSTEC members",
+          "hi": "बिम्सटेक सदस्य"
         }
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 1,
       "explanation": {
-        "en": "The Bihar Cabinet approved an MoU between the Water Resources Department (WRD) and the National Institute of Hydrology (NIH), Roorkee, for a 'Flood Plain Zone Delineation Study'. This study is crucial for managing recurrent floods in the state.",
-        "hi": "बिहार कैबिनेट ने 'बाढ़ मैदान क्षेत्र परिसीमन अध्ययन' के लिए जल संसाधन विभाग (डब्ल्यूआरडी) और राष्ट्रीय जल विज्ञान संस्थान (एनआईएच), रूड़की के बीच एक समझौता ज्ञापन को मंजूरी दे दी।यह अध्ययन राज्य में बार-बार आने वाली बाढ़ के प्रबंधन के लिए महत्वपूर्ण है।"
-      },
-      "category": "Polity & Governance",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.thehindu.com/news/national/bihar/bihar-cabinet-approves-mou-between-wrd-nih-roorkee-for-flood-plain-zone-delineation-study/article71637295.ece"
-    },
-    {
-      "id": "ca_20261029_09",
-      "question": {
-        "en": "L&T and BAE Systems have started the production of 'BVS 10 Sindhu' All-Terrain Vehicles (ATVs) specifically designed for the Indian Army's operations in which region?",
-        "hi": "एलएंडटी और बीएई सिस्टम्स ने विशेष रूप से किस क्षेत्र में भारतीय सेना के संचालन के लिए डिज़ाइन किए गए 'बीवीएस 10 सिंधु' ऑल-टेरेन वाहन (एटीवी) का उत्पादन शुरू कर दिया है?"
-      },
-      "options": [
-        {
-          "en": "High-altitude areas",
-          "hi": "ऊंचाई वाले क्षेत्र"
-        },
-        {
-          "en": "Desert terrains",
-          "hi": "रेगिस्तानी इलाके"
-        },
-        {
-          "en": "Coastal zones",
-          "hi": "तटीय क्षेत्र"
-        },
-        {
-          "en": "Jungle warfare zones",
-          "hi": "जंगल युद्ध क्षेत्र"
-        }
-      ],
-      "correctAnswer": 0,
-      "explanation": {
-        "en": "L&T and BAE Systems have commenced production of the BVS 10 Sindhu ATVs for the Indian Army, intended for high-altitude operations. These specialized vehicles enhance mobility and logistical support in challenging mountainous environments like Ladakh.",
-        "hi": "एलएंडटी और बीएई सिस्टम्स ने भारतीय सेना के लिए उच्च ऊंचाई वाले ऑपरेशनों के लिए बीवीएस 10 सिंधु एटीवी का उत्पादन शुरू कर दिया है।ये विशेष वाहन लद्दाख जैसे चुनौतीपूर्ण पहाड़ी वातावरण में गतिशीलता और लॉजिस्टिक समर्थन को बढ़ाते हैं।"
+        "en": "Defence Minister Rajnath Singh stated that India is ready to share its battle-tested expertise with ASEAN partners to boost joint capabilities. ASEAN (Association of Southeast Asian Nations) is a key pillar of India's Act East Policy.",
+        "hi": "रक्षा मंत्री राजनाथ सिंह ने कहा कि भारत संयुक्त क्षमताओं को बढ़ावा देने के लिए आसियान भागीदारों के साथ अपनी युद्ध-परीक्षित विशेषज्ञता साझा करने के लिए तैयार है।आसियान (दक्षिणपूर्व एशियाई देशों का संघ) भारत की एक्ट ईस्ट नीति का एक प्रमुख स्तंभ है।"
       },
       "category": "Defence & Security",
-      "difficulty": "hard",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/defence/rssfeeds/46687796.cms"
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/defence/news/india-ready-to-share-its-battle-tested-expertise-with-asean-partners-to-boost-joint-capabilities-rajnath/articleshow/135328194.cms"
     },
     {
-      "id": "ca_20261029_10",
+      "id": "ca_20261030_07",
       "question": {
-        "en": "The Defence Minister of India, Rajnath Singh, recently met with his US counterpart on the sidelines of which major regional defence ministers' meeting held in the Philippines?",
-        "hi": "भारत के रक्षा मंत्री राजनाथ सिंह ने हाल ही में फिलीपींस में आयोजित किस प्रमुख क्षेत्रीय रक्षा मंत्रियों की बैठक के मौके पर अपने अमेरिकी समकक्ष से मुलाकात की?"
+        "en": "Which High Court recently struck down the water tax imposed on hydropower projects?",
+        "hi": "हाल ही में किस उच्च न्यायालय ने जलविद्युत परियोजनाओं पर लगाए गए जल कर को रद्द कर दिया?"
       },
       "options": [
         {
-          "en": "ASEAN Defence Ministers' Meeting (ADMM-Plus)",
-          "hi": "आसियान रक्षा मंत्रियों की बैठक (एडीएमएम-प्लस)"
+          "en": "Himachal Pradesh High Court",
+          "hi": "हिमाचल प्रदेश उच्च न्यायालय"
         },
         {
-          "en": "Shangri-La Dialogue",
-          "hi": "शांगरी-ला संवाद"
+          "en": "Uttarakhand High Court",
+          "hi": "उत्तराखंड उच्च न्यायालय"
         },
         {
-          "en": "Quad Security Dialogue",
-          "hi": "क्वाड सुरक्षा संवाद"
+          "en": "Jammu & Kashmir High Court",
+          "hi": "जम्मू एवं कश्मीर उच्च न्यायालय"
         },
         {
-          "en": "Shanghai Cooperation Organisation (SCO) Defence Ministers' Meeting",
-          "hi": "शंघाई सहयोग संगठन (एससीओ) के रक्षा मंत्रियों की बैठक"
+          "en": "Guwahati High Court",
+          "hi": "गुवाहाटी उच्च न्यायालय"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The Jammu & Kashmir High Court struck down the water usage tax that was imposed on hydropower projects. It declared the imposition of water usage charges under the 2010 Act in the UT as 'ultra vires'.",
+        "hi": "जम्मू और कश्मीर उच्च न्यायालय ने जलविद्युत परियोजनाओं पर लगाए गए जल उपयोग कर को रद्द कर दिया।इसने यूटी में 2010 अधिनियम के तहत जल उपयोग शुल्क लगाने को 'अल्ट्रा वायर्स' घोषित किया।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "hard",
+      "sourceUrl": "https://www.thehindu.com/news/national/jammu-and-kashmir/jk-high-court-declares-imposition-of-water-usage-charges-under-2010-act-in-ut-as-ultra-vires/article71641708.ece"
+    },
+    {
+      "id": "ca_20261030_08",
+      "question": {
+        "en": "The US intelligence recently confirmed satellite images showing a secret spaceplane in orbit belonging to which country?",
+        "hi": "अमेरिकी खुफिया विभाग ने हाल ही में उपग्रह चित्रों की पुष्टि की है जिसमें किस देश की कक्षा में एक गुप्त अंतरिक्ष यान दिखाया गया है?"
+      },
+      "options": [
+        {
+          "en": "Russia",
+          "hi": "रूस"
+        },
+        {
+          "en": "China",
+          "hi": "चीन"
+        },
+        {
+          "en": "India",
+          "hi": "भारत"
+        },
+        {
+          "en": "North Korea",
+          "hi": "उत्तर कोरिया"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "US intelligence confirmed that images show China's secret spaceplane in orbit, with a design resembling the US X-37B. This highlights the growing militarization and technological competition in space between global powers.",
+        "hi": "अमेरिकी खुफिया ने पुष्टि की है कि तस्वीरें चीन के गुप्त अंतरिक्ष यान को कक्षा में दिखाती हैं, जिसका डिज़ाइन यूएस एक्स-37बी जैसा दिखता है।यह वैश्विक शक्तियों के बीच अंतरिक्ष में बढ़ते सैन्यीकरण और तकनीकी प्रतिस्पर्धा को उजागर करता है।"
+      },
+      "category": "Science & Technology",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/defence/international/us-intelligence-confirms-image-shows-chinas-secret-spaceplane-in-orbit-design-resembles-x-37b/articleshow/135322625.cms"
+    },
+    {
+      "id": "ca_20261030_09",
+      "question": {
+        "en": "The Enforcement Directorate (ED) recently searched premises linked to Mudrex and Instadapp over alleged FEMA violations worth ₹4,600 crore. What does FEMA stand for?",
+        "hi": "प्रवर्तन निदेशालय (ईडी) ने हाल ही में ₹4,600 करोड़ के कथित फेमा उल्लंघन को लेकर मुड्रेक्स और इंस्टाडैप से जुड़े परिसरों की तलाशी ली।फेमा का क्या मतलब है?"
+      },
+      "options": [
+        {
+          "en": "Foreign Exchange Management Act",
+          "hi": "विदेशी मुद्रा प्रबंधन अधिनियम"
+        },
+        {
+          "en": "Financial Emergency Management Act",
+          "hi": "वित्तीय आपातकालीन प्रबंधन अधिनियम"
+        },
+        {
+          "en": "Federal Equity Management Authority",
+          "hi": "संघीय इक्विटी प्रबंधन प्राधिकरण"
+        },
+        {
+          "en": "Fund Exchange Monitoring Act",
+          "hi": "फंड एक्सचेंज मॉनिटरिंग एक्ट"
         }
       ],
       "correctAnswer": 0,
       "explanation": {
-        "en": "Defence Minister Rajnath Singh met with US Secretary of War Pete Hegseth on the sidelines of the ASEAN Defence Ministers' Meeting (ADMM-Plus) in the Philippines. They reviewed the progress of the 10-year bilateral defence pact between the two nations.",
-        "hi": "रक्षा मंत्री राजनाथ सिंह ने फिलीपींस में आसियान रक्षा मंत्रियों की बैठक (एडीएमएम-प्लस) के मौके पर अमेरिकी युद्ध सचिव पीट हेगसेथ से मुलाकात की।उन्होंने दोनों देशों के बीच 10 साल के द्विपक्षीय रक्षा समझौते की प्रगति की समीक्षा की।"
+        "en": "FEMA stands for Foreign Exchange Management Act. The ED searches linked to Mudrex and Instadapp were over alleged ₹4,600-crore FEMA violations. FEMA was enacted in 1999 to consolidate and amend the law relating to foreign exchange.",
+        "hi": "फेमा का मतलब विदेशी मुद्रा प्रबंधन अधिनियम है।मड्रेक्स और इंस्टाडैप से जुड़ी ईडी की तलाशी कथित तौर पर ₹4,600 करोड़ के फेमा उल्लंघन से संबंधित थी।विदेशी मुद्रा से संबंधित कानून को समेकित और संशोधित करने के लिए 1999 में फेमा अधिनियमित किया गया था।"
       },
-      "category": "International Summits",
-      "difficulty": "easy",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/defence/rssfeeds/46687796.cms"
+      "category": "Economy & Banking",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/ed-searches-mudrex-instadapp-linked-premises-in-bengaluru-and-madhya-pradesh-over-alleged-4600-crore-fema-violations/article71640629.ece"
+    },
+    {
+      "id": "ca_20261030_10",
+      "question": {
+        "en": "Which state's forest department is highlighting the 'gun culture' in the Chambal region during the probe into a cheetah shooting incident?",
+        "hi": "किस राज्य का वन विभाग चीता गोलीकांड की जांच के दौरान चंबल क्षेत्र में 'बंदूक संस्कृति' को उजागर कर रहा है?"
+      },
+      "options": [
+        {
+          "en": "Rajasthan",
+          "hi": "राजस्थान"
+        },
+        {
+          "en": "Uttar Pradesh",
+          "hi": "उतार प्रदेश।"
+        },
+        {
+          "en": "Madhya Pradesh",
+          "hi": "मध्य प्रदेश"
+        },
+        {
+          "en": "Gujarat",
+          "hi": "गुजरात"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Madhya Pradesh wildlife officials are highlighting the Chambal region's gun culture as the probe into a cheetah shooting goes on. Kuno National Park, located in Madhya Pradesh, is central to India's cheetah reintroduction project.",
+        "hi": "मध्य प्रदेश के वन्यजीव अधिकारी चंबल क्षेत्र की बंदूक संस्कृति को उजागर कर रहे हैं क्योंकि चीता की शूटिंग की जांच चल रही है।मध्य प्रदेश में स्थित कुनो राष्ट्रीय उद्यान, भारत की चीता पुनरुत्पादन परियोजना का केंद्र है।"
+      },
+      "category": "Environment & Ecology",
+      "difficulty": "hard",
+      "sourceUrl": "https://www.thehindu.com/news/national/madhya-pradesh/mp-wildlife-officials-highlight-chambal-regions-gun-culture-as-probe-into-cheetah-shooting-goes-on/article71641808.ece"
     }
   ]
 }
