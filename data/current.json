@@ -1,13 +1,13 @@
 {
-  "date": "2026-10-31",
+  "date": "2026-11-01",
   "topic": "SSC CGL Daily Current Affairs",
   "source": "The Hindu",
-  "lastUpdated": "2026-10-31T06:00:00+05:30",
+  "lastUpdated": "2026-11-01T06:30:00+05:30",
   "version": 1,
   "totalQuestions": 10,
   "quiz": [
     {
-      "id": "ca_20261031_01",
+      "id": "ca_20261101_01",
       "question": {
         "en": "Which navigation satellite was recently launched into orbit by ISRO's GSLV rocket to restore the NavIC constellation?",
         "hi": "इसरो के जीएसएलवी रॉकेट द्वारा NavIC तारामंडल को बहाल करने के लिए हाल ही में किस नेविगेशन उपग्रह को कक्षा में लॉन्च किया गया है?"
@@ -40,7 +40,7 @@
       "sourceUrl": "https://www.thehindu.com/sci-tech/science/nvs-03-satellite-launch-successful-isro/article71646807.ece"
     },
     {
-      "id": "ca_20261031_02",
+      "id": "ca_20261101_02",
       "question": {
         "en": "In a recent ruling, what did the Supreme Court state regarding consensual relationships that turn sour?",
         "hi": "हाल ही के एक फैसले में, सर्वोच्च न्यायालय ने उन सहमति से बने संबंधों के बारे में क्या कहा जो बाद में खराब हो जाते हैं?"
@@ -73,7 +73,7 @@
       "sourceUrl": "https://www.thehindu.com/news/national/physical-intimacy-cant-be-branded-as-rape-if-consensual-relationship-turns-sour-supreme-court/article71645439.ece"
     },
     {
-      "id": "ca_20261031_03",
+      "id": "ca_20261101_03",
       "question": {
         "en": "The Government of India is modifying which survey to better capture the gig economy and unpaid household workers?",
         "hi": "भारत सरकार गिग इकॉनमी और अवैतनिक घरेलू कामगारों को बेहतर ढंग से शामिल करने के लिए किस सर्वेक्षण में संशोधन कर रही है?"
@@ -106,7 +106,7 @@
       "sourceUrl": "https://www.thehindu.com/business/Economy/government-to-modify-labour-survey-to-capture-gig-economy-unpaid-household-workers/article71617185.ece"
     },
     {
-      "id": "ca_20261031_04",
+      "id": "ca_20261101_04",
       "question": {
         "en": "Who among the following were awarded the 2026 Economics Nobel Prize?",
         "hi": "निम्नलिखित में से किसे 2026 का अर्थशास्त्र का नोबेल पुरस्कार प्रदान किया गया?"
@@ -139,7 +139,7 @@
       "sourceUrl": "https://www.thehindu.com/business/Economy/2026-economics-nobel-prize-putting-the-humanity-in-macroeconomics/article71586737.ece"
     },
     {
-      "id": "ca_20261031_05",
+      "id": "ca_20261101_05",
       "question": {
         "en": "The Free Trade Agreement (FTA) between India and which country came into force on October 20, 2026?",
         "hi": "भारत और किस देश के बीच मुक्त व्यापार समझौता (FTA) 20 अक्टूबर 2026 को लागू हुआ?"
@@ -172,7 +172,7 @@
       "sourceUrl": "https://www.thehindu.com/business/Economy/what-are-the-deal-contours-of-india-new-zealand-fta/article71606245.ece"
     },
     {
-      "id": "ca_20261031_06",
+      "id": "ca_20261101_06",
       "question": {
         "en": "Who became the first men's player to claim 200 T20 International wickets?",
         "hi": "200 टी20 अंतर्राष्ट्रीय विकेट लेने वाले पहले पुरुष खिलाड़ी कौन बने?"
@@ -205,7 +205,7 @@
       "sourceUrl": "https://www.thehindu.com/sport/cricket/afghanistans-rashid-khan-becomes-first-mens-player-to-claim-200-t20i-wickets/article71643780.ece"
     },
     {
-      "id": "ca_20261031_07",
+      "id": "ca_20261101_07",
       "question": {
         "en": "What was the reported Net Foreign Direct Investment (FDI) in India for September 2026, marking the third consecutive positive month?",
         "hi": "सितंबर 2026 के लिए भारत में रिपोर्ट किया गया शुद्ध प्रत्यक्ष विदेशी निवेश (FDI) क्या था, जो लगातार तीसरे सकारात्मक महीने को दर्शाता है?"
@@ -238,7 +238,7 @@
       "sourceUrl": "https://www.thehindu.com/business/Economy/net-fdi-at-33-billion-in-september-2026-positive-for-third-consecutive-month/article71617131.ece"
     },
     {
-      "id": "ca_20261031_08",
+      "id": "ca_20261101_08",
       "question": {
         "en": "The Supreme Court recently asked the Centre to take measures against the online misuse of which specific court resource?",
         "hi": "सुप्रीम कोर्ट ने हाल ही में केंद्र से किस विशिष्ट न्यायालय संसाधन के ऑनलाइन दुरुपयोग के खिलाफ उपाय करने को कहा है?"
@@ -271,7 +271,7 @@
       "sourceUrl": "https://www.thehindu.com/news/national/supreme-court-asks-centre-to-take-measures-against-online-misuse-of-court-feeds/article71646311.ece"
     },
     {
-      "id": "ca_20261031_09",
+      "id": "ca_20261101_09",
       "question": {
         "en": "Reforms introduced by which regulatory body regarding SME IPOs are offering new financing choices as interest rates rise?",
         "hi": "एसएमई आईपीओ के संबंध में किस नियामक संस्था द्वारा पेश किए गए सुधार ब्याज दरें बढ़ने पर नए वित्तपोषण विकल्प प्रदान कर रहे हैं?"
@@ -304,7 +304,7 @@
       "sourceUrl": "https://www.thehindu.com/business/Economy/sebis-sme-ipo-reforms-offer-a-financing-choice-as-rates-rise/article71606331.ece"
     },
     {
-      "id": "ca_20261031_10",
+      "id": "ca_20261101_10",
       "question": {
         "en": "The development of India's regional satellite navigation system, NavIC, was initiated following restricted access to GPS data during which conflict?",
         "hi": "भारत की क्षेत्रीय उपग्रह नेविगेशन प्रणाली, NavIC का विकास किस संघर्ष के दौरान जीपीएस डेटा तक सीमित पहुंच के बाद शुरू किया गया था?"

@@ -1,0 +1,340 @@
+{
+  "date": "2026-11-01",
+  "topic": "SSC CGL Daily Current Affairs",
+  "source": "The Hindu",
+  "lastUpdated": "2026-11-01T06:30:00+05:30",
+  "version": 1,
+  "totalQuestions": 10,
+  "quiz": [
+    {
+      "id": "ca_20261101_01",
+      "question": {
+        "en": "Which navigation satellite was recently launched into orbit by ISRO's GSLV rocket to restore the NavIC constellation?",
+        "hi": "इसरो के जीएसएलवी रॉकेट द्वारा NavIC तारामंडल को बहाल करने के लिए हाल ही में किस नेविगेशन उपग्रह को कक्षा में लॉन्च किया गया है?"
+      },
+      "options": [
+        {
+          "en": "NVS-01",
+          "hi": "एनवीएस-01"
+        },
+        {
+          "en": "NVS-02",
+          "hi": "एनवीएस-02"
+        },
+        {
+          "en": "NVS-03",
+          "hi": "एनवीएस-03"
+        },
+        {
+          "en": "IRNSS-1A",
+          "hi": "आईआरएनएसएस-1ए"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "ISRO's GSLV-F18 placed the next-generation navigation satellite NVS-03 into orbit. With a mission life of 12 years, it aims to restore and boost the functioning of India's regional satellite navigation system, NavIC. It also carries an indigenous atomic clock.",
+        "hi": "इसरो के GSLV-F18 ने अगली पीढ़ी के नेविगेशन उपग्रह NVS-03 को कक्षा में स्थापित किया। 12 वर्षों के मिशन जीवन के साथ, इसका उद्देश्य भारत की क्षेत्रीय उपग्रह नेविगेशन प्रणाली, NavIC के कामकाज को बहाल करना और बढ़ावा देना है। इसमें एक स्वदेशी परमाणु घड़ी भी है।"
+      },
+      "category": "Science & Technology",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/sci-tech/science/nvs-03-satellite-launch-successful-isro/article71646807.ece"
+    },
+    {
+      "id": "ca_20261101_02",
+      "question": {
+        "en": "In a recent ruling, what did the Supreme Court state regarding consensual relationships that turn sour?",
+        "hi": "हाल ही के एक फैसले में, सर्वोच्च न्यायालय ने उन सहमति से बने संबंधों के बारे में क्या कहा जो बाद में खराब हो जाते हैं?"
+      },
+      "options": [
+        {
+          "en": "They can always be considered as rape.",
+          "hi": "उन्हें हमेशा बलात्कार माना जा सकता है।"
+        },
+        {
+          "en": "They cannot be branded as rape unless consent was obtained through deception.",
+          "hi": "उन्हें बलात्कार नहीं कहा जा सकता जब तक कि सहमति धोखे से प्राप्त न की गई हो।"
+        },
+        {
+          "en": "They are strictly a civil matter with no criminal implications.",
+          "hi": "ये पूरी तरह से नागरिक मामले हैं जिनका कोई आपराधिक प्रभाव नहीं है।"
+        },
+        {
+          "en": "They require mandatory mediation before filing any charges.",
+          "hi": "कोई भी आरोप दायर करने से पहले उन्हें अनिवार्य मध्यस्थता की आवश्यकता होती है।"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The Supreme Court ruled that physical intimacy cannot be branded as rape merely because a consensual relationship later turns sour. The Court distinguished between consent obtained through deception and regret over consensual intimacy after a relationship ends.",
+        "hi": "सर्वोच्च न्यायालय ने फैसला सुनाया कि शारीरिक अंतरंगता को केवल इसलिए बलात्कार नहीं कहा जा सकता क्योंकि सहमति से बना रिश्ता बाद में खराब हो जाता है। न्यायालय ने धोखे से प्राप्त सहमति और रिश्ता खत्म होने के बाद सहमति से बनी अंतरंगता पर पछतावे के बीच अंतर स्पष्ट किया।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "hard",
+      "sourceUrl": "https://www.thehindu.com/news/national/physical-intimacy-cant-be-branded-as-rape-if-consensual-relationship-turns-sour-supreme-court/article71645439.ece"
+    },
+    {
+      "id": "ca_20261101_03",
+      "question": {
+        "en": "The Government of India is modifying which survey to better capture the gig economy and unpaid household workers?",
+        "hi": "भारत सरकार गिग इकॉनमी और अवैतनिक घरेलू कामगारों को बेहतर ढंग से शामिल करने के लिए किस सर्वेक्षण में संशोधन कर रही है?"
+      },
+      "options": [
+        {
+          "en": "Census of India",
+          "hi": "भारत की जनगणना"
+        },
+        {
+          "en": "Economic Census",
+          "hi": "आर्थिक जनगणना"
+        },
+        {
+          "en": "Periodic Labour Force Survey (PLFS)",
+          "hi": "आवधिक श्रम बल सर्वेक्षण (PLFS)"
+        },
+        {
+          "en": "National Family Health Survey (NFHS)",
+          "hi": "राष्ट्रीय परिवार स्वास्थ्य सर्वेक्षण (NFHS)"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The government plans to modify the Periodic Labour Force Survey (PLFS) to include additional questions. This is aimed at measuring labour underutilisation, including the growing gig economy and unpaid household work.",
+        "hi": "सरकार अतिरिक्त प्रश्नों को शामिल करने के लिए आवधिक श्रम बल सर्वेक्षण (पीएलएफएस) को संशोधित करने की योजना बना रही है। इसका उद्देश्य बढ़ती गिग इकॉनमी और अवैतनिक घरेलू काम सहित श्रम के कम उपयोग को मापना है।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/business/Economy/government-to-modify-labour-survey-to-capture-gig-economy-unpaid-household-workers/article71617185.ece"
+    },
+    {
+      "id": "ca_20261101_04",
+      "question": {
+        "en": "Who among the following were awarded the 2026 Economics Nobel Prize?",
+        "hi": "निम्नलिखित में से किसे 2026 का अर्थशास्त्र का नोबेल पुरस्कार प्रदान किया गया?"
+      },
+      "options": [
+        {
+          "en": "Abhijit Banerjee and Esther Duflo",
+          "hi": "अभिजीत बनर्जी और एस्थर डुफ्लो"
+        },
+        {
+          "en": "Robert E. Hall and Michael Woodford",
+          "hi": "रॉबर्ट ई. हॉल और माइकल वुडफोर्ड"
+        },
+        {
+          "en": "Paul Krugman and Richard Thaler",
+          "hi": "पॉल क्रुगमैन और रिचर्ड थेलर"
+        },
+        {
+          "en": "Claudia Goldin and David Card",
+          "hi": "क्लाउडिया गोल्डिन और डेविड कार्ड"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Robert E. Hall and Michael Woodford won the 2026 Economics Nobel Prize. They provided theoretical and empirical underpinnings showing that the economy is essentially driven by the people and their individual choices, which influences government policies.",
+        "hi": "रॉबर्ट ई. हॉल और माइकल वुडफोर्ड ने 2026 का अर्थशास्त्र नोबेल पुरस्कार जीता। उन्होंने सैद्धांतिक और अनुभवजन्य आधार प्रदान किए, जिसमें दिखाया गया कि अर्थव्यवस्था मुख्य रूप से लोगों और उनके व्यक्तिगत विकल्पों से संचालित होती है, जो सरकारी नीतियों को प्रभावित करती है।"
+      },
+      "category": "Awards & Honours",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/business/Economy/2026-economics-nobel-prize-putting-the-humanity-in-macroeconomics/article71586737.ece"
+    },
+    {
+      "id": "ca_20261101_05",
+      "question": {
+        "en": "The Free Trade Agreement (FTA) between India and which country came into force on October 20, 2026?",
+        "hi": "भारत और किस देश के बीच मुक्त व्यापार समझौता (FTA) 20 अक्टूबर 2026 को लागू हुआ?"
+      },
+      "options": [
+        {
+          "en": "Australia",
+          "hi": "ऑस्ट्रेलिया"
+        },
+        {
+          "en": "United Kingdom",
+          "hi": "यूनाइटेड किंगडम"
+        },
+        {
+          "en": "New Zealand",
+          "hi": "न्यूजीलैंड"
+        },
+        {
+          "en": "Canada",
+          "hi": "कनाडा"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The India-New Zealand Free Trade Agreement (FTA) officially came into force on October 20, 2026. This agreement aims to significantly boost bilateral trade and economic cooperation between the two nations.",
+        "hi": "भारत-न्यूजीलैंड मुक्त व्यापार समझौता (एफटीए) आधिकारिक तौर पर 20 अक्टूबर 2026 को लागू हो गया। इस समझौते का उद्देश्य दोनों देशों के बीच द्विपक्षीय व्यापार और आर्थिक सहयोग को महत्वपूर्ण रूप से बढ़ावा देना है।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.thehindu.com/business/Economy/what-are-the-deal-contours-of-india-new-zealand-fta/article71606245.ece"
+    },
+    {
+      "id": "ca_20261101_06",
+      "question": {
+        "en": "Who became the first men's player to claim 200 T20 International wickets?",
+        "hi": "200 टी20 अंतर्राष्ट्रीय विकेट लेने वाले पहले पुरुष खिलाड़ी कौन बने?"
+      },
+      "options": [
+        {
+          "en": "Tim Southee",
+          "hi": "टिम साउदी"
+        },
+        {
+          "en": "Shakib Al Hasan",
+          "hi": "शाकिब अल हसन"
+        },
+        {
+          "en": "Rashid Khan",
+          "hi": "राशिद खान"
+        },
+        {
+          "en": "Lasith Malinga",
+          "hi": "लसिथ मलिंगा"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Afghanistan's spinner Rashid Khan became the first men's player to claim 200 wickets in T20 Internationals. He achieved this milestone in his 120th match, boasting an exceptional economy rate of 6.13.",
+        "hi": "अफगानिस्तान के स्पिनर राशिद खान टी20 इंटरनेशनल में 200 विकेट लेने वाले पहले पुरुष खिलाड़ी बन गए हैं। उन्होंने यह मुकाम अपने 120वें मैच में हासिल किया, जिसमें उनका इकॉनमी रेट 6.13 का शानदार रहा।"
+      },
+      "category": "Sports",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.thehindu.com/sport/cricket/afghanistans-rashid-khan-becomes-first-mens-player-to-claim-200-t20i-wickets/article71643780.ece"
+    },
+    {
+      "id": "ca_20261101_07",
+      "question": {
+        "en": "What was the reported Net Foreign Direct Investment (FDI) in India for September 2026, marking the third consecutive positive month?",
+        "hi": "सितंबर 2026 के लिए भारत में रिपोर्ट किया गया शुद्ध प्रत्यक्ष विदेशी निवेश (FDI) क्या था, जो लगातार तीसरे सकारात्मक महीने को दर्शाता है?"
+      },
+      "options": [
+        {
+          "en": "$1.5 billion",
+          "hi": "$1.5 बिलियन"
+        },
+        {
+          "en": "$2.1 billion",
+          "hi": "$2.1 बिलियन"
+        },
+        {
+          "en": "$3.3 billion",
+          "hi": "$3.3 बिलियन"
+        },
+        {
+          "en": "$4.8 billion",
+          "hi": "$4.8 बिलियन"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "India's Net Foreign Direct Investment (FDI) stood at $3.3 billion in September 2026. This marked the third consecutive month of positive net FDI inflows, reflecting continued foreign investor confidence.",
+        "hi": "सितंबर 2026 में भारत का शुद्ध प्रत्यक्ष विदेशी निवेश (FDI) 3.3 बिलियन डॉलर रहा। यह सकारात्मक शुद्ध FDI प्रवाह का लगातार तीसरा महीना था, जो विदेशी निवेशकों के निरंतर विश्वास को दर्शाता है।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "hard",
+      "sourceUrl": "https://www.thehindu.com/business/Economy/net-fdi-at-33-billion-in-september-2026-positive-for-third-consecutive-month/article71617131.ece"
+    },
+    {
+      "id": "ca_20261101_08",
+      "question": {
+        "en": "The Supreme Court recently asked the Centre to take measures against the online misuse of which specific court resource?",
+        "hi": "सुप्रीम कोर्ट ने हाल ही में केंद्र से किस विशिष्ट न्यायालय संसाधन के ऑनलाइन दुरुपयोग के खिलाफ उपाय करने को कहा है?"
+      },
+      "options": [
+        {
+          "en": "E-filing portals",
+          "hi": "ई-फाइलिंग पोर्टल"
+        },
+        {
+          "en": "Live court feeds (live streaming)",
+          "hi": "लाइव कोर्ट फीड (लाइव स्ट्रीमिंग)"
+        },
+        {
+          "en": "Digitized case records",
+          "hi": "डिजिटलीकृत केस रिकॉर्ड"
+        },
+        {
+          "en": "Judges' personal data",
+          "hi": "न्यायाधीशों का व्यक्तिगत डेटा"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The Supreme Court has asked the Centre to address the online misuse of live court feeds. Suggestions from High Courts have been forwarded to the Ministry of Electronics and Information Technology to frame suitable measures.",
+        "hi": "सुप्रीम कोर्ट ने केंद्र से लाइव कोर्ट फीड के ऑनलाइन दुरुपयोग को रोकने के लिए कहा है। उच्च न्यायालयों के सुझावों को उपयुक्त उपाय तैयार करने के लिए इलेक्ट्रॉनिक्स और सूचना प्रौद्योगिकी मंत्रालय को भेज दिया गया है।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/news/national/supreme-court-asks-centre-to-take-measures-against-online-misuse-of-court-feeds/article71646311.ece"
+    },
+    {
+      "id": "ca_20261101_09",
+      "question": {
+        "en": "Reforms introduced by which regulatory body regarding SME IPOs are offering new financing choices as interest rates rise?",
+        "hi": "एसएमई आईपीओ के संबंध में किस नियामक संस्था द्वारा पेश किए गए सुधार ब्याज दरें बढ़ने पर नए वित्तपोषण विकल्प प्रदान कर रहे हैं?"
+      },
+      "options": [
+        {
+          "en": "RBI",
+          "hi": "आरबीआई"
+        },
+        {
+          "en": "IRDAI",
+          "hi": "आईआरडीएआई"
+        },
+        {
+          "en": "SEBI",
+          "hi": "सेबी"
+        },
+        {
+          "en": "PFRDA",
+          "hi": "पीएफआरडीए"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The Securities and Exchange Board of India (SEBI) has introduced reforms for Small and Medium Enterprises (SME) Initial Public Offerings (IPOs). These reforms offer alternate financing choices to SMEs amidst a rising interest rate environment.",
+        "hi": "भारतीय प्रतिभूति और विनिमय बोर्ड (SEBI) ने लघु और मध्यम उद्यमों (SME) के आरंभिक सार्वजनिक निर्गम (IPO) के लिए सुधार पेश किए हैं। ये सुधार बढ़ती ब्याज दर के माहौल के बीच SME को वैकल्पिक वित्तपोषण विकल्प प्रदान करते हैं।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.thehindu.com/business/Economy/sebis-sme-ipo-reforms-offer-a-financing-choice-as-rates-rise/article71606331.ece"
+    },
+    {
+      "id": "ca_20261101_10",
+      "question": {
+        "en": "The development of India's regional satellite navigation system, NavIC, was initiated following restricted access to GPS data during which conflict?",
+        "hi": "भारत की क्षेत्रीय उपग्रह नेविगेशन प्रणाली, NavIC का विकास किस संघर्ष के दौरान जीपीएस डेटा तक सीमित पहुंच के बाद शुरू किया गया था?"
+      },
+      "options": [
+        {
+          "en": "Indo-Pakistani War of 1971",
+          "hi": "1971 का भारत-पाक युद्ध"
+        },
+        {
+          "en": "Sino-Indian War of 1962",
+          "hi": "1962 का भारत-चीन युद्ध"
+        },
+        {
+          "en": "Kargil War of 1999",
+          "hi": "1999 का कारगिल युद्ध"
+        },
+        {
+          "en": "Operation Meghdoot of 1984",
+          "hi": "1984 का ऑपरेशन मेघदूत"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The development of NavIC (Navigation with Indian Constellation) began following the 1999 Kargil War. During the conflict, the United States reportedly clamped down on India's access to crucial GPS data, highlighting the need for an indigenous system.",
+        "hi": "NavIC (भारतीय नक्षत्र के साथ नेविगेशन) का विकास 1999 के कारगिल युद्ध के बाद शुरू हुआ। संघर्ष के दौरान, कथित तौर पर संयुक्त राज्य अमेरिका ने महत्वपूर्ण जीपीएस डेटा तक भारत की पहुंच पर रोक लगा दी थी, जिससे स्वदेशी प्रणाली की आवश्यकता पर प्रकाश डाला गया।"
+      },
+      "category": "Defence & Security",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/sci-tech/science/why-is-isros-nvs-03-satellite-launch-crucial-explained/article71643798.ece"
+    }
+  ]
+}
