@@ -1,0 +1,340 @@
+{
+  "date": "2026-10-30",
+  "topic": "SSC CGL Daily Current Affairs",
+  "source": "The Hindu / Times of India",
+  "lastUpdated": "2026-10-30T05:33:41+05:30",
+  "version": 1,
+  "totalQuestions": 10,
+  "quiz": [
+    {
+      "id": "ca_20261030_01",
+      "question": {
+        "en": "What did the Supreme Court recently mandate the Reserve Bank of India (RBI) regarding funds lost in 'digital arrest' scams?",
+        "hi": "सुप्रीम कोर्ट ने हाल ही में 'डिजिटल गिरफ्तारी' घोटालों में खोए धन के संबंध में भारतीय रिजर्व बैंक (RBI) को क्या आदेश दिया?"
+      },
+      "options": [
+        {
+          "en": "To cover 100% of the lost amount",
+          "hi": "खोई हुई राशि का 100% कवर करने के लिए"
+        },
+        {
+          "en": "To mandate damages for the lost savings",
+          "hi": "खोई हुई बचत के लिए हर्जाना अनिवार्य करना"
+        },
+        {
+          "en": "To freeze the accounts permanently",
+          "hi": "खातों को स्थायी रूप से फ्रीज करने के लिए"
+        },
+        {
+          "en": "To issue a public apology",
+          "hi": "सार्वजनिक माफी जारी करने के लिए"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The Supreme Court has issued a directive to the Reserve Bank of India (RBI) to mandate damages for savings lost by individuals in 'digital arrest' scams, aiming to protect citizens from cyber fraud. This is a significant development in cyber laws and banking regulations in India.",
+        "hi": "सुप्रीम कोर्ट ने नागरिकों को साइबर धोखाधड़ी से बचाने के उद्देश्य से भारतीय रिजर्व बैंक (आरबीआई) को 'डिजिटल गिरफ्तारी' घोटालों में व्यक्तियों द्वारा खोई गई बचत के लिए क्षतिपूर्ति अनिवार्य करने का निर्देश जारी किया है।यह भारत में साइबर कानूनों और बैंकिंग नियमों में एक महत्वपूर्ण विकास है।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/mandate-damages-for-savings-lost-in-digital-arrest-sc-to-rbi/articleshow/135331961.cms"
+    },
+    {
+      "id": "ca_20261030_02",
+      "question": {
+        "en": "According to a recent study, which regions in India received the most private equity investment in the health sector?",
+        "hi": "एक हालिया अध्ययन के अनुसार, भारत के किन क्षेत्रों में स्वास्थ्य क्षेत्र में सबसे अधिक निजी इक्विटी निवेश प्राप्त हुआ?"
+      },
+      "options": [
+        {
+          "en": "North & East",
+          "hi": "ईशान कोण"
+        },
+        {
+          "en": "West & South",
+          "hi": "पश्चिम - दक्षिण"
+        },
+        {
+          "en": "Central & North",
+          "hi": "मध्य एवं उत्तर"
+        },
+        {
+          "en": "North-East",
+          "hi": "ईशान कोण"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "A recent study indicated that the majority of private equity investments in India's health sector were directed towards the Western and Southern regions. This highlights the geographical disparity in healthcare funding and infrastructure development.",
+        "hi": "एक हालिया अध्ययन से संकेत मिलता है कि भारत के स्वास्थ्य क्षेत्र में अधिकांश निजी इक्विटी निवेश पश्चिमी और दक्षिणी क्षेत्रों की ओर निर्देशित थे।यह स्वास्थ्य देखभाल वित्त पोषण और बुनियादी ढांचे के विकास में भौगोलिक असमानता को उजागर करता है।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/most-of-private-equity-in-health-went-to-west-south-study/articleshow/135332703.cms"
+    },
+    {
+      "id": "ca_20261030_03",
+      "question": {
+        "en": "Which consumer protection authority recently penalized Justdial and Sunrise Foods for safety and misleading product claims?",
+        "hi": "हाल ही में किस उपभोक्ता संरक्षण प्राधिकरण ने सुरक्षा और भ्रामक उत्पाद दावों के लिए जस्टडायल और सनराइज फूड्स को दंडित किया है?"
+      },
+      "options": [
+        {
+          "en": "Food Safety and Standards Authority of India (FSSAI)",
+          "hi": "भारतीय खाद्य सुरक्षा और मानक प्राधिकरण (FSSAI)"
+        },
+        {
+          "en": "Central Consumer Protection Authority (CCPA)",
+          "hi": "केंद्रीय उपभोक्ता संरक्षण प्राधिकरण (सीसीपीए)"
+        },
+        {
+          "en": "Competition Commission of India (CCI)",
+          "hi": "भारतीय प्रतिस्पर्धा आयोग (सीसीआई)"
+        },
+        {
+          "en": "Bureau of Indian Standards (BIS)",
+          "hi": "भारतीय मानक ब्यूरो (बीआईएस)"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The Central Consumer Protection Authority (CCPA) penalized Justdial and Sunrise Foods for issues related to safety and misleading product claims. The CCPA functions under the Ministry of Consumer Affairs, Food and Public Distribution to safeguard consumer rights.",
+        "hi": "केंद्रीय उपभोक्ता संरक्षण प्राधिकरण (सीसीपीए) ने सुरक्षा और भ्रामक उत्पाद दावों से संबंधित मुद्दों के लिए जस्टडायल और सनराइज फूड्स को दंडित किया।CCPA उपभोक्ता अधिकारों की सुरक्षा के लिए उपभोक्ता मामले, खाद्य और सार्वजनिक वितरण मंत्रालय के तहत कार्य करता है।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/ccpa-penalises-justdial-sunrise-foods-for-safety-misleading-product-claims/articleshow/135332371.cms"
+    },
+    {
+      "id": "ca_20261030_04",
+      "question": {
+        "en": "In the ongoing Asian Champions Trophy, against which country did India win 5-2 with Harmanpreet and Sukhjeet scoring braces?",
+        "hi": "मौजूदा एशियाई चैंपियंस ट्रॉफी में, भारत ने किस देश के खिलाफ हरमनप्रीत और सुखजीत के दो गोलों की मदद से 5-2 से जीत हासिल की?"
+      },
+      "options": [
+        {
+          "en": "Pakistan",
+          "hi": "पाकिस्तान"
+        },
+        {
+          "en": "South Korea",
+          "hi": "दक्षिण कोरिया"
+        },
+        {
+          "en": "Japan",
+          "hi": "जापान"
+        },
+        {
+          "en": "China",
+          "hi": "चीन"
+        }
+      ],
+      "correctAnswer": 3,
+      "explanation": {
+        "en": "India defeated China 5-2 at the Asian Champions Trophy with Harmanpreet Singh and Sukhjeet Singh scoring braces (two goals each). The Asian Champions Trophy is a premier field hockey tournament in Asia.",
+        "hi": "हरमनप्रीत सिंह और सुखजीत सिंह के ब्रेसिज़ (दो-दो गोल) की मदद से भारत ने एशियाई चैंपियंस ट्रॉफी में चीन को 5-2 से हरा दिया।एशियन चैंपियंस ट्रॉफी एशिया का एक प्रमुख फील्ड हॉकी टूर्नामेंट है।"
+      },
+      "category": "Sports",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/harmanpreet-sukhjeet-score-braces-as-india-beat-china-5-2-at-asian-champions-trophy/articleshow/135323193.cms"
+    },
+    {
+      "id": "ca_20261030_05",
+      "question": {
+        "en": "The Supreme Court of India recently warned of a 'harsh stand' if its orders are not enforced regarding which environmental issue?",
+        "hi": "भारत के सर्वोच्च न्यायालय ने हाल ही में किस पर्यावरणीय मुद्दे के संबंध में अपने आदेशों को लागू नहीं करने पर 'कठोर रुख' अपनाने की चेतावनी दी?"
+      },
+      "options": [
+        {
+          "en": "Stubble burning",
+          "hi": "पराली जलाना"
+        },
+        {
+          "en": "River pollution",
+          "hi": "नदी प्रदूषण"
+        },
+        {
+          "en": "Use of firecrackers",
+          "hi": "पटाखों का प्रयोग"
+        },
+        {
+          "en": "Illegal mining",
+          "hi": "अवैध खनन"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The Supreme Court warned authorities of taking a harsh stand if its orders regulating or banning the use of firecrackers are not enforced. This is typically invoked under Article 21 (Right to Life) which includes the right to a clean environment.",
+        "hi": "सुप्रीम कोर्ट ने अधिकारियों को चेतावनी दी कि यदि पटाखों के उपयोग को विनियमित करने या प्रतिबंधित करने वाले उसके आदेशों को लागू नहीं किया गया तो वह सख्त रुख अपनाएंगे।इसे आम तौर पर अनुच्छेद 21 (जीवन का अधिकार) के तहत लागू किया जाता है जिसमें स्वच्छ पर्यावरण का अधिकार शामिल है।"
+      },
+      "category": "Environment & Ecology",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/dont-push-us-sc-warns-of-harsh-stand-on-firecrackers-if-orders-go-unenforced/articleshow/135321333.cms"
+    },
+    {
+      "id": "ca_20261030_06",
+      "question": {
+        "en": "Who did Union Defence Minister Rajnath Singh recently state India is ready to share its 'battle-tested expertise' with?",
+        "hi": "केंद्रीय रक्षा मंत्री राजनाथ सिंह ने हाल ही में किसके साथ कहा कि भारत अपनी 'युद्ध-परीक्षित विशेषज्ञता' साझा करने के लिए तैयार है?"
+      },
+      "options": [
+        {
+          "en": "NATO allies",
+          "hi": "नाटो सहयोगी"
+        },
+        {
+          "en": "ASEAN partners",
+          "hi": "आसियान भागीदार"
+        },
+        {
+          "en": "BRICS nations",
+          "hi": "ब्रिक्स राष्ट्र"
+        },
+        {
+          "en": "BIMSTEC members",
+          "hi": "बिम्सटेक सदस्य"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Defence Minister Rajnath Singh stated that India is ready to share its battle-tested expertise with ASEAN partners to boost joint capabilities. ASEAN (Association of Southeast Asian Nations) is a key pillar of India's Act East Policy.",
+        "hi": "रक्षा मंत्री राजनाथ सिंह ने कहा कि भारत संयुक्त क्षमताओं को बढ़ावा देने के लिए आसियान भागीदारों के साथ अपनी युद्ध-परीक्षित विशेषज्ञता साझा करने के लिए तैयार है।आसियान (दक्षिणपूर्व एशियाई देशों का संघ) भारत की एक्ट ईस्ट नीति का एक प्रमुख स्तंभ है।"
+      },
+      "category": "Defence & Security",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/defence/news/india-ready-to-share-its-battle-tested-expertise-with-asean-partners-to-boost-joint-capabilities-rajnath/articleshow/135328194.cms"
+    },
+    {
+      "id": "ca_20261030_07",
+      "question": {
+        "en": "Which High Court recently struck down the water tax imposed on hydropower projects?",
+        "hi": "हाल ही में किस उच्च न्यायालय ने जलविद्युत परियोजनाओं पर लगाए गए जल कर को रद्द कर दिया?"
+      },
+      "options": [
+        {
+          "en": "Himachal Pradesh High Court",
+          "hi": "हिमाचल प्रदेश उच्च न्यायालय"
+        },
+        {
+          "en": "Uttarakhand High Court",
+          "hi": "उत्तराखंड उच्च न्यायालय"
+        },
+        {
+          "en": "Jammu & Kashmir High Court",
+          "hi": "जम्मू एवं कश्मीर उच्च न्यायालय"
+        },
+        {
+          "en": "Guwahati High Court",
+          "hi": "गुवाहाटी उच्च न्यायालय"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The Jammu & Kashmir High Court struck down the water usage tax that was imposed on hydropower projects. It declared the imposition of water usage charges under the 2010 Act in the UT as 'ultra vires'.",
+        "hi": "जम्मू और कश्मीर उच्च न्यायालय ने जलविद्युत परियोजनाओं पर लगाए गए जल उपयोग कर को रद्द कर दिया।इसने यूटी में 2010 अधिनियम के तहत जल उपयोग शुल्क लगाने को 'अल्ट्रा वायर्स' घोषित किया।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "hard",
+      "sourceUrl": "https://www.thehindu.com/news/national/jammu-and-kashmir/jk-high-court-declares-imposition-of-water-usage-charges-under-2010-act-in-ut-as-ultra-vires/article71641708.ece"
+    },
+    {
+      "id": "ca_20261030_08",
+      "question": {
+        "en": "The US intelligence recently confirmed satellite images showing a secret spaceplane in orbit belonging to which country?",
+        "hi": "अमेरिकी खुफिया विभाग ने हाल ही में उपग्रह चित्रों की पुष्टि की है जिसमें किस देश की कक्षा में एक गुप्त अंतरिक्ष यान दिखाया गया है?"
+      },
+      "options": [
+        {
+          "en": "Russia",
+          "hi": "रूस"
+        },
+        {
+          "en": "China",
+          "hi": "चीन"
+        },
+        {
+          "en": "India",
+          "hi": "भारत"
+        },
+        {
+          "en": "North Korea",
+          "hi": "उत्तर कोरिया"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "US intelligence confirmed that images show China's secret spaceplane in orbit, with a design resembling the US X-37B. This highlights the growing militarization and technological competition in space between global powers.",
+        "hi": "अमेरिकी खुफिया ने पुष्टि की है कि तस्वीरें चीन के गुप्त अंतरिक्ष यान को कक्षा में दिखाती हैं, जिसका डिज़ाइन यूएस एक्स-37बी जैसा दिखता है।यह वैश्विक शक्तियों के बीच अंतरिक्ष में बढ़ते सैन्यीकरण और तकनीकी प्रतिस्पर्धा को उजागर करता है।"
+      },
+      "category": "Science & Technology",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/defence/international/us-intelligence-confirms-image-shows-chinas-secret-spaceplane-in-orbit-design-resembles-x-37b/articleshow/135322625.cms"
+    },
+    {
+      "id": "ca_20261030_09",
+      "question": {
+        "en": "The Enforcement Directorate (ED) recently searched premises linked to Mudrex and Instadapp over alleged FEMA violations worth ₹4,600 crore. What does FEMA stand for?",
+        "hi": "प्रवर्तन निदेशालय (ईडी) ने हाल ही में ₹4,600 करोड़ के कथित फेमा उल्लंघन को लेकर मुड्रेक्स और इंस्टाडैप से जुड़े परिसरों की तलाशी ली।फेमा का क्या मतलब है?"
+      },
+      "options": [
+        {
+          "en": "Foreign Exchange Management Act",
+          "hi": "विदेशी मुद्रा प्रबंधन अधिनियम"
+        },
+        {
+          "en": "Financial Emergency Management Act",
+          "hi": "वित्तीय आपातकालीन प्रबंधन अधिनियम"
+        },
+        {
+          "en": "Federal Equity Management Authority",
+          "hi": "संघीय इक्विटी प्रबंधन प्राधिकरण"
+        },
+        {
+          "en": "Fund Exchange Monitoring Act",
+          "hi": "फंड एक्सचेंज मॉनिटरिंग एक्ट"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "FEMA stands for Foreign Exchange Management Act. The ED searches linked to Mudrex and Instadapp were over alleged ₹4,600-crore FEMA violations. FEMA was enacted in 1999 to consolidate and amend the law relating to foreign exchange.",
+        "hi": "फेमा का मतलब विदेशी मुद्रा प्रबंधन अधिनियम है।मड्रेक्स और इंस्टाडैप से जुड़ी ईडी की तलाशी कथित तौर पर ₹4,600 करोड़ के फेमा उल्लंघन से संबंधित थी।विदेशी मुद्रा से संबंधित कानून को समेकित और संशोधित करने के लिए 1999 में फेमा अधिनियमित किया गया था।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/ed-searches-mudrex-instadapp-linked-premises-in-bengaluru-and-madhya-pradesh-over-alleged-4600-crore-fema-violations/article71640629.ece"
+    },
+    {
+      "id": "ca_20261030_10",
+      "question": {
+        "en": "Which state's forest department is highlighting the 'gun culture' in the Chambal region during the probe into a cheetah shooting incident?",
+        "hi": "किस राज्य का वन विभाग चीता गोलीकांड की जांच के दौरान चंबल क्षेत्र में 'बंदूक संस्कृति' को उजागर कर रहा है?"
+      },
+      "options": [
+        {
+          "en": "Rajasthan",
+          "hi": "राजस्थान"
+        },
+        {
+          "en": "Uttar Pradesh",
+          "hi": "उतार प्रदेश।"
+        },
+        {
+          "en": "Madhya Pradesh",
+          "hi": "मध्य प्रदेश"
+        },
+        {
+          "en": "Gujarat",
+          "hi": "गुजरात"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Madhya Pradesh wildlife officials are highlighting the Chambal region's gun culture as the probe into a cheetah shooting goes on. Kuno National Park, located in Madhya Pradesh, is central to India's cheetah reintroduction project.",
+        "hi": "मध्य प्रदेश के वन्यजीव अधिकारी चंबल क्षेत्र की बंदूक संस्कृति को उजागर कर रहे हैं क्योंकि चीता की शूटिंग की जांच चल रही है।मध्य प्रदेश में स्थित कुनो राष्ट्रीय उद्यान, भारत की चीता पुनरुत्पादन परियोजना का केंद्र है।"
+      },
+      "category": "Environment & Ecology",
+      "difficulty": "hard",
+      "sourceUrl": "https://www.thehindu.com/news/national/madhya-pradesh/mp-wildlife-officials-highlight-chambal-regions-gun-culture-as-probe-into-cheetah-shooting-goes-on/article71641808.ece"
+    }
+  ]
+}

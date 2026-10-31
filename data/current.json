@@ -1,340 +1,340 @@
 {
-  "date": "2026-10-30",
+  "date": "2026-10-31",
   "topic": "SSC CGL Daily Current Affairs",
-  "source": "The Hindu / Times of India",
-  "lastUpdated": "2026-10-30T05:33:41+05:30",
+  "source": "The Hindu",
+  "lastUpdated": "2026-10-31T06:00:00+05:30",
   "version": 1,
   "totalQuestions": 10,
   "quiz": [
     {
-      "id": "ca_20261030_01",
+      "id": "ca_20261031_01",
       "question": {
-        "en": "What did the Supreme Court recently mandate the Reserve Bank of India (RBI) regarding funds lost in 'digital arrest' scams?",
-        "hi": "सुप्रीम कोर्ट ने हाल ही में 'डिजिटल गिरफ्तारी' घोटालों में खोए धन के संबंध में भारतीय रिजर्व बैंक (RBI) को क्या आदेश दिया?"
+        "en": "Which navigation satellite was recently launched into orbit by ISRO's GSLV rocket to restore the NavIC constellation?",
+        "hi": "इसरो के जीएसएलवी रॉकेट द्वारा NavIC तारामंडल को बहाल करने के लिए हाल ही में किस नेविगेशन उपग्रह को कक्षा में लॉन्च किया गया है?"
       },
       "options": [
         {
-          "en": "To cover 100% of the lost amount",
-          "hi": "खोई हुई राशि का 100% कवर करने के लिए"
+          "en": "NVS-01",
+          "hi": "एनवीएस-01"
         },
         {
-          "en": "To mandate damages for the lost savings",
-          "hi": "खोई हुई बचत के लिए हर्जाना अनिवार्य करना"
+          "en": "NVS-02",
+          "hi": "एनवीएस-02"
         },
         {
-          "en": "To freeze the accounts permanently",
-          "hi": "खातों को स्थायी रूप से फ्रीज करने के लिए"
+          "en": "NVS-03",
+          "hi": "एनवीएस-03"
         },
         {
-          "en": "To issue a public apology",
-          "hi": "सार्वजनिक माफी जारी करने के लिए"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "The Supreme Court has issued a directive to the Reserve Bank of India (RBI) to mandate damages for savings lost by individuals in 'digital arrest' scams, aiming to protect citizens from cyber fraud. This is a significant development in cyber laws and banking regulations in India.",
-        "hi": "सुप्रीम कोर्ट ने नागरिकों को साइबर धोखाधड़ी से बचाने के उद्देश्य से भारतीय रिजर्व बैंक (आरबीआई) को 'डिजिटल गिरफ्तारी' घोटालों में व्यक्तियों द्वारा खोई गई बचत के लिए क्षतिपूर्ति अनिवार्य करने का निर्देश जारी किया है।यह भारत में साइबर कानूनों और बैंकिंग नियमों में एक महत्वपूर्ण विकास है।"
-      },
-      "category": "Polity & Governance",
-      "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/mandate-damages-for-savings-lost-in-digital-arrest-sc-to-rbi/articleshow/135331961.cms"
-    },
-    {
-      "id": "ca_20261030_02",
-      "question": {
-        "en": "According to a recent study, which regions in India received the most private equity investment in the health sector?",
-        "hi": "एक हालिया अध्ययन के अनुसार, भारत के किन क्षेत्रों में स्वास्थ्य क्षेत्र में सबसे अधिक निजी इक्विटी निवेश प्राप्त हुआ?"
-      },
-      "options": [
-        {
-          "en": "North & East",
-          "hi": "ईशान कोण"
-        },
-        {
-          "en": "West & South",
-          "hi": "पश्चिम - दक्षिण"
-        },
-        {
-          "en": "Central & North",
-          "hi": "मध्य एवं उत्तर"
-        },
-        {
-          "en": "North-East",
-          "hi": "ईशान कोण"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "A recent study indicated that the majority of private equity investments in India's health sector were directed towards the Western and Southern regions. This highlights the geographical disparity in healthcare funding and infrastructure development.",
-        "hi": "एक हालिया अध्ययन से संकेत मिलता है कि भारत के स्वास्थ्य क्षेत्र में अधिकांश निजी इक्विटी निवेश पश्चिमी और दक्षिणी क्षेत्रों की ओर निर्देशित थे।यह स्वास्थ्य देखभाल वित्त पोषण और बुनियादी ढांचे के विकास में भौगोलिक असमानता को उजागर करता है।"
-      },
-      "category": "Economy & Banking",
-      "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/most-of-private-equity-in-health-went-to-west-south-study/articleshow/135332703.cms"
-    },
-    {
-      "id": "ca_20261030_03",
-      "question": {
-        "en": "Which consumer protection authority recently penalized Justdial and Sunrise Foods for safety and misleading product claims?",
-        "hi": "हाल ही में किस उपभोक्ता संरक्षण प्राधिकरण ने सुरक्षा और भ्रामक उत्पाद दावों के लिए जस्टडायल और सनराइज फूड्स को दंडित किया है?"
-      },
-      "options": [
-        {
-          "en": "Food Safety and Standards Authority of India (FSSAI)",
-          "hi": "भारतीय खाद्य सुरक्षा और मानक प्राधिकरण (FSSAI)"
-        },
-        {
-          "en": "Central Consumer Protection Authority (CCPA)",
-          "hi": "केंद्रीय उपभोक्ता संरक्षण प्राधिकरण (सीसीपीए)"
-        },
-        {
-          "en": "Competition Commission of India (CCI)",
-          "hi": "भारतीय प्रतिस्पर्धा आयोग (सीसीआई)"
-        },
-        {
-          "en": "Bureau of Indian Standards (BIS)",
-          "hi": "भारतीय मानक ब्यूरो (बीआईएस)"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "The Central Consumer Protection Authority (CCPA) penalized Justdial and Sunrise Foods for issues related to safety and misleading product claims. The CCPA functions under the Ministry of Consumer Affairs, Food and Public Distribution to safeguard consumer rights.",
-        "hi": "केंद्रीय उपभोक्ता संरक्षण प्राधिकरण (सीसीपीए) ने सुरक्षा और भ्रामक उत्पाद दावों से संबंधित मुद्दों के लिए जस्टडायल और सनराइज फूड्स को दंडित किया।CCPA उपभोक्ता अधिकारों की सुरक्षा के लिए उपभोक्ता मामले, खाद्य और सार्वजनिक वितरण मंत्रालय के तहत कार्य करता है।"
-      },
-      "category": "Polity & Governance",
-      "difficulty": "easy",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/ccpa-penalises-justdial-sunrise-foods-for-safety-misleading-product-claims/articleshow/135332371.cms"
-    },
-    {
-      "id": "ca_20261030_04",
-      "question": {
-        "en": "In the ongoing Asian Champions Trophy, against which country did India win 5-2 with Harmanpreet and Sukhjeet scoring braces?",
-        "hi": "मौजूदा एशियाई चैंपियंस ट्रॉफी में, भारत ने किस देश के खिलाफ हरमनप्रीत और सुखजीत के दो गोलों की मदद से 5-2 से जीत हासिल की?"
-      },
-      "options": [
-        {
-          "en": "Pakistan",
-          "hi": "पाकिस्तान"
-        },
-        {
-          "en": "South Korea",
-          "hi": "दक्षिण कोरिया"
-        },
-        {
-          "en": "Japan",
-          "hi": "जापान"
-        },
-        {
-          "en": "China",
-          "hi": "चीन"
-        }
-      ],
-      "correctAnswer": 3,
-      "explanation": {
-        "en": "India defeated China 5-2 at the Asian Champions Trophy with Harmanpreet Singh and Sukhjeet Singh scoring braces (two goals each). The Asian Champions Trophy is a premier field hockey tournament in Asia.",
-        "hi": "हरमनप्रीत सिंह और सुखजीत सिंह के ब्रेसिज़ (दो-दो गोल) की मदद से भारत ने एशियाई चैंपियंस ट्रॉफी में चीन को 5-2 से हरा दिया।एशियन चैंपियंस ट्रॉफी एशिया का एक प्रमुख फील्ड हॉकी टूर्नामेंट है।"
-      },
-      "category": "Sports",
-      "difficulty": "easy",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/harmanpreet-sukhjeet-score-braces-as-india-beat-china-5-2-at-asian-champions-trophy/articleshow/135323193.cms"
-    },
-    {
-      "id": "ca_20261030_05",
-      "question": {
-        "en": "The Supreme Court of India recently warned of a 'harsh stand' if its orders are not enforced regarding which environmental issue?",
-        "hi": "भारत के सर्वोच्च न्यायालय ने हाल ही में किस पर्यावरणीय मुद्दे के संबंध में अपने आदेशों को लागू नहीं करने पर 'कठोर रुख' अपनाने की चेतावनी दी?"
-      },
-      "options": [
-        {
-          "en": "Stubble burning",
-          "hi": "पराली जलाना"
-        },
-        {
-          "en": "River pollution",
-          "hi": "नदी प्रदूषण"
-        },
-        {
-          "en": "Use of firecrackers",
-          "hi": "पटाखों का प्रयोग"
-        },
-        {
-          "en": "Illegal mining",
-          "hi": "अवैध खनन"
+          "en": "IRNSS-1A",
+          "hi": "आईआरएनएसएस-1ए"
         }
       ],
       "correctAnswer": 2,
       "explanation": {
-        "en": "The Supreme Court warned authorities of taking a harsh stand if its orders regulating or banning the use of firecrackers are not enforced. This is typically invoked under Article 21 (Right to Life) which includes the right to a clean environment.",
-        "hi": "सुप्रीम कोर्ट ने अधिकारियों को चेतावनी दी कि यदि पटाखों के उपयोग को विनियमित करने या प्रतिबंधित करने वाले उसके आदेशों को लागू नहीं किया गया तो वह सख्त रुख अपनाएंगे।इसे आम तौर पर अनुच्छेद 21 (जीवन का अधिकार) के तहत लागू किया जाता है जिसमें स्वच्छ पर्यावरण का अधिकार शामिल है।"
-      },
-      "category": "Environment & Ecology",
-      "difficulty": "easy",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/dont-push-us-sc-warns-of-harsh-stand-on-firecrackers-if-orders-go-unenforced/articleshow/135321333.cms"
-    },
-    {
-      "id": "ca_20261030_06",
-      "question": {
-        "en": "Who did Union Defence Minister Rajnath Singh recently state India is ready to share its 'battle-tested expertise' with?",
-        "hi": "केंद्रीय रक्षा मंत्री राजनाथ सिंह ने हाल ही में किसके साथ कहा कि भारत अपनी 'युद्ध-परीक्षित विशेषज्ञता' साझा करने के लिए तैयार है?"
-      },
-      "options": [
-        {
-          "en": "NATO allies",
-          "hi": "नाटो सहयोगी"
-        },
-        {
-          "en": "ASEAN partners",
-          "hi": "आसियान भागीदार"
-        },
-        {
-          "en": "BRICS nations",
-          "hi": "ब्रिक्स राष्ट्र"
-        },
-        {
-          "en": "BIMSTEC members",
-          "hi": "बिम्सटेक सदस्य"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "Defence Minister Rajnath Singh stated that India is ready to share its battle-tested expertise with ASEAN partners to boost joint capabilities. ASEAN (Association of Southeast Asian Nations) is a key pillar of India's Act East Policy.",
-        "hi": "रक्षा मंत्री राजनाथ सिंह ने कहा कि भारत संयुक्त क्षमताओं को बढ़ावा देने के लिए आसियान भागीदारों के साथ अपनी युद्ध-परीक्षित विशेषज्ञता साझा करने के लिए तैयार है।आसियान (दक्षिणपूर्व एशियाई देशों का संघ) भारत की एक्ट ईस्ट नीति का एक प्रमुख स्तंभ है।"
-      },
-      "category": "Defence & Security",
-      "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/defence/news/india-ready-to-share-its-battle-tested-expertise-with-asean-partners-to-boost-joint-capabilities-rajnath/articleshow/135328194.cms"
-    },
-    {
-      "id": "ca_20261030_07",
-      "question": {
-        "en": "Which High Court recently struck down the water tax imposed on hydropower projects?",
-        "hi": "हाल ही में किस उच्च न्यायालय ने जलविद्युत परियोजनाओं पर लगाए गए जल कर को रद्द कर दिया?"
-      },
-      "options": [
-        {
-          "en": "Himachal Pradesh High Court",
-          "hi": "हिमाचल प्रदेश उच्च न्यायालय"
-        },
-        {
-          "en": "Uttarakhand High Court",
-          "hi": "उत्तराखंड उच्च न्यायालय"
-        },
-        {
-          "en": "Jammu & Kashmir High Court",
-          "hi": "जम्मू एवं कश्मीर उच्च न्यायालय"
-        },
-        {
-          "en": "Guwahati High Court",
-          "hi": "गुवाहाटी उच्च न्यायालय"
-        }
-      ],
-      "correctAnswer": 2,
-      "explanation": {
-        "en": "The Jammu & Kashmir High Court struck down the water usage tax that was imposed on hydropower projects. It declared the imposition of water usage charges under the 2010 Act in the UT as 'ultra vires'.",
-        "hi": "जम्मू और कश्मीर उच्च न्यायालय ने जलविद्युत परियोजनाओं पर लगाए गए जल उपयोग कर को रद्द कर दिया।इसने यूटी में 2010 अधिनियम के तहत जल उपयोग शुल्क लगाने को 'अल्ट्रा वायर्स' घोषित किया।"
-      },
-      "category": "Polity & Governance",
-      "difficulty": "hard",
-      "sourceUrl": "https://www.thehindu.com/news/national/jammu-and-kashmir/jk-high-court-declares-imposition-of-water-usage-charges-under-2010-act-in-ut-as-ultra-vires/article71641708.ece"
-    },
-    {
-      "id": "ca_20261030_08",
-      "question": {
-        "en": "The US intelligence recently confirmed satellite images showing a secret spaceplane in orbit belonging to which country?",
-        "hi": "अमेरिकी खुफिया विभाग ने हाल ही में उपग्रह चित्रों की पुष्टि की है जिसमें किस देश की कक्षा में एक गुप्त अंतरिक्ष यान दिखाया गया है?"
-      },
-      "options": [
-        {
-          "en": "Russia",
-          "hi": "रूस"
-        },
-        {
-          "en": "China",
-          "hi": "चीन"
-        },
-        {
-          "en": "India",
-          "hi": "भारत"
-        },
-        {
-          "en": "North Korea",
-          "hi": "उत्तर कोरिया"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "US intelligence confirmed that images show China's secret spaceplane in orbit, with a design resembling the US X-37B. This highlights the growing militarization and technological competition in space between global powers.",
-        "hi": "अमेरिकी खुफिया ने पुष्टि की है कि तस्वीरें चीन के गुप्त अंतरिक्ष यान को कक्षा में दिखाती हैं, जिसका डिज़ाइन यूएस एक्स-37बी जैसा दिखता है।यह वैश्विक शक्तियों के बीच अंतरिक्ष में बढ़ते सैन्यीकरण और तकनीकी प्रतिस्पर्धा को उजागर करता है।"
+        "en": "ISRO's GSLV-F18 placed the next-generation navigation satellite NVS-03 into orbit. With a mission life of 12 years, it aims to restore and boost the functioning of India's regional satellite navigation system, NavIC. It also carries an indigenous atomic clock.",
+        "hi": "इसरो के GSLV-F18 ने अगली पीढ़ी के नेविगेशन उपग्रह NVS-03 को कक्षा में स्थापित किया। 12 वर्षों के मिशन जीवन के साथ, इसका उद्देश्य भारत की क्षेत्रीय उपग्रह नेविगेशन प्रणाली, NavIC के कामकाज को बहाल करना और बढ़ावा देना है। इसमें एक स्वदेशी परमाणु घड़ी भी है।"
       },
       "category": "Science & Technology",
       "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/defence/international/us-intelligence-confirms-image-shows-chinas-secret-spaceplane-in-orbit-design-resembles-x-37b/articleshow/135322625.cms"
+      "sourceUrl": "https://www.thehindu.com/sci-tech/science/nvs-03-satellite-launch-successful-isro/article71646807.ece"
     },
     {
-      "id": "ca_20261030_09",
+      "id": "ca_20261031_02",
       "question": {
-        "en": "The Enforcement Directorate (ED) recently searched premises linked to Mudrex and Instadapp over alleged FEMA violations worth ₹4,600 crore. What does FEMA stand for?",
-        "hi": "प्रवर्तन निदेशालय (ईडी) ने हाल ही में ₹4,600 करोड़ के कथित फेमा उल्लंघन को लेकर मुड्रेक्स और इंस्टाडैप से जुड़े परिसरों की तलाशी ली।फेमा का क्या मतलब है?"
+        "en": "In a recent ruling, what did the Supreme Court state regarding consensual relationships that turn sour?",
+        "hi": "हाल ही के एक फैसले में, सर्वोच्च न्यायालय ने उन सहमति से बने संबंधों के बारे में क्या कहा जो बाद में खराब हो जाते हैं?"
       },
       "options": [
         {
-          "en": "Foreign Exchange Management Act",
-          "hi": "विदेशी मुद्रा प्रबंधन अधिनियम"
+          "en": "They can always be considered as rape.",
+          "hi": "उन्हें हमेशा बलात्कार माना जा सकता है।"
         },
         {
-          "en": "Financial Emergency Management Act",
-          "hi": "वित्तीय आपातकालीन प्रबंधन अधिनियम"
+          "en": "They cannot be branded as rape unless consent was obtained through deception.",
+          "hi": "उन्हें बलात्कार नहीं कहा जा सकता जब तक कि सहमति धोखे से प्राप्त न की गई हो।"
         },
         {
-          "en": "Federal Equity Management Authority",
-          "hi": "संघीय इक्विटी प्रबंधन प्राधिकरण"
+          "en": "They are strictly a civil matter with no criminal implications.",
+          "hi": "ये पूरी तरह से नागरिक मामले हैं जिनका कोई आपराधिक प्रभाव नहीं है।"
         },
         {
-          "en": "Fund Exchange Monitoring Act",
-          "hi": "फंड एक्सचेंज मॉनिटरिंग एक्ट"
+          "en": "They require mandatory mediation before filing any charges.",
+          "hi": "कोई भी आरोप दायर करने से पहले उन्हें अनिवार्य मध्यस्थता की आवश्यकता होती है।"
         }
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 1,
       "explanation": {
-        "en": "FEMA stands for Foreign Exchange Management Act. The ED searches linked to Mudrex and Instadapp were over alleged ₹4,600-crore FEMA violations. FEMA was enacted in 1999 to consolidate and amend the law relating to foreign exchange.",
-        "hi": "फेमा का मतलब विदेशी मुद्रा प्रबंधन अधिनियम है।मड्रेक्स और इंस्टाडैप से जुड़ी ईडी की तलाशी कथित तौर पर ₹4,600 करोड़ के फेमा उल्लंघन से संबंधित थी।विदेशी मुद्रा से संबंधित कानून को समेकित और संशोधित करने के लिए 1999 में फेमा अधिनियमित किया गया था।"
+        "en": "The Supreme Court ruled that physical intimacy cannot be branded as rape merely because a consensual relationship later turns sour. The Court distinguished between consent obtained through deception and regret over consensual intimacy after a relationship ends.",
+        "hi": "सर्वोच्च न्यायालय ने फैसला सुनाया कि शारीरिक अंतरंगता को केवल इसलिए बलात्कार नहीं कहा जा सकता क्योंकि सहमति से बना रिश्ता बाद में खराब हो जाता है। न्यायालय ने धोखे से प्राप्त सहमति और रिश्ता खत्म होने के बाद सहमति से बनी अंतरंगता पर पछतावे के बीच अंतर स्पष्ट किया।"
       },
-      "category": "Economy & Banking",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/ed-searches-mudrex-instadapp-linked-premises-in-bengaluru-and-madhya-pradesh-over-alleged-4600-crore-fema-violations/article71640629.ece"
+      "category": "Polity & Governance",
+      "difficulty": "hard",
+      "sourceUrl": "https://www.thehindu.com/news/national/physical-intimacy-cant-be-branded-as-rape-if-consensual-relationship-turns-sour-supreme-court/article71645439.ece"
     },
     {
-      "id": "ca_20261030_10",
+      "id": "ca_20261031_03",
       "question": {
-        "en": "Which state's forest department is highlighting the 'gun culture' in the Chambal region during the probe into a cheetah shooting incident?",
-        "hi": "किस राज्य का वन विभाग चीता गोलीकांड की जांच के दौरान चंबल क्षेत्र में 'बंदूक संस्कृति' को उजागर कर रहा है?"
+        "en": "The Government of India is modifying which survey to better capture the gig economy and unpaid household workers?",
+        "hi": "भारत सरकार गिग इकॉनमी और अवैतनिक घरेलू कामगारों को बेहतर ढंग से शामिल करने के लिए किस सर्वेक्षण में संशोधन कर रही है?"
       },
       "options": [
         {
-          "en": "Rajasthan",
-          "hi": "राजस्थान"
+          "en": "Census of India",
+          "hi": "भारत की जनगणना"
         },
         {
-          "en": "Uttar Pradesh",
-          "hi": "उतार प्रदेश।"
+          "en": "Economic Census",
+          "hi": "आर्थिक जनगणना"
         },
         {
-          "en": "Madhya Pradesh",
-          "hi": "मध्य प्रदेश"
+          "en": "Periodic Labour Force Survey (PLFS)",
+          "hi": "आवधिक श्रम बल सर्वेक्षण (PLFS)"
         },
         {
-          "en": "Gujarat",
-          "hi": "गुजरात"
+          "en": "National Family Health Survey (NFHS)",
+          "hi": "राष्ट्रीय परिवार स्वास्थ्य सर्वेक्षण (NFHS)"
         }
       ],
       "correctAnswer": 2,
       "explanation": {
-        "en": "Madhya Pradesh wildlife officials are highlighting the Chambal region's gun culture as the probe into a cheetah shooting goes on. Kuno National Park, located in Madhya Pradesh, is central to India's cheetah reintroduction project.",
-        "hi": "मध्य प्रदेश के वन्यजीव अधिकारी चंबल क्षेत्र की बंदूक संस्कृति को उजागर कर रहे हैं क्योंकि चीता की शूटिंग की जांच चल रही है।मध्य प्रदेश में स्थित कुनो राष्ट्रीय उद्यान, भारत की चीता पुनरुत्पादन परियोजना का केंद्र है।"
+        "en": "The government plans to modify the Periodic Labour Force Survey (PLFS) to include additional questions. This is aimed at measuring labour underutilisation, including the growing gig economy and unpaid household work.",
+        "hi": "सरकार अतिरिक्त प्रश्नों को शामिल करने के लिए आवधिक श्रम बल सर्वेक्षण (पीएलएफएस) को संशोधित करने की योजना बना रही है। इसका उद्देश्य बढ़ती गिग इकॉनमी और अवैतनिक घरेलू काम सहित श्रम के कम उपयोग को मापना है।"
       },
-      "category": "Environment & Ecology",
+      "category": "Economy & Banking",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/business/Economy/government-to-modify-labour-survey-to-capture-gig-economy-unpaid-household-workers/article71617185.ece"
+    },
+    {
+      "id": "ca_20261031_04",
+      "question": {
+        "en": "Who among the following were awarded the 2026 Economics Nobel Prize?",
+        "hi": "निम्नलिखित में से किसे 2026 का अर्थशास्त्र का नोबेल पुरस्कार प्रदान किया गया?"
+      },
+      "options": [
+        {
+          "en": "Abhijit Banerjee and Esther Duflo",
+          "hi": "अभिजीत बनर्जी और एस्थर डुफ्लो"
+        },
+        {
+          "en": "Robert E. Hall and Michael Woodford",
+          "hi": "रॉबर्ट ई. हॉल और माइकल वुडफोर्ड"
+        },
+        {
+          "en": "Paul Krugman and Richard Thaler",
+          "hi": "पॉल क्रुगमैन और रिचर्ड थेलर"
+        },
+        {
+          "en": "Claudia Goldin and David Card",
+          "hi": "क्लाउडिया गोल्डिन और डेविड कार्ड"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Robert E. Hall and Michael Woodford won the 2026 Economics Nobel Prize. They provided theoretical and empirical underpinnings showing that the economy is essentially driven by the people and their individual choices, which influences government policies.",
+        "hi": "रॉबर्ट ई. हॉल और माइकल वुडफोर्ड ने 2026 का अर्थशास्त्र नोबेल पुरस्कार जीता। उन्होंने सैद्धांतिक और अनुभवजन्य आधार प्रदान किए, जिसमें दिखाया गया कि अर्थव्यवस्था मुख्य रूप से लोगों और उनके व्यक्तिगत विकल्पों से संचालित होती है, जो सरकारी नीतियों को प्रभावित करती है।"
+      },
+      "category": "Awards & Honours",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/business/Economy/2026-economics-nobel-prize-putting-the-humanity-in-macroeconomics/article71586737.ece"
+    },
+    {
+      "id": "ca_20261031_05",
+      "question": {
+        "en": "The Free Trade Agreement (FTA) between India and which country came into force on October 20, 2026?",
+        "hi": "भारत और किस देश के बीच मुक्त व्यापार समझौता (FTA) 20 अक्टूबर 2026 को लागू हुआ?"
+      },
+      "options": [
+        {
+          "en": "Australia",
+          "hi": "ऑस्ट्रेलिया"
+        },
+        {
+          "en": "United Kingdom",
+          "hi": "यूनाइटेड किंगडम"
+        },
+        {
+          "en": "New Zealand",
+          "hi": "न्यूजीलैंड"
+        },
+        {
+          "en": "Canada",
+          "hi": "कनाडा"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The India-New Zealand Free Trade Agreement (FTA) officially came into force on October 20, 2026. This agreement aims to significantly boost bilateral trade and economic cooperation between the two nations.",
+        "hi": "भारत-न्यूजीलैंड मुक्त व्यापार समझौता (एफटीए) आधिकारिक तौर पर 20 अक्टूबर 2026 को लागू हो गया। इस समझौते का उद्देश्य दोनों देशों के बीच द्विपक्षीय व्यापार और आर्थिक सहयोग को महत्वपूर्ण रूप से बढ़ावा देना है।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.thehindu.com/business/Economy/what-are-the-deal-contours-of-india-new-zealand-fta/article71606245.ece"
+    },
+    {
+      "id": "ca_20261031_06",
+      "question": {
+        "en": "Who became the first men's player to claim 200 T20 International wickets?",
+        "hi": "200 टी20 अंतर्राष्ट्रीय विकेट लेने वाले पहले पुरुष खिलाड़ी कौन बने?"
+      },
+      "options": [
+        {
+          "en": "Tim Southee",
+          "hi": "टिम साउदी"
+        },
+        {
+          "en": "Shakib Al Hasan",
+          "hi": "शाकिब अल हसन"
+        },
+        {
+          "en": "Rashid Khan",
+          "hi": "राशिद खान"
+        },
+        {
+          "en": "Lasith Malinga",
+          "hi": "लसिथ मलिंगा"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Afghanistan's spinner Rashid Khan became the first men's player to claim 200 wickets in T20 Internationals. He achieved this milestone in his 120th match, boasting an exceptional economy rate of 6.13.",
+        "hi": "अफगानिस्तान के स्पिनर राशिद खान टी20 इंटरनेशनल में 200 विकेट लेने वाले पहले पुरुष खिलाड़ी बन गए हैं। उन्होंने यह मुकाम अपने 120वें मैच में हासिल किया, जिसमें उनका इकॉनमी रेट 6.13 का शानदार रहा।"
+      },
+      "category": "Sports",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.thehindu.com/sport/cricket/afghanistans-rashid-khan-becomes-first-mens-player-to-claim-200-t20i-wickets/article71643780.ece"
+    },
+    {
+      "id": "ca_20261031_07",
+      "question": {
+        "en": "What was the reported Net Foreign Direct Investment (FDI) in India for September 2026, marking the third consecutive positive month?",
+        "hi": "सितंबर 2026 के लिए भारत में रिपोर्ट किया गया शुद्ध प्रत्यक्ष विदेशी निवेश (FDI) क्या था, जो लगातार तीसरे सकारात्मक महीने को दर्शाता है?"
+      },
+      "options": [
+        {
+          "en": "$1.5 billion",
+          "hi": "$1.5 बिलियन"
+        },
+        {
+          "en": "$2.1 billion",
+          "hi": "$2.1 बिलियन"
+        },
+        {
+          "en": "$3.3 billion",
+          "hi": "$3.3 बिलियन"
+        },
+        {
+          "en": "$4.8 billion",
+          "hi": "$4.8 बिलियन"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "India's Net Foreign Direct Investment (FDI) stood at $3.3 billion in September 2026. This marked the third consecutive month of positive net FDI inflows, reflecting continued foreign investor confidence.",
+        "hi": "सितंबर 2026 में भारत का शुद्ध प्रत्यक्ष विदेशी निवेश (FDI) 3.3 बिलियन डॉलर रहा। यह सकारात्मक शुद्ध FDI प्रवाह का लगातार तीसरा महीना था, जो विदेशी निवेशकों के निरंतर विश्वास को दर्शाता है।"
+      },
+      "category": "Economy & Banking",
       "difficulty": "hard",
-      "sourceUrl": "https://www.thehindu.com/news/national/madhya-pradesh/mp-wildlife-officials-highlight-chambal-regions-gun-culture-as-probe-into-cheetah-shooting-goes-on/article71641808.ece"
+      "sourceUrl": "https://www.thehindu.com/business/Economy/net-fdi-at-33-billion-in-september-2026-positive-for-third-consecutive-month/article71617131.ece"
+    },
+    {
+      "id": "ca_20261031_08",
+      "question": {
+        "en": "The Supreme Court recently asked the Centre to take measures against the online misuse of which specific court resource?",
+        "hi": "सुप्रीम कोर्ट ने हाल ही में केंद्र से किस विशिष्ट न्यायालय संसाधन के ऑनलाइन दुरुपयोग के खिलाफ उपाय करने को कहा है?"
+      },
+      "options": [
+        {
+          "en": "E-filing portals",
+          "hi": "ई-फाइलिंग पोर्टल"
+        },
+        {
+          "en": "Live court feeds (live streaming)",
+          "hi": "लाइव कोर्ट फीड (लाइव स्ट्रीमिंग)"
+        },
+        {
+          "en": "Digitized case records",
+          "hi": "डिजिटलीकृत केस रिकॉर्ड"
+        },
+        {
+          "en": "Judges' personal data",
+          "hi": "न्यायाधीशों का व्यक्तिगत डेटा"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The Supreme Court has asked the Centre to address the online misuse of live court feeds. Suggestions from High Courts have been forwarded to the Ministry of Electronics and Information Technology to frame suitable measures.",
+        "hi": "सुप्रीम कोर्ट ने केंद्र से लाइव कोर्ट फीड के ऑनलाइन दुरुपयोग को रोकने के लिए कहा है। उच्च न्यायालयों के सुझावों को उपयुक्त उपाय तैयार करने के लिए इलेक्ट्रॉनिक्स और सूचना प्रौद्योगिकी मंत्रालय को भेज दिया गया है।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/news/national/supreme-court-asks-centre-to-take-measures-against-online-misuse-of-court-feeds/article71646311.ece"
+    },
+    {
+      "id": "ca_20261031_09",
+      "question": {
+        "en": "Reforms introduced by which regulatory body regarding SME IPOs are offering new financing choices as interest rates rise?",
+        "hi": "एसएमई आईपीओ के संबंध में किस नियामक संस्था द्वारा पेश किए गए सुधार ब्याज दरें बढ़ने पर नए वित्तपोषण विकल्प प्रदान कर रहे हैं?"
+      },
+      "options": [
+        {
+          "en": "RBI",
+          "hi": "आरबीआई"
+        },
+        {
+          "en": "IRDAI",
+          "hi": "आईआरडीएआई"
+        },
+        {
+          "en": "SEBI",
+          "hi": "सेबी"
+        },
+        {
+          "en": "PFRDA",
+          "hi": "पीएफआरडीए"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The Securities and Exchange Board of India (SEBI) has introduced reforms for Small and Medium Enterprises (SME) Initial Public Offerings (IPOs). These reforms offer alternate financing choices to SMEs amidst a rising interest rate environment.",
+        "hi": "भारतीय प्रतिभूति और विनिमय बोर्ड (SEBI) ने लघु और मध्यम उद्यमों (SME) के आरंभिक सार्वजनिक निर्गम (IPO) के लिए सुधार पेश किए हैं। ये सुधार बढ़ती ब्याज दर के माहौल के बीच SME को वैकल्पिक वित्तपोषण विकल्प प्रदान करते हैं।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.thehindu.com/business/Economy/sebis-sme-ipo-reforms-offer-a-financing-choice-as-rates-rise/article71606331.ece"
+    },
+    {
+      "id": "ca_20261031_10",
+      "question": {
+        "en": "The development of India's regional satellite navigation system, NavIC, was initiated following restricted access to GPS data during which conflict?",
+        "hi": "भारत की क्षेत्रीय उपग्रह नेविगेशन प्रणाली, NavIC का विकास किस संघर्ष के दौरान जीपीएस डेटा तक सीमित पहुंच के बाद शुरू किया गया था?"
+      },
+      "options": [
+        {
+          "en": "Indo-Pakistani War of 1971",
+          "hi": "1971 का भारत-पाक युद्ध"
+        },
+        {
+          "en": "Sino-Indian War of 1962",
+          "hi": "1962 का भारत-चीन युद्ध"
+        },
+        {
+          "en": "Kargil War of 1999",
+          "hi": "1999 का कारगिल युद्ध"
+        },
+        {
+          "en": "Operation Meghdoot of 1984",
+          "hi": "1984 का ऑपरेशन मेघदूत"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The development of NavIC (Navigation with Indian Constellation) began following the 1999 Kargil War. During the conflict, the United States reportedly clamped down on India's access to crucial GPS data, highlighting the need for an indigenous system.",
+        "hi": "NavIC (भारतीय नक्षत्र के साथ नेविगेशन) का विकास 1999 के कारगिल युद्ध के बाद शुरू हुआ। संघर्ष के दौरान, कथित तौर पर संयुक्त राज्य अमेरिका ने महत्वपूर्ण जीपीएस डेटा तक भारत की पहुंच पर रोक लगा दी थी, जिससे स्वदेशी प्रणाली की आवश्यकता पर प्रकाश डाला गया।"
+      },
+      "category": "Defence & Security",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/sci-tech/science/why-is-isros-nvs-03-satellite-launch-crucial-explained/article71643798.ece"
     }
   ]
 }
