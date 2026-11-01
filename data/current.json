@@ -1,13 +1,13 @@
 {
-  "date": "2026-11-01",
+  "date": "2026-11-02",
   "topic": "SSC CGL Daily Current Affairs",
   "source": "PIB / The Hindu / Economic Times / Indian Express / GKToday",
-  "lastUpdated": "2026-11-01T05:19:03+05:30",
+  "lastUpdated": "2026-11-02T06:30:00+05:30",
   "version": 1,
   "totalQuestions": 10,
   "quiz": [
     {
-      "id": "ca_20261101_01",
+      "id": "ca_20261102_01",
       "question": {
         "en": "Which state recently passed the Women Farmers' Empowerment Bill, granting women independent recognition as farmers irrespective of land ownership?",
         "hi": "हाल ही में किस राज्य ने महिला किसान सशक्तिकरण विधेयक पारित किया है, जो महिलाओं को भूमि स्वामित्व की परवाह किए बिना किसानों के रूप में स्वतंत्र मान्यता प्रदान करता है?"
@@ -40,7 +40,7 @@
       "sourceUrl": "https://www.thehindu.com/business/Economy/towards-recognising-women-farmers/article71497026.ece"
     },
     {
-      "id": "ca_20261101_02",
+      "id": "ca_20261102_02",
       "question": {
         "en": "In a recent fortnightly review, the government raised the export levy on diesel by how much per litre?",
         "hi": "हाल ही में एक पाक्षिक समीक्षा में, सरकार ने डीजल पर निर्यात शुल्क कितना प्रति लीटर बढ़ाया?"
@@ -73,7 +73,7 @@
       "sourceUrl": "https://www.thehindu.com/business/petrol-export-duty-cut-to-nil-diesel-levy-raised-by-3-a-litre/article71649004.ece"
     },
     {
-      "id": "ca_20261101_03",
+      "id": "ca_20261102_03",
       "question": {
         "en": "Which state's Chief Electoral Officer recently ordered a statewide shutdown of ECINET logins following voter roll irregularities in Pilibhit?",
         "hi": "हाल ही में किस राज्य के मुख्य निर्वाचन अधिकारी ने पीलीभीत में मतदाता सूची में अनियमितताओं के बाद ECINET लॉगिन को राज्यव्यापी बंद करने का आदेश दिया?"
@@ -106,7 +106,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/city/lucknow/pilibhit-voter-roll-row-up-ceo-orders-statewide-ecinet-login-shutdown/articleshow/135398877.cms"
     },
     {
-      "id": "ca_20261101_04",
+      "id": "ca_20261102_04",
       "question": {
         "en": "When will the election for the 10 members of the Athletes' Commission of the Indian Olympic Association (IOA) be held?",
         "hi": "भारतीय ओलंपिक संघ (आईओए) के एथलीट आयोग के 10 सदस्यों के लिए चुनाव कब होगा?"
@@ -139,7 +139,7 @@
       "sourceUrl": "https://www.thehindu.com/sport/ioas-election-code-of-conduct-bars-criticism-of-private-life-of-candidates-publicity/article71650830.ece"
     },
     {
-      "id": "ca_20261101_05",
+      "id": "ca_20261102_05",
       "question": {
         "en": "In which state has a revolt surfaced with 25 MLAs seeking the ouster of ministers, concerning Chief Minister Omar Abdullah's aide?",
         "hi": "किस राज्य में मुख्यमंत्री उमर अब्दुल्ला के सहयोगी को लेकर 25 विधायकों द्वारा मंत्रियों को हटाने की मांग के साथ विद्रोह सामने आया है?"
@@ -172,7 +172,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/india/nc-faces-revolt-as-25-mlas-seek-removal-of-ministers-omar-aide/articleshow/135409374.cms"
     },
     {
-      "id": "ca_20261101_06",
+      "id": "ca_20261102_06",
       "question": {
         "en": "By what percentage did Coal India's profit jump due to higher offtake and prices?",
         "hi": "अधिक उठान और कीमतों के कारण कोल इंडिया का मुनाफा कितने प्रतिशत बढ़ गया?"
@@ -205,7 +205,7 @@
       "sourceUrl": "https://www.thehindu.com/business/Economy/coal-india-profit-jumps-57-as-higher-offtake-prices-weigh-over-costs/article71641279.ece"
     },
     {
-      "id": "ca_20261101_07",
+      "id": "ca_20261102_07",
       "question": {
         "en": "According to the Indian Oil Corporation (IOC), what is the projected under-recovery on LPG per cylinder in November?",
         "hi": "इंडियन ऑयल कॉर्पोरेशन (IOC) के अनुसार, नवंबर में प्रति सिलेंडर एलपीजी पर अनुमानित अंडर-रिकवरी कितनी है?"
@@ -238,7 +238,7 @@
       "sourceUrl": "https://www.thehindu.com/business/Economy/crude-oil-prices-very-volatile-in-q2-carried-both-discounts-premium-at-varying-intervals-iocl-official/article71650317.ece"
     },
     {
-      "id": "ca_20261101_08",
+      "id": "ca_20261102_08",
       "question": {
         "en": "In the recent fortnightly review, to what amount per litre was the export levy on aviation turbine fuel (ATF) raised?",
         "hi": "हाल ही में हुई पाक्षिक समीक्षा में विमानन टरबाइन ईंधन (एटीएफ) पर निर्यात शुल्क को प्रति लीटर कितनी राशि तक बढ़ाया गया?"
@@ -271,7 +271,7 @@
       "sourceUrl": "https://www.thehindu.com/business/petrol-export-duty-cut-to-nil-diesel-levy-raised-by-3-a-litre/article71649004.ece"
     },
     {
-      "id": "ca_20261101_09",
+      "id": "ca_20261102_09",
       "question": {
         "en": "Which state recently witnessed a mass rally halting its capital following a gunfight resulting in casualties among Kuki-Zos?",
         "hi": "हाल ही में किस राज्य में गोलीबारी के परिणामस्वरूप कुकी-ज़ोस के हताहत होने के बाद अपनी राजधानी को रोकने के लिए एक सामूहिक रैली देखी गई?"
@@ -304,7 +304,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/city/guwahati/3-kuki-zos-killed-in-manipur-gunfight-with-nagas-mass-rally-halts-imphal/articleshow/135408794.cms"
     },
     {
-      "id": "ca_20261101_10",
+      "id": "ca_20261102_10",
       "question": {
         "en": "Which article of the Indian Constitution grants the Election Commission of India the power of superintendence, direction, and control of elections, which relates to the ECINET system?",
         "hi": "भारतीय संविधान का कौन सा अनुच्छेद भारत के चुनाव आयोग को चुनावों के अधीक्षण, निर्देशन और नियंत्रण की शक्ति प्रदान करता है, जो ECINET प्रणाली से संबंधित है?"
