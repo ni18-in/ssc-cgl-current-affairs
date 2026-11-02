@@ -1,13 +1,13 @@
 {
-  "date": "2026-11-02",
+  "date": "2026-11-03",
   "topic": "SSC CGL Daily Current Affairs",
   "source": "PIB / The Hindu / Economic Times / Indian Express / GKToday",
-  "lastUpdated": "2026-11-02T05:17:03+05:30",
+  "lastUpdated": "2026-11-03T06:30:00+05:30",
   "version": 1,
   "totalQuestions": 10,
   "quiz": [
     {
-      "id": "ca_20261102_01",
+      "id": "ca_20261103_01",
       "question": {
         "en": "Which country recently dedicated a Buddhist stupa to Prime Minister Narendra Modi in Gelephu Mindfulness City?",
         "hi": "हाल ही में किस देश ने गेलेफू माइंडफुलनेस सिटी में प्रधान मंत्री नरेंद्र मोदी को बौद्ध स्तूप समर्पित किया?"
@@ -40,7 +40,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/india/bhutan-dedicates-buddhist-stupa-to-pm-modi-rijiju-calls-it-huge-honour-for-india/articleshow/135433506.cms"
     },
     {
-      "id": "ca_20261102_02",
+      "id": "ca_20261103_02",
       "question": {
         "en": "What was the record-high GST collection in October 2026, registering a 23% rise?",
         "hi": "अक्टूबर 2026 में 23% की वृद्धि दर्ज करते हुए रिकॉर्ड-उच्च जीएसटी संग्रह क्या था?"
@@ -73,7 +73,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/gst-mop-up-rises-record-23-in-octoer-hits-rs-2-3-lakh-crore/articleshow/135436802.cms"
     },
     {
-      "id": "ca_20261102_03",
+      "id": "ca_20261103_03",
       "question": {
         "en": "How many transactions did the Unified Payments Interface (UPI) cross to reach a new record?",
         "hi": "यूनिफ़ाइड पेमेंट इंटरफ़ेस (UPI) ने कितने लेनदेन को पार करके एक नया रिकॉर्ड बनाया?"
@@ -106,7 +106,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/upi-crosses-record-25-billion-transactions/articleshow/135436758.cms"
     },
     {
-      "id": "ca_20261102_04",
+      "id": "ca_20261103_04",
       "question": {
         "en": "Who completed the Hylo Open double delight by winning the title along with Lakshya Sen?",
         "hi": "लक्ष्य सेन के साथ खिताब जीतकर हायलो ओपन का दोहरा आनंद किसने पूरा किया?"
@@ -139,7 +139,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/sports/badminton/super-sunday-for-india-lakshya-sen-ends-year-long-title-drought-as-pv-sindhu-completes-hylo-open-double-delight/articleshow/135433066.cms"
     },
     {
-      "id": "ca_20261102_05",
+      "id": "ca_20261103_05",
       "question": {
         "en": "In October 2026, EV sales in India crossed a record milestone of how many units?",
         "hi": "अक्टूबर 2026 में, भारत में EV की बिक्री कितनी इकाइयों के रिकॉर्ड मील के पत्थर को पार कर गई?"
@@ -172,7 +172,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/ev-sales-cross-record-3-5-lakh-units-in-oct/articleshow/135436493.cms"
     },
     {
-      "id": "ca_20261102_06",
+      "id": "ca_20261103_06",
       "question": {
         "en": "Who scored a hat-trick for India against Malaysia to keep the perfect Asian Champions Trophy unbeaten record?",
         "hi": "मलेशिया के खिलाफ भारत की ओर से एशियाई चैंपियंस ट्रॉफी में अजेय रिकॉर्ड बरकरार रखने के लिए किसने हैट्रिक बनाई?"
@@ -205,7 +205,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/harmanpreets-hat-trick-sinks-malaysia-as-india-keep-perfect-asian-champions-trophy-unbeaten-record/articleshow/135431684.cms"
     },
     {
-      "id": "ca_20261102_07",
+      "id": "ca_20261103_07",
       "question": {
         "en": "According to the Living Planet Report by WWF, what is the percentage of global wildlife decline monitored since 1970?",
         "hi": "WWF की लिविंग प्लैनेट रिपोर्ट के अनुसार, 1970 के बाद से वैश्विक वन्यजीव गिरावट का प्रतिशत कितना है?"
@@ -238,7 +238,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/india/stark-73-decline-in-the-average-size-of-monitored-wildlife-populations-since-1970-india-presents-ground-for-hope-wwf-living-planet-report/articleshow/134774319.cms"
     },
     {
-      "id": "ca_20261102_08",
+      "id": "ca_20261103_08",
       "question": {
         "en": "Which biometric-based travel system is the government testing for international flights?",
         "hi": "सरकार अंतरराष्ट्रीय उड़ानों के लिए किस बायोमेट्रिक-आधारित यात्रा प्रणाली का परीक्षण कर रही है?"
@@ -271,7 +271,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/government-testing-digiyatra-for-international-flights/articleshow/135437156.cms"
     },
     {
-      "id": "ca_20261102_09",
+      "id": "ca_20261103_09",
       "question": {
         "en": "Which New Zealand cricketer scripted history by breaking a world record in the recent T20I series against India?",
         "hi": "न्यूजीलैंड के किस क्रिकेटर ने भारत के खिलाफ हालिया T20I श्रृंखला में विश्व रिकॉर्ड तोड़कर इतिहास रचा?"
@@ -304,7 +304,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/glenn-phillips-scripts-history-breaks-phil-salts-world-record-in-stunning-t20i-series-against-india/articleshow/135425051.cms"
     },
     {
-      "id": "ca_20261102_10",
+      "id": "ca_20261103_10",
       "question": {
         "en": "By how much amount per litre was the commercial LPG price increased recently?",
         "hi": "हाल ही में वाणिज्यिक एलपीजी की कीमत में प्रति लीटर कितनी राशि की वृद्धि की गई?"
