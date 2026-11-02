@@ -1,0 +1,340 @@
+{
+  "date": "2026-11-01",
+  "topic": "SSC CGL Daily Current Affairs",
+  "source": "PIB / The Hindu / Economic Times / Indian Express / GKToday",
+  "lastUpdated": "2026-11-01T05:19:03+05:30",
+  "version": 1,
+  "totalQuestions": 10,
+  "quiz": [
+    {
+      "id": "ca_20261101_01",
+      "question": {
+        "en": "Which state recently passed the Women Farmers' Empowerment Bill, granting women independent recognition as farmers irrespective of land ownership?",
+        "hi": "हाल ही में किस राज्य ने महिला किसान सशक्तिकरण विधेयक पारित किया है, जो महिलाओं को भूमि स्वामित्व की परवाह किए बिना किसानों के रूप में स्वतंत्र मान्यता प्रदान करता है?"
+      },
+      "options": [
+        {
+          "en": "Maharashtra",
+          "hi": "महाराष्ट्र"
+        },
+        {
+          "en": "Punjab",
+          "hi": "पंजाब"
+        },
+        {
+          "en": "Bihar",
+          "hi": "बिहार"
+        },
+        {
+          "en": "Uttar Pradesh",
+          "hi": "Uttar Pradesh"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "Maharashtra passed the Women Farmers' Empowerment Bill to grant independent recognition to women as farmers, aiming to end structural bias and ensure access to welfare schemes.",
+        "hi": "महाराष्ट्र ने महिलाओं को किसानों के रूप में स्वतंत्र मान्यता देने के लिए महिला किसान सशक्तिकरण विधेयक पारित किया, जिसका उद्देश्य संरचनात्मक पूर्वाग्रह को समाप्त करना और कल्याणकारी योजनाओं तक पहुंच सुनिश्चित करना है।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/business/Economy/towards-recognising-women-farmers/article71497026.ece"
+    },
+    {
+      "id": "ca_20261101_02",
+      "question": {
+        "en": "In a recent fortnightly review, the government raised the export levy on diesel by how much per litre?",
+        "hi": "हाल ही में एक पाक्षिक समीक्षा में, सरकार ने डीजल पर निर्यात शुल्क कितना प्रति लीटर बढ़ाया?"
+      },
+      "options": [
+        {
+          "en": "₹1.5",
+          "hi": "₹1.5"
+        },
+        {
+          "en": "₹2.0",
+          "hi": "₹2.0"
+        },
+        {
+          "en": "₹3.0",
+          "hi": "₹3.0"
+        },
+        {
+          "en": "₹4.5",
+          "hi": "₹4.5"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The government raised the export levy on diesel to ₹11.5 per litre from ₹8.5, marking an increase of ₹3 per litre. India's diesel exports had touched 700 kilo barrels per day in October.",
+        "hi": "सरकार ने डीजल पर निर्यात शुल्क ₹8.5 से बढ़ाकर ₹11.5 प्रति लीटर कर दिया, जो ₹3 प्रति लीटर की वृद्धि दर्शाता है।अक्टूबर में भारत का डीजल निर्यात 700 किलो बैरल प्रतिदिन तक पहुंच गया था।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "hard",
+      "sourceUrl": "https://www.thehindu.com/business/petrol-export-duty-cut-to-nil-diesel-levy-raised-by-3-a-litre/article71649004.ece"
+    },
+    {
+      "id": "ca_20261101_03",
+      "question": {
+        "en": "Which state's Chief Electoral Officer recently ordered a statewide shutdown of ECINET logins following voter roll irregularities in Pilibhit?",
+        "hi": "हाल ही में किस राज्य के मुख्य निर्वाचन अधिकारी ने पीलीभीत में मतदाता सूची में अनियमितताओं के बाद ECINET लॉगिन को राज्यव्यापी बंद करने का आदेश दिया?"
+      },
+      "options": [
+        {
+          "en": "Bihar",
+          "hi": "बिहार"
+        },
+        {
+          "en": "Uttar Pradesh",
+          "hi": "Uttar Pradesh"
+        },
+        {
+          "en": "Madhya Pradesh",
+          "hi": "मध्य प्रदेश"
+        },
+        {
+          "en": "Rajasthan",
+          "hi": "राजस्थान"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Uttar Pradesh Chief Electoral Officer Navdeep Rinwa ordered the deactivation of login IDs used by voter registration centre operators following irregularities in Pilibhit to maintain electoral roll integrity.",
+        "hi": "उत्तर प्रदेश के मुख्य निर्वाचन अधिकारी नवदीप रिनवा ने मतदाता सूची की अखंडता बनाए रखने के लिए पीलीभीत में अनियमितताओं के बाद मतदाता पंजीकरण केंद्र संचालकों द्वारा उपयोग की जाने वाली लॉगिन आईडी को निष्क्रिय करने का आदेश दिया।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/lucknow/pilibhit-voter-roll-row-up-ceo-orders-statewide-ecinet-login-shutdown/articleshow/135398877.cms"
+    },
+    {
+      "id": "ca_20261101_04",
+      "question": {
+        "en": "When will the election for the 10 members of the Athletes' Commission of the Indian Olympic Association (IOA) be held?",
+        "hi": "भारतीय ओलंपिक संघ (आईओए) के एथलीट आयोग के 10 सदस्यों के लिए चुनाव कब होगा?"
+      },
+      "options": [
+        {
+          "en": "November 1",
+          "hi": "1 नवंबर"
+        },
+        {
+          "en": "November 3",
+          "hi": "3 नवंबर"
+        },
+        {
+          "en": "November 5",
+          "hi": "5 नवंबर"
+        },
+        {
+          "en": "November 9",
+          "hi": "9 नवंबर"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The election to pick 10 members of the Athletes' Commission of the Indian Olympic Association (IOA) is scheduled to be held on November 3.",
+        "hi": "भारतीय ओलंपिक संघ (आईओए) के एथलीट आयोग के 10 सदस्यों को चुनने के लिए चुनाव 3 नवंबर को होने वाला है।"
+      },
+      "category": "Sports",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.thehindu.com/sport/ioas-election-code-of-conduct-bars-criticism-of-private-life-of-candidates-publicity/article71650830.ece"
+    },
+    {
+      "id": "ca_20261101_05",
+      "question": {
+        "en": "In which state has a revolt surfaced with 25 MLAs seeking the ouster of ministers, concerning Chief Minister Omar Abdullah's aide?",
+        "hi": "किस राज्य में मुख्यमंत्री उमर अब्दुल्ला के सहयोगी को लेकर 25 विधायकों द्वारा मंत्रियों को हटाने की मांग के साथ विद्रोह सामने आया है?"
+      },
+      "options": [
+        {
+          "en": "Jammu & Kashmir",
+          "hi": "जम्मू एवं कश्मीर"
+        },
+        {
+          "en": "Punjab",
+          "hi": "पंजाब"
+        },
+        {
+          "en": "Haryana",
+          "hi": "हरयाणा"
+        },
+        {
+          "en": "Himachal Pradesh",
+          "hi": "हिमाचल प्रदेश"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "A revolt has emerged in the National Conference in Jammu & Kashmir as 25 MLAs seek the removal of ministers, presenting a challenge for CM Omar Abdullah.",
+        "hi": "जम्मू-कश्मीर में नेशनल कॉन्फ्रेंस में विद्रोह सामने आया है क्योंकि 25 विधायक मंत्रियों को हटाने की मांग कर रहे हैं, जो सीएम उमर अब्दुल्ला के लिए चुनौती है।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/nc-faces-revolt-as-25-mlas-seek-removal-of-ministers-omar-aide/articleshow/135409374.cms"
+    },
+    {
+      "id": "ca_20261101_06",
+      "question": {
+        "en": "By what percentage did Coal India's profit jump due to higher offtake and prices?",
+        "hi": "अधिक उठान और कीमतों के कारण कोल इंडिया का मुनाफा कितने प्रतिशत बढ़ गया?"
+      },
+      "options": [
+        {
+          "en": "35%",
+          "hi": "35%"
+        },
+        {
+          "en": "42%",
+          "hi": "42%"
+        },
+        {
+          "en": "57%",
+          "hi": "57%"
+        },
+        {
+          "en": "65%",
+          "hi": "65%"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Coal India's profit jumped 57% as higher offtake and prices outweighed increased costs. The cost of input materials also increased 20% during the quarter.",
+        "hi": "अधिक उठान और बढ़ी हुई लागत की तुलना में कीमतें अधिक होने से कोल इंडिया का मुनाफा 57% बढ़ गया।तिमाही के दौरान इनपुट सामग्री की लागत में भी 20% की वृद्धि हुई।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/business/Economy/coal-india-profit-jumps-57-as-higher-offtake-prices-weigh-over-costs/article71641279.ece"
+    },
+    {
+      "id": "ca_20261101_07",
+      "question": {
+        "en": "According to the Indian Oil Corporation (IOC), what is the projected under-recovery on LPG per cylinder in November?",
+        "hi": "इंडियन ऑयल कॉर्पोरेशन (IOC) के अनुसार, नवंबर में प्रति सिलेंडर एलपीजी पर अनुमानित अंडर-रिकवरी कितनी है?"
+      },
+      "options": [
+        {
+          "en": "₹250",
+          "hi": "₹250"
+        },
+        {
+          "en": "₹309",
+          "hi": "₹309"
+        },
+        {
+          "en": "₹350",
+          "hi": "₹350"
+        },
+        {
+          "en": "₹370",
+          "hi": "₹370"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Anuj Jain, Director (Finance) at Indian Oil, stated that under-recoveries on LPG are projected at ₹309/cylinder in November and ₹370/cylinder in December.",
+        "hi": "इंडियन ऑयल के निदेशक (वित्त) अनुज जैन ने कहा कि नवंबर में एलपीजी पर अंडर-रिकवरी ₹309/सिलेंडर और दिसंबर में ₹370/सिलेंडर होने का अनुमान है।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "hard",
+      "sourceUrl": "https://www.thehindu.com/business/Economy/crude-oil-prices-very-volatile-in-q2-carried-both-discounts-premium-at-varying-intervals-iocl-official/article71650317.ece"
+    },
+    {
+      "id": "ca_20261101_08",
+      "question": {
+        "en": "In the recent fortnightly review, to what amount per litre was the export levy on aviation turbine fuel (ATF) raised?",
+        "hi": "हाल ही में हुई पाक्षिक समीक्षा में विमानन टरबाइन ईंधन (एटीएफ) पर निर्यात शुल्क को प्रति लीटर कितनी राशि तक बढ़ाया गया?"
+      },
+      "options": [
+        {
+          "en": "₹8.5",
+          "hi": "₹8.5"
+        },
+        {
+          "en": "₹10.5",
+          "hi": "₹10.5"
+        },
+        {
+          "en": "₹11.0",
+          "hi": "₹11.0"
+        },
+        {
+          "en": "₹11.5",
+          "hi": "₹11.5"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The government raised the export levy on aviation turbine fuel (ATF) to ₹11 per litre from the previous ₹10.5 per litre in its recent fortnightly review.",
+        "hi": "सरकार ने अपनी हालिया पाक्षिक समीक्षा में विमानन टरबाइन ईंधन (एटीएफ) पर निर्यात शुल्क पिछले ₹10.5 प्रति लीटर से बढ़ाकर ₹11 प्रति लीटर कर दिया है।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/business/petrol-export-duty-cut-to-nil-diesel-levy-raised-by-3-a-litre/article71649004.ece"
+    },
+    {
+      "id": "ca_20261101_09",
+      "question": {
+        "en": "Which state recently witnessed a mass rally halting its capital following a gunfight resulting in casualties among Kuki-Zos?",
+        "hi": "हाल ही में किस राज्य में गोलीबारी के परिणामस्वरूप कुकी-ज़ोस के हताहत होने के बाद अपनी राजधानी को रोकने के लिए एक सामूहिक रैली देखी गई?"
+      },
+      "options": [
+        {
+          "en": "Nagaland",
+          "hi": "नगालैंड"
+        },
+        {
+          "en": "Manipur",
+          "hi": "मणिपुर"
+        },
+        {
+          "en": "Mizoram",
+          "hi": "मिजोरम"
+        },
+        {
+          "en": "Assam",
+          "hi": "असम"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Manipur's capital, Imphal, came to a halt due to a mass rally after three Kuki-Zos were killed in a gunfight, highlighting ongoing tensions in the region.",
+        "hi": "गोलीबारी में तीन कुकी-जोस के मारे जाने के बाद मणिपुर की राजधानी इम्फाल एक सामूहिक रैली के कारण बंद हो गई, जिससे क्षेत्र में जारी तनाव उजागर हुआ।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/guwahati/3-kuki-zos-killed-in-manipur-gunfight-with-nagas-mass-rally-halts-imphal/articleshow/135408794.cms"
+    },
+    {
+      "id": "ca_20261101_10",
+      "question": {
+        "en": "Which article of the Indian Constitution grants the Election Commission of India the power of superintendence, direction, and control of elections, which relates to the ECINET system?",
+        "hi": "भारतीय संविधान का कौन सा अनुच्छेद भारत के चुनाव आयोग को चुनावों के अधीक्षण, निर्देशन और नियंत्रण की शक्ति प्रदान करता है, जो ECINET प्रणाली से संबंधित है?"
+      },
+      "options": [
+        {
+          "en": "Article 324",
+          "hi": "अनुच्छेद 324"
+        },
+        {
+          "en": "Article 326",
+          "hi": "अनुच्छेद 326"
+        },
+        {
+          "en": "Article 330",
+          "hi": "अनुच्छेद 330"
+        },
+        {
+          "en": "Article 356",
+          "hi": "अनुच्छेद 356"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "Article 324 of the Indian Constitution vests the power of superintendence, direction, and control of elections in an Election Commission. The recent UP ECINET shutdown by the CEO aimed to protect this electoral integrity.",
+        "hi": "भारतीय संविधान का अनुच्छेद 324 चुनाव आयोग को चुनावों के अधीक्षण, निर्देशन और नियंत्रण की शक्ति प्रदान करता है।सीईओ द्वारा हाल ही में यूपी ECINET को बंद करने का उद्देश्य इस चुनावी अखंडता की रक्षा करना था।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/lucknow/pilibhit-voter-roll-row-up-ceo-orders-statewide-ecinet-login-shutdown/articleshow/135398877.cms"
+    }
+  ]
+}
