@@ -1,13 +1,13 @@
 {
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "topic": "SSC CGL Daily Current Affairs",
   "source": "PIB / The Hindu / Economic Times / Indian Express / GKToday",
-  "lastUpdated": "2026-11-03T05:25:27+05:30",
+  "lastUpdated": "2026-11-04T06:30:00+05:30",
   "version": 1,
   "totalQuestions": 10,
   "quiz": [
     {
-      "id": "ca_20261103_01",
+      "id": "ca_20261104_01",
       "question": {
         "en": "Recently, the Supreme Court of India ruled that which of the following is not a valid ground for termination of pregnancy?",
         "hi": "हाल ही में, भारत के सर्वोच्च न्यायालय ने फैसला सुनाया कि निम्नलिखित में से कौन सा गर्भावस्था को समाप्त करने का वैध आधार नहीं है?"
@@ -40,7 +40,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/india/marital-discord-no-ground-for-termination-of-pregnancy-sc/articleshow/135477214.cms"
     },
     {
-      "id": "ca_20261103_02",
+      "id": "ca_20261104_02",
       "question": {
         "en": "According to the Prime Minister, investments in which sector helped India cushion the economic blow from the recent Iran war tensions?",
         "hi": "प्रधान मंत्री के अनुसार, किस क्षेत्र में निवेश ने भारत को हाल के ईरान युद्ध के तनावों से आर्थिक झटके को कम करने में मदद की?"
@@ -73,7 +73,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/india/investment-in-renewable-energy-cushioned-iran-war-blow-pm-modi/articleshow/135477177.cms"
     },
     {
-      "id": "ca_20261103_03",
+      "id": "ca_20261104_03",
       "question": {
         "en": "The Central Reserve Police Force (CRPF) achieved a historic milestone of zero operational fatalities in an entire year. This was achieved for the first time in how many years?",
         "hi": "केंद्रीय रिजर्व पुलिस बल (सीआरपीएफ) ने पूरे एक साल में शून्य परिचालन मौतों का ऐतिहासिक मील का पत्थर हासिल किया। कितने वर्षों में पहली बार यह उपलब्धि हासिल की गई है?"
@@ -106,7 +106,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/india/first-in-47-years-no-operational-fatality-in-crpf-in-an-entire-year/articleshow/135477115.cms"
     },
     {
-      "id": "ca_20261103_04",
+      "id": "ca_20261104_04",
       "question": {
         "en": "According to a recent report by SBI Research, the Centre's fiscal deficit for FY27 may exceed the Budget target by how much amount?",
         "hi": "एसबीआई रिसर्च की हालिया रिपोर्ट के अनुसार, वित्त वर्ष 2027 के लिए केंद्र का राजकोषीय घाटा बजट लक्ष्य से कितनी राशि से अधिक हो सकता है?"
@@ -139,7 +139,7 @@
       "sourceUrl": "https://economictimes.indiatimes.com/news/economy/policy/centres-fy27-fiscal-deficit-may-exceed-budget-target-by-rs-1-2-lakh-crore-sbi-research/articleshow/135468858.cms"
     },
     {
-      "id": "ca_20261103_05",
+      "id": "ca_20261104_05",
       "question": {
         "en": "The Defence Ministry recently inked contracts worth Rs 53,886 crore with GRSE & GSL for how many Next Generation Corvettes for the Indian Navy?",
         "hi": "रक्षा मंत्रालय ने हाल ही में भारतीय नौसेना के लिए कितने नेक्स्ट जेनरेशन कार्वेट (NGC) के लिए GRSE और GSL के साथ 53,886 करोड़ रुपये के अनुबंध पर हस्ताक्षर किए हैं?"
@@ -172,7 +172,7 @@
       "sourceUrl": "https://economictimes.indiatimes.com/news/defence/rs-53886-crore-deals-inked-for-new-indigenous-warships/articleshow/135471438.cms"
     },
     {
-      "id": "ca_20261103_06",
+      "id": "ca_20261104_06",
       "question": {
         "en": "Taking serious note of soaring airfares during festive seasons, which judicial body recently remarked, \"Air fares up by 700%: Don't fly\"?",
         "hi": "त्योहारी सीजन के दौरान बढ़ते हवाई किराए पर गंभीरता से ध्यान देते हुए, हाल ही में किस न्यायिक निकाय ने टिप्पणी की, \"हवाई किराए में 700% की वृद्धि: उड़ान न भरें\"?"
@@ -205,7 +205,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/india/air-fares-up-by-700-dont-fly-says-sc/articleshow/135474649.cms"
     },
     {
-      "id": "ca_20261103_07",
+      "id": "ca_20261104_07",
       "question": {
         "en": "What time slots did the Supreme Court allocate for bursting 'green' firecrackers during Diwali?",
         "hi": "सर्वोच्च न्यायालय ने दिवाली के दौरान 'हरे' पटाखे फोड़ने के लिए कौन सा समय आवंटित किया है?"
@@ -238,7 +238,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/india/sc-on-diwali-crackers-on-nov-7-8-in-2-time-slots-and-keep-it-green/articleshow/135474420.cms"
     },
     {
-      "id": "ca_20261103_08",
+      "id": "ca_20261104_08",
       "question": {
         "en": "According to a recent report, what was the trend of manufacturing activity in October as new order growth dropped?",
         "hi": "एक हालिया रिपोर्ट के अनुसार, नए ऑर्डर की वृद्धि दर में गिरावट के कारण अक्टूबर में विनिर्माण गतिविधि की प्रवृत्ति क्या थी?"
@@ -271,7 +271,7 @@
       "sourceUrl": "https://economictimes.indiatimes.com/news/economy/indicators/manufacturing-activity-eases-in-oct-as-new-order-growth-drops/articleshow/135473150.cms"
     },
     {
-      "id": "ca_20261103_09",
+      "id": "ca_20261104_09",
       "question": {
         "en": "Which premier Indian institute has recently developed a 3D-printed model to study how cancer drugs penetrate tumours?",
         "hi": "किस प्रमुख भारतीय संस्थान ने हाल ही में यह अध्ययन करने के लिए एक 3D-मुद्रित मॉडल विकसित किया है कि कैंसर की दवाएं ट्यूमर में कैसे प्रवेश करती हैं?"
@@ -304,7 +304,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/india/iisc-develops-3d-printed-model-to-study-how-cancer-drugs-penetrate-tumours/articleshow/135470065.cms"
     },
     {
-      "id": "ca_20261103_10",
+      "id": "ca_20261104_10",
       "question": {
         "en": "Cyclone Murasu recently made landfall near Ongole. Ongole is located in which Indian state?",
         "hi": "चक्रवात मुरासु ने हाल ही में ओंगोल के पास लैंडफॉल किया। ओंगोल किस भारतीय राज्य में स्थित है?"
