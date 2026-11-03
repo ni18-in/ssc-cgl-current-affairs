@@ -1,326 +1,293 @@
 {
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "topic": "SSC CGL Daily Current Affairs",
-  "source": "PIB / The Hindu / Economic Times / Indian Express / GKToday",
-  "lastUpdated": "2026-11-03T05:25:27+05:30",
+  "source": "The Hindu / Indian Express / Times of India / PIB",
+  "lastUpdated": "2026-11-04T06:00:00+05:30",
   "version": 1,
   "totalQuestions": 10,
   "quiz": [
     {
-      "id": "ca_20261103_01",
+      "id": "ca_20261104_01",
       "question": {
-        "en": "Recently, the Supreme Court of India ruled that which of the following is not a valid ground for termination of pregnancy?",
-        "hi": "हाल ही में, भारत के सर्वोच्च न्यायालय ने फैसला सुनाया कि निम्नलिखित में से कौन सा गर्भावस्था को समाप्त करने का वैध आधार नहीं है?"
+        "en": "Who recently created history by winning India's first-ever Wushu medal at the Dakar 2026 Youth Olympic Games?",
+        "hi": "हाल ही में डकार 2026 युवा ओलंपिक खेलों में भारत का पहला वुशु पदक जीतकर किसने इतिहास रचा?"
       },
       "options": [
         {
-          "en": "Rape or sexual assault",
-          "hi": "बलात्कार या यौन उत्पीड़न"
+          "en": "Dhinidhi Desinghu",
+          "hi": "धिनिधि देसिंघू"
         },
         {
-          "en": "Marital discord",
-          "hi": "वैवाहिक विवाद"
+          "en": "Rajkumari Lanchenbi Chanu",
+          "hi": "राजकुमारी लंचेनबी चानू"
         },
         {
-          "en": "Fetal abnormalities",
-          "hi": "भ्रूण की असामान्यताएं"
+          "en": "Vaishnavi Sharma",
+          "hi": "वैष्णवी शर्मा"
         },
         {
-          "en": "Danger to the life of the mother",
-          "hi": "मां के जीवन को खतरा"
+          "en": "Pratika Rawal",
+          "hi": "प्रतिका रावल"
         }
       ],
       "correctAnswer": 1,
       "explanation": {
-        "en": "The Supreme Court of India has ruled that marital discord is no ground for the termination of pregnancy under the Medical Termination of Pregnancy (MTP) Act, 1971. The bench emphasized that the scope of the Act does not cover marital disputes unless there is a grave threat to the physical or mental health of the pregnant woman.",
-        "hi": "भारत के सर्वोच्च न्यायालय ने फैसला सुनाया है कि मेडिकल टर्मिनेशन ऑफ प्रेग्नेंसी (एमटीपी) अधिनियम, 1971 के तहत वैवाहिक विवाद गर्भावस्था को समाप्त करने का आधार नहीं है। पीठ ने इस बात पर जोर दिया कि अधिनियम के दायरे में वैवाहिक विवाद तब तक शामिल नहीं हैं जब तक कि गर्भवती महिला के शारीरिक या मानसिक स्वास्थ्य के लिए गंभीर खतरा न हो।"
+        "en": "Rajkumari Lanchenbi Chanu won bronze in the women's Changquan combined event with 18.039 points at the Dakar 2026 Youth Olympic Games. This marks India's first-ever Wushu medal at the Youth Olympics.",
+        "hi": "राजकुमारी लंचेनबी चानू ने डकार 2026 युवा ओलंपिक खेलों में 18.039 अंकों के साथ महिलाओं की चांगक्वान संयुक्त स्पर्धा में कांस्य पदक जीता। यह युवा ओलंपिक में भारत का पहला वुशु पदक है।"
       },
-      "category": "Polity & Governance",
+      "category": "Sports",
       "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/marital-discord-no-ground-for-termination-of-pregnancy-sc/articleshow/135477214.cms"
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/news/rajkumari-chanu-scripts-history-with-maiden-wushu-bronze-at-youth-olympics-games/articleshow/135504271.cms"
     },
     {
-      "id": "ca_20261103_02",
+      "id": "ca_20261104_02",
       "question": {
-        "en": "According to the Prime Minister, investments in which sector helped India cushion the economic blow from the recent Iran war tensions?",
-        "hi": "प्रधान मंत्री के अनुसार, किस क्षेत्र में निवेश ने भारत को हाल के ईरान युद्ध के तनावों से आर्थिक झटके को कम करने में मदद की?"
+        "en": "Who recently became the first Indian swimmer to win a medal (bronze in the women's 100m freestyle) at the Youth Olympics?",
+        "hi": "हाल ही में युवा ओलंपिक में पदक (महिलाओं की 100 मीटर फ्रीस्टाइल में कांस्य) जीतने वाली पहली भारतीय तैराक कौन बनीं?"
       },
       "options": [
         {
-          "en": "Information Technology",
-          "hi": "सूचना प्रौद्योगिकी"
+          "en": "Srihari Nataraj",
+          "hi": "श्रीहरि नटराज"
         },
         {
-          "en": "Pharmaceuticals",
-          "hi": "फार्मास्यूटिकल्स"
+          "en": "Maana Patel",
+          "hi": "माना पटेल"
         },
         {
-          "en": "Renewable Energy",
-          "hi": "नवीकरणीय ऊर्जा"
+          "en": "Dhinidhi Desinghu",
+          "hi": "धिनिधि देसिंघू"
         },
         {
-          "en": "Space Exploration",
-          "hi": "अंतरिक्ष अन्वेषण"
+          "en": "Kenisha Gupta",
+          "hi": "केनिषा गुप्ता"
         }
       ],
       "correctAnswer": 2,
       "explanation": {
-        "en": "PM Modi highlighted that India's substantial investment in renewable energy has significantly cushioned the economic blow and mitigated risks arising from geopolitical tensions, including the Iran war, by reducing dependence on imported fossil fuels and stabilizing energy prices.",
-        "hi": "पीएम मोदी ने इस बात पर प्रकाश डाला कि नवीकरणीय ऊर्जा में भारत के पर्याप्त निवेश ने आर्थिक झटके को काफी कम कर दिया है और आयातित जीवाश्म ईंधन पर निर्भरता कम करके और ऊर्जा की कीमतों को स्थिर करके ईरान युद्ध सहित भू-राजनीतिक तनावों से उत्पन्न जोखिमों को कम कर दिया है।"
+        "en": "Dhinidhi Desinghu made history by clinching a bronze medal in the women's 100m freestyle at the Youth Olympics. She is the first Indian swimmer to achieve this feat.",
+        "hi": "धिनिधि देसिंघू ने युवा ओलंपिक में महिलाओं की 100 मीटर फ्रीस्टाइल में कांस्य पदक जीतकर इतिहास रच दिया। वह यह उपलब्धि हासिल करने वाली पहली भारतीय तैराक हैं।"
+      },
+      "category": "Sports",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/news/i-was-disappointed-why-dhinidhi-isnt-celebrating-her-historic-youth-oly-medal/articleshow/135504272.cms"
+    },
+    {
+      "id": "ca_20261104_03",
+      "question": {
+        "en": "Which public sector bank reported a 14 percent increase in net profit to Rs 23,038 crore for the July-September quarter of the current fiscal year?",
+        "hi": "चालू वित्त वर्ष की जुलाई-सितंबर तिमाही के लिए किस सार्वजनिक क्षेत्र के बैंक ने शुद्ध लाभ में 14 प्रतिशत की वृद्धि के साथ 23,038 करोड़ रुपये दर्ज किए?"
+      },
+      "options": [
+        {
+          "en": "Punjab National Bank",
+          "hi": "पंजाब नेशनल बैंक"
+        },
+        {
+          "en": "Bank of Baroda",
+          "hi": "बैंक ऑफ बड़ौदा"
+        },
+        {
+          "en": "State Bank of India",
+          "hi": "भारतीय स्टेट बैंक"
+        },
+        {
+          "en": "Canara Bank",
+          "hi": "केनरा बैंक"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "State Bank of India (SBI) reported a 14% year-on-year increase in net profit to Rs 23,038 crore for the July-September quarter. SBI is India's largest public sector bank.",
+        "hi": "भारतीय स्टेट बैंक (SBI) ने जुलाई-सितंबर तिमाही के लिए शुद्ध लाभ में 14% की वृद्धि (साल-दर-साल) के साथ 23,038 करोड़ रुपये दर्ज किए। SBI भारत का सबसे बड़ा सार्वजनिक क्षेत्र का बैंक है।"
       },
       "category": "Economy & Banking",
       "difficulty": "easy",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/investment-in-renewable-energy-cushioned-iran-war-blow-pm-modi/articleshow/135477177.cms"
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/sbi-q2-results-net-profit-rises-14-to-rs-23038-crore/articleshow/135491063.cms"
     },
     {
-      "id": "ca_20261103_03",
+      "id": "ca_20261104_04",
       "question": {
-        "en": "The Central Reserve Police Force (CRPF) achieved a historic milestone of zero operational fatalities in an entire year. This was achieved for the first time in how many years?",
-        "hi": "केंद्रीय रिजर्व पुलिस बल (सीआरपीएफ) ने पूरे एक साल में शून्य परिचालन मौतों का ऐतिहासिक मील का पत्थर हासिल किया। कितने वर्षों में पहली बार यह उपलब्धि हासिल की गई है?"
+        "en": "In which sport did India’s men's team recently win a gold medal and the women's trio win a silver at the World Championships?",
+        "hi": "हाल ही में विश्व चैंपियनशिप में भारत की पुरुष टीम ने स्वर्ण पदक और महिला तिकड़ी ने रजत पदक किस खेल में जीता?"
       },
       "options": [
         {
-          "en": "25 years",
-          "hi": "25 वर्ष"
+          "en": "Archery",
+          "hi": "तीरंदाजी"
         },
         {
-          "en": "33 years",
-          "hi": "33 वर्ष"
+          "en": "Wrestling",
+          "hi": "कुश्ती"
         },
         {
-          "en": "47 years",
-          "hi": "47 वर्ष"
+          "en": "Shooting (ISSF)",
+          "hi": "निशानेबाजी (ISSF)"
         },
         {
-          "en": "50 years",
-          "hi": "50 वर्ष"
+          "en": "Boxing",
+          "hi": "मुक्केबाज़ी"
         }
       ],
       "correctAnswer": 2,
       "explanation": {
-        "en": "For the first time in 47 years, the Central Reserve Police Force (CRPF), India's largest central armed police force, has recorded zero operational fatalities in a year. The CRPF plays a critical role in maintaining internal security, including anti-Naxal operations and counter-insurgency.",
-        "hi": "47 वर्षों में पहली बार, भारत के सबसे बड़े केंद्रीय सशस्त्र पुलिस बल, केंद्रीय रिजर्व पुलिस बल (सीआरपीएफ) ने एक वर्ष में शून्य परिचालन मौतों को दर्ज किया है। सीआरपीएफ आंतरिक सुरक्षा बनाए रखने में महत्वपूर्ण भूमिका निभाता है, जिसमें नक्सल विरोधी अभियान और उग्रवाद विरोधी अभियान शामिल हैं।"
+        "en": "At the ISSF World Championships, India’s men’s pistol team secured the gold medal, while the women’s rifle trio won a silver. The ISSF is the governing body for international shooting sports.",
+        "hi": "ISSF विश्व चैंपियनशिप में, भारत की पुरुष पिस्टल टीम ने स्वर्ण पदक हासिल किया, जबकि महिला राइफल तिकड़ी ने रजत पदक जीता। ISSF अंतरराष्ट्रीय निशानेबाजी खेल का शासी निकाय है।"
       },
-      "category": "Defence & Security",
-      "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/first-in-47-years-no-operational-fatality-in-crpf-in-an-entire-year/articleshow/135477115.cms"
+      "category": "Sports",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/more-sports/shooting/issf-world-cships-indias-men-win-pistol-team-gold-womens-rifle-trio-bags-silver/articleshow/135515001.cms"
     },
     {
-      "id": "ca_20261103_04",
+      "id": "ca_20261104_05",
       "question": {
-        "en": "According to a recent report by SBI Research, the Centre's fiscal deficit for FY27 may exceed the Budget target by how much amount?",
-        "hi": "एसबीआई रिसर्च की हालिया रिपोर्ट के अनुसार, वित्त वर्ष 2027 के लिए केंद्र का राजकोषीय घाटा बजट लक्ष्य से कितनी राशि से अधिक हो सकता है?"
+        "en": "According to recent climate reports, breaching which global warming threshold could inflict irreversible damage on glaciers and ice sheets?",
+        "hi": "हालिया जलवायु रिपोर्टों के अनुसार, किस ग्लोबल वार्मिंग सीमा को पार करने से ग्लेशियरों और बर्फ की चादरों को अपूरणीय क्षति हो सकती है?"
       },
       "options": [
         {
-          "en": "Rs 1.2 lakh crore",
-          "hi": "1.2 लाख करोड़ रुपये"
+          "en": "1.0°C",
+          "hi": "1.0°C"
         },
         {
-          "en": "Rs 1.5 lakh crore",
-          "hi": "1.5 लाख करोड़ रुपये"
+          "en": "1.5°C",
+          "hi": "1.5°C"
         },
         {
-          "en": "Rs 2.0 lakh crore",
-          "hi": "2.0 लाख करोड़ रुपये"
+          "en": "2.0°C",
+          "hi": "2.0°C"
         },
         {
-          "en": "Rs 50,000 crore",
-          "hi": "50,000 करोड़ रुपये"
+          "en": "3.0°C",
+          "hi": "3.0°C"
         }
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 1,
       "explanation": {
-        "en": "A report by SBI Research indicates that the Centre's fiscal deficit for FY27 may exceed the budget target by Rs 1.2 lakh crore due to various economic factors. The fiscal deficit indicates the total borrowing requirements of the government from all sources.",
-        "hi": "एसबीआई रिसर्च की एक रिपोर्ट से संकेत मिलता है कि विभिन्न आर्थिक कारकों के कारण वित्त वर्ष 2027 के लिए केंद्र का राजकोषीय घाटा बजट लक्ष्य से 1.2 लाख करोड़ रुपये से अधिक हो सकता है। राजकोषीय घाटा सभी स्रोतों से सरकार की कुल उधार आवश्यकताओं को इंगित करता है।"
+        "en": "A new scientific report warns that breaching the 1.5°C global warming threshold (compared to pre-industrial levels) could cause irreversible damage to glaciers and ice sheets, accelerating sea-level rise.",
+        "hi": "एक नई वैज्ञानिक रिपोर्ट चेतावनी देती है कि 1.5°C ग्लोबल वार्मिंग सीमा (पूर्व-औद्योगिक स्तरों की तुलना में) को पार करने से ग्लेशियरों और बर्फ की चादरों को अपूरणीय क्षति हो सकती है, जिससे समुद्र के स्तर में वृद्धि तेज हो सकती है।"
       },
-      "category": "Economy & Banking",
-      "difficulty": "hard",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/policy/centres-fy27-fiscal-deficit-may-exceed-budget-target-by-rs-1-2-lakh-crore-sbi-research/articleshow/135468858.cms"
-    },
-    {
-      "id": "ca_20261103_05",
-      "question": {
-        "en": "The Defence Ministry recently inked contracts worth Rs 53,886 crore with GRSE & GSL for how many Next Generation Corvettes for the Indian Navy?",
-        "hi": "रक्षा मंत्रालय ने हाल ही में भारतीय नौसेना के लिए कितने नेक्स्ट जेनरेशन कार्वेट (NGC) के लिए GRSE और GSL के साथ 53,886 करोड़ रुपये के अनुबंध पर हस्ताक्षर किए हैं?"
-      },
-      "options": [
-        {
-          "en": "4",
-          "hi": "4"
-        },
-        {
-          "en": "6",
-          "hi": "6"
-        },
-        {
-          "en": "8",
-          "hi": "8"
-        },
-        {
-          "en": "10",
-          "hi": "10"
-        }
-      ],
-      "correctAnswer": 2,
-      "explanation": {
-        "en": "The Indian Government has signed contracts worth Rs 53,886 crore with Garden Reach Shipbuilders & Engineers (GRSE) and Goa Shipyard Limited (GSL) for the construction of 8 Next Generation Corvettes (NGC) for the Indian Navy. This aims to boost self-reliance in defence manufacturing.",
-        "hi": "भारत सरकार ने भारतीय नौसेना के लिए 8 नेक्स्ट जेनरेशन कार्वेट (NGC) के निर्माण के लिए गार्डन रीच शिपबिल्डर्स एंड इंजीनियर्स (GRSE) और गोवा शिपयार्ड लिमिटेड (GSL) के साथ 53,886 करोड़ रुपये के अनुबंध पर हस्ताक्षर किए हैं। इसका उद्देश्य रक्षा निर्माण में आत्मनिर्भरता को बढ़ावा देना है।"
-      },
-      "category": "Defence & Security",
+      "category": "Environment & Ecology",
       "difficulty": "medium",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/defence/rs-53886-crore-deals-inked-for-new-indigenous-warships/articleshow/135471438.cms"
+      "sourceUrl": "https://timesofindia.indiatimes.com/home/environment/1-5c-warming-breach-could-cause-irreversible-damage-to-glaciers-ice-sheets-report/articleshow/135514002.cms"
     },
     {
-      "id": "ca_20261103_06",
+      "id": "ca_20261104_06",
       "question": {
-        "en": "Taking serious note of soaring airfares during festive seasons, which judicial body recently remarked, \"Air fares up by 700%: Don't fly\"?",
-        "hi": "त्योहारी सीजन के दौरान बढ़ते हवाई किराए पर गंभीरता से ध्यान देते हुए, हाल ही में किस न्यायिक निकाय ने टिप्पणी की, \"हवाई किराए में 700% की वृद्धि: उड़ान न भरें\"?"
+        "en": "Which court recently ruled that judges should not face strictures or harsh criticism for mere typographical errors in their judgments?",
+        "hi": "हाल ही में किस अदालत ने फैसला सुनाया कि न्यायाधीशों को उनके फैसलों में केवल टाइपोग्राफ़िकल त्रुटियों के लिए प्रतिबंधों या कठोर आलोचना का सामना नहीं करना चाहिए?"
       },
       "options": [
         {
-          "en": "National Green Tribunal (NGT)",
-          "hi": "राष्ट्रीय हरित अधिकरण (NGT)"
+          "en": "Delhi High Court",
+          "hi": "दिल्ली उच्च न्यायालय"
+        },
+        {
+          "en": "Rajasthan High Court",
+          "hi": "राजस्थान उच्च न्यायालय"
         },
         {
           "en": "Supreme Court of India",
           "hi": "भारत का सर्वोच्च न्यायालय"
         },
         {
-          "en": "Delhi High Court",
-          "hi": "दिल्ली उच्च न्यायालय"
-        },
-        {
-          "en": "Competition Commission of India (CCI)",
-          "hi": "भारतीय प्रतिस्पर्धा आयोग (CCI)"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "The Supreme Court of India expressed strong concern over the exponential rise in airfares, noting that fares have gone up by 700%. The remark was made while hearing matters related to the regulation of air ticket prices during peak seasons to protect consumer interests.",
-        "hi": "भारत के सर्वोच्च न्यायालय ने हवाई किराए में घातांकीय वृद्धि पर कड़ी चिंता व्यक्त की, यह देखते हुए कि किराए में 700% की वृद्धि हुई है। उपभोक्ता हितों की रक्षा के लिए पीक सीजन के दौरान हवाई टिकट की कीमतों के नियमन से संबंधित मामलों की सुनवाई के दौरान यह टिप्पणी की गई।"
-      },
-      "category": "Polity & Governance",
-      "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/air-fares-up-by-700-dont-fly-says-sc/articleshow/135474649.cms"
-    },
-    {
-      "id": "ca_20261103_07",
-      "question": {
-        "en": "What time slots did the Supreme Court allocate for bursting 'green' firecrackers during Diwali?",
-        "hi": "सर्वोच्च न्यायालय ने दिवाली के दौरान 'हरे' पटाखे फोड़ने के लिए कौन सा समय आवंटित किया है?"
-      },
-      "options": [
-        {
-          "en": "Only 1 time slot of 2 hours",
-          "hi": "केवल 2 घंटे का 1 टाइम स्लॉट"
-        },
-        {
-          "en": "2 time slots",
-          "hi": "2 टाइम स्लॉट"
-        },
-        {
-          "en": "3 time slots",
-          "hi": "3 टाइम स्लॉट"
-        },
-        {
-          "en": "No specific time limit",
-          "hi": "कोई विशिष्ट समय सीमा नहीं"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "The Supreme Court of India allowed the bursting of only 'green crackers' (which have lower emissions) on Diwali, specifically on Nov 7-8 in 2 designated time slots. This is to balance festive celebrations with the critical need to curb severe air pollution in the country.",
-        "hi": "भारत के सर्वोच्च न्यायालय ने दिवाली पर केवल 'ग्रीन क्रैकर्स' (जिनका उत्सर्जन कम होता है) फोड़ने की अनुमति दी, विशेष रूप से 7-8 नवंबर को 2 निर्दिष्ट समय स्लॉट में। यह उत्सव समारोहों और देश में गंभीर वायु प्रदूषण को रोकने की महत्वपूर्ण आवश्यकता को संतुलित करने के लिए है।"
-      },
-      "category": "Environment & Ecology",
-      "difficulty": "easy",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/sc-on-diwali-crackers-on-nov-7-8-in-2-time-slots-and-keep-it-green/articleshow/135474420.cms"
-    },
-    {
-      "id": "ca_20261103_08",
-      "question": {
-        "en": "According to a recent report, what was the trend of manufacturing activity in October as new order growth dropped?",
-        "hi": "एक हालिया रिपोर्ट के अनुसार, नए ऑर्डर की वृद्धि दर में गिरावट के कारण अक्टूबर में विनिर्माण गतिविधि की प्रवृत्ति क्या थी?"
-      },
-      "options": [
-        {
-          "en": "Eased/Slowed down",
-          "hi": "कम/धीमी हुई"
-        },
-        {
-          "en": "Expanded sharply",
-          "hi": "तेजी से विस्तार हुआ"
-        },
-        {
-          "en": "Remained unchanged",
-          "hi": "अपरिवर्तित रही"
-        },
-        {
-          "en": "Hit a 5-year high",
-          "hi": "5 साल के उच्चतम स्तर पर पहुंच गई"
-        }
-      ],
-      "correctAnswer": 0,
-      "explanation": {
-        "en": "Manufacturing activity in India eased in October as the growth of new orders dropped. The Purchasing Managers' Index (PMI) is a key indicator used to gauge the economic health of the manufacturing sector. A PMI above 50 represents expansion, while under 50 indicates contraction.",
-        "hi": "भारत में विनिर्माण गतिविधि अक्टूबर में धीमी हो गई क्योंकि नए ऑर्डर की वृद्धि गिर गई। क्रय प्रबंधक सूचकांक (पीएमआई) विनिर्माण क्षेत्र के आर्थिक स्वास्थ्य को मापने के लिए इस्तेमाल किया जाने वाला एक प्रमुख संकेतक है। 50 से ऊपर का पीएमआई विस्तार को दर्शाता है, जबकि 50 से कम संकुचन को दर्शाता है।"
-      },
-      "category": "Economy & Banking",
-      "difficulty": "hard",
-      "sourceUrl": "https://economictimes.indiatimes.com/news/economy/indicators/manufacturing-activity-eases-in-oct-as-new-order-growth-drops/articleshow/135473150.cms"
-    },
-    {
-      "id": "ca_20261103_09",
-      "question": {
-        "en": "Which premier Indian institute has recently developed a 3D-printed model to study how cancer drugs penetrate tumours?",
-        "hi": "किस प्रमुख भारतीय संस्थान ने हाल ही में यह अध्ययन करने के लिए एक 3D-मुद्रित मॉडल विकसित किया है कि कैंसर की दवाएं ट्यूमर में कैसे प्रवेश करती हैं?"
-      },
-      "options": [
-        {
-          "en": "IIT Delhi",
-          "hi": "आईआईटी दिल्ली"
-        },
-        {
-          "en": "AIIMS New Delhi",
-          "hi": "एम्स नई दिल्ली"
-        },
-        {
-          "en": "IISc Bengaluru",
-          "hi": "आईआईएससी बेंगलुरु"
-        },
-        {
-          "en": "Tata Memorial Hospital, Mumbai",
-          "hi": "टाटा मेमोरियल अस्पताल, मुंबई"
+          "en": "Allahabad High Court",
+          "hi": "इलाहाबाद उच्च न्यायालय"
         }
       ],
       "correctAnswer": 2,
       "explanation": {
-        "en": "Researchers at the Indian Institute of Science (IISc) Bengaluru have developed a novel 3D-printed tumour model to better understand and study how cancer drugs penetrate tumour cells. This advancement could lead to more effective targeted therapies and personalized medicine for cancer patients.",
-        "hi": "भारतीय विज्ञान संस्थान (IISc) बेंगलुरु के शोधकर्ताओं ने एक नया 3D-मुद्रित ट्यूमर मॉडल विकसित किया है ताकि यह बेहतर ढंग से समझा जा सके कि कैंसर की दवाएं ट्यूमर कोशिकाओं में कैसे प्रवेश करती हैं। इस प्रगति से कैंसर के रोगियों के लिए अधिक प्रभावी लक्षित उपचार और व्यक्तिगत चिकित्सा हो सकती है।"
+        "en": "The Supreme Court of India intervened against remarks made by the Rajasthan High Court, ruling that trial judges should not face strictures for minor typographical errors in a judgment that do not alter the outcome of the case.",
+        "hi": "भारत के सर्वोच्च न्यायालय ने राजस्थान उच्च न्यायालय द्वारा की गई टिप्पणियों के खिलाफ हस्तक्षेप किया, यह फैसला सुनाते हुए कि निचली अदालतों के न्यायाधीशों को किसी फैसले में मामूली टाइपोग्राफ़िकल त्रुटियों के लिए प्रतिबंधों का सामना नहीं करना चाहिए जो मामले के परिणाम को नहीं बदलते हैं।"
       },
-      "category": "Science & Technology",
+      "category": "Polity & Governance",
       "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/iisc-develops-3d-printed-model-to-study-how-cancer-drugs-penetrate-tumours/articleshow/135470065.cms"
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/judge-neednt-face-strictures-for-typos-in-judgement-sc/articleshow/135513583.cms"
     },
     {
-      "id": "ca_20261103_10",
+      "id": "ca_20261104_07",
       "question": {
-        "en": "Cyclone Murasu recently made landfall near Ongole. Ongole is located in which Indian state?",
-        "hi": "चक्रवात मुरासु ने हाल ही में ओंगोल के पास लैंडफॉल किया। ओंगोल किस भारतीय राज्य में स्थित है?"
+        "en": "The King of which neighboring country recently dedicated a sacred stupa in honour of Prime Minister Narendra Modi to strengthen cultural ties?",
+        "hi": "हाल ही में किस पड़ोसी देश के राजा ने सांस्कृतिक संबंधों को मजबूत करने के लिए प्रधान मंत्री नरेंद्र मोदी के सम्मान में एक पवित्र स्तूप समर्पित किया?"
       },
       "options": [
         {
-          "en": "Tamil Nadu",
-          "hi": "तमिलनाडु"
+          "en": "Nepal",
+          "hi": "नेपाल"
         },
         {
-          "en": "Odisha",
-          "hi": "ओडिशा"
+          "en": "Sri Lanka",
+          "hi": "श्रीलंका"
         },
         {
-          "en": "Andhra Pradesh",
-          "hi": "आंध्र प्रदेश"
+          "en": "Myanmar",
+          "hi": "म्यांमार"
+        },
+        {
+          "en": "Bhutan",
+          "hi": "भूटान"
+        }
+      ],
+      "correctAnswer": 3,
+      "explanation": {
+        "en": "Bhutan's King Jigme Khesar Namgyel Wangchuck dedicated a sacred stupa in honour of PM Narendra Modi. This gesture aims to strengthen the enduring friendship, Buddhist identity, and cultural ties between India and Bhutan.",
+        "hi": "भूटान के राजा जिग्मे खेसर नामग्याल वांगचुक ने पीएम नरेंद्र मोदी के सम्मान में एक पवित्र स्तूप समर्पित किया। इस इशारे का उद्देश्य भारत और भूटान के बीच स्थायी मित्रता, बौद्ध पहचान और सांस्कृतिक संबंधों को मजबूत करना है।"
+      },
+      "category": "International Summits",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/deeply-touched-pm-modi-thanks-bhutan-king-for-dedicating-sacred-stupa-in-his-honour/articleshow/135509436.cms"
+    },
+    {
+      "id": "ca_20261104_08",
+      "question": {
+        "en": "Which nodal agency is spearheading the government's effort to raise Rs 15,000 crore through the monetization of surplus land assets held by PSUs?",
+        "hi": "सार्वजनिक क्षेत्र के उपक्रमों (PSU) के पास मौजूद अधिशेष भूमि संपत्तियों के मुद्रीकरण के माध्यम से 15,000 करोड़ रुपये जुटाने के सरकार के प्रयास का नेतृत्व कौन सी नोडल एजेंसी कर रही है?"
+      },
+      "options": [
+        {
+          "en": "NITI Aayog",
+          "hi": "नीति आयोग"
+        },
+        {
+          "en": "National Land Monetization Corporation (NLMC)",
+          "hi": "राष्ट्रीय भूमि मुद्रीकरण निगम (NLMC)"
+        },
+        {
+          "en": "Department of Investment and Public Asset Management (DIPAM)",
+          "hi": "निवेश और लोक संपत्ति प्रबंधन विभाग (DIPAM)"
+        },
+        {
+          "en": "Securities and Exchange Board of India (SEBI)",
+          "hi": "भारतीय प्रतिभूति और विनिमय बोर्ड (SEBI)"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The National Land Monetization Corporation (NLMC) is spearheading the government's effort to raise Rs 15,000 crore by monetizing surplus land and building assets of Central Public Sector Enterprises (CPSEs).",
+        "hi": "राष्ट्रीय भूमि मुद्रीकरण निगम (NLMC) केंद्रीय सार्वजनिक क्षेत्र के उद्यमों (CPSEs) की अधिशेष भूमि और भवन संपत्तियों का मुद्रीकरण करके 15,000 करोड़ रुपये जुटाने के सरकार के प्रयास का नेतृत्व कर रहा है।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "hard",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/government-eyes-15k-crore-from-psu-land-monetisation/articleshow/135513359.cms"
+    },
+    {
+      "id": "ca_20261104_09",
+      "question": {
+        "en": "Which state government recently signed an agreement with NHAI to desilt rivers to reduce flooding and use the excavated material for highway construction?",
+        "hi": "हाल ही में किस राज्य सरकार ने बाढ़ को कम करने के लिए नदियों से गाद निकालने और राजमार्ग निर्माण के लिए खुदाई की गई सामग्री का उपयोग करने के लिए NHAI के साथ एक समझौते पर हस्ताक्षर किए हैं?"
+      },
+      "options": [
+        {
+          "en": "Uttar Pradesh",
+          "hi": "उत्तर प्रदेश"
+        },
+        {
+          "en": "Assam",
+          "hi": "असम"
+        },
+        {
+          "en": "Bihar",
+          "hi": "बिहार"
         },
         {
           "en": "West Bengal",
@@ -329,12 +296,45 @@
       ],
       "correctAnswer": 2,
       "explanation": {
-        "en": "Severe Cyclonic storm Murasu recently made landfall near Ongole, located in the state of Andhra Pradesh. The region was put on high alert with massive preparations by the NDRF and state disaster response forces to minimize damage and ensure public safety.",
-        "hi": "गंभीर चक्रवाती तूफान मुरासु ने हाल ही में आंध्र प्रदेश राज्य में स्थित ओंगोल के पास लैंडफॉल किया। नुकसान को कम करने और सार्वजनिक सुरक्षा सुनिश्चित करने के लिए एनडीआरएफ और राज्य आपदा प्रतिक्रिया बलों द्वारा बड़े पैमाने पर तैयारी के साथ इस क्षेत्र को हाई अलर्ट पर रखा गया था।"
+        "en": "The Bihar government signed an agreement with the road transport ministry and NHAI to desilt rivers to mitigate floods. The excavated silt and sand will be utilized cost-free for highway construction.",
+        "hi": "बिहार सरकार ने बाढ़ को कम करने के लिए नदियों से गाद निकालने के लिए सड़क परिवहन मंत्रालय और NHAI के साथ एक समझौते पर हस्ताक्षर किए। खुदाई की गई गाद और रेत का उपयोग राजमार्ग निर्माण के लिए मुफ्त किया जाएगा।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/one-move-two-gains-nhai-to-desilt-bihar-rivers-and-build-roads-with-excavated-material/articleshow/135509375.cms"
+    },
+    {
+      "id": "ca_20261104_10",
+      "question": {
+        "en": "To curb the severe winter air pollution caused by stubble burning, the Centre recently asked states to act in 'mission mode'. Which of the following states is NOT typically cited as a primary contributor to this specific issue in the Delhi-NCR region?",
+        "hi": "पराली जलाने के कारण होने वाले गंभीर सर्दियों के वायु प्रदूषण को रोकने के लिए, केंद्र ने हाल ही में राज्यों को 'मिशन मोड' में कार्य करने के लिए कहा है। निम्नलिखित में से कौन सा राज्य आमतौर पर दिल्ली-एनसीआर क्षेत्र में इस विशिष्ट समस्या के प्राथमिक योगदानकर्ता के रूप में उद्धृत नहीं किया जाता है?"
+      },
+      "options": [
+        {
+          "en": "Punjab",
+          "hi": "पंजाब"
+        },
+        {
+          "en": "Haryana",
+          "hi": "हरियाणा"
+        },
+        {
+          "en": "Kerala",
+          "hi": "केरल"
+        },
+        {
+          "en": "Madhya Pradesh",
+          "hi": "मध्य प्रदेश"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Kerala is not involved in the stubble burning issue that affects the Delhi-NCR region. The Centre has directed states like Punjab, Haryana, Madhya Pradesh, and Rajasthan to act in 'mission mode' to prevent crop residue burning, which drastically worsens winter air quality.",
+        "hi": "केरल दिल्ली-एनसीआर क्षेत्र को प्रभावित करने वाली पराली जलाने की समस्या में शामिल नहीं है। केंद्र ने पंजाब, हरियाणा, मध्य प्रदेश और राजस्थान जैसे राज्यों को फसल अवशेषों को जलाने से रोकने के लिए 'मिशन मोड' में काम करने का निर्देश दिया है, जो सर्दियों में वायु की गुणवत्ता को काफी खराब कर देता है।"
       },
       "category": "Environment & Ecology",
-      "difficulty": "easy",
-      "sourceUrl": "https://www.thehindu.com/news/national/andhra-pradesh/cyclonic-storm-murasu-to-make-landfall-close-to-ongole/article71654237.ece"
+      "difficulty": "hard",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/centre-asks-states-to-go-into-mission-mode-to-curb-stubble-burning-as-farm-fires-rise-in-mp-rajasthan/articleshow/134921556.cms"
     }
   ]
 }
