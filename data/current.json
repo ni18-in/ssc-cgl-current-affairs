@@ -1,13 +1,13 @@
 {
-  "date": "2026-11-04",
+  "date": "2026-11-05",
   "topic": "SSC CGL Daily Current Affairs",
   "source": "The Hindu / Indian Express / Times of India / PIB",
-  "lastUpdated": "2026-11-04T06:00:00+05:30",
+  "lastUpdated": "2026-11-05T06:30:00+05:30",
   "version": 1,
   "totalQuestions": 10,
   "quiz": [
     {
-      "id": "ca_20261104_01",
+      "id": "ca_20261105_01",
       "question": {
         "en": "Who recently created history by winning India's first-ever Wushu medal at the Dakar 2026 Youth Olympic Games?",
         "hi": "हाल ही में डकार 2026 युवा ओलंपिक खेलों में भारत का पहला वुशु पदक जीतकर किसने इतिहास रचा?"
@@ -40,7 +40,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/sports/news/rajkumari-chanu-scripts-history-with-maiden-wushu-bronze-at-youth-olympics-games/articleshow/135504271.cms"
     },
     {
-      "id": "ca_20261104_02",
+      "id": "ca_20261105_02",
       "question": {
         "en": "Who recently became the first Indian swimmer to win a medal (bronze in the women's 100m freestyle) at the Youth Olympics?",
         "hi": "हाल ही में युवा ओलंपिक में पदक (महिलाओं की 100 मीटर फ्रीस्टाइल में कांस्य) जीतने वाली पहली भारतीय तैराक कौन बनीं?"
@@ -73,7 +73,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/sports/news/i-was-disappointed-why-dhinidhi-isnt-celebrating-her-historic-youth-oly-medal/articleshow/135504272.cms"
     },
     {
-      "id": "ca_20261104_03",
+      "id": "ca_20261105_03",
       "question": {
         "en": "Which public sector bank reported a 14 percent increase in net profit to Rs 23,038 crore for the July-September quarter of the current fiscal year?",
         "hi": "चालू वित्त वर्ष की जुलाई-सितंबर तिमाही के लिए किस सार्वजनिक क्षेत्र के बैंक ने शुद्ध लाभ में 14 प्रतिशत की वृद्धि के साथ 23,038 करोड़ रुपये दर्ज किए?"
@@ -106,7 +106,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/sbi-q2-results-net-profit-rises-14-to-rs-23038-crore/articleshow/135491063.cms"
     },
     {
-      "id": "ca_20261104_04",
+      "id": "ca_20261105_04",
       "question": {
         "en": "In which sport did India’s men's team recently win a gold medal and the women's trio win a silver at the World Championships?",
         "hi": "हाल ही में विश्व चैंपियनशिप में भारत की पुरुष टीम ने स्वर्ण पदक और महिला तिकड़ी ने रजत पदक किस खेल में जीता?"
@@ -139,7 +139,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/sports/more-sports/shooting/issf-world-cships-indias-men-win-pistol-team-gold-womens-rifle-trio-bags-silver/articleshow/135515001.cms"
     },
     {
-      "id": "ca_20261104_05",
+      "id": "ca_20261105_05",
       "question": {
         "en": "According to recent climate reports, breaching which global warming threshold could inflict irreversible damage on glaciers and ice sheets?",
         "hi": "हालिया जलवायु रिपोर्टों के अनुसार, किस ग्लोबल वार्मिंग सीमा को पार करने से ग्लेशियरों और बर्फ की चादरों को अपूरणीय क्षति हो सकती है?"
@@ -172,7 +172,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/home/environment/1-5c-warming-breach-could-cause-irreversible-damage-to-glaciers-ice-sheets-report/articleshow/135514002.cms"
     },
     {
-      "id": "ca_20261104_06",
+      "id": "ca_20261105_06",
       "question": {
         "en": "Which court recently ruled that judges should not face strictures or harsh criticism for mere typographical errors in their judgments?",
         "hi": "हाल ही में किस अदालत ने फैसला सुनाया कि न्यायाधीशों को उनके फैसलों में केवल टाइपोग्राफ़िकल त्रुटियों के लिए प्रतिबंधों या कठोर आलोचना का सामना नहीं करना चाहिए?"
@@ -205,7 +205,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/india/judge-neednt-face-strictures-for-typos-in-judgement-sc/articleshow/135513583.cms"
     },
     {
-      "id": "ca_20261104_07",
+      "id": "ca_20261105_07",
       "question": {
         "en": "The King of which neighboring country recently dedicated a sacred stupa in honour of Prime Minister Narendra Modi to strengthen cultural ties?",
         "hi": "हाल ही में किस पड़ोसी देश के राजा ने सांस्कृतिक संबंधों को मजबूत करने के लिए प्रधान मंत्री नरेंद्र मोदी के सम्मान में एक पवित्र स्तूप समर्पित किया?"
@@ -238,7 +238,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/india/deeply-touched-pm-modi-thanks-bhutan-king-for-dedicating-sacred-stupa-in-his-honour/articleshow/135509436.cms"
     },
     {
-      "id": "ca_20261104_08",
+      "id": "ca_20261105_08",
       "question": {
         "en": "Which nodal agency is spearheading the government's effort to raise Rs 15,000 crore through the monetization of surplus land assets held by PSUs?",
         "hi": "सार्वजनिक क्षेत्र के उपक्रमों (PSU) के पास मौजूद अधिशेष भूमि संपत्तियों के मुद्रीकरण के माध्यम से 15,000 करोड़ रुपये जुटाने के सरकार के प्रयास का नेतृत्व कौन सी नोडल एजेंसी कर रही है?"
@@ -271,7 +271,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/government-eyes-15k-crore-from-psu-land-monetisation/articleshow/135513359.cms"
     },
     {
-      "id": "ca_20261104_09",
+      "id": "ca_20261105_09",
       "question": {
         "en": "Which state government recently signed an agreement with NHAI to desilt rivers to reduce flooding and use the excavated material for highway construction?",
         "hi": "हाल ही में किस राज्य सरकार ने बाढ़ को कम करने के लिए नदियों से गाद निकालने और राजमार्ग निर्माण के लिए खुदाई की गई सामग्री का उपयोग करने के लिए NHAI के साथ एक समझौते पर हस्ताक्षर किए हैं?"
@@ -304,7 +304,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/india/one-move-two-gains-nhai-to-desilt-bihar-rivers-and-build-roads-with-excavated-material/articleshow/135509375.cms"
     },
     {
-      "id": "ca_20261104_10",
+      "id": "ca_20261105_10",
       "question": {
         "en": "To curb the severe winter air pollution caused by stubble burning, the Centre recently asked states to act in 'mission mode'. Which of the following states is NOT typically cited as a primary contributor to this specific issue in the Delhi-NCR region?",
         "hi": "पराली जलाने के कारण होने वाले गंभीर सर्दियों के वायु प्रदूषण को रोकने के लिए, केंद्र ने हाल ही में राज्यों को 'मिशन मोड' में कार्य करने के लिए कहा है। निम्नलिखित में से कौन सा राज्य आमतौर पर दिल्ली-एनसीआर क्षेत्र में इस विशिष्ट समस्या के प्राथमिक योगदानकर्ता के रूप में उद्धृत नहीं किया जाता है?"
