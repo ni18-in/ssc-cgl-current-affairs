@@ -1,0 +1,340 @@
+{
+  "date": "2026-11-04",
+  "topic": "SSC CGL Daily Current Affairs",
+  "source": "The Hindu / Indian Express / Times of India / PIB",
+  "lastUpdated": "2026-11-04T06:00:00+05:30",
+  "version": 1,
+  "totalQuestions": 10,
+  "quiz": [
+    {
+      "id": "ca_20261104_01",
+      "question": {
+        "en": "Who recently created history by winning India's first-ever Wushu medal at the Dakar 2026 Youth Olympic Games?",
+        "hi": "हाल ही में डकार 2026 युवा ओलंपिक खेलों में भारत का पहला वुशु पदक जीतकर किसने इतिहास रचा?"
+      },
+      "options": [
+        {
+          "en": "Dhinidhi Desinghu",
+          "hi": "धिनिधि देसिंघू"
+        },
+        {
+          "en": "Rajkumari Lanchenbi Chanu",
+          "hi": "राजकुमारी लंचेनबी चानू"
+        },
+        {
+          "en": "Vaishnavi Sharma",
+          "hi": "वैष्णवी शर्मा"
+        },
+        {
+          "en": "Pratika Rawal",
+          "hi": "प्रतिका रावल"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Rajkumari Lanchenbi Chanu won bronze in the women's Changquan combined event with 18.039 points at the Dakar 2026 Youth Olympic Games. This marks India's first-ever Wushu medal at the Youth Olympics.",
+        "hi": "राजकुमारी लंचेनबी चानू ने डकार 2026 युवा ओलंपिक खेलों में 18.039 अंकों के साथ महिलाओं की चांगक्वान संयुक्त स्पर्धा में कांस्य पदक जीता। यह युवा ओलंपिक में भारत का पहला वुशु पदक है।"
+      },
+      "category": "Sports",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/news/rajkumari-chanu-scripts-history-with-maiden-wushu-bronze-at-youth-olympics-games/articleshow/135504271.cms"
+    },
+    {
+      "id": "ca_20261104_02",
+      "question": {
+        "en": "Who recently became the first Indian swimmer to win a medal (bronze in the women's 100m freestyle) at the Youth Olympics?",
+        "hi": "हाल ही में युवा ओलंपिक में पदक (महिलाओं की 100 मीटर फ्रीस्टाइल में कांस्य) जीतने वाली पहली भारतीय तैराक कौन बनीं?"
+      },
+      "options": [
+        {
+          "en": "Srihari Nataraj",
+          "hi": "श्रीहरि नटराज"
+        },
+        {
+          "en": "Maana Patel",
+          "hi": "माना पटेल"
+        },
+        {
+          "en": "Dhinidhi Desinghu",
+          "hi": "धिनिधि देसिंघू"
+        },
+        {
+          "en": "Kenisha Gupta",
+          "hi": "केनिषा गुप्ता"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Dhinidhi Desinghu made history by clinching a bronze medal in the women's 100m freestyle at the Youth Olympics. She is the first Indian swimmer to achieve this feat.",
+        "hi": "धिनिधि देसिंघू ने युवा ओलंपिक में महिलाओं की 100 मीटर फ्रीस्टाइल में कांस्य पदक जीतकर इतिहास रच दिया। वह यह उपलब्धि हासिल करने वाली पहली भारतीय तैराक हैं।"
+      },
+      "category": "Sports",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/news/i-was-disappointed-why-dhinidhi-isnt-celebrating-her-historic-youth-oly-medal/articleshow/135504272.cms"
+    },
+    {
+      "id": "ca_20261104_03",
+      "question": {
+        "en": "Which public sector bank reported a 14 percent increase in net profit to Rs 23,038 crore for the July-September quarter of the current fiscal year?",
+        "hi": "चालू वित्त वर्ष की जुलाई-सितंबर तिमाही के लिए किस सार्वजनिक क्षेत्र के बैंक ने शुद्ध लाभ में 14 प्रतिशत की वृद्धि के साथ 23,038 करोड़ रुपये दर्ज किए?"
+      },
+      "options": [
+        {
+          "en": "Punjab National Bank",
+          "hi": "पंजाब नेशनल बैंक"
+        },
+        {
+          "en": "Bank of Baroda",
+          "hi": "बैंक ऑफ बड़ौदा"
+        },
+        {
+          "en": "State Bank of India",
+          "hi": "भारतीय स्टेट बैंक"
+        },
+        {
+          "en": "Canara Bank",
+          "hi": "केनरा बैंक"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "State Bank of India (SBI) reported a 14% year-on-year increase in net profit to Rs 23,038 crore for the July-September quarter. SBI is India's largest public sector bank.",
+        "hi": "भारतीय स्टेट बैंक (SBI) ने जुलाई-सितंबर तिमाही के लिए शुद्ध लाभ में 14% की वृद्धि (साल-दर-साल) के साथ 23,038 करोड़ रुपये दर्ज किए। SBI भारत का सबसे बड़ा सार्वजनिक क्षेत्र का बैंक है।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/sbi-q2-results-net-profit-rises-14-to-rs-23038-crore/articleshow/135491063.cms"
+    },
+    {
+      "id": "ca_20261104_04",
+      "question": {
+        "en": "In which sport did India’s men's team recently win a gold medal and the women's trio win a silver at the World Championships?",
+        "hi": "हाल ही में विश्व चैंपियनशिप में भारत की पुरुष टीम ने स्वर्ण पदक और महिला तिकड़ी ने रजत पदक किस खेल में जीता?"
+      },
+      "options": [
+        {
+          "en": "Archery",
+          "hi": "तीरंदाजी"
+        },
+        {
+          "en": "Wrestling",
+          "hi": "कुश्ती"
+        },
+        {
+          "en": "Shooting (ISSF)",
+          "hi": "निशानेबाजी (ISSF)"
+        },
+        {
+          "en": "Boxing",
+          "hi": "मुक्केबाज़ी"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "At the ISSF World Championships, India’s men’s pistol team secured the gold medal, while the women’s rifle trio won a silver. The ISSF is the governing body for international shooting sports.",
+        "hi": "ISSF विश्व चैंपियनशिप में, भारत की पुरुष पिस्टल टीम ने स्वर्ण पदक हासिल किया, जबकि महिला राइफल तिकड़ी ने रजत पदक जीता। ISSF अंतरराष्ट्रीय निशानेबाजी खेल का शासी निकाय है।"
+      },
+      "category": "Sports",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/more-sports/shooting/issf-world-cships-indias-men-win-pistol-team-gold-womens-rifle-trio-bags-silver/articleshow/135515001.cms"
+    },
+    {
+      "id": "ca_20261104_05",
+      "question": {
+        "en": "According to recent climate reports, breaching which global warming threshold could inflict irreversible damage on glaciers and ice sheets?",
+        "hi": "हालिया जलवायु रिपोर्टों के अनुसार, किस ग्लोबल वार्मिंग सीमा को पार करने से ग्लेशियरों और बर्फ की चादरों को अपूरणीय क्षति हो सकती है?"
+      },
+      "options": [
+        {
+          "en": "1.0°C",
+          "hi": "1.0°C"
+        },
+        {
+          "en": "1.5°C",
+          "hi": "1.5°C"
+        },
+        {
+          "en": "2.0°C",
+          "hi": "2.0°C"
+        },
+        {
+          "en": "3.0°C",
+          "hi": "3.0°C"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "A new scientific report warns that breaching the 1.5°C global warming threshold (compared to pre-industrial levels) could cause irreversible damage to glaciers and ice sheets, accelerating sea-level rise.",
+        "hi": "एक नई वैज्ञानिक रिपोर्ट चेतावनी देती है कि 1.5°C ग्लोबल वार्मिंग सीमा (पूर्व-औद्योगिक स्तरों की तुलना में) को पार करने से ग्लेशियरों और बर्फ की चादरों को अपूरणीय क्षति हो सकती है, जिससे समुद्र के स्तर में वृद्धि तेज हो सकती है।"
+      },
+      "category": "Environment & Ecology",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/home/environment/1-5c-warming-breach-could-cause-irreversible-damage-to-glaciers-ice-sheets-report/articleshow/135514002.cms"
+    },
+    {
+      "id": "ca_20261104_06",
+      "question": {
+        "en": "Which court recently ruled that judges should not face strictures or harsh criticism for mere typographical errors in their judgments?",
+        "hi": "हाल ही में किस अदालत ने फैसला सुनाया कि न्यायाधीशों को उनके फैसलों में केवल टाइपोग्राफ़िकल त्रुटियों के लिए प्रतिबंधों या कठोर आलोचना का सामना नहीं करना चाहिए?"
+      },
+      "options": [
+        {
+          "en": "Delhi High Court",
+          "hi": "दिल्ली उच्च न्यायालय"
+        },
+        {
+          "en": "Rajasthan High Court",
+          "hi": "राजस्थान उच्च न्यायालय"
+        },
+        {
+          "en": "Supreme Court of India",
+          "hi": "भारत का सर्वोच्च न्यायालय"
+        },
+        {
+          "en": "Allahabad High Court",
+          "hi": "इलाहाबाद उच्च न्यायालय"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The Supreme Court of India intervened against remarks made by the Rajasthan High Court, ruling that trial judges should not face strictures for minor typographical errors in a judgment that do not alter the outcome of the case.",
+        "hi": "भारत के सर्वोच्च न्यायालय ने राजस्थान उच्च न्यायालय द्वारा की गई टिप्पणियों के खिलाफ हस्तक्षेप किया, यह फैसला सुनाते हुए कि निचली अदालतों के न्यायाधीशों को किसी फैसले में मामूली टाइपोग्राफ़िकल त्रुटियों के लिए प्रतिबंधों का सामना नहीं करना चाहिए जो मामले के परिणाम को नहीं बदलते हैं।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/judge-neednt-face-strictures-for-typos-in-judgement-sc/articleshow/135513583.cms"
+    },
+    {
+      "id": "ca_20261104_07",
+      "question": {
+        "en": "The King of which neighboring country recently dedicated a sacred stupa in honour of Prime Minister Narendra Modi to strengthen cultural ties?",
+        "hi": "हाल ही में किस पड़ोसी देश के राजा ने सांस्कृतिक संबंधों को मजबूत करने के लिए प्रधान मंत्री नरेंद्र मोदी के सम्मान में एक पवित्र स्तूप समर्पित किया?"
+      },
+      "options": [
+        {
+          "en": "Nepal",
+          "hi": "नेपाल"
+        },
+        {
+          "en": "Sri Lanka",
+          "hi": "श्रीलंका"
+        },
+        {
+          "en": "Myanmar",
+          "hi": "म्यांमार"
+        },
+        {
+          "en": "Bhutan",
+          "hi": "भूटान"
+        }
+      ],
+      "correctAnswer": 3,
+      "explanation": {
+        "en": "Bhutan's King Jigme Khesar Namgyel Wangchuck dedicated a sacred stupa in honour of PM Narendra Modi. This gesture aims to strengthen the enduring friendship, Buddhist identity, and cultural ties between India and Bhutan.",
+        "hi": "भूटान के राजा जिग्मे खेसर नामग्याल वांगचुक ने पीएम नरेंद्र मोदी के सम्मान में एक पवित्र स्तूप समर्पित किया। इस इशारे का उद्देश्य भारत और भूटान के बीच स्थायी मित्रता, बौद्ध पहचान और सांस्कृतिक संबंधों को मजबूत करना है।"
+      },
+      "category": "International Summits",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/deeply-touched-pm-modi-thanks-bhutan-king-for-dedicating-sacred-stupa-in-his-honour/articleshow/135509436.cms"
+    },
+    {
+      "id": "ca_20261104_08",
+      "question": {
+        "en": "Which nodal agency is spearheading the government's effort to raise Rs 15,000 crore through the monetization of surplus land assets held by PSUs?",
+        "hi": "सार्वजनिक क्षेत्र के उपक्रमों (PSU) के पास मौजूद अधिशेष भूमि संपत्तियों के मुद्रीकरण के माध्यम से 15,000 करोड़ रुपये जुटाने के सरकार के प्रयास का नेतृत्व कौन सी नोडल एजेंसी कर रही है?"
+      },
+      "options": [
+        {
+          "en": "NITI Aayog",
+          "hi": "नीति आयोग"
+        },
+        {
+          "en": "National Land Monetization Corporation (NLMC)",
+          "hi": "राष्ट्रीय भूमि मुद्रीकरण निगम (NLMC)"
+        },
+        {
+          "en": "Department of Investment and Public Asset Management (DIPAM)",
+          "hi": "निवेश और लोक संपत्ति प्रबंधन विभाग (DIPAM)"
+        },
+        {
+          "en": "Securities and Exchange Board of India (SEBI)",
+          "hi": "भारतीय प्रतिभूति और विनिमय बोर्ड (SEBI)"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The National Land Monetization Corporation (NLMC) is spearheading the government's effort to raise Rs 15,000 crore by monetizing surplus land and building assets of Central Public Sector Enterprises (CPSEs).",
+        "hi": "राष्ट्रीय भूमि मुद्रीकरण निगम (NLMC) केंद्रीय सार्वजनिक क्षेत्र के उद्यमों (CPSEs) की अधिशेष भूमि और भवन संपत्तियों का मुद्रीकरण करके 15,000 करोड़ रुपये जुटाने के सरकार के प्रयास का नेतृत्व कर रहा है।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "hard",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/government-eyes-15k-crore-from-psu-land-monetisation/articleshow/135513359.cms"
+    },
+    {
+      "id": "ca_20261104_09",
+      "question": {
+        "en": "Which state government recently signed an agreement with NHAI to desilt rivers to reduce flooding and use the excavated material for highway construction?",
+        "hi": "हाल ही में किस राज्य सरकार ने बाढ़ को कम करने के लिए नदियों से गाद निकालने और राजमार्ग निर्माण के लिए खुदाई की गई सामग्री का उपयोग करने के लिए NHAI के साथ एक समझौते पर हस्ताक्षर किए हैं?"
+      },
+      "options": [
+        {
+          "en": "Uttar Pradesh",
+          "hi": "उत्तर प्रदेश"
+        },
+        {
+          "en": "Assam",
+          "hi": "असम"
+        },
+        {
+          "en": "Bihar",
+          "hi": "बिहार"
+        },
+        {
+          "en": "West Bengal",
+          "hi": "पश्चिम बंगाल"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The Bihar government signed an agreement with the road transport ministry and NHAI to desilt rivers to mitigate floods. The excavated silt and sand will be utilized cost-free for highway construction.",
+        "hi": "बिहार सरकार ने बाढ़ को कम करने के लिए नदियों से गाद निकालने के लिए सड़क परिवहन मंत्रालय और NHAI के साथ एक समझौते पर हस्ताक्षर किए। खुदाई की गई गाद और रेत का उपयोग राजमार्ग निर्माण के लिए मुफ्त किया जाएगा।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/one-move-two-gains-nhai-to-desilt-bihar-rivers-and-build-roads-with-excavated-material/articleshow/135509375.cms"
+    },
+    {
+      "id": "ca_20261104_10",
+      "question": {
+        "en": "To curb the severe winter air pollution caused by stubble burning, the Centre recently asked states to act in 'mission mode'. Which of the following states is NOT typically cited as a primary contributor to this specific issue in the Delhi-NCR region?",
+        "hi": "पराली जलाने के कारण होने वाले गंभीर सर्दियों के वायु प्रदूषण को रोकने के लिए, केंद्र ने हाल ही में राज्यों को 'मिशन मोड' में कार्य करने के लिए कहा है। निम्नलिखित में से कौन सा राज्य आमतौर पर दिल्ली-एनसीआर क्षेत्र में इस विशिष्ट समस्या के प्राथमिक योगदानकर्ता के रूप में उद्धृत नहीं किया जाता है?"
+      },
+      "options": [
+        {
+          "en": "Punjab",
+          "hi": "पंजाब"
+        },
+        {
+          "en": "Haryana",
+          "hi": "हरियाणा"
+        },
+        {
+          "en": "Kerala",
+          "hi": "केरल"
+        },
+        {
+          "en": "Madhya Pradesh",
+          "hi": "मध्य प्रदेश"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Kerala is not involved in the stubble burning issue that affects the Delhi-NCR region. The Centre has directed states like Punjab, Haryana, Madhya Pradesh, and Rajasthan to act in 'mission mode' to prevent crop residue burning, which drastically worsens winter air quality.",
+        "hi": "केरल दिल्ली-एनसीआर क्षेत्र को प्रभावित करने वाली पराली जलाने की समस्या में शामिल नहीं है। केंद्र ने पंजाब, हरियाणा, मध्य प्रदेश और राजस्थान जैसे राज्यों को फसल अवशेषों को जलाने से रोकने के लिए 'मिशन मोड' में काम करने का निर्देश दिया है, जो सर्दियों में वायु की गुणवत्ता को काफी खराब कर देता है।"
+      },
+      "category": "Environment & Ecology",
+      "difficulty": "hard",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/centre-asks-states-to-go-into-mission-mode-to-curb-stubble-burning-as-farm-fires-rise-in-mp-rajasthan/articleshow/134921556.cms"
+    }
+  ]
+}
