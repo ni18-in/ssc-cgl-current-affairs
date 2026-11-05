@@ -1,13 +1,13 @@
 {
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "topic": "SSC CGL Daily Current Affairs",
   "source": "Times of India",
-  "lastUpdated": "2026-11-05T05:15:50+05:30",
+  "lastUpdated": "2026-11-06T06:30:00+05:30",
   "version": 1,
   "totalQuestions": 10,
   "quiz": [
     {
-      "id": "ca_20261105_01",
+      "id": "ca_20261106_01",
       "question": {
         "en": "Which of the following sniffer dogs, famously known as India’s first dog on anti-poaching duty, helped in tracking down over 60 poachers to protect the rhinos of Assam?",
         "hi": "निम्नलिखित में से कौन सा खोजी कुत्ता, जो अवैध शिकार विरोधी ड्यूटी पर तैनात भारत के पहले कुत्ते के रूप में प्रसिद्ध है, ने असम के गैंडों की रक्षा के लिए 60 से अधिक शिकारियों का पता लगाने में मदद की थी?"
@@ -40,7 +40,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/science/wildlife/meet-zorba-a-belgian-malinois-who-was-indias-first-dog-on-anti-poaching-duty-and-helped-catch-60-poachers-of-assams-rhinos-in-his-eight-year-career/articleshow/135522239.cms"
     },
     {
-      "id": "ca_20261105_02",
+      "id": "ca_20261106_02",
       "question": {
         "en": "In an effort to prevent birds from colliding with buildings, researchers from which country found that hanging striped sheets inside a seabird colony reduced bird collisions by 2.8 times?",
         "hi": "पक्षियों को इमारतों से टकराने से रोकने के प्रयास में, किस देश के शोधकर्ताओं ने पाया कि सीबर्ड कॉलोनी के अंदर धारीदार चादरें लटकाने से पक्षियों की टक्कर 2.8 गुना कम हो गई?"
@@ -73,7 +73,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/science/nature/in-2024-researchers-began-hanging-different-coloured-and-patterned-sheets-inside-a-canadian-seabird-colony-by-2026-their-study-found-stripes-caused-2-8-times-fewer-bird-collisions-than-plain-sheets/articleshow/135489384.cms"
     },
     {
-      "id": "ca_20261105_03",
+      "id": "ca_20261106_03",
       "question": {
         "en": "A new species of deep-sea organism that glows with green light when disturbed, peaking at a wavelength of 515.4 nanometres, has been recently discovered in the underwater caves of which country?",
         "hi": "गहरे समुद्र में रहने वाले जीवों की एक नई प्रजाति जो परेशान होने पर हरे रंग की रोशनी से चमकती है, जिसकी तरंग दैर्ध्य 515.4 नैनोमीटर है, हाल ही में किस देश की पानी के नीचे की गुफाओं में खोजी गई है?"
@@ -106,7 +106,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/science/nature/scientists-discover-a-new-deep-sea-species-in-japanese-underwater-caves-that-flashes-green-light-when-disturbed-with-its-glow-peaking-at-515-4-nanometres/articleshow/135506653.cms"
     },
     {
-      "id": "ca_20261105_04",
+      "id": "ca_20261106_04",
       "question": {
         "en": "After extensive laboratory work spanning 33 years, which rare species, nearly wiped out in 1991 by an introduced predator, is finally being returned to the wild in Hawaii?",
         "hi": "33 वर्षों तक चले व्यापक प्रयोगशाला कार्य के बाद, कौन सी दुर्लभ प्रजाति, जिसे 1991 में एक शिकारी द्वारा लगभग नष्ट कर दिया गया था, अंततः हवाई के जंगलों में वापस लौट रही है?"
@@ -139,7 +139,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/science/wildlife/in-1991-only-11-of-hawaiis-tree-snails-survived-after-being-hunted-by-a-predator-introduced-to-fight-garden-pests-after-33-years-of-lab-work-the-lost-species-is-finally-returning-to-the-wild/articleshow/135522596.cms"
     },
     {
-      "id": "ca_20261105_05",
+      "id": "ca_20261106_05",
       "question": {
         "en": "Archaeologists in Poland have recently re-examined a 17th-century 'vampire burial'. Which of the following objects was placed across the deceased woman's neck to prevent her from 'rising from the grave'?",
         "hi": "पोलैंड में पुरातत्वविदों ने हाल ही में 17वीं सदी के 'पिशाच दफन' की दोबारा जांच की है।मृत महिला को 'कब्र से उठने' से रोकने के लिए निम्नलिखित में से कौन सी वस्तु उसके गले पर रखी गई थी?"
@@ -172,7 +172,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/science/archaeology/in-17th-century-poland-a-woman-was-buried-with-a-sickle-across-her-neck-and-a-stone-under-her-chin-to-stop-her-rising-from-the-grave-researchers-are-now-re-examining-the-so-called-vampire-burial/articleshow/135502518.cms"
     },
     {
-      "id": "ca_20261105_06",
+      "id": "ca_20261106_06",
       "question": {
         "en": "A rare silver coin pattern minted in London around 1867 specifically for trade in which city has recently been auctioned in Hong Kong for $4.75 million?",
         "hi": "1867 के आसपास लंदन में विशेष रूप से किस शहर में व्यापार के लिए ढाला गया एक दुर्लभ चांदी का सिक्का पैटर्न हाल ही में हांगकांग में 4.75 मिलियन डॉलर में नीलाम किया गया है?"
@@ -205,7 +205,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/world/uk/a-rare-silver-coin-pattern-made-in-london-around-1867-for-trade-in-shanghai-spent-decades-in-a-private-collection-it-has-now-sold-for-4-758-million-at-a-hong-kong-auction-leading-a-nearly-32-million-sale/articleshow/135528874.cms"
     },
     {
-      "id": "ca_20261105_07",
+      "id": "ca_20261106_07",
       "question": {
         "en": "A German study involving 45 grassland sites concluded that reducing the frequency of mowing led to a massive increase in the population of insects and other invertebrates. What was the percentage increase observed after three years?",
         "hi": "45 घास के मैदानों को शामिल करते हुए एक जर्मन अध्ययन ने निष्कर्ष निकाला कि घास काटने की आवृत्ति कम करने से कीड़ों और अन्य अकशेरुकी जीवों की आबादी में भारी वृद्धि हुई।तीन वर्षों के बाद कितने प्रतिशत की वृद्धि देखी गई?"
@@ -238,7 +238,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/science/nature/german-scientists-tested-reducing-grassland-mowing-at-45-sites-insect-and-other-invertebrate-numbers-increased-99-after-three-years/articleshow/135493903.cms"
     },
     {
-      "id": "ca_20261105_08",
+      "id": "ca_20261106_08",
       "question": {
         "en": "Which historical manuscripts, considered among the most important ancient texts ever found, were famously discovered when a teenager tending livestock threw a stone into a cave?",
         "hi": "कौन सी ऐतिहासिक पांडुलिपियाँ, जो अब तक पाए गए सबसे महत्वपूर्ण प्राचीन ग्रंथों में से एक मानी जाती हैं, प्रसिद्ध रूप से तब खोजी गईं जब पशुओं की देखभाल कर रहे एक किशोर ने एक गुफा में पत्थर फेंक दिया?"
@@ -271,7 +271,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/science/archaeology/a-teenager-tending-livestock-near-the-dead-sea-threw-a-stone-into-a-cave-and-heard-something-shatter-the-accidental-discovery-eventually-led-researchers-to-the-dead-sea-scrolls-among-the-most-important-ancient-manuscripts-ever-found/articleshow/135527626.cms"
     },
     {
-      "id": "ca_20261105_09",
+      "id": "ca_20261106_09",
       "question": {
         "en": "Archaeologists have managed to read an ancient message without breaking its clay envelope. The message is a 3,800-year-old letter written by a frustrated woman to her husband regarding what issue?",
         "hi": "पुरातत्वविदों ने मिट्टी के आवरण को तोड़े बिना एक प्राचीन संदेश को पढ़ने में कामयाबी हासिल की है।यह संदेश 3,800 साल पुराना एक पत्र है जो एक निराश महिला ने अपने पति को किस मुद्दे पर लिखा था?"
@@ -304,7 +304,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/science/archaeology/a-3800-year-old-woman-once-wrote-a-frustrated-letter-to-her-husband-complaining-about-a-debtor-who-refused-to-repay-him-archaeologists-have-now-read-the-ancient-message-without-breaking-its-clay-envelope/articleshow/135518742.cms"
     },
     {
-      "id": "ca_20261105_10",
+      "id": "ca_20261106_10",
       "question": {
         "en": "In an ambitious conservation project, scientists are planning to breed and release a species of butterfly into a restored Canadian habitat. From which year had this species been missing in Ontario before this effort?",
         "hi": "एक महत्वाकांक्षी संरक्षण परियोजना में, वैज्ञानिक तितली की एक प्रजाति को प्रजनन करके कनाडा के पुनर्स्थापित आवास में छोड़ने की योजना बना रहे हैं।इस प्रयास से पहले यह प्रजाति ओन्टारियो में किस वर्ष से गायब थी?"
