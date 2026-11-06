@@ -1,0 +1,340 @@
+{
+  "date": "2026-11-06",
+  "topic": "SSC CGL Daily Current Affairs",
+  "source": "PIB / The Hindu / Economic Times / Indian Express / GKToday",
+  "lastUpdated": "2026-11-06T05:36:35+05:30",
+  "version": 1,
+  "totalQuestions": 10,
+  "quiz": [
+    {
+      "id": "ca_20261106_01",
+      "question": {
+        "en": "The Supreme Court recently ruled that the 'right to a speedy trial' is a fundamental right, asserting that the Constitution has primacy over special laws. Which Article of the Indian Constitution guarantees the right to a speedy trial as part of the right to life and personal liberty?",
+        "hi": "सर्वोच्च न्यायालय ने हाल ही में फैसला सुनाया है कि 'त्वरित सुनवाई का अधिकार' एक मौलिक अधिकार है, जिसमें कहा गया है कि संविधान को विशेष कानूनों पर प्राथमिकता प्राप्त है। भारतीय संविधान का कौन सा अनुच्छेद जीवन और व्यक्तिगत स्वतंत्रता के अधिकार के हिस्से के रूप में त्वरित सुनवाई के अधिकार की गारंटी देता है?"
+      },
+      "options": [
+        {
+          "en": "Article 19",
+          "hi": "अनुच्छेद 19"
+        },
+        {
+          "en": "Article 21",
+          "hi": "अनुच्छेद 21"
+        },
+        {
+          "en": "Article 14",
+          "hi": "अनुच्छेद 14"
+        },
+        {
+          "en": "Article 32",
+          "hi": "अनुच्छेद 32"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The Supreme Court reaffirmed that a speedy trial is a fundamental right under Article 21. It emphasised that constitutional provisions override special laws that may cause unreasonable delays.",
+        "hi": "सर्वोच्च न्यायालय ने पुष्टि की है कि त्वरित सुनवाई अनुच्छेद 21 के तहत एक मौलिक अधिकार है। इसने इस बात पर जोर दिया कि संवैधानिक प्रावधान उन विशेष कानूनों को खत्म कर देते हैं जो अनुचित देरी का कारण बन सकते हैं।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/sc-constitution-has-primacy-over-special-laws/articleshow/135586399.cms"
+    },
+    {
+      "id": "ca_20261106_02",
+      "question": {
+        "en": "Which state government has recently introduced a new investment policy to promote job-linked growth and offer incentives for plant and machinery, marking a shift from its previous stance?",
+        "hi": "किस राज्य सरकार ने हाल ही में रोजगार से जुड़े विकास को बढ़ावा देने और संयंत्र व मशीनरी के लिए प्रोत्साहन प्रदान करने हेतु एक नई निवेश नीति पेश की है, जो अपने पिछले रुख से एक बड़े बदलाव को दर्शाती है?"
+      },
+      "options": [
+        {
+          "en": "West Bengal",
+          "hi": "पश्चिम बंगाल"
+        },
+        {
+          "en": "Tamil Nadu",
+          "hi": "तमिलनाडु"
+        },
+        {
+          "en": "Gujarat",
+          "hi": "गुजरात"
+        },
+        {
+          "en": "Maharashtra",
+          "hi": "महाराष्ट्र"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "The West Bengal government introduced a new investment policy focused on job-linked growth with incentives for plant and machinery. This marks a significant policy shift from its previous approach of scrapping industrial incentives.",
+        "hi": "पश्चिम बंगाल सरकार ने संयंत्र और मशीनरी के लिए प्रोत्साहन के साथ रोजगार से जुड़े विकास पर केंद्रित एक नई निवेश नीति पेश की। यह औद्योगिक प्रोत्साहन को समाप्त करने के इसके पिछले दृष्टिकोण से एक महत्वपूर्ण नीतिगत बदलाव है।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/news/national/west-bengal/west-bengal-govts-new-investment-policy-promotes-job-linked-growth-incentives-for-plant-and-machinery/article71670833.ece"
+    },
+    {
+      "id": "ca_20261106_03",
+      "question": {
+        "en": "Which latest navigation satellite, part of the indigenous NavIC system, was recently reported to be fully healthy for in-orbit testing?",
+        "hi": "स्वदेशी नाविक (NavIC) प्रणाली के हिस्से के रूप में विकसित किस नवीनतम नेविगेशन उपग्रह को हाल ही में इन-ऑर्बिट परीक्षण के लिए पूर्ण रूप से स्वस्थ बताया गया है?"
+      },
+      "options": [
+        {
+          "en": "NVS-01",
+          "hi": "एनवीएस-01"
+        },
+        {
+          "en": "RISAT-2B",
+          "hi": "रीसैट-2बी"
+        },
+        {
+          "en": "NVS-03",
+          "hi": "एनवीएस-03"
+        },
+        {
+          "en": "IRNSS-1G",
+          "hi": "आईआरएनएसएस-1जी"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "NVS-03 is the latest navigation satellite developed by ISRO as part of the NavIC (Navigation with Indian Constellation) system, which serves as an indigenous alternative to GPS.",
+        "hi": "एनवीएस-03 (NVS-03) इसरो द्वारा नाविक प्रणाली के हिस्से के रूप में विकसित नवीनतम नेविगेशन उपग्रह है, जो जीपीएस के स्वदेशी विकल्प के रूप में कार्य करता है।"
+      },
+      "category": "Science & Technology",
+      "difficulty": "hard",
+      "sourceUrl": "https://www.thehindu.com/news/cities/chennai/isros-latest-navigation-satellite-nvs-03-is-fully-healthy-says-chairman-v-narayanan/article71670095.ece"
+    },
+    {
+      "id": "ca_20261106_04",
+      "question": {
+        "en": "According to a recent climate change study, global warming increased the maximum wind speed and intensified the rainfall rate of which tropical cyclone by 33%?",
+        "hi": "हाल ही के एक जलवायु परिवर्तन अध्ययन के अनुसार, ग्लोबल वार्मिंग ने किस उष्णकटिबंधीय चक्रवात की अधिकतम हवा की गति को बढ़ा दिया और वर्षा दर को 33% तक तेज कर दिया?"
+      },
+      "options": [
+        {
+          "en": "Cyclone Fani",
+          "hi": "चक्रवात फानी"
+        },
+        {
+          "en": "Cyclone Arnab",
+          "hi": "चक्रवात अर्नब"
+        },
+        {
+          "en": "Cyclone Amphan",
+          "hi": "चक्रवात अम्फान"
+        },
+        {
+          "en": "Cyclone Biparjoy",
+          "hi": "चक्रवात बिपरजॉय"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "A recent study indicated that climate change increased tropical Cyclone Arnab's damage by 33%. It intensified the cyclone's maximum wind speed by approximately 5% and its eyewall rainfall rate by 11% at landfall.",
+        "hi": "एक हालिया अध्ययन से संकेत मिला है कि जलवायु परिवर्तन ने उष्णकटिबंधीय चक्रवात अर्नब से होने वाले नुकसान को 33% तक बढ़ा दिया है। इसने चक्रवात के भूस्खलन के समय अधिकतम हवा की गति को लगभग 5% और वर्षा दर को 11% तक तेज कर दिया।"
+      },
+      "category": "Environment & Ecology",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/sci-tech/energy-and-environment/climate-change-increased-tropical-cyclone-arnabs-damage-by-33-study/article71669447.ece"
+    },
+    {
+      "id": "ca_20261106_05",
+      "question": {
+        "en": "A recent satellite assessment by a Noida-based geospatial intelligence company revealed a 73% reduction in a supraglacial lake after a Glacial Lake Outburst Flood (GLOF) in which country?",
+        "hi": "नोएडा स्थित एक भू-स्थानिक खुफिया कंपनी द्वारा किए गए हालिया उपग्रह मूल्यांकन ने किस देश में ग्लेशियल लेक आउटबर्स्ट फ्लड (GLOF) के बाद एक सुपरग्लेशियल झील में 73% की कमी का खुलासा किया है?"
+      },
+      "options": [
+        {
+          "en": "Nepal",
+          "hi": "नेपाल"
+        },
+        {
+          "en": "Switzerland",
+          "hi": "स्विट्जरलैंड"
+        },
+        {
+          "en": "India",
+          "hi": "भारत"
+        },
+        {
+          "en": "Bhutan",
+          "hi": "भूटान"
+        }
+      ],
+      "correctAnswer": 3,
+      "explanation": {
+        "en": "Satellite data showed a 73% reduction in the extent of a glacial lake in Bhutan following a Glacial Lake Outburst Flood (GLOF) event. The study highlighted the vulnerability of Himalayan regions to climate change.",
+        "hi": "उपग्रह डेटा ने एक ग्लेशियल लेक आउटबर्स्ट फ्लड (GLOF) घटना के बाद भूटान में एक हिमनद झील के विस्तार में 73% की कमी दिखाई। अध्ययन ने जलवायु परिवर्तन के प्रति हिमालयी क्षेत्रों की संवेदनशीलता पर प्रकाश डाला।"
+      },
+      "category": "Environment & Ecology",
+      "difficulty": "hard",
+      "sourceUrl": "https://www.thehindu.com/news/international/satellite-assessment-shows-73-reduction-in-bhutans-lake-after-glof/article71666542.ece"
+    },
+    {
+      "id": "ca_20261106_06",
+      "question": {
+        "en": "Against which country did India register a 3-0 lead at half-time, eventually winning the SAFF Championship opener match?",
+        "hi": "भारत ने किस देश के खिलाफ हाफ-टाइम में 3-0 की बढ़त दर्ज की और अंततः सैफ (SAFF) चैंपियनशिप का शुरुआती मैच जीता?"
+      },
+      "options": [
+        {
+          "en": "Pakistan",
+          "hi": "पाकिस्तान"
+        },
+        {
+          "en": "Nepal",
+          "hi": "नेपाल"
+        },
+        {
+          "en": "Bangladesh",
+          "hi": "बांग्लादेश"
+        },
+        {
+          "en": "Maldives",
+          "hi": "मालदीव"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "India defeated Pakistan in their opening match of the SAFF Championship. Suhail Ahmad Bhat and Manglenthang Kipgen were key goal scorers in the first half of the game.",
+        "hi": "भारत ने सैफ चैंपियनशिप के अपने शुरुआती मैच में पाकिस्तान को हराया। खेल के पहले हाफ में सुहैल अहमद भट और मंगलेनथांग किपजेन प्रमुख गोल करने वाले खिलाड़ी थे।"
+      },
+      "category": "Sports",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.thehindu.com/sport/football/india-beats-pakistan-in-saff-championship-opener/article71671770.ece"
+    },
+    {
+      "id": "ca_20261106_07",
+      "question": {
+        "en": "Due to ongoing renovations and potential bad weather in New Delhi, the BCCI has moved the first One Day International (ODI) between India and Sri Lanka to which city?",
+        "hi": "नई दिल्ली में चल रहे नवीनीकरण और संभावित खराब मौसम के कारण, बीसीसीआई ने भारत और श्रीलंका के बीच पहला एक दिवसीय अंतर्राष्ट्रीय (ODI) मैच किस शहर में स्थानांतरित कर दिया है?"
+      },
+      "options": [
+        {
+          "en": "Visakhapatnam",
+          "hi": "विशाखापत्तनम"
+        },
+        {
+          "en": "Chennai",
+          "hi": "चेन्नई"
+        },
+        {
+          "en": "Mumbai",
+          "hi": "मुंबई"
+        },
+        {
+          "en": "Bengaluru",
+          "hi": "बेंगलुरु"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "The BCCI relocated the first ODI match of the India-Sri Lanka series from Delhi to Visakhapatnam. This decision was taken to avoid disruptions caused by renovations and unfavorable weather conditions.",
+        "hi": "बीसीसीआई ने भारत-श्रीलंका श्रृंखला के पहले वनडे मैच को दिल्ली से विशाखापत्तनम स्थानांतरित कर दिया है। यह निर्णय नवीनीकरण और प्रतिकूल मौसम की स्थिति के कारण होने वाले व्यवधानों से बचने के लिए लिया गया था।"
+      },
+      "category": "Sports",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/bcci-announces-major-venue-change-for-india-sri-lanka-series-1st-odi-moved-from-new-delhi/articleshow/135575134.cms"
+    },
+    {
+      "id": "ca_20261106_08",
+      "question": {
+        "en": "Which Indian central public sector enterprise recently reported a 57% jump in its net profit to ₹15,500 crore, driven by gains in crude oil prices?",
+        "hi": "हाल ही में किस भारतीय केंद्रीय सार्वजनिक क्षेत्र के उद्यम ने कच्चे तेल की कीमतों में वृद्धि के कारण अपने शुद्ध लाभ में 57% की उछाल के साथ ₹15,500 करोड़ की वृद्धि दर्ज की है?"
+      },
+      "options": [
+        {
+          "en": "Indian Oil Corporation",
+          "hi": "इंडियन ऑयल कॉर्पोरेशन"
+        },
+        {
+          "en": "Bharat Petroleum",
+          "hi": "भारत पेट्रोलियम"
+        },
+        {
+          "en": "ONGC",
+          "hi": "ओएनजीसी (ONGC)"
+        },
+        {
+          "en": "GAIL India",
+          "hi": "गेल इंडिया"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The Oil and Natural Gas Corporation (ONGC) reported a 57% increase in net profit, reaching ₹15,500 crore in the recent quarter. The surge was primarily attributed to higher realizations from crude oil sales.",
+        "hi": "तेल और प्राकृतिक गैस निगम (ONGC) ने हालिया तिमाही में शुद्ध लाभ में 57% की वृद्धि दर्ज की, जो ₹15,500 करोड़ तक पहुंच गई। यह वृद्धि मुख्य रूप से कच्चे तेल की बिक्री से प्राप्त उच्च मूल्य के कारण हुई है।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/ongc-net-jumps-57-to-15-5k-cr-as-oil-gains/articleshow/135589133.cms"
+    },
+    {
+      "id": "ca_20261106_09",
+      "question": {
+        "en": "Which state government has approved a one-year age relaxation for candidates appearing in recruitment examinations, with over 16,000 Group C vacancies proposed?",
+        "hi": "किस राज्य सरकार ने भर्ती परीक्षाओं में बैठने वाले उम्मीदवारों के लिए एक साल की आयु में छूट को मंजूरी दी है, जिसके तहत 16,000 से अधिक ग्रुप सी रिक्तियों का प्रस्ताव है?"
+      },
+      "options": [
+        {
+          "en": "Uttar Pradesh",
+          "hi": "उत्तर प्रदेश"
+        },
+        {
+          "en": "Maharashtra",
+          "hi": "महाराष्ट्र"
+        },
+        {
+          "en": "Rajasthan",
+          "hi": "राजस्थान"
+        },
+        {
+          "en": "Haryana",
+          "hi": "हरियाणा"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The Maharashtra government approved a one-year age relaxation for candidates in recruitment exams. The state panel has also proposed filling more than 16,000 vacancies under the MPSC Group C category.",
+        "hi": "महाराष्ट्र सरकार ने भर्ती परीक्षाओं में उम्मीदवारों के लिए एक वर्ष की आयु में छूट को मंजूरी दी है। राज्य पैनल ने एमपीएससी (MPSC) ग्रुप सी श्रेणी के तहत 16,000 से अधिक रिक्तियों को भरने का भी प्रस्ताव दिया है।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/news/national/maharashtra/maharashtra-govt-approves-one-year-age-relaxation-for-recruitment-exams-panel-proposes-over-16000-mpsc-group-c-vacancies/article71670508.ece"
+    },
+    {
+      "id": "ca_20261106_10",
+      "question": {
+        "en": "Which Indian female cricketer is in contention for the ICC ‘Player of the Month’ honour following her impressive all-round performances in ODIs and T20Is?",
+        "hi": "कौन सी भारतीय महिला क्रिकेटर वनडे और टी20 अंतरराष्ट्रीय मैचों में अपने शानदार ऑलराउंड प्रदर्शन के बाद आईसीसी के 'प्लेयर ऑफ द मंथ' सम्मान की दौड़ में शामिल है?"
+      },
+      "options": [
+        {
+          "en": "Harmanpreet Kaur",
+          "hi": "हरमनप्रीत कौर"
+        },
+        {
+          "en": "Smriti Mandhana",
+          "hi": "स्मृति मंधाना"
+        },
+        {
+          "en": "Jemimah Rodrigues",
+          "hi": "जेमिमा रोड्रिग्स"
+        },
+        {
+          "en": "Deepti Sharma",
+          "hi": "दीप्ति शर्मा"
+        }
+      ],
+      "correctAnswer": 3,
+      "explanation": {
+        "en": "Indian all-rounder Deepti Sharma has been nominated for the ICC Women's 'Player of the Month' award. Her consistent performances with both bat and ball in recent matches earned her the nomination.",
+        "hi": "भारतीय ऑलराउंडर दीप्ति शर्मा को आईसीसी महिला 'प्लेयर ऑफ द मंथ' पुरस्कार के लिए नामांकित किया गया है। हाल के मैचों में बल्ले और गेंद दोनों से उनके लगातार शानदार प्रदर्शन ने उन्हें यह नामांकन दिलाया।"
+      },
+      "category": "Awards & Honours",
+      "difficulty": "easy",
+      "sourceUrl": "https://www.thehindu.com/sport/cricket/deepti-in-contention-for-icc-player-of-the-month-honour/article71671773.ece"
+    }
+  ]
+}
