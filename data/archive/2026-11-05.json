@@ -1,0 +1,340 @@
+{
+  "date": "2026-11-05",
+  "topic": "SSC CGL Daily Current Affairs",
+  "source": "Times of India",
+  "lastUpdated": "2026-11-05T05:15:50+05:30",
+  "version": 1,
+  "totalQuestions": 10,
+  "quiz": [
+    {
+      "id": "ca_20261105_01",
+      "question": {
+        "en": "Which of the following sniffer dogs, famously known as India’s first dog on anti-poaching duty, helped in tracking down over 60 poachers to protect the rhinos of Assam?",
+        "hi": "निम्नलिखित में से कौन सा खोजी कुत्ता, जो अवैध शिकार विरोधी ड्यूटी पर तैनात भारत के पहले कुत्ते के रूप में प्रसिद्ध है, ने असम के गैंडों की रक्षा के लिए 60 से अधिक शिकारियों का पता लगाने में मदद की थी?"
+      },
+      "options": [
+        {
+          "en": "Zorba",
+          "hi": "जोरबा"
+        },
+        {
+          "en": "Rana",
+          "hi": "राणा"
+        },
+        {
+          "en": "Sheru",
+          "hi": "शेरू"
+        },
+        {
+          "en": "Tiger",
+          "hi": "चीता"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "Zorba, a Belgian Malinois, was India's first dog on anti-poaching duty. During his eight-year career, he helped track down over 60 poachers to protect Assam’s rhinos. Assam is known for Kaziranga National Park, a major habitat for the Indian one-horned rhinoceros.",
+        "hi": "ज़ोरबा, एक बेल्जियन मैलिनोइस, अवैध शिकार विरोधी ड्यूटी पर भारत का पहला कुत्ता था।अपने आठ साल के करियर के दौरान, उन्होंने असम के गैंडों की रक्षा के लिए 60 से अधिक शिकारियों का पता लगाने में मदद की।असम काजीरंगा राष्ट्रीय उद्यान के लिए जाना जाता है, जो भारतीय एक सींग वाले गैंडे का प्रमुख निवास स्थान है।"
+      },
+      "category": "Environment & Ecology",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/science/wildlife/meet-zorba-a-belgian-malinois-who-was-indias-first-dog-on-anti-poaching-duty-and-helped-catch-60-poachers-of-assams-rhinos-in-his-eight-year-career/articleshow/135522239.cms"
+    },
+    {
+      "id": "ca_20261105_02",
+      "question": {
+        "en": "In an effort to prevent birds from colliding with buildings, researchers from which country found that hanging striped sheets inside a seabird colony reduced bird collisions by 2.8 times?",
+        "hi": "पक्षियों को इमारतों से टकराने से रोकने के प्रयास में, किस देश के शोधकर्ताओं ने पाया कि सीबर्ड कॉलोनी के अंदर धारीदार चादरें लटकाने से पक्षियों की टक्कर 2.8 गुना कम हो गई?"
+      },
+      "options": [
+        {
+          "en": "Norway",
+          "hi": "नॉर्वे"
+        },
+        {
+          "en": "New Zealand",
+          "hi": "न्यूज़ीलैंड"
+        },
+        {
+          "en": "Canada",
+          "hi": "कनाडा"
+        },
+        {
+          "en": "Australia",
+          "hi": "ऑस्ट्रेलिया"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Canadian scientists discovered that dark colours and stripes could make buildings safer for seabirds. A study initiated in 2024 found that using striped sheets caused 2.8 times fewer bird collisions compared to plain sheets.",
+        "hi": "कनाडाई वैज्ञानिकों ने पाया कि गहरे रंग और धारियाँ इमारतों को समुद्री पक्षियों के लिए सुरक्षित बना सकती हैं।2024 में शुरू किए गए एक अध्ययन में पाया गया कि धारीदार चादरों के उपयोग से सादे चादरों की तुलना में 2.8 गुना कम पक्षी टकराव होता है।"
+      },
+      "category": "Science & Technology",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/science/nature/in-2024-researchers-began-hanging-different-coloured-and-patterned-sheets-inside-a-canadian-seabird-colony-by-2026-their-study-found-stripes-caused-2-8-times-fewer-bird-collisions-than-plain-sheets/articleshow/135489384.cms"
+    },
+    {
+      "id": "ca_20261105_03",
+      "question": {
+        "en": "A new species of deep-sea organism that glows with green light when disturbed, peaking at a wavelength of 515.4 nanometres, has been recently discovered in the underwater caves of which country?",
+        "hi": "गहरे समुद्र में रहने वाले जीवों की एक नई प्रजाति जो परेशान होने पर हरे रंग की रोशनी से चमकती है, जिसकी तरंग दैर्ध्य 515.4 नैनोमीटर है, हाल ही में किस देश की पानी के नीचे की गुफाओं में खोजी गई है?"
+      },
+      "options": [
+        {
+          "en": "Australia",
+          "hi": "ऑस्ट्रेलिया"
+        },
+        {
+          "en": "Indonesia",
+          "hi": "इंडोनेशिया"
+        },
+        {
+          "en": "Japan",
+          "hi": "जापान"
+        },
+        {
+          "en": "Philippines",
+          "hi": "फिलिपींस"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Scientists have recently discovered a new deep-sea species in Japanese underwater caves that flashes a green light when disturbed. Bioluminescence in deep-sea creatures is an important evolutionary adaptation used for communication and camouflage.",
+        "hi": "वैज्ञानिकों ने हाल ही में जापानी पानी के नीचे की गुफाओं में गहरे समुद्र में रहने वाली एक नई प्रजाति की खोज की है जो परेशान होने पर हरी रोशनी चमकाती है।गहरे समुद्र में रहने वाले जीवों में बायोलुमिनेसेंस एक महत्वपूर्ण विकासवादी अनुकूलन है जिसका उपयोग संचार और छलावरण के लिए किया जाता है।"
+      },
+      "category": "Science & Technology",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/science/nature/scientists-discover-a-new-deep-sea-species-in-japanese-underwater-caves-that-flashes-green-light-when-disturbed-with-its-glow-peaking-at-515-4-nanometres/articleshow/135506653.cms"
+    },
+    {
+      "id": "ca_20261105_04",
+      "question": {
+        "en": "After extensive laboratory work spanning 33 years, which rare species, nearly wiped out in 1991 by an introduced predator, is finally being returned to the wild in Hawaii?",
+        "hi": "33 वर्षों तक चले व्यापक प्रयोगशाला कार्य के बाद, कौन सी दुर्लभ प्रजाति, जिसे 1991 में एक शिकारी द्वारा लगभग नष्ट कर दिया गया था, अंततः हवाई के जंगलों में वापस लौट रही है?"
+      },
+      "options": [
+        {
+          "en": "Green sea turtles",
+          "hi": "हरे समुद्री कछुए"
+        },
+        {
+          "en": "Monk seals",
+          "hi": "भिक्षु सील"
+        },
+        {
+          "en": "Tree snails",
+          "hi": "पेड़ के घोंघे"
+        },
+        {
+          "en": "Honeycreepers",
+          "hi": "हनीक्रीपर्स"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Hawaii’s rare tree snails, which had only 11 surviving members in 1991 due to a predator introduced to fight garden pests, are returning to the wild after 33 years of dedicated laboratory work.",
+        "hi": "हवाई के दुर्लभ वृक्ष घोंघे, जिनके 1991 में बगीचे के कीटों से लड़ने के लिए लाए गए एक शिकारी के कारण केवल 11 सदस्य जीवित थे, 33 वर्षों के समर्पित प्रयोगशाला कार्य के बाद जंगल में लौट रहे हैं।"
+      },
+      "category": "Environment & Ecology",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/science/wildlife/in-1991-only-11-of-hawaiis-tree-snails-survived-after-being-hunted-by-a-predator-introduced-to-fight-garden-pests-after-33-years-of-lab-work-the-lost-species-is-finally-returning-to-the-wild/articleshow/135522596.cms"
+    },
+    {
+      "id": "ca_20261105_05",
+      "question": {
+        "en": "Archaeologists in Poland have recently re-examined a 17th-century 'vampire burial'. Which of the following objects was placed across the deceased woman's neck to prevent her from 'rising from the grave'?",
+        "hi": "पोलैंड में पुरातत्वविदों ने हाल ही में 17वीं सदी के 'पिशाच दफन' की दोबारा जांच की है।मृत महिला को 'कब्र से उठने' से रोकने के लिए निम्नलिखित में से कौन सी वस्तु उसके गले पर रखी गई थी?"
+      },
+      "options": [
+        {
+          "en": "A sickle",
+          "hi": "एक दरांती"
+        },
+        {
+          "en": "A silver coin",
+          "hi": "एक चाँदी का सिक्का"
+        },
+        {
+          "en": "A wooden stake",
+          "hi": "एक लकड़ी का खूँटा"
+        },
+        {
+          "en": "An iron cross",
+          "hi": "एक लोहे का क्रॉस"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "In 17th-century Poland, a woman was buried with a sickle placed across her neck and a stone under her chin to stop her from rising from the grave. This reflects historical local superstitions surrounding vampires.",
+        "hi": "17वीं सदी के पोलैंड में, एक महिला को कब्र से उठने से रोकने के लिए उसकी गर्दन पर दरांती और ठुड्डी के नीचे पत्थर रखकर दफनाया गया था।यह पिशाचों से जुड़े ऐतिहासिक स्थानीय अंधविश्वासों को दर्शाता है।"
+      },
+      "category": "Science & Technology",
+      "difficulty": "hard",
+      "sourceUrl": "https://timesofindia.indiatimes.com/science/archaeology/in-17th-century-poland-a-woman-was-buried-with-a-sickle-across-her-neck-and-a-stone-under-her-chin-to-stop-her-rising-from-the-grave-researchers-are-now-re-examining-the-so-called-vampire-burial/articleshow/135502518.cms"
+    },
+    {
+      "id": "ca_20261105_06",
+      "question": {
+        "en": "A rare silver coin pattern minted in London around 1867 specifically for trade in which city has recently been auctioned in Hong Kong for $4.75 million?",
+        "hi": "1867 के आसपास लंदन में विशेष रूप से किस शहर में व्यापार के लिए ढाला गया एक दुर्लभ चांदी का सिक्का पैटर्न हाल ही में हांगकांग में 4.75 मिलियन डॉलर में नीलाम किया गया है?"
+      },
+      "options": [
+        {
+          "en": "Shanghai",
+          "hi": "शंघाई"
+        },
+        {
+          "en": "Guangzhou",
+          "hi": "गुआंगज़ौ"
+        },
+        {
+          "en": "Beijing",
+          "hi": "बीजिंग"
+        },
+        {
+          "en": "Macau",
+          "hi": "मकाउ"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "A rare silver coin pattern made in London around 1867 for trade in Shanghai, China, recently sold for $4.75 million at an auction in Hong Kong. The overall collection fetched nearly $32 million.",
+        "hi": "चीन के शंघाई में व्यापार के लिए 1867 के आसपास लंदन में बनाया गया एक दुर्लभ चांदी का सिक्का पैटर्न, हाल ही में हांगकांग में एक नीलामी में 4.75 मिलियन डॉलर में बेचा गया।कुल संग्रह से लगभग 32 मिलियन डॉलर प्राप्त हुए।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/uk/a-rare-silver-coin-pattern-made-in-london-around-1867-for-trade-in-shanghai-spent-decades-in-a-private-collection-it-has-now-sold-for-4-758-million-at-a-hong-kong-auction-leading-a-nearly-32-million-sale/articleshow/135528874.cms"
+    },
+    {
+      "id": "ca_20261105_07",
+      "question": {
+        "en": "A German study involving 45 grassland sites concluded that reducing the frequency of mowing led to a massive increase in the population of insects and other invertebrates. What was the percentage increase observed after three years?",
+        "hi": "45 घास के मैदानों को शामिल करते हुए एक जर्मन अध्ययन ने निष्कर्ष निकाला कि घास काटने की आवृत्ति कम करने से कीड़ों और अन्य अकशेरुकी जीवों की आबादी में भारी वृद्धि हुई।तीन वर्षों के बाद कितने प्रतिशत की वृद्धि देखी गई?"
+      },
+      "options": [
+        {
+          "en": "99%",
+          "hi": "99%"
+        },
+        {
+          "en": "150%",
+          "hi": "150%"
+        },
+        {
+          "en": "50%",
+          "hi": "50%"
+        },
+        {
+          "en": "25%",
+          "hi": "25%"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "German scientists observed a 99% increase in the numbers of insects and other invertebrates after three years of reduced mowing at 45 different grassland sites. This highlights the importance of habitat management for biodiversity conservation.",
+        "hi": "जर्मन वैज्ञानिकों ने 45 अलग-अलग घास के मैदानों पर तीन साल तक कम कटाई के बाद कीड़ों और अन्य अकशेरुकी जीवों की संख्या में 99% की वृद्धि देखी।यह जैव विविधता संरक्षण के लिए आवास प्रबंधन के महत्व पर प्रकाश डालता है।"
+      },
+      "category": "Environment & Ecology",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/science/nature/german-scientists-tested-reducing-grassland-mowing-at-45-sites-insect-and-other-invertebrate-numbers-increased-99-after-three-years/articleshow/135493903.cms"
+    },
+    {
+      "id": "ca_20261105_08",
+      "question": {
+        "en": "Which historical manuscripts, considered among the most important ancient texts ever found, were famously discovered when a teenager tending livestock threw a stone into a cave?",
+        "hi": "कौन सी ऐतिहासिक पांडुलिपियाँ, जो अब तक पाए गए सबसे महत्वपूर्ण प्राचीन ग्रंथों में से एक मानी जाती हैं, प्रसिद्ध रूप से तब खोजी गईं जब पशुओं की देखभाल कर रहे एक किशोर ने एक गुफा में पत्थर फेंक दिया?"
+      },
+      "options": [
+        {
+          "en": "Nag Hammadi Library",
+          "hi": "नाग हम्मादी पुस्तकालय"
+        },
+        {
+          "en": "Epic of Gilgamesh tablets",
+          "hi": "गिलगमेश गोलियों का महाकाव्य"
+        },
+        {
+          "en": "Rosetta Stone texts",
+          "hi": "रोसेटा स्टोन ग्रंथ"
+        },
+        {
+          "en": "Dead Sea Scrolls",
+          "hi": "पुराने ज़माने की यहूदी हस्तलिपियाँ"
+        }
+      ],
+      "correctAnswer": 3,
+      "explanation": {
+        "en": "The Dead Sea Scrolls were discovered accidentally when a teenager tending livestock near the Dead Sea threw a stone into a cave and heard pottery shatter. These manuscripts are of immense historical and religious significance.",
+        "hi": "मृत सागर स्क्रॉल की खोज दुर्घटनावश तब हुई जब मृत सागर के पास पशुओं की देखभाल कर रहे एक किशोर ने एक गुफा में पत्थर फेंका और मिट्टी के बर्तनों के टूटने की आवाज सुनी।इन पांडुलिपियों का अत्यधिक ऐतिहासिक और धार्मिक महत्व है।"
+      },
+      "category": "Science & Technology",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/science/archaeology/a-teenager-tending-livestock-near-the-dead-sea-threw-a-stone-into-a-cave-and-heard-something-shatter-the-accidental-discovery-eventually-led-researchers-to-the-dead-sea-scrolls-among-the-most-important-ancient-manuscripts-ever-found/articleshow/135527626.cms"
+    },
+    {
+      "id": "ca_20261105_09",
+      "question": {
+        "en": "Archaeologists have managed to read an ancient message without breaking its clay envelope. The message is a 3,800-year-old letter written by a frustrated woman to her husband regarding what issue?",
+        "hi": "पुरातत्वविदों ने मिट्टी के आवरण को तोड़े बिना एक प्राचीन संदेश को पढ़ने में कामयाबी हासिल की है।यह संदेश 3,800 साल पुराना एक पत्र है जो एक निराश महिला ने अपने पति को किस मुद्दे पर लिखा था?"
+      },
+      "options": [
+        {
+          "en": "A border dispute over land",
+          "hi": "ज़मीन को लेकर सीमा विवाद"
+        },
+        {
+          "en": "A stolen herd of livestock",
+          "hi": "पशुओं का चुराया हुआ झुंड"
+        },
+        {
+          "en": "A political conspiracy against the king",
+          "hi": "राजा के खिलाफ एक राजनीतिक साजिश"
+        },
+        {
+          "en": "A debtor refusing to repay money",
+          "hi": "एक देनदार पैसा चुकाने से इनकार कर रहा है"
+        }
+      ],
+      "correctAnswer": 3,
+      "explanation": {
+        "en": "Researchers have deciphered a 3,800-year-old letter in which a frustrated woman complained to her husband about a debtor who refused to repay him. The text was read using advanced imaging techniques without breaking its original clay envelope.",
+        "hi": "शोधकर्ताओं ने 3,800 साल पुराने एक पत्र का पता लगाया है जिसमें एक निराश महिला ने अपने पति से एक कर्जदार के बारे में शिकायत की थी जिसने उसे चुकाने से इनकार कर दिया था।पाठ को उसके मूल मिट्टी के आवरण को तोड़े बिना उन्नत इमेजिंग तकनीकों का उपयोग करके पढ़ा गया था।"
+      },
+      "category": "Science & Technology",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/science/archaeology/a-3800-year-old-woman-once-wrote-a-frustrated-letter-to-her-husband-complaining-about-a-debtor-who-refused-to-repay-him-archaeologists-have-now-read-the-ancient-message-without-breaking-its-clay-envelope/articleshow/135518742.cms"
+    },
+    {
+      "id": "ca_20261105_10",
+      "question": {
+        "en": "In an ambitious conservation project, scientists are planning to breed and release a species of butterfly into a restored Canadian habitat. From which year had this species been missing in Ontario before this effort?",
+        "hi": "एक महत्वाकांक्षी संरक्षण परियोजना में, वैज्ञानिक तितली की एक प्रजाति को प्रजनन करके कनाडा के पुनर्स्थापित आवास में छोड़ने की योजना बना रहे हैं।इस प्रयास से पहले यह प्रजाति ओन्टारियो में किस वर्ष से गायब थी?"
+      },
+      "options": [
+        {
+          "en": "2000",
+          "hi": "2000"
+        },
+        {
+          "en": "1995",
+          "hi": "1995"
+        },
+        {
+          "en": "1988",
+          "hi": "1988"
+        },
+        {
+          "en": "1975",
+          "hi": "1975"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "A species of butterfly disappeared from Ontario, Canada, in 1988. Nearly four decades later, scientists are working on a project to bring eggs from New York, breed the species, and release them back into the restored habitat.",
+        "hi": "1988 में कनाडा के ओन्टारियो से तितली की एक प्रजाति गायब हो गई। लगभग चार दशक बाद, वैज्ञानिक न्यूयॉर्क से अंडे लाने, प्रजातियों का प्रजनन करने और उन्हें पुनर्स्थापित आवास में वापस छोड़ने की परियोजना पर काम कर रहे हैं।"
+      },
+      "category": "Environment & Ecology",
+      "difficulty": "hard",
+      "sourceUrl": "https://timesofindia.indiatimes.com/science/wildlife/a-butterfly-disappeared-from-ontario-in-1988-and-has-not-been-recorded-there-since-nearly-four-decades-later-scientists-plan-to-bring-eggs-from-new-york-and-breed-the-species-for-release-into-restored-canadian-habitat/articleshow/135462097.cms"
+    }
+  ]
+}
