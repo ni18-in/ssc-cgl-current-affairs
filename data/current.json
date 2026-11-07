@@ -1,340 +1,340 @@
 {
-  "date": "2026-11-07",
+  "date": "2026-11-08",
   "topic": "SSC CGL Daily Current Affairs",
-  "source": "Times of India",
-  "lastUpdated": "2026-11-07T05:22:10+05:30",
+  "source": "Multiple Sources",
+  "lastUpdated": "2026-11-08T05:18:23+05:30",
   "version": 1,
   "totalQuestions": 10,
   "quiz": [
     {
-      "id": "ca_20261107_01",
+      "id": "ca_20261108_01",
       "question": {
-        "en": "Which cricketer recently announced his retirement from Test cricket?",
-        "hi": "किस क्रिकेटर ने हाल ही में टेस्ट क्रिकेट से संन्यास की घोषणा की?"
+        "en": "Which technological expansion is facing mounting opposition in the US due to concerns over soaring electricity costs and excessive water consumption?",
+        "hi": "बढ़ती बिजली लागत और अत्यधिक पानी की खपत पर चिंताओं के कारण अमेरिका में किस तकनीकी विस्तार को बढ़ते विरोध का सामना करना पड़ रहा है?"
       },
       "options": [
         {
-          "en": "Rohit Sharma",
-          "hi": "रोहित शर्मा"
+          "en": "Semiconductor manufacturing",
+          "hi": "सेमीकंडक्टर निर्माण"
         },
         {
-          "en": "Ravichandran Ashwin",
-          "hi": "रविचंद्रन अश्विन"
+          "en": "Data centres",
+          "hi": "डेटा केंद्र"
         },
         {
-          "en": "Virat Kohli",
-          "hi": "विराट कोहली"
+          "en": "Cryptocurrency mining",
+          "hi": "क्रिप्टोकरेंसी खनन"
         },
         {
-          "en": "Mohammed Shami",
-          "hi": "मोहम्मद शमी"
+          "en": "Electric vehicle plants",
+          "hi": "इलेक्ट्रिक वाहन संयंत्र"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Local communities in the US are voicing concerns over data centres due to soaring electricity costs and water consumption, creating a political stir.",
+        "hi": "अमेरिका में स्थानीय समुदाय बिजली की बढ़ती लागत और पानी की खपत के कारण डेटा केंद्रों पर चिंता व्यक्त कर रहे हैं, जिससे राजनीतिक हलचल पैदा हो गई है।"
+      },
+      "category": "Environment & Ecology",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/ai-electricity-bills-and-voter-anger-how-data-centres-tanked-trumps-midterm-hopes/articleshow/135634353.cms"
+    },
+    {
+      "id": "ca_20261108_02",
+      "question": {
+        "en": "Who was recently picked by Israel's president to form the next government, challenging Benjamin Netanyahu?",
+        "hi": "हाल ही में इजराइल के राष्ट्रपति ने बेंजामिन नेतन्याहू को चुनौती देते हुए अगली सरकार बनाने के लिए किसे चुना है?"
+      },
+      "options": [
+        {
+          "en": "Benny Gantz",
+          "hi": "बेनी गैंट्ज़"
+        },
+        {
+          "en": "Yair Lapid",
+          "hi": "यायर लैपिड"
+        },
+        {
+          "en": "Gadi Eisenkot",
+          "hi": "गाडी ईसेनकोट"
+        },
+        {
+          "en": "Naftali Bennett",
+          "hi": "नफ्ताली बेनेट"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Israel's president has tapped opposition leader Gadi Eisenkot to form the next government, setting up a challenge to Benjamin Netanyahu's leadership.",
+        "hi": "इज़राइल के राष्ट्रपति ने अगली सरकार बनाने के लिए विपक्षी नेता गादी ईसेनकोट को चुना है, जिससे बेंजामिन नेतन्याहू के नेतृत्व के लिए चुनौती खड़ी हो गई है।"
+      },
+      "category": "Appointments & Commissions",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/middle-east/israel-president-taps-opposition-leader-eisenkot-to-form-government-challenging-netanyahu/articleshow/135646065.cms"
+    },
+    {
+      "id": "ca_20261108_03",
+      "question": {
+        "en": "Ahead of their upcoming summit, Beijing warned which alliance not to rake up the South China Sea row?",
+        "hi": "उनके आगामी शिखर सम्मेलन से पहले, बीजिंग ने किस गठबंधन को दक्षिण चीन सागर विवाद को न उठाने की चेतावनी दी?"
+      },
+      "options": [
+        {
+          "en": "ASEAN",
+          "hi": "आसियान"
+        },
+        {
+          "en": "NATO",
+          "hi": "नाटो"
+        },
+        {
+          "en": "Quad",
+          "hi": "ट्रैक्टर"
+        },
+        {
+          "en": "AUKUS",
+          "hi": "औकस"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Beijing warned the Quad alliance (comprising India, the US, Japan, and Australia) against raising the South China Sea dispute ahead of their summit.",
+        "hi": "बीजिंग ने क्वाड गठबंधन (जिसमें भारत, अमेरिका, जापान और ऑस्ट्रेलिया शामिल हैं) को उनके शिखर सम्मेलन से पहले दक्षिण चीन सागर विवाद को उठाने के खिलाफ चेतावनी दी।"
+      },
+      "category": "International Summits",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/china/ahead-of-summit-beijing-tells-quad-dont-rake-up-south-china-sea-row/articleshow/135648667.cms"
+    },
+    {
+      "id": "ca_20261108_04",
+      "question": {
+        "en": "According to recent reports, by what percentage did donations to the Congress party plunge, reaching Rs 131 crore?",
+        "hi": "हाल की रिपोर्टों के अनुसार, कांग्रेस पार्टी को मिलने वाले चंदे में कितने प्रतिशत की गिरावट आई और यह 131 करोड़ रुपये तक पहुँच गया?"
+      },
+      "options": [
+        {
+          "en": "65%",
+          "hi": "65%"
+        },
+        {
+          "en": "90%",
+          "hi": "90%"
+        },
+        {
+          "en": "75%",
+          "hi": "75%"
+        },
+        {
+          "en": "50%",
+          "hi": "50%"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Donations to the Congress party plunged by 75% to Rs 131 crore, marking the lowest collection in the past three years.",
+        "hi": "कांग्रेस पार्टी को दान 75% गिरकर 131 करोड़ रुपये हो गया, जो पिछले तीन वर्षों में सबसे कम संग्रह है।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/congress-donations-plunge-75-to-rs-131-cr-lowest-in-3years/articleshow/135648682.cms"
+    },
+    {
+      "id": "ca_20261108_05",
+      "question": {
+        "en": "At what altitude did the IAF's Gajraj aircraft recently make a world-record landing in Ladakh?",
+        "hi": "हाल ही में भारतीय वायुसेना के गजराज विमान ने लद्दाख में कितनी ऊंचाई पर विश्व-रिकॉर्ड लैंडिंग की?"
+      },
+      "options": [
+        {
+          "en": "11,800ft",
+          "hi": "11,800 फीट"
+        },
+        {
+          "en": "12,450ft",
+          "hi": "12,450 फीट"
+        },
+        {
+          "en": "10,500ft",
+          "hi": "10,500 फीट"
+        },
+        {
+          "en": "13,629ft",
+          "hi": "13,629 फीट"
         }
       ],
       "correctAnswer": 3,
       "explanation": {
-        "en": "Indian fast bowler Mohammed Shami has announced his retirement from Test cricket.",
-        "hi": "भारतीय तेज गेंदबाज मोहम्मद शमी ने टेस्ट क्रिकेट से संन्यास की घोषणा कर दी है।"
+        "en": "The Indian Air Force's Gajraj aircraft made a world-record landing at an altitude of 13,629ft in Ladakh, demonstrating significant operational capabilities in high-altitude regions.",
+        "hi": "भारतीय वायुसेना के गजराज विमान ने ऊंचाई वाले क्षेत्रों में महत्वपूर्ण परिचालन क्षमताओं का प्रदर्शन करते हुए लद्दाख में 13,629 फीट की ऊंचाई पर विश्व-रिकॉर्ड लैंडिंग की।"
       },
-      "category": "Sports",
-      "difficulty": "easy",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/thank-you-test-cricket-mohammed-shami-retires-from-longest-format-of-the-game/articleshow/135617607.cms"
+      "category": "Defence & Security",
+      "difficulty": "hard",
+      "sourceUrl": "https://timesofindia.indiatimes.com/defence/news/iaf-gajraj-makes-world-record-landing-at-13629ft-in-ladakh/articleshow/135644558.cms"
     },
     {
-      "id": "ca_20261107_02",
+      "id": "ca_20261108_06",
       "question": {
-        "en": "Who has been named the captain of the Bihar cricket team at the age of 15?",
-        "hi": "15 वर्ष की आयु में बिहार क्रिकेट टीम का कप्तान किसे नामित किया गया है?"
+        "en": "Mark Zuckerberg and Priscilla Chan pledged to donate what percentage of their Meta shares for philanthropic initiatives?",
+        "hi": "मार्क जुकरबर्ग और प्रिसिला चान ने परोपकारी पहल के लिए अपने मेटा शेयरों का कितना प्रतिशत दान करने का वचन दिया?"
       },
       "options": [
         {
-          "en": "Vaibhav Sooryavanshi",
-          "hi": "वैभव सूर्यवंशी"
+          "en": "75%",
+          "hi": "75%"
         },
         {
-          "en": "Yashasvi Jaiswal",
-          "hi": "यशस्वी जायसवाल"
+          "en": "50%",
+          "hi": "50%"
         },
         {
-          "en": "Shubman Gill",
-          "hi": "शुभमन गिल"
+          "en": "99%",
+          "hi": "99%"
         },
         {
-          "en": "Prithvi Shaw",
-          "hi": "पृथ्वी शॉ"
+          "en": "90%",
+          "hi": "90%"
         }
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 2,
       "explanation": {
-        "en": "Vaibhav Sooryavanshi was named the captain of the Bihar state cricket team at just 15 years old.",
-        "hi": "वैभव सूर्यवंशी को मात्र 15 वर्ष की आयु में बिहार राज्य क्रिकेट टीम का कप्तान बनाया गया।"
-      },
-      "category": "Sports",
-      "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/vaibhav-sooryavanshis-meteoric-rise-continues-as-bihar-hand-him-captaincy-at-15/articleshow/135611148.cms"
-    },
-    {
-      "id": "ca_20261107_03",
-      "question": {
-        "en": "Which Indian chess player was crowned the World Junior Blitz champion?",
-        "hi": "किस भारतीय शतरंज खिलाड़ी को विश्व जूनियर ब्लिट्ज़ चैंपियन का ताज पहनाया गया?"
-      },
-      "options": [
-        {
-          "en": "D Gukesh",
-          "hi": "डी गुकेश"
-        },
-        {
-          "en": "Pranav Venkatesh",
-          "hi": "प्रणव वेंकटेश"
-        },
-        {
-          "en": "Nihal Sarin",
-          "hi": "निहाल सरीन"
-        },
-        {
-          "en": "R Praggnanandhaa",
-          "hi": "आर प्रज्ञानानंद"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "India's 20-year-old chess Grandmaster Pranav Venkatesh won the Open title at the World Junior Blitz championship.",
-        "hi": "भारत के 20 वर्षीय शतरंज ग्रैंडमास्टर प्रणव वेंकटेश ने विश्व जूनियर ब्लिट्ज़ चैम्पियनशिप में ओपन खिताब जीता।"
-      },
-      "category": "Sports",
-      "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/chess/indias-20-year-old-chess-grandmaster-pranav-v-crowned-world-junior-blitz-champion-after-rapid-silver/articleshow/135613071.cms"
-    },
-    {
-      "id": "ca_20261107_04",
-      "question": {
-        "en": "Who were named as the chair and vice-chair, respectively, of the IOA Athletes’ Commission?",
-        "hi": "आईओए (IOA) एथलीट आयोग के अध्यक्ष और उपाध्यक्ष के रूप में क्रमशः किसे नामित किया गया?"
-      },
-      "options": [
-        {
-          "en": "Neeraj Chopra and Mirabai Chanu",
-          "hi": "नीरज चोपड़ा और मीराबाई चानू"
-        },
-        {
-          "en": "PV Sindhu and Harmanpreet Singh",
-          "hi": "पीवी सिंधु और हरमनप्रीत सिंह"
-        },
-        {
-          "en": "Mary Kom and Sharath Kamal",
-          "hi": "मैरी कॉम और शरत कमल"
-        },
-        {
-          "en": "Vinesh Phogat and Bajrang Punia",
-          "hi": "विनेश फोगट और बजरंग पुनिया"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "PV Sindhu and Harmanpreet Singh were named the chair and vice-chair of the Indian Olympic Association (IOA) Athletes’ Commission.",
-        "hi": "पीवी सिंधु और हरमनप्रीत सिंह को भारतीय ओलंपिक संघ (IOA) एथलीट आयोग का अध्यक्ष और उपाध्यक्ष नामित किया गया।"
-      },
-      "category": "Appointments & Commissions",
-      "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/sports/olympics/sindhu-harmanpreet-to-chair-vice-chair-respectively-the-ioa-athletes-commission/articleshow/135616531.cms"
-    },
-    {
-      "id": "ca_20261107_05",
-      "question": {
-        "en": "A student from which US state won an award for a free tool mapping wildlife roadkill hotspots?",
-        "hi": "किस अमेरिकी राज्य के एक छात्र ने वन्यजीवों के रोडकिल (सड़क दुर्घटना) हॉटस्पॉट की मैपिंग के लिए एक मुफ्त टूल बनाने हेतु पुरस्कार जीता?"
-      },
-      "options": [
-        {
-          "en": "Texas",
-          "hi": "टेक्सास"
-        },
-        {
-          "en": "North Carolina",
-          "hi": "उत्तरी कैरोलिना"
-        },
-        {
-          "en": "California",
-          "hi": "कैलिफोर्निया"
-        },
-        {
-          "en": "New York",
-          "hi": "न्यूयॉर्क"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "A North Carolina student won a top award for developing a free prototype mapping platform to identify wildlife roadkill hotspots.",
-        "hi": "उत्तरी कैरोलिना के एक छात्र ने वन्यजीव रोडकिल हॉटस्पॉट की पहचान करने के लिए एक निःशुल्क प्रोटोटाइप मैपिंग प्लेटफॉर्म विकसित करने के लिए शीर्ष पुरस्कार जीता।"
+        "en": "Mark Zuckerberg and Priscilla Chan have committed to donate 99% of their Meta shares to philanthropic causes aimed at advancing human potential.",
+        "hi": "मार्क जुकरबर्ग और प्रिसिला चान ने मानव क्षमता को आगे बढ़ाने के उद्देश्य से परोपकारी कार्यों के लिए अपने मेटा शेयरों का 99% दान करने की प्रतिबद्धता जताई है।"
       },
       "category": "Science & Technology",
       "difficulty": "hard",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/meet-the-north-carolina-student-who-built-a-prototype-for-a-free-roadkill-mapping-platform-and-has-now-won-a-first-place-award-for-his-plan-to-make-american-roads-safer-for-wildlife/articleshow/135619848.cms"
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerberg-and-priscilla-chan-have-pledged-to-donate-99-of-their-meta-shares-heres-the-open-letter-they-wrote-to-their-eldest-daughter-maxima-in-2015-it-makes-a-promises-that-/articleshow/135635095.cms"
     },
     {
-      "id": "ca_20261107_06",
+      "id": "ca_20261108_07",
       "question": {
-        "en": "Which country plans to introduce a new question on its entry form asking foreign visitors if they will comply with local laws?",
-        "hi": "कौन सा देश अपने प्रवेश फॉर्म पर एक नया प्रश्न पेश करने की योजना बना रहा है जिसमें विदेशी आगंतुकों से पूछा जाएगा कि क्या वे स्थानीय कानूनों का पालन करेंगे?"
+        "en": "Which prominent sports organization chief was recently offered the White House press secretary post by Donald Trump?",
+        "hi": "हाल ही में डोनाल्ड ट्रम्प ने किस प्रमुख खेल संगठन प्रमुख को व्हाइट हाउस प्रेस सचिव पद की पेशकश की थी?"
       },
       "options": [
         {
-          "en": "UAE",
-          "hi": "यूएई (UAE)"
+          "en": "UFC",
+          "hi": "यूएफसी"
         },
         {
-          "en": "Singapore",
-          "hi": "सिंगापुर"
+          "en": "NFL",
+          "hi": "एनएफएल"
         },
         {
-          "en": "Japan",
-          "hi": "जापान"
+          "en": "NBA",
+          "hi": "एनबीए"
         },
         {
-          "en": "Australia",
-          "hi": "ऑस्ट्रेलिया"
-        }
-      ],
-      "correctAnswer": 2,
-      "explanation": {
-        "en": "Japan is planning to add a new question for foreign visitors on entry forms asking if they will comply with Japanese laws.",
-        "hi": "जापान प्रवेश फॉर्मों पर विदेशी आगंतुकों के लिए एक नया प्रश्न जोड़ने की योजना बना रहा है जिसमें पूछा जाएगा कि क्या वे जापानी कानूनों का पालन करेंगे।"
-      },
-      "category": "International Summits",
-      "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/rest-of-world/will-you-comply-with-japanese-laws-japan-plans-new-question-for-foreign-visitors-on-entry-form/articleshow/135615894.cms"
-    },
-    {
-      "id": "ca_20261107_07",
-      "question": {
-        "en": "Which Indian-American has recently been elected as a congresswoman?",
-        "hi": "हाल ही में किस भारतीय-अमेरिकी को कांग्रेस महिला (कांग्रेसवुमन) के रूप में चुना गया है?"
-      },
-      "options": [
-        {
-          "en": "Nikki Haley",
-          "hi": "निक्की हेली"
-        },
-        {
-          "en": "Kamala Harris",
-          "hi": "कमला हैरिस"
-        },
-        {
-          "en": "Pia Dandiya",
-          "hi": "पिया दांडिया"
-        },
-        {
-          "en": "Pramila Jayapal",
-          "hi": "प्रमिला जयपाल"
-        }
-      ],
-      "correctAnswer": 2,
-      "explanation": {
-        "en": "Pia Dandiya is a newly elected Indian-American congresswoman.",
-        "hi": "पिया दांडिया नवनिर्वाचित भारतीय-अमेरिकी कांग्रेस महिला हैं।"
-      },
-      "category": "Appointments & Commissions",
-      "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/who-is-navneet-alag-meet-husband-of-newly-elected-indian-american-congresswoman-pia-dandiya/articleshow/135617384.cms"
-    },
-    {
-      "id": "ca_20261107_08",
-      "question": {
-        "en": "Which state government recently claimed that petrol was being sold with over 30% ethanol?",
-        "hi": "हाल ही में किस राज्य सरकार ने दावा किया है कि पेट्रोल 30% से अधिक इथेनॉल के साथ बेचा जा रहा था?"
-      },
-      "options": [
-        {
-          "en": "Karnataka",
-          "hi": "कर्नाटक"
-        },
-        {
-          "en": "Uttar Pradesh",
-          "hi": "उत्तर प्रदेश"
-        },
-        {
-          "en": "Gujarat",
-          "hi": "गुजरात"
-        },
-        {
-          "en": "Maharashtra",
-          "hi": "महाराष्ट्र"
+          "en": "WWE",
+          "hi": "डब्ल्यूडब्ल्यूई"
         }
       ],
       "correctAnswer": 0,
       "explanation": {
-        "en": "The Karnataka government claimed that petrol in the state was being sold with over 30% ethanol, well above the allowed limit.",
-        "hi": "कर्नाटक सरकार ने दावा किया कि राज्य में पेट्रोल 30% से अधिक इथेनॉल के साथ बेचा जा रहा था, जो अनुमत सीमा से काफी ऊपर है।"
+        "en": "Donald Trump reportedly offered the position of White House press secretary to Dana White, the chief of the Ultimate Fighting Championship (UFC).",
+        "hi": "डोनाल्ड ट्रम्प ने कथित तौर पर अल्टीमेट फाइटिंग चैम्पियनशिप (यूएफसी) के प्रमुख डाना व्हाइट को व्हाइट हाउस के प्रेस सचिव के पद की पेशकश की थी।"
       },
-      "category": "Polity & Governance",
-      "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/karnatakas-30-ethanol-claim-stirs-row-as-omcs-junk-test/articleshow/135620353.cms"
+      "category": "Appointments & Commissions",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/dana-please-take-the-job-trump-offers-ufc-chief-white-house-press-secretary-post/articleshow/135645729.cms"
     },
     {
-      "id": "ca_20261107_09",
+      "id": "ca_20261108_08",
       "question": {
-        "en": "According to a recent report, which country is the biggest lender to Pakistan as its external debt nearly doubled to $135 bn in 10 years?",
-        "hi": "एक हालिया रिपोर्ट के अनुसार, 10 वर्षों में पाकिस्तान का विदेशी ऋण लगभग दोगुना होकर $135 बिलियन हो जाने के कारण कौन सा देश पाकिस्तान का सबसे बड़ा ऋणदाता है?"
+        "en": "Emma Watson recently donated £1 million to a UK fund primarily aimed at combating which issue?",
+        "hi": "एम्मा वॉटसन ने हाल ही में यूके फंड में £1 मिलियन का दान दिया जिसका मुख्य उद्देश्य मुख्य रूप से किस मुद्दे से निपटना था?"
       },
       "options": [
         {
-          "en": "Saudi Arabia",
-          "hi": "सऊदी अरब"
+          "en": "Child poverty",
+          "hi": "बाल निर्धनता"
         },
         {
-          "en": "China",
-          "hi": "चीन"
+          "en": "Sexual harassment",
+          "hi": "यौन उत्पीड़न"
         },
         {
-          "en": "USA",
-          "hi": "संयुक्त राज्य अमेरिका (USA)"
+          "en": "Climate change",
+          "hi": "जलवायु परिवर्तन"
         },
         {
-          "en": "UAE",
-          "hi": "यूएई (UAE)"
+          "en": "Educational inequality",
+          "hi": "शैक्षिक असमानता"
         }
       ],
       "correctAnswer": 1,
       "explanation": {
-        "en": "Pakistan's external debt has nearly doubled to $135 billion over the last 10 years, with China emerging as its biggest lender.",
-        "hi": "पिछले 10 वर्षों में पाकिस्तान का विदेशी ऋण लगभग दोगुना होकर 135 बिलियन डॉलर हो गया है, जिसमें चीन इसके सबसे बड़े ऋणदाता के रूप में उभरा है।"
+        "en": "Emma Watson donated £1 million to the Justice and Equality Fund in the UK, which has reached over 46,100 women and girls in the fight against sexual harassment.",
+        "hi": "एम्मा वॉटसन ने यूके में न्याय और समानता कोष को £1 मिलियन का दान दिया, जो यौन उत्पीड़न के खिलाफ लड़ाई में 46,100 से अधिक महिलाओं और लड़कियों तक पहुंचा है।"
       },
-      "category": "Economy & Banking",
+      "category": "Awards & Honours",
       "difficulty": "easy",
-      "sourceUrl": "https://timesofindia.indiatimes.com/business/international-business/pakistans-external-debt-nearly-doubles-to-135-bn-in-10-years-china-biggest-lender/articleshow/135593845.cms"
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/uk/emma-watson-donated-1-million-to-a-uk-fund-fighting-sexual-harassment-its-impact-report-later-recorded-46100-women-and-girls-reached-over-20000-professionals-trained-and-59-grants-awarded/articleshow/135578193.cms"
     },
     {
-      "id": "ca_20261107_10",
+      "id": "ca_20261108_09",
       "question": {
-        "en": "Which company's application for satellite broadband services in India faced controversy due to delayed application and security norm issues?",
-        "hi": "भारत में सैटेलाइट ब्रॉडबैंड सेवाओं के लिए किस कंपनी के आवेदन को विलंबित आवेदन और सुरक्षा मानदंडों के मुद्दों के कारण विवाद का सामना करना पड़ा?"
+        "en": "In which European country did the Prime Minister recently reveal that three bodies were found at a mass shooting suspect's home, citing far-right influence?",
+        "hi": "हाल ही में किस यूरोपीय देश में धुर दक्षिणपंथी प्रभाव का हवाला देते हुए प्रधान मंत्री ने खुलासा किया कि सामूहिक गोलीबारी के एक संदिग्ध के घर पर तीन शव पाए गए थे?"
       },
       "options": [
         {
-          "en": "Starlink",
-          "hi": "स्टारलिंक"
+          "en": "France",
+          "hi": "फ्रांस"
         },
         {
-          "en": "OneWeb",
-          "hi": "वनवेब"
+          "en": "Germany",
+          "hi": "जर्मनी"
         },
         {
-          "en": "Hughes",
-          "hi": "ह्यूजेस"
+          "en": "Poland",
+          "hi": "पोलैंड"
         },
         {
-          "en": "Jio SpaceFiber",
-          "hi": "जियो स्पेसफाइबर"
+          "en": "Sweden",
+          "hi": "स्वीडन"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The Prime Minister of Poland revealed that three bodies were found at the home of a mass shooting suspect, with ministers flagging potential far-right influence.",
+        "hi": "पोलैंड के प्रधान मंत्री ने खुलासा किया कि सामूहिक गोलीबारी के एक संदिग्ध के घर पर तीन शव पाए गए, मंत्रियों ने संभावित सुदूर-दक्षिणपंथी प्रभाव का संकेत दिया।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/europe/poland-mass-shooting-pm-says-footage-shows-3-bodies-at-suspects-home-minister-cites-far-right-influence/articleshow/135646464.cms"
+    },
+    {
+      "id": "ca_20261108_10",
+      "question": {
+        "en": "Which political party recently claimed that Sonia Gandhi's remarks on the Babri issue exposed the Congress party's anti-Ram stance?",
+        "hi": "हाल ही में किस राजनीतिक दल ने दावा किया कि बाबरी मुद्दे पर सोनिया गांधी की टिप्पणियों ने कांग्रेस पार्टी के राम-विरोधी रुख को उजागर कर दिया है?"
+      },
+      "options": [
+        {
+          "en": "BJP",
+          "hi": "भाजपा"
+        },
+        {
+          "en": "BSP",
+          "hi": "बसपा"
+        },
+        {
+          "en": "AAP",
+          "hi": "एएपी"
+        },
+        {
+          "en": "SP",
+          "hi": "सपा"
         }
       ],
       "correctAnswer": 0,
       "explanation": {
-        "en": "The government stated that Elon Musk's Starlink was the last to apply and must meet security norms for satellite broadband services in India.",
-        "hi": "सरकार ने कहा कि एलोन मस्क के स्टारलिंक ने सबसे अंत में आवेदन किया था और उसे भारत में उपग्रह ब्रॉडबैंड सेवाओं के लिए सुरक्षा मानदंडों को पूरा करना होगा।"
+        "en": "The BJP claimed that remarks by Sonia Gandhi regarding the Babri issue exposed what they described as the Congress party's anti-Ram stance.",
+        "hi": "भाजपा ने दावा किया कि बाबरी मुद्दे के संबंध में सोनिया गांधी की टिप्पणियों से कांग्रेस पार्टी का राम विरोधी रुख उजागर हो गया है।"
       },
-      "category": "Science & Technology",
+      "category": "Polity & Governance",
       "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/it-was-last-to-apply-meet-security-norms-govt-hits-back-on-starlink-row/articleshow/135593856.cms"
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/sonias-babri-claim-exposes-congs-anti-ram-face-bjp/articleshow/135646452.cms"
     }
   ]
 }
