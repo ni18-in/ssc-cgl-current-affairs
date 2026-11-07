@@ -1,13 +1,13 @@
 {
-  "date": "2026-11-07",
+  "date": "2026-11-08",
   "topic": "SSC CGL Daily Current Affairs",
   "source": "Times of India",
-  "lastUpdated": "2026-11-07T05:22:10+05:30",
+  "lastUpdated": "2026-11-08T06:30:00+05:30",
   "version": 1,
   "totalQuestions": 10,
   "quiz": [
     {
-      "id": "ca_20261107_01",
+      "id": "ca_20261108_01",
       "question": {
         "en": "Which cricketer recently announced his retirement from Test cricket?",
         "hi": "किस क्रिकेटर ने हाल ही में टेस्ट क्रिकेट से संन्यास की घोषणा की?"
@@ -40,7 +40,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/thank-you-test-cricket-mohammed-shami-retires-from-longest-format-of-the-game/articleshow/135617607.cms"
     },
     {
-      "id": "ca_20261107_02",
+      "id": "ca_20261108_02",
       "question": {
         "en": "Who has been named the captain of the Bihar cricket team at the age of 15?",
         "hi": "15 वर्ष की आयु में बिहार क्रिकेट टीम का कप्तान किसे नामित किया गया है?"
@@ -73,7 +73,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/vaibhav-sooryavanshis-meteoric-rise-continues-as-bihar-hand-him-captaincy-at-15/articleshow/135611148.cms"
     },
     {
-      "id": "ca_20261107_03",
+      "id": "ca_20261108_03",
       "question": {
         "en": "Which Indian chess player was crowned the World Junior Blitz champion?",
         "hi": "किस भारतीय शतरंज खिलाड़ी को विश्व जूनियर ब्लिट्ज़ चैंपियन का ताज पहनाया गया?"
@@ -106,7 +106,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/sports/chess/indias-20-year-old-chess-grandmaster-pranav-v-crowned-world-junior-blitz-champion-after-rapid-silver/articleshow/135613071.cms"
     },
     {
-      "id": "ca_20261107_04",
+      "id": "ca_20261108_04",
       "question": {
         "en": "Who were named as the chair and vice-chair, respectively, of the IOA Athletes’ Commission?",
         "hi": "आईओए (IOA) एथलीट आयोग के अध्यक्ष और उपाध्यक्ष के रूप में क्रमशः किसे नामित किया गया?"
@@ -139,7 +139,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/sports/olympics/sindhu-harmanpreet-to-chair-vice-chair-respectively-the-ioa-athletes-commission/articleshow/135616531.cms"
     },
     {
-      "id": "ca_20261107_05",
+      "id": "ca_20261108_05",
       "question": {
         "en": "A student from which US state won an award for a free tool mapping wildlife roadkill hotspots?",
         "hi": "किस अमेरिकी राज्य के एक छात्र ने वन्यजीवों के रोडकिल (सड़क दुर्घटना) हॉटस्पॉट की मैपिंग के लिए एक मुफ्त टूल बनाने हेतु पुरस्कार जीता?"
@@ -172,7 +172,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/world/us/meet-the-north-carolina-student-who-built-a-prototype-for-a-free-roadkill-mapping-platform-and-has-now-won-a-first-place-award-for-his-plan-to-make-american-roads-safer-for-wildlife/articleshow/135619848.cms"
     },
     {
-      "id": "ca_20261107_06",
+      "id": "ca_20261108_06",
       "question": {
         "en": "Which country plans to introduce a new question on its entry form asking foreign visitors if they will comply with local laws?",
         "hi": "कौन सा देश अपने प्रवेश फॉर्म पर एक नया प्रश्न पेश करने की योजना बना रहा है जिसमें विदेशी आगंतुकों से पूछा जाएगा कि क्या वे स्थानीय कानूनों का पालन करेंगे?"
@@ -205,7 +205,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/world/rest-of-world/will-you-comply-with-japanese-laws-japan-plans-new-question-for-foreign-visitors-on-entry-form/articleshow/135615894.cms"
     },
     {
-      "id": "ca_20261107_07",
+      "id": "ca_20261108_07",
       "question": {
         "en": "Which Indian-American has recently been elected as a congresswoman?",
         "hi": "हाल ही में किस भारतीय-अमेरिकी को कांग्रेस महिला (कांग्रेसवुमन) के रूप में चुना गया है?"
@@ -238,7 +238,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/world/us/who-is-navneet-alag-meet-husband-of-newly-elected-indian-american-congresswoman-pia-dandiya/articleshow/135617384.cms"
     },
     {
-      "id": "ca_20261107_08",
+      "id": "ca_20261108_08",
       "question": {
         "en": "Which state government recently claimed that petrol was being sold with over 30% ethanol?",
         "hi": "हाल ही में किस राज्य सरकार ने दावा किया है कि पेट्रोल 30% से अधिक इथेनॉल के साथ बेचा जा रहा था?"
@@ -271,7 +271,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/karnatakas-30-ethanol-claim-stirs-row-as-omcs-junk-test/articleshow/135620353.cms"
     },
     {
-      "id": "ca_20261107_09",
+      "id": "ca_20261108_09",
       "question": {
         "en": "According to a recent report, which country is the biggest lender to Pakistan as its external debt nearly doubled to $135 bn in 10 years?",
         "hi": "एक हालिया रिपोर्ट के अनुसार, 10 वर्षों में पाकिस्तान का विदेशी ऋण लगभग दोगुना होकर $135 बिलियन हो जाने के कारण कौन सा देश पाकिस्तान का सबसे बड़ा ऋणदाता है?"
@@ -304,7 +304,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/business/international-business/pakistans-external-debt-nearly-doubles-to-135-bn-in-10-years-china-biggest-lender/articleshow/135593845.cms"
     },
     {
-      "id": "ca_20261107_10",
+      "id": "ca_20261108_10",
       "question": {
         "en": "Which company's application for satellite broadband services in India faced controversy due to delayed application and security norm issues?",
         "hi": "भारत में सैटेलाइट ब्रॉडबैंड सेवाओं के लिए किस कंपनी के आवेदन को विलंबित आवेदन और सुरक्षा मानदंडों के मुद्दों के कारण विवाद का सामना करना पड़ा?"
