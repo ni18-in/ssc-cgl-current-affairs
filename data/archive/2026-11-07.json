@@ -1,0 +1,340 @@
+{
+  "date": "2026-11-07",
+  "topic": "SSC CGL Daily Current Affairs",
+  "source": "Times of India",
+  "lastUpdated": "2026-11-07T05:22:10+05:30",
+  "version": 1,
+  "totalQuestions": 10,
+  "quiz": [
+    {
+      "id": "ca_20261107_01",
+      "question": {
+        "en": "Which cricketer recently announced his retirement from Test cricket?",
+        "hi": "किस क्रिकेटर ने हाल ही में टेस्ट क्रिकेट से संन्यास की घोषणा की?"
+      },
+      "options": [
+        {
+          "en": "Rohit Sharma",
+          "hi": "रोहित शर्मा"
+        },
+        {
+          "en": "Ravichandran Ashwin",
+          "hi": "रविचंद्रन अश्विन"
+        },
+        {
+          "en": "Virat Kohli",
+          "hi": "विराट कोहली"
+        },
+        {
+          "en": "Mohammed Shami",
+          "hi": "मोहम्मद शमी"
+        }
+      ],
+      "correctAnswer": 3,
+      "explanation": {
+        "en": "Indian fast bowler Mohammed Shami has announced his retirement from Test cricket.",
+        "hi": "भारतीय तेज गेंदबाज मोहम्मद शमी ने टेस्ट क्रिकेट से संन्यास की घोषणा कर दी है।"
+      },
+      "category": "Sports",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/thank-you-test-cricket-mohammed-shami-retires-from-longest-format-of-the-game/articleshow/135617607.cms"
+    },
+    {
+      "id": "ca_20261107_02",
+      "question": {
+        "en": "Who has been named the captain of the Bihar cricket team at the age of 15?",
+        "hi": "15 वर्ष की आयु में बिहार क्रिकेट टीम का कप्तान किसे नामित किया गया है?"
+      },
+      "options": [
+        {
+          "en": "Vaibhav Sooryavanshi",
+          "hi": "वैभव सूर्यवंशी"
+        },
+        {
+          "en": "Yashasvi Jaiswal",
+          "hi": "यशस्वी जायसवाल"
+        },
+        {
+          "en": "Shubman Gill",
+          "hi": "शुभमन गिल"
+        },
+        {
+          "en": "Prithvi Shaw",
+          "hi": "पृथ्वी शॉ"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "Vaibhav Sooryavanshi was named the captain of the Bihar state cricket team at just 15 years old.",
+        "hi": "वैभव सूर्यवंशी को मात्र 15 वर्ष की आयु में बिहार राज्य क्रिकेट टीम का कप्तान बनाया गया।"
+      },
+      "category": "Sports",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/cricket/news/vaibhav-sooryavanshis-meteoric-rise-continues-as-bihar-hand-him-captaincy-at-15/articleshow/135611148.cms"
+    },
+    {
+      "id": "ca_20261107_03",
+      "question": {
+        "en": "Which Indian chess player was crowned the World Junior Blitz champion?",
+        "hi": "किस भारतीय शतरंज खिलाड़ी को विश्व जूनियर ब्लिट्ज़ चैंपियन का ताज पहनाया गया?"
+      },
+      "options": [
+        {
+          "en": "D Gukesh",
+          "hi": "डी गुकेश"
+        },
+        {
+          "en": "Pranav Venkatesh",
+          "hi": "प्रणव वेंकटेश"
+        },
+        {
+          "en": "Nihal Sarin",
+          "hi": "निहाल सरीन"
+        },
+        {
+          "en": "R Praggnanandhaa",
+          "hi": "आर प्रज्ञानानंद"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "India's 20-year-old chess Grandmaster Pranav Venkatesh won the Open title at the World Junior Blitz championship.",
+        "hi": "भारत के 20 वर्षीय शतरंज ग्रैंडमास्टर प्रणव वेंकटेश ने विश्व जूनियर ब्लिट्ज़ चैम्पियनशिप में ओपन खिताब जीता।"
+      },
+      "category": "Sports",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/chess/indias-20-year-old-chess-grandmaster-pranav-v-crowned-world-junior-blitz-champion-after-rapid-silver/articleshow/135613071.cms"
+    },
+    {
+      "id": "ca_20261107_04",
+      "question": {
+        "en": "Who were named as the chair and vice-chair, respectively, of the IOA Athletes’ Commission?",
+        "hi": "आईओए (IOA) एथलीट आयोग के अध्यक्ष और उपाध्यक्ष के रूप में क्रमशः किसे नामित किया गया?"
+      },
+      "options": [
+        {
+          "en": "Neeraj Chopra and Mirabai Chanu",
+          "hi": "नीरज चोपड़ा और मीराबाई चानू"
+        },
+        {
+          "en": "PV Sindhu and Harmanpreet Singh",
+          "hi": "पीवी सिंधु और हरमनप्रीत सिंह"
+        },
+        {
+          "en": "Mary Kom and Sharath Kamal",
+          "hi": "मैरी कॉम और शरत कमल"
+        },
+        {
+          "en": "Vinesh Phogat and Bajrang Punia",
+          "hi": "विनेश फोगट और बजरंग पुनिया"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "PV Sindhu and Harmanpreet Singh were named the chair and vice-chair of the Indian Olympic Association (IOA) Athletes’ Commission.",
+        "hi": "पीवी सिंधु और हरमनप्रीत सिंह को भारतीय ओलंपिक संघ (IOA) एथलीट आयोग का अध्यक्ष और उपाध्यक्ष नामित किया गया।"
+      },
+      "category": "Appointments & Commissions",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/olympics/sindhu-harmanpreet-to-chair-vice-chair-respectively-the-ioa-athletes-commission/articleshow/135616531.cms"
+    },
+    {
+      "id": "ca_20261107_05",
+      "question": {
+        "en": "A student from which US state won an award for a free tool mapping wildlife roadkill hotspots?",
+        "hi": "किस अमेरिकी राज्य के एक छात्र ने वन्यजीवों के रोडकिल (सड़क दुर्घटना) हॉटस्पॉट की मैपिंग के लिए एक मुफ्त टूल बनाने हेतु पुरस्कार जीता?"
+      },
+      "options": [
+        {
+          "en": "Texas",
+          "hi": "टेक्सास"
+        },
+        {
+          "en": "North Carolina",
+          "hi": "उत्तरी कैरोलिना"
+        },
+        {
+          "en": "California",
+          "hi": "कैलिफोर्निया"
+        },
+        {
+          "en": "New York",
+          "hi": "न्यूयॉर्क"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "A North Carolina student won a top award for developing a free prototype mapping platform to identify wildlife roadkill hotspots.",
+        "hi": "उत्तरी कैरोलिना के एक छात्र ने वन्यजीव रोडकिल हॉटस्पॉट की पहचान करने के लिए एक निःशुल्क प्रोटोटाइप मैपिंग प्लेटफॉर्म विकसित करने के लिए शीर्ष पुरस्कार जीता।"
+      },
+      "category": "Science & Technology",
+      "difficulty": "hard",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/meet-the-north-carolina-student-who-built-a-prototype-for-a-free-roadkill-mapping-platform-and-has-now-won-a-first-place-award-for-his-plan-to-make-american-roads-safer-for-wildlife/articleshow/135619848.cms"
+    },
+    {
+      "id": "ca_20261107_06",
+      "question": {
+        "en": "Which country plans to introduce a new question on its entry form asking foreign visitors if they will comply with local laws?",
+        "hi": "कौन सा देश अपने प्रवेश फॉर्म पर एक नया प्रश्न पेश करने की योजना बना रहा है जिसमें विदेशी आगंतुकों से पूछा जाएगा कि क्या वे स्थानीय कानूनों का पालन करेंगे?"
+      },
+      "options": [
+        {
+          "en": "UAE",
+          "hi": "यूएई (UAE)"
+        },
+        {
+          "en": "Singapore",
+          "hi": "सिंगापुर"
+        },
+        {
+          "en": "Japan",
+          "hi": "जापान"
+        },
+        {
+          "en": "Australia",
+          "hi": "ऑस्ट्रेलिया"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Japan is planning to add a new question for foreign visitors on entry forms asking if they will comply with Japanese laws.",
+        "hi": "जापान प्रवेश फॉर्मों पर विदेशी आगंतुकों के लिए एक नया प्रश्न जोड़ने की योजना बना रहा है जिसमें पूछा जाएगा कि क्या वे जापानी कानूनों का पालन करेंगे।"
+      },
+      "category": "International Summits",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/rest-of-world/will-you-comply-with-japanese-laws-japan-plans-new-question-for-foreign-visitors-on-entry-form/articleshow/135615894.cms"
+    },
+    {
+      "id": "ca_20261107_07",
+      "question": {
+        "en": "Which Indian-American has recently been elected as a congresswoman?",
+        "hi": "हाल ही में किस भारतीय-अमेरिकी को कांग्रेस महिला (कांग्रेसवुमन) के रूप में चुना गया है?"
+      },
+      "options": [
+        {
+          "en": "Nikki Haley",
+          "hi": "निक्की हेली"
+        },
+        {
+          "en": "Kamala Harris",
+          "hi": "कमला हैरिस"
+        },
+        {
+          "en": "Pia Dandiya",
+          "hi": "पिया दांडिया"
+        },
+        {
+          "en": "Pramila Jayapal",
+          "hi": "प्रमिला जयपाल"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Pia Dandiya is a newly elected Indian-American congresswoman.",
+        "hi": "पिया दांडिया नवनिर्वाचित भारतीय-अमेरिकी कांग्रेस महिला हैं।"
+      },
+      "category": "Appointments & Commissions",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/who-is-navneet-alag-meet-husband-of-newly-elected-indian-american-congresswoman-pia-dandiya/articleshow/135617384.cms"
+    },
+    {
+      "id": "ca_20261107_08",
+      "question": {
+        "en": "Which state government recently claimed that petrol was being sold with over 30% ethanol?",
+        "hi": "हाल ही में किस राज्य सरकार ने दावा किया है कि पेट्रोल 30% से अधिक इथेनॉल के साथ बेचा जा रहा था?"
+      },
+      "options": [
+        {
+          "en": "Karnataka",
+          "hi": "कर्नाटक"
+        },
+        {
+          "en": "Uttar Pradesh",
+          "hi": "उत्तर प्रदेश"
+        },
+        {
+          "en": "Gujarat",
+          "hi": "गुजरात"
+        },
+        {
+          "en": "Maharashtra",
+          "hi": "महाराष्ट्र"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "The Karnataka government claimed that petrol in the state was being sold with over 30% ethanol, well above the allowed limit.",
+        "hi": "कर्नाटक सरकार ने दावा किया कि राज्य में पेट्रोल 30% से अधिक इथेनॉल के साथ बेचा जा रहा था, जो अनुमत सीमा से काफी ऊपर है।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/karnatakas-30-ethanol-claim-stirs-row-as-omcs-junk-test/articleshow/135620353.cms"
+    },
+    {
+      "id": "ca_20261107_09",
+      "question": {
+        "en": "According to a recent report, which country is the biggest lender to Pakistan as its external debt nearly doubled to $135 bn in 10 years?",
+        "hi": "एक हालिया रिपोर्ट के अनुसार, 10 वर्षों में पाकिस्तान का विदेशी ऋण लगभग दोगुना होकर $135 बिलियन हो जाने के कारण कौन सा देश पाकिस्तान का सबसे बड़ा ऋणदाता है?"
+      },
+      "options": [
+        {
+          "en": "Saudi Arabia",
+          "hi": "सऊदी अरब"
+        },
+        {
+          "en": "China",
+          "hi": "चीन"
+        },
+        {
+          "en": "USA",
+          "hi": "संयुक्त राज्य अमेरिका (USA)"
+        },
+        {
+          "en": "UAE",
+          "hi": "यूएई (UAE)"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Pakistan's external debt has nearly doubled to $135 billion over the last 10 years, with China emerging as its biggest lender.",
+        "hi": "पिछले 10 वर्षों में पाकिस्तान का विदेशी ऋण लगभग दोगुना होकर 135 बिलियन डॉलर हो गया है, जिसमें चीन इसके सबसे बड़े ऋणदाता के रूप में उभरा है।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/international-business/pakistans-external-debt-nearly-doubles-to-135-bn-in-10-years-china-biggest-lender/articleshow/135593845.cms"
+    },
+    {
+      "id": "ca_20261107_10",
+      "question": {
+        "en": "Which company's application for satellite broadband services in India faced controversy due to delayed application and security norm issues?",
+        "hi": "भारत में सैटेलाइट ब्रॉडबैंड सेवाओं के लिए किस कंपनी के आवेदन को विलंबित आवेदन और सुरक्षा मानदंडों के मुद्दों के कारण विवाद का सामना करना पड़ा?"
+      },
+      "options": [
+        {
+          "en": "Starlink",
+          "hi": "स्टारलिंक"
+        },
+        {
+          "en": "OneWeb",
+          "hi": "वनवेब"
+        },
+        {
+          "en": "Hughes",
+          "hi": "ह्यूजेस"
+        },
+        {
+          "en": "Jio SpaceFiber",
+          "hi": "जियो स्पेसफाइबर"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "The government stated that Elon Musk's Starlink was the last to apply and must meet security norms for satellite broadband services in India.",
+        "hi": "सरकार ने कहा कि एलोन मस्क के स्टारलिंक ने सबसे अंत में आवेदन किया था और उसे भारत में उपग्रह ब्रॉडबैंड सेवाओं के लिए सुरक्षा मानदंडों को पूरा करना होगा।"
+      },
+      "category": "Science & Technology",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/business/india-business/it-was-last-to-apply-meet-security-norms-govt-hits-back-on-starlink-row/articleshow/135593856.cms"
+    }
+  ]
+}
