@@ -1,13 +1,13 @@
 {
-  "date": "2026-11-08",
+  "date": "2026-11-09",
   "topic": "SSC CGL Daily Current Affairs",
   "source": "Multiple Sources",
-  "lastUpdated": "2026-11-08T05:18:23+05:30",
+  "lastUpdated": "2026-11-09T06:30:00+05:30",
   "version": 1,
   "totalQuestions": 10,
   "quiz": [
     {
-      "id": "ca_20261108_01",
+      "id": "ca_20261109_01",
       "question": {
         "en": "Which technological expansion is facing mounting opposition in the US due to concerns over soaring electricity costs and excessive water consumption?",
         "hi": "बढ़ती बिजली लागत और अत्यधिक पानी की खपत पर चिंताओं के कारण अमेरिका में किस तकनीकी विस्तार को बढ़ते विरोध का सामना करना पड़ रहा है?"
@@ -40,7 +40,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/world/us/ai-electricity-bills-and-voter-anger-how-data-centres-tanked-trumps-midterm-hopes/articleshow/135634353.cms"
     },
     {
-      "id": "ca_20261108_02",
+      "id": "ca_20261109_02",
       "question": {
         "en": "Who was recently picked by Israel's president to form the next government, challenging Benjamin Netanyahu?",
         "hi": "हाल ही में इजराइल के राष्ट्रपति ने बेंजामिन नेतन्याहू को चुनौती देते हुए अगली सरकार बनाने के लिए किसे चुना है?"
@@ -73,7 +73,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/world/middle-east/israel-president-taps-opposition-leader-eisenkot-to-form-government-challenging-netanyahu/articleshow/135646065.cms"
     },
     {
-      "id": "ca_20261108_03",
+      "id": "ca_20261109_03",
       "question": {
         "en": "Ahead of their upcoming summit, Beijing warned which alliance not to rake up the South China Sea row?",
         "hi": "उनके आगामी शिखर सम्मेलन से पहले, बीजिंग ने किस गठबंधन को दक्षिण चीन सागर विवाद को न उठाने की चेतावनी दी?"
@@ -106,7 +106,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/world/china/ahead-of-summit-beijing-tells-quad-dont-rake-up-south-china-sea-row/articleshow/135648667.cms"
     },
     {
-      "id": "ca_20261108_04",
+      "id": "ca_20261109_04",
       "question": {
         "en": "According to recent reports, by what percentage did donations to the Congress party plunge, reaching Rs 131 crore?",
         "hi": "हाल की रिपोर्टों के अनुसार, कांग्रेस पार्टी को मिलने वाले चंदे में कितने प्रतिशत की गिरावट आई और यह 131 करोड़ रुपये तक पहुँच गया?"
@@ -139,7 +139,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/india/congress-donations-plunge-75-to-rs-131-cr-lowest-in-3years/articleshow/135648682.cms"
     },
     {
-      "id": "ca_20261108_05",
+      "id": "ca_20261109_05",
       "question": {
         "en": "At what altitude did the IAF's Gajraj aircraft recently make a world-record landing in Ladakh?",
         "hi": "हाल ही में भारतीय वायुसेना के गजराज विमान ने लद्दाख में कितनी ऊंचाई पर विश्व-रिकॉर्ड लैंडिंग की?"
@@ -172,7 +172,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/defence/news/iaf-gajraj-makes-world-record-landing-at-13629ft-in-ladakh/articleshow/135644558.cms"
     },
     {
-      "id": "ca_20261108_06",
+      "id": "ca_20261109_06",
       "question": {
         "en": "Mark Zuckerberg and Priscilla Chan pledged to donate what percentage of their Meta shares for philanthropic initiatives?",
         "hi": "मार्क जुकरबर्ग और प्रिसिला चान ने परोपकारी पहल के लिए अपने मेटा शेयरों का कितना प्रतिशत दान करने का वचन दिया?"
@@ -205,7 +205,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerberg-and-priscilla-chan-have-pledged-to-donate-99-of-their-meta-shares-heres-the-open-letter-they-wrote-to-their-eldest-daughter-maxima-in-2015-it-makes-a-promises-that-/articleshow/135635095.cms"
     },
     {
-      "id": "ca_20261108_07",
+      "id": "ca_20261109_07",
       "question": {
         "en": "Which prominent sports organization chief was recently offered the White House press secretary post by Donald Trump?",
         "hi": "हाल ही में डोनाल्ड ट्रम्प ने किस प्रमुख खेल संगठन प्रमुख को व्हाइट हाउस प्रेस सचिव पद की पेशकश की थी?"
@@ -238,7 +238,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/world/us/dana-please-take-the-job-trump-offers-ufc-chief-white-house-press-secretary-post/articleshow/135645729.cms"
     },
     {
-      "id": "ca_20261108_08",
+      "id": "ca_20261109_08",
       "question": {
         "en": "Emma Watson recently donated £1 million to a UK fund primarily aimed at combating which issue?",
         "hi": "एम्मा वॉटसन ने हाल ही में यूके फंड में £1 मिलियन का दान दिया जिसका मुख्य उद्देश्य मुख्य रूप से किस मुद्दे से निपटना था?"
@@ -271,7 +271,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/world/uk/emma-watson-donated-1-million-to-a-uk-fund-fighting-sexual-harassment-its-impact-report-later-recorded-46100-women-and-girls-reached-over-20000-professionals-trained-and-59-grants-awarded/articleshow/135578193.cms"
     },
     {
-      "id": "ca_20261108_09",
+      "id": "ca_20261109_09",
       "question": {
         "en": "In which European country did the Prime Minister recently reveal that three bodies were found at a mass shooting suspect's home, citing far-right influence?",
         "hi": "हाल ही में किस यूरोपीय देश में धुर दक्षिणपंथी प्रभाव का हवाला देते हुए प्रधान मंत्री ने खुलासा किया कि सामूहिक गोलीबारी के एक संदिग्ध के घर पर तीन शव पाए गए थे?"
@@ -304,7 +304,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/world/europe/poland-mass-shooting-pm-says-footage-shows-3-bodies-at-suspects-home-minister-cites-far-right-influence/articleshow/135646464.cms"
     },
     {
-      "id": "ca_20261108_10",
+      "id": "ca_20261109_10",
       "question": {
         "en": "Which political party recently claimed that Sonia Gandhi's remarks on the Babri issue exposed the Congress party's anti-Ram stance?",
         "hi": "हाल ही में किस राजनीतिक दल ने दावा किया कि बाबरी मुद्दे पर सोनिया गांधी की टिप्पणियों ने कांग्रेस पार्टी के राम-विरोधी रुख को उजागर कर दिया है?"

@@ -1,0 +1,340 @@
+{
+  "date": "2026-11-09",
+  "topic": "SSC CGL Daily Current Affairs",
+  "source": "Multiple Sources",
+  "lastUpdated": "2026-11-09T06:30:00+05:30",
+  "version": 1,
+  "totalQuestions": 10,
+  "quiz": [
+    {
+      "id": "ca_20261109_01",
+      "question": {
+        "en": "Which technological expansion is facing mounting opposition in the US due to concerns over soaring electricity costs and excessive water consumption?",
+        "hi": "बढ़ती बिजली लागत और अत्यधिक पानी की खपत पर चिंताओं के कारण अमेरिका में किस तकनीकी विस्तार को बढ़ते विरोध का सामना करना पड़ रहा है?"
+      },
+      "options": [
+        {
+          "en": "Semiconductor manufacturing",
+          "hi": "सेमीकंडक्टर निर्माण"
+        },
+        {
+          "en": "Data centres",
+          "hi": "डेटा केंद्र"
+        },
+        {
+          "en": "Cryptocurrency mining",
+          "hi": "क्रिप्टोकरेंसी खनन"
+        },
+        {
+          "en": "Electric vehicle plants",
+          "hi": "इलेक्ट्रिक वाहन संयंत्र"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Local communities in the US are voicing concerns over data centres due to soaring electricity costs and water consumption, creating a political stir.",
+        "hi": "अमेरिका में स्थानीय समुदाय बिजली की बढ़ती लागत और पानी की खपत के कारण डेटा केंद्रों पर चिंता व्यक्त कर रहे हैं, जिससे राजनीतिक हलचल पैदा हो गई है।"
+      },
+      "category": "Environment & Ecology",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/ai-electricity-bills-and-voter-anger-how-data-centres-tanked-trumps-midterm-hopes/articleshow/135634353.cms"
+    },
+    {
+      "id": "ca_20261109_02",
+      "question": {
+        "en": "Who was recently picked by Israel's president to form the next government, challenging Benjamin Netanyahu?",
+        "hi": "हाल ही में इजराइल के राष्ट्रपति ने बेंजामिन नेतन्याहू को चुनौती देते हुए अगली सरकार बनाने के लिए किसे चुना है?"
+      },
+      "options": [
+        {
+          "en": "Benny Gantz",
+          "hi": "बेनी गैंट्ज़"
+        },
+        {
+          "en": "Yair Lapid",
+          "hi": "यायर लैपिड"
+        },
+        {
+          "en": "Gadi Eisenkot",
+          "hi": "गाडी ईसेनकोट"
+        },
+        {
+          "en": "Naftali Bennett",
+          "hi": "नफ्ताली बेनेट"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Israel's president has tapped opposition leader Gadi Eisenkot to form the next government, setting up a challenge to Benjamin Netanyahu's leadership.",
+        "hi": "इज़राइल के राष्ट्रपति ने अगली सरकार बनाने के लिए विपक्षी नेता गादी ईसेनकोट को चुना है, जिससे बेंजामिन नेतन्याहू के नेतृत्व के लिए चुनौती खड़ी हो गई है।"
+      },
+      "category": "Appointments & Commissions",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/middle-east/israel-president-taps-opposition-leader-eisenkot-to-form-government-challenging-netanyahu/articleshow/135646065.cms"
+    },
+    {
+      "id": "ca_20261109_03",
+      "question": {
+        "en": "Ahead of their upcoming summit, Beijing warned which alliance not to rake up the South China Sea row?",
+        "hi": "उनके आगामी शिखर सम्मेलन से पहले, बीजिंग ने किस गठबंधन को दक्षिण चीन सागर विवाद को न उठाने की चेतावनी दी?"
+      },
+      "options": [
+        {
+          "en": "ASEAN",
+          "hi": "आसियान"
+        },
+        {
+          "en": "NATO",
+          "hi": "नाटो"
+        },
+        {
+          "en": "Quad",
+          "hi": "ट्रैक्टर"
+        },
+        {
+          "en": "AUKUS",
+          "hi": "औकस"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Beijing warned the Quad alliance (comprising India, the US, Japan, and Australia) against raising the South China Sea dispute ahead of their summit.",
+        "hi": "बीजिंग ने क्वाड गठबंधन (जिसमें भारत, अमेरिका, जापान और ऑस्ट्रेलिया शामिल हैं) को उनके शिखर सम्मेलन से पहले दक्षिण चीन सागर विवाद को उठाने के खिलाफ चेतावनी दी।"
+      },
+      "category": "International Summits",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/china/ahead-of-summit-beijing-tells-quad-dont-rake-up-south-china-sea-row/articleshow/135648667.cms"
+    },
+    {
+      "id": "ca_20261109_04",
+      "question": {
+        "en": "According to recent reports, by what percentage did donations to the Congress party plunge, reaching Rs 131 crore?",
+        "hi": "हाल की रिपोर्टों के अनुसार, कांग्रेस पार्टी को मिलने वाले चंदे में कितने प्रतिशत की गिरावट आई और यह 131 करोड़ रुपये तक पहुँच गया?"
+      },
+      "options": [
+        {
+          "en": "65%",
+          "hi": "65%"
+        },
+        {
+          "en": "90%",
+          "hi": "90%"
+        },
+        {
+          "en": "75%",
+          "hi": "75%"
+        },
+        {
+          "en": "50%",
+          "hi": "50%"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Donations to the Congress party plunged by 75% to Rs 131 crore, marking the lowest collection in the past three years.",
+        "hi": "कांग्रेस पार्टी को दान 75% गिरकर 131 करोड़ रुपये हो गया, जो पिछले तीन वर्षों में सबसे कम संग्रह है।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/congress-donations-plunge-75-to-rs-131-cr-lowest-in-3years/articleshow/135648682.cms"
+    },
+    {
+      "id": "ca_20261109_05",
+      "question": {
+        "en": "At what altitude did the IAF's Gajraj aircraft recently make a world-record landing in Ladakh?",
+        "hi": "हाल ही में भारतीय वायुसेना के गजराज विमान ने लद्दाख में कितनी ऊंचाई पर विश्व-रिकॉर्ड लैंडिंग की?"
+      },
+      "options": [
+        {
+          "en": "11,800ft",
+          "hi": "11,800 फीट"
+        },
+        {
+          "en": "12,450ft",
+          "hi": "12,450 फीट"
+        },
+        {
+          "en": "10,500ft",
+          "hi": "10,500 फीट"
+        },
+        {
+          "en": "13,629ft",
+          "hi": "13,629 फीट"
+        }
+      ],
+      "correctAnswer": 3,
+      "explanation": {
+        "en": "The Indian Air Force's Gajraj aircraft made a world-record landing at an altitude of 13,629ft in Ladakh, demonstrating significant operational capabilities in high-altitude regions.",
+        "hi": "भारतीय वायुसेना के गजराज विमान ने ऊंचाई वाले क्षेत्रों में महत्वपूर्ण परिचालन क्षमताओं का प्रदर्शन करते हुए लद्दाख में 13,629 फीट की ऊंचाई पर विश्व-रिकॉर्ड लैंडिंग की।"
+      },
+      "category": "Defence & Security",
+      "difficulty": "hard",
+      "sourceUrl": "https://timesofindia.indiatimes.com/defence/news/iaf-gajraj-makes-world-record-landing-at-13629ft-in-ladakh/articleshow/135644558.cms"
+    },
+    {
+      "id": "ca_20261109_06",
+      "question": {
+        "en": "Mark Zuckerberg and Priscilla Chan pledged to donate what percentage of their Meta shares for philanthropic initiatives?",
+        "hi": "मार्क जुकरबर्ग और प्रिसिला चान ने परोपकारी पहल के लिए अपने मेटा शेयरों का कितना प्रतिशत दान करने का वचन दिया?"
+      },
+      "options": [
+        {
+          "en": "75%",
+          "hi": "75%"
+        },
+        {
+          "en": "50%",
+          "hi": "50%"
+        },
+        {
+          "en": "99%",
+          "hi": "99%"
+        },
+        {
+          "en": "90%",
+          "hi": "90%"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Mark Zuckerberg and Priscilla Chan have committed to donate 99% of their Meta shares to philanthropic causes aimed at advancing human potential.",
+        "hi": "मार्क जुकरबर्ग और प्रिसिला चान ने मानव क्षमता को आगे बढ़ाने के उद्देश्य से परोपकारी कार्यों के लिए अपने मेटा शेयरों का 99% दान करने की प्रतिबद्धता जताई है।"
+      },
+      "category": "Science & Technology",
+      "difficulty": "hard",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerberg-and-priscilla-chan-have-pledged-to-donate-99-of-their-meta-shares-heres-the-open-letter-they-wrote-to-their-eldest-daughter-maxima-in-2015-it-makes-a-promises-that-/articleshow/135635095.cms"
+    },
+    {
+      "id": "ca_20261109_07",
+      "question": {
+        "en": "Which prominent sports organization chief was recently offered the White House press secretary post by Donald Trump?",
+        "hi": "हाल ही में डोनाल्ड ट्रम्प ने किस प्रमुख खेल संगठन प्रमुख को व्हाइट हाउस प्रेस सचिव पद की पेशकश की थी?"
+      },
+      "options": [
+        {
+          "en": "UFC",
+          "hi": "यूएफसी"
+        },
+        {
+          "en": "NFL",
+          "hi": "एनएफएल"
+        },
+        {
+          "en": "NBA",
+          "hi": "एनबीए"
+        },
+        {
+          "en": "WWE",
+          "hi": "डब्ल्यूडब्ल्यूई"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "Donald Trump reportedly offered the position of White House press secretary to Dana White, the chief of the Ultimate Fighting Championship (UFC).",
+        "hi": "डोनाल्ड ट्रम्प ने कथित तौर पर अल्टीमेट फाइटिंग चैम्पियनशिप (यूएफसी) के प्रमुख डाना व्हाइट को व्हाइट हाउस के प्रेस सचिव के पद की पेशकश की थी।"
+      },
+      "category": "Appointments & Commissions",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/dana-please-take-the-job-trump-offers-ufc-chief-white-house-press-secretary-post/articleshow/135645729.cms"
+    },
+    {
+      "id": "ca_20261109_08",
+      "question": {
+        "en": "Emma Watson recently donated £1 million to a UK fund primarily aimed at combating which issue?",
+        "hi": "एम्मा वॉटसन ने हाल ही में यूके फंड में £1 मिलियन का दान दिया जिसका मुख्य उद्देश्य मुख्य रूप से किस मुद्दे से निपटना था?"
+      },
+      "options": [
+        {
+          "en": "Child poverty",
+          "hi": "बाल निर्धनता"
+        },
+        {
+          "en": "Sexual harassment",
+          "hi": "यौन उत्पीड़न"
+        },
+        {
+          "en": "Climate change",
+          "hi": "जलवायु परिवर्तन"
+        },
+        {
+          "en": "Educational inequality",
+          "hi": "शैक्षिक असमानता"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Emma Watson donated £1 million to the Justice and Equality Fund in the UK, which has reached over 46,100 women and girls in the fight against sexual harassment.",
+        "hi": "एम्मा वॉटसन ने यूके में न्याय और समानता कोष को £1 मिलियन का दान दिया, जो यौन उत्पीड़न के खिलाफ लड़ाई में 46,100 से अधिक महिलाओं और लड़कियों तक पहुंचा है।"
+      },
+      "category": "Awards & Honours",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/uk/emma-watson-donated-1-million-to-a-uk-fund-fighting-sexual-harassment-its-impact-report-later-recorded-46100-women-and-girls-reached-over-20000-professionals-trained-and-59-grants-awarded/articleshow/135578193.cms"
+    },
+    {
+      "id": "ca_20261109_09",
+      "question": {
+        "en": "In which European country did the Prime Minister recently reveal that three bodies were found at a mass shooting suspect's home, citing far-right influence?",
+        "hi": "हाल ही में किस यूरोपीय देश में धुर दक्षिणपंथी प्रभाव का हवाला देते हुए प्रधान मंत्री ने खुलासा किया कि सामूहिक गोलीबारी के एक संदिग्ध के घर पर तीन शव पाए गए थे?"
+      },
+      "options": [
+        {
+          "en": "France",
+          "hi": "फ्रांस"
+        },
+        {
+          "en": "Germany",
+          "hi": "जर्मनी"
+        },
+        {
+          "en": "Poland",
+          "hi": "पोलैंड"
+        },
+        {
+          "en": "Sweden",
+          "hi": "स्वीडन"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The Prime Minister of Poland revealed that three bodies were found at the home of a mass shooting suspect, with ministers flagging potential far-right influence.",
+        "hi": "पोलैंड के प्रधान मंत्री ने खुलासा किया कि सामूहिक गोलीबारी के एक संदिग्ध के घर पर तीन शव पाए गए, मंत्रियों ने संभावित सुदूर-दक्षिणपंथी प्रभाव का संकेत दिया।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/europe/poland-mass-shooting-pm-says-footage-shows-3-bodies-at-suspects-home-minister-cites-far-right-influence/articleshow/135646464.cms"
+    },
+    {
+      "id": "ca_20261109_10",
+      "question": {
+        "en": "Which political party recently claimed that Sonia Gandhi's remarks on the Babri issue exposed the Congress party's anti-Ram stance?",
+        "hi": "हाल ही में किस राजनीतिक दल ने दावा किया कि बाबरी मुद्दे पर सोनिया गांधी की टिप्पणियों ने कांग्रेस पार्टी के राम-विरोधी रुख को उजागर कर दिया है?"
+      },
+      "options": [
+        {
+          "en": "BJP",
+          "hi": "भाजपा"
+        },
+        {
+          "en": "BSP",
+          "hi": "बसपा"
+        },
+        {
+          "en": "AAP",
+          "hi": "एएपी"
+        },
+        {
+          "en": "SP",
+          "hi": "सपा"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "The BJP claimed that remarks by Sonia Gandhi regarding the Babri issue exposed what they described as the Congress party's anti-Ram stance.",
+        "hi": "भाजपा ने दावा किया कि बाबरी मुद्दे के संबंध में सोनिया गांधी की टिप्पणियों से कांग्रेस पार्टी का राम विरोधी रुख उजागर हो गया है।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/sonias-babri-claim-exposes-congs-anti-ram-face-bjp/articleshow/135646452.cms"
+    }
+  ]
+}
