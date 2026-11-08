@@ -1,22 +1,18 @@
 {
-  "date": "2026-11-08",
+  "date": "2026-11-09",
   "topic": "SSC CGL Daily Current Affairs",
   "source": "Multiple Sources",
-  "lastUpdated": "2026-11-08T05:18:23+05:30",
+  "lastUpdated": "2026-11-09T05:30:00+05:30",
   "version": 1,
   "totalQuestions": 10,
   "quiz": [
     {
-      "id": "ca_20261108_01",
+      "id": "ca_20261109_01",
       "question": {
-        "en": "Which technological expansion is facing mounting opposition in the US due to concerns over soaring electricity costs and excessive water consumption?",
+        "en": "Which major technological expansion is facing mounting opposition in the US due to concerns over soaring electricity costs and excessive water consumption?",
         "hi": "बढ़ती बिजली लागत और अत्यधिक पानी की खपत पर चिंताओं के कारण अमेरिका में किस तकनीकी विस्तार को बढ़ते विरोध का सामना करना पड़ रहा है?"
       },
       "options": [
-        {
-          "en": "Semiconductor manufacturing",
-          "hi": "सेमीकंडक्टर निर्माण"
-        },
         {
           "en": "Data centres",
           "hi": "डेटा केंद्र"
@@ -26,315 +22,319 @@
           "hi": "क्रिप्टोकरेंसी खनन"
         },
         {
+          "en": "Semiconductor manufacturing",
+          "hi": "सेमीकंडक्टर निर्माण"
+        },
+        {
           "en": "Electric vehicle plants",
           "hi": "इलेक्ट्रिक वाहन संयंत्र"
         }
       ],
-      "correctAnswer": 1,
       "explanation": {
-        "en": "Local communities in the US are voicing concerns over data centres due to soaring electricity costs and water consumption, creating a political stir.",
-        "hi": "अमेरिका में स्थानीय समुदाय बिजली की बढ़ती लागत और पानी की खपत के कारण डेटा केंद्रों पर चिंता व्यक्त कर रहे हैं, जिससे राजनीतिक हलचल पैदा हो गई है।"
+        "en": "The expansion of data centres, driven by AI demands, is facing opposition in the US due to their immense electricity and water requirements, impacting local resources and climate goals.",
+        "hi": "एआई की मांगों से प्रेरित डेटा केंद्रों के विस्तार को उनके अत्यधिक बिजली और पानी की आवश्यकताओं के कारण अमेरिका में विरोध का सामना करना पड़ रहा है, जो स्थानीय संसाधनों और जलवायु लक्ष्यों को प्रभावित कर रहा है।"
       },
-      "category": "Environment & Ecology",
-      "difficulty": "easy",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/ai-electricity-bills-and-voter-anger-how-data-centres-tanked-trumps-midterm-hopes/articleshow/135634353.cms"
+      "category": "Science & Technology",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+      "correctAnswer": 0
     },
     {
-      "id": "ca_20261108_02",
+      "id": "ca_20261109_02",
       "question": {
-        "en": "Who was recently picked by Israel's president to form the next government, challenging Benjamin Netanyahu?",
-        "hi": "हाल ही में इजराइल के राष्ट्रपति ने बेंजामिन नेतन्याहू को चुनौती देते हुए अगली सरकार बनाने के लिए किसे चुना है?"
+        "en": "Microsoft employees recently circulated an open letter stating that work has become 'joyless', mainly due to the forced use of which technology?",
+        "hi": "माइक्रोसॉफ्ट के कर्मचारियों ने हाल ही में एक खुला पत्र प्रसारित किया जिसमें कहा गया है कि काम 'नीरस' हो गया है, मुख्य रूप से किस तकनीक के जबरन उपयोग के कारण?"
       },
       "options": [
+        {
+          "en": "Artificial Intelligence (AI)",
+          "hi": "कृत्रिम बुद्धिमत्ता (एआई)"
+        },
+        {
+          "en": "Blockchain",
+          "hi": "ब्लॉकचेन"
+        },
+        {
+          "en": "Quantum Computing",
+          "hi": "क्वांटम कंप्यूटिंग"
+        },
+        {
+          "en": "Virtual Reality (VR)",
+          "hi": "वर्चुअल रियलिटी (वीआर)"
+        }
+      ],
+      "explanation": {
+        "en": "Microsoft employees criticized the company's 'AI at all costs' approach, citing forced AI use, layoffs, and environmental concerns while the company reported record profits.",
+        "hi": "माइक्रोसॉफ्ट के कर्मचारियों ने कंपनी के 'हर कीमत पर एआई' दृष्टिकोण की आलोचना की, जिसमें जबरन एआई का उपयोग, छंटनी और पर्यावरणीय चिंताओं का हवाला दिया गया, जबकि कंपनी ने रिकॉर्ड मुनाफा दर्ज किया।"
+      },
+      "category": "Science & Technology",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/as-microsoft-offers-buyouts-to-60000-employees-staff-write-open-letter-says-working-at-microsoft-has-become-joyless-and-/articleshow/135657463.cms",
+      "correctAnswer": 0
+    },
+    {
+      "id": "ca_20261109_03",
+      "question": {
+        "en": "Following Diwali celebrations, Delhi's Air Quality Index (AQI) surged to severe levels. Which central body is primarily responsible for monitoring air quality in India?",
+        "hi": "दिवाली समारोह के बाद, दिल्ली का वायु गुणवत्ता सूचकांक (AQI) गंभीर स्तर तक बढ़ गया। भारत में वायु गुणवत्ता की निगरानी के लिए मुख्य रूप से कौन सा केंद्रीय निकाय जिम्मेदार है?"
+      },
+      "options": [
+        {
+          "en": "Ministry of Earth Sciences",
+          "hi": "पृथ्वी विज्ञान मंत्रालय"
+        },
+        {
+          "en": "NITI Aayog",
+          "hi": "नीति आयोग"
+        },
+        {
+          "en": "National Green Tribunal (NGT)",
+          "hi": "राष्ट्रीय हरित अधिकरण (एनजीटी)"
+        },
+        {
+          "en": "Central Pollution Control Board (CPCB)",
+          "hi": "केंद्रीय प्रदूषण नियंत्रण बोर्ड (सीपीसीबी)"
+        }
+      ],
+      "explanation": {
+        "en": "The Central Pollution Control Board (CPCB) is the statutory organisation under the Ministry of Environment, Forest and Climate Change responsible for monitoring air and water quality. Delhi's AQI reached severe levels post-Diwali.",
+        "hi": "केंद्रीय प्रदूषण नियंत्रण बोर्ड (सीपीसीबी) पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय के तहत वायु और जल गुणवत्ता की निगरानी के लिए जिम्मेदार वैधानिक संगठन है। दिवाली के बाद दिल्ली का एक्यूआई गंभीर स्तर पर पहुंच गया।"
+      },
+      "category": "Environment & Ecology",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/delhi-records-very-poor-air-quality-on-diwali-19-monitoring-stations-report-severe-aqi/articleshow/135661694.cms",
+      "correctAnswer": 3
+    },
+    {
+      "id": "ca_20261109_04",
+      "question": {
+        "en": "Who has been assigned the responsibility by Israeli President Isaac Herzog to form the next government, challenging Benjamin Netanyahu?",
+        "hi": "इजरायल के राष्ट्रपति इसहाक हर्ज़ोग ने बेंजामिन नेतन्याहू को चुनौती देते हुए, अगली सरकार बनाने की जिम्मेदारी किसे सौंपी है?"
+      },
+      "options": [
+        {
+          "en": "Gadi Eisenkot",
+          "hi": "गदी ईसेनकोट"
+        },
         {
           "en": "Benny Gantz",
           "hi": "बेनी गैंट्ज़"
         },
         {
-          "en": "Yair Lapid",
-          "hi": "यायर लैपिड"
-        },
-        {
-          "en": "Gadi Eisenkot",
-          "hi": "गाडी ईसेनकोट"
-        },
-        {
           "en": "Naftali Bennett",
           "hi": "नफ्ताली बेनेट"
+        },
+        {
+          "en": "Yair Lapid",
+          "hi": "यायर लापिड"
         }
       ],
-      "correctAnswer": 2,
       "explanation": {
-        "en": "Israel's president has tapped opposition leader Gadi Eisenkot to form the next government, setting up a challenge to Benjamin Netanyahu's leadership.",
-        "hi": "इज़राइल के राष्ट्रपति ने अगली सरकार बनाने के लिए विपक्षी नेता गादी ईसेनकोट को चुना है, जिससे बेंजामिन नेतन्याहू के नेतृत्व के लिए चुनौती खड़ी हो गई है।"
+        "en": "Israeli President Isaac Herzog tasked Gadi Eisenkot with forming the next government after he secured the backing of 67 lawmakers, posing a direct challenge to long-serving PM Netanyahu.",
+        "hi": "इजरायल के राष्ट्रपति इसहाक हर्ज़ोग ने 67 सांसदों का समर्थन हासिल करने के बाद गदी ईसेनकोट को अगली सरकार बनाने का काम सौंपा, जो लंबे समय तक पीएम रहे नेतन्याहू के लिए एक सीधी चुनौती है।"
       },
-      "category": "Appointments & Commissions",
-      "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/middle-east/israel-president-taps-opposition-leader-eisenkot-to-form-government-challenging-netanyahu/articleshow/135646065.cms"
+      "category": "International Summits",
+      "difficulty": "hard",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/middle-east/is-netanyahus-time-up-10-things-to-know-as-rival-gadi-eisenkot-gets-shot-at-power-in-israel/articleshow/135651806.cms",
+      "correctAnswer": 0
     },
     {
-      "id": "ca_20261108_03",
+      "id": "ca_20261109_05",
       "question": {
-        "en": "Ahead of their upcoming summit, Beijing warned which alliance not to rake up the South China Sea row?",
-        "hi": "उनके आगामी शिखर सम्मेलन से पहले, बीजिंग ने किस गठबंधन को दक्षिण चीन सागर विवाद को न उठाने की चेतावनी दी?"
+        "en": "In a recent ruling, the North Dakota Supreme Court rejected an unjust enrichment claim by a woman seeking return of funds invested in a home with her former partner. What core legal principle was highlighted?",
+        "hi": "हाल ही के एक फैसले में, नॉर्थ डकोटा सुप्रीम कोर्ट ने अपने पूर्व साथी के साथ घर में निवेश किए गए धन की वापसी की मांग करने वाली एक महिला के अन्यायपूर्ण संवर्धन के दावे को खारिज कर दिया। किस मुख्य कानूनी सिद्धांत पर प्रकाश डाला गया?"
       },
       "options": [
         {
-          "en": "ASEAN",
-          "hi": "आसियान"
+          "en": "Cohabitation implies a legal marriage",
+          "hi": "सहवास का अर्थ कानूनी विवाह है"
         },
         {
-          "en": "NATO",
-          "hi": "नाटो"
+          "en": "Verbal contracts are binding in property disputes",
+          "hi": "संपत्ति विवादों में मौखिक अनुबंध बाध्यकारी होते हैं"
         },
         {
-          "en": "Quad",
-          "hi": "ट्रैक्टर"
+          "en": "Demonstrating actual financial benefit to property market value",
+          "hi": "संपत्ति के बाजार मूल्य में वास्तविक वित्तीय लाभ का प्रदर्शन"
         },
         {
-          "en": "AUKUS",
-          "hi": "औकस"
+          "en": "Equal division of all assets post-split",
+          "hi": "अलगाव के बाद सभी संपत्तियों का समान विभाजन"
         }
       ],
-      "correctAnswer": 2,
       "explanation": {
-        "en": "Beijing warned the Quad alliance (comprising India, the US, Japan, and Australia) against raising the South China Sea dispute ahead of their summit.",
-        "hi": "बीजिंग ने क्वाड गठबंधन (जिसमें भारत, अमेरिका, जापान और ऑस्ट्रेलिया शामिल हैं) को उनके शिखर सम्मेलन से पहले दक्षिण चीन सागर विवाद को उठाने के खिलाफ चेतावनी दी।"
+        "en": "The court ruled that to succeed in an unjust enrichment claim, the claimant must demonstrate that their investments resulted in an actual financial benefit or increase in the property's market value, which mere receipts failed to prove.",
+        "hi": "अदालत ने फैसला सुनाया कि अन्यायपूर्ण संवर्धन के दावे में सफल होने के लिए, दावेदार को यह प्रदर्शित करना होगा कि उनके निवेश के परिणामस्वरूप संपत्ति के बाजार मूल्य में वास्तविक वित्तीय लाभ या वृद्धि हुई, जिसे केवल रसीदें साबित करने में विफल रहीं।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "hard",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/a-north-dakota-woman-spent-more-than-110000-on-purchases-for-a-house-she-built-with-her-partner-on-land-held-by-his-family-trust-after-they-split-a-court-rejected-her-claim-for-the-homes-improvements/articleshow/135660646.cms",
+      "correctAnswer": 2
+    },
+    {
+      "id": "ca_20261109_06",
+      "question": {
+        "en": "Where did a massive 'Red Line' march recently bring the city to a standstill in protest against the government's response to the war in Gaza?",
+        "hi": "गाजा में युद्ध पर सरकार की प्रतिक्रिया के विरोध में हाल ही में बड़े पैमाने पर 'रेड लाइन' मार्च ने किस शहर को ठप कर दिया?"
+      },
+      "options": [
+        {
+          "en": "Berlin",
+          "hi": "बर्लिन"
+        },
+        {
+          "en": "Amsterdam",
+          "hi": "एम्स्टर्डम"
+        },
+        {
+          "en": "London",
+          "hi": "लंदन"
+        },
+        {
+          "en": "Paris",
+          "hi": "पेरिस"
+        }
+      ],
+      "explanation": {
+        "en": "A massive 'Red Line' march took place in Amsterdam, bringing the Dutch city to a standstill as citizens protested their government's stance and response to Israel's war in Gaza.",
+        "hi": "एम्स्टर्डम में एक विशाल 'रेड लाइन' मार्च हुआ, जिसने डच शहर को ठप कर दिया क्योंकि नागरिकों ने गाजा में इज़राइल के युद्ध के प्रति अपनी सरकार के रुख और प्रतिक्रिया का विरोध किया।"
       },
       "category": "International Summits",
       "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/china/ahead-of-summit-beijing-tells-quad-dont-rake-up-south-china-sea-row/articleshow/135648667.cms"
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/europe/massive-amsterdam-march-challenges-dutch-governments-response-to-israels-war-in-gaza/articleshow/135665602.cms",
+      "correctAnswer": 1
     },
     {
-      "id": "ca_20261108_04",
+      "id": "ca_20261109_07",
       "question": {
-        "en": "According to recent reports, by what percentage did donations to the Congress party plunge, reaching Rs 131 crore?",
-        "hi": "हाल की रिपोर्टों के अनुसार, कांग्रेस पार्टी को मिलने वाले चंदे में कितने प्रतिशत की गिरावट आई और यह 131 करोड़ रुपये तक पहुँच गया?"
+        "en": "Which major global company's CEO, Jensen Huang, recently admitted to an affair, prompting the board to order a national security review regarding potential espionage links?",
+        "hi": "किस प्रमुख वैश्विक कंपनी के सीईओ, जेन्सेन हुआंग ने हाल ही में एक संबंध स्वीकार किया है, जिसके कारण बोर्ड ने संभावित जासूसी संबंधों के संबंध में राष्ट्रीय सुरक्षा समीक्षा का आदेश दिया है?"
       },
       "options": [
         {
-          "en": "65%",
-          "hi": "65%"
+          "en": "Intel",
+          "hi": "इंटेल"
         },
         {
-          "en": "90%",
-          "hi": "90%"
+          "en": "AMD",
+          "hi": "एएमडी"
         },
         {
-          "en": "75%",
-          "hi": "75%"
+          "en": "Nvidia",
+          "hi": "एनवीडिया"
         },
         {
-          "en": "50%",
-          "hi": "50%"
+          "en": "Qualcomm",
+          "hi": "क्वालकॉम"
         }
       ],
-      "correctAnswer": 2,
       "explanation": {
-        "en": "Donations to the Congress party plunged by 75% to Rs 131 crore, marking the lowest collection in the past three years.",
-        "hi": "कांग्रेस पार्टी को दान 75% गिरकर 131 करोड़ रुपये हो गया, जो पिछले तीन वर्षों में सबसे कम संग्रह है।"
-      },
-      "category": "Economy & Banking",
-      "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/congress-donations-plunge-75-to-rs-131-cr-lowest-in-3years/articleshow/135648682.cms"
-    },
-    {
-      "id": "ca_20261108_05",
-      "question": {
-        "en": "At what altitude did the IAF's Gajraj aircraft recently make a world-record landing in Ladakh?",
-        "hi": "हाल ही में भारतीय वायुसेना के गजराज विमान ने लद्दाख में कितनी ऊंचाई पर विश्व-रिकॉर्ड लैंडिंग की?"
-      },
-      "options": [
-        {
-          "en": "11,800ft",
-          "hi": "11,800 फीट"
-        },
-        {
-          "en": "12,450ft",
-          "hi": "12,450 फीट"
-        },
-        {
-          "en": "10,500ft",
-          "hi": "10,500 फीट"
-        },
-        {
-          "en": "13,629ft",
-          "hi": "13,629 फीट"
-        }
-      ],
-      "correctAnswer": 3,
-      "explanation": {
-        "en": "The Indian Air Force's Gajraj aircraft made a world-record landing at an altitude of 13,629ft in Ladakh, demonstrating significant operational capabilities in high-altitude regions.",
-        "hi": "भारतीय वायुसेना के गजराज विमान ने ऊंचाई वाले क्षेत्रों में महत्वपूर्ण परिचालन क्षमताओं का प्रदर्शन करते हुए लद्दाख में 13,629 फीट की ऊंचाई पर विश्व-रिकॉर्ड लैंडिंग की।"
-      },
-      "category": "Defence & Security",
-      "difficulty": "hard",
-      "sourceUrl": "https://timesofindia.indiatimes.com/defence/news/iaf-gajraj-makes-world-record-landing-at-13629ft-in-ladakh/articleshow/135644558.cms"
-    },
-    {
-      "id": "ca_20261108_06",
-      "question": {
-        "en": "Mark Zuckerberg and Priscilla Chan pledged to donate what percentage of their Meta shares for philanthropic initiatives?",
-        "hi": "मार्क जुकरबर्ग और प्रिसिला चान ने परोपकारी पहल के लिए अपने मेटा शेयरों का कितना प्रतिशत दान करने का वचन दिया?"
-      },
-      "options": [
-        {
-          "en": "75%",
-          "hi": "75%"
-        },
-        {
-          "en": "50%",
-          "hi": "50%"
-        },
-        {
-          "en": "99%",
-          "hi": "99%"
-        },
-        {
-          "en": "90%",
-          "hi": "90%"
-        }
-      ],
-      "correctAnswer": 2,
-      "explanation": {
-        "en": "Mark Zuckerberg and Priscilla Chan have committed to donate 99% of their Meta shares to philanthropic causes aimed at advancing human potential.",
-        "hi": "मार्क जुकरबर्ग और प्रिसिला चान ने मानव क्षमता को आगे बढ़ाने के उद्देश्य से परोपकारी कार्यों के लिए अपने मेटा शेयरों का 99% दान करने की प्रतिबद्धता जताई है।"
+        "en": "Nvidia CEO Jensen Huang admitted to an affair with Alice Huang of Megaspeed. Nvidia's board ordered an independent investigation over potential national security risks tied to Megaspeed's rumored links with Chinese espionage.",
+        "hi": "एनवीडिया के सीईओ जेन्सेन हुआंग ने मेगास्पीड की एलिस हुआंग के साथ अफेयर की बात स्वीकार की है। चीनी जासूसी के साथ मेगास्पीड के अफवाह वाले संबंधों से जुड़े संभावित राष्ट्रीय सुरक्षा जोखिमों पर एनवीडिया के बोर्ड ने एक स्वतंत्र जांच का आदेश दिया।"
       },
       "category": "Science & Technology",
-      "difficulty": "hard",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerberg-and-priscilla-chan-have-pledged-to-donate-99-of-their-meta-shares-heres-the-open-letter-they-wrote-to-their-eldest-daughter-maxima-in-2015-it-makes-a-promises-that-/articleshow/135635095.cms"
-    },
-    {
-      "id": "ca_20261108_07",
-      "question": {
-        "en": "Which prominent sports organization chief was recently offered the White House press secretary post by Donald Trump?",
-        "hi": "हाल ही में डोनाल्ड ट्रम्प ने किस प्रमुख खेल संगठन प्रमुख को व्हाइट हाउस प्रेस सचिव पद की पेशकश की थी?"
-      },
-      "options": [
-        {
-          "en": "UFC",
-          "hi": "यूएफसी"
-        },
-        {
-          "en": "NFL",
-          "hi": "एनएफएल"
-        },
-        {
-          "en": "NBA",
-          "hi": "एनबीए"
-        },
-        {
-          "en": "WWE",
-          "hi": "डब्ल्यूडब्ल्यूई"
-        }
-      ],
-      "correctAnswer": 0,
-      "explanation": {
-        "en": "Donald Trump reportedly offered the position of White House press secretary to Dana White, the chief of the Ultimate Fighting Championship (UFC).",
-        "hi": "डोनाल्ड ट्रम्प ने कथित तौर पर अल्टीमेट फाइटिंग चैम्पियनशिप (यूएफसी) के प्रमुख डाना व्हाइट को व्हाइट हाउस के प्रेस सचिव के पद की पेशकश की थी।"
-      },
-      "category": "Appointments & Commissions",
-      "difficulty": "easy",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/dana-please-take-the-job-trump-offers-ufc-chief-white-house-press-secretary-post/articleshow/135645729.cms"
-    },
-    {
-      "id": "ca_20261108_08",
-      "question": {
-        "en": "Emma Watson recently donated £1 million to a UK fund primarily aimed at combating which issue?",
-        "hi": "एम्मा वॉटसन ने हाल ही में यूके फंड में £1 मिलियन का दान दिया जिसका मुख्य उद्देश्य मुख्य रूप से किस मुद्दे से निपटना था?"
-      },
-      "options": [
-        {
-          "en": "Child poverty",
-          "hi": "बाल निर्धनता"
-        },
-        {
-          "en": "Sexual harassment",
-          "hi": "यौन उत्पीड़न"
-        },
-        {
-          "en": "Climate change",
-          "hi": "जलवायु परिवर्तन"
-        },
-        {
-          "en": "Educational inequality",
-          "hi": "शैक्षिक असमानता"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "Emma Watson donated £1 million to the Justice and Equality Fund in the UK, which has reached over 46,100 women and girls in the fight against sexual harassment.",
-        "hi": "एम्मा वॉटसन ने यूके में न्याय और समानता कोष को £1 मिलियन का दान दिया, जो यौन उत्पीड़न के खिलाफ लड़ाई में 46,100 से अधिक महिलाओं और लड़कियों तक पहुंचा है।"
-      },
-      "category": "Awards & Honours",
-      "difficulty": "easy",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/uk/emma-watson-donated-1-million-to-a-uk-fund-fighting-sexual-harassment-its-impact-report-later-recorded-46100-women-and-girls-reached-over-20000-professionals-trained-and-59-grants-awarded/articleshow/135578193.cms"
-    },
-    {
-      "id": "ca_20261108_09",
-      "question": {
-        "en": "In which European country did the Prime Minister recently reveal that three bodies were found at a mass shooting suspect's home, citing far-right influence?",
-        "hi": "हाल ही में किस यूरोपीय देश में धुर दक्षिणपंथी प्रभाव का हवाला देते हुए प्रधान मंत्री ने खुलासा किया कि सामूहिक गोलीबारी के एक संदिग्ध के घर पर तीन शव पाए गए थे?"
-      },
-      "options": [
-        {
-          "en": "France",
-          "hi": "फ्रांस"
-        },
-        {
-          "en": "Germany",
-          "hi": "जर्मनी"
-        },
-        {
-          "en": "Poland",
-          "hi": "पोलैंड"
-        },
-        {
-          "en": "Sweden",
-          "hi": "स्वीडन"
-        }
-      ],
-      "correctAnswer": 2,
-      "explanation": {
-        "en": "The Prime Minister of Poland revealed that three bodies were found at the home of a mass shooting suspect, with ministers flagging potential far-right influence.",
-        "hi": "पोलैंड के प्रधान मंत्री ने खुलासा किया कि सामूहिक गोलीबारी के एक संदिग्ध के घर पर तीन शव पाए गए, मंत्रियों ने संभावित सुदूर-दक्षिणपंथी प्रभाव का संकेत दिया।"
-      },
-      "category": "Polity & Governance",
       "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/europe/poland-mass-shooting-pm-says-footage-shows-3-bodies-at-suspects-home-minister-cites-far-right-influence/articleshow/135646464.cms"
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/nvidia-ceo-jensen-huang-admits-affair-with-singapore-based-companys-ceo-read-his-email-to-nvidias-employees/articleshow/135665758.cms",
+      "correctAnswer": 2
     },
     {
-      "id": "ca_20261108_10",
+      "id": "ca_20261109_08",
       "question": {
-        "en": "Which political party recently claimed that Sonia Gandhi's remarks on the Babri issue exposed the Congress party's anti-Ram stance?",
-        "hi": "हाल ही में किस राजनीतिक दल ने दावा किया कि बाबरी मुद्दे पर सोनिया गांधी की टिप्पणियों ने कांग्रेस पार्टी के राम-विरोधी रुख को उजागर कर दिया है?"
+        "en": "In which country did a recent collision with a stationary train leave 7 dead and over 125 injured?",
+        "hi": "हाल ही में किस देश में एक खड़ी ट्रेन से टकराने से 7 लोगों की मौत हो गई और 125 से अधिक घायल हो गए?"
       },
       "options": [
         {
-          "en": "BJP",
-          "hi": "भाजपा"
+          "en": "Turkey",
+          "hi": "तुर्की"
         },
         {
-          "en": "BSP",
-          "hi": "बसपा"
+          "en": "Egypt",
+          "hi": "मिस्र"
         },
         {
-          "en": "AAP",
-          "hi": "एएपी"
+          "en": "India",
+          "hi": "भारत"
         },
         {
-          "en": "SP",
-          "hi": "सपा"
+          "en": "Iran",
+          "hi": "ईरान"
         }
       ],
-      "correctAnswer": 0,
       "explanation": {
-        "en": "The BJP claimed that remarks by Sonia Gandhi regarding the Babri issue exposed what they described as the Congress party's anti-Ram stance.",
-        "hi": "भाजपा ने दावा किया कि बाबरी मुद्दे के संबंध में सोनिया गांधी की टिप्पणियों से कांग्रेस पार्टी का राम विरोधी रुख उजागर हो गया है।"
+        "en": "A tragic train crash occurred in Egypt when a moving train collided with a stationary train, resulting in 7 fatalities and injuring 125 people.",
+        "hi": "मिस्र में एक दर्दनाक ट्रेन दुर्घटना हुई जब एक चलती ट्रेन एक खड़ी ट्रेन से टकरा गई, जिसके परिणामस्वरूप 7 लोगों की मौत हो गई और 125 लोग घायल हो गए।"
       },
-      "category": "Polity & Governance",
+      "category": "International Summits",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/rest-of-world/egypt-train-crash-how-a-collision-with-a-stationary-train-left-7-dead-125-injured/articleshow/135665810.cms",
+      "correctAnswer": 1
+    },
+    {
+      "id": "ca_20261109_09",
+      "question": {
+        "en": "Following midterm election victories, Democrats in the US have ramped up their push for the impeachment of which political figure?",
+        "hi": "मध्यावधि चुनाव में जीत के बाद, अमेरिका में डेमोक्रेट्स ने किस राजनीतिक व्यक्ति पर महाभियोग चलाने के लिए अपना दबाव बढ़ा दिया है?"
+      },
+      "options": [
+        {
+          "en": "DeSantis",
+          "hi": "डेसांटिस"
+        },
+        {
+          "en": "McCarthy",
+          "hi": "मैकार्थी"
+        },
+        {
+          "en": "Hegseth",
+          "hi": "हेगसेथ"
+        },
+        {
+          "en": "Trump",
+          "hi": "ट्रम्प"
+        }
+      ],
+      "explanation": {
+        "en": "Emboldened by their victories in the midterm elections, Democrats in the United States have intensified their push to impeach Hegseth.",
+        "hi": "मध्यावधि चुनावों में अपनी जीत से उत्साहित होकर, संयुक्त राज्य अमेरिका में डेमोक्रेट्स ने हेगसेथ पर महाभियोग चलाने के अपने प्रयास तेज कर दिए हैं।"
+      },
+      "category": "International Summits",
       "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/sonias-babri-claim-exposes-congs-anti-ram-face-bjp/articleshow/135646452.cms"
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/democrats-turn-up-heat-on-hegseth-vow-impeachment-push-after-midterm-victories/articleshow/135665925.cms",
+      "correctAnswer": 2
+    },
+    {
+      "id": "ca_20261109_10",
+      "question": {
+        "en": "US President Donald Trump recently stated that fresh strikes on which nation are 'highly unlikely' if they sign a 'strong agreement'?",
+        "hi": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्प ने हाल ही में कहा है कि यदि वे 'मजबूत समझौते' पर हस्ताक्षर करते हैं तो किस देश पर नए हमले 'अत्यधिक असंभव' हैं?"
+      },
+      "options": [
+        {
+          "en": "China",
+          "hi": "चीन"
+        },
+        {
+          "en": "Iran",
+          "hi": "ईरान"
+        },
+        {
+          "en": "Russia",
+          "hi": "रूस"
+        },
+        {
+          "en": "North Korea",
+          "hi": "उत्तर कोरिया"
+        }
+      ],
+      "explanation": {
+        "en": "Donald Trump stated that fresh strikes against Iran are 'highly unlikely', provided Tehran agrees to sign a strong new agreement.",
+        "hi": "डोनाल्ड ट्रम्प ने कहा कि ईरान के खिलाफ नए हमलों की संभावना 'अत्यधिक असंभव' है, बशर्ते तेहरान एक मजबूत नए समझौते पर हस्ताक्षर करने के लिए सहमत हो।"
+      },
+      "category": "Defence & Security",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/middle-east/theyre-a-failing-nation-trump-says-fresh-iran-strikes-highly-unlikely-if-tehran-signs-strong-agreement/articleshow/135664914.cms",
+      "correctAnswer": 1
     }
   ]
 }
