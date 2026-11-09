@@ -1,13 +1,13 @@
 {
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "topic": "SSC CGL Daily Current Affairs",
   "source": "Multiple Sources",
-  "lastUpdated": "2026-11-09T05:30:00+05:30",
+  "lastUpdated": "2026-11-10T06:30:00+05:30",
   "version": 1,
   "totalQuestions": 10,
   "quiz": [
     {
-      "id": "ca_20261109_01",
+      "id": "ca_20261110_01",
       "question": {
         "en": "Which major technological expansion is facing mounting opposition in the US due to concerns over soaring electricity costs and excessive water consumption?",
         "hi": "बढ़ती बिजली लागत और अत्यधिक पानी की खपत पर चिंताओं के कारण अमेरिका में किस तकनीकी विस्तार को बढ़ते विरोध का सामना करना पड़ रहा है?"
@@ -40,7 +40,7 @@
       "correctAnswer": 0
     },
     {
-      "id": "ca_20261109_02",
+      "id": "ca_20261110_02",
       "question": {
         "en": "Microsoft employees recently circulated an open letter stating that work has become 'joyless', mainly due to the forced use of which technology?",
         "hi": "माइक्रोसॉफ्ट के कर्मचारियों ने हाल ही में एक खुला पत्र प्रसारित किया जिसमें कहा गया है कि काम 'नीरस' हो गया है, मुख्य रूप से किस तकनीक के जबरन उपयोग के कारण?"
@@ -73,7 +73,7 @@
       "correctAnswer": 0
     },
     {
-      "id": "ca_20261109_03",
+      "id": "ca_20261110_03",
       "question": {
         "en": "Following Diwali celebrations, Delhi's Air Quality Index (AQI) surged to severe levels. Which central body is primarily responsible for monitoring air quality in India?",
         "hi": "दिवाली समारोह के बाद, दिल्ली का वायु गुणवत्ता सूचकांक (AQI) गंभीर स्तर तक बढ़ गया। भारत में वायु गुणवत्ता की निगरानी के लिए मुख्य रूप से कौन सा केंद्रीय निकाय जिम्मेदार है?"
@@ -106,7 +106,7 @@
       "correctAnswer": 3
     },
     {
-      "id": "ca_20261109_04",
+      "id": "ca_20261110_04",
       "question": {
         "en": "Who has been assigned the responsibility by Israeli President Isaac Herzog to form the next government, challenging Benjamin Netanyahu?",
         "hi": "इजरायल के राष्ट्रपति इसहाक हर्ज़ोग ने बेंजामिन नेतन्याहू को चुनौती देते हुए, अगली सरकार बनाने की जिम्मेदारी किसे सौंपी है?"
@@ -139,7 +139,7 @@
       "correctAnswer": 0
     },
     {
-      "id": "ca_20261109_05",
+      "id": "ca_20261110_05",
       "question": {
         "en": "In a recent ruling, the North Dakota Supreme Court rejected an unjust enrichment claim by a woman seeking return of funds invested in a home with her former partner. What core legal principle was highlighted?",
         "hi": "हाल ही के एक फैसले में, नॉर्थ डकोटा सुप्रीम कोर्ट ने अपने पूर्व साथी के साथ घर में निवेश किए गए धन की वापसी की मांग करने वाली एक महिला के अन्यायपूर्ण संवर्धन के दावे को खारिज कर दिया। किस मुख्य कानूनी सिद्धांत पर प्रकाश डाला गया?"
@@ -172,7 +172,7 @@
       "correctAnswer": 2
     },
     {
-      "id": "ca_20261109_06",
+      "id": "ca_20261110_06",
       "question": {
         "en": "Where did a massive 'Red Line' march recently bring the city to a standstill in protest against the government's response to the war in Gaza?",
         "hi": "गाजा में युद्ध पर सरकार की प्रतिक्रिया के विरोध में हाल ही में बड़े पैमाने पर 'रेड लाइन' मार्च ने किस शहर को ठप कर दिया?"
@@ -205,7 +205,7 @@
       "correctAnswer": 1
     },
     {
-      "id": "ca_20261109_07",
+      "id": "ca_20261110_07",
       "question": {
         "en": "Which major global company's CEO, Jensen Huang, recently admitted to an affair, prompting the board to order a national security review regarding potential espionage links?",
         "hi": "किस प्रमुख वैश्विक कंपनी के सीईओ, जेन्सेन हुआंग ने हाल ही में एक संबंध स्वीकार किया है, जिसके कारण बोर्ड ने संभावित जासूसी संबंधों के संबंध में राष्ट्रीय सुरक्षा समीक्षा का आदेश दिया है?"
@@ -238,7 +238,7 @@
       "correctAnswer": 2
     },
     {
-      "id": "ca_20261109_08",
+      "id": "ca_20261110_08",
       "question": {
         "en": "In which country did a recent collision with a stationary train leave 7 dead and over 125 injured?",
         "hi": "हाल ही में किस देश में एक खड़ी ट्रेन से टकराने से 7 लोगों की मौत हो गई और 125 से अधिक घायल हो गए?"
@@ -271,7 +271,7 @@
       "correctAnswer": 1
     },
     {
-      "id": "ca_20261109_09",
+      "id": "ca_20261110_09",
       "question": {
         "en": "Following midterm election victories, Democrats in the US have ramped up their push for the impeachment of which political figure?",
         "hi": "मध्यावधि चुनाव में जीत के बाद, अमेरिका में डेमोक्रेट्स ने किस राजनीतिक व्यक्ति पर महाभियोग चलाने के लिए अपना दबाव बढ़ा दिया है?"
@@ -304,7 +304,7 @@
       "correctAnswer": 2
     },
     {
-      "id": "ca_20261109_10",
+      "id": "ca_20261110_10",
       "question": {
         "en": "US President Donald Trump recently stated that fresh strikes on which nation are 'highly unlikely' if they sign a 'strong agreement'?",
         "hi": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्प ने हाल ही में कहा है कि यदि वे 'मजबूत समझौते' पर हस्ताक्षर करते हैं तो किस देश पर नए हमले 'अत्यधिक असंभव' हैं?"
