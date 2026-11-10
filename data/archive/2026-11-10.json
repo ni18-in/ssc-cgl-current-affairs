@@ -1,0 +1,340 @@
+{
+  "date": "2026-11-10",
+  "topic": "SSC CGL Daily Current Affairs",
+  "source": "The Hindu / Times of India",
+  "lastUpdated": "2026-11-10T05:30:00+05:30",
+  "version": 1,
+  "totalQuestions": 10,
+  "quiz": [
+    {
+      "id": "ca_20261110_01",
+      "question": {
+        "en": "Which state's Wayanad conservationist N. Badusha recently won the KFBC environmental award?",
+        "hi": "किस राज्य के वायनाड संरक्षणवादी एन. बदुशा ने हाल ही में KFBC पर्यावरण पुरस्कार जीता?"
+      },
+      "options": [
+        {
+          "en": "Kerala",
+          "hi": "केरल"
+        },
+        {
+          "en": "Karnataka",
+          "hi": "Karnataka"
+        },
+        {
+          "en": "Tamil Nadu",
+          "hi": "तमिलनाडु"
+        },
+        {
+          "en": "Andhra Pradesh",
+          "hi": "आंध्र प्रदेश"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "Conservationist N. Badusha from Wayanad, Kerala won the KFBC environmental award, instituted in memory of Kamarudeen. This award carries a cash prize of ₹25,000.",
+        "hi": "वायनाड, केरल के संरक्षणवादी एन. बदुशा ने कमरुद्दीन की स्मृति में स्थापित केएफबीसी पर्यावरण पुरस्कार जीता।इस पुरस्कार में ₹25,000 का नकद पुरस्कार दिया जाता है।"
+      },
+      "category": "Awards & Honours",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/news/national/kerala/wayanad-conservationist-n-badusha-wins-kfbc-environmental-award/article71683095.ece"
+    },
+    {
+      "id": "ca_20261110_02",
+      "question": {
+        "en": "Which state recently established a High-Level Committee on Union-State Relations, defended by Chief Minister M.K. Stalin?",
+        "hi": "हाल ही में किस राज्य ने केंद्र-राज्य संबंधों पर एक उच्च-स्तरीय समिति की स्थापना की, जिसका बचाव मुख्यमंत्री एम.के. ने किया?स्टालिन?"
+      },
+      "options": [
+        {
+          "en": "Andhra Pradesh",
+          "hi": "आंध्र प्रदेश"
+        },
+        {
+          "en": "Tamil Nadu",
+          "hi": "तमिलनाडु"
+        },
+        {
+          "en": "Karnataka",
+          "hi": "Karnataka"
+        },
+        {
+          "en": "Kerala",
+          "hi": "केरल"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Tamil Nadu Chief Minister M.K. Stalin defended the High-Level Committee on Union-State Relations, stating its ideas and contribution cannot be disbanded despite overlaps with the State Law Commission.",
+        "hi": "तमिलनाडु के मुख्यमंत्री एम.के.स्टालिन ने संघ-राज्य संबंधों पर उच्च-स्तरीय समिति का बचाव करते हुए कहा कि राज्य विधि आयोग के साथ ओवरलैप होने के बावजूद इसके विचारों और योगदान को भंग नहीं किया जा सकता है।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/news/national/tamil-nadu/government-can-disband-the-union-state-relations-committee-but-not-its-ideas-and-contribution-says-mk-stalin/article71683716.ece"
+    },
+    {
+      "id": "ca_20261110_03",
+      "question": {
+        "en": "Bengaluru is set to host the first meeting of which international body's regional unit?",
+        "hi": "बेंगलुरु किस अंतर्राष्ट्रीय निकाय की क्षेत्रीय इकाई की पहली बैठक की मेजबानी करने के लिए तैयार है?"
+      },
+      "options": [
+        {
+          "en": "G20 Women Leaders",
+          "hi": "G20 महिला नेता"
+        },
+        {
+          "en": "Commonwealth Women Parliamentarians",
+          "hi": "राष्ट्रमंडल महिला सांसद"
+        },
+        {
+          "en": "BRICS Youth Summit",
+          "hi": "ब्रिक्स युवा शिखर सम्मेलन"
+        },
+        {
+          "en": "ASEAN Regional Forum",
+          "hi": "आसियान क्षेत्रीय मंच"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Bengaluru, Karnataka is set to host the first meeting of the Commonwealth Women Parliamentarians' regional unit, highlighting India's active role in international legislative forums.",
+        "hi": "बेंगलुरु, कर्नाटक राष्ट्रमंडल महिला सांसदों की क्षेत्रीय इकाई की पहली बैठक की मेजबानी करने के लिए तैयार है, जो अंतरराष्ट्रीय विधायी मंचों पर भारत की सक्रिय भूमिका पर प्रकाश डालेगी।"
+      },
+      "category": "International Summits",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/bengaluru-to-host-first-meet-of-commonwealth-women-parliamentariansregional-unit/article71683726.ece"
+    },
+    {
+      "id": "ca_20261110_04",
+      "question": {
+        "en": "The Karnataka High Court recently issued guidelines to BMRCL (Bengaluru Metro) regarding which specific issue?",
+        "hi": "कर्नाटक उच्च न्यायालय ने हाल ही में किस विशिष्ट मुद्दे के संबंध में बीएमआरसीएल (बेंगलुरु मेट्रो) को दिशानिर्देश जारी किए?"
+      },
+      "options": [
+        {
+          "en": "Environmental clearance for underground routes",
+          "hi": "भूमिगत मार्गों के लिए पर्यावरण मंजूरी"
+        },
+        {
+          "en": "Ticketing price caps",
+          "hi": "टिकटिंग मूल्य सीमा"
+        },
+        {
+          "en": "Labor wages for construction workers",
+          "hi": "निर्माण श्रमिकों के लिए श्रम मजदूरी"
+        },
+        {
+          "en": "Access to remaining portions of acquired properties",
+          "hi": "अर्जित संपत्तियों के शेष हिस्सों तक पहुंच"
+        }
+      ],
+      "correctAnswer": 3,
+      "explanation": {
+        "en": "The Karnataka High Court issued guidelines to BMRCL for ensuring access to the remaining portion of properties acquired for the metro project, declaring some provisions of the Way Leave Policy unconstitutional.",
+        "hi": "कर्नाटक उच्च न्यायालय ने वे लीव पॉलिसी के कुछ प्रावधानों को असंवैधानिक घोषित करते हुए मेट्रो परियोजना के लिए अर्जित संपत्तियों के शेष हिस्से तक पहुंच सुनिश्चित करने के लिए बीएमआरसीएल को दिशानिर्देश जारी किए।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/karnataka-high-court-issues-guidelines-to-bmrcl-for-ensuring-access-to-remaining-portion-of-properties-acquired-for-metro-project/article71683078.ece"
+    },
+    {
+      "id": "ca_20261110_05",
+      "question": {
+        "en": "Which state's Single-Window Clearance Committee recently approved 147 projects worth ₹6,826 crore?",
+        "hi": "हाल ही में किस राज्य की एकल-खिड़की मंजूरी समिति ने ₹6,826 करोड़ की 147 परियोजनाओं को मंजूरी दी है?"
+      },
+      "options": [
+        {
+          "en": "Tamil Nadu",
+          "hi": "तमिलनाडु"
+        },
+        {
+          "en": "Gujarat",
+          "hi": "Gujarat"
+        },
+        {
+          "en": "Maharashtra",
+          "hi": "महाराष्ट्र"
+        },
+        {
+          "en": "Karnataka",
+          "hi": "Karnataka"
+        }
+      ],
+      "correctAnswer": 3,
+      "explanation": {
+        "en": "The Karnataka Single-Window Clearance Committee approved 147 industrial projects worth ₹6,826 crore. Industries Minister M.B. Patil stated that 131 of these projects will be established outside Bengaluru.",
+        "hi": "कर्नाटक सिंगल-विंडो क्लीयरेंस कमेटी ने ₹6,826 करोड़ की 147 औद्योगिक परियोजनाओं को मंजूरी दी।उद्योग मंत्री एम.बी.पाटिल ने कहा कि इनमें से 131 परियोजनाएं बेंगलुरु के बाहर स्थापित की जाएंगी।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/karnataka-single-window-clearance-committee-approves-147-projects-worth-6826-cr/article71683474.ece"
+    },
+    {
+      "id": "ca_20261110_06",
+      "question": {
+        "en": "The Andhra Pradesh government has offered a one-time option for CPS employees to shift to which pension system?",
+        "hi": "आंध्र प्रदेश सरकार ने सीपीएस कर्मचारियों को किस पेंशन प्रणाली में स्थानांतरित होने के लिए एकमुश्त विकल्प की पेशकश की है?"
+      },
+      "options": [
+        {
+          "en": "Unified Pension Scheme",
+          "hi": "एकीकृत पेंशन योजना"
+        },
+        {
+          "en": "Atal Pension Yojana",
+          "hi": "अटल पेंशन योजना"
+        },
+        {
+          "en": "Old Pension Scheme",
+          "hi": "पुरानी पेंशन योजना"
+        },
+        {
+          "en": "National Pension System",
+          "hi": "राष्ट्रीय पेंशन प्रणाली"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The Andhra Pradesh government offered a one-time option to Contributory Pension Scheme (CPS) employees whose recruitment process commenced before September 1, 2004, to shift to the Old Pension Scheme (OPS).",
+        "hi": "आंध्र प्रदेश सरकार ने अंशदायी पेंशन योजना (सीपीएस) कर्मचारियों को, जिनकी भर्ती प्रक्रिया 1 सितंबर 2004 से पहले शुरू हुई थी, पुरानी पेंशन योजना (ओपीएस) में स्थानांतरित करने के लिए एक बार का विकल्प पेश किया।"
+      },
+      "category": "Government Schemes",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-govt-offers-one-time-option-to-cps-employees-to-shift-to-old-pension-scheme/article71683379.ece"
+    },
+    {
+      "id": "ca_20261110_07",
+      "question": {
+        "en": "Which state's Chief Minister recently sought to phase out ₹500 and high-value banknotes to curb corruption?",
+        "hi": "हाल ही में किस राज्य के मुख्यमंत्री ने भ्रष्टाचार पर अंकुश लगाने के लिए ₹500 और उच्च मूल्य के बैंक नोटों को चरणबद्ध तरीके से बंद करने की मांग की?"
+      },
+      "options": [
+        {
+          "en": "Andhra Pradesh",
+          "hi": "आंध्र प्रदेश"
+        },
+        {
+          "en": "Karnataka",
+          "hi": "Karnataka"
+        },
+        {
+          "en": "Telangana",
+          "hi": "तेलंगाना"
+        },
+        {
+          "en": "Kerala",
+          "hi": "केरल"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "Andhra Pradesh Chief Minister N Chandrababu Naidu advocated for phasing out ₹500 and other high-value banknotes to combat corruption and promote digital transactions.",
+        "hi": "आंध्र प्रदेश के मुख्यमंत्री एन चंद्रबाबू नायडू ने भ्रष्टाचार से निपटने और डिजिटल लेनदेन को बढ़ावा देने के लिए ₹500 और अन्य उच्च मूल्य के बैंक नोटों को चरणबद्ध तरीके से चलन से बाहर करने की वकालत की।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/scrap-rs-500-notes-cm-naidu-seeks-to-phase-out-big-currency-to-curb-corruption/articleshow/135685736.cms"
+    },
+    {
+      "id": "ca_20261110_08",
+      "question": {
+        "en": "Which state recently launched 'Operation Toofan', resulting in over 15,700 arrests under the Anti-Social Activities Act?",
+        "hi": "हाल ही में किस राज्य ने 'ऑपरेशन तूफान' शुरू किया, जिसके परिणामस्वरूप असामाजिक गतिविधि अधिनियम के तहत 15,700 से अधिक गिरफ्तारियां हुईं?"
+      },
+      "options": [
+        {
+          "en": "Assam",
+          "hi": "असम"
+        },
+        {
+          "en": "West Bengal",
+          "hi": "पश्चिम बंगाल"
+        },
+        {
+          "en": "Uttar Pradesh",
+          "hi": "Uttar Pradesh"
+        },
+        {
+          "en": "Kerala",
+          "hi": "केरल"
+        }
+      ],
+      "correctAnswer": 3,
+      "explanation": {
+        "en": "Kerala's Home Minister announced that over 15,700 individuals were arrested in 'Operation Toofan', with many booked under the Kerala Anti-Social Activities (Prevention) Act (KAAPA).",
+        "hi": "केरल के गृह मंत्री ने घोषणा की कि 'ऑपरेशन तूफ़ान' में 15,700 से अधिक व्यक्तियों को गिरफ्तार किया गया, जिनमें से कई पर केरल असामाजिक गतिविधियाँ (रोकथाम) अधिनियम (KAAPA) के तहत मामला दर्ज किया गया।"
+      },
+      "category": "Defence & Security",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/news/national/kerala/over-15700-arrested-in-operation-toofan-says-keralam-home-minister/article71683444.ece"
+    },
+    {
+      "id": "ca_20261110_09",
+      "question": {
+        "en": "The Enforcement Directorate (ED) recently attached properties in Kashmir for the misuse of which central scheme?",
+        "hi": "प्रवर्तन निदेशालय (ईडी) ने हाल ही में किस केंद्रीय योजना के दुरुपयोग के लिए कश्मीर में संपत्तियों को कुर्क किया है?"
+      },
+      "options": [
+        {
+          "en": "PM Employment Generation Programme (PMEGP)",
+          "hi": "प्रधानमंत्री रोजगार सृजन कार्यक्रम (पीएमईजीपी)"
+        },
+        {
+          "en": "PM Kisan Samman Nidhi",
+          "hi": "PM Kisan Samman Nidhi"
+        },
+        {
+          "en": "MGNREGA",
+          "hi": "एमजीएनआरईजीए"
+        },
+        {
+          "en": "Ayushman Bharat",
+          "hi": "Ayushman Bharat"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "The Enforcement Directorate attached properties in Kashmir investigating the misappropriation of loans under the Prime Minister's Employment Generation Programme (PMEGP) involving J&K Bank branches.",
+        "hi": "प्रवर्तन निदेशालय ने प्रधानमंत्री रोजगार सृजन कार्यक्रम (पीएमईजीपी) के तहत जम्मू-कश्मीर बैंक की शाखाओं से जुड़े ऋणों के दुरुपयोग की जांच करते हुए कश्मीर में संपत्तियों को कुर्क किया है।"
+      },
+      "category": "Government Schemes",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/news/national/jammu-and-kashmir/ed-attaches-properties-in-kashmir-in-misuse-of-pm-employment-generation-programme-scheme-case/article71683744.ece"
+    },
+    {
+      "id": "ca_20261110_10",
+      "question": {
+        "en": "According to Telangana Chief Minister Revanth Reddy, the state is paying ₹80,000 crore annually for debts left behind by which previous ruling party leader?",
+        "hi": "तेलंगाना के मुख्यमंत्री रेवंत रेड्डी के अनुसार, राज्य पिछले सत्तारूढ़ दल के किस नेता द्वारा छोड़े गए कर्ज के लिए सालाना ₹80,000 करोड़ का भुगतान कर रहा है?"
+      },
+      "options": [
+        {
+          "en": "Y.S. Jagan Mohan Reddy",
+          "hi": "वाई.एस.जगन मोहन रेड्डी"
+        },
+        {
+          "en": "N. Chandrababu Naidu",
+          "hi": "एन. चंद्रबाबू नायडू"
+        },
+        {
+          "en": "N. Kiran Kumar Reddy",
+          "hi": "एन किरण कुमार रेड्डी"
+        },
+        {
+          "en": "K. Chandrashekar Rao",
+          "hi": "K. Chandrashekar Rao"
+        }
+      ],
+      "correctAnswer": 3,
+      "explanation": {
+        "en": "Telangana Chief Minister Revanth Reddy claimed the Congress government is paying ₹80,000 crore per year for debts accumulated during the previous administration led by K. Chandrashekar Rao (KCR).",
+        "hi": "तेलंगाना के मुख्यमंत्री रेवंत रेड्डी ने दावा किया कि कांग्रेस सरकार के.चंद्रशेखर राव (केसीआर) के नेतृत्व वाले पिछले प्रशासन के दौरान जमा हुए कर्ज के लिए प्रति वर्ष ₹80,000 करोड़ का भुगतान कर रही है।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/news/national/telangana/congress-government-paying-80000-crore-per-year-for-debts-left-behind-by-kcr-revanth/article71683710.ece"
+    }
+  ]
+}
