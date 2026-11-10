@@ -1,13 +1,13 @@
 {
-  "date": "2026-11-10",
+  "date": "2026-11-11",
   "topic": "SSC CGL Daily Current Affairs",
   "source": "The Hindu / Times of India",
-  "lastUpdated": "2026-11-10T05:30:00+05:30",
+  "lastUpdated": "2026-11-11T06:30:00+05:30",
   "version": 1,
   "totalQuestions": 10,
   "quiz": [
     {
-      "id": "ca_20261110_01",
+      "id": "ca_20261111_01",
       "question": {
         "en": "Which state's Wayanad conservationist N. Badusha recently won the KFBC environmental award?",
         "hi": "किस राज्य के वायनाड संरक्षणवादी एन. बदुशा ने हाल ही में KFBC पर्यावरण पुरस्कार जीता?"
@@ -40,7 +40,7 @@
       "sourceUrl": "https://www.thehindu.com/news/national/kerala/wayanad-conservationist-n-badusha-wins-kfbc-environmental-award/article71683095.ece"
     },
     {
-      "id": "ca_20261110_02",
+      "id": "ca_20261111_02",
       "question": {
         "en": "Which state recently established a High-Level Committee on Union-State Relations, defended by Chief Minister M.K. Stalin?",
         "hi": "हाल ही में किस राज्य ने केंद्र-राज्य संबंधों पर एक उच्च-स्तरीय समिति की स्थापना की, जिसका बचाव मुख्यमंत्री एम.के. ने किया?स्टालिन?"
@@ -73,7 +73,7 @@
       "sourceUrl": "https://www.thehindu.com/news/national/tamil-nadu/government-can-disband-the-union-state-relations-committee-but-not-its-ideas-and-contribution-says-mk-stalin/article71683716.ece"
     },
     {
-      "id": "ca_20261110_03",
+      "id": "ca_20261111_03",
       "question": {
         "en": "Bengaluru is set to host the first meeting of which international body's regional unit?",
         "hi": "बेंगलुरु किस अंतर्राष्ट्रीय निकाय की क्षेत्रीय इकाई की पहली बैठक की मेजबानी करने के लिए तैयार है?"
@@ -106,7 +106,7 @@
       "sourceUrl": "https://www.thehindu.com/news/national/karnataka/bengaluru-to-host-first-meet-of-commonwealth-women-parliamentariansregional-unit/article71683726.ece"
     },
     {
-      "id": "ca_20261110_04",
+      "id": "ca_20261111_04",
       "question": {
         "en": "The Karnataka High Court recently issued guidelines to BMRCL (Bengaluru Metro) regarding which specific issue?",
         "hi": "कर्नाटक उच्च न्यायालय ने हाल ही में किस विशिष्ट मुद्दे के संबंध में बीएमआरसीएल (बेंगलुरु मेट्रो) को दिशानिर्देश जारी किए?"
@@ -139,7 +139,7 @@
       "sourceUrl": "https://www.thehindu.com/news/national/karnataka/karnataka-high-court-issues-guidelines-to-bmrcl-for-ensuring-access-to-remaining-portion-of-properties-acquired-for-metro-project/article71683078.ece"
     },
     {
-      "id": "ca_20261110_05",
+      "id": "ca_20261111_05",
       "question": {
         "en": "Which state's Single-Window Clearance Committee recently approved 147 projects worth ₹6,826 crore?",
         "hi": "हाल ही में किस राज्य की एकल-खिड़की मंजूरी समिति ने ₹6,826 करोड़ की 147 परियोजनाओं को मंजूरी दी है?"
@@ -172,7 +172,7 @@
       "sourceUrl": "https://www.thehindu.com/news/national/karnataka/karnataka-single-window-clearance-committee-approves-147-projects-worth-6826-cr/article71683474.ece"
     },
     {
-      "id": "ca_20261110_06",
+      "id": "ca_20261111_06",
       "question": {
         "en": "The Andhra Pradesh government has offered a one-time option for CPS employees to shift to which pension system?",
         "hi": "आंध्र प्रदेश सरकार ने सीपीएस कर्मचारियों को किस पेंशन प्रणाली में स्थानांतरित होने के लिए एकमुश्त विकल्प की पेशकश की है?"
@@ -205,7 +205,7 @@
       "sourceUrl": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-govt-offers-one-time-option-to-cps-employees-to-shift-to-old-pension-scheme/article71683379.ece"
     },
     {
-      "id": "ca_20261110_07",
+      "id": "ca_20261111_07",
       "question": {
         "en": "Which state's Chief Minister recently sought to phase out ₹500 and high-value banknotes to curb corruption?",
         "hi": "हाल ही में किस राज्य के मुख्यमंत्री ने भ्रष्टाचार पर अंकुश लगाने के लिए ₹500 और उच्च मूल्य के बैंक नोटों को चरणबद्ध तरीके से बंद करने की मांग की?"
@@ -238,7 +238,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/india/scrap-rs-500-notes-cm-naidu-seeks-to-phase-out-big-currency-to-curb-corruption/articleshow/135685736.cms"
     },
     {
-      "id": "ca_20261110_08",
+      "id": "ca_20261111_08",
       "question": {
         "en": "Which state recently launched 'Operation Toofan', resulting in over 15,700 arrests under the Anti-Social Activities Act?",
         "hi": "हाल ही में किस राज्य ने 'ऑपरेशन तूफान' शुरू किया, जिसके परिणामस्वरूप असामाजिक गतिविधि अधिनियम के तहत 15,700 से अधिक गिरफ्तारियां हुईं?"
@@ -271,7 +271,7 @@
       "sourceUrl": "https://www.thehindu.com/news/national/kerala/over-15700-arrested-in-operation-toofan-says-keralam-home-minister/article71683444.ece"
     },
     {
-      "id": "ca_20261110_09",
+      "id": "ca_20261111_09",
       "question": {
         "en": "The Enforcement Directorate (ED) recently attached properties in Kashmir for the misuse of which central scheme?",
         "hi": "प्रवर्तन निदेशालय (ईडी) ने हाल ही में किस केंद्रीय योजना के दुरुपयोग के लिए कश्मीर में संपत्तियों को कुर्क किया है?"
@@ -304,7 +304,7 @@
       "sourceUrl": "https://www.thehindu.com/news/national/jammu-and-kashmir/ed-attaches-properties-in-kashmir-in-misuse-of-pm-employment-generation-programme-scheme-case/article71683744.ece"
     },
     {
-      "id": "ca_20261110_10",
+      "id": "ca_20261111_10",
       "question": {
         "en": "According to Telangana Chief Minister Revanth Reddy, the state is paying ₹80,000 crore annually for debts left behind by which previous ruling party leader?",
         "hi": "तेलंगाना के मुख्यमंत्री रेवंत रेड्डी के अनुसार, राज्य पिछले सत्तारूढ़ दल के किस नेता द्वारा छोड़े गए कर्ज के लिए सालाना ₹80,000 करोड़ का भुगतान कर रहा है?"
