@@ -1,340 +1,340 @@
 {
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "topic": "SSC CGL Daily Current Affairs",
-  "source": "Multiple Sources",
-  "lastUpdated": "2026-11-09T05:30:00+05:30",
+  "source": "The Hindu / Times of India",
+  "lastUpdated": "2026-11-10T05:30:00+05:30",
   "version": 1,
   "totalQuestions": 10,
   "quiz": [
     {
-      "id": "ca_20261109_01",
+      "id": "ca_20261110_01",
       "question": {
-        "en": "Which major technological expansion is facing mounting opposition in the US due to concerns over soaring electricity costs and excessive water consumption?",
-        "hi": "बढ़ती बिजली लागत और अत्यधिक पानी की खपत पर चिंताओं के कारण अमेरिका में किस तकनीकी विस्तार को बढ़ते विरोध का सामना करना पड़ रहा है?"
+        "en": "Which state's Wayanad conservationist N. Badusha recently won the KFBC environmental award?",
+        "hi": "किस राज्य के वायनाड संरक्षणवादी एन. बदुशा ने हाल ही में KFBC पर्यावरण पुरस्कार जीता?"
       },
       "options": [
         {
-          "en": "Data centres",
-          "hi": "डेटा केंद्र"
+          "en": "Kerala",
+          "hi": "केरल"
         },
         {
-          "en": "Cryptocurrency mining",
-          "hi": "क्रिप्टोकरेंसी खनन"
+          "en": "Karnataka",
+          "hi": "Karnataka"
         },
         {
-          "en": "Semiconductor manufacturing",
-          "hi": "सेमीकंडक्टर निर्माण"
+          "en": "Tamil Nadu",
+          "hi": "तमिलनाडु"
         },
         {
-          "en": "Electric vehicle plants",
-          "hi": "इलेक्ट्रिक वाहन संयंत्र"
+          "en": "Andhra Pradesh",
+          "hi": "आंध्र प्रदेश"
         }
       ],
+      "correctAnswer": 0,
       "explanation": {
-        "en": "The expansion of data centres, driven by AI demands, is facing opposition in the US due to their immense electricity and water requirements, impacting local resources and climate goals.",
-        "hi": "एआई की मांगों से प्रेरित डेटा केंद्रों के विस्तार को उनके अत्यधिक बिजली और पानी की आवश्यकताओं के कारण अमेरिका में विरोध का सामना करना पड़ रहा है, जो स्थानीय संसाधनों और जलवायु लक्ष्यों को प्रभावित कर रहा है।"
+        "en": "Conservationist N. Badusha from Wayanad, Kerala won the KFBC environmental award, instituted in memory of Kamarudeen. This award carries a cash prize of ₹25,000.",
+        "hi": "वायनाड, केरल के संरक्षणवादी एन. बदुशा ने कमरुद्दीन की स्मृति में स्थापित केएफबीसी पर्यावरण पुरस्कार जीता।इस पुरस्कार में ₹25,000 का नकद पुरस्कार दिया जाता है।"
       },
-      "category": "Science & Technology",
+      "category": "Awards & Honours",
       "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
-      "correctAnswer": 0
+      "sourceUrl": "https://www.thehindu.com/news/national/kerala/wayanad-conservationist-n-badusha-wins-kfbc-environmental-award/article71683095.ece"
     },
     {
-      "id": "ca_20261109_02",
+      "id": "ca_20261110_02",
       "question": {
-        "en": "Microsoft employees recently circulated an open letter stating that work has become 'joyless', mainly due to the forced use of which technology?",
-        "hi": "माइक्रोसॉफ्ट के कर्मचारियों ने हाल ही में एक खुला पत्र प्रसारित किया जिसमें कहा गया है कि काम 'नीरस' हो गया है, मुख्य रूप से किस तकनीक के जबरन उपयोग के कारण?"
+        "en": "Which state recently established a High-Level Committee on Union-State Relations, defended by Chief Minister M.K. Stalin?",
+        "hi": "हाल ही में किस राज्य ने केंद्र-राज्य संबंधों पर एक उच्च-स्तरीय समिति की स्थापना की, जिसका बचाव मुख्यमंत्री एम.के. ने किया?स्टालिन?"
       },
       "options": [
         {
-          "en": "Artificial Intelligence (AI)",
-          "hi": "कृत्रिम बुद्धिमत्ता (एआई)"
+          "en": "Andhra Pradesh",
+          "hi": "आंध्र प्रदेश"
         },
         {
-          "en": "Blockchain",
-          "hi": "ब्लॉकचेन"
+          "en": "Tamil Nadu",
+          "hi": "तमिलनाडु"
         },
         {
-          "en": "Quantum Computing",
-          "hi": "क्वांटम कंप्यूटिंग"
+          "en": "Karnataka",
+          "hi": "Karnataka"
         },
         {
-          "en": "Virtual Reality (VR)",
-          "hi": "वर्चुअल रियलिटी (वीआर)"
+          "en": "Kerala",
+          "hi": "केरल"
         }
       ],
+      "correctAnswer": 1,
       "explanation": {
-        "en": "Microsoft employees criticized the company's 'AI at all costs' approach, citing forced AI use, layoffs, and environmental concerns while the company reported record profits.",
-        "hi": "माइक्रोसॉफ्ट के कर्मचारियों ने कंपनी के 'हर कीमत पर एआई' दृष्टिकोण की आलोचना की, जिसमें जबरन एआई का उपयोग, छंटनी और पर्यावरणीय चिंताओं का हवाला दिया गया, जबकि कंपनी ने रिकॉर्ड मुनाफा दर्ज किया।"
-      },
-      "category": "Science & Technology",
-      "difficulty": "easy",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/as-microsoft-offers-buyouts-to-60000-employees-staff-write-open-letter-says-working-at-microsoft-has-become-joyless-and-/articleshow/135657463.cms",
-      "correctAnswer": 0
-    },
-    {
-      "id": "ca_20261109_03",
-      "question": {
-        "en": "Following Diwali celebrations, Delhi's Air Quality Index (AQI) surged to severe levels. Which central body is primarily responsible for monitoring air quality in India?",
-        "hi": "दिवाली समारोह के बाद, दिल्ली का वायु गुणवत्ता सूचकांक (AQI) गंभीर स्तर तक बढ़ गया। भारत में वायु गुणवत्ता की निगरानी के लिए मुख्य रूप से कौन सा केंद्रीय निकाय जिम्मेदार है?"
-      },
-      "options": [
-        {
-          "en": "Ministry of Earth Sciences",
-          "hi": "पृथ्वी विज्ञान मंत्रालय"
-        },
-        {
-          "en": "NITI Aayog",
-          "hi": "नीति आयोग"
-        },
-        {
-          "en": "National Green Tribunal (NGT)",
-          "hi": "राष्ट्रीय हरित अधिकरण (एनजीटी)"
-        },
-        {
-          "en": "Central Pollution Control Board (CPCB)",
-          "hi": "केंद्रीय प्रदूषण नियंत्रण बोर्ड (सीपीसीबी)"
-        }
-      ],
-      "explanation": {
-        "en": "The Central Pollution Control Board (CPCB) is the statutory organisation under the Ministry of Environment, Forest and Climate Change responsible for monitoring air and water quality. Delhi's AQI reached severe levels post-Diwali.",
-        "hi": "केंद्रीय प्रदूषण नियंत्रण बोर्ड (सीपीसीबी) पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय के तहत वायु और जल गुणवत्ता की निगरानी के लिए जिम्मेदार वैधानिक संगठन है। दिवाली के बाद दिल्ली का एक्यूआई गंभीर स्तर पर पहुंच गया।"
-      },
-      "category": "Environment & Ecology",
-      "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/delhi-records-very-poor-air-quality-on-diwali-19-monitoring-stations-report-severe-aqi/articleshow/135661694.cms",
-      "correctAnswer": 3
-    },
-    {
-      "id": "ca_20261109_04",
-      "question": {
-        "en": "Who has been assigned the responsibility by Israeli President Isaac Herzog to form the next government, challenging Benjamin Netanyahu?",
-        "hi": "इजरायल के राष्ट्रपति इसहाक हर्ज़ोग ने बेंजामिन नेतन्याहू को चुनौती देते हुए, अगली सरकार बनाने की जिम्मेदारी किसे सौंपी है?"
-      },
-      "options": [
-        {
-          "en": "Gadi Eisenkot",
-          "hi": "गदी ईसेनकोट"
-        },
-        {
-          "en": "Benny Gantz",
-          "hi": "बेनी गैंट्ज़"
-        },
-        {
-          "en": "Naftali Bennett",
-          "hi": "नफ्ताली बेनेट"
-        },
-        {
-          "en": "Yair Lapid",
-          "hi": "यायर लापिड"
-        }
-      ],
-      "explanation": {
-        "en": "Israeli President Isaac Herzog tasked Gadi Eisenkot with forming the next government after he secured the backing of 67 lawmakers, posing a direct challenge to long-serving PM Netanyahu.",
-        "hi": "इजरायल के राष्ट्रपति इसहाक हर्ज़ोग ने 67 सांसदों का समर्थन हासिल करने के बाद गदी ईसेनकोट को अगली सरकार बनाने का काम सौंपा, जो लंबे समय तक पीएम रहे नेतन्याहू के लिए एक सीधी चुनौती है।"
-      },
-      "category": "International Summits",
-      "difficulty": "hard",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/middle-east/is-netanyahus-time-up-10-things-to-know-as-rival-gadi-eisenkot-gets-shot-at-power-in-israel/articleshow/135651806.cms",
-      "correctAnswer": 0
-    },
-    {
-      "id": "ca_20261109_05",
-      "question": {
-        "en": "In a recent ruling, the North Dakota Supreme Court rejected an unjust enrichment claim by a woman seeking return of funds invested in a home with her former partner. What core legal principle was highlighted?",
-        "hi": "हाल ही के एक फैसले में, नॉर्थ डकोटा सुप्रीम कोर्ट ने अपने पूर्व साथी के साथ घर में निवेश किए गए धन की वापसी की मांग करने वाली एक महिला के अन्यायपूर्ण संवर्धन के दावे को खारिज कर दिया। किस मुख्य कानूनी सिद्धांत पर प्रकाश डाला गया?"
-      },
-      "options": [
-        {
-          "en": "Cohabitation implies a legal marriage",
-          "hi": "सहवास का अर्थ कानूनी विवाह है"
-        },
-        {
-          "en": "Verbal contracts are binding in property disputes",
-          "hi": "संपत्ति विवादों में मौखिक अनुबंध बाध्यकारी होते हैं"
-        },
-        {
-          "en": "Demonstrating actual financial benefit to property market value",
-          "hi": "संपत्ति के बाजार मूल्य में वास्तविक वित्तीय लाभ का प्रदर्शन"
-        },
-        {
-          "en": "Equal division of all assets post-split",
-          "hi": "अलगाव के बाद सभी संपत्तियों का समान विभाजन"
-        }
-      ],
-      "explanation": {
-        "en": "The court ruled that to succeed in an unjust enrichment claim, the claimant must demonstrate that their investments resulted in an actual financial benefit or increase in the property's market value, which mere receipts failed to prove.",
-        "hi": "अदालत ने फैसला सुनाया कि अन्यायपूर्ण संवर्धन के दावे में सफल होने के लिए, दावेदार को यह प्रदर्शित करना होगा कि उनके निवेश के परिणामस्वरूप संपत्ति के बाजार मूल्य में वास्तविक वित्तीय लाभ या वृद्धि हुई, जिसे केवल रसीदें साबित करने में विफल रहीं।"
+        "en": "Tamil Nadu Chief Minister M.K. Stalin defended the High-Level Committee on Union-State Relations, stating its ideas and contribution cannot be disbanded despite overlaps with the State Law Commission.",
+        "hi": "तमिलनाडु के मुख्यमंत्री एम.के.स्टालिन ने संघ-राज्य संबंधों पर उच्च-स्तरीय समिति का बचाव करते हुए कहा कि राज्य विधि आयोग के साथ ओवरलैप होने के बावजूद इसके विचारों और योगदान को भंग नहीं किया जा सकता है।"
       },
       "category": "Polity & Governance",
-      "difficulty": "hard",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/a-north-dakota-woman-spent-more-than-110000-on-purchases-for-a-house-she-built-with-her-partner-on-land-held-by-his-family-trust-after-they-split-a-court-rejected-her-claim-for-the-homes-improvements/articleshow/135660646.cms",
-      "correctAnswer": 2
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/news/national/tamil-nadu/government-can-disband-the-union-state-relations-committee-but-not-its-ideas-and-contribution-says-mk-stalin/article71683716.ece"
     },
     {
-      "id": "ca_20261109_06",
+      "id": "ca_20261110_03",
       "question": {
-        "en": "Where did a massive 'Red Line' march recently bring the city to a standstill in protest against the government's response to the war in Gaza?",
-        "hi": "गाजा में युद्ध पर सरकार की प्रतिक्रिया के विरोध में हाल ही में बड़े पैमाने पर 'रेड लाइन' मार्च ने किस शहर को ठप कर दिया?"
+        "en": "Bengaluru is set to host the first meeting of which international body's regional unit?",
+        "hi": "बेंगलुरु किस अंतर्राष्ट्रीय निकाय की क्षेत्रीय इकाई की पहली बैठक की मेजबानी करने के लिए तैयार है?"
       },
       "options": [
         {
-          "en": "Berlin",
-          "hi": "बर्लिन"
+          "en": "G20 Women Leaders",
+          "hi": "G20 महिला नेता"
         },
         {
-          "en": "Amsterdam",
-          "hi": "एम्स्टर्डम"
+          "en": "Commonwealth Women Parliamentarians",
+          "hi": "राष्ट्रमंडल महिला सांसद"
         },
         {
-          "en": "London",
-          "hi": "लंदन"
+          "en": "BRICS Youth Summit",
+          "hi": "ब्रिक्स युवा शिखर सम्मेलन"
         },
         {
-          "en": "Paris",
-          "hi": "पेरिस"
+          "en": "ASEAN Regional Forum",
+          "hi": "आसियान क्षेत्रीय मंच"
         }
       ],
+      "correctAnswer": 1,
       "explanation": {
-        "en": "A massive 'Red Line' march took place in Amsterdam, bringing the Dutch city to a standstill as citizens protested their government's stance and response to Israel's war in Gaza.",
-        "hi": "एम्स्टर्डम में एक विशाल 'रेड लाइन' मार्च हुआ, जिसने डच शहर को ठप कर दिया क्योंकि नागरिकों ने गाजा में इज़राइल के युद्ध के प्रति अपनी सरकार के रुख और प्रतिक्रिया का विरोध किया।"
+        "en": "Bengaluru, Karnataka is set to host the first meeting of the Commonwealth Women Parliamentarians' regional unit, highlighting India's active role in international legislative forums.",
+        "hi": "बेंगलुरु, कर्नाटक राष्ट्रमंडल महिला सांसदों की क्षेत्रीय इकाई की पहली बैठक की मेजबानी करने के लिए तैयार है, जो अंतरराष्ट्रीय विधायी मंचों पर भारत की सक्रिय भूमिका पर प्रकाश डालेगी।"
       },
       "category": "International Summits",
       "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/europe/massive-amsterdam-march-challenges-dutch-governments-response-to-israels-war-in-gaza/articleshow/135665602.cms",
-      "correctAnswer": 1
+      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/bengaluru-to-host-first-meet-of-commonwealth-women-parliamentariansregional-unit/article71683726.ece"
     },
     {
-      "id": "ca_20261109_07",
+      "id": "ca_20261110_04",
       "question": {
-        "en": "Which major global company's CEO, Jensen Huang, recently admitted to an affair, prompting the board to order a national security review regarding potential espionage links?",
-        "hi": "किस प्रमुख वैश्विक कंपनी के सीईओ, जेन्सेन हुआंग ने हाल ही में एक संबंध स्वीकार किया है, जिसके कारण बोर्ड ने संभावित जासूसी संबंधों के संबंध में राष्ट्रीय सुरक्षा समीक्षा का आदेश दिया है?"
+        "en": "The Karnataka High Court recently issued guidelines to BMRCL (Bengaluru Metro) regarding which specific issue?",
+        "hi": "कर्नाटक उच्च न्यायालय ने हाल ही में किस विशिष्ट मुद्दे के संबंध में बीएमआरसीएल (बेंगलुरु मेट्रो) को दिशानिर्देश जारी किए?"
       },
       "options": [
         {
-          "en": "Intel",
-          "hi": "इंटेल"
+          "en": "Environmental clearance for underground routes",
+          "hi": "भूमिगत मार्गों के लिए पर्यावरण मंजूरी"
         },
         {
-          "en": "AMD",
-          "hi": "एएमडी"
+          "en": "Ticketing price caps",
+          "hi": "टिकटिंग मूल्य सीमा"
         },
         {
-          "en": "Nvidia",
-          "hi": "एनवीडिया"
+          "en": "Labor wages for construction workers",
+          "hi": "निर्माण श्रमिकों के लिए श्रम मजदूरी"
         },
         {
-          "en": "Qualcomm",
-          "hi": "क्वालकॉम"
+          "en": "Access to remaining portions of acquired properties",
+          "hi": "अर्जित संपत्तियों के शेष हिस्सों तक पहुंच"
         }
       ],
+      "correctAnswer": 3,
       "explanation": {
-        "en": "Nvidia CEO Jensen Huang admitted to an affair with Alice Huang of Megaspeed. Nvidia's board ordered an independent investigation over potential national security risks tied to Megaspeed's rumored links with Chinese espionage.",
-        "hi": "एनवीडिया के सीईओ जेन्सेन हुआंग ने मेगास्पीड की एलिस हुआंग के साथ अफेयर की बात स्वीकार की है। चीनी जासूसी के साथ मेगास्पीड के अफवाह वाले संबंधों से जुड़े संभावित राष्ट्रीय सुरक्षा जोखिमों पर एनवीडिया के बोर्ड ने एक स्वतंत्र जांच का आदेश दिया।"
+        "en": "The Karnataka High Court issued guidelines to BMRCL for ensuring access to the remaining portion of properties acquired for the metro project, declaring some provisions of the Way Leave Policy unconstitutional.",
+        "hi": "कर्नाटक उच्च न्यायालय ने वे लीव पॉलिसी के कुछ प्रावधानों को असंवैधानिक घोषित करते हुए मेट्रो परियोजना के लिए अर्जित संपत्तियों के शेष हिस्से तक पहुंच सुनिश्चित करने के लिए बीएमआरसीएल को दिशानिर्देश जारी किए।"
       },
-      "category": "Science & Technology",
+      "category": "Polity & Governance",
       "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/nvidia-ceo-jensen-huang-admits-affair-with-singapore-based-companys-ceo-read-his-email-to-nvidias-employees/articleshow/135665758.cms",
-      "correctAnswer": 2
+      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/karnataka-high-court-issues-guidelines-to-bmrcl-for-ensuring-access-to-remaining-portion-of-properties-acquired-for-metro-project/article71683078.ece"
     },
     {
-      "id": "ca_20261109_08",
+      "id": "ca_20261110_05",
       "question": {
-        "en": "In which country did a recent collision with a stationary train leave 7 dead and over 125 injured?",
-        "hi": "हाल ही में किस देश में एक खड़ी ट्रेन से टकराने से 7 लोगों की मौत हो गई और 125 से अधिक घायल हो गए?"
+        "en": "Which state's Single-Window Clearance Committee recently approved 147 projects worth ₹6,826 crore?",
+        "hi": "हाल ही में किस राज्य की एकल-खिड़की मंजूरी समिति ने ₹6,826 करोड़ की 147 परियोजनाओं को मंजूरी दी है?"
       },
       "options": [
         {
-          "en": "Turkey",
-          "hi": "तुर्की"
+          "en": "Tamil Nadu",
+          "hi": "तमिलनाडु"
         },
         {
-          "en": "Egypt",
-          "hi": "मिस्र"
+          "en": "Gujarat",
+          "hi": "Gujarat"
         },
         {
-          "en": "India",
-          "hi": "भारत"
+          "en": "Maharashtra",
+          "hi": "महाराष्ट्र"
         },
         {
-          "en": "Iran",
-          "hi": "ईरान"
+          "en": "Karnataka",
+          "hi": "Karnataka"
         }
       ],
+      "correctAnswer": 3,
       "explanation": {
-        "en": "A tragic train crash occurred in Egypt when a moving train collided with a stationary train, resulting in 7 fatalities and injuring 125 people.",
-        "hi": "मिस्र में एक दर्दनाक ट्रेन दुर्घटना हुई जब एक चलती ट्रेन एक खड़ी ट्रेन से टकरा गई, जिसके परिणामस्वरूप 7 लोगों की मौत हो गई और 125 लोग घायल हो गए।"
+        "en": "The Karnataka Single-Window Clearance Committee approved 147 industrial projects worth ₹6,826 crore. Industries Minister M.B. Patil stated that 131 of these projects will be established outside Bengaluru.",
+        "hi": "कर्नाटक सिंगल-विंडो क्लीयरेंस कमेटी ने ₹6,826 करोड़ की 147 औद्योगिक परियोजनाओं को मंजूरी दी।उद्योग मंत्री एम.बी.पाटिल ने कहा कि इनमें से 131 परियोजनाएं बेंगलुरु के बाहर स्थापित की जाएंगी।"
       },
-      "category": "International Summits",
-      "difficulty": "easy",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/rest-of-world/egypt-train-crash-how-a-collision-with-a-stationary-train-left-7-dead-125-injured/articleshow/135665810.cms",
-      "correctAnswer": 1
-    },
-    {
-      "id": "ca_20261109_09",
-      "question": {
-        "en": "Following midterm election victories, Democrats in the US have ramped up their push for the impeachment of which political figure?",
-        "hi": "मध्यावधि चुनाव में जीत के बाद, अमेरिका में डेमोक्रेट्स ने किस राजनीतिक व्यक्ति पर महाभियोग चलाने के लिए अपना दबाव बढ़ा दिया है?"
-      },
-      "options": [
-        {
-          "en": "DeSantis",
-          "hi": "डेसांटिस"
-        },
-        {
-          "en": "McCarthy",
-          "hi": "मैकार्थी"
-        },
-        {
-          "en": "Hegseth",
-          "hi": "हेगसेथ"
-        },
-        {
-          "en": "Trump",
-          "hi": "ट्रम्प"
-        }
-      ],
-      "explanation": {
-        "en": "Emboldened by their victories in the midterm elections, Democrats in the United States have intensified their push to impeach Hegseth.",
-        "hi": "मध्यावधि चुनावों में अपनी जीत से उत्साहित होकर, संयुक्त राज्य अमेरिका में डेमोक्रेट्स ने हेगसेथ पर महाभियोग चलाने के अपने प्रयास तेज कर दिए हैं।"
-      },
-      "category": "International Summits",
+      "category": "Economy & Banking",
       "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/democrats-turn-up-heat-on-hegseth-vow-impeachment-push-after-midterm-victories/articleshow/135665925.cms",
-      "correctAnswer": 2
+      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/karnataka-single-window-clearance-committee-approves-147-projects-worth-6826-cr/article71683474.ece"
     },
     {
-      "id": "ca_20261109_10",
+      "id": "ca_20261110_06",
       "question": {
-        "en": "US President Donald Trump recently stated that fresh strikes on which nation are 'highly unlikely' if they sign a 'strong agreement'?",
-        "hi": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्प ने हाल ही में कहा है कि यदि वे 'मजबूत समझौते' पर हस्ताक्षर करते हैं तो किस देश पर नए हमले 'अत्यधिक असंभव' हैं?"
+        "en": "The Andhra Pradesh government has offered a one-time option for CPS employees to shift to which pension system?",
+        "hi": "आंध्र प्रदेश सरकार ने सीपीएस कर्मचारियों को किस पेंशन प्रणाली में स्थानांतरित होने के लिए एकमुश्त विकल्प की पेशकश की है?"
       },
       "options": [
         {
-          "en": "China",
-          "hi": "चीन"
+          "en": "Unified Pension Scheme",
+          "hi": "एकीकृत पेंशन योजना"
         },
         {
-          "en": "Iran",
-          "hi": "ईरान"
+          "en": "Atal Pension Yojana",
+          "hi": "अटल पेंशन योजना"
         },
         {
-          "en": "Russia",
-          "hi": "रूस"
+          "en": "Old Pension Scheme",
+          "hi": "पुरानी पेंशन योजना"
         },
         {
-          "en": "North Korea",
-          "hi": "उत्तर कोरिया"
+          "en": "National Pension System",
+          "hi": "राष्ट्रीय पेंशन प्रणाली"
         }
       ],
+      "correctAnswer": 2,
       "explanation": {
-        "en": "Donald Trump stated that fresh strikes against Iran are 'highly unlikely', provided Tehran agrees to sign a strong new agreement.",
-        "hi": "डोनाल्ड ट्रम्प ने कहा कि ईरान के खिलाफ नए हमलों की संभावना 'अत्यधिक असंभव' है, बशर्ते तेहरान एक मजबूत नए समझौते पर हस्ताक्षर करने के लिए सहमत हो।"
+        "en": "The Andhra Pradesh government offered a one-time option to Contributory Pension Scheme (CPS) employees whose recruitment process commenced before September 1, 2004, to shift to the Old Pension Scheme (OPS).",
+        "hi": "आंध्र प्रदेश सरकार ने अंशदायी पेंशन योजना (सीपीएस) कर्मचारियों को, जिनकी भर्ती प्रक्रिया 1 सितंबर 2004 से पहले शुरू हुई थी, पुरानी पेंशन योजना (ओपीएस) में स्थानांतरित करने के लिए एक बार का विकल्प पेश किया।"
+      },
+      "category": "Government Schemes",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-govt-offers-one-time-option-to-cps-employees-to-shift-to-old-pension-scheme/article71683379.ece"
+    },
+    {
+      "id": "ca_20261110_07",
+      "question": {
+        "en": "Which state's Chief Minister recently sought to phase out ₹500 and high-value banknotes to curb corruption?",
+        "hi": "हाल ही में किस राज्य के मुख्यमंत्री ने भ्रष्टाचार पर अंकुश लगाने के लिए ₹500 और उच्च मूल्य के बैंक नोटों को चरणबद्ध तरीके से बंद करने की मांग की?"
+      },
+      "options": [
+        {
+          "en": "Andhra Pradesh",
+          "hi": "आंध्र प्रदेश"
+        },
+        {
+          "en": "Karnataka",
+          "hi": "Karnataka"
+        },
+        {
+          "en": "Telangana",
+          "hi": "तेलंगाना"
+        },
+        {
+          "en": "Kerala",
+          "hi": "केरल"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "Andhra Pradesh Chief Minister N Chandrababu Naidu advocated for phasing out ₹500 and other high-value banknotes to combat corruption and promote digital transactions.",
+        "hi": "आंध्र प्रदेश के मुख्यमंत्री एन चंद्रबाबू नायडू ने भ्रष्टाचार से निपटने और डिजिटल लेनदेन को बढ़ावा देने के लिए ₹500 और अन्य उच्च मूल्य के बैंक नोटों को चरणबद्ध तरीके से चलन से बाहर करने की वकालत की।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/scrap-rs-500-notes-cm-naidu-seeks-to-phase-out-big-currency-to-curb-corruption/articleshow/135685736.cms"
+    },
+    {
+      "id": "ca_20261110_08",
+      "question": {
+        "en": "Which state recently launched 'Operation Toofan', resulting in over 15,700 arrests under the Anti-Social Activities Act?",
+        "hi": "हाल ही में किस राज्य ने 'ऑपरेशन तूफान' शुरू किया, जिसके परिणामस्वरूप असामाजिक गतिविधि अधिनियम के तहत 15,700 से अधिक गिरफ्तारियां हुईं?"
+      },
+      "options": [
+        {
+          "en": "Assam",
+          "hi": "असम"
+        },
+        {
+          "en": "West Bengal",
+          "hi": "पश्चिम बंगाल"
+        },
+        {
+          "en": "Uttar Pradesh",
+          "hi": "Uttar Pradesh"
+        },
+        {
+          "en": "Kerala",
+          "hi": "केरल"
+        }
+      ],
+      "correctAnswer": 3,
+      "explanation": {
+        "en": "Kerala's Home Minister announced that over 15,700 individuals were arrested in 'Operation Toofan', with many booked under the Kerala Anti-Social Activities (Prevention) Act (KAAPA).",
+        "hi": "केरल के गृह मंत्री ने घोषणा की कि 'ऑपरेशन तूफ़ान' में 15,700 से अधिक व्यक्तियों को गिरफ्तार किया गया, जिनमें से कई पर केरल असामाजिक गतिविधियाँ (रोकथाम) अधिनियम (KAAPA) के तहत मामला दर्ज किया गया।"
       },
       "category": "Defence & Security",
-      "difficulty": "easy",
-      "sourceUrl": "https://timesofindia.indiatimes.com/world/middle-east/theyre-a-failing-nation-trump-says-fresh-iran-strikes-highly-unlikely-if-tehran-signs-strong-agreement/articleshow/135664914.cms",
-      "correctAnswer": 1
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/news/national/kerala/over-15700-arrested-in-operation-toofan-says-keralam-home-minister/article71683444.ece"
+    },
+    {
+      "id": "ca_20261110_09",
+      "question": {
+        "en": "The Enforcement Directorate (ED) recently attached properties in Kashmir for the misuse of which central scheme?",
+        "hi": "प्रवर्तन निदेशालय (ईडी) ने हाल ही में किस केंद्रीय योजना के दुरुपयोग के लिए कश्मीर में संपत्तियों को कुर्क किया है?"
+      },
+      "options": [
+        {
+          "en": "PM Employment Generation Programme (PMEGP)",
+          "hi": "प्रधानमंत्री रोजगार सृजन कार्यक्रम (पीएमईजीपी)"
+        },
+        {
+          "en": "PM Kisan Samman Nidhi",
+          "hi": "PM Kisan Samman Nidhi"
+        },
+        {
+          "en": "MGNREGA",
+          "hi": "एमजीएनआरईजीए"
+        },
+        {
+          "en": "Ayushman Bharat",
+          "hi": "Ayushman Bharat"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "The Enforcement Directorate attached properties in Kashmir investigating the misappropriation of loans under the Prime Minister's Employment Generation Programme (PMEGP) involving J&K Bank branches.",
+        "hi": "प्रवर्तन निदेशालय ने प्रधानमंत्री रोजगार सृजन कार्यक्रम (पीएमईजीपी) के तहत जम्मू-कश्मीर बैंक की शाखाओं से जुड़े ऋणों के दुरुपयोग की जांच करते हुए कश्मीर में संपत्तियों को कुर्क किया है।"
+      },
+      "category": "Government Schemes",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/news/national/jammu-and-kashmir/ed-attaches-properties-in-kashmir-in-misuse-of-pm-employment-generation-programme-scheme-case/article71683744.ece"
+    },
+    {
+      "id": "ca_20261110_10",
+      "question": {
+        "en": "According to Telangana Chief Minister Revanth Reddy, the state is paying ₹80,000 crore annually for debts left behind by which previous ruling party leader?",
+        "hi": "तेलंगाना के मुख्यमंत्री रेवंत रेड्डी के अनुसार, राज्य पिछले सत्तारूढ़ दल के किस नेता द्वारा छोड़े गए कर्ज के लिए सालाना ₹80,000 करोड़ का भुगतान कर रहा है?"
+      },
+      "options": [
+        {
+          "en": "Y.S. Jagan Mohan Reddy",
+          "hi": "वाई.एस.जगन मोहन रेड्डी"
+        },
+        {
+          "en": "N. Chandrababu Naidu",
+          "hi": "एन. चंद्रबाबू नायडू"
+        },
+        {
+          "en": "N. Kiran Kumar Reddy",
+          "hi": "एन किरण कुमार रेड्डी"
+        },
+        {
+          "en": "K. Chandrashekar Rao",
+          "hi": "K. Chandrashekar Rao"
+        }
+      ],
+      "correctAnswer": 3,
+      "explanation": {
+        "en": "Telangana Chief Minister Revanth Reddy claimed the Congress government is paying ₹80,000 crore per year for debts accumulated during the previous administration led by K. Chandrashekar Rao (KCR).",
+        "hi": "तेलंगाना के मुख्यमंत्री रेवंत रेड्डी ने दावा किया कि कांग्रेस सरकार के.चंद्रशेखर राव (केसीआर) के नेतृत्व वाले पिछले प्रशासन के दौरान जमा हुए कर्ज के लिए प्रति वर्ष ₹80,000 करोड़ का भुगतान कर रही है।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "medium",
+      "sourceUrl": "https://www.thehindu.com/news/national/telangana/congress-government-paying-80000-crore-per-year-for-debts-left-behind-by-kcr-revanth/article71683710.ece"
     }
   ]
 }
