@@ -1,340 +1,340 @@
 {
-  "date": "2026-11-10",
+  "date": "2026-11-11",
   "topic": "SSC CGL Daily Current Affairs",
-  "source": "The Hindu / Times of India",
-  "lastUpdated": "2026-11-10T05:30:00+05:30",
+  "source": "PIB / The Hindu / Economic Times / Indian Express / GKToday",
+  "lastUpdated": "2026-11-11T05:06:36+05:30",
   "version": 1,
   "totalQuestions": 10,
   "quiz": [
     {
-      "id": "ca_20261110_01",
+      "id": "ca_20261111_01",
       "question": {
-        "en": "Which state's Wayanad conservationist N. Badusha recently won the KFBC environmental award?",
-        "hi": "किस राज्य के वायनाड संरक्षणवादी एन. बदुशा ने हाल ही में KFBC पर्यावरण पुरस्कार जीता?"
+        "en": "The Supreme Court recently stated that a person has no claim in their grandfather's property if it is held by whom?",
+        "hi": "सुप्रीम कोर्ट ने हाल ही में कहा है कि यदि दादा की संपत्ति किसके पास है तो किसी व्यक्ति का उस पर कोई दावा नहीं है?"
       },
       "options": [
         {
-          "en": "Kerala",
-          "hi": "केरल"
+          "en": "Mother",
+          "hi": "माँ"
         },
         {
-          "en": "Karnataka",
-          "hi": "Karnataka"
+          "en": "Father",
+          "hi": "पिता"
         },
         {
-          "en": "Tamil Nadu",
-          "hi": "तमिलनाडु"
+          "en": "Uncle",
+          "hi": "चाचा"
         },
         {
-          "en": "Andhra Pradesh",
-          "hi": "आंध्र प्रदेश"
+          "en": "Grandmother",
+          "hi": "दादी"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The Supreme Court ruled that a person has no claim in their grandfather's property if it is held by their father.",
+        "hi": "सुप्रीम कोर्ट ने फैसला सुनाया कि यदि दादा की संपत्ति पिता के पास है तो किसी व्यक्ति का उस पर कोई दावा नहीं है।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/person-has-no-claim-in-grandpas-property-held-by-dad-says-sc/articleshow/135719078.cms"
+    },
+    {
+      "id": "ca_20261111_02",
+      "question": {
+        "en": "According to a recent UNESCO report, which demographic group is ahead in higher education but faces challenges due to a rural-urban gap in schooling?",
+        "hi": "हालिया यूनेस्को (UNESCO) रिपोर्ट के अनुसार, कौन सा जनसांख्यिकीय समूह उच्च शिक्षा में आगे है लेकिन स्कूली शिक्षा में ग्रामीण-शहरी अंतर के कारण चुनौतियों का सामना कर रहा है?"
+      },
+      "options": [
+        {
+          "en": "Women",
+          "hi": "महिलाएँ"
+        },
+        {
+          "en": "Tribal students",
+          "hi": "आदिवासी छात्र"
+        },
+        {
+          "en": "Senior citizens",
+          "hi": "वरिष्ठ नागरिक"
+        },
+        {
+          "en": "Minorities",
+          "hi": "अल्पसंख्यक"
         }
       ],
       "correctAnswer": 0,
       "explanation": {
-        "en": "Conservationist N. Badusha from Wayanad, Kerala won the KFBC environmental award, instituted in memory of Kamarudeen. This award carries a cash prize of ₹25,000.",
-        "hi": "वायनाड, केरल के संरक्षणवादी एन. बदुशा ने कमरुद्दीन की स्मृति में स्थापित केएफबीसी पर्यावरण पुरस्कार जीता।इस पुरस्कार में ₹25,000 का नकद पुरस्कार दिया जाता है।"
-      },
-      "category": "Awards & Honours",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.thehindu.com/news/national/kerala/wayanad-conservationist-n-badusha-wins-kfbc-environmental-award/article71683095.ece"
-    },
-    {
-      "id": "ca_20261110_02",
-      "question": {
-        "en": "Which state recently established a High-Level Committee on Union-State Relations, defended by Chief Minister M.K. Stalin?",
-        "hi": "हाल ही में किस राज्य ने केंद्र-राज्य संबंधों पर एक उच्च-स्तरीय समिति की स्थापना की, जिसका बचाव मुख्यमंत्री एम.के. ने किया?स्टालिन?"
-      },
-      "options": [
-        {
-          "en": "Andhra Pradesh",
-          "hi": "आंध्र प्रदेश"
-        },
-        {
-          "en": "Tamil Nadu",
-          "hi": "तमिलनाडु"
-        },
-        {
-          "en": "Karnataka",
-          "hi": "Karnataka"
-        },
-        {
-          "en": "Kerala",
-          "hi": "केरल"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "Tamil Nadu Chief Minister M.K. Stalin defended the High-Level Committee on Union-State Relations, stating its ideas and contribution cannot be disbanded despite overlaps with the State Law Commission.",
-        "hi": "तमिलनाडु के मुख्यमंत्री एम.के.स्टालिन ने संघ-राज्य संबंधों पर उच्च-स्तरीय समिति का बचाव करते हुए कहा कि राज्य विधि आयोग के साथ ओवरलैप होने के बावजूद इसके विचारों और योगदान को भंग नहीं किया जा सकता है।"
-      },
-      "category": "Polity & Governance",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.thehindu.com/news/national/tamil-nadu/government-can-disband-the-union-state-relations-committee-but-not-its-ideas-and-contribution-says-mk-stalin/article71683716.ece"
-    },
-    {
-      "id": "ca_20261110_03",
-      "question": {
-        "en": "Bengaluru is set to host the first meeting of which international body's regional unit?",
-        "hi": "बेंगलुरु किस अंतर्राष्ट्रीय निकाय की क्षेत्रीय इकाई की पहली बैठक की मेजबानी करने के लिए तैयार है?"
-      },
-      "options": [
-        {
-          "en": "G20 Women Leaders",
-          "hi": "G20 महिला नेता"
-        },
-        {
-          "en": "Commonwealth Women Parliamentarians",
-          "hi": "राष्ट्रमंडल महिला सांसद"
-        },
-        {
-          "en": "BRICS Youth Summit",
-          "hi": "ब्रिक्स युवा शिखर सम्मेलन"
-        },
-        {
-          "en": "ASEAN Regional Forum",
-          "hi": "आसियान क्षेत्रीय मंच"
-        }
-      ],
-      "correctAnswer": 1,
-      "explanation": {
-        "en": "Bengaluru, Karnataka is set to host the first meeting of the Commonwealth Women Parliamentarians' regional unit, highlighting India's active role in international legislative forums.",
-        "hi": "बेंगलुरु, कर्नाटक राष्ट्रमंडल महिला सांसदों की क्षेत्रीय इकाई की पहली बैठक की मेजबानी करने के लिए तैयार है, जो अंतरराष्ट्रीय विधायी मंचों पर भारत की सक्रिय भूमिका पर प्रकाश डालेगी।"
-      },
-      "category": "International Summits",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/bengaluru-to-host-first-meet-of-commonwealth-women-parliamentariansregional-unit/article71683726.ece"
-    },
-    {
-      "id": "ca_20261110_04",
-      "question": {
-        "en": "The Karnataka High Court recently issued guidelines to BMRCL (Bengaluru Metro) regarding which specific issue?",
-        "hi": "कर्नाटक उच्च न्यायालय ने हाल ही में किस विशिष्ट मुद्दे के संबंध में बीएमआरसीएल (बेंगलुरु मेट्रो) को दिशानिर्देश जारी किए?"
-      },
-      "options": [
-        {
-          "en": "Environmental clearance for underground routes",
-          "hi": "भूमिगत मार्गों के लिए पर्यावरण मंजूरी"
-        },
-        {
-          "en": "Ticketing price caps",
-          "hi": "टिकटिंग मूल्य सीमा"
-        },
-        {
-          "en": "Labor wages for construction workers",
-          "hi": "निर्माण श्रमिकों के लिए श्रम मजदूरी"
-        },
-        {
-          "en": "Access to remaining portions of acquired properties",
-          "hi": "अर्जित संपत्तियों के शेष हिस्सों तक पहुंच"
-        }
-      ],
-      "correctAnswer": 3,
-      "explanation": {
-        "en": "The Karnataka High Court issued guidelines to BMRCL for ensuring access to the remaining portion of properties acquired for the metro project, declaring some provisions of the Way Leave Policy unconstitutional.",
-        "hi": "कर्नाटक उच्च न्यायालय ने वे लीव पॉलिसी के कुछ प्रावधानों को असंवैधानिक घोषित करते हुए मेट्रो परियोजना के लिए अर्जित संपत्तियों के शेष हिस्से तक पहुंच सुनिश्चित करने के लिए बीएमआरसीएल को दिशानिर्देश जारी किए।"
-      },
-      "category": "Polity & Governance",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/karnataka-high-court-issues-guidelines-to-bmrcl-for-ensuring-access-to-remaining-portion-of-properties-acquired-for-metro-project/article71683078.ece"
-    },
-    {
-      "id": "ca_20261110_05",
-      "question": {
-        "en": "Which state's Single-Window Clearance Committee recently approved 147 projects worth ₹6,826 crore?",
-        "hi": "हाल ही में किस राज्य की एकल-खिड़की मंजूरी समिति ने ₹6,826 करोड़ की 147 परियोजनाओं को मंजूरी दी है?"
-      },
-      "options": [
-        {
-          "en": "Tamil Nadu",
-          "hi": "तमिलनाडु"
-        },
-        {
-          "en": "Gujarat",
-          "hi": "Gujarat"
-        },
-        {
-          "en": "Maharashtra",
-          "hi": "महाराष्ट्र"
-        },
-        {
-          "en": "Karnataka",
-          "hi": "Karnataka"
-        }
-      ],
-      "correctAnswer": 3,
-      "explanation": {
-        "en": "The Karnataka Single-Window Clearance Committee approved 147 industrial projects worth ₹6,826 crore. Industries Minister M.B. Patil stated that 131 of these projects will be established outside Bengaluru.",
-        "hi": "कर्नाटक सिंगल-विंडो क्लीयरेंस कमेटी ने ₹6,826 करोड़ की 147 औद्योगिक परियोजनाओं को मंजूरी दी।उद्योग मंत्री एम.बी.पाटिल ने कहा कि इनमें से 131 परियोजनाएं बेंगलुरु के बाहर स्थापित की जाएंगी।"
+        "en": "A UNESCO report highlighted that women are ahead in higher education in India, but the rural-urban gap significantly impacts schoolgirls.",
+        "hi": "यूनेस्को की एक रिपोर्ट में इस बात पर प्रकाश डाला गया है कि भारत में महिलाएँ उच्च शिक्षा में आगे हैं, लेकिन ग्रामीण-शहरी अंतर स्कूली छात्राओं को महत्वपूर्ण रूप से प्रभावित करता है।"
       },
       "category": "Economy & Banking",
       "difficulty": "medium",
-      "sourceUrl": "https://www.thehindu.com/news/national/karnataka/karnataka-single-window-clearance-committee-approves-147-projects-worth-6826-cr/article71683474.ece"
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/unesco-women-ahead-in-higher-edu-but-rural-urban-gap-hits-schoolgirls/articleshow/135719140.cms"
     },
     {
-      "id": "ca_20261110_06",
+      "id": "ca_20261111_03",
       "question": {
-        "en": "The Andhra Pradesh government has offered a one-time option for CPS employees to shift to which pension system?",
-        "hi": "आंध्र प्रदेश सरकार ने सीपीएस कर्मचारियों को किस पेंशन प्रणाली में स्थानांतरित होने के लिए एकमुश्त विकल्प की पेशकश की है?"
+        "en": "The Election Commission clarified that the Model Code of Conduct applies to which group of individuals in state jobs?",
+        "hi": "चुनाव आयोग ने स्पष्ट किया है कि आदर्श आचार संहिता राज्य की नौकरियों में व्यक्तियों के किस समूह पर लागू होती है?"
       },
       "options": [
         {
-          "en": "Unified Pension Scheme",
-          "hi": "एकीकृत पेंशन योजना"
+          "en": "Contractual teachers",
+          "hi": "संविदा शिक्षक"
         },
         {
-          "en": "Atal Pension Yojana",
-          "hi": "अटल पेंशन योजना"
+          "en": "Retired government officials",
+          "hi": "सेवानिवृत्त सरकारी अधिकारी"
         },
         {
-          "en": "Old Pension Scheme",
-          "hi": "पुरानी पेंशन योजना"
+          "en": "Private sector employees",
+          "hi": "निजी क्षेत्र के कर्मचारी"
         },
         {
-          "en": "National Pension System",
-          "hi": "राष्ट्रीय पेंशन प्रणाली"
+          "en": "Volunteers",
+          "hi": "स्वयंसेवक"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The Election Commission (EC) stated that the Model Code of Conduct applies to retired government officials who are currently employed in state jobs.",
+        "hi": "चुनाव आयोग (EC) ने कहा कि आदर्श आचार संहिता उन सेवानिवृत्त सरकारी अधिकारियों पर लागू होती है जो वर्तमान में राज्य की नौकरियों में कार्यरत हैं।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/ec-code-of-conduct-applies-to-retd-govt-officials-in-state-jobs/articleshow/135719206.cms"
+    },
+    {
+      "id": "ca_20261111_04",
+      "question": {
+        "en": "Which country recently issued court summons to India's NSA Ajit Doval and former RAW chief Samant Goel?",
+        "hi": "हाल ही में किस देश ने भारत के एनएसए (NSA) अजीत डोभाल और पूर्व रॉ (RAW) प्रमुख सामंत गोयल को अदालत का समन जारी किया है?"
+      },
+      "options": [
+        {
+          "en": "United States",
+          "hi": "संयुक्त राज्य अमेरिका"
+        },
+        {
+          "en": "Australia",
+          "hi": "ऑस्ट्रेलिया"
+        },
+        {
+          "en": "Canada",
+          "hi": "कनाडा"
+        },
+        {
+          "en": "United Kingdom",
+          "hi": "यूनाइटेड किंगडम"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "The United States issued a court summons to National Security Advisor Ajit Doval and former RAW chief Samant Goel, which the Ministry of External Affairs (MEA) slammed as based on fabricated claims.",
+        "hi": "संयुक्त राज्य अमेरिका ने राष्ट्रीय सुरक्षा सलाहकार अजीत डोभाल और पूर्व रॉ प्रमुख सामंत गोयल को अदालत का समन जारी किया, जिसकी विदेश मंत्रालय (MEA) ने मनगढ़ंत दावों पर आधारित होने के रूप में आलोचना की।"
+      },
+      "category": "International Summits",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/mea-slams-us-court-summons-to-doval-raw-ex-chief-goel/articleshow/135719702.cms"
+    },
+    {
+      "id": "ca_20261111_05",
+      "question": {
+        "en": "A recent study found that being underweight combined with which health condition can be a significant problem?",
+        "hi": "एक हालिया अध्ययन में पाया गया कि किस स्वास्थ्य स्थिति के साथ कम वजन होना एक महत्वपूर्ण समस्या हो सकती है?"
+      },
+      "options": [
+        {
+          "en": "Cholesterol",
+          "hi": "कोलेस्ट्रॉल"
+        },
+        {
+          "en": "High Blood Pressure",
+          "hi": "उच्च रक्तचाप"
+        },
+        {
+          "en": "Asthma",
+          "hi": "दमा"
+        },
+        {
+          "en": "Diabetes",
+          "hi": "मधुमेह"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "A new study indicates that being underweight while also suffering from high blood pressure (BP) can pose significant health risks.",
+        "hi": "एक नए अध्ययन से संकेत मिलता है कि उच्च रक्तचाप (बीपी) से पीड़ित होने के साथ-साथ कम वजन होना महत्वपूर्ण स्वास्थ्य जोखिम पैदा कर सकता है।"
+      },
+      "category": "Science & Technology",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/being-underweight-with-high-bp-can-be-a-problem-too-study/articleshow/135719248.cms"
+    },
+    {
+      "id": "ca_20261111_06",
+      "question": {
+        "en": "Which Indian state reported that 80% of its pollution on a recent Monday was due to firecrackers?",
+        "hi": "किस भारतीय राज्य/केंद्र शासित प्रदेश ने बताया कि हाल ही में सोमवार को उसका 80% प्रदूषण पटाखों के कारण हुआ था?"
+      },
+      "options": [
+        {
+          "en": "Uttar Pradesh",
+          "hi": "उत्तर प्रदेश"
+        },
+        {
+          "en": "Haryana",
+          "hi": "हरियाणा"
+        },
+        {
+          "en": "Delhi",
+          "hi": "दिल्ली"
+        },
+        {
+          "en": "Punjab",
+          "hi": "पंजाब"
         }
       ],
       "correctAnswer": 2,
       "explanation": {
-        "en": "The Andhra Pradesh government offered a one-time option to Contributory Pension Scheme (CPS) employees whose recruitment process commenced before September 1, 2004, to shift to the Old Pension Scheme (OPS).",
-        "hi": "आंध्र प्रदेश सरकार ने अंशदायी पेंशन योजना (सीपीएस) कर्मचारियों को, जिनकी भर्ती प्रक्रिया 1 सितंबर 2004 से पहले शुरू हुई थी, पुरानी पेंशन योजना (ओपीएस) में स्थानांतरित करने के लिए एक बार का विकल्प पेश किया।"
+        "en": "Reports indicated that 80% of Delhi's pollution on a particular Monday was attributed to the bursting of firecrackers.",
+        "hi": "रिपोर्टों से संकेत मिलता है कि एक विशेष सोमवार को दिल्ली का 80% प्रदूषण पटाखे फोड़ने के कारण हुआ था।"
       },
-      "category": "Government Schemes",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-govt-offers-one-time-option-to-cps-employees-to-shift-to-old-pension-scheme/article71683379.ece"
+      "category": "Environment & Ecology",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/80-of-delhis-pollution-monday-due-to-crackers/articleshow/135721614.cms"
     },
     {
-      "id": "ca_20261110_07",
+      "id": "ca_20261111_07",
       "question": {
-        "en": "Which state's Chief Minister recently sought to phase out ₹500 and high-value banknotes to curb corruption?",
-        "hi": "हाल ही में किस राज्य के मुख्यमंत्री ने भ्रष्टाचार पर अंकुश लगाने के लिए ₹500 और उच्च मूल्य के बैंक नोटों को चरणबद्ध तरीके से बंद करने की मांग की?"
+        "en": "Recently, the Indian government made operational provisions for foreign investment in which sector from space-related activities?",
+        "hi": "हाल ही में, भारत सरकार ने अंतरिक्ष से संबंधित गतिविधियों से किस क्षेत्र में विदेशी निवेश के लिए परिचालन प्रावधान किए हैं?"
       },
       "options": [
         {
-          "en": "Andhra Pradesh",
-          "hi": "आंध्र प्रदेश"
+          "en": "Launch Vehicles",
+          "hi": "प्रक्षेपण यान"
         },
         {
-          "en": "Karnataka",
-          "hi": "Karnataka"
+          "en": "Space Tourism",
+          "hi": "अंतरिक्ष पर्यटन"
         },
         {
-          "en": "Telangana",
-          "hi": "तेलंगाना"
+          "en": "Satellite Manufacturing",
+          "hi": "उपग्रह विनिर्माण"
         },
         {
-          "en": "Kerala",
-          "hi": "केरल"
+          "en": "Lunar Exploration",
+          "hi": "चंद्र अन्वेषण"
         }
       ],
-      "correctAnswer": 0,
+      "correctAnswer": 2,
       "explanation": {
-        "en": "Andhra Pradesh Chief Minister N Chandrababu Naidu advocated for phasing out ₹500 and other high-value banknotes to combat corruption and promote digital transactions.",
-        "hi": "आंध्र प्रदेश के मुख्यमंत्री एन चंद्रबाबू नायडू ने भ्रष्टाचार से निपटने और डिजिटल लेनदेन को बढ़ावा देने के लिए ₹500 और अन्य उच्च मूल्य के बैंक नोटों को चरणबद्ध तरीके से चलन से बाहर करने की वकालत की।"
+        "en": "The government has recently allowed Foreign Direct Investment (FDI) in the space sector, operationalizing provisions specifically focusing on satellite manufacturing and related activities under the amended FDI policy.",
+        "hi": "सरकार ने हाल ही में संशोधित एफडीआई (FDI) नीति के तहत विशेष रूप से उपग्रह विनिर्माण और संबंधित गतिविधियों पर ध्यान केंद्रित करने वाले प्रावधानों को चालू करते हुए अंतरिक्ष क्षेत्र में प्रत्यक्ष विदेशी निवेश (FDI) की अनुमति दी है।"
       },
       "category": "Economy & Banking",
       "difficulty": "medium",
-      "sourceUrl": "https://timesofindia.indiatimes.com/india/scrap-rs-500-notes-cm-naidu-seeks-to-phase-out-big-currency-to-curb-corruption/articleshow/135685736.cms"
+      "sourceUrl": "https://pib.gov.in/PressReleasePage.aspx?PRID=2015091"
     },
     {
-      "id": "ca_20261110_08",
+      "id": "ca_20261111_08",
       "question": {
-        "en": "Which state recently launched 'Operation Toofan', resulting in over 15,700 arrests under the Anti-Social Activities Act?",
-        "hi": "हाल ही में किस राज्य ने 'ऑपरेशन तूफान' शुरू किया, जिसके परिणामस्वरूप असामाजिक गतिविधि अधिनियम के तहत 15,700 से अधिक गिरफ्तारियां हुईं?"
+        "en": "The Union Cabinet recently approved the 'Pradhan Mantri Surya Ghar: Muft Bijli Yojana' with a total outlay of how much?",
+        "hi": "केंद्रीय मंत्रिमंडल ने हाल ही में कितने कुल परिव्यय के साथ 'प्रधानमंत्री सूर्य घर: मुफ्त बिजली योजना' को मंजूरी दी है?"
       },
       "options": [
         {
-          "en": "Assam",
-          "hi": "असम"
+          "en": "₹ 50,021 crore",
+          "hi": "₹ 50,021 करोड़"
         },
         {
-          "en": "West Bengal",
-          "hi": "पश्चिम बंगाल"
+          "en": "₹ 1,25,000 crore",
+          "hi": "₹ 1,25,000 करोड़"
         },
         {
-          "en": "Uttar Pradesh",
-          "hi": "Uttar Pradesh"
+          "en": "₹ 75,021 crore",
+          "hi": "₹ 75,021 करोड़"
         },
         {
-          "en": "Kerala",
-          "hi": "केरल"
+          "en": "₹ 1,00,000 crore",
+          "hi": "₹ 1,00,000 करोड़"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The Union Cabinet chaired by PM Modi approved the PM-Surya Ghar: Muft Bijli Yojana with a total outlay of ₹ 75,021 crore for installing rooftop solar and providing free electricity up to 300 units every month for One Crore households.",
+        "hi": "पीएम मोदी की अध्यक्षता में केंद्रीय मंत्रिमंडल ने एक करोड़ घरों के लिए छत पर सौर ऊर्जा स्थापित करने और हर महीने 300 यूनिट तक मुफ्त बिजली प्रदान करने के लिए ₹ 75,021 करोड़ के कुल परिव्यय के साथ पीएम-सूर्य घर: मुफ्त बिजली योजना को मंजूरी दी।"
+      },
+      "category": "Government Schemes",
+      "difficulty": "medium",
+      "sourceUrl": "https://pib.gov.in/PressReleasePage.aspx?PRID=2010162"
+    },
+    {
+      "id": "ca_20261111_09",
+      "question": {
+        "en": "Which country did India recently conduct the joint military exercise 'DHARMA GUARDIAN' with?",
+        "hi": "हाल ही में भारत ने किस देश के साथ संयुक्त सैन्य अभ्यास 'धर्म गार्जियन' (DHARMA GUARDIAN) आयोजित किया?"
+      },
+      "options": [
+        {
+          "en": "France",
+          "hi": "फ्रांस"
+        },
+        {
+          "en": "Australia",
+          "hi": "ऑस्ट्रेलिया"
+        },
+        {
+          "en": "USA",
+          "hi": "यूएसए"
+        },
+        {
+          "en": "Japan",
+          "hi": "जापान"
         }
       ],
       "correctAnswer": 3,
       "explanation": {
-        "en": "Kerala's Home Minister announced that over 15,700 individuals were arrested in 'Operation Toofan', with many booked under the Kerala Anti-Social Activities (Prevention) Act (KAAPA).",
-        "hi": "केरल के गृह मंत्री ने घोषणा की कि 'ऑपरेशन तूफ़ान' में 15,700 से अधिक व्यक्तियों को गिरफ्तार किया गया, जिनमें से कई पर केरल असामाजिक गतिविधियाँ (रोकथाम) अधिनियम (KAAPA) के तहत मामला दर्ज किया गया।"
+        "en": "The 5th edition of Joint Military Exercise 'DHARMA GUARDIAN' between the Indian Army and the Japan Ground Self Defence Force commenced at Mahajan Field Firing Ranges in Rajasthan.",
+        "hi": "भारतीय सेना और जापान ग्राउंड सेल्फ डिफेंस फोर्स के बीच संयुक्त सैन्य अभ्यास 'धर्म गार्जियन' का 5वां संस्करण राजस्थान के महाजन फील्ड फायरिंग रेंज में शुरू हुआ।"
       },
       "category": "Defence & Security",
       "difficulty": "medium",
-      "sourceUrl": "https://www.thehindu.com/news/national/kerala/over-15700-arrested-in-operation-toofan-says-keralam-home-minister/article71683444.ece"
+      "sourceUrl": "https://pib.gov.in/PressReleasePage.aspx?PRID=2008891"
     },
     {
-      "id": "ca_20261110_09",
+      "id": "ca_20261111_10",
       "question": {
-        "en": "The Enforcement Directorate (ED) recently attached properties in Kashmir for the misuse of which central scheme?",
-        "hi": "प्रवर्तन निदेशालय (ईडी) ने हाल ही में किस केंद्रीय योजना के दुरुपयोग के लिए कश्मीर में संपत्तियों को कुर्क किया है?"
+        "en": "What is the name of the new digital platform launched by the Election Commission of India for voters to track their applications and election details?",
+        "hi": "भारत के चुनाव आयोग द्वारा मतदाताओं को उनके आवेदनों और चुनाव विवरणों को ट्रैक करने के लिए लॉन्च किए गए नए डिजिटल प्लेटफॉर्म का नाम क्या है?"
       },
       "options": [
         {
-          "en": "PM Employment Generation Programme (PMEGP)",
-          "hi": "प्रधानमंत्री रोजगार सृजन कार्यक्रम (पीएमईजीपी)"
+          "en": "ECI Suvidha",
+          "hi": "ईसीआई सुविधा"
         },
         {
-          "en": "PM Kisan Samman Nidhi",
-          "hi": "PM Kisan Samman Nidhi"
+          "en": "Voter Helpline App",
+          "hi": "वोटर हेल्पलाइन ऐप"
         },
         {
-          "en": "MGNREGA",
-          "hi": "एमजीएनआरईजीए"
+          "en": "Garuda App",
+          "hi": "गरुड़ ऐप"
         },
         {
-          "en": "Ayushman Bharat",
-          "hi": "Ayushman Bharat"
-        }
-      ],
-      "correctAnswer": 0,
-      "explanation": {
-        "en": "The Enforcement Directorate attached properties in Kashmir investigating the misappropriation of loans under the Prime Minister's Employment Generation Programme (PMEGP) involving J&K Bank branches.",
-        "hi": "प्रवर्तन निदेशालय ने प्रधानमंत्री रोजगार सृजन कार्यक्रम (पीएमईजीपी) के तहत जम्मू-कश्मीर बैंक की शाखाओं से जुड़े ऋणों के दुरुपयोग की जांच करते हुए कश्मीर में संपत्तियों को कुर्क किया है।"
-      },
-      "category": "Government Schemes",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.thehindu.com/news/national/jammu-and-kashmir/ed-attaches-properties-in-kashmir-in-misuse-of-pm-employment-generation-programme-scheme-case/article71683744.ece"
-    },
-    {
-      "id": "ca_20261110_10",
-      "question": {
-        "en": "According to Telangana Chief Minister Revanth Reddy, the state is paying ₹80,000 crore annually for debts left behind by which previous ruling party leader?",
-        "hi": "तेलंगाना के मुख्यमंत्री रेवंत रेड्डी के अनुसार, राज्य पिछले सत्तारूढ़ दल के किस नेता द्वारा छोड़े गए कर्ज के लिए सालाना ₹80,000 करोड़ का भुगतान कर रहा है?"
-      },
-      "options": [
-        {
-          "en": "Y.S. Jagan Mohan Reddy",
-          "hi": "वाई.एस.जगन मोहन रेड्डी"
-        },
-        {
-          "en": "N. Chandrababu Naidu",
-          "hi": "एन. चंद्रबाबू नायडू"
-        },
-        {
-          "en": "N. Kiran Kumar Reddy",
-          "hi": "एन किरण कुमार रेड्डी"
-        },
-        {
-          "en": "K. Chandrashekar Rao",
-          "hi": "K. Chandrashekar Rao"
+          "en": "Voters' Services Portal",
+          "hi": "मतदाता सेवा पोर्टल"
         }
       ],
       "correctAnswer": 3,
       "explanation": {
-        "en": "Telangana Chief Minister Revanth Reddy claimed the Congress government is paying ₹80,000 crore per year for debts accumulated during the previous administration led by K. Chandrashekar Rao (KCR).",
-        "hi": "तेलंगाना के मुख्यमंत्री रेवंत रेड्डी ने दावा किया कि कांग्रेस सरकार के.चंद्रशेखर राव (केसीआर) के नेतृत्व वाले पिछले प्रशासन के दौरान जमा हुए कर्ज के लिए प्रति वर्ष ₹80,000 करोड़ का भुगतान कर रही है।"
+        "en": "The Election Commission of India (ECI) upgraded its digital services through the 'Voters' Services Portal' (voters.eci.gov.in) which provides seamless services like registration, application tracking, and more.",
+        "hi": "भारत के चुनाव आयोग (ECI) ने 'मतदाता सेवा पोर्टल' (voters.eci.gov.in) के माध्यम से अपनी डिजिटल सेवाओं को अपग्रेड किया है जो पंजीकरण, एप्लिकेशन ट्रैकिंग और अन्य जैसी निर्बाध सेवाएं प्रदान करता है।"
       },
-      "category": "Economy & Banking",
-      "difficulty": "medium",
-      "sourceUrl": "https://www.thehindu.com/news/national/telangana/congress-government-paying-80000-crore-per-year-for-debts-left-behind-by-kcr-revanth/article71683710.ece"
+      "category": "Polity & Governance",
+      "difficulty": "easy",
+      "sourceUrl": "https://pib.gov.in/PressReleasePage.aspx?PRID=1999252"
     }
   ]
 }
