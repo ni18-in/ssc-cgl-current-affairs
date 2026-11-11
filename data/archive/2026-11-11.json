@@ -1,0 +1,340 @@
+{
+  "date": "2026-11-11",
+  "topic": "SSC CGL Daily Current Affairs",
+  "source": "PIB / The Hindu / Economic Times / Indian Express / GKToday",
+  "lastUpdated": "2026-11-11T05:06:36+05:30",
+  "version": 1,
+  "totalQuestions": 10,
+  "quiz": [
+    {
+      "id": "ca_20261111_01",
+      "question": {
+        "en": "The Supreme Court recently stated that a person has no claim in their grandfather's property if it is held by whom?",
+        "hi": "सुप्रीम कोर्ट ने हाल ही में कहा है कि यदि दादा की संपत्ति किसके पास है तो किसी व्यक्ति का उस पर कोई दावा नहीं है?"
+      },
+      "options": [
+        {
+          "en": "Mother",
+          "hi": "माँ"
+        },
+        {
+          "en": "Father",
+          "hi": "पिता"
+        },
+        {
+          "en": "Uncle",
+          "hi": "चाचा"
+        },
+        {
+          "en": "Grandmother",
+          "hi": "दादी"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The Supreme Court ruled that a person has no claim in their grandfather's property if it is held by their father.",
+        "hi": "सुप्रीम कोर्ट ने फैसला सुनाया कि यदि दादा की संपत्ति पिता के पास है तो किसी व्यक्ति का उस पर कोई दावा नहीं है।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/person-has-no-claim-in-grandpas-property-held-by-dad-says-sc/articleshow/135719078.cms"
+    },
+    {
+      "id": "ca_20261111_02",
+      "question": {
+        "en": "According to a recent UNESCO report, which demographic group is ahead in higher education but faces challenges due to a rural-urban gap in schooling?",
+        "hi": "हालिया यूनेस्को (UNESCO) रिपोर्ट के अनुसार, कौन सा जनसांख्यिकीय समूह उच्च शिक्षा में आगे है लेकिन स्कूली शिक्षा में ग्रामीण-शहरी अंतर के कारण चुनौतियों का सामना कर रहा है?"
+      },
+      "options": [
+        {
+          "en": "Women",
+          "hi": "महिलाएँ"
+        },
+        {
+          "en": "Tribal students",
+          "hi": "आदिवासी छात्र"
+        },
+        {
+          "en": "Senior citizens",
+          "hi": "वरिष्ठ नागरिक"
+        },
+        {
+          "en": "Minorities",
+          "hi": "अल्पसंख्यक"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "A UNESCO report highlighted that women are ahead in higher education in India, but the rural-urban gap significantly impacts schoolgirls.",
+        "hi": "यूनेस्को की एक रिपोर्ट में इस बात पर प्रकाश डाला गया है कि भारत में महिलाएँ उच्च शिक्षा में आगे हैं, लेकिन ग्रामीण-शहरी अंतर स्कूली छात्राओं को महत्वपूर्ण रूप से प्रभावित करता है।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/unesco-women-ahead-in-higher-edu-but-rural-urban-gap-hits-schoolgirls/articleshow/135719140.cms"
+    },
+    {
+      "id": "ca_20261111_03",
+      "question": {
+        "en": "The Election Commission clarified that the Model Code of Conduct applies to which group of individuals in state jobs?",
+        "hi": "चुनाव आयोग ने स्पष्ट किया है कि आदर्श आचार संहिता राज्य की नौकरियों में व्यक्तियों के किस समूह पर लागू होती है?"
+      },
+      "options": [
+        {
+          "en": "Contractual teachers",
+          "hi": "संविदा शिक्षक"
+        },
+        {
+          "en": "Retired government officials",
+          "hi": "सेवानिवृत्त सरकारी अधिकारी"
+        },
+        {
+          "en": "Private sector employees",
+          "hi": "निजी क्षेत्र के कर्मचारी"
+        },
+        {
+          "en": "Volunteers",
+          "hi": "स्वयंसेवक"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The Election Commission (EC) stated that the Model Code of Conduct applies to retired government officials who are currently employed in state jobs.",
+        "hi": "चुनाव आयोग (EC) ने कहा कि आदर्श आचार संहिता उन सेवानिवृत्त सरकारी अधिकारियों पर लागू होती है जो वर्तमान में राज्य की नौकरियों में कार्यरत हैं।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/ec-code-of-conduct-applies-to-retd-govt-officials-in-state-jobs/articleshow/135719206.cms"
+    },
+    {
+      "id": "ca_20261111_04",
+      "question": {
+        "en": "Which country recently issued court summons to India's NSA Ajit Doval and former RAW chief Samant Goel?",
+        "hi": "हाल ही में किस देश ने भारत के एनएसए (NSA) अजीत डोभाल और पूर्व रॉ (RAW) प्रमुख सामंत गोयल को अदालत का समन जारी किया है?"
+      },
+      "options": [
+        {
+          "en": "United States",
+          "hi": "संयुक्त राज्य अमेरिका"
+        },
+        {
+          "en": "Australia",
+          "hi": "ऑस्ट्रेलिया"
+        },
+        {
+          "en": "Canada",
+          "hi": "कनाडा"
+        },
+        {
+          "en": "United Kingdom",
+          "hi": "यूनाइटेड किंगडम"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "The United States issued a court summons to National Security Advisor Ajit Doval and former RAW chief Samant Goel, which the Ministry of External Affairs (MEA) slammed as based on fabricated claims.",
+        "hi": "संयुक्त राज्य अमेरिका ने राष्ट्रीय सुरक्षा सलाहकार अजीत डोभाल और पूर्व रॉ प्रमुख सामंत गोयल को अदालत का समन जारी किया, जिसकी विदेश मंत्रालय (MEA) ने मनगढ़ंत दावों पर आधारित होने के रूप में आलोचना की।"
+      },
+      "category": "International Summits",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/mea-slams-us-court-summons-to-doval-raw-ex-chief-goel/articleshow/135719702.cms"
+    },
+    {
+      "id": "ca_20261111_05",
+      "question": {
+        "en": "A recent study found that being underweight combined with which health condition can be a significant problem?",
+        "hi": "एक हालिया अध्ययन में पाया गया कि किस स्वास्थ्य स्थिति के साथ कम वजन होना एक महत्वपूर्ण समस्या हो सकती है?"
+      },
+      "options": [
+        {
+          "en": "Cholesterol",
+          "hi": "कोलेस्ट्रॉल"
+        },
+        {
+          "en": "High Blood Pressure",
+          "hi": "उच्च रक्तचाप"
+        },
+        {
+          "en": "Asthma",
+          "hi": "दमा"
+        },
+        {
+          "en": "Diabetes",
+          "hi": "मधुमेह"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "A new study indicates that being underweight while also suffering from high blood pressure (BP) can pose significant health risks.",
+        "hi": "एक नए अध्ययन से संकेत मिलता है कि उच्च रक्तचाप (बीपी) से पीड़ित होने के साथ-साथ कम वजन होना महत्वपूर्ण स्वास्थ्य जोखिम पैदा कर सकता है।"
+      },
+      "category": "Science & Technology",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/being-underweight-with-high-bp-can-be-a-problem-too-study/articleshow/135719248.cms"
+    },
+    {
+      "id": "ca_20261111_06",
+      "question": {
+        "en": "Which Indian state reported that 80% of its pollution on a recent Monday was due to firecrackers?",
+        "hi": "किस भारतीय राज्य/केंद्र शासित प्रदेश ने बताया कि हाल ही में सोमवार को उसका 80% प्रदूषण पटाखों के कारण हुआ था?"
+      },
+      "options": [
+        {
+          "en": "Uttar Pradesh",
+          "hi": "उत्तर प्रदेश"
+        },
+        {
+          "en": "Haryana",
+          "hi": "हरियाणा"
+        },
+        {
+          "en": "Delhi",
+          "hi": "दिल्ली"
+        },
+        {
+          "en": "Punjab",
+          "hi": "पंजाब"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Reports indicated that 80% of Delhi's pollution on a particular Monday was attributed to the bursting of firecrackers.",
+        "hi": "रिपोर्टों से संकेत मिलता है कि एक विशेष सोमवार को दिल्ली का 80% प्रदूषण पटाखे फोड़ने के कारण हुआ था।"
+      },
+      "category": "Environment & Ecology",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/80-of-delhis-pollution-monday-due-to-crackers/articleshow/135721614.cms"
+    },
+    {
+      "id": "ca_20261111_07",
+      "question": {
+        "en": "Recently, the Indian government made operational provisions for foreign investment in which sector from space-related activities?",
+        "hi": "हाल ही में, भारत सरकार ने अंतरिक्ष से संबंधित गतिविधियों से किस क्षेत्र में विदेशी निवेश के लिए परिचालन प्रावधान किए हैं?"
+      },
+      "options": [
+        {
+          "en": "Launch Vehicles",
+          "hi": "प्रक्षेपण यान"
+        },
+        {
+          "en": "Space Tourism",
+          "hi": "अंतरिक्ष पर्यटन"
+        },
+        {
+          "en": "Satellite Manufacturing",
+          "hi": "उपग्रह विनिर्माण"
+        },
+        {
+          "en": "Lunar Exploration",
+          "hi": "चंद्र अन्वेषण"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The government has recently allowed Foreign Direct Investment (FDI) in the space sector, operationalizing provisions specifically focusing on satellite manufacturing and related activities under the amended FDI policy.",
+        "hi": "सरकार ने हाल ही में संशोधित एफडीआई (FDI) नीति के तहत विशेष रूप से उपग्रह विनिर्माण और संबंधित गतिविधियों पर ध्यान केंद्रित करने वाले प्रावधानों को चालू करते हुए अंतरिक्ष क्षेत्र में प्रत्यक्ष विदेशी निवेश (FDI) की अनुमति दी है।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "medium",
+      "sourceUrl": "https://pib.gov.in/PressReleasePage.aspx?PRID=2015091"
+    },
+    {
+      "id": "ca_20261111_08",
+      "question": {
+        "en": "The Union Cabinet recently approved the 'Pradhan Mantri Surya Ghar: Muft Bijli Yojana' with a total outlay of how much?",
+        "hi": "केंद्रीय मंत्रिमंडल ने हाल ही में कितने कुल परिव्यय के साथ 'प्रधानमंत्री सूर्य घर: मुफ्त बिजली योजना' को मंजूरी दी है?"
+      },
+      "options": [
+        {
+          "en": "₹ 50,021 crore",
+          "hi": "₹ 50,021 करोड़"
+        },
+        {
+          "en": "₹ 1,25,000 crore",
+          "hi": "₹ 1,25,000 करोड़"
+        },
+        {
+          "en": "₹ 75,021 crore",
+          "hi": "₹ 75,021 करोड़"
+        },
+        {
+          "en": "₹ 1,00,000 crore",
+          "hi": "₹ 1,00,000 करोड़"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The Union Cabinet chaired by PM Modi approved the PM-Surya Ghar: Muft Bijli Yojana with a total outlay of ₹ 75,021 crore for installing rooftop solar and providing free electricity up to 300 units every month for One Crore households.",
+        "hi": "पीएम मोदी की अध्यक्षता में केंद्रीय मंत्रिमंडल ने एक करोड़ घरों के लिए छत पर सौर ऊर्जा स्थापित करने और हर महीने 300 यूनिट तक मुफ्त बिजली प्रदान करने के लिए ₹ 75,021 करोड़ के कुल परिव्यय के साथ पीएम-सूर्य घर: मुफ्त बिजली योजना को मंजूरी दी।"
+      },
+      "category": "Government Schemes",
+      "difficulty": "medium",
+      "sourceUrl": "https://pib.gov.in/PressReleasePage.aspx?PRID=2010162"
+    },
+    {
+      "id": "ca_20261111_09",
+      "question": {
+        "en": "Which country did India recently conduct the joint military exercise 'DHARMA GUARDIAN' with?",
+        "hi": "हाल ही में भारत ने किस देश के साथ संयुक्त सैन्य अभ्यास 'धर्म गार्जियन' (DHARMA GUARDIAN) आयोजित किया?"
+      },
+      "options": [
+        {
+          "en": "France",
+          "hi": "फ्रांस"
+        },
+        {
+          "en": "Australia",
+          "hi": "ऑस्ट्रेलिया"
+        },
+        {
+          "en": "USA",
+          "hi": "यूएसए"
+        },
+        {
+          "en": "Japan",
+          "hi": "जापान"
+        }
+      ],
+      "correctAnswer": 3,
+      "explanation": {
+        "en": "The 5th edition of Joint Military Exercise 'DHARMA GUARDIAN' between the Indian Army and the Japan Ground Self Defence Force commenced at Mahajan Field Firing Ranges in Rajasthan.",
+        "hi": "भारतीय सेना और जापान ग्राउंड सेल्फ डिफेंस फोर्स के बीच संयुक्त सैन्य अभ्यास 'धर्म गार्जियन' का 5वां संस्करण राजस्थान के महाजन फील्ड फायरिंग रेंज में शुरू हुआ।"
+      },
+      "category": "Defence & Security",
+      "difficulty": "medium",
+      "sourceUrl": "https://pib.gov.in/PressReleasePage.aspx?PRID=2008891"
+    },
+    {
+      "id": "ca_20261111_10",
+      "question": {
+        "en": "What is the name of the new digital platform launched by the Election Commission of India for voters to track their applications and election details?",
+        "hi": "भारत के चुनाव आयोग द्वारा मतदाताओं को उनके आवेदनों और चुनाव विवरणों को ट्रैक करने के लिए लॉन्च किए गए नए डिजिटल प्लेटफॉर्म का नाम क्या है?"
+      },
+      "options": [
+        {
+          "en": "ECI Suvidha",
+          "hi": "ईसीआई सुविधा"
+        },
+        {
+          "en": "Voter Helpline App",
+          "hi": "वोटर हेल्पलाइन ऐप"
+        },
+        {
+          "en": "Garuda App",
+          "hi": "गरुड़ ऐप"
+        },
+        {
+          "en": "Voters' Services Portal",
+          "hi": "मतदाता सेवा पोर्टल"
+        }
+      ],
+      "correctAnswer": 3,
+      "explanation": {
+        "en": "The Election Commission of India (ECI) upgraded its digital services through the 'Voters' Services Portal' (voters.eci.gov.in) which provides seamless services like registration, application tracking, and more.",
+        "hi": "भारत के चुनाव आयोग (ECI) ने 'मतदाता सेवा पोर्टल' (voters.eci.gov.in) के माध्यम से अपनी डिजिटल सेवाओं को अपग्रेड किया है जो पंजीकरण, एप्लिकेशन ट्रैकिंग और अन्य जैसी निर्बाध सेवाएं प्रदान करता है।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "easy",
+      "sourceUrl": "https://pib.gov.in/PressReleasePage.aspx?PRID=1999252"
+    }
+  ]
+}
