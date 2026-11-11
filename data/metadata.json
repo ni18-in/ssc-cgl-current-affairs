@@ -1,10 +1,11 @@
 {
   "appConfig": {
     "maxArchiveDays": 30,
-    "forceUpdateAfter": "2026-11-12T06:00:00+05:30",
+    "forceUpdateAfter": "2026-11-13T06:00:00+05:30",
     "currentAffairsTopicId": "current_affairs"
   },
   "availableDates": [
+    "2026-11-12",
     "2026-11-11",
     "2026-11-10",
     "2026-11-09",
@@ -33,12 +34,11 @@
     "2026-10-17",
     "2026-10-16",
     "2026-10-15",
-    "2026-10-14",
-    "2026-10-13"
+    "2026-10-14"
   ],
   "dateRange": {
-    "earliest": "2026-10-13",
-    "latest": "2026-11-11"
+    "earliest": "2026-10-14",
+    "latest": "2026-11-12"
   },
   "totalArchivedQuizzes": 30,
   "lastUpdated": "2026-11-11T05:07:05+05:30"
