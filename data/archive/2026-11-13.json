@@ -1,0 +1,340 @@
+{
+  "date": "2026-11-13",
+  "topic": "SSC CGL Daily Current Affairs",
+  "source": "Times of India",
+  "lastUpdated": "2026-11-13T06:30:00+05:30",
+  "version": 1,
+  "totalQuestions": 10,
+  "quiz": [
+    {
+      "id": "ca_20261113_01",
+      "question": {
+        "en": "Which Indian shooter recently secured an LA 2028 Olympic quota by winning a bronze at the World Championships?",
+        "hi": "हाल ही में किस भारतीय निशानेबाज ने विश्व चैंपियनशिप में कांस्य पदक जीतकर LA 2028 ओलंपिक कोटा हासिल किया?"
+      },
+      "options": [
+        {
+          "en": "Manu Bhaker",
+          "hi": "मनु भाकर"
+        },
+        {
+          "en": "Saurabh Chaudhary",
+          "hi": "सौरभ चौधरी"
+        },
+        {
+          "en": "Niraj Kumar",
+          "hi": "नीरज कुमार"
+        },
+        {
+          "en": "Abhinav Bindra",
+          "hi": "अभिनव बिंद्रा"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Niraj Kumar scripted history by winning a bronze medal at the World Championships, securing a quota for the LA 2028 Olympics. This highlights India's growing prowess in competitive shooting.",
+        "hi": "नीरज कुमार ने विश्व चैंपियनशिप में कांस्य पदक जीतकर एलए 2028 ओलंपिक के लिए कोटा हासिल करके इतिहास रचा।यह प्रतिस्पर्धी निशानेबाजी में भारत की बढ़ती ताकत को उजागर करता है।"
+      },
+      "category": "Sports",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/sports/more-sports/shooting/niraj-kumar-scripts-history-with-world-championships-bronze-secures-la-2028-olympic-quota/articleshow/135737606.cms"
+    },
+    {
+      "id": "ca_20261113_02",
+      "question": {
+        "en": "The Election Commission of India (ECI) recently rejected claims of vote-count discrepancies related to which elections?",
+        "hi": "भारत के चुनाव आयोग (ECI) ने हाल ही में किस चुनाव से संबंधित मतगणना विसंगतियों के दावों को खारिज कर दिया?"
+      },
+      "options": [
+        {
+          "en": "2022 Presidential Elections",
+          "hi": "2022 राष्ट्रपति चुनाव"
+        },
+        {
+          "en": "2024 Lok Sabha Polls",
+          "hi": "2024 लोकसभा चुनाव"
+        },
+        {
+          "en": "2024 Rajya Sabha Elections",
+          "hi": "2024 राज्यसभा चुनाव"
+        },
+        {
+          "en": "2023 State Assembly Elections",
+          "hi": "2023 राज्य विधानसभा चुनाव"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The ECI termed claims of vote-count discrepancies in the 2024 Lok Sabha polls as 'misleading'. The Election Commission of India is an autonomous constitutional authority responsible for administering election processes in India at national and state levels, established under Article 324 of the Constitution.",
+        "hi": "ईसीआई ने 2024 के लोकसभा चुनावों में वोटों की गिनती में विसंगतियों के दावों को 'भ्रामक' करार दिया।भारत का चुनाव आयोग एक स्वायत्त संवैधानिक प्राधिकरण है जो भारत में राष्ट्रीय और राज्य स्तर पर चुनाव प्रक्रियाओं के प्रशासन के लिए जिम्मेदार है, जिसे संविधान के अनुच्छेद 324 के तहत स्थापित किया गया है।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/misleading-election-commission-rejects-claims-of-vote-count-discrepancies-in-2024-polls/articleshow/135740694.cms"
+    },
+    {
+      "id": "ca_20261113_03",
+      "question": {
+        "en": "Abhishek Awasthi, who recently became the mayor of an Australian city, originally hails from which Indian state?",
+        "hi": "अभिषेक अवस्थी, जो हाल ही में एक ऑस्ट्रेलियाई शहर के मेयर बने हैं, मूल रूप से किस भारतीय राज्य से हैं?"
+      },
+      "options": [
+        {
+          "en": "Himachal Pradesh",
+          "hi": "हिमाचल प्रदेश"
+        },
+        {
+          "en": "Gujarat",
+          "hi": "गुजरात"
+        },
+        {
+          "en": "Kerala",
+          "hi": "केरल"
+        },
+        {
+          "en": "Punjab",
+          "hi": "पंजाब"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "Abhishek Awasthi, a native of Himachal Pradesh who moved to Australia in 2008 for higher education, became the first Indian-origin mayor of an Australian city.",
+        "hi": "हिमाचल प्रदेश के मूल निवासी अभिषेक अवस्थी, जो उच्च शिक्षा के लिए 2008 में ऑस्ट्रेलिया चले गए, किसी ऑस्ट्रेलियाई शहर के पहले भारतीय मूल के मेयर बने।"
+      },
+      "category": "Appointments & Commissions",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/life-style/people/he-moved-from-himachal-pradesh-to-australia-in-2008-to-pursue-higher-education-worked-part-time-while-studying-meet-abhishek-awasthi-who-became-the-first-indian-origin-mayor-of-this-australian-city/articleshow/135731543.cms"
+    },
+    {
+      "id": "ca_20261113_04",
+      "question": {
+        "en": "Which organization recently launched the 'Aditya-L1' mission, India's first space-based observatory to study the Sun?",
+        "hi": "हाल ही में किस संगठन ने सूर्य का अध्ययन करने के लिए भारत की पहली अंतरिक्ष-आधारित वेधशाला 'आदित्य-एल1' मिशन लॉन्च किया?"
+      },
+      "options": [
+        {
+          "en": "ISRO",
+          "hi": "इसरो"
+        },
+        {
+          "en": "DRDO",
+          "hi": "डीआरडीओ"
+        },
+        {
+          "en": "BARC",
+          "hi": "बीएआरसी"
+        },
+        {
+          "en": "HAL",
+          "hi": "एचएएल"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "The Indian Space Research Organisation (ISRO) successfully launched the Aditya-L1 mission to study the solar atmosphere. It marks a significant milestone in India's space program.",
+        "hi": "भारतीय अंतरिक्ष अनुसंधान संगठन (इसरो) ने सौर वायुमंडल का अध्ययन करने के लिए आदित्य-एल1 मिशन को सफलतापूर्वक लॉन्च किया। यह भारत के अंतरिक्ष कार्यक्रम में एक महत्वपूर्ण मील का पत्थर है।"
+      },
+      "category": "Science & Technology",
+      "difficulty": "medium",
+      "sourceUrl": "https://pib.gov.in/"
+    },
+    {
+      "id": "ca_20261113_05",
+      "question": {
+        "en": "Leaders from which region recently made an 'SOS' call to the President, PM, and HM for poll deferment?",
+        "hi": "हाल ही में किस क्षेत्र के नेताओं ने चुनाव टालने के लिए राष्ट्रपति, प्रधानमंत्री और गृह मंत्री को 'एसओएस' कॉल किया?"
+      },
+      "options": [
+        {
+          "en": "Andaman & Nicobar Islands",
+          "hi": "अंडमान और निकोबार द्वीप समूह"
+        },
+        {
+          "en": "Jammu & Kashmir",
+          "hi": "जम्मू एवं कश्मीर"
+        },
+        {
+          "en": "Ladakh",
+          "hi": "लद्दाख"
+        },
+        {
+          "en": "Lakshadweep",
+          "hi": "लक्षद्वीप"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Leaders from Ladakh, including climate activist Sonam Wangchuk, made an 'SOS' call to the President, Prime Minister, and Home Minister seeking a deferment of polls. Ladakh was established as a Union Territory without a legislature in 2019 following the Jammu and Kashmir Reorganisation Act.",
+        "hi": "जलवायु कार्यकर्ता सोनम वांगचुक सहित लद्दाख के नेताओं ने राष्ट्रपति, प्रधान मंत्री और गृह मंत्री को 'एसओएस' कॉल करके चुनाव टालने की मांग की।जम्मू और कश्मीर पुनर्गठन अधिनियम के बाद 2019 में लद्दाख को बिना विधानसभा के केंद्र शासित प्रदेश के रूप में स्थापित किया गया था।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "easy",
+      "sourceUrl": "https://timesofindia.indiatimes.com/india/sos-call-from-ladakh-leaders-wangchuk-to-president-pm-and-hm-for-poll-deferment/articleshow/135747013.cms"
+    },
+    {
+      "id": "ca_20261113_06",
+      "question": {
+        "en": "Which tech company recently ended visa sponsorships for most of its consultants, asking them to move abroad or quit by December?",
+        "hi": "हाल ही में किस टेक कंपनी ने अपने अधिकांश सलाहकारों के लिए वीज़ा प्रायोजन समाप्त कर दिया, और उन्हें दिसंबर तक विदेश जाने या छोड़ने के लिए कहा?"
+      },
+      "options": [
+        {
+          "en": "IBM",
+          "hi": "आईबीएम"
+        },
+        {
+          "en": "TCS",
+          "hi": "टीसीएस"
+        },
+        {
+          "en": "Accenture",
+          "hi": "एक्सेंचर"
+        },
+        {
+          "en": "Infosys",
+          "hi": "इंफोसिस"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "IBM informed visa holders in its 150,000-person consulting unit that it has opted to discontinue visa sponsorships, asking them to move abroad or leave by year-end. IBM is an American multinational technology corporation headquartered in Armonk, New York.",
+        "hi": "आईबीएम ने अपनी 150,000-व्यक्ति परामर्श इकाई में वीज़ा धारकों को सूचित किया कि उसने वीज़ा प्रायोजन बंद करने का विकल्प चुना है, और उन्हें विदेश जाने या साल के अंत तक छोड़ने के लिए कहा है।आईबीएम एक अमेरिकी बहुराष्ट्रीय प्रौद्योगिकी निगम है जिसका मुख्यालय अर्मोन्क, न्यूयॉर्क में है।"
+      },
+      "category": "Economy & Banking",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/ibm-tells-visa-holders-in-its-150000-people-consulting-unit-to-move-abroad-or-leave-by-year-end-company-says-we-have-opted-to-discontinue-/articleshow/135726102.cms"
+    },
+    {
+      "id": "ca_20261113_07",
+      "question": {
+        "en": "Which major railway station witnessed the derailment of 4 coaches of the Chauri Chaura Express recently?",
+        "hi": "हाल ही में किस प्रमुख रेलवे स्टेशन पर चौरी चौरा एक्सप्रेस के 4 डिब्बे पटरी से उतर गए?"
+      },
+      "options": [
+        {
+          "en": "New Delhi Railway Station",
+          "hi": "नई दिल्ली रेलवे स्टेशन"
+        },
+        {
+          "en": "Chhatrapati Shivaji Maharaj Terminus",
+          "hi": "छत्रपति शिवाजी महाराज टर्मिनस"
+        },
+        {
+          "en": "Howrah Junction",
+          "hi": "हावड़ा जंक्शन"
+        },
+        {
+          "en": "Kanpur Central",
+          "hi": "कानपुर सेंट्रल"
+        }
+      ],
+      "correctAnswer": 3,
+      "explanation": {
+        "en": "Four coaches of the Chauri Chaura Express derailed at the Kanpur Central station. The Indian Railways is a statutory body under the ownership of the Ministry of Railways, Government of India.",
+        "hi": "कानपुर सेंट्रल स्टेशन पर चौरी चौरा एक्सप्रेस के चार डिब्बे पटरी से उतर गए.भारतीय रेलवे भारत सरकार के रेल मंत्रालय के स्वामित्व में एक वैधानिक निकाय है।"
+      },
+      "category": "Polity & Governance",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/city/kanpur/3-coaches-of-chauri-chaura-express-derail-at-kanpur-central-station/articleshow/135737153.cms"
+    },
+    {
+      "id": "ca_20261113_08",
+      "question": {
+        "en": "What is the primary objective of the PM-Kisan Samman Nidhi Yojana launched by the Government of India?",
+        "hi": "भारत सरकार द्वारा शुरू की गई पीएम-किसान सम्मान निधि योजना का मुख्य उद्देश्य क्या है?"
+      },
+      "options": [
+        {
+          "en": "Providing financial support to farmers",
+          "hi": "किसानों को वित्तीय सहायता प्रदान करना"
+        },
+        {
+          "en": "Offering free healthcare to rural citizens",
+          "hi": "ग्रामीण नागरिकों को मुफ्त स्वास्थ्य सेवा प्रदान करना"
+        },
+        {
+          "en": "Promoting digital literacy in villages",
+          "hi": "गांवों में डिजिटल साक्षरता को बढ़ावा देना"
+        },
+        {
+          "en": "Building rural infrastructure",
+          "hi": "ग्रामीण बुनियादी ढांचे का निर्माण करना"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "PM-Kisan is a Central Sector scheme with 100% funding from the Government of India, which provides income support of ₹6,000 per year in three equal installments to small and marginal farmer families.",
+        "hi": "पीएम-किसान भारत सरकार द्वारा 100% वित्त पोषण वाली एक केंद्रीय क्षेत्र की योजना है, जो छोटे और सीमांत किसान परिवारों को तीन समान किस्तों में प्रति वर्ष ₹6,000 की आय सहायता प्रदान करती है।"
+      },
+      "category": "Government Schemes",
+      "difficulty": "hard",
+      "sourceUrl": "https://pib.gov.in/"
+    },
+    {
+      "id": "ca_20261113_09",
+      "question": {
+        "en": "The 'Vajra Prahar' joint military exercise is conducted between India and which other country?",
+        "hi": "'वज्र प्रहार' संयुक्त सैन्य अभ्यास भारत और किस अन्य देश के बीच आयोजित किया जाता है?"
+      },
+      "options": [
+        {
+          "en": "United States",
+          "hi": "संयुक्त राज्य अमेरिका"
+        },
+        {
+          "en": "Russia",
+          "hi": "रूस"
+        },
+        {
+          "en": "France",
+          "hi": "फ्रांस"
+        },
+        {
+          "en": "Japan",
+          "hi": "जापान"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "The joint Special Forces exercise 'Vajra Prahar' is conducted between the Special Forces of India and the United States, aiming to share best practices and experiences in areas such as joint mission planning and operational tactics.",
+        "hi": "संयुक्त विशेष बल अभ्यास 'वज्र प्रहार' भारत और संयुक्त राज्य अमेरिका के विशेष बलों के बीच आयोजित किया जाता है, जिसका उद्देश्य संयुक्त मिशन योजना और परिचालन रणनीति जैसे क्षेत्रों में सर्वोत्तम प्रथाओं और अनुभवों को साझा करना है।"
+      },
+      "category": "Defence & Security",
+      "difficulty": "medium",
+      "sourceUrl": "https://pib.gov.in/"
+    },
+    {
+      "id": "ca_20261113_10",
+      "question": {
+        "en": "Which former US President defended a potential war with Iran by stating 'America did not start this'?",
+        "hi": "किस पूर्व अमेरिकी राष्ट्रपति ने यह कहकर ईरान के साथ संभावित युद्ध का बचाव किया कि 'यह अमेरिका ने शुरू नहीं किया था'?"
+      },
+      "options": [
+        {
+          "en": "Donald Trump",
+          "hi": "डोनाल्ड ट्रंप"
+        },
+        {
+          "en": "Barack Obama",
+          "hi": "बराक ओबामा"
+        },
+        {
+          "en": "George W. Bush",
+          "hi": "जॉर्ज डब्ल्यू बुश"
+        },
+        {
+          "en": "Joe Biden",
+          "hi": "जो बिडेन"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "Former US President Donald Trump defended his administration's actions regarding Iran, stating 'America did not start this' amid escalating tensions.",
+        "hi": "अमेरिका के पूर्व राष्ट्रपति डोनाल्ड ट्रंप ने बढ़ते तनाव के बीच ईरान को लेकर अपने प्रशासन की कार्रवाई का बचाव करते हुए कहा कि 'अमेरिका ने इसकी शुरुआत नहीं की'."
+      },
+      "category": "International Summits",
+      "difficulty": "medium",
+      "sourceUrl": "https://timesofindia.indiatimes.com/world/us/america-did-not-start-this-trump-defends-war-with-iran/articleshow/135748401.cms"
+    }
+  ]
+}
