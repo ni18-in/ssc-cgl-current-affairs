@@ -1,13 +1,13 @@
 {
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "topic": "SSC CGL Daily Current Affairs",
   "source": "Times of India",
-  "lastUpdated": "2026-11-12T06:00:00+05:30",
+  "lastUpdated": "2026-11-13T06:30:00+05:30",
   "version": 1,
   "totalQuestions": 10,
   "quiz": [
     {
-      "id": "ca_20261112_01",
+      "id": "ca_20261113_01",
       "question": {
         "en": "Which Indian shooter recently secured an LA 2028 Olympic quota by winning a bronze at the World Championships?",
         "hi": "हाल ही में किस भारतीय निशानेबाज ने विश्व चैंपियनशिप में कांस्य पदक जीतकर LA 2028 ओलंपिक कोटा हासिल किया?"
@@ -40,7 +40,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/sports/more-sports/shooting/niraj-kumar-scripts-history-with-world-championships-bronze-secures-la-2028-olympic-quota/articleshow/135737606.cms"
     },
     {
-      "id": "ca_20261112_02",
+      "id": "ca_20261113_02",
       "question": {
         "en": "The Election Commission of India (ECI) recently rejected claims of vote-count discrepancies related to which elections?",
         "hi": "भारत के चुनाव आयोग (ECI) ने हाल ही में किस चुनाव से संबंधित मतगणना विसंगतियों के दावों को खारिज कर दिया?"
@@ -73,7 +73,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/india/misleading-election-commission-rejects-claims-of-vote-count-discrepancies-in-2024-polls/articleshow/135740694.cms"
     },
     {
-      "id": "ca_20261112_03",
+      "id": "ca_20261113_03",
       "question": {
         "en": "Abhishek Awasthi, who recently became the mayor of an Australian city, originally hails from which Indian state?",
         "hi": "अभिषेक अवस्थी, जो हाल ही में एक ऑस्ट्रेलियाई शहर के मेयर बने हैं, मूल रूप से किस भारतीय राज्य से हैं?"
@@ -106,7 +106,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/life-style/people/he-moved-from-himachal-pradesh-to-australia-in-2008-to-pursue-higher-education-worked-part-time-while-studying-meet-abhishek-awasthi-who-became-the-first-indian-origin-mayor-of-this-australian-city/articleshow/135731543.cms"
     },
     {
-      "id": "ca_20261112_04",
+      "id": "ca_20261113_04",
       "question": {
         "en": "Which organization recently launched the 'Aditya-L1' mission, India's first space-based observatory to study the Sun?",
         "hi": "हाल ही में किस संगठन ने सूर्य का अध्ययन करने के लिए भारत की पहली अंतरिक्ष-आधारित वेधशाला 'आदित्य-एल1' मिशन लॉन्च किया?"
@@ -139,7 +139,7 @@
       "sourceUrl": "https://pib.gov.in/"
     },
     {
-      "id": "ca_20261112_05",
+      "id": "ca_20261113_05",
       "question": {
         "en": "Leaders from which region recently made an 'SOS' call to the President, PM, and HM for poll deferment?",
         "hi": "हाल ही में किस क्षेत्र के नेताओं ने चुनाव टालने के लिए राष्ट्रपति, प्रधानमंत्री और गृह मंत्री को 'एसओएस' कॉल किया?"
@@ -172,7 +172,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/india/sos-call-from-ladakh-leaders-wangchuk-to-president-pm-and-hm-for-poll-deferment/articleshow/135747013.cms"
     },
     {
-      "id": "ca_20261112_06",
+      "id": "ca_20261113_06",
       "question": {
         "en": "Which tech company recently ended visa sponsorships for most of its consultants, asking them to move abroad or quit by December?",
         "hi": "हाल ही में किस टेक कंपनी ने अपने अधिकांश सलाहकारों के लिए वीज़ा प्रायोजन समाप्त कर दिया, और उन्हें दिसंबर तक विदेश जाने या छोड़ने के लिए कहा?"
@@ -205,7 +205,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/ibm-tells-visa-holders-in-its-150000-people-consulting-unit-to-move-abroad-or-leave-by-year-end-company-says-we-have-opted-to-discontinue-/articleshow/135726102.cms"
     },
     {
-      "id": "ca_20261112_07",
+      "id": "ca_20261113_07",
       "question": {
         "en": "Which major railway station witnessed the derailment of 4 coaches of the Chauri Chaura Express recently?",
         "hi": "हाल ही में किस प्रमुख रेलवे स्टेशन पर चौरी चौरा एक्सप्रेस के 4 डिब्बे पटरी से उतर गए?"
@@ -238,7 +238,7 @@
       "sourceUrl": "https://timesofindia.indiatimes.com/city/kanpur/3-coaches-of-chauri-chaura-express-derail-at-kanpur-central-station/articleshow/135737153.cms"
     },
     {
-      "id": "ca_20261112_08",
+      "id": "ca_20261113_08",
       "question": {
         "en": "What is the primary objective of the PM-Kisan Samman Nidhi Yojana launched by the Government of India?",
         "hi": "भारत सरकार द्वारा शुरू की गई पीएम-किसान सम्मान निधि योजना का मुख्य उद्देश्य क्या है?"
@@ -271,7 +271,7 @@
       "sourceUrl": "https://pib.gov.in/"
     },
     {
-      "id": "ca_20261112_09",
+      "id": "ca_20261113_09",
       "question": {
         "en": "The 'Vajra Prahar' joint military exercise is conducted between India and which other country?",
         "hi": "'वज्र प्रहार' संयुक्त सैन्य अभ्यास भारत और किस अन्य देश के बीच आयोजित किया जाता है?"
@@ -304,7 +304,7 @@
       "sourceUrl": "https://pib.gov.in/"
     },
     {
-      "id": "ca_20261112_10",
+      "id": "ca_20261113_10",
       "question": {
         "en": "Which former US President defended a potential war with Iran by stating 'America did not start this'?",
         "hi": "किस पूर्व अमेरिकी राष्ट्रपति ने यह कहकर ईरान के साथ संभावित युद्ध का बचाव किया कि 'यह अमेरिका ने शुरू नहीं किया था'?"
